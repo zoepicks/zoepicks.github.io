@@ -3,28 +3,43 @@
  "title": "Best Laptop Deals (Black Friday 2026)",
  "category": "computers_phones",
  "date": "Oct 15, 2026",
- "summary": "5 laptops worth buying on sale this Black Friday, with the October 2026 prices to beat.",
- "method": "Black Friday 2026 is Friday, November 27, and Cyber Monday is November 30, with many early sales already live. Picks come from current October 2026 deal roundups (TechRadar, GamesRadar, Memeburn) and 2026 buying guides, chosen to cover five different buyers: Mac, cheap Mac, budget Windows, 2-in-1 and gaming. Prices shown are the October 2026 deal prices as reported, at the retailer named. They change often and the retailer may not be Amazon, so treat each as a price to beat, not a promise. The Amazon buttons search for the model, so compare before you buy. A bigger advertised discount does not always mean a better deal. Compare against the lowest recent price, not the crossed-out one.",
- "assumptions": "no prices are guaranteed to be available on Black Friday itself. We will update this guide as real Black Friday deals go live.",
+ "summary": "5 laptops worth buying this Black Friday, why each one is worth it, and the October 2026 prices to beat.",
+ "intro": [
+  "Black Friday 2026 is on Friday, November 27, and Cyber Monday is November 30. Early sales are already live, but a big discount means little if the laptop is wrong for you. A cheap laptop that struggles with your daily work is not a deal.",
+  "We picked five laptops that cover five different buyers: a Mac for most people, a cheap Mac, a budget Windows laptop, a 2-in-1 and a gaming laptop. For each one you will see why it is worth buying, who should skip it, and what to check before you pay."
+ ],
+ "compare": true,
+ "method": "Picks come from 2026 hands-on reviews (Tom's Hardware, PCWorld, Tom's Guide, Digital Trends, Notebookcheck, MobileSyrup) and October 2026 deal roundups (TechRadar, GamesRadar, Memeburn). Prices shown are the deal prices those roundups reported on Oct 15, 2026, at the retailer named. They change often and the retailer may not be Amazon, so treat each as a price to beat, not a promise. The Amazon buttons search for the model, so compare the exact configuration before you buy.",
+ "assumptions": "no price is guaranteed on Black Friday itself. We will update this guide when real Black Friday deals go live.",
  "products": [
   {
    "name": "Apple MacBook Air 13-inch (M5)",
    "badge": "Best Mac to Buy",
+   "why": [
+    "The MacBook Air keeps the formula reviewers have recommended for years and makes it faster. It is fanless, so it stays silent, and it weighs about 2.7 pounds, which is easy to carry all day. The base model now starts with 16GB of memory and 512GB of storage, so you do not need to pay extra for a usable setup.",
+    "Tom's Hardware calls it still the best Mac laptop for most people. Digital Trends says you can stop worrying about performance and calls it one of the easiest laptop recommendations in years, especially if you are coming from an old Windows laptop or an Intel Mac."
+   ],
    "specs": [
-    "Apple M5 chip",
-    "13-inch and 15-inch sizes",
-    "Rated best overall laptop in several 2026 buying guides"
+    "Apple M5 chip, fanless design",
+    "13.6-inch Liquid Retina display, 2560 x 1664",
+    "16GB memory and 512GB storage in the base model",
+    "2 Thunderbolt 4 ports, MagSafe charging, headphone jack, Wi-Fi 7",
+    "Apple claims up to 18 hours of battery; Pickr saw 6 to 10 hours in daily use"
    ],
    "pros": [
-    "Silent, powerful performance",
-    "Top pick for students, office workers, programmers and travelers",
-    "Listed by Memeburn as the best MacBook to watch for Black Friday"
+    "Silent, fanless and light",
+    "Fast enough that most people will not outgrow it",
+    "Keyboard and trackpad rated among the best",
+    "16GB memory in the base model"
    ],
    "cons": [
-    "Costs noticeably more than the MacBook Neo",
-    "Apple discounts are usually modest, so wait only if a small saving is enough"
+    "The MacBook Neo costs almost half as much",
+    "Apple's 18-hour battery figure is a best case",
+    "Tom's Hardware notes the new base specs make it slightly pricier"
    ],
-   "best_for": "Anyone who wants one laptop that does everything and lasts for years.",
+   "best_for": "Students, office workers, programmers and anyone who wants one laptop for years.",
+   "skip_if": "you need Windows-only software, or you just want the lowest price.",
+   "deal_note": "Memeburn names it the best MacBook to watch this Black Friday. Last holiday season the older M4 Air fell to $750 at Amazon (CNN Underscored), so an M5 deal is the one to wait for.",
    "link": "https://www.amazon.com/s?k=Apple+MacBook+Air+13+inch+M5&tag=iamcartigo-20"
   },
   {
@@ -32,19 +47,32 @@
    "badge": "Best Cheap Mac",
    "price": "$599 (was $699) at Apple",
    "price_asof": "Oct 15, 2026",
+   "why": [
+    "The MacBook Neo is Apple's cheapest Mac. It uses a phone chip (the A18 Pro) to hit the price, but it still feels like a real MacBook, with an aluminum body, a bright 13-inch screen and a good keyboard and trackpad.",
+    "In Tom's Guide's web-surfing test it lasted 13 hours and 28 minutes, and the screen measured 452 nits. For browsing, streaming, writing and schoolwork, that is plenty. The catch is the 8GB of memory, which is the only option."
+   ],
    "specs": [
-    "Apple's lowest-priced MacBook",
-    "Named best value Mac in a 2026 buying guide"
+    "Apple A18 Pro chip, 8GB memory (only option)",
+    "256GB storage in the base model",
+    "13-inch Liquid Retina display, 2408 x 1506, up to 500 nits",
+    "36.5Wh battery, 20W charging",
+    "1080p camera, aluminum body"
    ],
    "pros": [
-    "Cheapest way into macOS",
-    "Already discounted at Apple in October"
+    "Cheapest way to get macOS",
+    "Long battery life for the price",
+    "Bright, sharp screen",
+    "Premium build"
    ],
    "cons": [
-    "Entry-level Mac, so compare specs with the MacBook Air before buying",
-    "A deal at Apple may not be matched at Amazon"
+    "8GB of memory limits heavy multitasking",
+    "No True Tone and no wide color (P3) display",
+    "Only one USB-C port supports an external display",
+    "The 256GB model has no Touch ID, per MobileSyrup"
    ],
-   "best_for": "Students and first-time Mac buyers on a tight budget.",
+   "best_for": "Students and first-time Mac buyers who mostly browse, stream and write.",
+   "skip_if": "you keep dozens of tabs open, edit video, or run heavy apps.",
+   "deal_note": "It is already $100 below its $699 list price at Apple. It is the same laptop at every store, so compare Apple, Amazon and Best Buy before buying.",
    "link": "https://www.amazon.com/s?k=Apple+MacBook+Neo&tag=iamcartigo-20"
   },
   {
@@ -52,56 +80,141 @@
    "badge": "Best Budget Windows Deal",
    "price": "$549.99 (was $849.99) at Best Buy",
    "price_asof": "Oct 15, 2026",
+   "why": [
+    "The IdeaPad Slim 3x runs on a Qualcomm Snapdragon X chip, which is why it can last all day on a charge at such a low price. It is one of the cheapest Copilot+ PCs you can buy, and reviewers describe it as a simple everyday laptop for browsing, streaming and notes.",
+    "PCWorld praises its battery life and day-to-day speed but warns that the hardware makes a lot of compromises. The 15-inch screen is the weakest part, and the body is aluminum on top with plastic underneath. At this price, those trade-offs are easier to accept."
+   ],
    "specs": [
-    "Slim Windows laptop from Lenovo's IdeaPad line"
+    "Qualcomm Snapdragon X chip with 45 TOPS NPU (Copilot+ PC)",
+    "15.3-inch 1920 x 1200 IPS display",
+    "Up to 14 hours of battery, Rapid Charge gives about 2 hours from a 15-minute charge, per Lenovo",
+    "Configurations vary, so check RAM and storage on the exact listing"
    ],
    "pros": [
-    "$300 below its list price at Best Buy in October",
-    "A low price for a modern Windows laptop"
+    "Very long battery life for the price",
+    "Big 15-inch screen with a number pad",
+    "Fast enough for everyday work",
+    "$300 below list at Best Buy"
    ],
    "cons": [
-    "Sits below the IdeaPad Slim 5x, which one reviewer calls the best Windows laptop under $1,000",
-    "Confirm RAM and storage on the exact listing"
+    "The screen is the weakest part",
+    "Plastic bottom panel",
+    "ARM chip, so check that your apps support Windows on ARM",
+    "Below the IdeaPad Slim 5x, which one reviewer calls the best Windows laptop under $1,000"
    ],
-   "best_for": "Everyday browsing, schoolwork and office tasks on a budget.",
+   "best_for": "Everyday browsing, schoolwork and office tasks on a tight budget.",
+   "skip_if": "you need gaming, color-accurate photo work, or specialized Windows software.",
+   "deal_note": "Match the configuration, not just the model name. A cheaper listing with less RAM or storage is not the same deal.",
    "link": "https://www.amazon.com/s?k=Lenovo+IdeaPad+Slim+3x&tag=iamcartigo-20"
   },
   {
-   "name": "HP OmniBook X Flip",
+   "name": "HP OmniBook X Flip 14",
    "badge": "Best 2-in-1 Deal",
    "price": "$749.99 (was $1,249.99) at Best Buy",
    "price_asof": "Oct 15, 2026",
+   "why": [
+    "The OmniBook X Flip folds back 360 degrees, so it works as a laptop, a tablet or a stand for video. Magnets hold the screen steady in tablet mode, it supports a stylus, and the webcam has a privacy shutter. Reviewers praise the design and the comfortable keyboard.",
+    "The display is where you must be careful. HP sells three screens: 1920 x 1200 IPS, 1920 x 1200 60Hz OLED and a sharper 2880 x 1800 120Hz OLED. PCWorld and Tom's Hardware found the middle OLED dim and reflective, while the 2880 x 1800 panel looks excellent."
+   ],
    "specs": [
-    "2-in-1 convertible laptop"
+    "14-inch touchscreen, 360-degree hinge",
+    "Three display options (IPS, 60Hz OLED, 120Hz OLED)",
+    "59Wh battery; Tom's Guide measured about 8.5 hours in one configuration",
+    "Upgradeable SSD, Wi-Fi card and battery, per Tom's Hardware",
+    "Optional stylus, privacy-shutter webcam"
    ],
    "pros": [
-    "Big markdown from list price at Best Buy",
-    "Flips into tablet mode for notes and sketching"
+    "Flexible design for notes, sketching and travel",
+    "Comfortable keyboard",
+    "The best display option is excellent",
+    "Parts you can upgrade later"
    ],
    "cons": [
-    "Memeburn says an earlier $699 offer is the better price to beat, because the advertised discount overstates the saving"
+    "The 60Hz OLED option is dim and glare-prone",
+    "Weak integrated graphics",
+    "Battery life is only middling",
+    "Stylus is optional"
    ],
-   "best_for": "Note-takers and travelers who want a laptop and tablet in one.",
+   "best_for": "Note-takers, students and travelers who want a laptop and tablet in one.",
+   "skip_if": "you need a bright screen outdoors, or you plan to game or edit video.",
+   "deal_note": "Memeburn says an earlier $699 offer is the better price to beat, because the advertised discount overstates the real saving. Check which display your deal includes.",
    "link": "https://www.amazon.com/s?k=HP+OmniBook+X+Flip+14&tag=iamcartigo-20"
   },
   {
-   "name": "Lenovo LOQ (RTX 5060)",
-   "badge": "Best Gaming Deal",
+   "name": "Lenovo LOQ 15 (RTX 5060)",
+   "badge": "Best Gaming Pick",
    "price": "$1,199.99 (was $1,849.99) at Best Buy",
    "price_asof": "Oct 15, 2026",
+   "why": [
+    "The LOQ is Lenovo's budget gaming line, and the RTX 5060 model is built around its graphics card. PCWorld describes the LOQ 15 as effectively a portable RTX 5060, paired with a Ryzen 7 250, a 15.6-inch 1080p 144Hz screen and a 60Wh battery. Notebookcheck rates its 1080p gaming performance as very strong.",
+    "Be careful with the price. Notebookcheck says RTX 5060 laptops usually cost around $1,200, so the $650 off is measured against an inflated list price. GamesRadar's roundup also listed gaming laptops starting around $899 to $939 at Walmart, Best Buy and Amazon, so compare before paying."
+   ],
    "specs": [
-    "NVIDIA RTX 5060 graphics"
+    "NVIDIA RTX 5060 8GB graphics (115W in the LOQ 15 reviewed by PCWorld)",
+    "AMD Ryzen 7 250 processor",
+    "15.6-inch 1080p IPS display, 144Hz",
+    "60Wh battery",
+    "Check the exact model and graphics power before buying"
    ],
    "pros": [
-    "$650 off list price at Best Buy, one of the larger early gaming discounts",
-    "Mid-range RTX 5060 suits 1080p gaming"
+    "Strong 1080p gaming performance",
+    "Color-accurate 144Hz display in several reviews",
+    "Steady CPU and GPU performance in Notebookcheck's tests",
+    "Current-generation graphics card"
    ],
    "cons": [
-    "Gaming laptop prices can move a lot into late November, so recheck before buying",
-    "The deal is at Best Buy, so Amazon may price it differently"
+    "Battery life is short, per PCWorld",
+    "Notebookcheck found the RTX 5060 sometimes barely faster than the RTX 4060",
+    "Fans can be loud in Performance mode",
+    "Some LOQ versions have a lower-power RTX 5060 (65W in the LOQ Essentials 15), which Tom's Hardware found underperforms"
    ],
-   "best_for": "Gamers who want a current-generation GPU without paying flagship prices.",
-   "link": "https://www.amazon.com/s?k=Lenovo+LOQ+RTX+5060+gaming+laptop&tag=iamcartigo-20"
+   "best_for": "Gamers who want a current graphics card for 1080p gaming without flagship prices.",
+   "skip_if": "you want long battery life away from a charger, or 1440p gaming.",
+   "deal_note": "The $1,199.99 price is close to the usual RTX 5060 price, not a standout discount. Wait for a lower price, or compare against other RTX 5060 laptops.",
+   "link": "https://www.amazon.com/s?k=Lenovo+LOQ+15+RTX+5060+gaming+laptop&tag=iamcartigo-20"
   }
+ ],
+ "tips": {
+  "title": "How to spot a real laptop deal",
+  "items": [
+   [
+    "Compare with the lowest recent price,",
+    "not the crossed-out list price. Memeburn warns that Black Friday discounts often look bigger than they are."
+   ],
+   [
+    "Match the exact configuration.",
+    "RAM, storage, screen type and graphics power can differ between two listings with the same name, as the LOQ and OmniBook above show."
+   ],
+   [
+    "Aim for 16GB of memory on Windows laptops.",
+    "8GB is workable on a MacBook Neo for light use, but reviewers call it a real limit on Windows."
+   ],
+   [
+    "Move fast on good deals.",
+    "GamesRadar warned that some early gaming deals could sell out quickly."
+   ],
+   [
+    "Check the return window",
+    "before you buy, especially for a laptop you cannot test in a store."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "When is Black Friday 2026?",
+   "Black Friday is Friday, November 27, 2026, and Cyber Monday is Monday, November 30."
+  ],
+  [
+   "Should I buy now or wait for Black Friday?",
+   "TechRadar notes retailers may be holding back some of their best laptop deals until Black Friday. GamesRadar found some early deals already near typical Black Friday prices. If a laptop you want is already at a price you are happy with, buying now is reasonable."
+  ],
+  [
+   "Is the Amazon price the same as Best Buy?",
+   "Not always. Several deals above were reported at Best Buy or Apple. Use the Amazon button to compare the current price and the exact configuration."
+  ],
+  [
+   "Is 8GB of memory enough?",
+   "For light browsing and schoolwork on the MacBook Neo, reviewers say yes. For heavy multitasking or Windows laptops, 16GB is the safer choice."
+  ]
  ]
 }
