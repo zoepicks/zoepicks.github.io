@@ -2,9 +2,133 @@
  "slug": "best-foldable-phones-2026",
  "title": "Top Foldable Phones: Flip vs Fold (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on phone reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The Galaxy Z Fold 8 is the best foldable for most people, with the Fold 8 Ultra for power users, the Z Flip 8 and Razr for flips, and the Pixel 11 Pro Fold for photos.",
+ "method": "Picks come from Startech, Mobility Arena, ShopSavvy, Mozillion, PhoneArena, Tom's Guide and Smartprix. Only models named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because foldable prices change often. Apple unveiled its first foldable, the iPhone Duo, in September 2026, but one source says it had not reached stores yet, so we leave it out until reviews are in.",
+ "products": [
+  {
+   "name": "Samsung Galaxy Z Fold 8",
+   "short": "Galaxy Z Fold 8",
+   "badge": "Best overall foldable",
+   "why": [
+    "Startech and Mobility Arena both name the Galaxy Z Fold 8 the best overall foldable, and ShopSavvy ranks it as the runner-up behind the Ultra. PhoneArena reports demand is so high that Samsung has to build another million units.",
+    "Mobility Arena points to Samsung's seven-year update commitment for the Fold 8 and Flip 8."
+   ],
+   "specs": [
+    "Book-style foldable",
+    "12GB RAM and 4,800mAh battery (Smartprix)",
+    "Android 17"
+   ],
+   "pros": [
+    "Best all-round foldable",
+    "Seven-year update promise (Mobility Arena)",
+    "Samsung's strong multitasking software"
+   ],
+   "cons": [
+    "Expensive",
+    "Smaller battery than the Pixel 11 Pro XL (Smartprix)"
+   ],
+   "best_for": "Most people who want a book-style foldable",
+   "skip_if": "You want the cheapest foldable or a pocket-sized flip",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8&tag=iamcartigo-20"
+  },
+  {
+   "name": "Samsung Galaxy Z Fold 8 Ultra",
+   "short": "Z Fold 8 Ultra",
+   "badge": "Best premium foldable",
+   "why": [
+    "Startech calls the Z Fold 8 Ultra the best premium foldable, Mobility Arena the best big-screen productivity foldable, and ShopSavvy picks it as its overall best.",
+    "Smartprix lists an 8-inch inner display, a 5,000mAh battery and a 200MP main camera, against 4,800mAh and 50MP on the standard Fold 8."
+   ],
+   "specs": [
+    "8-inch inner display (Smartprix)",
+    "200MP main camera (Smartprix)",
+    "5,000mAh battery (Smartprix)"
+   ],
+   "pros": [
+    "Biggest screen and best cameras of any foldable",
+    "Strong productivity"
+   ],
+   "cons": [
+    "Most expensive foldable here"
+   ],
+   "best_for": "Power users who want the best foldable money can buy",
+   "skip_if": "You want to save money; the regular Fold 8 covers most needs",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8+Ultra&tag=iamcartigo-20"
+  },
+  {
+   "name": "Samsung Galaxy Z Flip 8",
+   "short": "Galaxy Z Flip 8",
+   "badge": "Best flip foldable",
+   "why": [
+    "Startech picks the Galaxy Z Flip 8 as the best flip foldable for everyday use, Mobility Arena as its best flip phone, and ShopSavvy as the budget-friendly way into foldables.",
+    "Mozillion calls it the premium end of the flip market."
+   ],
+   "specs": [
+    "Flip-style foldable",
+    "Seven-year update promise (Mobility Arena)"
+   ],
+   "pros": [
+    "Pocketable",
+    "Well supported by Samsung"
+   ],
+   "cons": [
+    "No productivity benefits of a book-style foldable (Startech)",
+    "Tom's Guide says the Flip 8 puts the series in serious doubt"
+   ],
+   "best_for": "People who want a small, stylish everyday phone that folds",
+   "skip_if": "You want a tablet-sized screen for work",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Flip+8&tag=iamcartigo-20"
+  },
+  {
+   "name": "Google Pixel 11 Pro Fold",
+   "short": "Pixel 11 Pro Fold",
+   "badge": "Best for photos and software",
+   "why": [
+    "Startech calls the Pixel 11 Pro Fold the best foldable for photography, Mobility Arena names it the best software experience, and Mozillion says it is the quiet overachiever.",
+    "Reviews are mixed: Tom's Guide says it falls behind the foldable curve and Android Police ranks it only fourth best."
+   ],
+   "specs": [
+    "Tensor G6 chip (Tom's Guide)",
+    "Book-style foldable",
+    "Google Gemini AI features"
+   ],
+   "pros": [
+    "Great cameras and Google AI",
+    "Large inner display"
+   ],
+   "cons": [
+    "Falls short of Samsung's best (Tom's Guide)",
+    "Less popular than Samsung's foldables (PhoneArena)"
+   ],
+   "best_for": "Google fans who want a foldable with the best camera software",
+   "skip_if": "You want the strongest hardware and longest support",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+11+Pro+Fold&tag=iamcartigo-20"
+  },
+  {
+   "name": "Motorola Razr (2026)",
+   "short": "Motorola Razr 2026",
+   "badge": "Best value flip",
+   "why": [
+    "Mobility Arena names the Motorola Razr 2026 its best-value foldable and the Razr Ultra 2026 its best flip for power and battery, noting the Ultra has the largest battery of the flips it covers at 5,000mAh.",
+    "Mozillion also places the Razr at the value end of the flip market."
+   ],
+   "specs": [
+    "Flip-style foldable",
+    "Razr Ultra has a 5,000mAh battery (Mobility Arena)"
+   ],
+   "pros": [
+    "Cheapest way into a new foldable",
+    "Classic flip design",
+    "Ultra version has the biggest flip battery"
+   ],
+   "cons": [
+    "Less premium than Samsung"
+   ],
+   "best_for": "Budget buyers who want a stylish flip phone",
+   "skip_if": "You want the best software support",
+   "link": "https://www.amazon.com/s?k=Motorola+Razr+%282026%29&tag=iamcartigo-20"
+  }
+ ]
 }
