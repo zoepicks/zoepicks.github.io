@@ -133,7 +133,8 @@
   "slug": "best-budget-gaming-laptops-2026",
   "category": "gaming",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 29
  },
  {
   "title": "Best Gaming Laptops Under $1500 (2026)",
@@ -156,14 +157,16 @@
   "slug": "best-gaming-headsets-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 33
  },
  {
   "title": "Best Gaming Mice (2026)",
   "slug": "best-gaming-mice-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 30
  },
  {
   "title": "Best Mechanical Keyboards (2026)",
@@ -177,7 +180,8 @@
   "slug": "best-gaming-chairs-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 31
  },
  {
   "title": "Best PC Controllers (2026)",
@@ -191,14 +195,16 @@
   "slug": "best-gaming-desktops-2026",
   "category": "gaming",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 36
  },
  {
   "title": "Best Handheld Gaming PCs (2026)",
   "slug": "best-handheld-gaming-pcs-2026",
   "category": "gaming",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 35
  },
  {
   "title": "Best Robot Vacuums (2026)",
@@ -1223,5 +1229,29 @@
   "high_ticket": true,
   "status": "todo",
   "priority": 28
+ },
+ {
+  "title": "Best Gaming Chairs Under $300 (2026)",
+  "slug": "best-gaming-chairs-under-300-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 32
+ },
+ {
+  "title": "Best Gaming Keyboards (2026)",
+  "slug": "best-gaming-keyboards-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 34
+ },
+ {
+  "title": "Best Gaming Controllers (2026)",
+  "slug": "best-gaming-controllers-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 37
  }
 ]
