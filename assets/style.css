@@ -96,3 +96,6 @@ h2{font-size:18px;margin:22px 0 10px}
 .rail{scroll-snap-type:none;scrollbar-width:none;padding:0 0 6px;gap:8px}.rail::-webkit-scrollbar{display:none}
 .rail a{flex:0 0 min(210px,66%);padding:9px 12px;border-radius:14px;gap:3px}.rail a small{font-size:11px}.rail a b{font-size:13.5px;line-height:1.25}.rail a span{font-size:12px}
 
+/* short FOMO intro */
+.intro[hidden]{display:none}
+.intro p{font-size:15px;line-height:1.5;margin:10px 0;padding:10px 12px;border-left:3px solid #f59e0b;background:rgba(245,158,11,.1);border-radius:10px}

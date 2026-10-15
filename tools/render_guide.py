@@ -79,10 +79,16 @@ def card(i, p):
     return h + "</article>"
 
 def intro_html(d):
-    xs = d.get("intro")
-    if not xs: return ""
-    xs = xs if isinstance(xs, list) else [xs]
-    return '<section class="intro">' + "".join(f"<p>{e(x)}</p>" for x in xs) + "</section>"
+    """Short intro. 'intro' = while the offer is live, optional 'intro_ended' = after it ends (so no stale 'grab it now' text).
+    Both are rendered; the inline script in the template swaps them by the viewer's clock, the daily rebuild swaps them in the HTML."""
+    def sec(xs, cls, hidden):
+        xs = xs if isinstance(xs, list) else [xs]
+        return f'<section class="{cls}"{" hidden" if hidden else ""}>' + "".join(f"<p>{e(x)}</p>" for x in xs) + "</section>"
+    live, end = d.get("intro"), d.get("intro_ended")
+    if not live and not end: return ""
+    if not end: return sec(live, "intro intro-live", False)
+    on = is_live(d)
+    return (sec(live, "intro intro-live", not on) if live else "") + sec(end, "intro intro-end", on)
 
 def compare_html(d):
     if not d.get("compare"): return ""
