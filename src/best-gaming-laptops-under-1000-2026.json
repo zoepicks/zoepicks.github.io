@@ -2,12 +2,110 @@
  "slug": "best-gaming-laptops-under-1000-2026",
  "title": "Top Gaming Laptops Under $1000 (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": [],
- "also": [
-  "gaming"
+ "date": "Oct 16, 2026",
+ "summary": "Under $1000 the Lenovo LOQ with an RTX 4060 leads on graphics value, with the Acer Nitro V, ASUS TUF and HP Victus close behind.",
+ "method": "Picks come from Engadget, TechRadar, Empire, GeekChamp, UDN's laptop blog and LaptopMedia. Only models or lines named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because gaming-laptop prices and configurations change often. GPU wattage, RAM and cooling vary a lot between versions, so check the exact configuration before you buy.",
+ "products": [
+  {
+   "name": "Lenovo LOQ 15 / LOQ 16",
+   "short": "Lenovo LOQ",
+   "badge": "Best overall value under $1000",
+   "why": [
+    "GeekChamp's top overall pick under $1000 is a discounted LOQ 15 or LOQ 16 with an RTX 4060. Empire calls the LOQ 15 the best 15-inch gaming laptop under £1000 and says it punches above its weight.",
+    "UDN's laptop blog describes the LOQ 15 as a budget-friendly esports machine with strong 1080p performance and a Hyperchamber cooling design."
+   ],
+   "specs": [
+    "15-inch and 16-inch versions",
+    "RTX 4050 to RTX 4060 graphics (GeekChamp)",
+    "Windows"
+   ],
+   "pros": [
+    "Strong value for graphics power",
+    "Good cooling (UDN)"
+   ],
+   "cons": [
+    "Only the discounted RTX 4060 versions hit the best value (GeekChamp)"
+   ],
+   "best_for": "Players who want the most GPU for the least money",
+   "skip_if": "You want a premium all-metal build",
+   "link": "https://www.amazon.com/s?k=Lenovo+LOQ+15+%2F+LOQ+16&tag=iamcartigo-20"
+  },
+  {
+   "name": "Acer Nitro V 15",
+   "short": "Nitro V 15",
+   "badge": "Best for esports on a budget",
+   "why": [
+    "TechRadar names the Acer Nitro V 15 its standout budget gaming laptop for 1080p performance, and Empire picks the Nitro V15 as its best overall gaming laptop under £1000. GeekChamp recommends it for esports and budget buyers.",
+    "LaptopMedia's March 2026 Amazon USA chart had the Nitro V 15 among the best-selling gaming laptops."
+   ],
+   "specs": [
+    "15.6-inch 144Hz-class display (GeekChamp)",
+    "RTX 4050-class graphics (GeekChamp)",
+    "Windows"
+   ],
+   "pros": [
+    "Strong 1080p gaming for the money",
+    "Popular and widely available",
+    "Good for esports"
+   ],
+   "cons": [
+    "Plastic build and battery life drops fast while gaming",
+    "Check RAM: some configs ship with 8GB"
+   ],
+   "best_for": "Budget gamers who want the safest all-round pick",
+   "skip_if": "You want a metal build or all-day battery while gaming",
+   "link": "https://www.amazon.com/s?k=Acer+Nitro+V+15&tag=iamcartigo-20"
+  },
+  {
+   "name": "ASUS TUF Gaming A15 / A16",
+   "short": "ASUS TUF Gaming",
+   "badge": "Best for gaming and school",
+   "why": [
+    "Empire names the ASUS TUF Gaming A15 its best durable gaming laptop under £1000. GeekChamp calls the TUF A15 especially practical for gaming plus school.",
+    "UDN's laptop blog says the TUF Gaming A16 offers solid performance and a big, vibrant screen at an affordable price."
+   ],
+   "specs": [
+    "15-inch and 16-inch versions",
+    "AMD Ryzen processor options",
+    "Windows"
+   ],
+   "pros": [
+    "Durable build",
+    "Large vibrant screen on the A16 (UDN)",
+    "Practical for gaming and school"
+   ],
+   "cons": [
+    "Heavier than some rivals"
+   ],
+   "best_for": "Gamers who also use the laptop for school or work",
+   "skip_if": "You want the lightest laptop to carry",
+   "link": "https://www.amazon.com/s?k=ASUS+TUF+Gaming+A15+%2F+A16&tag=iamcartigo-20"
+  },
+  {
+   "name": "HP Victus 15",
+   "short": "HP Victus",
+   "badge": "Best large-screen option (Victus 16)",
+   "why": [
+    "Engadget names the HP Victus 15.6-inch its best budget gaming laptop. Empire calls the Victus its best budget gaming laptop under £1000, with a focus on playable performance rather than headline specs.",
+    "LaptopMedia says Victus is not HP's cheapest gaming line but gives the best offers."
+   ],
+   "specs": [
+    "15.6-inch screen",
+    "Entry-level gaming graphics",
+    "Windows"
+   ],
+   "pros": [
+    "Sensible, playable performance",
+    "Often has good offers"
+   ],
+   "cons": [
+    "Entry-level graphics in some configurations",
+    "Not the most powerful option"
+   ],
+   "best_for": "Buyers who want a balanced, affordable gaming laptop",
+   "skip_if": "You want the strongest GPU for your money",
+   "link": "https://www.amazon.com/s?k=HP+Victus+15&tag=iamcartigo-20"
+  }
  ]
 }
