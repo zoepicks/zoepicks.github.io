@@ -29,7 +29,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: pip install -q requests beautifulsoup4 lxml
+      - run: pip install -q requests beautifulsoup4 lxml playwright
+      # Browser fallback (blocked pages / blocked search). Never fails the job if the install hiccups.
+      - run: playwright install --with-deps chromium || echo "playwright install failed - browser fallback disabled"
       - name: Collect + build guides
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

@@ -6,6 +6,7 @@ Usage:
   python tools/collect_guide.py --slug best-macbooks-2026
   python tools/collect_guide.py --dry            # collect + build, print result, write nothing
 Env: GROQ_API_KEY (or OPENROUTER_API_KEY) for writing; TAVILY_API_KEY optional (best page discovery).
+Fallbacks: Tavily -> DuckDuckGo (requests) -> Playwright browser search (DDG, Bing); blocked pages are re-fetched in Playwright.
 
 Anti-invention rules (enforced in code, not just in the prompt):
   * a product is kept only if its name appears in the text of >= MIN_SOURCES different sites
@@ -13,7 +14,7 @@ Anti-invention rules (enforced in code, not just in the prompt):
   * deal_note / FOMO lines are kept only if the sentence exists in a source
   * fewer than MIN_PRODUCTS survivors -> guide stays a draft ("Coming soon"), nothing is published
 """
-import json, os, re, sys, time, pathlib, datetime, subprocess, urllib.parse
+import json, os, re, sys, time, pathlib, datetime, subprocess, urllib.parse, atexit, base64
 import requests
 from bs4 import BeautifulSoup
 
@@ -21,6 +22,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks.github.io)"}
 AFF = "iamcartigo-20"
 MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 6
+MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 # Best review/roundup sources per category (hands-on testing sites first), + deal sources for FOMO.
 SOURCES = {
@@ -68,32 +71,124 @@ def _tavily_multi(q, domains):
     return out
 
 
+# ---------- browser fallback (Playwright, optional) ----------
+_pw = {}
+
+
+def _browser():
+    """Lazy single headless Chromium for the whole run. Returns None if Playwright is not installed."""
+    if "ctx" in _pw: return _pw["ctx"]
+    _pw["ctx"] = None
+    try:
+        from playwright.sync_api import sync_playwright
+        pw = sync_playwright().start()
+        br = pw.chromium.launch(headless=True, args=["--no-sandbox", "--disable-dev-shm-usage"])
+        _pw.update(pw=pw, br=br, ctx=br.new_context(user_agent=BROWSER_UA, locale="en-US", viewport={"width": 1366, "height": 900}))
+        atexit.register(_browser_close)
+    except Exception as e:
+        log("playwright unavailable:", e)
+    return _pw["ctx"]
+
+
+def _browser_close():
+    for k in ("br", "pw"):
+        try: _pw[k].close() if k == "br" else _pw[k].stop()
+        except Exception: pass
+
+
+def _browser_html(url, wait_ms=2500):
+    ctx = _browser()
+    if not ctx: return ""
+    page = ctx.new_page()
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_timeout(wait_ms)
+        return page.content()
+    except Exception as e:
+        log("browser fail", url, e); return ""
+    finally:
+        try: page.close()
+        except Exception: pass
+
+
+def _unwrap(href):
+    """Search engines wrap result links: DuckDuckGo (uddg=) and Bing (ck/a?u=a1<base64>)."""
+    q = urllib.parse.parse_qs(urllib.parse.urlparse(href).query)
+    if "uddg" in q: return q["uddg"][0]
+    if "bing.com/ck/a" in href and "u" in q:
+        u = q["u"][0]
+        if u.startswith("a1"):
+            try: return base64.urlsafe_b64decode(u[2:] + "=" * (-len(u[2:]) % 4)).decode()
+            except Exception: pass
+    return href
+
+
+def _pick_per_domain(urls, domains):
+    seen, out = set(), []
+    for u in urls:
+        host = next((d.split("/")[0] for d in domains if d.split("/")[0] in u), None)
+        if host and host not in seen and u.startswith("http"): seen.add(host); out.append((host, u))
+    return out
+
+
+def _browser_search(q, domains):
+    """ONE site:-OR query in a real browser (DuckDuckGo, then Bing); first URL per review domain."""
+    sites = " OR ".join("site:" + d for d in domains)
+    qq = urllib.parse.quote_plus(f"{q} ({sites})")
+    engines = [("https://html.duckduckgo.com/html/?q=" + qq, "a.result__a"),
+               ("https://www.bing.com/search?q=" + qq, "li.b_algo h2 a")]
+    for url, sel in engines:
+        html = _browser_html(url, wait_ms=1500)
+        urls = [_unwrap(a.get("href", "")) for a in BeautifulSoup(html, "lxml").select(sel)] if html else []
+        pages = _pick_per_domain(urls, domains)
+        log("browser search", url.split("/")[2], "->", len(pages), "pages")
+        if pages: return pages
+    return []
+
+
 def discover(topic, domains):
     q = re.sub(r"\(\d{4}\)", "", topic["title"]).strip() + " review tested"
+    # 1) Tavily: ONE call per topic. (No per-domain Tavily retry any more - it only burns quota when the key/plan is the problem.)
     if os.environ.get("TAVILY_API_KEY"):
         try:
             pages = _tavily_multi(q, domains)
-            if pages: return pages
+            if pages: log("tavily ->", len(pages), "pages"); return pages
+            log("tavily returned 0 pages")
         except Exception as e: log("tavily multi fail", e)
+    # 2) plain DuckDuckGo over requests (often blocked on GitHub runners)
     pages = []
     for d in domains:
-        try: urls = _tavily(q, d) if os.environ.get("TAVILY_API_KEY") else _ddg(q, d)
-        except Exception as e: log("discover fail", d, e); urls = []
+        try: urls = _ddg(q, d)
+        except Exception as e: log("ddg fail", d, e); urls = []
         pages += [(d.split("/")[0], u) for u in urls[:1]]
         time.sleep(1)
-    return pages
+    if pages: log("ddg ->", len(pages), "pages"); return pages
+    # 3) real browser search
+    log("no pages from Tavily/DDG -> browser search fallback")
+    return _browser_search(q, domains)
+
+
+def _extract(html, limit):
+    s = BeautifulSoup(html, "lxml")
+    for t in s(["script", "style", "nav", "footer", "aside", "form", "noscript"]): t.decompose()
+    txt = re.sub(r"\s+", " ", " ".join(p.get_text(" ", strip=True) for p in s.select("h1,h2,h3,p,li")))
+    return txt[:limit]
 
 
 def fetch_text(url, limit=9000):
+    txt = ""
     try:
         r = requests.get(url, headers=UA, timeout=30)
-        if r.status_code != 200: return ""
-        s = BeautifulSoup(r.text, "lxml")
-        for t in s(["script", "style", "nav", "footer", "aside", "form", "noscript"]): t.decompose()
-        txt = re.sub(r"\s+", " ", " ".join(p.get_text(" ", strip=True) for p in s.select("h1,h2,h3,p,li")))
-        return txt[:limit]
-    except Exception as e:
-        log("fetch fail", url, e); return ""
+        if r.status_code == 200: txt = _extract(r.text, limit)
+        else: log("http", r.status_code, url)
+    except Exception as e: log("fetch fail", url, e)
+    if len(txt) < MIN_TEXT:  # blocked (403/captcha/JS-only) -> try a real browser
+        html = _browser_html(url)
+        if html:
+            b = _extract(html, limit)
+            log("browser fetch", len(b), "chars:", url)
+            if len(b) > len(txt): txt = b
+    return txt
 
 
 def collect_deals(topic):
