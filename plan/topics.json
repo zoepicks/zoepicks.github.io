@@ -26,7 +26,8 @@
   "slug": "best-laptops-under-500-2026",
   "category": "computers_phones",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 95
  },
  {
   "title": "Best Laptops Under $1000 (2026)",
@@ -41,7 +42,8 @@
   "slug": "best-macbooks-2026",
   "category": "computers_phones",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 7
  },
  {
   "title": "Best Chromebooks (2026)",
@@ -56,14 +58,15 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 8
+  "priority": 50
  },
  {
   "title": "Best Tablets (2026)",
   "slug": "best-tablets-2026",
   "category": "computers_phones",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 96
  },
  {
   "title": "Best Android Phones (2026)",
@@ -71,7 +74,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 21
+  "priority": 63
  },
  {
   "title": "Best Laptop Deals (Black Friday 2026)",
@@ -87,7 +90,7 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 3
+  "priority": 14
  },
  {
   "title": "Best MacBook Air Alternatives (2026)",
@@ -95,7 +98,7 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 6
+  "priority": 16
  },
  {
   "title": "Best Laptops for Programmers (2026)",
@@ -103,7 +106,7 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 7
+  "priority": 49
  },
  {
   "title": "Best Laptops for Work From Home (2026)",
@@ -111,7 +114,7 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 9
+  "priority": 51
  },
  {
   "title": "Best Laptops for Video Editing (2026)",
@@ -119,7 +122,7 @@
   "category": "computers_phones",
   "high_ticket": true,
   "status": "todo",
-  "priority": 10
+  "priority": 52
  },
  {
   "title": "Best Gaming Laptops (2026)",
@@ -134,7 +137,7 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 29
+  "priority": 70
  },
  {
   "title": "Best Gaming Laptops Under $1500 (2026)",
@@ -142,7 +145,7 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 5
+  "priority": 48
  },
  {
   "title": "Best Gaming Monitors (2026)",
@@ -150,7 +153,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 25
+  "priority": 67
  },
  {
   "title": "Best Gaming Headsets (2026)",
@@ -158,7 +161,7 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 33
+  "priority": 74
  },
  {
   "title": "Best Gaming Mice (2026)",
@@ -166,14 +169,15 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 30
+  "priority": 71
  },
  {
   "title": "Best Mechanical Keyboards (2026)",
   "slug": "best-mechanical-keyboards-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 38
  },
  {
   "title": "Best Gaming Chairs (2026)",
@@ -181,14 +185,15 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 31
+  "priority": 72
  },
  {
   "title": "Best PC Controllers (2026)",
   "slug": "best-pc-controllers-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 97
  },
  {
   "title": "Best Gaming Desktops (2026)",
@@ -196,7 +201,7 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 36
+  "priority": 77
  },
  {
   "title": "Best Handheld Gaming PCs (2026)",
@@ -204,7 +209,7 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 35
+  "priority": 76
  },
  {
   "title": "Best Robot Vacuums (2026)",
@@ -212,7 +217,7 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 38
+  "priority": 79
  },
  {
   "title": "Best Cordless Stick Vacuums (2026)",
@@ -220,7 +225,7 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 39
+  "priority": 80
  },
  {
   "title": "Best Air Fryers (2026)",
@@ -228,7 +233,7 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 41
+  "priority": 19
  },
  {
   "title": "Best Coffee Makers (2026)",
@@ -236,7 +241,7 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 42
+  "priority": 82
  },
  {
   "title": "Best Espresso Machines (2026)",
@@ -244,7 +249,7 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 43
+  "priority": 34
  },
  {
   "title": "Best Blenders (2026)",
@@ -252,7 +257,7 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 44
+  "priority": 83
  },
  {
   "title": "Best Air Purifiers (2026)",
@@ -260,7 +265,7 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 45
+  "priority": 84
  },
  {
   "title": "Best Toaster Ovens (2026)",
@@ -268,7 +273,7 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 46
+  "priority": 85
  },
  {
   "title": "Best Stand Mixers (2026)",
@@ -276,7 +281,7 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 47
+  "priority": 86
  },
  {
   "title": "Best Vacuums for Pet Hair (2026)",
@@ -284,77 +289,87 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 40
+  "priority": 81
  },
  {
   "title": "Best 4K TVs (2026)",
   "slug": "best-4k-tvs-2026",
   "category": "smart_home",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 98
  },
  {
   "title": "Best OLED TVs (2026)",
   "slug": "best-oled-tvs-2026",
   "category": "smart_home",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 99
  },
  {
   "title": "Best TVs Under $500 (2026)",
   "slug": "best-tvs-under-500-2026",
   "category": "smart_home",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 100
  },
  {
   "title": "Best Soundbars (2026)",
   "slug": "best-soundbars-2026",
   "category": "smart_home",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 101
  },
  {
   "title": "Best Video Doorbells (2026)",
   "slug": "best-video-doorbells-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 102
  },
  {
   "title": "Best Security Cameras (2026)",
   "slug": "best-security-cameras-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 103
  },
  {
   "title": "Best Smart Thermostats (2026)",
   "slug": "best-smart-thermostats-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 104
  },
  {
   "title": "Best Mesh Wi-Fi Systems (2026)",
   "slug": "best-mesh-wi-fi-systems-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 105
  },
  {
   "title": "Best Streaming Devices (2026)",
   "slug": "best-streaming-devices-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 106
  },
  {
   "title": "Best Smart Displays (2026)",
   "slug": "best-smart-displays-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 107
  },
  {
   "title": "Best Wireless Earbuds (2026)",
@@ -362,7 +377,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 48
+  "priority": 87
  },
  {
   "title": "Best Noise-Cancelling Headphones (2026)",
@@ -370,7 +385,7 @@
   "category": "electronics",
   "high_ticket": true,
   "status": "todo",
-  "priority": 50
+  "priority": 40
  },
  {
   "title": "Best Bluetooth Speakers (2026)",
@@ -378,7 +393,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 51
+  "priority": 89
  },
  {
   "title": "Best Power Banks (2026)",
@@ -386,7 +401,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 52
+  "priority": 90
  },
  {
   "title": "Best Smartwatches (2026)",
@@ -394,7 +409,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 53
+  "priority": 91
  },
  {
   "title": "Best Action Cameras (2026)",
@@ -402,7 +417,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 54
+  "priority": 92
  },
  {
   "title": "Best Webcams (2026)",
@@ -410,7 +425,7 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 55
+  "priority": 93
  },
  {
   "title": "Best Projectors (2026)",
@@ -418,15 +433,15 @@
   "category": "electronics",
   "high_ticket": true,
   "status": "todo",
-  "priority": 56
+  "priority": 94
  },
  {
-  "title": "Best E-Readers (2026)",
+  "title": "Best Kindle & E-Readers (2026)",
   "slug": "best-e-readers-2026",
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 57
+  "priority": 9
  },
  {
   "title": "Best Portable Monitors (2026)",
@@ -434,21 +449,23 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 26
+  "priority": 68
  },
  {
   "title": "Best Office Chairs (2026)",
   "slug": "best-office-chairs-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 108
  },
  {
   "title": "Best Standing Desks (2026)",
   "slug": "best-standing-desks-2026",
   "category": "office_books",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 109
  },
  {
   "title": "Best Monitors for Home Office (2026)",
@@ -456,686 +473,783 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 27
+  "priority": 39
  },
  {
   "title": "Best Printers (2026)",
   "slug": "best-printers-2026",
   "category": "office_books",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 110
  },
  {
   "title": "Best Keyboards for Typing (2026)",
   "slug": "best-keyboards-for-typing-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 111
  },
  {
   "title": "Best Desk Lamps (2026)",
   "slug": "best-desk-lamps-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 112
  },
  {
   "title": "Best Wireless Mice (2026)",
   "slug": "best-wireless-mice-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 113
  },
  {
   "title": "Best Laptop Stands (2026)",
   "slug": "best-laptop-stands-2026",
   "category": "office_books",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 114
  },
  {
   "title": "Best Noise-Cancelling Headphones for Work (2026)",
   "slug": "best-noise-cancelling-headphones-for-work-2026",
   "category": "office_books",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 115
  },
  {
   "title": "Best Document Scanners (2026)",
   "slug": "best-document-scanners-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 116
  },
  {
   "title": "Best Cordless Drills (2026)",
   "slug": "best-cordless-drills-2026",
   "category": "tools_auto",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 117
  },
  {
   "title": "Best Impact Drivers (2026)",
   "slug": "best-impact-drivers-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 118
  },
  {
   "title": "Best Tool Sets (2026)",
   "slug": "best-tool-sets-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 119
  },
  {
   "title": "Best Jump Starters (2026)",
   "slug": "best-jump-starters-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 120
  },
  {
   "title": "Best Car Vacuums (2026)",
   "slug": "best-car-vacuums-2026",
   "category": "tools_auto",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 121
  },
  {
   "title": "Best Dash Cams (2026)",
   "slug": "best-dash-cams-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 122
  },
  {
   "title": "Best Tire Inflators (2026)",
   "slug": "best-tire-inflators-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 123
  },
  {
   "title": "Best Pressure Washers (2026)",
   "slug": "best-pressure-washers-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 124
  },
  {
   "title": "Best Circular Saws (2026)",
   "slug": "best-circular-saws-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 125
  },
  {
   "title": "Best OBD2 Scanners (2026)",
   "slug": "best-obd2-scanners-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 126
  },
  {
   "title": "Best Electric Toothbrushes (2026)",
   "slug": "best-electric-toothbrushes-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 127
  },
  {
   "title": "Best Hair Dryers (2026)",
   "slug": "best-hair-dryers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 128
  },
  {
   "title": "Best Electric Shavers (2026)",
   "slug": "best-electric-shavers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 129
  },
  {
   "title": "Best Massage Guns (2026)",
   "slug": "best-massage-guns-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 130
  },
  {
   "title": "Best Fitness Trackers (2026)",
   "slug": "best-fitness-trackers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 131
  },
  {
   "title": "Best Hair Straighteners (2026)",
   "slug": "best-hair-straighteners-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 132
  },
  {
   "title": "Best Water Flossers (2026)",
   "slug": "best-water-flossers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 133
  },
  {
   "title": "Best Humidifiers (2026)",
   "slug": "best-humidifiers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 134
  },
  {
   "title": "Best Foot Massagers (2026)",
   "slug": "best-foot-massagers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 135
  },
  {
   "title": "Best Epilators (2026)",
   "slug": "best-epilators-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 136
  },
  {
   "title": "Best Treadmills (2026)",
   "slug": "best-treadmills-2026",
   "category": "fitness_outdoor",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 137
  },
  {
   "title": "Best Adjustable Dumbbells (2026)",
   "slug": "best-adjustable-dumbbells-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 138
  },
  {
   "title": "Best Exercise Bikes (2026)",
   "slug": "best-exercise-bikes-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 139
  },
  {
   "title": "Best Yoga Mats (2026)",
   "slug": "best-yoga-mats-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 140
  },
  {
   "title": "Best Camping Tents (2026)",
   "slug": "best-camping-tents-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 35
  },
  {
   "title": "Best Sleeping Bags (2026)",
   "slug": "best-sleeping-bags-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 141
  },
  {
   "title": "Best Hiking Backpacks (2026)",
   "slug": "best-hiking-backpacks-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 142
  },
  {
   "title": "Best Coolers (2026)",
   "slug": "best-coolers-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 143
  },
  {
   "title": "Best Hiking Boots (2026)",
   "slug": "best-hiking-boots-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 144
  },
  {
   "title": "Best Insulated Water Bottles (2026)",
   "slug": "best-insulated-water-bottles-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 145
  },
  {
   "title": "Best Running Shoes (2026)",
   "slug": "best-running-shoes-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 146
  },
  {
   "title": "Best Walking Shoes (2026)",
   "slug": "best-walking-shoes-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 147
  },
  {
   "title": "Best Sunglasses (2026)",
   "slug": "best-sunglasses-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 148
  },
  {
   "title": "Best Watches Under $200 (2026)",
   "slug": "best-watches-under-200-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 149
  },
  {
   "title": "Best Travel Backpacks (2026)",
   "slug": "best-travel-backpacks-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 150
  },
  {
   "title": "Best Wallets (2026)",
   "slug": "best-wallets-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 151
  },
  {
   "title": "Best Rain Jackets (2026)",
   "slug": "best-rain-jackets-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 152
  },
  {
   "title": "Best Work Boots (2026)",
   "slug": "best-work-boots-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 153
  },
  {
   "title": "Best Compression Socks (2026)",
   "slug": "best-compression-socks-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 154
  },
  {
   "title": "Best Leather Belts (2026)",
   "slug": "best-leather-belts-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 155
  },
  {
   "title": "Best LEGO Sets for Adults (2026)",
   "slug": "best-lego-sets-for-adults-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 36
  },
  {
   "title": "Best STEM Toys (2026)",
   "slug": "best-stem-toys-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 156
  },
  {
   "title": "Best Toys for 3-Year-Olds (2026)",
   "slug": "best-toys-for-3-year-olds-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 157
  },
  {
   "title": "Best Baby Monitors (2026)",
   "slug": "best-baby-monitors-2026",
   "category": "toys_kids",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 158
  },
  {
   "title": "Best Strollers (2026)",
   "slug": "best-strollers-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 159
  },
  {
   "title": "Best Board Games for Families (2026)",
   "slug": "best-board-games-for-families-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 160
  },
  {
   "title": "Best Kids Tablets (2026)",
   "slug": "best-kids-tablets-2026",
   "category": "toys_kids",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 161
  },
  {
   "title": "Best Ride-On Toys (2026)",
   "slug": "best-ride-on-toys-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 162
  },
  {
   "title": "Best Craft Kits (2026)",
   "slug": "best-craft-kits-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 163
  },
  {
   "title": "Best Diaper Bags (2026)",
   "slug": "best-diaper-bags-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 164
  },
  {
   "title": "Best Dog Beds (2026)",
   "slug": "best-dog-beds-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 165
  },
  {
   "title": "Best Automatic Cat Feeders (2026)",
   "slug": "best-automatic-cat-feeders-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 166
  },
  {
   "title": "Best Self-Cleaning Litter Boxes (2026)",
   "slug": "best-self-cleaning-litter-boxes-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 167
  },
  {
   "title": "Best Dog Harnesses (2026)",
   "slug": "best-dog-harnesses-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 168
  },
  {
   "title": "Best Dog Crates (2026)",
   "slug": "best-dog-crates-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 169
  },
  {
   "title": "Best Pet Cameras (2026)",
   "slug": "best-pet-cameras-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 170
  },
  {
   "title": "Best Cat Trees (2026)",
   "slug": "best-cat-trees-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 171
  },
  {
   "title": "Best Dog Toys for Chewers (2026)",
   "slug": "best-dog-toys-for-chewers-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 172
  },
  {
   "title": "Best Pet Water Fountains (2026)",
   "slug": "best-pet-water-fountains-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 173
  },
  {
   "title": "Best Pet Grooming Vacuums (2026)",
   "slug": "best-pet-grooming-vacuums-2026",
   "category": "pets",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 174
  },
  {
   "title": "Best Mattresses (2026)",
   "slug": "best-mattresses-2026",
   "category": "furniture_decor",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 20
  },
  {
   "title": "Best Sofas Under $1000 (2026)",
   "slug": "best-sofas-under-1000-2026",
   "category": "furniture_decor",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 175
  },
  {
   "title": "Best Bed Frames (2026)",
   "slug": "best-bed-frames-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 176
  },
  {
   "title": "Best Desks for Small Spaces (2026)",
   "slug": "best-desks-for-small-spaces-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 177
  },
  {
   "title": "Best Bookcases (2026)",
   "slug": "best-bookcases-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 178
  },
  {
   "title": "Best Area Rugs (2026)",
   "slug": "best-area-rugs-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 179
  },
  {
   "title": "Best Floor Lamps (2026)",
   "slug": "best-floor-lamps-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 180
  },
  {
   "title": "Best Gaming Desks (2026)",
   "slug": "best-gaming-desks-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 181
  },
  {
   "title": "Best Recliners (2026)",
   "slug": "best-recliners-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 182
  },
  {
   "title": "Best Shoe Racks (2026)",
   "slug": "best-shoe-racks-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 183
  },
  {
   "title": "Best Beginner Acoustic Guitars (2026)",
   "slug": "best-beginner-acoustic-guitars-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 184
  },
  {
   "title": "Best Digital Pianos (2026)",
   "slug": "best-digital-pianos-2026",
   "category": "hobby_music",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 185
  },
  {
   "title": "Best Electric Guitars for Beginners (2026)",
   "slug": "best-electric-guitars-for-beginners-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 186
  },
  {
   "title": "Best Ukuleles (2026)",
   "slug": "best-ukuleles-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 187
  },
  {
   "title": "Best MIDI Keyboards (2026)",
   "slug": "best-midi-keyboards-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 188
  },
  {
   "title": "Best Studio Headphones (2026)",
   "slug": "best-studio-headphones-2026",
   "category": "hobby_music",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 189
  },
  {
   "title": "Best USB Microphones (2026)",
   "slug": "best-usb-microphones-2026",
   "category": "hobby_music",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 37
  },
  {
   "title": "Best Audio Interfaces (2026)",
   "slug": "best-audio-interfaces-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 190
  },
  {
   "title": "Best Drawing Tablets (2026)",
   "slug": "best-drawing-tablets-2026",
   "category": "hobby_music",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 18
  },
  {
   "title": "Best Cameras for Beginners (2026)",
   "slug": "best-cameras-for-beginners-2026",
   "category": "hobby_music",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 31
  },
  {
   "title": "Best Travel Adapters (2026)",
   "slug": "best-travel-adapters-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 191
  },
  {
   "title": "Best Luggage Sets (2026)",
   "slug": "best-luggage-sets-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 192
  },
  {
   "title": "Best Carry-On Bags (2026)",
   "slug": "best-carry-on-bags-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 193
  },
  {
   "title": "Best Water Filter Pitchers (2026)",
   "slug": "best-water-filter-pitchers-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 194
  },
  {
   "title": "Best Flashlights (2026)",
   "slug": "best-flashlights-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 195
  },
  {
   "title": "Best Fireproof Safes (2026)",
   "slug": "best-fireproof-safes-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 196
  },
  {
   "title": "Best Umbrellas (2026)",
   "slug": "best-umbrellas-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 197
  },
  {
   "title": "Best Tech Gifts Under $50 (2026)",
   "slug": "best-tech-gifts-under-50-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 198
  },
  {
   "title": "Best Desk Organizers (2026)",
   "slug": "best-desk-organizers-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 199
  },
  {
   "title": "Best Gifts for Dads (2026)",
   "slug": "best-gifts-for-dads-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 200
  },
  {
   "title": "Best Phones Under $500 (2026)",
@@ -1143,7 +1257,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 11
+  "priority": 53
  },
  {
   "title": "Best Camera Phones (2026)",
@@ -1151,7 +1265,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 12
+  "priority": 54
  },
  {
   "title": "Best Phones for Battery Life (2026)",
@@ -1159,7 +1273,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 13
+  "priority": 55
  },
  {
   "title": "Best iPhones (2026)",
@@ -1167,7 +1281,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 14
+  "priority": 56
  },
  {
   "title": "Best Foldable Phones (2026)",
@@ -1175,7 +1289,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 15
+  "priority": 57
  },
  {
   "title": "Best 4K Monitors (2026)",
@@ -1183,7 +1297,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 16
+  "priority": 58
  },
  {
   "title": "Best Ultrawide Monitors (2026)",
@@ -1191,7 +1305,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 17
+  "priority": 59
  },
  {
   "title": "Best OLED Monitors (2026)",
@@ -1199,7 +1313,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 18
+  "priority": 60
  },
  {
   "title": "Best USB-C Monitors (2026)",
@@ -1207,7 +1321,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 19
+  "priority": 61
  },
  {
   "title": "Best Monitors Under $200 (2026)",
@@ -1215,7 +1329,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 20
+  "priority": 62
  },
  {
   "title": "Best Gaming Phones (2026)",
@@ -1223,7 +1337,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 22
+  "priority": 64
  },
  {
   "title": "Best Compact Phones (2026)",
@@ -1231,7 +1345,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 23
+  "priority": 65
  },
  {
   "title": "Best Phones Under $300 (2026)",
@@ -1239,7 +1353,7 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "todo",
-  "priority": 24
+  "priority": 66
  },
  {
   "title": "Best Monitors for Mac (2026)",
@@ -1247,7 +1361,7 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 28
+  "priority": 69
  },
  {
   "title": "Best Gaming Chairs Under $300 (2026)",
@@ -1255,7 +1369,7 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 32
+  "priority": 73
  },
  {
   "title": "Best Gaming Keyboards (2026)",
@@ -1263,7 +1377,7 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 34
+  "priority": 75
  },
  {
   "title": "Best Gaming Controllers (2026)",
@@ -1271,7 +1385,7 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 37
+  "priority": 78
  },
  {
   "title": "Best Wireless Earbuds Under $100 (2026)",
@@ -1279,6 +1393,230 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 49
+  "priority": 88
+ },
+ {
+  "title": "Best Smartphones (2026)",
+  "slug": "best-smartphones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 5
+ },
+ {
+  "title": "Best PS5 Consoles & Bundles (2026)",
+  "slug": "best-ps5-consoles-bundles-2026",
+  "category": "gaming",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 6
+ },
+ {
+  "title": "Best 3D Printers (2026)",
+  "slug": "best-3d-printers-2026",
+  "category": "other",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 8
+ },
+ {
+  "title": "Best Hoodies (2026)",
+  "slug": "best-hoodies-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 10
+ },
+ {
+  "title": "Best Walking Pads (2026)",
+  "slug": "best-walking-pads-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 11
+ },
+ {
+  "title": "Best Perfumes (2026)",
+  "slug": "best-perfumes-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 12
+ },
+ {
+  "title": "Best Record Players (2026)",
+  "slug": "best-record-players-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 13
+ },
+ {
+  "title": "Best Gaming Laptops Under $1000 (2026)",
+  "slug": "best-gaming-laptops-under-1000-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 15
+ },
+ {
+  "title": "Best Men's Colognes (2026)",
+  "slug": "best-mens-colognes-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 17
+ },
+ {
+  "title": "Best Bookshelves (2026)",
+  "slug": "best-bookshelves-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 21
+ },
+ {
+  "title": "Best Sewing Machines (2026)",
+  "slug": "best-sewing-machines-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 22
+ },
+ {
+  "title": "Best Nintendo Switch Bundles (2026)",
+  "slug": "best-nintendo-switch-bundles-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 23
+ },
+ {
+  "title": "Best PS5 Accessories (2026)",
+  "slug": "best-ps5-accessories-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 24
+ },
+ {
+  "title": "Best Comforter Sets (2026)",
+  "slug": "best-comforter-sets-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 25
+ },
+ {
+  "title": "Best Home Gym Equipment (2026)",
+  "slug": "best-home-gym-equipment-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 26
+ },
+ {
+  "title": "Best Space Heaters (2026)",
+  "slug": "best-space-heaters-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 27
+ },
+ {
+  "title": "Best Juicers (2026)",
+  "slug": "best-juicers-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 28
+ },
+ {
+  "title": "Best Pillows (2026)",
+  "slug": "best-pillows-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 29
+ },
+ {
+  "title": "Best Planners (2026)",
+  "slug": "best-planners-2026",
+  "category": "office_books",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 30
+ },
+ {
+  "title": "Best Tote Bags (2026)",
+  "slug": "best-tote-bags-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 32
+ },
+ {
+  "title": "Best Winter Coats (2026)",
+  "slug": "best-winter-coats-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 33
+ },
+ {
+  "title": "Best Fish Tanks (2026)",
+  "slug": "best-fish-tanks-2026",
+  "category": "pets",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 41
+ },
+ {
+  "title": "Best Food Processors (2026)",
+  "slug": "best-food-processors-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 42
+ },
+ {
+  "title": "Best Gym Bags (2026)",
+  "slug": "best-gym-bags-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 43
+ },
+ {
+  "title": "Best Hammocks (2026)",
+  "slug": "best-hammocks-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 44
+ },
+ {
+  "title": "Best Lawn Mowers (2026)",
+  "slug": "best-lawn-mowers-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 45
+ },
+ {
+  "title": "Best Deodorants (2026)",
+  "slug": "best-deodorants-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 46
+ },
+ {
+  "title": "Best Makeup Primers (2026)",
+  "slug": "best-makeup-primers-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 47
  }
 ]

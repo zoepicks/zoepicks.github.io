@@ -33,14 +33,62 @@
   "date": "Oct 15, 2026"
  },
  {
+  "slug": "best-smartphones-2026",
+  "title": "Best Smartphones (2026)",
+  "category": "mobiles",
+  "soon": true
+ },
+ {
+  "slug": "best-ps5-consoles-bundles-2026",
+  "title": "Best PS5 Consoles & Bundles (2026)",
+  "category": "gaming",
+  "soon": true
+ },
+ {
+  "slug": "best-3d-printers-2026",
+  "title": "Best 3D Printers (2026)",
+  "category": "other",
+  "soon": true
+ },
+ {
+  "slug": "best-e-readers-2026",
+  "title": "Best Kindle & E-Readers (2026)",
+  "category": "electronics",
+  "soon": true
+ },
+ {
+  "slug": "best-hoodies-2026",
+  "title": "Best Hoodies (2026)",
+  "category": "fashion",
+  "soon": true
+ },
+ {
+  "slug": "best-walking-pads-2026",
+  "title": "Best Walking Pads (2026)",
+  "category": "fitness_outdoor",
+  "soon": true
+ },
+ {
+  "slug": "best-perfumes-2026",
+  "title": "Best Perfumes (2026)",
+  "category": "beauty_health",
+  "soon": true
+ },
+ {
+  "slug": "best-record-players-2026",
+  "title": "Best Record Players (2026)",
+  "category": "electronics",
+  "soon": true
+ },
+ {
   "slug": "best-budget-laptops-under-600-2026",
   "title": "Best Budget Laptops Under $600 (2026)",
   "category": "computers_phones",
   "soon": true
  },
  {
-  "slug": "best-gaming-laptops-under-1500-2026",
-  "title": "Best Gaming Laptops Under $1500 (2026)",
+  "slug": "best-gaming-laptops-under-1000-2026",
+  "title": "Best Gaming Laptops Under $1000 (2026)",
   "category": "computers_phones",
   "also": [
    "gaming"
@@ -51,6 +99,159 @@
   "slug": "best-macbook-air-alternatives-2026",
   "title": "Best MacBook Air Alternatives (2026)",
   "category": "computers_phones",
+  "soon": true
+ },
+ {
+  "slug": "best-mens-colognes-2026",
+  "title": "Best Men's Colognes (2026)",
+  "category": "beauty_health",
+  "soon": true
+ },
+ {
+  "slug": "best-air-fryers-2026",
+  "title": "Best Air Fryers (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-bookshelves-2026",
+  "title": "Best Bookshelves (2026)",
+  "category": "furniture_decor",
+  "soon": true
+ },
+ {
+  "slug": "best-sewing-machines-2026",
+  "title": "Best Sewing Machines (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-nintendo-switch-bundles-2026",
+  "title": "Best Nintendo Switch Bundles (2026)",
+  "category": "gaming",
+  "soon": true
+ },
+ {
+  "slug": "best-ps5-accessories-2026",
+  "title": "Best PS5 Accessories (2026)",
+  "category": "gaming",
+  "soon": true
+ },
+ {
+  "slug": "best-comforter-sets-2026",
+  "title": "Best Comforter Sets (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-home-gym-equipment-2026",
+  "title": "Best Home Gym Equipment (2026)",
+  "category": "fitness_outdoor",
+  "soon": true
+ },
+ {
+  "slug": "best-space-heaters-2026",
+  "title": "Best Space Heaters (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-juicers-2026",
+  "title": "Best Juicers (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-pillows-2026",
+  "title": "Best Pillows (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-planners-2026",
+  "title": "Best Planners (2026)",
+  "category": "office_books",
+  "soon": true
+ },
+ {
+  "slug": "best-tote-bags-2026",
+  "title": "Best Tote Bags (2026)",
+  "category": "fashion",
+  "soon": true
+ },
+ {
+  "slug": "best-winter-coats-2026",
+  "title": "Best Winter Coats (2026)",
+  "category": "fashion",
+  "soon": true
+ },
+ {
+  "slug": "best-espresso-machines-2026",
+  "title": "Best Espresso Machines (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-monitors-for-home-office-2026",
+  "title": "Best Monitors for Home Office (2026)",
+  "category": "monitors",
+  "soon": true
+ },
+ {
+  "slug": "best-noise-cancelling-headphones-2026",
+  "title": "Best Noise-Cancelling Headphones (2026)",
+  "category": "electronics",
+  "soon": true
+ },
+ {
+  "slug": "best-fish-tanks-2026",
+  "title": "Best Fish Tanks (2026)",
+  "category": "pets",
+  "soon": true
+ },
+ {
+  "slug": "best-food-processors-2026",
+  "title": "Best Food Processors (2026)",
+  "category": "home_kitchen",
+  "soon": true
+ },
+ {
+  "slug": "best-gym-bags-2026",
+  "title": "Best Gym Bags (2026)",
+  "category": "fashion",
+  "soon": true
+ },
+ {
+  "slug": "best-hammocks-2026",
+  "title": "Best Hammocks (2026)",
+  "category": "furniture_decor",
+  "soon": true
+ },
+ {
+  "slug": "best-lawn-mowers-2026",
+  "title": "Best Lawn Mowers (2026)",
+  "category": "tools_auto",
+  "soon": true
+ },
+ {
+  "slug": "best-deodorants-2026",
+  "title": "Best Deodorants (2026)",
+  "category": "beauty_health",
+  "soon": true
+ },
+ {
+  "slug": "best-makeup-primers-2026",
+  "title": "Best Makeup Primers (2026)",
+  "category": "beauty_health",
+  "soon": true
+ },
+ {
+  "slug": "best-gaming-laptops-under-1500-2026",
+  "title": "Best Gaming Laptops Under $1500 (2026)",
+  "category": "computers_phones",
+  "also": [
+   "gaming"
+  ],
   "soon": true
  },
  {
@@ -174,12 +375,6 @@
   "soon": true
  },
  {
-  "slug": "best-monitors-for-home-office-2026",
-  "title": "Best Monitors for Home Office (2026)",
-  "category": "monitors",
-  "soon": true
- },
- {
   "slug": "best-monitors-for-mac-2026",
   "title": "Best Monitors for Mac (2026)",
   "category": "monitors",
@@ -258,20 +453,8 @@
   "soon": true
  },
  {
-  "slug": "best-air-fryers-2026",
-  "title": "Best Air Fryers (2026)",
-  "category": "home_kitchen",
-  "soon": true
- },
- {
   "slug": "best-coffee-makers-2026",
   "title": "Best Coffee Makers (2026)",
-  "category": "home_kitchen",
-  "soon": true
- },
- {
-  "slug": "best-espresso-machines-2026",
-  "title": "Best Espresso Machines (2026)",
   "category": "home_kitchen",
   "soon": true
  },
@@ -312,12 +495,6 @@
   "soon": true
  },
  {
-  "slug": "best-noise-cancelling-headphones-2026",
-  "title": "Best Noise-Cancelling Headphones (2026)",
-  "category": "electronics",
-  "soon": true
- },
- {
   "slug": "best-bluetooth-speakers-2026",
   "title": "Best Bluetooth Speakers (2026)",
   "category": "electronics",
@@ -350,12 +527,6 @@
  {
   "slug": "best-projectors-2026",
   "title": "Best Projectors (2026)",
-  "category": "electronics",
-  "soon": true
- },
- {
-  "slug": "best-e-readers-2026",
-  "title": "Best E-Readers (2026)",
   "category": "electronics",
   "soon": true
  }
