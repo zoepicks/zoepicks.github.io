@@ -3,9 +3,9 @@
  "title": "Top Android Phones to Buy Right Now (2026)",
  "category": "mobiles",
  "date": "Oct 16, 2026",
- "summary": "The Galaxy S26 Ultra is the best premium Android phone, the OnePlus 15 leads on battery, the Pixel 10 Pro on AI and the Pixel 10a on value.",
- "method": "Picks come from TechRadar, Tom's Guide, Android Central, PhoneArena and T3. Only phones named by at least two of these sources are listed.",
- "assumptions": "We show no prices because phone prices and deals change often. Newer phones such as the Pixel 11 series and Galaxy Z Fold 8 have launched, and some roundups haven't fully updated, so check the latest models too.",
+ "summary": "The Galaxy S26 Ultra is the best premium Android phone, the OnePlus 15 leads on battery, the Pixel 11 Pro on camera and the Pixel 10a on value.",
+ "method": "Picks come from TechRadar, Tom's Guide, Android Central, PhoneArena, BGR, Mobiles.co.uk and T3. Only phones named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because phone prices and deals change often. The Pixel 11 series and Galaxy Z Fold 8 launched in summer 2026, and some roundups have not fully updated, so check the latest reviews too.",
  "products": [
   {
    "name": "Samsung Galaxy S26 Ultra",
@@ -58,28 +58,31 @@
    "link": "https://www.amazon.com/s?k=OnePlus+15&tag=iamcartigo-20"
   },
   {
-   "name": "Google Pixel 10 Pro / Pro XL",
-   "short": "Pixel 10 Pro",
-   "badge": "Best for AI and clean software",
+   "name": "Google Pixel 11 Pro / Pro XL",
+   "short": "Pixel 11 Pro",
+   "badge": "Best for camera and AI software",
    "why": [
-    "TechRadar names the Pixel 10 Pro and Pro XL the best Android phones for AI, because Google's own phones get new AI and Android features first. Tom's Guide calls the Pixel 10 Pro XL the AI phone to beat.",
-    "PhoneArena describes the Pixel 10 Pro XL as a 6.8-inch OLED phone with strong Gemini AI that is one of the best Android phones."
+    "BGR calls the Pixel 11 Pro XL Google's best camera phone by a comfortable margin and says its main camera may be the best it has used on any Android phone. PhoneArena also titles its review an even better camera phone, and Mobiles.co.uk says the Tensor chip makes it an easy phone to recommend for AI.",
+    "Reviews are mixed on everything else: Tom's Guide calls the Pixel 11 Pro disappointing next to rival flagships, BGR finds battery life solid rather than impressive, and the base Pro XL has 12GB RAM, down from 16GB (Mobiles.co.uk)."
    ],
    "specs": [
-    "Pixel 10 Pro and Pro XL sizes",
-    "Magic Cue AI feature (TechRadar)",
-    "Android 16"
+    "Tensor G6 chip",
+    "Android 17 out of the box (Mobiles.co.uk)",
+    "6.3-inch Pro and 6.8-inch Pro XL sizes"
    ],
    "pros": [
-    "Best AI features",
-    "Clean Android with early updates"
+    "Top Android camera (BGR)",
+    "Excellent display",
+    "Strong Google AI features"
    ],
    "cons": [
-    "Newer Pixel 11 phones have since launched (Android Central)"
+    "Performance trails the top Android flagships",
+    "Little changed from the Pixel 10 Pro",
+    "Base model has less RAM than last year"
    ],
-   "best_for": "People who want Google's AI and software",
-   "skip_if": "You want the longest battery or the best zoom camera",
-   "link": "https://www.amazon.com/s?k=Google+Pixel+10+Pro+%2F+Pro+XL&tag=iamcartigo-20"
+   "best_for": "People who want Google's camera and AI features",
+   "skip_if": "You want the strongest performance or the longest battery",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+11+Pro+%2F+Pro+XL&tag=iamcartigo-20"
   },
   {
    "name": "Google Pixel 10a",
