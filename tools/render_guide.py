@@ -11,7 +11,7 @@ CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "compute
 EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","mobiles":"📱","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
 def is_live(g):
     """A guide with an 'expires' date (YYYY-MM-DD) stops being live ON that date (UTC). No 'expires' = evergreen = always live."""
-    if g.get("retired"): return False
+    if g.get("retired") or g.get("soon"): return False      # "soon" = coming-soon header row, no article yet
     ex = g.get("expires")
     return not ex or datetime.date.today().isoformat() < ex
 
@@ -198,9 +198,26 @@ def sync_index_expiry():
             elif not ex[g["slug"]] and "expires" in g: del g["expires"]; ch = True
     if ch: ix.write_text(json.dumps(L, indent=1))
 
+def sync_soon():
+    """Keep a 'Coming soon' header row in guides/index.json for every draft guide (src/*.json with "draft": true) so the
+    category page lists all planned topics. Rows follow plan priority; a row disappears once the draft becomes a real guide."""
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text())
+    try: pr = {t["slug"]: t.get("priority", 999) for t in json.loads((ROOT / "plan/topics.json").read_text())}
+    except Exception: pr = {}
+    live = {g["slug"] for g in L if not g.get("soon")}
+    soon = []
+    for f in (ROOT / "src").glob("*.json"):
+        d = json.load(open(f))
+        if d.get("draft") and not d.get("retired") and d["slug"] not in live:
+            soon.append({"slug": d["slug"], "title": d["title"], "category": d["category"], "soon": True})
+    soon.sort(key=lambda g: (pr.get(g["slug"], 999), g["slug"]))
+    new = [g for g in L if not g.get("soon")] + soon
+    if new != L: ix.write_text(json.dumps(new, indent=1))
+
 def rebuild_all(base):
     """Re-render every guide from src/*.json (keeps guides/index.json order). Run after changing assets/og.png."""
     sync_index_expiry()
+    sync_soon()
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(retired_html(d, base) if d.get("retired") else render(d, base)); print("ok", out / "index.html")
@@ -213,6 +230,7 @@ if __name__ == "__main__":
     if not re.match(r"^[a-z0-9-]{3,80}$", d["slug"]): raise SystemExit("bad slug")
     out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True); (out / "index.html").write_text(render(d, base))
     ix = ROOT / "guides/index.json"; L = [x for x in json.loads(ix.read_text()) if x["slug"] != d["slug"]]
+    if d.get("draft"): print("draft: not added to the live index (shows as Coming soon)"); ix.write_text(json.dumps(L, indent=1)); print("ok", out / "index.html"); (rebuild_all(base) if base else None); raise SystemExit
     L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"], **({"expires": d["expires"]} if d.get("expires") else {})}); ix.write_text(json.dumps(L[:500], indent=1))
     print("ok", out / "index.html")
     if base: rebuild_all(base)

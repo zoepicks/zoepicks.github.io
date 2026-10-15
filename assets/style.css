@@ -151,3 +151,5 @@ h2.cmp{margin:8px 0 4px}
 .rail a{background:transparent;border-style:dashed;color:var(--mut)}
 .rail a b{font-size:12.5px;font-weight:600}
 }
+
+.item.soon{opacity:.75;cursor:default}.item.soon .tag{background:rgba(108,92,231,.12);color:var(--a,#6c5ce7);border-radius:999px;padding:3px 10px;font-weight:600;white-space:nowrap}

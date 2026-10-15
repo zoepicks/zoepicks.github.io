@@ -12,4 +12,4 @@
 <footer>© Zoe Picks · <a href="https://www.amazon.com">Amazon and the Amazon logo are trademarks of Amazon.com, Inc.</a></footer></main>
 <script src="assets/site.js" data-root="."></script><script>
 cats.innerHTML=CATS.map(c=>`<a class="cat" href="category.html?c=${c[0]}"><i>${c[1]}</i><b>${c[2]}</b></a>`).join("");
-guides().then(g=>{latest.innerHTML=g.length?g.slice(0,8).map(row).join(""):'<div class="empty">First guides are on the way.</div>'});</script></body></html>
+guides().then(g=>{g=g.filter(x=>!x.soon);latest.innerHTML=g.length?g.slice(0,8).map(row).join(""):'<div class="empty">First guides are on the way.</div>'});</script></body></html>
