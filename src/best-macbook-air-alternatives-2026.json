@@ -2,9 +2,108 @@
  "slug": "best-macbook-air-alternatives-2026",
  "title": "Windows Laptops That Rival the MacBook Air (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on laptop reviews, and specs and battery figures will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The Dell XPS 14, Microsoft Surface Laptop 7 and HP OmniBook Ultra are the Windows laptops reviewers most often name as MacBook Air rivals.",
+ "method": "Picks come from Digital Trends, Tom's Guide (as cited by CloudColleague), Tbreak, GeekChamp, CNET (as cited by iTechGuides) and Parse's roundup of AI answers. Only models named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because laptop prices rose and changed often in 2026. Check the current price and configuration before you buy.",
+ "products": [
+  {
+   "name": "Dell XPS 14 (2026)",
+   "short": "Dell XPS 14",
+   "badge": "Best Windows polish",
+   "why": [
+    "Tom's Guide rates the XPS 14 its best overall Windows laptop, according to CloudColleague, with battery life above 20 hours in testing and a chassis of about three pounds. Tbreak describes it as Windows at its most Mac-like.",
+    "Tbreak lists a unibody aluminium chassis, an Intel Core Ultra 7 355 chip and a 120Hz display. Parse's roundup also names the Dell XPS as the top Windows alternative."
+   ],
+   "specs": [
+    "Unibody aluminium chassis",
+    "Intel Core Ultra 7 355 (Tbreak)",
+    "120Hz variable-refresh display",
+    "About 3 pounds"
+   ],
+   "pros": [
+    "Premium Mac-like build",
+    "Excellent battery life in Tom's Guide testing",
+    "Keyboard rated among the best (Tbreak)"
+   ],
+   "cons": [
+    "Premium-priced"
+   ],
+   "best_for": "People who want Windows with MacBook-level polish",
+   "skip_if": "You want to spend less or need a tablet-style 2-in-1",
+   "link": "https://www.amazon.com/s?k=Dell+XPS+14+%282026%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Microsoft Surface Laptop (7th Edition)",
+   "short": "Surface Laptop 7",
+   "badge": "Best Windows-first alternative",
+   "why": [
+    "Digital Trends names the Surface Laptop 7, a Snapdragon X Elite machine, as the alternative to the 15-inch MacBook Air, calling the 15-inch model fast and long-lasting. GeekChamp picks it as the best Windows-first alternative to the MacBook Air.",
+    "GeekChamp says it suits people whose school or work depends on Windows-native software."
+   ],
+   "specs": [
+    "Qualcomm Snapdragon X Elite chip",
+    "Windows on Arm",
+    "Copilot+ PC",
+    "15-inch version available"
+   ],
+   "pros": [
+    "Fast and long-lasting",
+    "Efficient battery use that challenges the MacBook Air (Digital Trends)"
+   ],
+   "cons": [
+    "Windows on Arm may not run every app"
+   ],
+   "best_for": "Windows users who want a clean, Air-like laptop",
+   "skip_if": "You rely on software that isn't ready for Windows on Arm",
+   "link": "https://www.amazon.com/s?k=Microsoft+Surface+Laptop+%287th+Edition%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "HP OmniBook Ultra 14",
+   "short": "OmniBook Ultra 14",
+   "badge": "Strongest premium Windows rival",
+   "why": [
+    "A University of Georgia ag-tech guide calls the HP OmniBook Ultra 14 the strongest alternative to the MacBook Air for people who prefer Windows or need it for specific apps.",
+    "Tbreak names the OmniBook Ultra Flip 14 with a Core Ultra 7 256V its best Windows Air alternative, as a 2-in-1 OLED."
+   ],
+   "specs": [
+    "14-inch screen",
+    "Intel Core Ultra 7 256V (Flip version, Tbreak)",
+    "OLED 2-in-1 Flip version"
+   ],
+   "pros": [
+    "Strong premium alternative to the Air",
+    "Flip version adds tablet mode and OLED"
+   ],
+   "cons": [
+    "Premium-priced"
+   ],
+   "best_for": "Windows users who want the closest thing to an Air",
+   "skip_if": "You want the lowest price",
+   "link": "https://www.amazon.com/s?k=HP+OmniBook+Ultra+14&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo Yoga 9i 2-in-1 (Aura Edition)",
+   "short": "Yoga 9i Aura",
+   "badge": "Best convertible rival",
+   "why": [
+    "CNET, as cited by iTechGuides, names the Yoga 9i 2-in-1 Aura Edition its best convertible. Parse's roundup lists it as a top Windows alternative to the MacBook Air.",
+    "It adds a flip-and-fold design that the MacBook Air doesn't offer."
+   ],
+   "specs": [
+    "2-in-1 convertible design",
+    "Aura Edition"
+   ],
+   "pros": [
+    "Flexible laptop and tablet use",
+    "Named by more than one source as an Air alternative"
+   ],
+   "cons": [
+    "Convertible design may cost more than a plain laptop"
+   ],
+   "best_for": "People who want touch and pen use plus a laptop",
+   "skip_if": "You only want a simple, light clamshell",
+   "link": "https://www.amazon.com/s?k=Lenovo+Yoga+9i+2-in-1+%28Aura+Edition%29&tag=iamcartigo-20"
+  }
+ ]
 }
