@@ -27,9 +27,21 @@ def render(d, base=""):
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])),
-           "OGURL": f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/">' if base else ""}
+           "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
     return t
+
+def site_files(base):
+    """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
+    L = json.loads((ROOT / "guides/index.json").read_text())
+    urls = [f"{base}/"] + [f"{base}/g/{g['slug']}/" for g in L]
+    (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
+    (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
+    ix = ROOT / "index.html"; h = ix.read_text()
+    rows = "".join(f'<a class="item" href="g/{g["slug"]}/"><span><b>{e(g["title"])}</b><br><small>{e(CATS.get(g["category"], "Guide"))}</small></span><small>{e(g.get("date", ""))}</small></a>' for g in L[:8])
+    h = re.sub(r"<!--GUIDES-->.*?<!--/GUIDES-->", lambda m: "<!--GUIDES-->" + rows + "<!--/GUIDES-->", h, flags=re.S)
+    ix.write_text(h)
 
 if __name__ == "__main__":
     d = json.load(open(sys.argv[1])); base = sys.argv[2].rstrip("/") if len(sys.argv) > 2 else ""
@@ -38,3 +50,4 @@ if __name__ == "__main__":
     ix = ROOT / "guides/index.json"; L = [x for x in json.loads(ix.read_text()) if x["slug"] != d["slug"]]
     L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"]}); ix.write_text(json.dumps(L[:500], indent=1))
     print("ok", out / "index.html")
+    if base: site_files(base)
