@@ -20,7 +20,7 @@ def card(i, p):
         raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
     h = f'<article class="card" id="p{i+1}">' + (f'<span class="rank">{e(p["badge"])}</span>' if p.get("badge") else "") + f'<h3>{e(p["name"])}</h3>'
     if p.get("price"): h += f'<div class="price">{e(p["price"])}' + (f' · as of {e(p["price_asof"])}' if p.get("price_asof") else "") + ' — may have changed</div>'
-    if p.get("image"): h += f'<img src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy">'
+    if p.get("image"): h += f'<img src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
     if p.get("why"):
         paras = p["why"] if isinstance(p["why"], list) else [p["why"]]
         h += '<div class="why"><b>Why we picked it</b>' + "".join(f"<p>{e(x)}</p>" for x in paras) + "</div>"

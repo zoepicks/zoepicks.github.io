@@ -1,0 +1,29 @@
+name: Render guides
+# Re-renders every guide page whenever a guide's source JSON (src/*.json) changes -
+# e.g. when the bot fills in product images. The commit it makes only touches generated
+# files (g/, guides/, index.html, sitemap.xml), so it cannot trigger itself.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "tools/render_guide.py"
+      - "templates/**"
+      - "assets/style.css"
+permissions:
+  contents: write
+concurrency:
+  group: render-guides
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/render_guide.py --all https://zoepicks.github.io
+      - name: Commit rendered pages
+        run: |
+          git config user.name "zoe-render-bot"
+          git config user.email "zoe-render-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "render: rebuild guides"; git pull --rebase -q; git push; fi
