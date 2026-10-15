@@ -2,12 +2,107 @@
  "slug": "best-gaming-laptops-under-1500-2026",
  "title": "Top Gaming Laptops Under $1500 (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on laptop reviews, and specs and battery figures will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": [],
- "also": [
-  "gaming"
+ "date": "Oct 16, 2026",
+ "summary": "The ROG Strix G16 leads on performance under $1500, with the ASUS TUF Gaming, Acer Nitro V 16 and Lenovo LOQ 15 as the value picks.",
+ "method": "Picks come from Notebookcheck, PCGuide, Eneba, GeekChamp, Empire and two smaller testing roundups. Only models or lines named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because gaming-laptop prices and configurations change often. GPU wattage, RAM and cooling vary a lot between versions, so check the exact configuration before you buy.",
+ "products": [
+  {
+   "name": "ASUS ROG Strix G16",
+   "short": "ROG Strix G16",
+   "badge": "Best overall under $1500",
+   "why": [
+    "Eneba and two other review roundups name the ROG Strix G16 the best overall gaming laptop under $1500, and PCGuide calls it the best 16-inch pick in this budget.",
+    "One roundup lists an RTX 5060 with DLSS 4 and says it holds steady performance without throttling, though it can run hot under heavy load."
+   ],
+   "specs": [
+    "16-inch screen",
+    "RTX 5060 in the 2025 model (review roundup)",
+    "165Hz display (Eneba)"
+   ],
+   "pros": [
+    "Strongest all-round performance in the group",
+    "Premium build and reliable cooling"
+   ],
+   "cons": [
+    "Under 2 hours of gaming on battery (review roundup)",
+    "Slightly heavy (Eneba)"
+   ],
+   "best_for": "Gamers who want the best performance under $1500",
+   "skip_if": "You want a thin, light laptop with long battery life",
+   "link": "https://www.amazon.com/s?k=ASUS+ROG+Strix+G16&tag=iamcartigo-20"
+  },
+  {
+   "name": "ASUS TUF Gaming A16 / A18 / F16",
+   "short": "ASUS TUF Gaming",
+   "badge": "Best durable value",
+   "why": [
+    "Notebookcheck ranks the TUF Gaming A18 with a Ryzen 7 260 and RTX 5060 second on its affordable gaming laptop list. Eneba calls the TUF Gaming A16 its pick for high performance under $1500.",
+    "Other roundups praise the TUF Gaming F16 as the most durable build and the budget champion of the group."
+   ],
+   "specs": [
+    "16-inch and 18-inch versions",
+    "AMD Ryzen 7 260 and RTX 5060 in the A18 (Notebookcheck)"
+   ],
+   "pros": [
+    "Durable build",
+    "Stays comfortable to the touch during long sessions (review roundup)",
+    "Good value for the performance"
+   ],
+   "cons": [
+    "Limited battery life while gaming"
+   ],
+   "best_for": "Gamers who want a tough, good-value laptop",
+   "skip_if": "You want a premium thin design",
+   "link": "https://www.amazon.com/s?k=ASUS+TUF+Gaming+A16+%2F+A18+%2F+F16&tag=iamcartigo-20"
+  },
+  {
+   "name": "Acer Nitro V 16 / 16S AI",
+   "short": "Acer Nitro V 16",
+   "badge": "Best value 16-inch",
+   "why": [
+    "Eneba names the Nitro V 16 its best gaming laptop for 1080p under $1500. A July roundup picks the Nitro V 16S AI as its best value, with a 32GB option for gamers who also stream.",
+    "Notebookcheck also lists the Nitro V 16 AI among its good affordable gaming laptops."
+   ],
+   "specs": [
+    "16-inch screen",
+    "Up to 32GB RAM option (review roundup)",
+    "Windows"
+   ],
+   "pros": [
+    "Strong value",
+    "Good 1080p gaming",
+    "32GB RAM option for streaming"
+   ],
+   "cons": [
+    "Typical gaming-laptop battery life of about 3 hours of casual use (review roundup)"
+   ],
+   "best_for": "Value-focused gamers who play at 1080p",
+   "skip_if": "You want the most premium build",
+   "link": "https://www.amazon.com/s?k=Acer+Nitro+V+16+%2F+16S+AI&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo LOQ 15",
+   "short": "Lenovo LOQ 15",
+   "badge": "Best affordable pick",
+   "why": [
+    "Notebookcheck lists the 2026 Lenovo LOQ 15 as a good affordable gaming laptop. GeekChamp's top overall pick under $1000 is a discounted LOQ with an RTX 4060.",
+    "Empire calls the LOQ 15 the best 15-inch gaming laptop in its budget range."
+   ],
+   "specs": [
+    "15-inch screen",
+    "RTX 4050 to RTX 4060 graphics (GeekChamp)"
+   ],
+   "pros": [
+    "Strong graphics value",
+    "Good for 1080p gaming"
+   ],
+   "cons": [
+    "Best value only on discounted RTX 4060 versions"
+   ],
+   "best_for": "Players who want to spend less than the premium options",
+   "skip_if": "You want the strongest GPU at this price",
+   "link": "https://www.amazon.com/s?k=Lenovo+LOQ+15&tag=iamcartigo-20"
+  }
  ]
 }
