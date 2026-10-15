@@ -1,7 +1,7 @@
 name: Collect guide data
 # Bot collects data for "todo" topics from the best review sites, builds guides, renders them.
 # NO fixed schedule any more. The Naami bot (x/zoe_collect.py on Render) triggers this ONCE per day,
-# right after BOTH the X window and the FB window have closed (bot idle), asking for up to 50 guides.
+# right after BOTH the X window and the FB window have closed (bot idle), asking for up to 150 guides (built in sequential chunks of 50, one job each, because one GitHub job is limited to 6 h).
 # Manual run: Actions tab -> Run workflow (optionally a slug / a count).
 # Needs repo secret GROQ_API_KEY (optionally OPENROUTER_API_KEY, TAVILY_API_KEY).
 on:
@@ -13,7 +13,7 @@ on:
         description: "Specific topic slug (empty = next todo topics by priority)"
         required: false
       count:
-        description: "How many guides to build in this run (default 50, max 60)"
+        description: "How many guides to build in this run (default 50, max 150)"
         required: false
         default: "50"
 permissions:
@@ -23,35 +23,62 @@ concurrency:
   cancel-in-progress: false
 jobs:
   collect:
+    # Chunks run ONE AFTER ANOTHER (max-parallel 1); each chunk builds up to 50 guides and pushes before the next starts.
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        chunk: [0, 1, 2]
     runs-on: ubuntu-latest
     timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Plan this chunk
+        id: plan
+        env:
+          IN_SLUG: ${{ github.event.inputs.slug }}
+          IN_COUNT: ${{ github.event.client_payload.count || github.event.inputs.count }}
+          CHUNK: ${{ matrix.chunk }}
+        run: |
+          COUNT="${IN_COUNT:-50}"
+          case "$COUNT" in ''|*[!0-9]*) COUNT=50;; esac
+          [ "$COUNT" -gt 150 ] && COUNT=150
+          if [ -n "$IN_SLUG" ]; then SHARE=$([ "$CHUNK" = "0" ] && echo 1 || echo 0)
+          else
+            SHARE=$(( COUNT - CHUNK * 50 ))
+            [ "$SHARE" -gt 50 ] && SHARE=50
+            [ "$SHARE" -lt 0 ] && SHARE=0
+          fi
+          echo "share=$SHARE" >> "$GITHUB_OUTPUT"
+          echo "chunk $CHUNK builds $SHARE guide(s) (total requested: $COUNT)"
+      - if: steps.plan.outputs.share != '0'
+        uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: pip install -q requests beautifulsoup4 lxml playwright
+      - if: steps.plan.outputs.share != '0'
+        run: pip install -q requests beautifulsoup4 lxml playwright
       # Browser fallback (blocked pages / blocked search). Never fails the job if the install hiccups.
-      - run: playwright install --with-deps chromium || echo "playwright install failed - browser fallback disabled"
+      - if: steps.plan.outputs.share != '0'
+        run: playwright install --with-deps chromium || echo "playwright install failed - browser fallback disabled"
       - name: Collect + build guides
+        if: steps.plan.outputs.share != '0'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           IN_SLUG: ${{ github.event.inputs.slug }}
-          IN_COUNT: ${{ github.event.client_payload.count || github.event.inputs.count }}
+          SHARE: ${{ steps.plan.outputs.share }}
+          CHUNK: ${{ matrix.chunk }}
         run: |
-          COUNT="${IN_COUNT:-50}"
-          case "$COUNT" in ''|*[!0-9]*) COUNT=50;; esac
-          [ "$COUNT" -gt 60 ] && COUNT=60
           mkdir -p .github
           set -o pipefail
+          TEE="tee"; [ "$CHUNK" != "0" ] && TEE="tee -a"      # last-collect.log accumulates across the chunks of one run
           if [ -n "$IN_SLUG" ]; then
-            python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | tail -n 200 | tee .github/last-collect.log
+            python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | tail -n 200 | $TEE .github/last-collect.log
           else
-            python3 -u tools/collect_guide.py --count "$COUNT" --gap 45 2>&1 | tail -n 200 | tee .github/last-collect.log
+            python3 -u tools/collect_guide.py --count "$SHARE" --gap 45 2>&1 | tail -n 200 | $TEE .github/last-collect.log
           fi
       - name: Commit
-        if: always()
+        if: always() && steps.plan.outputs.share != '0'
         run: |
           git config user.name "zoe-collector-bot"
           git config user.email "zoe-collector-bot@users.noreply.github.com"
