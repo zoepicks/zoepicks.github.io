@@ -56,8 +56,25 @@ def _ddg(q, domain):
     return out[:2]
 
 
+def _tavily_multi(q, domains):
+    """ONE Tavily call per topic (free plan = 1000 searches/month): all review domains at once, 1 best URL per domain."""
+    r = requests.post("https://api.tavily.com/search", json={"api_key": os.environ["TAVILY_API_KEY"], "query": q, "include_domains": [d.split("/")[0] for d in domains],
+                      "max_results": 12, "search_depth": "basic"}, timeout=40)
+    r.raise_for_status()
+    seen, out = set(), []
+    for x in r.json().get("results", []):
+        host = next((d.split("/")[0] for d in domains if d.split("/")[0] in x["url"]), None)
+        if host and host not in seen: seen.add(host); out.append((host, x["url"]))
+    return out
+
+
 def discover(topic, domains):
     q = re.sub(r"\(\d{4}\)", "", topic["title"]).strip() + " review tested"
+    if os.environ.get("TAVILY_API_KEY"):
+        try:
+            pages = _tavily_multi(q, domains)
+            if pages: return pages
+        except Exception as e: log("tavily multi fail", e)
     pages = []
     for d in domains:
         try: urls = _tavily(q, d) if os.environ.get("TAVILY_API_KEY") else _ddg(q, d)
