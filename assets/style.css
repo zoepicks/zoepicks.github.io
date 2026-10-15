@@ -81,3 +81,4 @@ h2{font-size:18px;margin:22px 0 10px}
 .more-d .why p{font-size:14px;line-height:1.55}.more-d .pc{grid-template-columns:1fr 1fr;gap:8px}.more-d .pc ul{font-size:13px;padding-left:16px}
 .tbl th{background:var(--bg)}.tbl td.pr b{font-size:15px;display:block}.tbl s{color:var(--mut);font-size:12px}.tbl .pk{display:block;color:var(--mut);font-size:11.5px;margin-top:2px}
 .tbl .off{font-size:12px;padding:2px 7px}.tbl tbody tr:nth-child(even) td{background:color-mix(in srgb,var(--bg) 55%,transparent)}
+.cd.ended{display:block;background:rgba(244,63,94,.18);border-color:rgba(244,63,94,.6);color:#fecdd3;border-radius:14px}.cd.ended span{display:block;font-weight:500;margin-top:2px;color:#ffe4e6}

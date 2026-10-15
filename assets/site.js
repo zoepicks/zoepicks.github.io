@@ -1,4 +1,4 @@
 const CATS=[["home_kitchen","🍳","Home & Kitchen"],["electronics","🎧","Electronics"],["computers_phones","💻","Computers & Phones"],["beauty_health","🧴","Beauty & Health"],["fitness_outdoor","🏃","Fitness & Outdoor"],["fashion","👟","Fashion"],["toys_kids","🧸","Toys & Kids"],["tools_auto","🔧","Tools & Auto"],["pets","🐶","Pets"],["office_books","📚","Office & Books"],["gaming","🎮","Gaming"],["smart_home","🏠","Smart Home & TV"],["furniture_decor","🛋️","Furniture & Decor"],["hobby_music","🎸","Hobby & Music"],["other","✨","More"]];
 const ROOT=document.currentScript.dataset.root||".";
-async function guides(){try{return await (await fetch(ROOT+"/guides/index.json",{cache:"no-store"})).json()}catch(e){return[]}}
+async function guides(){try{var d=new Date().toISOString().slice(0,10);return (await (await fetch(ROOT+"/guides/index.json",{cache:"no-store"})).json()).filter(function(g){return !g.expires||d<g.expires})}catch(e){return[]}}
 function row(g){return `<a class="item" href="${ROOT}/g/${g.slug}/"><span><b>${g.title}</b><br><small>${(CATS.find(c=>c[0]==g.category)||[0,0,"Guide"])[2]}</small></span><small>${g.date||""}</small></a>`}

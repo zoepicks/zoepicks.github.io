@@ -3,6 +3,9 @@ name: Render guides
 # e.g. when the bot fills in product images. The commit it makes only touches generated
 # files (g/, guides/, index.html, sitemap.xml), so it cannot trigger itself.
 on:
+  schedule:
+    - cron: "20 5 * * *"   # daily: lets offers with an "expires" date flip to ended / get delisted on their own
+  workflow_dispatch:
   push:
     branches: [main]
     paths:

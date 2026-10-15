@@ -2,13 +2,18 @@
 Usage: python tools/render_guide.py guide.json [BASE_URL]\n       python tools/render_guide.py --all BASE_URL   (re-render all guides; run after changing assets/og.png — og:image ?v= is auto-set from the image hash)
 guide.json: {slug,title,category,summary,method,date,assumptions?,products:[{name,badge?,price?,price_asof?,specs[],pros[],cons[],best_for,link,image?}]}
 Only fields that are present get rendered — nothing is invented."""
-import json, sys, html, re, pathlib, hashlib
+import json, sys, html, re, pathlib, hashlib, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Computers & Phones", "beauty_health": "Beauty & Health",
         "fitness_outdoor": "Fitness & Outdoor", "fashion": "Fashion", "toys_kids": "Toys & Kids", "tools_auto": "Tools & Auto", "pets": "Pets",
         "office_books": "Office & Books", "gaming": "Gaming", "smart_home": "Smart Home & TV", "furniture_decor": "Furniture & Decor",
         "hobby_music": "Hobby & Music", "other": "More"}
 EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
+def is_live(g):
+    """A guide with an 'expires' date (YYYY-MM-DD) stops being live ON that date (UTC). No 'expires' = evergreen = always live."""
+    ex = g.get("expires")
+    return not ex or datetime.date.today().isoformat() < ex
+
 def og_version():
     f = ROOT / "assets/og.png"
     return hashlib.md5(f.read_bytes()).hexdigest()[:8] if f.exists() else "0"
@@ -92,9 +97,14 @@ def compare_html(d):
     return f'<h2>Quick comparison <small class="tap">tap a name to jump</small></h2><div class="tbl"><table><thead><tr><th>Laptop</th><th>Deal</th><th>Off</th></tr></thead><tbody>{rows}</tbody></table></div>'
 
 def countdown_html(d):
-    t = d.get("countdown_to")
-    if not t: return ""
-    return f'<div class="cd" data-to="{e(t)}"><b>{e(d.get("countdown_label", "Deal day in"))}</b><span>{e(t)}</span></div>'
+    """Black Friday style banner. 3 states: counting down -> deals live -> ended. Static HTML is the fallback; a small inline
+    script in the template flips the state by the viewer's clock, so it stays correct even between daily rebuilds."""
+    t, ex = d.get("countdown_to"), d.get("expires")
+    if not t and not ex: return ""
+    if not is_live(d):
+        return f'<div class="cd ended"><b>This offer has ended</b><span>Prices below were from {e(d.get("date", ""))}. Check the current price on Amazon.</span></div>'
+    return (f'<div class="cd" data-to="{e(t or "")}" data-exp="{e(ex or "")}" data-before="{e(d.get("countdown_label", "Deal day in"))}" data-live="{e(d.get("live_label", "Deals are live now"))}">'
+            f'<b>{e(d.get("countdown_label", "Deal day in"))}</b><span>{e(t or ex)}</span></div>')
 
 def tips_html(d):
     t = d.get("tips")
@@ -110,7 +120,7 @@ def more_html(d):
     """Horizontal 'more guides' carousel (static HTML). Same category first, then newest."""
     try: L = json.loads((ROOT / "guides/index.json").read_text())
     except Exception: L = []
-    L = [g for g in L if g["slug"] != d["slug"]]
+    L = [g for g in L if g["slug"] != d["slug"] and is_live(g)]
     L.sort(key=lambda g: g["category"] != d["category"])   # stable: keeps newest-first inside each group
     if not L: return ""
     cards = "".join(f'<a href="../{e(g["slug"])}/"><small>{e(CATS.get(g["category"], "Guide"))} · {e(g.get("date", ""))}</small><b>{e(g["title"])}</b><span>See top 5 picks →</span></a>' for g in L[:10])
@@ -127,7 +137,7 @@ def render(d, base=""):
 
 def site_files(base):
     """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
-    L = json.loads((ROOT / "guides/index.json").read_text())
+    L = [g for g in json.loads((ROOT / "guides/index.json").read_text()) if is_live(g)]
     urls = [f"{base}/"] + [f"{base}/g/{g['slug']}/" for g in L]
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
@@ -140,8 +150,21 @@ def site_files(base):
     h = re.sub(r"assets/og\.png\?v=[0-9a-zA-Z]+", "assets/og.png?v=" + og_version(), h)
     ix.write_text(h)
 
+def sync_index_expiry():
+    """Copy each guide's 'expires' from src/*.json into guides/index.json (the bot and the site read it there)."""
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}
+    for f in (ROOT / "src").glob("*.json"):
+        d = json.load(open(f)); ex[d["slug"]] = d.get("expires")
+    ch = False
+    for g in L:
+        if g["slug"] in ex:
+            if ex[g["slug"]] and g.get("expires") != ex[g["slug"]]: g["expires"] = ex[g["slug"]]; ch = True
+            elif not ex[g["slug"]] and "expires" in g: del g["expires"]; ch = True
+    if ch: ix.write_text(json.dumps(L, indent=1))
+
 def rebuild_all(base):
     """Re-render every guide from src/*.json (keeps guides/index.json order). Run after changing assets/og.png."""
+    sync_index_expiry()
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(render(d, base)); print("ok", out / "index.html")
@@ -154,6 +177,6 @@ if __name__ == "__main__":
     if not re.match(r"^[a-z0-9-]{3,80}$", d["slug"]): raise SystemExit("bad slug")
     out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True); (out / "index.html").write_text(render(d, base))
     ix = ROOT / "guides/index.json"; L = [x for x in json.loads(ix.read_text()) if x["slug"] != d["slug"]]
-    L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"]}); ix.write_text(json.dumps(L[:500], indent=1))
+    L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"], **({"expires": d["expires"]} if d.get("expires") else {})}); ix.write_text(json.dumps(L[:500], indent=1))
     print("ok", out / "index.html")
     if base: rebuild_all(base)
