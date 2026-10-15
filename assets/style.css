@@ -61,3 +61,23 @@ h2{font-size:18px;margin:22px 0 10px}
 .faq{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0}.faq summary{cursor:pointer;font-weight:600}.faq p{margin:8px 0 0;color:var(--mut);font-size:14px;line-height:1.6}
 
 .amz small{display:block;margin-top:2px;opacity:.8}
+
+/* ===== v2: compact deal cards, colour accents, bold discount ===== */
+.g-head.deal-head{background:linear-gradient(135deg,#12081f,#2a1055 60%,#4a1d96);border-radius:20px;padding:16px;margin-top:12px}
+.deal-head h1{color:#fff;margin:6px 0}.deal-head .crumb{color:#fbbf24;font-weight:700}.deal-head .sum{color:rgba(255,255,255,.8);font-size:14.5px;margin:6px 0 0}
+.cd{display:inline-flex;gap:8px;align-items:center;margin-top:12px;background:rgba(251,191,36,.16);border:1px solid rgba(251,191,36,.55);color:#fde68a;border-radius:99px;padding:5px 13px;font-size:13px}.cd span{font-weight:800;color:#fff}
+.intro p{font-size:15px;margin:6px 0}h2{margin:18px 0 8px}h2 .tap{font-size:12px;font-weight:500;color:var(--mut)}
+.card{border-left:5px solid var(--c,var(--a));padding:12px 14px;margin:12px 0}
+.card .rank{position:static;display:inline-block;background:var(--c,var(--a));margin:0 0 8px;font-size:11.5px}
+.top{display:flex;gap:12px;align-items:flex-start}.top .thumb{flex:0 0 84px;width:84px;height:84px;max-height:none;margin:0;border:1px solid var(--line)}
+.meta{min-width:0;flex:1}.card h3{font-size:17px;line-height:1.25;margin:0 0 4px}
+.pl{display:flex;flex-wrap:wrap;align-items:baseline;gap:8px}.now{font-size:27px;font-weight:800;letter-spacing:-.02em}.was{color:var(--mut);font-size:14px}
+.off{background:#e11d48;color:#fff;font-weight:800;font-size:13px;padding:3px 9px;border-radius:8px;white-space:nowrap}
+.sub{font-size:12.5px;color:var(--mut);margin-top:3px}.sub .save{color:#e11d48;font-size:14px;font-weight:800}
+.card .best{margin:8px 0 0;font-size:13.5px}.card .btn{margin-top:10px;padding:10px;background:var(--c,var(--a))}
+.more-d{margin-top:10px;border-top:1px dashed var(--line);padding-top:8px}
+.more-d summary{cursor:pointer;font-weight:700;font-size:13.5px;color:var(--c,var(--a));list-style:none}.more-d summary::-webkit-details-marker{display:none}
+.more-d summary:after{content:" \25BE"}.more-d[open] summary:after{content:" \25B4"}
+.more-d .why p{font-size:14px;line-height:1.55}.more-d .pc{grid-template-columns:1fr 1fr;gap:8px}.more-d .pc ul{font-size:13px;padding-left:16px}
+.tbl th{background:var(--bg)}.tbl td.pr b{font-size:15px;display:block}.tbl s{color:var(--mut);font-size:12px}.tbl .pk{display:block;color:var(--mut);font-size:11.5px;margin-top:2px}
+.tbl .off{font-size:12px;padding:2px 7px}.tbl tbody tr:nth-child(even) td{background:color-mix(in srgb,var(--bg) 55%,transparent)}

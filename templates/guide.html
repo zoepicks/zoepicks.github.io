@@ -3,9 +3,9 @@
 <meta property="og:title" content="{{TITLE}}"><meta property="og:description" content="{{SUMMARY}}"><meta property="og:type" content="article">{{OGURL}}<meta property="og:image" content="https://zoepicks.github.io/assets/og.png?v={{OGV}}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://zoepicks.github.io/assets/og.png?v={{OGV}}">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="../../assets/style.css"></head><body>
 <nav><div class="wrap"><a class="logo" href="../../">Zoe <b>Picks</b></a><a class="l" href="../../category.html?c={{CATKEY}}">{{CATNAME}}</a></div></nav>
-<main class="wrap"><div class="g-head"><div class="crumb">{{CATNAME}} · {{DATE}}</div><h1>{{TITLE}}</h1><p class="sum">{{SUMMARY}}</p></div>
+<main class="wrap"><div class="g-head {{HEADCLASS}}"><div class="crumb">{{CATNAME}} · {{DATE}}</div><h1>{{TITLE}}</h1><p class="sum">{{SUMMARY}}</p>{{COUNTDOWN}}</div>
 <p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases. Links below are affiliate links. Prices change often — check the current price on Amazon.</p>
 {{INTRO}}{{COMPARE}}{{CARDS}}{{TIPS}}{{FAQ}}
 <h2>How we picked these</h2><p class="sum">{{METHOD}}</p>
 {{MORE}}
-<footer>© Zoe Picks · Specs and prices can change; confirm on the Amazon listing before buying.</footer></main></body></html>
+<footer>© Zoe Picks · Specs and prices can change; confirm on the Amazon listing before buying.</footer></main><script>(function(){var c=document.querySelector('.cd');if(c){var t=new Date(c.dataset.to+'T00:00:00-05:00')-new Date(),o=c.querySelector('span');if(t>0){var d=Math.floor(t/864e5),h=Math.floor(t%864e5/36e5);o.textContent=d+' days '+h+' hrs'}else{c.style.display='none'}}if(innerWidth>820)document.querySelectorAll('details.more-d').forEach(function(x){x.open=true})})();</script></body></html>
