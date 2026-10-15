@@ -5,7 +5,7 @@
  "date": "Oct 16, 2026",
  "summary": "The Galaxy S26 Ultra is the best premium Android phone, the OnePlus 15 leads on battery, the Pixel 11 Pro on camera and the Pixel 10a on value.",
  "method": "Picks come from TechRadar, Tom's Guide, Android Central, PhoneArena, BGR, Mobiles.co.uk and T3. Only phones named by at least two of these sources are listed.",
- "assumptions": "We show no prices because phone prices and deals change often. The Pixel 11 series and Galaxy Z Fold 8 launched in summer 2026, and some roundups have not fully updated, so check the latest reviews too.",
+ "assumptions": "We show no prices because phone prices and deals change often. The Pixel 11 series and Galaxy Z Fold 8 launched in summer 2026, and some roundups have not fully updated, so check the latest reviews too. OnePlus is exiting the US and Europe, so the OnePlus 15 is only available while stock lasts.",
  "products": [
   {
    "name": "Samsung Galaxy S26 Ultra",
@@ -35,10 +35,11 @@
   {
    "name": "OnePlus 15",
    "short": "OnePlus 15",
-   "badge": "Best battery and charging",
+   "badge": "Best battery (while stock lasts)",
    "why": [
     "TechRadar names the OnePlus 15 its best overall Android phone and gave it a perfect score, praising its durability and battery life. Tom's Guide lists it as the longest-lasting and best fast-charging Android phone.",
-    "Android Central also names the OnePlus 15 among its top picks."
+    "Android Central also names the OnePlus 15 among its top picks.",
+    "OnePlus confirmed on July 16, 2026 that it is ending new launches in North America and Europe; remaining stock is sold and existing owners keep updates and warranty."
    ],
    "specs": [
     "Android 16",
@@ -50,11 +51,11 @@
     "Strong durability"
    ],
    "cons": [
-    "Camera is not the top pick (TechRadar gives that to Samsung)",
-    "OxygenOS may not suit everyone"
+    "OnePlus is leaving the US and Europe, so availability is limited to remaining stock",
+    "Camera is not the top pick (TechRadar gives that to Samsung)"
    ],
    "best_for": "People who want the best battery and fast charging",
-   "skip_if": "The best camera is your top priority",
+   "skip_if": "You want a phone that will keep selling in the US or the best camera",
    "link": "https://www.amazon.com/s?k=OnePlus+15&tag=iamcartigo-20"
   },
   {
