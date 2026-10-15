@@ -26,11 +26,21 @@ def card(i, p):
     if p.get("best_for"): h += f'<div class="best"><b>Best for:</b> {e(p["best_for"])}</div>'
     return h + f'<a class="btn" href="{e(p["link"])}" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon <small>(affiliate link)</small></a></article>'
 
+def more_html(d):
+    """Horizontal 'more guides' carousel (static HTML). Same category first, then newest."""
+    try: L = json.loads((ROOT / "guides/index.json").read_text())
+    except Exception: L = []
+    L = [g for g in L if g["slug"] != d["slug"]]
+    L.sort(key=lambda g: g["category"] != d["category"])   # stable: keeps newest-first inside each group
+    if not L: return ""
+    cards = "".join(f'<a href="../{e(g["slug"])}/"><small>{e(CATS.get(g["category"], "Guide"))} · {e(g.get("date", ""))}</small><b>{e(g["title"])}</b><span>See top 5 picks →</span></a>' for g in L[:10])
+    return f'<section class="more"><h2>More guides you might like</h2><div class="rail">{cards}</div></section>'
+
 def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
-           "DATE": e(d["date"]), "METHOD": e(method), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])),
+           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])),
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
     return t
@@ -66,4 +76,4 @@ if __name__ == "__main__":
     ix = ROOT / "guides/index.json"; L = [x for x in json.loads(ix.read_text()) if x["slug"] != d["slug"]]
     L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"]}); ix.write_text(json.dumps(L[:500], indent=1))
     print("ok", out / "index.html")
-    if base: site_files(base)
+    if base: rebuild_all(base)
