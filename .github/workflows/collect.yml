@@ -9,8 +9,8 @@ on:
       slug:
         description: "Specific topic slug (empty = next todo by priority)"
         required: false
-  # schedule:
-  #   - cron: "40 */6 * * *"
+  schedule:
+    - cron: "40 */6 * * *"
 permissions:
   contents: write
 concurrency:
