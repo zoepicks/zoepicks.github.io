@@ -2,9 +2,79 @@
  "slug": "best-phones-under-300-2026",
  "title": "Top Budget Phones Under $300 (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on phone reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The Galaxy A17 5G leads on long updates, with the Moto G Play and Moto G (2026) as the battery picks under $300.",
+ "method": "Picks come from Mobility Arena, Gizmochina, BGR, Tom's Guide, PhoneArena and UpPhone. Only phones named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because budget-phone prices rose in 2026 and several phones have moved above $300 since launch. Check the current price and storage before you buy.",
+ "products": [
+  {
+   "name": "Samsung Galaxy A17 5G",
+   "short": "Galaxy A17 5G",
+   "badge": "Best for long updates",
+   "why": [
+    "Mobility Arena calls the Galaxy A17 5G the strongest overall pick under $300, mainly because of its six years of promised OS and security updates, far more than most budget phones. BGR names the Galaxy A26 5G the best Samsung phone under $300.",
+    "PhoneArena and UpPhone also pick the Galaxy A16 5G as the best option at the cheapest prices, which the A17 succeeds."
+   ],
+   "specs": [
+    "5G",
+    "Six years of OS and security updates (Mobility Arena)"
+   ],
+   "pros": [
+    "Longest software support in the price range",
+    "Reliable Samsung build and support"
+   ],
+   "cons": [
+    "Basic performance and cameras"
+   ],
+   "best_for": "Buyers who want a cheap phone they can keep for years",
+   "skip_if": "You want the best camera or fastest speed",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+A17+5G&tag=iamcartigo-20"
+  },
+  {
+   "name": "Motorola Moto G Play (2026)",
+   "short": "Moto G Play 2026",
+   "badge": "Best battery on a tight budget",
+   "why": [
+    "Gizmochina ranks the Moto G Play (2026) first on its under-$300 list for its blend of features and all-day battery. Mobility Arena lists it among the safest unlocked picks under $300, and Tom's Guide's battery test lists it at about 18 hours 50 minutes.",
+    "It is cheaper than the standard Moto G while nearly matching its battery life (Tom's Guide)."
+   ],
+   "specs": [
+    "4GB RAM, 64GB storage (Gizmochina listing)",
+    "32MP camera (Gizmochina listing)"
+   ],
+   "pros": [
+    "Excellent battery life",
+    "Very low price"
+   ],
+   "cons": [
+    "Small storage and basic performance"
+   ],
+   "best_for": "Buyers who want long battery for the least money",
+   "skip_if": "You want lots of storage or long updates",
+   "link": "https://www.amazon.com/s?k=Motorola+Moto+G+Play+%282026%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Motorola Moto G (2026)",
+   "short": "Moto G 2026",
+   "badge": "Best step-up Moto",
+   "why": [
+    "Tom's Guide ranks the Moto G (2026) first for battery at 19 hours 10 minutes. Mobility Arena lists it among the safest picks under $300 but notes the price rose after launch because of memory-chip costs.",
+    "That price rise puts it right at the edge of the $300 line."
+   ],
+   "specs": [
+    "128GB storage (Mobility Arena)",
+    "30W wired charging, no wireless (iTechGuides)"
+   ],
+   "pros": [
+    "Great battery life",
+    "More storage than the Play"
+   ],
+   "cons": [
+    "Price has risen to the edge of $300"
+   ],
+   "best_for": "Budget buyers who want extra storage and longer battery",
+   "skip_if": "The price has gone over your budget",
+   "link": "https://www.amazon.com/s?k=Motorola+Moto+G+%282026%29&tag=iamcartigo-20"
+  }
+ ]
 }
