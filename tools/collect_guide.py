@@ -211,25 +211,42 @@ def collect_deals(topic):
 
 # ---------- LLM ----------
 _rot = [0]
+_dead = set()   # (key tail, model) pairs that answered 404/403 "no access" - never retried in this run
+# Groq models to try per key, in order. A key that cannot use one model (404 model_not_found) falls through to the next;
+# Groq also rate-limits per model, so a 429 on one model just moves on to the next one. Override with env GROQ_MODELS.
+GROQ_MODELS = [m.strip() for m in (os.environ.get("GROQ_MODELS") or
+               "llama-3.3-70b-versatile,openai/gpt-oss-120b,llama-3.1-8b-instant,qwen/qwen3-32b,meta-llama/llama-4-scout-17b-16e-instruct").split(",") if m.strip()]
+
+
+def _parse_json(txt):
+    txt = re.sub(r"<think>.*?</think>", "", txt or "", flags=re.S).strip()
+    try: return json.loads(txt)
+    except Exception:
+        m = re.search(r"\{.*\}", txt, re.S)
+        return json.loads(m.group(0))
 
 
 def llm(prompt, system):
-    """GROQ_API_KEY may hold several keys separated by commas: they are rotated and, on 429/any error, the next one is tried."""
+    """GROQ_API_KEY may hold several keys separated by commas: they are rotated; for each key every model in GROQ_MODELS is tried
+    (404 = key has no access to that model -> next model, 429 = rate limit -> next model/key). OpenRouter is the last fallback."""
     gk = [k.strip() for k in (os.environ.get("GROQ_API_KEY") or "").split(",") if k.strip()]
     if gk:
         i = _rot[0] % len(gk); gk = gk[i:] + gk[:i]; _rot[0] += 1
-    keys = [("https://api.groq.com/openai/v1/chat/completions", k, "llama-3.3-70b-versatile") for k in gk]
+    keys = [("https://api.groq.com/openai/v1/chat/completions", k, m) for k in gk for m in GROQ_MODELS]
     keys.append(("https://openrouter.ai/api/v1/chat/completions", os.environ.get("OPENROUTER_API_KEY"), "meta-llama/llama-3.3-70b-instruct:free"))
     for url, key, model in keys:
-        if not key: continue
+        if not key or (key[-6:], model) in _dead: continue
         try:
             r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json={
                 "model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
                 "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]})
-            if r.status_code == 200: return json.loads(r.json()["choices"][0]["message"]["content"])
-            log("llm", model, r.status_code, r.text[:200])
-        except Exception as e: log("llm err", e)
-    raise SystemExit("no LLM key worked (set GROQ_API_KEY or OPENROUTER_API_KEY)")
+            if r.status_code == 200:
+                try: return _parse_json(r.json()["choices"][0]["message"]["content"])
+                except Exception as e: log("llm bad json", model, e); continue
+            if r.status_code in (400, 403, 404): _dead.add((key[-6:], model))
+            log("llm", model, r.status_code, r.text[:160].replace("\n", " "))
+        except Exception as e: log("llm err", model, e)
+    raise SystemExit("no LLM key worked (set GROQ_API_KEY or OPENROUTER_API_KEY; see log for per-model errors)")
 
 
 SYSTEM = ("You write buying guides from supplied source excerpts ONLY. Never use outside knowledge. Never invent specs, prices, scores or quotes. "
