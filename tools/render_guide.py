@@ -53,8 +53,16 @@ def price_block(p):
         return f'<div class="sub">{e(p["price"])}' + (f' · as of {e(p["price_asof"])}' if p.get("price_asof") else "") + " — may have changed</div>"
     return '<div class="sub">No deal price listed yet. Check the current price on Amazon.</div>'
 
+AFF_TAG = "iamcartigo-20"
+
+def buy_link(p):
+    """Direct product page (add to cart / buy now) when the bot has stored the product's ASIN, else the saved search link."""
+    a = str(p.get("asin") or p.get("image_asin") or "").strip().upper()
+    return f"https://www.amazon.com/dp/{a}?tag={AFF_TAG}" if re.match(r"^[A-Z0-9]{10}$", a) else p.get("link", "")
+
 def card(i, p):
-    if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", p.get("link", "")):
+    link = buy_link(p)
+    if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
         raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
     c = PALETTE[i % len(PALETTE)]
     h = f'<article class="card" id="p{i+1}" style="--c:{c}">'
@@ -66,7 +74,7 @@ def card(i, p):
         h += f'<div class="sub amz">On Amazon: <b>{e(p["amazon_price"])}</b>' + (f' · as of {e(p["amazon_price_asof"])}' if p.get("amazon_price_asof") else "") + ' — may have changed' + (f'<small>Listing: {e(p["amazon_listing"])}</small>' if p.get("amazon_listing") else "") + "</div>"
     h += "</div></div>"
     if p.get("best_for"): h += f'<div class="best"><b>Best for:</b> {e(p["best_for"])}</div>'
-    h += f'<a class="btn" href="{e(p["link"])}" rel="sponsored nofollow noopener" target="_blank">Check price on Amazon <small>(affiliate link)</small></a>'
+    h += f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy here &rarr;</a>'
     d = ""
     if p.get("why"):
         paras = p["why"] if isinstance(p["why"], list) else [p["why"]]
