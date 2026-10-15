@@ -41,10 +41,12 @@ jobs:
           COUNT="${IN_COUNT:-20}"
           case "$COUNT" in ''|*[!0-9]*) COUNT=20;; esac
           [ "$COUNT" -gt 30 ] && COUNT=30
+          mkdir -p .github
+          set -o pipefail
           if [ -n "$IN_SLUG" ]; then
-            python3 tools/collect_guide.py --slug "$IN_SLUG"
+            python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | tail -n 200 | tee .github/last-collect.log
           else
-            python3 tools/collect_guide.py --count "$COUNT" --gap 45
+            python3 -u tools/collect_guide.py --count "$COUNT" --gap 45 2>&1 | tail -n 200 | tee .github/last-collect.log
           fi
       - name: Commit
         if: always()
