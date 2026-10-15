@@ -11,6 +11,7 @@ CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "compute
 EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
 def is_live(g):
     """A guide with an 'expires' date (YYYY-MM-DD) stops being live ON that date (UTC). No 'expires' = evergreen = always live."""
+    if g.get("retired"): return False
     ex = g.get("expires")
     return not ex or datetime.date.today().isoformat() < ex
 
@@ -126,6 +127,15 @@ def more_html(d):
     cards = "".join(f'<a href="../{e(g["slug"])}/"><small>{e(CATS.get(g["category"], "Guide"))} · {e(g.get("date", ""))}</small><b>{e(g["title"])}</b><span>See top 5 picks →</span></a>' for g in L[:10])
     return f'<section class="more"><h2>More guides you might like</h2><div class="rail">{cards}</div></section>'
 
+def retired_html(d, base=""):
+    """Replaces a retired offer page: redirects to the category list (so old X links never 404), noindex, no stale prices."""
+    cat = d.get("category", "other"); url = f"../../category.html?c={e(cat)}"; name = e(CATS.get(cat, "Guides"))
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<title>{e(d["title"])} (ended) — Zoe Picks</title><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={url}">'
+            f'<link rel="canonical" href="{(base + "/category.html?c=" + e(cat)) if base else url}"><link rel="stylesheet" href="../../assets/style.css"></head><body>'
+            f'<main class="wrap"><div class="g-head"><h1>This offer has ended</h1><p class="sum">The deals in "{e(d["title"])}" are over. '
+            f'<a href="{url}">See current {name} guides →</a></p></div></main><script>location.replace("{url}")</script></body></html>')
+
 def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
@@ -152,10 +162,13 @@ def site_files(base):
 
 def sync_index_expiry():
     """Copy each guide's 'expires' from src/*.json into guides/index.json (the bot and the site read it there)."""
-    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}; gone = set()
     for f in (ROOT / "src").glob("*.json"):
         d = json.load(open(f)); ex[d["slug"]] = d.get("expires")
+        if d.get("retired"): gone.add(d["slug"])
     ch = False
+    if gone:
+        n = len(L); L = [g for g in L if g["slug"] not in gone]; ch = len(L) != n
     for g in L:
         if g["slug"] in ex:
             if ex[g["slug"]] and g.get("expires") != ex[g["slug"]]: g["expires"] = ex[g["slug"]]; ch = True
@@ -167,7 +180,7 @@ def rebuild_all(base):
     sync_index_expiry()
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
-        (out / "index.html").write_text(render(d, base)); print("ok", out / "index.html")
+        (out / "index.html").write_text(retired_html(d, base) if d.get("retired") else render(d, base)); print("ok", out / "index.html")
     site_files(base)
 
 if __name__ == "__main__":
