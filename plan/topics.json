@@ -211,70 +211,80 @@
   "slug": "best-robot-vacuums-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 38
  },
  {
   "title": "Best Cordless Stick Vacuums (2026)",
   "slug": "best-cordless-stick-vacuums-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 39
  },
  {
   "title": "Best Air Fryers (2026)",
   "slug": "best-air-fryers-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 41
  },
  {
   "title": "Best Coffee Makers (2026)",
   "slug": "best-coffee-makers-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 42
  },
  {
   "title": "Best Espresso Machines (2026)",
   "slug": "best-espresso-machines-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 43
  },
  {
   "title": "Best Blenders (2026)",
   "slug": "best-blenders-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 44
  },
  {
   "title": "Best Air Purifiers (2026)",
   "slug": "best-air-purifiers-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 45
  },
  {
   "title": "Best Toaster Ovens (2026)",
   "slug": "best-toaster-ovens-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 46
  },
  {
   "title": "Best Stand Mixers (2026)",
   "slug": "best-stand-mixers-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 47
  },
  {
   "title": "Best Vacuums for Pet Hair (2026)",
   "slug": "best-vacuums-for-pet-hair-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 40
  },
  {
   "title": "Best 4K TVs (2026)",
@@ -351,63 +361,72 @@
   "slug": "best-wireless-earbuds-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 48
  },
  {
   "title": "Best Noise-Cancelling Headphones (2026)",
   "slug": "best-noise-cancelling-headphones-2026",
   "category": "electronics",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 50
  },
  {
   "title": "Best Bluetooth Speakers (2026)",
   "slug": "best-bluetooth-speakers-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 51
  },
  {
   "title": "Best Power Banks (2026)",
   "slug": "best-power-banks-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 52
  },
  {
   "title": "Best Smartwatches (2026)",
   "slug": "best-smartwatches-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 53
  },
  {
   "title": "Best Action Cameras (2026)",
   "slug": "best-action-cameras-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 54
  },
  {
   "title": "Best Webcams (2026)",
   "slug": "best-webcams-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 55
  },
  {
   "title": "Best Projectors (2026)",
   "slug": "best-projectors-2026",
   "category": "electronics",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 56
  },
  {
   "title": "Best E-Readers (2026)",
   "slug": "best-e-readers-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo"
+  "status": "todo",
+  "priority": 57
  },
  {
   "title": "Best Portable Monitors (2026)",
@@ -1253,5 +1272,13 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 37
+ },
+ {
+  "title": "Best Wireless Earbuds Under $100 (2026)",
+  "slug": "best-wireless-earbuds-under-100-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 49
  }
 ]
