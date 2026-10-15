@@ -68,7 +68,7 @@ def card(i, p):
     h = f'<article class="card" id="p{i+1}" style="--c:{c}">'
     if p.get("badge"): h += f'<span class="rank">#{i+1} · {e(p["badge"])}</span>'
     h += '<div class="top">'
-    if p.get("image"): h += f'<img class="thumb" src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
+    if p.get("image"): h += f'<img class="thumb" src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" decoding="async" width="108" height="108" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
     h += f'<div class="meta"><h3>{e(p["name"])}</h3>{price_block(p)}'
     if p.get("amazon_price"):
         h += f'<div class="sub amz">On Amazon: <b>{e(p["amazon_price"])}</b>' + (f' · as of {e(p["amazon_price_asof"])}' if p.get("amazon_price_asof") else "") + ' — may have changed' + (f'<small>Listing: {e(p["amazon_listing"])}</small>' if p.get("amazon_listing") else "") + "</div>"
@@ -99,6 +99,12 @@ def intro_html(d):
     if not end: return sec(live, "intro intro-live", False)
     on = is_live(d)
     return (sec(live, "intro intro-live", not on) if live else "") + sec(end, "intro intro-end", on)
+
+def jump_html(d):
+    """Sticky-ish scrollable chips #1..#N under the header so a buyer can jump straight to a pick."""
+    if len(d["products"]) < 3: return ""
+    chips = "".join(f'<a href="#p{i+1}"><b>{i+1}</b> {e(p.get("short") or p["name"])}</a>' for i, p in enumerate(d["products"]))
+    return f'<div class="jump" role="navigation" aria-label="Jump to a pick">{chips}</div>'
 
 def compare_html(d):
     if not d.get("compare"): return ""
@@ -156,7 +162,7 @@ def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
-           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
+           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
     return t
