@@ -146,8 +146,14 @@ def _browser_search(q, domains):
     return []
 
 
+def _kw(topic):
+    """Search keywords come from the slug (stable product words), not the display title - titles are now varied
+    ('Top Air Fryers for Fast Weeknight Dinners') and would make noisy search queries."""
+    return re.sub(r"\s+", " ", re.sub(r"^best-|-?\d{4}$", "", topic["slug"]).replace("-", " ")).strip()
+
+
 def discover(topic, domains):
-    q = re.sub(r"\(\d{4}\)", "", topic["title"]).strip() + " review tested"
+    q = _kw(topic) + " review tested"
     # 1) Tavily: ONE call per topic. (No per-domain Tavily retry any more - it only burns quota when the key/plan is the problem.)
     if os.environ.get("TAVILY_API_KEY"):
         try:
@@ -196,7 +202,7 @@ def collect_deals(topic):
     out = []
     for sub in DEAL_SUBS.get(topic["category"], []):
         try:
-            q = re.sub(r"\(\d{4}\)|best", "", topic["title"], flags=re.I).strip()
+            q = _kw(topic)
             j = requests.get(f"https://www.reddit.com/r/{sub}/search.json", params={"q": q, "restrict_sr": 1, "sort": "new", "t": "week", "limit": 8}, headers=UA, timeout=30).json()
             out += [("reddit.com", c["data"]["title"]) for c in j.get("data", {}).get("children", [])]
         except Exception as e: log("reddit fail", sub, e)
