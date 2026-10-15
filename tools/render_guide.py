@@ -8,6 +8,7 @@ CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "compute
         "fitness_outdoor": "Fitness & Outdoor", "fashion": "Fashion", "toys_kids": "Toys & Kids", "tools_auto": "Tools & Auto", "pets": "Pets",
         "office_books": "Office & Books", "gaming": "Gaming", "smart_home": "Smart Home & TV", "furniture_decor": "Furniture & Decor",
         "hobby_music": "Hobby & Music", "other": "More"}
+EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
 e = lambda s: html.escape(str(s), quote=True)
 ul = lambda xs: "<ul>" + "".join(f"<li>{e(x)}</li>" for x in xs) + "</ul>"
 
@@ -41,6 +42,8 @@ def site_files(base):
     ix = ROOT / "index.html"; h = ix.read_text()
     rows = "".join(f'<a class="item" href="g/{g["slug"]}/"><span><b>{e(g["title"])}</b><br><small>{e(CATS.get(g["category"], "Guide"))}</small></span><small>{e(g.get("date", ""))}</small></a>' for g in L[:8])
     h = re.sub(r"<!--GUIDES-->.*?<!--/GUIDES-->", lambda m: "<!--GUIDES-->" + rows + "<!--/GUIDES-->", h, flags=re.S)
+    cats = "".join(f'<a class="cat" href="category.html?c={k}"><i>{EMOJI[k]}</i><b>{e(v)}</b></a>' for k, v in CATS.items())
+    h = re.sub(r"<!--CATS-->.*?<!--/CATS-->", lambda m: "<!--CATS-->" + cats + "<!--/CATS-->", h, flags=re.S)
     ix.write_text(h)
 
 if __name__ == "__main__":
