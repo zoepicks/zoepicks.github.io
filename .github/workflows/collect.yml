@@ -1,7 +1,7 @@
 name: Collect guide data
 # Bot collects data for "todo" topics from the best review sites, builds guides, renders them.
 # NO fixed schedule any more. The Naami bot (x/zoe_collect.py on Render) triggers this ONCE per day,
-# right after BOTH the X window and the FB window have closed (bot idle), asking for up to 150 guides (built in sequential chunks of 50, one job each, because one GitHub job is limited to 6 h).
+# right after BOTH the X window and the FB window have closed (bot idle), asking for up to 250 guides (built in sequential chunks of 50, one job each, because one GitHub job is limited to 6 h).
 # Manual run: Actions tab -> Run workflow (optionally a slug / a count).
 # Needs repo secret GROQ_API_KEY (optionally OPENROUTER_API_KEY, TAVILY_API_KEY).
 on:
@@ -13,7 +13,7 @@ on:
         description: "Specific topic slug (empty = next todo topics by priority)"
         required: false
       count:
-        description: "How many guides to build in this run (default 50, max 150)"
+        description: "How many guides to build in this run (default 50, max 250)"
         required: false
         default: "50"
 permissions:
@@ -28,7 +28,7 @@ jobs:
       fail-fast: false
       max-parallel: 1
       matrix:
-        chunk: [0, 1, 2]
+        chunk: [0, 1, 2, 3, 4]
     runs-on: ubuntu-latest
     timeout-minutes: 345
     steps:
@@ -42,7 +42,7 @@ jobs:
         run: |
           COUNT="${IN_COUNT:-50}"
           case "$COUNT" in ''|*[!0-9]*) COUNT=50;; esac
-          [ "$COUNT" -gt 150 ] && COUNT=150
+          [ "$COUNT" -gt 250 ] && COUNT=250
           if [ -n "$IN_SLUG" ]; then SHARE=$([ "$CHUNK" = "0" ] && echo 1 || echo 0)
           else
             SHARE=$(( COUNT - CHUNK * 50 ))
