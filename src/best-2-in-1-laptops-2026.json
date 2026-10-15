@@ -2,9 +2,112 @@
  "slug": "best-2-in-1-laptops-2026",
  "title": "Top 2-in-1 Laptops: Laptop + Tablet in One (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on laptop reviews, and specs and battery figures will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The HP Spectre x360 14 and Lenovo Yoga 9i lead the premium picks, while the Yoga 7i and Surface Pro cover mid-range and tablet-first use.",
+ "method": "Picks come from Engadget, Tom's Guide, BGR and UltrabookReview, cross-checked with Gulf News and GeekChamp roundups. Only models named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because 2-in-1 prices and configurations change often. Check the exact chip, RAM and storage before you buy, since reviewers test specific configurations.",
+ "products": [
+  {
+   "name": "HP Spectre x360 14",
+   "short": "Spectre x360 14",
+   "badge": "Best overall 2-in-1",
+   "why": [
+    "Engadget names the Spectre x360 14 its best 2-in-1 overall and praises the keyboard, the extra-large touchpad and the industrial design. UltrabookReview lists it as one of its two favorite convertible ultrabooks.",
+    "UltrabookReview notes it had not received a 2026 refresh yet and was still sold with Core Ultra H processors, so check which version you are buying."
+   ],
+   "specs": [
+    "Convertible 360-degree design",
+    "OLED display (GeekChamp)",
+    "Intel Core Ultra H processors (UltrabookReview)"
+   ],
+   "pros": [
+    "Excellent keyboard and large touchpad",
+    "Premium build and design",
+    "Good all-round balance"
+   ],
+   "cons": [
+    "Premium-priced",
+    "Not refreshed for 2026 at the time of UltrabookReview's update"
+   ],
+   "best_for": "Buyers who want one polished convertible for work, travel and media",
+   "skip_if": "You want the newest chip generation or a low price",
+   "link": "https://www.amazon.com/s?k=HP+Spectre+x360+14&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo Yoga 9i 2-in-1",
+   "short": "Yoga 9i 2-in-1",
+   "badge": "Best premium all-rounder",
+   "why": [
+    "UltrabookReview picks the Yoga 9i alongside the Spectre as a top convertible ultrabook. GeekChamp calls it the best all-rounder for performance and battery.",
+    "GeekChamp also highlights its vivid touchscreen, powerful speakers and refined hinge."
+   ],
+   "specs": [
+    "Convertible 360-degree design",
+    "Touchscreen with an OLED option (GeekChamp)"
+   ],
+   "pros": [
+    "Vivid touchscreen",
+    "Powerful speakers",
+    "Strong performance and battery"
+   ],
+   "cons": [
+    "Premium-priced"
+   ],
+   "best_for": "Users who want a top-tier Windows convertible",
+   "skip_if": "You are shopping on a tight budget",
+   "link": "https://www.amazon.com/s?k=Lenovo+Yoga+9i+2-in-1&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo Yoga 7i 2-in-1 (14-inch)",
+   "short": "Yoga 7i 2-in-1",
+   "badge": "Best mid-range pick",
+   "why": [
+    "BGR says the 14-inch Yoga 7i 2-in-1 is considered one of the laptops with the best battery life in 2026. UltrabookReview names the Yoga 7 2-in-1 the best mid-range Windows convertible.",
+    "Gulf News also lists it as a budget pick, but warns it will not match dedicated creative laptops and its integrated graphics are not ideal for serious gaming."
+   ],
+   "specs": [
+    "14-inch screen",
+    "Convertible 360-degree design",
+    "Integrated graphics"
+   ],
+   "pros": [
+    "Long battery life",
+    "Cheaper than the premium convertibles",
+    "Good for everyday work and study"
+   ],
+   "cons": [
+    "Not for heavy creative work",
+    "Not for serious gaming"
+   ],
+   "best_for": "Students and everyday users who want battery life and value",
+   "skip_if": "You need strong graphics for editing or games",
+   "link": "https://www.amazon.com/s?k=Lenovo+Yoga+7i+2-in-1+%2814-inch%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Microsoft Surface Pro (11th Edition)",
+   "short": "Surface Pro 11",
+   "badge": "Best detachable / tablet-first",
+   "why": [
+    "Tom's Guide says the Surface Pro 11 is as fast and long-lasting as the best Windows laptops thanks to its Snapdragon chip, and that it outpaced many bigger laptops, including the MacBook Air M3, in its performance tests.",
+    "GeekChamp picks the Surface Pro for tablet-first Windows workflows. Tom's Guide warns that Snapdragon chips can't run some apps, mostly games."
+   ],
+   "specs": [
+    "Detachable tablet design",
+    "Qualcomm Snapdragon X chip",
+    "Windows 11"
+   ],
+   "pros": [
+    "Fast and long-lasting",
+    "True tablet-first design",
+    "Strong performance for its size"
+   ],
+   "cons": [
+    "Some apps and games don't run on Snapdragon",
+    "Keyboard and pen are usually sold separately"
+   ],
+   "best_for": "People who mostly use a tablet and sometimes need a laptop",
+   "skip_if": "You rely on x86-only apps or games, or want a lap-friendly laptop feel",
+   "link": "https://www.amazon.com/s?k=Microsoft+Surface+Pro+%2811th+Edition%29&tag=iamcartigo-20"
+  }
+ ]
 }
