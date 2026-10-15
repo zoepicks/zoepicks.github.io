@@ -1400,7 +1400,7 @@
   "slug": "best-smartphones-2026",
   "category": "mobiles",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 5
  },
  {
@@ -1409,7 +1409,8 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 6
+  "priority": 6,
+  "last_try": "Oct 15, 2026"
  },
  {
   "title": "Top 3D Printers for Beginners & Hobbyists (2026)",
@@ -1417,7 +1418,8 @@
   "category": "other",
   "high_ticket": true,
   "status": "todo",
-  "priority": 8
+  "priority": 8,
+  "last_try": "Oct 15, 2026"
  },
  {
   "title": "Top Hoodies for Cold Days (2026)",
@@ -1425,7 +1427,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 10
+  "priority": 10,
+  "last_try": "Oct 15, 2026"
  },
  {
   "title": "Top Walking Pads for Under-Desk Steps (2026)",
@@ -1433,7 +1436,8 @@
   "category": "fitness_outdoor",
   "high_ticket": true,
   "status": "todo",
-  "priority": 11
+  "priority": 11,
+  "last_try": "Oct 15, 2026"
  },
  {
   "title": "Top Perfumes to Gift & Wear (2026)",
@@ -1441,14 +1445,15 @@
   "category": "beauty_health",
   "high_ticket": false,
   "status": "todo",
-  "priority": 12
+  "priority": 12,
+  "last_try": "Oct 15, 2026"
  },
  {
   "title": "Top Turntables for Vinyl Beginners (2026)",
   "slug": "best-record-players-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 13
  },
  {

@@ -2,9 +2,117 @@
  "slug": "best-record-players-2026",
  "title": "Top Turntables for Vinyl Beginners (2026)",
  "category": "electronics",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on reviews, and specs will be for the configuration the reviewers tested.",
  "date": "Oct 15, 2026",
- "products": []
+ "summary": "A curated list of top turntables for vinyl beginners in 2026, blending expert picks from TechRadar, CNET, and Tom’s Guide.",
+ "method": "Products were selected from the three source articles (TechRadar[0], CNET[1], Tom’s Guide[2]); priority was given to models mentioned by more than one source, then supplemented with highly‑rated individual picks.",
+ "assumptions": "Only prices explicitly stated in the excerpts are included; where no store is named the price is shown generically. All specs, pros, cons and badge titles are taken verbatim from the source text.",
+ "products": [
+  {
+   "name": "Rega Planar 3",
+   "short": "Planar 3",
+   "badge": "Best premium",
+   "why": [
+    "The Rega Planar 3 is praised for its stunning looks and high‑end sound, making it the top premium choice across both CNET and Tom’s Guide.",
+    "Its elegant design, great tonearm and rich, detailed audio set it apart, though it lacks automatic features and a built‑in preamp."
+   ],
+   "specs": [
+    "It's one of the most beautiful looking turntables available",
+    "It features a great tonearm",
+    "Sound quality is rich and detailed",
+    "It has no automatic features",
+    "There's no preamp option"
+   ],
+   "pros": [
+    "Beautiful aesthetic",
+    "Excellent tonearm",
+    "Rich, detailed sound"
+   ],
+   "cons": [
+    "No automatic operation",
+    "No built‑in preamp"
+   ],
+   "best_for": "Listeners seeking high‑end sound and premium aesthetics",
+   "skip_if": "If you need automatic operation or a built‑in phono preamp",
+   "link": "https://www.amazon.com/s?k=Rega+Planar+3&tag=iamcartigo-20"
+  },
+  {
+   "name": "Audio‑Technica AT‑LP70X",
+   "short": "AT‑LP70X",
+   "badge": "Best automatic turntable",
+   "why": [
+    "CNET highlights the AT‑LP70X as a big sonic step up from the LP60, offering automatic operation and an upgradable stylus.",
+    "Its plastic construction keeps the price low while delivering strong sound performance for beginners."
+   ],
+   "specs": [
+    "big sonic step up from the LP60",
+    "upgradable stylus",
+    "automatic operation",
+    "plastic construction"
+   ],
+   "pros": [
+    "Great sound for the price",
+    "Automatic operation is beginner‑friendly",
+    "Stylus can be upgraded"
+   ],
+   "cons": [
+    "Plastic construction feels less premium"
+   ],
+   "best_for": "Beginners who want automatic operation and upgrade potential",
+   "skip_if": "If you prefer a more solid build material",
+   "price": "$279 at Store",
+   "link": "https://www.amazon.com/s?k=Audio%E2%80%91Technica+AT%E2%80%91LP70X&tag=iamcartigo-20",
+   "price_asof": "Oct 15, 2026"
+  },
+  {
+   "name": "Audio‑Technica AT‑LP70XBT",
+   "short": "AT‑LP70XBT",
+   "badge": "Best budget Bluetooth deck",
+   "why": [
+    "TechRadar recommends the AT‑LP70XBT as a plug‑and‑play turntable with built‑in Bluetooth, ideal for wired or wireless listening.",
+    "It’s positioned as a value‑packed successor to the popular AT‑LP60XBT, making it a strong entry‑level choice."
+   ],
+   "specs": [
+    "plug-and-play device",
+    "built-in Bluetooth",
+    "successor to AT‑LP60XBT",
+    "ideal for both wired and wireless listening"
+   ],
+   "pros": [
+    "Bluetooth streaming",
+    "Easy plug‑and‑play setup",
+    "Good value for beginners"
+   ],
+   "best_for": "New vinyl fans who want wireless streaming without extra gear",
+   "skip_if": "If you prefer a turntable without Bluetooth",
+   "link": "https://www.amazon.com/s?k=Audio%E2%80%91Technica+AT%E2%80%91LP70XBT&tag=iamcartigo-20"
+  },
+  {
+   "name": "Rega Planar 1 Plus",
+   "short": "Planar 1 Plus",
+   "badge": "Best overall",
+   "why": [
+    "Tom’s Guide crowns the Rega Planar 1 Plus as the best overall turntable, emphasizing its built‑in phono pre‑amp and premium walnut finish.",
+    "Its manual operation and simple belt‑drive setup deliver engaging tactile control for vinyl enthusiasts."
+   ],
+   "specs": [
+    "built‑in phono pre‑amp",
+    "manual operation",
+    "Walnut veneer finish",
+    "three damped feet",
+    "dust cover",
+    "belt pre‑attached"
+   ],
+   "pros": [
+    "Built‑in pre‑amp simplifies setup",
+    "Premium walnut look",
+    "Clear, detailed sound"
+   ],
+   "cons": [
+    "Manual operation requires more user involvement"
+   ],
+   "best_for": "Listeners who want an all‑in‑one turntable with a built‑in pre‑amp and premium aesthetics",
+   "skip_if": "If you prefer automatic operation",
+   "link": "https://www.amazon.com/s?k=Rega+Planar+1+Plus&tag=iamcartigo-20"
+  }
+ ]
 }

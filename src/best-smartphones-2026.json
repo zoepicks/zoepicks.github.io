@@ -2,9 +2,99 @@
  "slug": "best-smartphones-2026",
  "title": "Top Smartphones of 2026: Our Overall Picks",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on reviews, and specs will be for the configuration the reviewers tested.",
  "date": "Oct 15, 2026",
- "products": []
+ "summary": "The top 2026 smartphones are the iPhone 18 Pro Max, Samsung Galaxy S26 Ultra, and Google Pixel 10a, each praised by multiple experts.",
+ "method": "Picks were made by cross‑referencing Tom's Guide and TechRadar recommendations; products mentioned by both sources were selected.",
+ "assumptions": "Prices reflect listed amounts; actual store pricing may vary and no specific retailer was cited in the excerpts.",
+ "products": [
+  {
+   "name": "Apple iPhone 18 Pro Max",
+   "short": "iPhone 18 Pro Max",
+   "badge": "Best Overall",
+   "why": [
+    "Tom's Guide calls the iPhone 18 Pro Max the top overall phone, highlighting its variable‑aperture camera, longer battery life (18½ hours) and the powerful A20 Pro chip despite a $100 price hike.",
+    "TechRadar notes the same A20 Pro performance, a 48 MP main sensor with mechanical variable aperture, 30 hours of mixed‑use battery life and fast wired charging to 50 % in 15 minutes."
+   ],
+   "specs": [
+    "256 GB storage base model costs $1,299",
+    "A20 Pro chipset",
+    "48 MP main camera with variable aperture (ƒ/1.48‑ƒ/4.0)",
+    "18 hours 27 minutes battery life in lab test",
+    "Wired charging 0‑50 % in 15 minutes",
+    "Super Retina XDR OLED display with ProMotion and Always‑On"
+   ],
+   "pros": [
+    "Outstanding camera flexibility",
+    "Industry‑leading performance",
+    "Excellent battery endurance"
+   ],
+   "cons": [
+    "Very high price",
+    "Large size compared to previous models"
+   ],
+   "best_for": "Users who want the best iPhone experience and can afford a premium flagship",
+   "skip_if": "You need a budget‑friendly phone",
+   "price": "$1,299 (base 256 GB)",
+   "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+Max&tag=iamcartigo-20",
+   "price_asof": "Oct 15, 2026"
+  },
+  {
+   "name": "Samsung Galaxy S26 Ultra",
+   "short": "Galaxy S26 Ultra",
+   "badge": "Best Android Flagship",
+   "why": [
+    "Tom's Guide ranks the Galaxy S26 Ultra as the top Android pick, praising its 200 MP main sensor, 50 MP telephoto lens and unique Horizon Lock video stabilization.",
+    "TechRadar echoes its camera supremacy, AI features, and the new Privacy Display that shields screen content, while noting its strong battery life and fast charging."
+   ],
+   "specs": [
+    "256 GB storage starts at $1,299",
+    "200 MP main camera sensor",
+    "50 MP telephoto lens with wider aperture",
+    "Privacy Display with reduced viewing angles",
+    "AI assistant features like Now Brief",
+    "Same battery capacity as previous generation but with faster charging"
+   ],
+   "pros": [
+    "Best Android camera system",
+    "Rich AI and productivity features",
+    "Premium build and display"
+   ],
+   "cons": [
+    "Large camera bump makes flat placement awkward",
+    "No built‑in Qi2 magnets for MagSafe‑style accessories"
+   ],
+   "best_for": "Power users who need top‑tier photography and AI tools on Android",
+   "skip_if": "You prefer a smaller, more pocket‑friendly phone",
+   "price": "$1,299 (256 GB)",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Ultra&tag=iamcartigo-20",
+   "price_asof": "Oct 15, 2026"
+  },
+  {
+   "name": "Google Pixel 10a",
+   "short": "Pixel 10a",
+   "badge": "Best Budget",
+   "why": [
+    "Tom's Guide recommends the Pixel 10a as the best under‑$500 phone, noting its great Android experience at a lower price point around $500.",
+    "TechRadar lists the Pixel 10a as the top budget pick, emphasizing its value for money and solid overall performance."
+   ],
+   "specs": [
+    "Price around $500",
+    "Budget‑friendly Android flagship experience",
+    "Good camera performance for its class"
+   ],
+   "pros": [
+    "Excellent value for price",
+    "Smooth Android software"
+   ],
+   "cons": [
+    "Not as powerful as premium flagships",
+    "Limited advanced camera features"
+   ],
+   "best_for": "Consumers seeking a capable smartphone without breaking the bank",
+   "skip_if": "You need flagship‑level specs and premium features",
+   "price": "$500 (approx.)",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+10a&tag=iamcartigo-20",
+   "price_asof": "Oct 15, 2026"
+  }
+ ]
 }
