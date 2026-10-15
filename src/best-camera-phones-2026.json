@@ -2,9 +2,112 @@
  "slug": "best-camera-phones-2026",
  "title": "Phones With the Best Cameras (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on phone reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The Galaxy S26 Ultra is the best camera phone sold in the US, the iPhone 18 Pro leads for video and the Pixel 11 Pro for point-and-shoot.",
+ "method": "Picks come from Tom's Guide, TechRadar, PhoneArena, Fstoppers, TalkAndroid, BGR and DeinHandy. Only phones named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because phone prices change often. Some roundups were written before the iPhone 18 Pro and Pixel 11 launched, so check recent reviews too.",
+ "products": [
+  {
+   "name": "Samsung Galaxy S26 Ultra",
+   "short": "Galaxy S26 Ultra",
+   "badge": "Best camera phone sold in the US",
+   "why": [
+    "Tom's Guide gives the Galaxy S26 Ultra its best camera phone award, and TalkAndroid names it the best camera phone in the US. PhoneArena calls it the best phone for still photography in its benchmark.",
+    "PhoneArena lists a 200MP main camera, a 50MP 5x periscope, a 10MP 3x telephoto and a 50MP ultrawide."
+   ],
+   "specs": [
+    "200MP main camera",
+    "50MP 5x periscope",
+    "10MP 3x telephoto",
+    "50MP ultrawide"
+   ],
+   "pros": [
+    "Most versatile camera system",
+    "Excellent stills and low light",
+    "Deep manual control (Fstoppers)"
+   ],
+   "cons": [
+    "Premium price",
+    "Photos can look more processed than the iPhone's"
+   ],
+   "best_for": "Anyone who wants the most flexible camera phone in a US store",
+   "skip_if": "You mainly want the best video or the simplest point-and-shoot",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Ultra&tag=iamcartigo-20"
+  },
+  {
+   "name": "Apple iPhone 18 Pro / 18 Pro Max",
+   "short": "iPhone 18 Pro",
+   "badge": "Best for video",
+   "why": [
+    "Tom's Guide highlights the new variable-aperture main camera on the iPhone 18 Pro and Pro Max. DeinHandy lists a triple camera with 8x optical zoom and strong Dolby Vision video.",
+    "Before the 18 Pro launched, TechRadar and Fstoppers named the iPhone 17 Pro Max the best camera phone overall, praising its video system with ProRes RAW and Apple Log 2."
+   ],
+   "specs": [
+    "Variable-aperture main camera (Tom's Guide)",
+    "8x optical zoom (DeinHandy)",
+    "Dolby Vision video"
+   ],
+   "pros": [
+    "Best video on any phone",
+    "Natural colors",
+    "Variable aperture adds real depth control"
+   ],
+   "cons": [
+    "Premium price",
+    "Heavy"
+   ],
+   "best_for": "Video shooters and Apple users",
+   "skip_if": "You want the widest zoom range or an Android phone",
+   "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+%2F+18+Pro+Max&tag=iamcartigo-20"
+  },
+  {
+   "name": "Google Pixel 11 Pro / Pro XL",
+   "short": "Pixel 11 Pro",
+   "badge": "Best point-and-shoot",
+   "why": [
+    "TalkAndroid names the Pixel 11 Pro the best point-and-shoot, with a 48MP telephoto that Google says captures 30% more light and a faster Night Sight. BGR calls the Pro XL's main camera possibly the best it has used on any Android phone.",
+    "TalkAndroid warns the smaller Pro has a 4,850mAh battery, so heavy shooting days may need a top-up."
+   ],
+   "specs": [
+    "48MP telephoto",
+    "Tensor G6 chip",
+    "Battery 4,850mAh (Pro) or 5,115mAh (Pro XL), per TalkAndroid"
+   ],
+   "pros": [
+    "Trustworthy photos with little effort",
+    "Strong AI photo features",
+    "Good selfie camera (DeinHandy)"
+   ],
+   "cons": [
+    "Weaker overall performance than rival flagships",
+    "One telephoto lens versus Samsung's two"
+   ],
+   "best_for": "People who want great photos without fiddling",
+   "skip_if": "You want the most zoom flexibility or the best video",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+11+Pro+%2F+Pro+XL&tag=iamcartigo-20"
+  },
+  {
+   "name": "Vivo X300 Ultra / Oppo Find X9 Ultra",
+   "short": "Vivo X300 Ultra",
+   "badge": "Best image quality (not sold in US)",
+   "why": [
+    "Fstoppers says the most capable camera phones come from vivo, Xiaomi and OPPO, and none is officially sold in the US. TalkAndroid names the Vivo X300 Ultra best for overall image quality and the Oppo Find X9 Ultra best for zoom, and says both out-shoot the Galaxy S26 Ultra.",
+    "PhoneArena also ranks Oppo's Ultra camera among the top of its benchmark."
+   ],
+   "specs": [
+    "Imported flagship cameras",
+    "Not officially sold in the US"
+   ],
+   "pros": [
+    "Top image quality and zoom (TalkAndroid)"
+   ],
+   "cons": [
+    "Not officially sold in the US",
+    "Imports may lack warranty and support"
+   ],
+   "best_for": "Enthusiasts outside the US who want the best possible camera",
+   "skip_if": "You live in the US and want a supported phone",
+   "link": "https://www.amazon.com/s?k=Vivo+X300+Ultra+%2F+Oppo+Find+X9+Ultra&tag=iamcartigo-20"
+  }
+ ]
 }
