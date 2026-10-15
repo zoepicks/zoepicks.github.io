@@ -101,9 +101,9 @@ def compare_html(d):
             price = f'<b>{e(pr["now"])}</b>' + (f'<s>{e(pr["was"])}</s>' if pr.get("was") else "")
             off = f'<span class="off">-{pr["pct"]}%</span>' if pr.get("pct") else "-"
         else:
-            price, off = "Check price", "-"
-        rows += f'<tr><td><a href="#p{i+1}">{e(p["name"])}</a><small class="pk">{e(p.get("badge", ""))}</small></td><td class="pr">{price}</td><td>{off}</td></tr>'
-    return f'<h2>Quick comparison <small class="tap">tap a name to jump</small></h2><div class="tbl"><table><thead><tr><th>Laptop</th><th>Deal</th><th>Off</th></tr></thead><tbody>{rows}</tbody></table></div>'
+            price, off = "See price", "-"
+        rows += f'<tr><td><a href="#p{i+1}">{e(p.get("short") or p["name"])}</a><small class="pk">{e(p.get("badge", ""))}</small></td><td class="pr">{price}</td><td>{off}</td></tr>'
+    return f'<h2 class="cmp">Quick comparison <small class="tap">tap a name</small></h2><div class="tbl"><table><thead><tr><th>Laptop</th><th>Deal</th><th>Off</th></tr></thead><tbody>{rows}</tbody></table></div>'
 
 def countdown_html(d):
     """Black Friday style banner. 3 states: counting down -> deals live -> ended. Static HTML is the fallback; a small inline

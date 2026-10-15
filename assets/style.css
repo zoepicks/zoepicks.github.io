@@ -101,3 +101,14 @@ h2{font-size:18px;margin:22px 0 10px}
 .intro p{font-size:15px;line-height:1.5;margin:10px 0;padding:10px 12px;border-left:3px solid #f59e0b;background:rgba(245,158,11,.1);border-radius:10px}
 .intro-live p:first-child{font-size:16.5px;font-weight:800;line-height:1.3;border-left-color:#e11d48;background:rgba(225,29,72,.08)}
 .intro-live p+p{border-left-color:#f59e0b;font-size:14.5px;margin-top:6px}
+
+/* ===== v4: compact quick-comparison (one line per laptop, no sideways scroll) ===== */
+h2.cmp{font-size:15px;margin:14px 0 6px}h2.cmp .tap{font-size:11px}
+.tbl{margin:4px 0;overflow:visible}
+.tbl table{table-layout:fixed;font-size:13px;border-radius:12px}
+.tbl th{padding:5px 9px;font-size:10.5px;text-transform:uppercase;letter-spacing:.04em}
+.tbl td{padding:8px 9px;vertical-align:middle;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tbl th:nth-child(1),.tbl td:nth-child(1){width:48%}.tbl th:nth-child(2),.tbl td:nth-child(2){width:31%}.tbl th:nth-child(3),.tbl td:nth-child(3){width:21%;text-align:right}
+.tbl td.pr b{display:inline;font-size:14px}.tbl td.pr s,.tbl .pk{display:none}
+.tbl .off{font-size:11.5px;padding:2px 6px}
+@media(min-width:561px){.tbl td{padding:10px 12px;font-size:14px}.tbl td.pr s{display:inline;margin-left:6px}.tbl .pk{display:block}}
