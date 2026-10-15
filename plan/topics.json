@@ -1107,5 +1107,85 @@
   "category": "other",
   "high_ticket": false,
   "status": "todo"
+ },
+ {
+  "title": "Best Phones Under $500 (2026)",
+  "slug": "best-phones-under-500-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 11
+ },
+ {
+  "title": "Best Camera Phones (2026)",
+  "slug": "best-camera-phones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 12
+ },
+ {
+  "title": "Best Phones for Battery Life (2026)",
+  "slug": "best-phones-for-battery-life-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 13
+ },
+ {
+  "title": "Best iPhones (2026)",
+  "slug": "best-iphones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 14
+ },
+ {
+  "title": "Best Foldable Phones (2026)",
+  "slug": "best-foldable-phones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 15
+ },
+ {
+  "title": "Best 4K Monitors (2026)",
+  "slug": "best-4k-monitors-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 16
+ },
+ {
+  "title": "Best Ultrawide Monitors (2026)",
+  "slug": "best-ultrawide-monitors-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 17
+ },
+ {
+  "title": "Best OLED Monitors (2026)",
+  "slug": "best-oled-monitors-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 18
+ },
+ {
+  "title": "Best USB-C Monitors (2026)",
+  "slug": "best-usb-c-monitors-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 19
+ },
+ {
+  "title": "Best Monitors Under $200 (2026)",
+  "slug": "best-monitors-under-200-2026",
+  "category": "computers_phones",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 20
  }
 ]
