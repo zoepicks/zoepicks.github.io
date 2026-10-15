@@ -22,6 +22,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks.github.io)"}
 AFF = "iamcartigo-20"
 MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 6
+PROMPT_CHARS = 3200  # per source, sent to the LLM (Groq free tier: ~8k tokens/min per request -> 413 when bigger)
 MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
@@ -226,26 +227,54 @@ def _parse_json(txt):
         return json.loads(m.group(0))
 
 
+class LLMDown(SystemExit):
+    """Every key/model is out of DAILY tokens - nothing more can be written today, stop the whole run (not a topic fault)."""
+
+
+def _retry_secs(txt):
+    """Groq 429 text says 'Please try again in 7m12.5s' / '850ms' / '12.3s' -> seconds (None if absent)."""
+    m = re.search(r"try again in ([0-9hms.]+)", txt or "")
+    if not m: return None
+    tot = 0.0
+    for num, unit in re.findall(r"(\d+(?:\.\d+)?)(ms|h|m|s)", m.group(1)):
+        tot += float(num) * {"ms": 0.001, "s": 1, "m": 60, "h": 3600}[unit]
+    return tot or None
+
+
 def llm(prompt, system):
-    """GROQ_API_KEY may hold several keys separated by commas: they are rotated; for each key every model in GROQ_MODELS is tried
-    (404 = key has no access to that model -> next model, 429 = rate limit -> next model/key). OpenRouter is the last fallback."""
+    """GROQ_API_KEY may hold several keys separated by commas: they are rotated; for each key every model in GROQ_MODELS is tried.
+    403/404 = no access -> that (key, model) is dead for the run. 429 per-minute -> wait the time Groq asks (up to 90 s) and go round again;
+    429 per-DAY -> dead for the run. 413 / transient 400 -> skip for this call only. OpenRouter is the last fallback."""
     gk = [k.strip() for k in (os.environ.get("GROQ_API_KEY") or "").split(",") if k.strip()]
     if gk:
         i = _rot[0] % len(gk); gk = gk[i:] + gk[:i]; _rot[0] += 1
     keys = [("https://api.groq.com/openai/v1/chat/completions", k, m) for k in gk for m in GROQ_MODELS]
     keys.append(("https://openrouter.ai/api/v1/chat/completions", os.environ.get("OPENROUTER_API_KEY"), "meta-llama/llama-3.3-70b-instruct:free"))
-    for url, key, model in keys:
-        if not key or (key[-6:], model) in _dead: continue
-        try:
-            r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json={
-                "model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
-                "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]})
-            if r.status_code == 200:
-                try: return _parse_json(r.json()["choices"][0]["message"]["content"])
-                except Exception as e: log("llm bad json", model, e); continue
-            if r.status_code in (400, 403, 404): _dead.add((key[-6:], model))
-            log("llm", model, r.status_code, r.text[:160].replace("\n", " "))
-        except Exception as e: log("llm err", model, e)
+    for rnd in range(3):
+        waits = []
+        for url, key, model in keys:
+            if not key or (key[-6:], model) in _dead: continue
+            try:
+                r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json={
+                    "model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
+                    "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]})
+                if r.status_code == 200:
+                    try: return _parse_json(r.json()["choices"][0]["message"]["content"])
+                    except Exception as e: log("llm bad json", model, e); continue
+                body = r.text[:400].replace("\n", " ")
+                if r.status_code == 429:
+                    if "per day" in body or "TPD" in body: _dead.add((key[-6:], model)); log("llm", model, "429 DAILY limit (TPD) -> skipped for this run")
+                    else: waits.append(_retry_secs(body) or 30); log("llm", model, 429, body[:140])
+                    continue
+                if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()): _dead.add((key[-6:], model))
+                log("llm", model, r.status_code, body[:160])
+            except Exception as e: log("llm err", model, e)
+        if not any(k[1] and (k[1][-6:], k[2]) not in _dead for k in keys):
+            raise LLMDown("all LLM keys/models are out of DAILY tokens - stopping the run")
+        if not waits or rnd == 2: break
+        w = min(waits)
+        if w > 90: log(f"rate limit resets in {w:.0f}s - too long, giving up on this topic"); break
+        log(f"rate-limited, waiting {w + 1:.0f}s then trying again"); time.sleep(w + 1)
     raise SystemExit("no LLM key worked (set GROQ_API_KEY or OPENROUTER_API_KEY; see log for per-model errors)")
 
 
@@ -304,7 +333,7 @@ def pick_topic(slug=None, skip=()):
     plan = json.loads((ROOT / "plan/topics.json").read_text())
     c = [t for t in plan if (t["slug"] == slug if slug else t.get("status") == "todo" and t["slug"] not in skip)]
     if not c: raise SystemExit("no matching/todo topic")
-    c.sort(key=lambda t: (t.get("priority", 999), not t.get("high_ticket", False)))
+    c.sort(key=lambda t: (1 if t.get("last_try") else 0, t.get("priority", 999), not t.get("high_ticket", False)))
     return plan, c[0]
 
 
@@ -336,6 +365,16 @@ def run_topic(plan, topic, dry):
     log("done:", topic["slug"], "draft" if out.get("draft") else f"{len(products)} products")
 
 
+def _mark_tried(slug):
+    """A topic that failed for its own reasons (sources blocked, bad output) goes to the back of the queue instead of blocking it."""
+    try:
+        plan = json.loads((ROOT / "plan/topics.json").read_text())
+        for t in plan:
+            if t["slug"] == slug: t["last_try"] = datetime.date.today().strftime("%b %-d, %Y")
+        (ROOT / "plan/topics.json").write_text(json.dumps(plan, indent=1))
+    except Exception as e: log("could not mark tried:", e)
+
+
 def _arg(name, default=None):
     return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else default
 
@@ -357,9 +396,12 @@ def main():
         try:
             run_topic(plan, topic, dry)
             made += 1; fails_in_row = 0
+        except LLMDown as e:
+            log("STOP:", e); break
         except (Exception, SystemExit) as e:
             fails_in_row += 1
             log(f"FAILED {topic['slug']}: {e}")
+            if not dry and "no LLM key worked" not in str(e): _mark_tried(topic["slug"])
             if count == 1: raise
             if fails_in_row >= 3: log("3 failures in a row -> stopping this run"); break
         if slug or i == count - 1: break
