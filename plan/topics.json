@@ -68,9 +68,10 @@
  {
   "title": "Best Android Phones (2026)",
   "slug": "best-android-phones-2026",
-  "category": "computers_phones",
+  "category": "mobiles",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 21
  },
  {
   "title": "Best Laptop Deals (Black Friday 2026)",
@@ -145,9 +146,10 @@
  {
   "title": "Best Gaming Monitors (2026)",
   "slug": "best-gaming-monitors-2026",
-  "category": "gaming",
+  "category": "monitors",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 25
  },
  {
   "title": "Best Gaming Headsets (2026)",
@@ -404,9 +406,10 @@
  {
   "title": "Best Portable Monitors (2026)",
   "slug": "best-portable-monitors-2026",
-  "category": "electronics",
+  "category": "monitors",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 26
  },
  {
   "title": "Best Office Chairs (2026)",
@@ -425,9 +428,10 @@
  {
   "title": "Best Monitors for Home Office (2026)",
   "slug": "best-monitors-for-home-office-2026",
-  "category": "office_books",
+  "category": "monitors",
   "high_ticket": true,
-  "status": "todo"
+  "status": "todo",
+  "priority": 27
  },
  {
   "title": "Best Printers (2026)",
@@ -1151,7 +1155,7 @@
  {
   "title": "Best 4K Monitors (2026)",
   "slug": "best-4k-monitors-2026",
-  "category": "computers_phones",
+  "category": "monitors",
   "high_ticket": true,
   "status": "todo",
   "priority": 16
@@ -1159,7 +1163,7 @@
  {
   "title": "Best Ultrawide Monitors (2026)",
   "slug": "best-ultrawide-monitors-2026",
-  "category": "computers_phones",
+  "category": "monitors",
   "high_ticket": true,
   "status": "todo",
   "priority": 17
@@ -1167,7 +1171,7 @@
  {
   "title": "Best OLED Monitors (2026)",
   "slug": "best-oled-monitors-2026",
-  "category": "computers_phones",
+  "category": "monitors",
   "high_ticket": true,
   "status": "todo",
   "priority": 18
@@ -1175,7 +1179,7 @@
  {
   "title": "Best USB-C Monitors (2026)",
   "slug": "best-usb-c-monitors-2026",
-  "category": "computers_phones",
+  "category": "monitors",
   "high_ticket": true,
   "status": "todo",
   "priority": 19
@@ -1183,9 +1187,41 @@
  {
   "title": "Best Monitors Under $200 (2026)",
   "slug": "best-monitors-under-200-2026",
-  "category": "computers_phones",
+  "category": "monitors",
   "high_ticket": true,
   "status": "todo",
   "priority": 20
+ },
+ {
+  "title": "Best Gaming Phones (2026)",
+  "slug": "best-gaming-phones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 22
+ },
+ {
+  "title": "Best Compact Phones (2026)",
+  "slug": "best-compact-phones-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 23
+ },
+ {
+  "title": "Best Phones Under $300 (2026)",
+  "slug": "best-phones-under-300-2026",
+  "category": "mobiles",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 24
+ },
+ {
+  "title": "Best Monitors for Mac (2026)",
+  "slug": "best-monitors-for-mac-2026",
+  "category": "monitors",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 28
  }
 ]

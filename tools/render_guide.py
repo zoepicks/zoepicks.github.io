@@ -4,11 +4,11 @@ guide.json: {slug,title,category,summary,method,date,assumptions?,products:[{nam
 Only fields that are present get rendered — nothing is invented."""
 import json, sys, html, re, pathlib, hashlib, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Computers & Phones", "mobiles": "Mobiles", "beauty_health": "Beauty & Health",
+CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Computers & Phones", "mobiles": "Mobiles", "monitors": "Monitors", "beauty_health": "Beauty & Health",
         "fitness_outdoor": "Fitness & Outdoor", "fashion": "Fashion", "toys_kids": "Toys & Kids", "tools_auto": "Tools & Auto", "pets": "Pets",
         "office_books": "Office & Books", "gaming": "Gaming", "smart_home": "Smart Home & TV", "furniture_decor": "Furniture & Decor",
         "hobby_music": "Hobby & Music", "other": "More"}
-EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","mobiles":"📱","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
+EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","mobiles":"📱","monitors":"🖥️","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
 def is_live(g):
     """A guide with an 'expires' date (YYYY-MM-DD) stops being live ON that date (UTC). No 'expires' = evergreen = always live."""
     if g.get("retired") or g.get("soon"): return False      # "soon" = coming-soon header row, no article yet
