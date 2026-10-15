@@ -92,9 +92,16 @@ def collect_deals(topic):
 
 
 # ---------- LLM ----------
+_rot = [0]
+
+
 def llm(prompt, system):
-    keys = [("https://api.groq.com/openai/v1/chat/completions", os.environ.get("GROQ_API_KEY"), "llama-3.3-70b-versatile"),
-            ("https://openrouter.ai/api/v1/chat/completions", os.environ.get("OPENROUTER_API_KEY"), "meta-llama/llama-3.3-70b-instruct:free")]
+    """GROQ_API_KEY may hold several keys separated by commas: they are rotated and, on 429/any error, the next one is tried."""
+    gk = [k.strip() for k in (os.environ.get("GROQ_API_KEY") or "").split(",") if k.strip()]
+    if gk:
+        i = _rot[0] % len(gk); gk = gk[i:] + gk[:i]; _rot[0] += 1
+    keys = [("https://api.groq.com/openai/v1/chat/completions", k, "llama-3.3-70b-versatile") for k in gk]
+    keys.append(("https://openrouter.ai/api/v1/chat/completions", os.environ.get("OPENROUTER_API_KEY"), "meta-llama/llama-3.3-70b-instruct:free"))
     for url, key, model in keys:
         if not key: continue
         try:
