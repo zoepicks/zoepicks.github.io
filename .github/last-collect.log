@@ -1,4 +1,31 @@
-[collect] topic: Best Smartphones (2026)
+[collect] topic: Top Smartphones of 2026: Our Overall Picks
+[collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser search html.duckduckgo.com -> 0 pages
+[collect] browser search www.bing.com -> 3 pages
+[collect] 3/3 source pages fetched
+[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
+[collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+[collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+[collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+[collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+[collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+[collect] FAILED best-smartphones-2026: no LLM key worked (set GROQ_API_KEY or OPENROUTER_API_KEY)
+[collect] topic: PS5 Bundles Worth Buying This Holiday (2026)
+[collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser search html.duckduckgo.com -> 0 pages
+[collect] browser search www.bing.com -> 0 pages
 [collect] 0/0 source pages fetched
-[collect] FAILED best-smartphones-2026: not enough sources fetched; topic left as todo
-not enough sources fetched; topic left as todo
+[collect] FAILED best-ps5-consoles-bundles-2026: not enough sources fetched; topic left as todo
+[collect] topic: Which MacBook Should You Buy in 2026?
+[collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser search html.duckduckgo.com -> 0 pages
+[collect] browser search www.bing.com -> 0 pages
+[collect] 0/0 source pages fetched
+[collect] FAILED best-macbooks-2026: not enough sources fetched; topic left as todo
+[collect] 3 failures in a row -> stopping this run
+[collect] run finished: 0 guide(s) built, 3 topic(s) tried
