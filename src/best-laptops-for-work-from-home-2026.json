@@ -2,9 +2,107 @@
  "slug": "best-laptops-for-work-from-home-2026",
  "title": "Top Laptops for Working From Home (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on laptop reviews, and specs and battery figures will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The MacBook Air is the most-named all-rounder for home offices, with the ThinkPad X1 Carbon for business use and the IdeaPad Slim for budgets.",
+ "method": "Picks come from Ceedo, Growrk, Careergappers, Gaurav Tiwari and Cleveland Heart work-from-home roundups. Only models named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because laptop prices change often. Sources stress that webcam quality, RAM and a comfortable keyboard matter more than the headline processor for home-office work.",
+ "products": [
+  {
+   "name": "Apple MacBook Air (M4 / M5)",
+   "short": "MacBook Air",
+   "badge": "Best overall for home office",
+   "why": [
+    "Ceedo names the 13-inch MacBook Air M4 its best overall pick and praises its 12MP Center Stage webcam as the best built-in camera it tested. Cleveland Heart picks the 15-inch M5 Air as its best overall for silent productivity.",
+    "Gaurav Tiwari lists the MacBook Air 13 as its best pick for battery and longevity."
+   ],
+   "specs": [
+    "13-inch and 15-inch sizes",
+    "Apple M4 or M5 chip",
+    "12MP Center Stage webcam (Ceedo)"
+   ],
+   "pros": [
+    "Quiet operation",
+    "Very good webcam for video calls",
+    "Long battery life"
+   ],
+   "cons": [
+    "Costs more than most budget Windows laptops"
+   ],
+   "best_for": "Most home-office workers who live on video calls and documents",
+   "skip_if": "You need Windows-only business software or want the lowest price",
+   "link": "https://www.amazon.com/s?k=Apple+MacBook+Air+%28M4+%2F+M5%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Apple MacBook Pro 16",
+   "short": "MacBook Pro 16",
+   "badge": "Best for demanding work",
+   "why": [
+    "Growrk calls the 16-inch MacBook Pro one of the best laptops for working remotely, ideal for designers, app developers and video editors who keep many demanding apps open.",
+    "Careergappers' author uses a MacBook Pro and names it the best all-round laptop for working remotely."
+   ],
+   "specs": [
+    "16-inch screen",
+    "Apple M-series chip"
+   ],
+   "pros": [
+    "Handles heavy multitasking",
+    "Strong all-round remote-work laptop"
+   ],
+   "cons": [
+    "Premium pricing compared with Windows laptops (Growrk)",
+    "Large and heavy to carry"
+   ],
+   "best_for": "Creators and developers who work mostly at a desk",
+   "skip_if": "You only do email, calls and documents",
+   "link": "https://www.amazon.com/s?k=Apple+MacBook+Pro+16&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo ThinkPad X1 Carbon (Gen 13)",
+   "short": "ThinkPad X1 Carbon",
+   "badge": "Best for business professionals",
+   "why": [
+    "Ceedo names the X1 Carbon Gen 13 its best laptop for business professionals and says it has the best keyboard in its roundup. Growrk says it represents the pinnacle of business laptops in 2026.",
+    "Both sources treat it as the Windows choice for people who type and take calls all day."
+   ],
+   "specs": [
+    "Windows business laptop",
+    "Light business design"
+   ],
+   "pros": [
+    "Best-in-roundup keyboard (Ceedo)",
+    "Business-grade build"
+   ],
+   "cons": [
+    "Premium-priced"
+   ],
+   "best_for": "Business users who type all day and need Windows",
+   "skip_if": "You want a bargain or a big creative display",
+   "link": "https://www.amazon.com/s?k=Lenovo+ThinkPad+X1+Carbon+%28Gen+13%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Lenovo IdeaPad Slim 3 / Slim 5 (16-inch)",
+   "short": "IdeaPad Slim",
+   "badge": "Best budget pick",
+   "why": [
+    "Gaurav Tiwari names the IdeaPad Slim 5 its best budget all-rounder, with a 16-inch WUXGA screen and one of the better keyboards in the budget class. Another roundup makes the IdeaPad Slim 3 16 its editor's choice for remote work.",
+    "Both are 16-inch models, which gives more working space on a small desk."
+   ],
+   "specs": [
+    "16-inch screen",
+    "Windows 11"
+   ],
+   "pros": [
+    "Affordable",
+    "Large screen for working space",
+    "Good keyboard for the price"
+   ],
+   "cons": [
+    "Not as light or refined as premium laptops",
+    "Check the webcam and RAM before buying"
+   ],
+   "best_for": "Home-office workers on a budget",
+   "skip_if": "You want a premium webcam, build or battery",
+   "link": "https://www.amazon.com/s?k=Lenovo+IdeaPad+Slim+3+%2F+Slim+5+%2816-inch%29&tag=iamcartigo-20"
+  }
+ ]
 }
