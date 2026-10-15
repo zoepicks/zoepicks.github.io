@@ -2,9 +2,86 @@
  "slug": "best-laptops-for-video-editing-2026",
  "title": "Top Laptops for Video Editing & Creators (2026)",
  "category": "computers_phones",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on laptop reviews, and specs and battery figures will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "MacBooks lead most video-editing roundups, with the ROG Zephyrus as the Windows alternative that comes up most often.",
+ "method": "Picks come from BestReviews, Digit, UDN's laptop review blog and two smaller testing roundups. Only models or lines named by at least two of these sources are listed. Several sources are small review blogs, so treat the details as a starting point.",
+ "assumptions": "We show no prices because laptop prices change often. Sources agree that editors need plenty of RAM, fast storage and a strong GPU or chip, so check memory and storage before you buy.",
+ "products": [
+  {
+   "name": "Apple MacBook Pro (M5 / M5 Pro)",
+   "short": "MacBook Pro",
+   "badge": "Best for serious editing",
+   "why": [
+    "BestReviews makes the MacBook Pro with the M5 Pro chip its best of the best for photo and video editing. Digit says that if you aren't interested in a gaming laptop, the latest MacBook Pro is the first name that comes to mind, and notes the older M4 chip still edits videos well.",
+    "Smaller review roundups also place the 14-inch MacBook Pro first for editors."
+   ],
+   "specs": [
+    "Apple M5 / M5 Pro chip",
+    "14-inch and 16-inch sizes",
+    "macOS"
+   ],
+   "pros": [
+    "Top performance for 4K timelines",
+    "Works with Final Cut Pro, Premiere Pro and DaVinci Resolve",
+    "Long battery life for a powerful laptop"
+   ],
+   "cons": [
+    "Premium-priced",
+    "Storage upgrades cost extra"
+   ],
+   "best_for": "Working editors and serious creators",
+   "skip_if": "You mostly cut 1080p and want to save money",
+   "link": "https://www.amazon.com/s?k=Apple+MacBook+Pro+%28M5+%2F+M5+Pro%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Apple MacBook Air 15-inch (M4 / M5)",
+   "short": "MacBook Air 15",
+   "badge": "Best for most people",
+   "why": [
+    "BestReviews names the 15-inch MacBook Air with the M4 chip its pick for most people, powerful enough for general photo and video work, and also calls the M5 version best bang for the buck.",
+    "Another roundup makes the 13-inch M5 Air its editor's choice for portability but warns the 512GB base storage fills up fast for video."
+   ],
+   "specs": [
+    "15-inch screen",
+    "Apple M4 or M5 chip",
+    "macOS"
+   ],
+   "pros": [
+    "Strong value for editing",
+    "Light and portable",
+    "Good for 1080p and light 4K"
+   ],
+   "cons": [
+    "Less sustained power than a MacBook Pro",
+    "Base storage fills up quickly with video"
+   ],
+   "best_for": "Beginners, vloggers and hobby editors",
+   "skip_if": "You edit heavy multicam or 8K projects",
+   "link": "https://www.amazon.com/s?k=Apple+MacBook+Air+15-inch+%28M4+%2F+M5%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "ASUS ROG Zephyrus G14 / G15",
+   "short": "ROG Zephyrus",
+   "badge": "Best Windows alternative",
+   "why": [
+    "UDN's laptop blog calls the ROG Zephyrus G15 a mid-range gaming laptop that is also great for 4K video editing, and notes its 90Wh battery lasts about 5 hours of regular use.",
+    "Another testing roundup picks the ROG Zephyrus G14 (2025) as the best Windows laptop for video editing."
+   ],
+   "specs": [
+    "Dedicated GPU",
+    "90Wh battery (G15, UDN)",
+    "Windows"
+   ],
+   "pros": [
+    "Dedicated graphics for editing and games",
+    "Handles 4K editing"
+   ],
+   "cons": [
+    "Battery lasts only about 5 hours under regular use (UDN)"
+   ],
+   "best_for": "Editors who want Windows and a dedicated GPU, plus some gaming",
+   "skip_if": "You edit on battery a lot",
+   "link": "https://www.amazon.com/s?k=ASUS+ROG+Zephyrus+G14+%2F+G15&tag=iamcartigo-20"
+  }
+ ]
 }
