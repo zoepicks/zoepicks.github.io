@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cartigo Picks — honest buying guides</title><meta name="description" content="Short, honest comparisons of 5 products for what you actually need. No hype, clear pros and cons.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css"></head><body>
+<nav><div class="wrap"><a class="logo" href="./">Cartigo <b>Picks</b></a><a class="l" href="#how">How we pick</a></div></nav>
+<main class="wrap"><section class="hero"><h1>Buy the right thing,<br><span>not the loudest one.</span></h1><p>Five carefully chosen options for your exact need — with the downsides spelled out.</p>
+<div class="chips"><span class="chip">✔ Pros &amp; cons</span><span class="chip">✔ Best for whom</span><span class="chip">✔ No fake specs</span></div></section>
+<h2>Browse by category</h2><div class="bento" id="cats"></div>
+<h2>Latest guides</h2><div class="list" id="latest"><div class="empty">Loading…</div></div>
+<h2 id="how">How we pick</h2><div class="how"><div><b>1 · Start from your need</b><span>Budget and use-case first, then specs that matter for that use.</span></div><div><b>2 · Compare real trade-offs</b><span>Every product lists strengths and limits — no one-size-fits-all “best”.</span></div><div><b>3 · Skip what we can't verify</b><span>If a spec or price isn't reliable, we leave it out or mark it unverified.</span></div></div>
+<p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases. Links are affiliate links; they cost you nothing extra. Prices change often — always check the current price on Amazon.</p>
+<footer>© Cartigo Picks · <a href="https://www.amazon.com">Amazon and the Amazon logo are trademarks of Amazon.com, Inc.</a></footer></main>
+<script src="assets/site.js" data-root="."></script><script>
+cats.innerHTML=CATS.map(c=>`<a class="cat" href="category.html?c=${c[0]}"><i>${c[1]}</i><b>${c[2]}</b></a>`).join("");
+guides().then(g=>{latest.innerHTML=g.length?g.slice(0,8).map(row).join(""):'<div class="empty">First guides are on the way.</div>'});</script></body></html>
