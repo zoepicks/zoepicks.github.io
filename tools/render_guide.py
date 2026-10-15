@@ -81,9 +81,11 @@ def card(i, p):
 def intro_html(d):
     """Short intro. 'intro' = while the offer is live, optional 'intro_ended' = after it ends (so no stale 'grab it now' text).
     Both are rendered; the inline script in the template swaps them by the viewer's clock, the daily rebuild swaps them in the HTML."""
+    pcts = [pr["pct"] for pr in (parse_price(p.get("price")) for p in d.get("products", [])) if pr and pr.get("pct")]
+    hook = f"Up to {max(pcts)}% off" if pcts else "Big savings"      # {deal_hook}: real number from the guide's own prices
     def sec(xs, cls, hidden):
         xs = xs if isinstance(xs, list) else [xs]
-        return f'<section class="{cls}"{" hidden" if hidden else ""}>' + "".join(f"<p>{e(x)}</p>" for x in xs) + "</section>"
+        return f'<section class="{cls}"{" hidden" if hidden else ""}>' + "".join(f"<p>{e(x.replace('{deal_hook}', hook))}</p>" for x in xs) + "</section>"
     live, end = d.get("intro"), d.get("intro_ended")
     if not live and not end: return ""
     if not end: return sec(live, "intro intro-live", False)
