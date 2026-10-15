@@ -34,3 +34,14 @@ footer{margin:48px 0 28px;color:var(--mut);font-size:13px}
 .best{font-size:14px;margin:10px 0;color:var(--mut)}
 .btn{display:block;text-align:center;text-decoration:none;font-weight:700;color:#fff;background:linear-gradient(90deg,var(--a),var(--b));padding:13px;border-radius:14px;margin-top:12px}
 .btn small{font-weight:500;opacity:.85}
+/* compact, Amazon-style density */
+nav .wrap{height:50px}
+.hero{padding:20px 0 6px}.hero h1{font-size:clamp(26px,6.2vw,48px);margin:0 0 8px}.hero p{font-size:15px}
+.chips{flex-wrap:nowrap;overflow-x:auto;margin-top:12px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{font-size:12px;padding:4px 10px;white-space:nowrap}
+h2{font-size:18px;margin:22px 0 10px}
+.bento{grid-template-columns:repeat(auto-fill,minmax(78px,1fr));gap:8px}
+.cat{display:flex;flex-direction:column;align-items:center;text-align:center;padding:10px 4px;border-radius:16px}
+.cat i{font-size:24px;margin:0 0 4px;line-height:1}.cat b{font-size:11.5px;line-height:1.2;font-weight:600}
+.item{padding:10px 14px;border-radius:14px}.how div{padding:12px}.how span{font-size:13px}.how{gap:8px}
+.disc{margin:14px 0;font-size:12.5px;padding:10px 12px}footer{margin:28px 0 20px}
+.g-head{padding:16px 0 2px}.card{padding:14px;margin:16px 0}.card img{max-height:160px}.sum{font-size:15px}.btn{padding:11px;margin-top:10px}
