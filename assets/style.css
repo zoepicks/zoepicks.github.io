@@ -59,3 +59,5 @@ h2{font-size:18px;margin:22px 0 10px}
 .tbl{overflow-x:auto;margin:10px 0}.tbl table{width:100%;border-collapse:collapse;font-size:14px;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}.tbl th,.tbl td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}.tbl th{color:var(--mut);font-weight:600}.tbl a{color:var(--a);font-weight:600;text-decoration:none}
 .tips{padding-left:20px;line-height:1.6}.tips li{margin:8px 0;font-size:15px}
 .faq{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0}.faq summary{cursor:pointer;font-weight:600}.faq p{margin:8px 0 0;color:var(--mut);font-size:14px;line-height:1.6}
+
+.amz small{display:block;margin-top:2px;opacity:.8}

@@ -20,6 +20,8 @@ def card(i, p):
         raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
     h = f'<article class="card" id="p{i+1}">' + (f'<span class="rank">{e(p["badge"])}</span>' if p.get("badge") else "") + f'<h3>{e(p["name"])}</h3>'
     if p.get("price"): h += f'<div class="price">{e(p["price"])}' + (f' · as of {e(p["price_asof"])}' if p.get("price_asof") else "") + ' — may have changed</div>'
+    if p.get("amazon_price"):
+        h += f'<div class="price amz">On Amazon: <b>{e(p["amazon_price"])}</b>' + (f' · as of {e(p["amazon_price_asof"])}' if p.get("amazon_price_asof") else "") + ' — may have changed' + (f'<br><small>Listing: {e(p["amazon_listing"])}</small>' if p.get("amazon_listing") else "") + '</div>'
     if p.get("image"): h += f'<img src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
     if p.get("why"):
         paras = p["why"] if isinstance(p["why"], list) else [p["why"]]
@@ -39,7 +41,7 @@ def intro_html(d):
 
 def compare_html(d):
     if not d.get("compare"): return ""
-    rows = "".join(f'<tr><td><a href="#p{i+1}">{e(p["name"])}</a></td><td>{e(p.get("badge", ""))}</td><td>{e(p.get("price", "Check price"))}</td></tr>' for i, p in enumerate(d["products"]))
+    rows = "".join(f'<tr><td><a href="#p{i+1}">{e(p["name"])}</a></td><td>{e(p.get("badge", ""))}</td><td>{e(p.get("price") or p.get("amazon_price") or "Check price")}</td></tr>' for i, p in enumerate(d["products"]))
     return f'<h2>Quick comparison</h2><div class="tbl"><table><thead><tr><th>Laptop</th><th>Pick</th><th>Price seen</th></tr></thead><tbody>{rows}</tbody></table></div>'
 
 def tips_html(d):
