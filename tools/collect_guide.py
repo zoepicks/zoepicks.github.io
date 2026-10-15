@@ -158,18 +158,15 @@ def ground(g, pages, texts):
 
 
 # ---------- plan / io ----------
-def pick_topic(slug=None):
+def pick_topic(slug=None, skip=()):
     plan = json.loads((ROOT / "plan/topics.json").read_text())
-    c = [t for t in plan if (t["slug"] == slug if slug else t.get("status") == "todo")]
+    c = [t for t in plan if (t["slug"] == slug if slug else t.get("status") == "todo" and t["slug"] not in skip)]
     if not c: raise SystemExit("no matching/todo topic")
     c.sort(key=lambda t: (t.get("priority", 999), not t.get("high_ticket", False)))
     return plan, c[0]
 
 
-def main():
-    dry = "--dry" in sys.argv
-    slug = sys.argv[sys.argv.index("--slug") + 1] if "--slug" in sys.argv else None
-    plan, topic = pick_topic(slug)
+def run_topic(plan, topic, dry):
     log("topic:", topic["title"])
     domains = SOURCES.get(topic["category"], SOURCES["_default"])
     pages = discover(topic, domains)
@@ -195,6 +192,38 @@ def main():
     (ROOT / "plan/topics.json").write_text(json.dumps(plan, indent=1))
     subprocess.run([sys.executable, str(ROOT / "tools/render_guide.py"), "--all", "https://zoepicks.github.io"], check=True)
     log("done:", topic["slug"], "draft" if out.get("draft") else f"{len(products)} products")
+
+
+def _arg(name, default=None):
+    return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else default
+
+
+def main():
+    """--count N builds up to N guides in one run (a failed topic is skipped for this run, not retried in a loop);
+    --gap S pauses S seconds between guides (free-tier LLM rate limits). Stops after 3 failures in a row."""
+    dry = "--dry" in sys.argv
+    slug = _arg("--slug")
+    count = max(1, int(_arg("--count", 1)))
+    gap = int(_arg("--gap", 45))
+    tried, made, fails_in_row = set(), 0, 0
+    for i in range(count):
+        try:
+            plan, topic = pick_topic(slug, tried)
+        except SystemExit as e:
+            log("stop:", e); break
+        tried.add(topic["slug"])
+        try:
+            run_topic(plan, topic, dry)
+            made += 1; fails_in_row = 0
+        except (Exception, SystemExit) as e:
+            fails_in_row += 1
+            log(f"FAILED {topic['slug']}: {e}")
+            if count == 1: raise
+            if fails_in_row >= 3: log("3 failures in a row -> stopping this run"); break
+        if slug or i == count - 1: break
+        time.sleep(gap)
+    log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
+    if made == 0 and count > 1: sys.exit(1)
 
 
 if __name__ == "__main__":
