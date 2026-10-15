@@ -216,14 +216,17 @@ def site_files(base):
 
 def sync_index_expiry():
     """Copy each guide's 'expires' from src/*.json into guides/index.json (the bot and the site read it there)."""
-    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}; gone = set()
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}; gone = set(); al = {}
     for f in (ROOT / "src").glob("*.json"):
-        d = json.load(open(f)); ex[d["slug"]] = d.get("expires")
+        d = json.load(open(f)); ex[d["slug"]] = d.get("expires"); al[d["slug"]] = d.get("also")
         if d.get("retired"): gone.add(d["slug"])
     ch = False
     if gone:
         n = len(L); L = [g for g in L if g["slug"] not in gone]; ch = len(L) != n
     for g in L:
+        if g["slug"] in al and not g.get("soon"):      # "also": extra categories this guide is listed under (one page, shown in both)
+            if al[g["slug"]] and g.get("also") != al[g["slug"]]: g["also"] = al[g["slug"]]; ch = True
+            elif not al[g["slug"]] and "also" in g: del g["also"]; ch = True
         if g["slug"] in ex:
             if ex[g["slug"]] and g.get("expires") != ex[g["slug"]]: g["expires"] = ex[g["slug"]]; ch = True
             elif not ex[g["slug"]] and "expires" in g: del g["expires"]; ch = True
@@ -240,7 +243,7 @@ def sync_soon():
     for f in (ROOT / "src").glob("*.json"):
         d = json.load(open(f))
         if d.get("draft") and not d.get("retired") and d["slug"] not in live:
-            soon.append({"slug": d["slug"], "title": d["title"], "category": d["category"], "soon": True})
+            soon.append({"slug": d["slug"], "title": d["title"], "category": d["category"], **({"also": d["also"]} if d.get("also") else {}), "soon": True})
     soon.sort(key=lambda g: (pr.get(g["slug"], 999), g["slug"]))
     new = [g for g in L if not g.get("soon")] + soon
     if new != L: ix.write_text(json.dumps(new, indent=1))
@@ -262,6 +265,6 @@ if __name__ == "__main__":
     out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True); (out / "index.html").write_text(render(d, base))
     ix = ROOT / "guides/index.json"; L = [x for x in json.loads(ix.read_text()) if x["slug"] != d["slug"]]
     if d.get("draft"): print("draft: not added to the live index (shows as Coming soon)"); ix.write_text(json.dumps(L, indent=1)); print("ok", out / "index.html"); (rebuild_all(base) if base else None); raise SystemExit
-    L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"], **({"expires": d["expires"]} if d.get("expires") else {})}); ix.write_text(json.dumps(L[:500], indent=1))
+    L.insert(0, {"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d["date"], **({"also": d["also"]} if d.get("also") else {}), **({"expires": d["expires"]} if d.get("expires") else {})}); ix.write_text(json.dumps(L[:500], indent=1))
     print("ok", out / "index.html")
     if base: rebuild_all(base)

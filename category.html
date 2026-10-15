@@ -5,4 +5,4 @@
 <p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases.</p></main>
 <script src="assets/site.js" data-root="."></script><script>
 const k=new URLSearchParams(location.search).get("c"),c=CATS.find(x=>x[0]==k);t.textContent=c?c[1]+" "+c[2]:"Guides";
-guides().then(g=>{g=g.filter(x=>!k||x.category==k);l.innerHTML=g.length?g.map(row).join(""):'<div class="empty">No guides here yet — check back soon.</div>'});</script></body></html>
+guides().then(g=>{g=g.filter(x=>!k||x.category==k||(x.also||[]).includes(k));l.innerHTML=g.length?g.map(row).join(""):'<div class="empty">No guides here yet — check back soon.</div>'});</script></body></html>
