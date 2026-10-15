@@ -2,9 +2,104 @@
  "slug": "best-phones-under-500-2026",
  "title": "Top Phones Under $500 (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on phone reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "The Pixel 10a is the best all-rounder under $500, with the Galaxy A37 for long support, the Nothing Phone (4a) Pro for zoom and the Moto G Power for under $300.",
+ "method": "Picks come from TechRepublic, PhoneArena, Mobility Arena, TechRadar, Tom's Guide and T3. Only phones named by at least two of these sources are listed.",
+ "assumptions": "We show no prices because phone prices change often. OnePlus left the US market in July 2026, so we leave out OnePlus Nord phones.",
+ "products": [
+  {
+   "name": "Google Pixel 10a",
+   "short": "Pixel 10a",
+   "badge": "Best overall under $500",
+   "why": [
+    "PhoneArena names the Pixel 10a its best phone under $500 for balanced features and an amazing camera. TechRepublic picks it for balanced everyday use, and Mobility Arena lists it among the safest unlocked picks under $500.",
+    "TechRadar and Tom's Guide also name it the best budget Android phone and best value Android phone."
+   ],
+   "specs": [
+    "Google Pixel software",
+    "Android 16"
+   ],
+   "pros": [
+    "Great camera for the price",
+    "Clean software with long Google support",
+    "Balanced all-rounder"
+   ],
+   "cons": [
+    "Not as fast as flagships"
+   ],
+   "best_for": "Most people who want one great, simple Android phone",
+   "skip_if": "You want a telephoto zoom lens",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+10a&tag=iamcartigo-20"
+  },
+  {
+   "name": "Samsung Galaxy A37 5G",
+   "short": "Galaxy A37 5G",
+   "badge": "Best for long software support",
+   "why": [
+    "TechRepublic names the Galaxy A37 5G the best sub-$500 phone for long software support, and Mobility Arena lists it among the safest unlocked phones under $500 at current pricing.",
+    "Mobility Arena notes the Galaxy A57 5G has moved above the $500 line."
+   ],
+   "specs": [
+    "5G",
+    "Samsung One UI"
+   ],
+   "pros": [
+    "Long software support",
+    "Samsung build and display quality"
+   ],
+   "cons": [
+    "Slower processor than $600 to $800 phones (Mobility Arena)"
+   ],
+   "best_for": "Buyers who keep their phone for many years",
+   "skip_if": "You want the best camera zoom or fastest chip",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+A37+5G&tag=iamcartigo-20"
+  },
+  {
+   "name": "Nothing Phone (4a) Pro",
+   "short": "Nothing Phone (4a) Pro",
+   "badge": "Best for zoom photography",
+   "why": [
+    "TechRepublic says the Nothing Phone (4a) Pro stands apart from most sub-$500 phones with a 50MP periscope camera offering 3.5x optical zoom. T3 and Tom's Guide both gave it a 2026 award as a top budget phone.",
+    "TechRepublic notes the $499 version has 128GB and the 256GB model costs more than $500."
+   ],
+   "specs": [
+    "50MP periscope camera with 3.5x optical zoom",
+    "128GB at the $499 price (TechRepublic)"
+   ],
+   "pros": [
+    "Real optical zoom at this price",
+    "Distinctive design and fun software"
+   ],
+   "cons": [
+    "The 256GB version goes over $500"
+   ],
+   "best_for": "Photo fans who want zoom without paying flagship prices",
+   "skip_if": "You need the longest software support",
+   "link": "https://www.amazon.com/s?k=Nothing+Phone+%284a%29+Pro&tag=iamcartigo-20"
+  },
+  {
+   "name": "Motorola Moto G Power (2026)",
+   "short": "Moto G Power 2026",
+   "badge": "Best under $300",
+   "why": [
+    "TechRepublic names the Moto G Power 2026 its best pick for spending under $300, with a 5,200mAh battery and 50MP camera. Tom's Guide's battery test also lists it at about 18 hours.",
+    "TechRepublic warns that Motorola schedules its security updates only through January 2029."
+   ],
+   "specs": [
+    "5,200mAh battery",
+    "50MP camera",
+    "128GB storage"
+   ],
+   "pros": [
+    "Very low price",
+    "Excellent battery life"
+   ],
+   "cons": [
+    "Shorter update support than Google or Samsung"
+   ],
+   "best_for": "Buyers who want the cheapest phone with great battery",
+   "skip_if": "You want long updates or a premium camera",
+   "link": "https://www.amazon.com/s?k=Motorola+Moto+G+Power+%282026%29&tag=iamcartigo-20"
+  }
+ ]
 }
