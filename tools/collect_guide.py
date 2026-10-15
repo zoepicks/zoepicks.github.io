@@ -22,7 +22,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks.github.io)"}
 AFF = "iamcartigo-20"
 MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 6
-PROMPT_CHARS = 3200  # per source, sent to the LLM (Groq free tier: ~8k tokens/min per request -> 413 when bigger)
+PROMPT_CHARS = 2300  # per source, sent to the LLM. Groq free tier = 8000 tokens/min AND per request: prompt(~3.7k)+max_tokens(3.4k) must stay < 8000 or it answers 413
 MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
@@ -227,6 +227,15 @@ def _parse_json(txt):
         return json.loads(m.group(0))
 
 
+_diag = {"daily": {}, "toolarge": {}, "minute": {}}   # key tail -> "used/limit" text, for the end-of-run summary
+
+
+def _nums(body):
+    """Groq limit errors say 'Limit 200000, Used 199100, Requested 5400' -> compact text."""
+    m = re.search(r"Limit (\d+), Used (\d+), Requested (\d+)", body or "")
+    return f"limit {int(m.group(1)):,} used {int(m.group(2)):,} requested {int(m.group(3)):,}" if m else ""
+
+
 class LLMDown(SystemExit):
     """Every key/model is out of DAILY tokens - nothing more can be written today, stop the whole run (not a topic fault)."""
 
@@ -255,16 +264,25 @@ def llm(prompt, system):
         for url, key, model in keys:
             if not key or (key[-6:], model) in _dead: continue
             try:
-                r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json={
-                    "model": model, "temperature": 0.2, "response_format": {"type": "json_object"},
-                    "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]})
+                payload = {"model": model, "temperature": 0.2, "response_format": {"type": "json_object"}, "max_tokens": 3400,
+                           "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]}
+                if model.startswith("openai/gpt-oss"): payload["reasoning_effort"] = "low"   # far fewer hidden reasoning tokens per guide
+                r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json=payload)
                 if r.status_code == 200:
                     try: return _parse_json(r.json()["choices"][0]["message"]["content"])
                     except Exception as e: log("llm bad json", model, e); continue
                 body = r.text[:400].replace("\n", " ")
                 if r.status_code == 429:
-                    if "per day" in body or "TPD" in body: _dead.add((key[-6:], model)); log("llm", model, "429 DAILY limit (TPD) -> skipped for this run")
-                    else: waits.append(_retry_secs(body) or 30); log("llm", model, 429, body[:140])
+                    if "per day" in body or "TPD" in body:
+                        _dead.add((key[-6:], model)); _diag["daily"][key[-4:]] = _nums(body)
+                        log(f"llm key ...{key[-4:]} {model} DAILY limit {_nums(body)} -> skipped for this run")
+                    else:
+                        waits.append(_retry_secs(body) or 30); _diag["minute"][key[-4:]] = _nums(body)
+                        log(f"llm key ...{key[-4:]} {model} per-minute limit {_nums(body)} -> will wait")
+                    continue
+                if r.status_code == 413:
+                    _diag["toolarge"][key[-4:]] = _nums(body)
+                    log(f"llm key ...{key[-4:]} {model} REQUEST TOO LARGE {_nums(body)}")
                     continue
                 if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()): _dead.add((key[-6:], model))
                 log("llm", model, r.status_code, body[:160])
@@ -406,6 +424,8 @@ def main():
             if fails_in_row >= 3: log("3 failures in a row -> stopping this run"); break
         if slug or i == count - 1: break
         time.sleep(gap)
+    keys = [k.strip() for k in (os.environ.get("GROQ_API_KEY") or "").split(",") if k.strip()]
+    log(f"llm summary: {len(keys)} key(s) | daily-limit: {sorted(_diag['daily']) or 'none'} | too-large: {sorted(_diag['toolarge']) or 'none'} | per-minute: {sorted(_diag['minute']) or 'none'}")
     log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
     if made == 0 and count > 1: sys.exit(1)
 
