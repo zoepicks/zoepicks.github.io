@@ -1,14 +1,17 @@
 """Render one buying guide (static HTML, so X link previews work) + update guides/index.json.
-Usage: python tools/render_guide.py guide.json [BASE_URL]
+Usage: python tools/render_guide.py guide.json [BASE_URL]\n       python tools/render_guide.py --all BASE_URL   (re-render all guides; run after changing assets/og.png — og:image ?v= is auto-set from the image hash)
 guide.json: {slug,title,category,summary,method,date,assumptions?,products:[{name,badge?,price?,price_asof?,specs[],pros[],cons[],best_for,link,image?}]}
 Only fields that are present get rendered — nothing is invented."""
-import json, sys, html, re, pathlib
+import json, sys, html, re, pathlib, hashlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Computers & Phones", "beauty_health": "Beauty & Health",
         "fitness_outdoor": "Fitness & Outdoor", "fashion": "Fashion", "toys_kids": "Toys & Kids", "tools_auto": "Tools & Auto", "pets": "Pets",
         "office_books": "Office & Books", "gaming": "Gaming", "smart_home": "Smart Home & TV", "furniture_decor": "Furniture & Decor",
         "hobby_music": "Hobby & Music", "other": "More"}
 EMOJI = {"home_kitchen":"🍳","electronics":"🎧","computers_phones":"💻","beauty_health":"🧴","fitness_outdoor":"🏃","fashion":"👟","toys_kids":"🧸","tools_auto":"🔧","pets":"🐶","office_books":"📚","gaming":"🎮","smart_home":"🏠","furniture_decor":"🛋️","hobby_music":"🎸","other":"✨"}
+def og_version():
+    f = ROOT / "assets/og.png"
+    return hashlib.md5(f.read_bytes()).hexdigest()[:8] if f.exists() else "0"
 e = lambda s: html.escape(str(s), quote=True)
 ul = lambda xs: "<ul>" + "".join(f"<li>{e(x)}</li>" for x in xs) + "</ul>"
 
@@ -26,7 +29,7 @@ def card(i, p):
 def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
-    rep = {"TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
+    rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])),
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
@@ -44,9 +47,19 @@ def site_files(base):
     h = re.sub(r"<!--GUIDES-->.*?<!--/GUIDES-->", lambda m: "<!--GUIDES-->" + rows + "<!--/GUIDES-->", h, flags=re.S)
     cats = "".join(f'<a class="cat" href="category.html?c={k}"><i>{EMOJI[k]}</i><b>{e(v)}</b></a>' for k, v in CATS.items())
     h = re.sub(r"<!--CATS-->.*?<!--/CATS-->", lambda m: "<!--CATS-->" + cats + "<!--/CATS-->", h, flags=re.S)
+    h = re.sub(r"assets/og\.png\?v=[0-9a-zA-Z]+", "assets/og.png?v=" + og_version(), h)
     ix.write_text(h)
 
+def rebuild_all(base):
+    """Re-render every guide from src/*.json (keeps guides/index.json order). Run after changing assets/og.png."""
+    for f in sorted((ROOT / "src").glob("*.json")):
+        d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
+        (out / "index.html").write_text(render(d, base)); print("ok", out / "index.html")
+    site_files(base)
+
 if __name__ == "__main__":
+    if len(sys.argv) > 2 and sys.argv[1] == "--all":
+        rebuild_all(sys.argv[2].rstrip("/")); raise SystemExit
     d = json.load(open(sys.argv[1])); base = sys.argv[2].rstrip("/") if len(sys.argv) > 2 else ""
     if not re.match(r"^[a-z0-9-]{3,80}$", d["slug"]): raise SystemExit("bad slug")
     out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True); (out / "index.html").write_text(render(d, base))
