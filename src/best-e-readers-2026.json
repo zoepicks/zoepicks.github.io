@@ -2,9 +2,127 @@
  "slug": "best-e-readers-2026",
  "title": "Top E-Readers & Kindles for Book Lovers (2026)",
  "category": "electronics",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on e-reader reviews, and specs will be for the configuration the reviewers tested.",
  "date": "Oct 15, 2026",
- "products": []
+ "summary": "The guide highlights the Kindle Paperwhite, Kindle (2024), Kindle Scribe Colorsoft, and Kindle Colorsoft as the top e‑readers for 2026, based on recommendations from PCMag and Tom’s Guide.",
+ "method": "Products were selected from PCMag (source 0) and Tom’s Guide (source 1); any model mentioned by both sources was prioritized, yielding four picks.",
+ "assumptions": "Prices are omitted because no source provided a specific amount; all specifications, pros, cons and badges come directly from the excerpts.",
+ "products": [
+  {
+   "name": "Amazon Kindle Paperwhite (2024)",
+   "short": "Kindle Paperwhite",
+   "badge": "Best Overall",
+   "why": [
+    "Tom’s Guide calls the 2024 Paperwhite the best e‑reader for most people, noting its larger 7‑inch screen, 300‑ppi display, 17‑LED front‑light system and IPX8 waterproof rating, plus 25% faster page‑flipping and smoother performance than earlier models.",
+    "PCMag agrees it’s the best ebook reader for most people, offering an ideal blend of price and features, a slightly larger screen and faster performance versus the prior version."
+   ],
+   "specs": [
+    "7‑inch screen",
+    "300‑ppi display",
+    "17 LED backlights",
+    "IPX8 waterproof rating",
+    "25% faster page flipping",
+    "brighter screen than previous model"
+   ],
+   "pros": [
+    "Larger 7‑inch display",
+    "Even lighting with 17 LEDs",
+    "Waterproof (IPX8)",
+    "Fast page turns"
+   ],
+   "cons": [
+    "Costs $10 more than the previous model",
+    "Power button is placed on the side rather than the top"
+   ],
+   "best_for": "Readers who want a solid all‑round e‑reader with premium features",
+   "skip_if": "If you need a waterproof device at a lower price point",
+   "deal_note": "regular sales on Amazon should help lower the cost if you wait for a good opportunity",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Paperwhite+%282024%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Amazon Kindle (2024)",
+   "short": "Kindle",
+   "badge": "Best Value",
+   "why": [
+    "Tom’s Guide rates the 2024 Kindle as the best value, praising its bright display, long battery life and comfortable feel, while noting the lack of waterproofing and Amazon’s locked ecosystem.",
+    "PCMag notes the entry‑level Kindle for 2024 has a slightly brighter screen, a new color option and costs $10 more than the prior model, otherwise remaining the same device."
+   ],
+   "specs": [
+    "Slightly brighter screen",
+    "New color option",
+    "Same design as previous model",
+    "Costs $10 more than previous model"
+   ],
+   "pros": [
+    "Bright display",
+    "Lightweight and comfortable to hold",
+    "Long battery life"
+   ],
+   "cons": [
+    "Not waterproof",
+    "Locked into Amazon’s ecosystem"
+   ],
+   "best_for": "Budget‑conscious readers who don’t need waterproofing",
+   "skip_if": "If you require waterproof protection or adjustable warmth settings",
+   "deal_note": "great Kindle at a killer price",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+%282024%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Amazon Kindle Scribe Colorsoft (2025)",
+   "short": "Kindle Scribe Colorsoft",
+   "badge": "Best Premium",
+   "why": [
+    "Tom’s Guide calls the Kindle Scribe Colorsoft the “Cadillac of Kindles,” highlighting its 11‑inch color E Ink screen, bundled stylus with eraser and extensive annotation features.",
+    "PCMag notes the large color E Ink display is nice for note‑taking and comics but criticizes its high price, lack of waterproofing and lower color resolution (150 PPI versus 300 PPI in B&W)."
+   ],
+   "specs": [
+    "11‑inch color E Ink display",
+    "300 PPI in black‑and‑white, 150 PPI in color",
+    "Bundled stylus with built‑in eraser",
+    "No meaningful waterproofing",
+    "High price"
+   ],
+   "pros": [
+    "Large 11‑inch screen",
+    "Color display for books and comics",
+    "Included stylus with eraser"
+   ],
+   "cons": [
+    "Expensive",
+    "Lacks waterproofing",
+    "Color resolution drops to 150 PPI"
+   ],
+   "best_for": "Power users who need a big color screen for reading and note‑taking",
+   "skip_if": "If you need a waterproof device or a lower‑cost option",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Scribe+Colorsoft+%282025%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Amazon Kindle Colorsoft (2026)",
+   "short": "Kindle Colorsoft",
+   "badge": "Best Color",
+   "why": [
+    "Tom’s Guide praises the 2026 Kindle Colorsoft for its 7‑inch crisp color E Ink screen that remains readable in direct sunlight, making comics and illustrated books look engaging.",
+    "PCMag says the Kindle Colorsoft offers most Signature Edition perks at a lower price, though it suffers from uneven lighting and a relatively high price compared to other models."
+   ],
+   "specs": [
+    "7‑inch color E Ink screen",
+    "Crisp display",
+    "Readable in direct sunlight",
+    "Lower price than Signature Edition",
+    "Uneven lighting",
+    "High price"
+   ],
+   "pros": [
+    "Color display ideal for comics",
+    "Good sunlight readability",
+    "Lower price than the Signature Edition"
+   ],
+   "cons": [
+    "Uneven lighting across the screen",
+    "Higher price than many other Kindles"
+   ],
+   "best_for": "Readers who want color books without paying for premium features like wireless charging",
+   "skip_if": "If you need wireless charging, extra storage, or a perfectly even front light",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Colorsoft+%282026%29&tag=iamcartigo-20"
+  }
+ ]
 }
