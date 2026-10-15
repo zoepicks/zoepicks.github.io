@@ -60,6 +60,35 @@ def buy_link(p):
     a = str(p.get("asin") or p.get("image_asin") or "").strip().upper()
     return f"https://www.amazon.com/dp/{a}?tag={AFF_TAG}" if re.match(r"^[A-Z0-9]{10}$", a) else p.get("link", "")
 
+def _rating(p):
+    """(rating float, count int) only when the bot stored a sane Amazon rating + count; else None."""
+    try:
+        r = float(p.get("amazon_rating")); n = int(p.get("amazon_reviews"))
+    except (TypeError, ValueError): return None
+    return (r, n) if 1 <= r <= 5 and n > 0 else None
+
+def _k(n):
+    return f"{n/1000:.1f}".rstrip("0").rstrip(".") + "K" if n >= 1000 else str(n)
+
+def rating_block(p):
+    rt = _rating(p)
+    if not rt: return ""
+    r, n = rt
+    asof = f' title="Amazon rating as of {e(p["amazon_rating_asof"])}"' if p.get("amazon_rating_asof") else ""
+    return (f'<div class="rt"{asof}><span class="stars" style="--p:{r/5*100:.0f}%" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>'
+            f'<b>{r:g}</b><span class="rn">({n:,} ratings on Amazon)</span></div>')
+
+def voices_html(d):
+    """Auto-gliding cards: what the expert reviewers said (paraphrased, attributed) - praise AND the catch."""
+    v = d.get("voices")
+    if not v: return ""
+    cards = ""
+    for i, x in enumerate(v):
+        c = PALETTE[i % len(PALETTE)]
+        cards += (f'<article class="vc" style="--c:{c}"><b class="n">{e(x["name"])}</b><small>{e(x["src"])}</small>'
+                  f'<p class="l">{e(x["like"])}</p><p class="c">{e(x["catch"])}</p></article>')
+    return f'<section class="vr"><h2 class="cmp">What reviewers say <small class="tap">expert reviews, summarized</small></h2><div class="vrail">{cards}</div></section>'
+
 def card(i, p):
     link = buy_link(p)
     if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
@@ -69,7 +98,7 @@ def card(i, p):
     if p.get("badge"): h += f'<span class="rank">#{i+1} · {e(p["badge"])}</span>'
     h += '<div class="top">'
     if p.get("image"): h += f'<img class="thumb" src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" decoding="async" width="108" height="108" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
-    h += f'<div class="meta"><h3>{e(p["name"])}</h3>{price_block(p)}'
+    h += f'<div class="meta"><h3>{e(p["name"])}</h3>{rating_block(p)}{price_block(p)}'
     if p.get("amazon_price"):
         h += f'<div class="sub amz">On Amazon: <b>{e(p["amazon_price"])}</b>' + (f' · as of {e(p["amazon_price_asof"])}' if p.get("amazon_price_asof") else "") + ' — may have changed' + (f'<small>Listing: {e(p["amazon_listing"])}</small>' if p.get("amazon_listing") else "") + "</div>"
     h += "</div></div>"
@@ -116,7 +145,9 @@ def compare_html(d):
             off = f'<span class="off">-{pr["pct"]}%</span>' if pr.get("pct") else "-"
         else:
             price, off = "See price", "-"
-        rows += f'<tr><td><a href="#p{i+1}">{e(p.get("short") or p["name"])}</a><small class="pk">{e(p.get("badge", ""))}</small></td><td class="pr">{price}</td><td>{off}</td></tr>'
+        rt = _rating(p)
+        rtx = f'<span class="rt sm"><span class="st1">&#9733;</span>{rt[0]:g} ({_k(rt[1])})</span>' if rt else ""
+        rows += f'<tr><td><a href="#p{i+1}">{e(p.get("short") or p["name"])}</a>{rtx}<small class="pk">{e(p.get("badge", ""))}</small></td><td class="pr">{price}</td><td>{off}</td></tr>'
     return f'<h2 class="cmp">Quick comparison <small class="tap">tap a name</small></h2><div class="tbl"><table><thead><tr><th>Laptop</th><th>Deal</th><th>Off</th></tr></thead><tbody>{rows}</tbody></table></div>'
 
 def countdown_html(d):
@@ -162,7 +193,7 @@ def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
-           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
+           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     if d.get("draft"): rep["OGURL"] += '<meta name="robots" content="noindex">'   # unfinished guide: reachable by link only, hidden from search
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)

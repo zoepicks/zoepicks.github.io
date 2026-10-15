@@ -244,5 +244,37 @@
  "live_label": "Black Friday deals are live",
  "intro_ended": [
   "This Black Friday offer has ended. The prices below are from when the deals were live. Check the current price on Amazon, or browse our other laptop guides above."
+ ],
+ "voices": [
+  {
+   "name": "MacBook Air 13-inch (M5)",
+   "src": "Tom's Hardware, Digital Trends",
+   "like": "Tom's Hardware still calls it the best Mac laptop for most people, and Digital Trends calls it one of the easiest laptop recommendations in years.",
+   "catch": "It costs more than the MacBook Neo, which is Apple's cheapest Mac."
+  },
+  {
+   "name": "MacBook Neo",
+   "src": "Tom's Guide",
+   "like": "It lasted 13 hours 28 minutes in Tom's Guide's web-surfing test, and the screen measured 452 nits.",
+   "catch": "The catch is 8GB of memory, which is the only option."
+  },
+  {
+   "name": "IdeaPad Slim 3x",
+   "src": "PCWorld",
+   "like": "PCWorld praises the battery life and day-to-day speed.",
+   "catch": "It also warns of many hardware compromises; the 15-inch screen is the weakest part."
+  },
+  {
+   "name": "OmniBook X Flip 14",
+   "src": "PCWorld, Tom's Hardware",
+   "like": "Reviewers praise the flexible design and comfortable keyboard, and the 2880 x 1800 OLED looks excellent.",
+   "catch": "Both found the middle OLED option dim and reflective."
+  },
+  {
+   "name": "Lenovo LOQ 15 (RTX 5060)",
+   "src": "PCWorld, Notebookcheck",
+   "like": "Notebookcheck rates its 1080p gaming performance as very strong.",
+   "catch": "Notebookcheck says RTX 5060 laptops usually cost about $1,200, so the \"was\" price may be inflated."
+  }
  ]
 }
