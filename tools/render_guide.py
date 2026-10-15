@@ -125,7 +125,7 @@ def more_html(d):
     L.sort(key=lambda g: g["category"] != d["category"])   # stable: keeps newest-first inside each group
     if not L: return ""
     cards = "".join(f'<a href="../{e(g["slug"])}/"><small>{e(CATS.get(g["category"], "Guide"))} · {e(g.get("date", ""))}</small><b>{e(g["title"])}</b><span>See top 5 picks →</span></a>' for g in L[:10])
-    return f'<section class="more"><h2>More guides you might like</h2><div class="rail">{cards}</div></section>'
+    return f'<section class="more"><h2>More guides</h2><div class="rail">{cards}</div></section>'
 
 def retired_html(d, base=""):
     """Replaces a retired offer page: redirects to the category list (so old X links never 404), noindex, no stale prices."""
