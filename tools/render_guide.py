@@ -274,6 +274,22 @@ def visible_products(P):
     gone = [p for p in P if p.get("fill_failed") and not is_ready(p)]
     return [p for p in P if p not in gone] if gone and len(P) - len(gone) >= 3 else P
 
+def ld_json(d, base):
+    """Article + BreadcrumbList structured data (only when a canonical base URL is known)."""
+    if not base: return ""
+    url = f"{base}/g/{d['slug']}/"
+    try: iso = datetime.datetime.strptime(d.get("date", ""), "%b %d, %Y").date().isoformat()
+    except Exception: iso = None
+    art = {"@type": "Article", "headline": d["title"][:110], "description": d["summary"], "mainEntityOfPage": url,
+           "author": {"@type": "Organization", "name": "Zoe Picks", "url": base + "/about.html"},
+           "publisher": {"@type": "Organization", "name": "Zoe Picks", "logo": {"@type": "ImageObject", "url": base + "/assets/logo-512.png"}}}
+    if iso: art["datePublished"] = iso; art["dateModified"] = iso
+    bc = {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Zoe Picks", "item": base + "/"},
+        {"@type": "ListItem", "position": 2, "name": CATS.get(d["category"], "Guide"), "item": f"{base}/category.html?c={d['category']}"},
+        {"@type": "ListItem", "position": 3, "name": d["title"], "item": url}]}
+    return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": [art, bc]}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
 def render(d, base=""):
     d = dict(d, products=visible_products(d["products"]))
     t = (ROOT / "templates/guide.html").read_text()
@@ -281,7 +297,7 @@ def render(d, base=""):
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OFFERS": "" if d.get("theme") == "deal" or d.get("expires") else f'<a class="offers-link" href="../../category.html?c={e(d["category"])}">🔥 Today\'s top discounts in {e(CATS.get(d["category"], "this category"))} <span>See →</span></a>',
-           "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
+           "LD": ld_json(d, base), "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     # compact rows for every guide (mobile first); deal guides also get the deals strip and biggest-discount-first order
     rep.update({"CARDS": deal_rows(d), "JUMP": "", "COMPARE": "", "VOICES": "", "MORE": "", "FAQ": faq_html(d) + more_html(d)})
     if d.get("theme") == "deal": rep["INTRO"] = deal_strip(d) if is_live(d) else intro_html(d)
@@ -292,7 +308,7 @@ def render(d, base=""):
 def site_files(base):
     """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
     L = [g for g in json.loads((ROOT / "guides/index.json").read_text()) if is_live(g)]
-    urls = [f"{base}/"] + [f"{base}/g/{g['slug']}/" for g in L]
+    urls = [f"{base}/"] + [f"{base}/{pg}.html" for pg in ("about", "contact", "privacy", "terms", "disclosure")] + [f"{base}/g/{g['slug']}/" for g in L]
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
     (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
