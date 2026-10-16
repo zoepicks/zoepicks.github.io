@@ -4,7 +4,7 @@ guide.json: {slug,title,category,summary,method,date,assumptions?,products:[{nam
 Only fields that are present get rendered — nothing is invented."""
 import json, sys, html, re, pathlib, hashlib, datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Computers & Phones", "mobiles": "Mobiles", "monitors": "Monitors", "beauty_health": "Beauty & Health",
+CATS = {"home_kitchen": "Home & Kitchen", "electronics": "Electronics", "computers_phones": "Laptops", "mobiles": "Mobiles", "monitors": "Monitors", "beauty_health": "Beauty & Health",
         "fitness_outdoor": "Fitness & Outdoor", "fashion": "Fashion", "toys_kids": "Toys & Kids", "tools_auto": "Tools & Auto", "pets": "Pets",
         "office_books": "Office & Books", "gaming": "Gaming", "smart_home": "Smart Home & TV", "furniture_decor": "Furniture & Decor",
         "hobby_music": "Hobby & Music", "other": "More"}
