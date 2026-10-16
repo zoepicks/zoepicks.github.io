@@ -2,9 +2,187 @@
  "slug": "best-wireless-earbuds-2026",
  "title": "Top Wireless Earbuds: AirPods Pro 3 & Rivals (2026)",
  "category": "electronics",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on earbud reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 16, 2026",
+ "summary": "Tom's Guide picks the AirPods Pro 3 as the best wireless earbuds, while TechRadar and SoundGuys back the Sony WF-1000XM6 and Technics EAH-AZ100 for Android, the Bose QC Ultra for noise cancelling and the Cambridge Melomania A100 for value.",
+ "method": "Picks come from Tom's Guide (updated Sep 22, 2026), TechRadar's wireless earbuds guide (Jun 18, 2026) and SoundGuys' lab-tested guide (Jun 2, 2026). Each product here is named by at least two of the three.",
+ "assumptions": "Prices are what Tom's Guide's price box showed on the day we checked and change often, so check the current price on Amazon. Tom's Guide ratings are from its own testing; TechRadar and SoundGuys use different test methods.",
+ "products": [
+  {
+   "name": "Apple AirPods Pro 3",
+   "short": "AirPods Pro 3",
+   "badge": "Best overall (Tom's Guide)",
+   "why": [
+    "Tom's Guide's top pick, and SoundGuys' best for iPhone. Noise cancelling is much improved, the transparency mode is excellent, and the new foam-infused tips and XXS size make them comfortable for long wear.",
+    "Battery is 8 hours with ANC (10 in transparency mode). Tom's Guide says Android users lose out because there is no app and limited codec support."
+   ],
+   "specs": [
+    "Up to 8 hours per charge, 24 hours with the case",
+    "IP57 sweat and water resistance",
+    "Heart rate sensing and Live Translation (needs a compatible iPhone)",
+    "No charging cable in the box"
+   ],
+   "pros": [
+    "Improved noise cancelling",
+    "Excellent transparency mode",
+    "Better call microphones",
+    "Comfortable, small fit"
+   ],
+   "cons": [
+    "Live Translation needs an iPhone with Apple Intelligence",
+    "No charging cable included",
+    "Weak on Android"
+   ],
+   "best_for": "iPhone owners who want the best all-rounder",
+   "skip_if": "You use an Android phone",
+   "price": "$179 (was $249)",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Apple+AirPods+Pro+3&tag=iamcartigo-20"
+  },
+  {
+   "name": "Sony WF-1000XM6",
+   "short": "Sony WF-1000XM6",
+   "badge": "Best for Android & all-rounders",
+   "why": [
+    "Tom's Guide's best alternative to the AirPods and SoundGuys' best wireless earbuds overall. Sound is well balanced and crisp, with LDAC support, DSEE Extreme upscaling, and a user-friendly Sound Connect app with fit and EQ tests.",
+    "Tom's Guide found ANC excellent and a big step up, though Bose still beats it for pure noise blocking. The new case is awkward in pockets and the price went up from the XM5."
+   ],
+   "specs": [
+    "8 hours with ANC, 24 hours with the case",
+    "LDAC codec support",
+    "Personalized EQ and fit test in the Sound Connect app",
+    "Three colors"
+   ],
+   "pros": [
+    "Well-balanced, crisp sound",
+    "Great ANC",
+    "Good codec support",
+    "Comfortable, lightweight"
+   ],
+   "cons": [
+    "Odd case design",
+    "Price hike from the previous model"
+   ],
+   "best_for": "Android users and anyone who wants top sound plus strong ANC",
+   "skip_if": "You want the very best noise blocking, or are tight on budget",
+   "price": "$328",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Sony+WF-1000XM6&tag=iamcartigo-20"
+  },
+  {
+   "name": "Technics EAH-AZ100",
+   "short": "Technics AZ100",
+   "badge": "Top pick (TechRadar)",
+   "why": [
+    "TechRadar's pick for the best wireless earbuds overall in 2026. It praises the full, detailed sound and an incredibly comfortable fit, and SoundGuys names it the best earbuds for Android.",
+    "They are Technics' smallest and lightest flagship earbuds yet, with several tip sizes in the box. Connectivity includes LDAC hi-res audio and LC3 Bluetooth LE Audio. TechRadar says the Bose QuietComfort Ultra Earbuds block noise slightly better."
+   ],
+   "specs": [
+    "LDAC hi-res support",
+    "LC3 Bluetooth LE Audio support",
+    "Smallest and lightest Technics flagship earbuds so far"
+   ],
+   "pros": [
+    "Full, detailed sound",
+    "Very comfortable fit",
+    "Feature-packed",
+    "Good Android codec support"
+   ],
+   "cons": [
+    "Noise cancelling is a bit behind the Bose"
+   ],
+   "best_for": "Android users who care about sound and comfort",
+   "skip_if": "Noise cancelling is your number one need",
+   "link": "https://www.amazon.com/s?k=Technics+EAH-AZ100&tag=iamcartigo-20"
+  },
+  {
+   "name": "Bose QuietComfort Ultra Earbuds (2nd Gen)",
+   "short": "Bose QC Ultra Gen 2",
+   "badge": "Best ANC (Tom's Guide, TechRadar)",
+   "why": [
+    "Tom's Guide's best for noise cancelling and TechRadar ranks them at #4 but says they cancel noise a bit better than its top pick. Tom's Guide calls the ANC the best around, with improved sound and call quality over the first model and no price increase.",
+    "Battery is the weak spot at 6 hours, and you can't turn ANC off to stretch it. Tom's Guide adds that the EQ in the Bose app is worth adjusting."
+   ],
+   "specs": [
+    "6 hours per charge, 24 hours with the case",
+    "Wireless charging",
+    "Immersive Audio spatial mode (cuts battery by about 2 hours)",
+    "Comes with several tips and fins"
+   ],
+   "pros": [
+    "Best-in-class noise cancelling",
+    "Very comfortable",
+    "Clear call quality"
+   ],
+   "cons": [
+    "Only 6 hours of battery",
+    "Still quite large",
+    "No battery improvement over gen 1"
+   ],
+   "best_for": "Commuters and frequent flyers who want maximum quiet",
+   "skip_if": "You need long battery life",
+   "price": "$290.03",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Earbuds+%282nd+Gen%29&tag=iamcartigo-20"
+  },
+  {
+   "name": "Cambridge Audio Melomania A100",
+   "short": "Melomania A100",
+   "badge": "Best value (Tom's Guide, TechRadar)",
+   "why": [
+    "Tom's Guide's best-value pick and TechRadar's best mid-range pick. Tom's Guide says the sound beats anything at the price, with punchy bass and a wider soundstage, and it is very comfortable.",
+    "Battery is the standout at 10 hours per charge and 39 hours with the case. The ANC is decent but bettered by Sony and Bose, and the touch controls are very simple."
+   ],
+   "specs": [
+    "10 hours per charge, 39 hours with the case",
+    "ANC, transparency mode and a useful EQ",
+    "Compact charging case",
+    "LDAC support (lowers battery life a bit)"
+   ],
+   "pros": [
+    "Very comfortable",
+    "Epic battery life",
+    "Punchy, dynamic bass",
+    "Compact case"
+   ],
+   "cons": [
+    "ANC bettered elsewhere",
+    "Overly simple touch controls"
+   ],
+   "best_for": "Anyone who wants great sound and battery for about $100-$150",
+   "skip_if": "Top-tier noise cancelling matters most",
+   "price": "$99 (was $149)",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Cambridge+Audio+Melomania+A100&tag=iamcartigo-20"
+  },
+  {
+   "name": "Beats Powerbeats Pro 2",
+   "short": "Powerbeats Pro 2",
+   "badge": "Best for workouts (Tom's Guide, SoundGuys)",
+   "why": [
+    "Named the best for fitness by Tom's Guide and the best for working out by SoundGuys. Tom's Guide's fitness expert says the earhooks keep them in place during runs and other workouts.",
+    "They have a built-in heart rate monitor (Tom's Guide found it a little inaccurate) and ANC similar to the AirPods Pro 2. They work best with iPhones, and on Android the Beats app had some heart rate quirks."
+   ],
+   "specs": [
+    "10 hours per charge, 45 hours with the case",
+    "Earhook design with built-in heart rate monitor",
+    "Active noise cancelling, head-tracked spatial audio (Apple Music)"
+   ],
+   "pros": [
+    "Good battery life",
+    "Comfortable, secure fit",
+    "Dynamic, punchy bass",
+    "Great style"
+   ],
+   "cons": [
+    "Large charging case",
+    "Heart rate monitor hiccups",
+    "Some dip in the upper mids"
+   ],
+   "best_for": "Runners and gym-goers who need earbuds that stay put",
+   "skip_if": "You want the best sound or a compact case",
+   "price": "$249",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Beats+Powerbeats+Pro+2&tag=iamcartigo-20"
+  }
+ ]
 }
