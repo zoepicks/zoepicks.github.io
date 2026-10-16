@@ -1,6 +1,6 @@
 {
- "v": 1,
- "updated": "2026-10-16T08:41:07Z",
+ "v": 2,
+ "updated": "2026-10-16T10:43:57Z",
  "hot": [
   {
    "asin": "B08L5MNLCP",
@@ -21,20 +21,15 @@
  ],
  "ess": [
   {
-   "asin": "B0GYNXYT3M",
-   "name": "SetSail Adhesive Toilet Paper Holder Wall Mount Matte Black",
-   "pct": 40,
-   "t": 1792126989,
-   "img": "https://m.media-amazon.com/images/I/51f5J9+M8bL.jpg",
-   "link": "https://www.amazon.com/dp/B0GYNXYT3M?tag=iamcartigo-20"
-  },
-  {
    "asin": "B0DFNRLHVY",
    "name": "Huggies Snug & Dry Diapers Size 1",
    "pct": 25,
    "t": 1792126989,
    "img": "https://m.media-amazon.com/images/I/718G+yDyWlL.jpg",
-   "link": "https://www.amazon.com/dp/B0DFNRLHVY?tag=iamcartigo-20"
+   "link": "https://www.amazon.com/dp/B0DFNRLHVY?tag=iamcartigo-20",
+   "cat": "baby",
+   "label": "Diapers & wipes",
+   "icon": "👶"
   }
  ]
 }
