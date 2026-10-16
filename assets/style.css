@@ -235,3 +235,7 @@ h2.cmp{margin:8px 0 4px}
 .dr-d p{font-size:13.5px;margin:8px 0 0}.dr-d .pc{margin-top:8px;font-size:13px}
 @media(max-width:600px){.g-head.deal-head .sum{display:none}.deal-head .hdisc{font-size:11px}}
 @media(min-width:760px){.dr-list{grid-template-columns:1fr 1fr}}
+.dr-bf{font-size:12.5px;line-height:1.35;color:var(--mut);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.dr-b .rt{margin:0;font-size:12px}
+.dr-ph{position:absolute;inset:0;display:grid;place-items:center;font-size:34px;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 14%,var(--card)),color-mix(in srgb,var(--c) 6%,var(--card)))}
+.dr-im img{position:absolute;inset:0;background:#fff}
