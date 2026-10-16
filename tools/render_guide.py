@@ -38,20 +38,23 @@ def parse_price(txt):
     return r
 
 SHOW_AMAZON_PRICE = True      # switch off to go back to hiding the bot's scraped Amazon prices
-AMZ_PRICE_MAX_AGE = 2         # days; an older scraped price is hidden rather than shown stale
+AMZ_PRICE_MAX_AGE = 1         # days (US-Eastern date, same clock as the bot); the bot re-checks every product daily before its window, an older price is hidden
 
 def amz_price(p):
     """(price string, as-of date) of the bot's own Amazon price check, only when it is well-formed and fresh; else None."""
     if not SHOW_AMAZON_PRICE: return None
     raw, asof = str(p.get("amazon_price") or "").strip(), str(p.get("amazon_price_asof") or "").strip()
     if not re.match(r"^\$\d[\d,]*(\.\d{1,2})?$", raw): return None
-    try: age = (datetime.date.today() - datetime.datetime.strptime(asof, "%b %d, %Y").date()).days
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.datetime.now(ZoneInfo("America/New_York")).date()
+        age = (today - datetime.datetime.strptime(asof, "%b %d, %Y").date()).days
     except ValueError: return None
     return (raw, asof) if 0 <= age <= AMZ_PRICE_MAX_AGE else None
 
 def amz_price_html(p):
     a = amz_price(p)
-    return f'<div class="dr-pr"><b>{e(a[0])}</b></div><div class="dr-sv">on Amazon · as of {e(a[1])} · may change</div>' if a else ""
+    return f'<div class="dr-pr"><b>{e(a[0])}</b></div><div class="dr-sv">on Amazon · updated daily · may change</div>' if a else ""
 
 def price_block(p):
     pr = parse_price(p.get("price"))
@@ -68,7 +71,7 @@ def price_block(p):
     if p.get("price"):
         return f'<div class="sub">{e(p["price"])}' + (f' · as of {e(p["price_asof"])}' if p.get("price_asof") else "") + " — may have changed</div>"
     a = amz_price(p)
-    if a: return f'<div class="pl"><span class="now">{e(a[0])}</span></div><div class="sub">on Amazon · as of {e(a[1])} · may change</div>'
+    if a: return f'<div class="pl"><span class="now">{e(a[0])}</span></div><div class="sub">on Amazon · updated daily · may change</div>'
     return '<div class="sub">No deal price listed yet. Check the current price on Amazon.</div>'
 
 AFF_TAG = "iamcartigo-20"
