@@ -99,8 +99,7 @@ def card(i, p):
     h += '<div class="top">'
     if p.get("image"): h += f'<img class="thumb" src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" decoding="async" width="108" height="108" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
     h += f'<div class="meta"><h3>{e(p["name"])}</h3>{rating_block(p)}{price_block(p)}'
-    if p.get("amazon_price"):
-        h += f'<div class="sub amz">On Amazon: <b>{e(p["amazon_price"])}</b>' + (f' · as of {e(p["amazon_price_asof"])}' if p.get("amazon_price_asof") else "") + ' — may have changed' + (f'<small>Listing: {e(p["amazon_listing"])}</small>' if p.get("amazon_listing") else "") + "</div>"
+    # scraped Amazon price is internal only (bot uses it to verify deals); never shown publicly
     h += "</div></div>"
     if p.get("best_for"): h += f'<div class="best"><b>Best for:</b> {e(p["best_for"])}</div>'
     h += f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy here &rarr;</a>'
@@ -139,7 +138,7 @@ def compare_html(d):
     if not d.get("compare"): return ""
     rows = ""
     for i, p in enumerate(d["products"]):
-        pr = parse_price(p.get("price")) or parse_price(p.get("amazon_price"))
+        pr = parse_price(p.get("price"))
         if pr and "now" in pr:
             price = f'<b>{e(pr["now"])}</b>' + (f'<s>{e(pr["was"])}</s>' if pr.get("was") else "")
             off = f'<span class="off">-{pr["pct"]}%</span>' if pr.get("pct") else "-"
