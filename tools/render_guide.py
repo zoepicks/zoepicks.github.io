@@ -233,6 +233,20 @@ def sync_index_expiry():
     if ch: ix.write_text(json.dumps(L, indent=1))
 
 
+def _money(x):
+    m = re.search(r"\d[\d,]*\.?\d*", str(x or ""))
+    try: return float(m.group(0).replace(",", "")) if m else None
+    except ValueError: return None
+
+def amazon_holds(p, max_age=3, tol=0.03):
+    """True when the bot's own Amazon check is recent (<= max_age days) and Amazon's price is at or under the guide's deal price (+3%).
+    Same rule as the bot's offer lifecycle. The scraped Amazon price itself is never shown in the ticker."""
+    deal, amz = _money(str(p.get("price") or "").split("(")[0]), _money(p.get("amazon_price"))
+    if not deal or not amz or not p.get("amazon_price_asof"): return False
+    try: age = (datetime.date.today() - datetime.datetime.strptime(p["amazon_price_asof"], "%b %d, %Y").date()).days
+    except ValueError: return False
+    return age <= max_age and amz <= deal * (1 + tol)
+
 def sync_meta():
     """Add card data to guides/index.json for the category page: n (picks), img (first product image), top (#1 pick),
     off (biggest 'was' discount % found in the guide's own price text). Only uses what src/*.json already says."""
@@ -254,6 +268,7 @@ def sync_meta():
             q = parse_price(x.get("price"))
             if not q or not q.get("pct"): continue
             deals.append({"cat": d["category"], **({"also": d["also"]} if d.get("also") else {}), "guide": d["slug"], "name": x.get("short") or x.get("name"),
+                          "ver": amazon_holds(x), **({"link": x["link"]} if x.get("link") else {}),
                           "now": q["now"], "was": q["was"], "pct": q["pct"], "save": q["save"], **({"store": q["store"]} if q.get("store") else {}),
                           **({"img": x["image"]} if x.get("image") else {}), **({"asof": x["price_asof"]} if x.get("price_asof") else {})})
     deals.sort(key=lambda z: -z["pct"])

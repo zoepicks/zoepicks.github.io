@@ -15,16 +15,16 @@ const k=new URLSearchParams(location.search).get("c"),c=CATS.find(x=>x[0]==k);
 t.textContent=c?c[2]:"All guides";document.title=(c?c[2]:"Guides")+" — Zoe Picks";
 const DAY=864e5,now=Date.now();
 const days=g=>g.expires?Math.ceil((new Date(g.expires+"T00:00:00-05:00")-now)/DAY):null;
-const isDeal=g=>g.expires&&days(g)>0;
+const isDeal=g=>!!(g.expires&&days(g)>0);
 const isBudget=g=>/under|budget|\$\d/i.test(g.title);
 const short=s=>s.replace(/\s*\(2026\)\s*$/,"");const tshort=s=>short(s).replace(/^(Top|Best)\s+/i,"").replace(/\s+(for|to) (Better|Every|Fresh|Faster|Your|a)\b.*$/i,"");
 async function jget(u){try{return await (await fetch(u,{cache:"no-store"})).json()}catch(e){return[]}}
 const inCat=(x,key)=>x.category==key||x.cat==key||(x.also||[]).includes(key);
 let ALL=[],mode="all";
-function drawCats(D){
-  const best={};D.forEach(d=>[d.cat,...(d.also||[])].forEach(q=>best[q]=Math.max(best[q]||0,d.pct)));
-  cats.innerHTML=[["","✨","All"],...CATS].map(x=>{const o=x[0]?best[x[0]]:Math.max(0,...Object.values(best));
-    return `<a class="cp-cat${(x[0]==(k||""))?" on":""}${o?" hot":""}" href="category.html${x[0]?"?c="+x[0]:""}"><i>${x[1]}</i>${x[2]}${o?`<em>-${o}%</em>`:""}</a>`}).join("");
+function drawCats(D,G){
+  const best={},hot={};G.filter(x=>isDeal(x)).forEach(x=>[x.category,...(x.also||[])].forEach(q=>hot[q]=1));D.filter(d=>d.ver).forEach(d=>[d.cat,...(d.also||[])].forEach(q=>best[q]=Math.max(best[q]||0,d.pct)));
+  cats.innerHTML=[["","✨","All"],...CATS].map(x=>{const o=x[0]?best[x[0]]:Math.max(0,...Object.values(best)),h=x[0]?hot[x[0]]:Object.keys(hot).length;
+    return `<a class="cp-cat${(x[0]==(k||""))?" on":""}${(o||h)?" hot":""}" href="category.html${x[0]?"?c="+x[0]:""}"><i>${x[1]}</i>${x[2]}${o?`<em>-${o}%</em>`:h?`<em>🔥</em>`:""}</a>`}).join("");
   const on=cats.querySelector(".on");if(on)cats.scrollLeft=on.offsetLeft-16}
 function tile(g){const em=(CATS.find(x=>x[0]==g.category)||[0,"🛒"])[1],d=isDeal(g);
   const th=g.img?`<img src="${esc(g.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`:"";
@@ -35,11 +35,11 @@ function draw(){let g=ALL.filter(x=>!x.soon);
   l.innerHTML=g.length?g.map(tile).join(""):'<div class="empty" style="grid-column:1/-1">Nothing here yet.</div>';
   cnt.textContent=g.length+" guides"}
 Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
-  drawCats(D);
+  drawCats(D,g);
   g=g.filter(x=>!k||inCat(x,k));ALL=g;const live=g.filter(x=>!x.soon);
-  const dd=D.filter(d=>!k||inCat(d,k)).slice(0,5);
-  if(dd.length){tk.hidden=false;tkn.textContent="as of "+(dd[0].asof||"")+" · tap to see";
-    const card=d=>`<a class="cp-tc" href="g/${d.guide}/"><div class="cp-tci">${d.img?`<img src="${esc(d.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:"🏷️"}</div><div><span class="cp-pc">-${d.pct}%</span><b>${esc(d.name)}</b><small><strong>${esc(d.now)}</strong> <s>${esc(d.was)}</s>${d.store?" · "+esc(d.store):""}</small></div></a>`;
+  const dd=D.filter(d=>d.ver&&(!k||inCat(d,k))).slice(0,5);
+  if(dd.length){tk.hidden=false;tkn.textContent="also on Amazon · as of "+(dd[0].asof||"");
+    const card=d=>`<div class="cp-tc"><a class="cp-tcm" href="g/${d.guide}/"><div class="cp-tci">${d.img?`<img src="${esc(d.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:"🏷️"}</div><div><span class="cp-pc">-${d.pct}%</span><b>${esc(d.name)}</b><small><strong>${esc(d.now)}</strong> <s>${esc(d.was)}</s></small></div></a>${d.link?`<a class="cp-az" href="${esc(d.link)}" target="_blank" rel="sponsored nofollow noopener">Check on Amazon ↗</a>`:""}</div>`;
     const h=dd.map(card).join("");tkt.innerHTML=h+h}
   const bd=live.filter(isDeal).sort((a,b)=>(b.off||0)-(a.off||0))[0];
   if(bd){bn.hidden=false;bn.href="g/"+bd.slug+"/";const dl=days(bd);
