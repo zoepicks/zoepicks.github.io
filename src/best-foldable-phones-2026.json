@@ -31,7 +31,10 @@
    ],
    "best_for": "Most people who want a book-style foldable",
    "skip_if": "You want the cheapest foldable or a pocket-sized flip",
-   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Samsung Galaxy Z Fold 8 Ultra",
@@ -55,7 +58,10 @@
    ],
    "best_for": "Power users who want the best foldable money can buy",
    "skip_if": "You want to save money; the regular Fold 8 covers most needs",
-   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8+Ultra&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Fold+8+Ultra&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Samsung Galaxy Z Flip 8",
@@ -79,7 +85,10 @@
    ],
    "best_for": "People who want a small, stylish everyday phone that folds",
    "skip_if": "You want a tablet-sized screen for work",
-   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Flip+8&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Z+Flip+8&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Google Pixel 11 Pro Fold",
@@ -107,7 +116,13 @@
    "link": "https://www.amazon.com/s?k=Google+Pixel+11+Pro+Fold&tag=iamcartigo-20",
    "asin": "B0H6QSPYKW",
    "image": "https://m.media-amazon.com/images/I/61PpJqVr89L.jpg",
-   "image_asin": "B0H6QSPYKW"
+   "image_asin": "B0H6QSPYKW",
+   "amazon_price": "$1,899.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Google Pixel 11 Pro Fold - Unlocked Smartphone, Gemini - 256 GB - Obsidian | Android, Gemi",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 32,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Motorola Razr (2026)",
@@ -134,7 +149,13 @@
    "link": "https://www.amazon.com/s?k=Motorola+Razr+%282026%29&tag=iamcartigo-20",
    "asin": "B0DKHMPRDV",
    "image": "https://m.media-amazon.com/images/I/51lq05Jn-QL.jpg",
-   "image_asin": "B0DKHMPRDV"
+   "image_asin": "B0DKHMPRDV",
+   "amazon_price": "$334.44",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Motorola Moto Razr 2024, 256GB + 8GB RAM, Koala Gray - Unlocked (Renewed)",
+   "amazon_rating": "4",
+   "amazon_reviews": 286,
+   "amazon_rating_asof": "Oct 16, 2026"
   }
  ]
 }
