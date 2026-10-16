@@ -56,12 +56,12 @@ Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
   const build=j=>{const C=(j&&!Array.isArray(j)&&j.cats)||{},fh=((j&&j.fresh_h)||36)*3600;
     const clean=a=>{const seen={};return a.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3)};
     return{base:clean(k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct)),
-      TY:k?((j&&j.types||{})[k]||[]).map(t=>({key:t.key,label:t.label,items:clean(t.items||[])})).filter(t=>t.items.length):[]}};
+      TY:k?((j&&j.types||{})[k]||[]).map(t=>({key:t.key,label:t.label,items:clean(t.items||[])})):[]}};
   const {base,TY}=build(j);
-  if(!base.length&&!TY.length)return;
+  if(!base.length&&!TY.some(t=>t.items.length))return;
   const card=x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`;
   let sel="";
-  const blk=(L,lab)=>'<div class="cp-blk"><h2>'+(L.length>1?"Top "+L.length+" discounts":"Top discount")+" right now"+(lab?" \u00b7 "+esc(lab):"")+"</h2>"+L.map(card).join("")+"</div>";
+  const blk=(L,lab)=>!L.length?'<div class="cp-blk"><h2>No verified discount right now \u00b7 '+esc(lab)+"</h2></div>":'<div class="cp-blk"><h2>'+(L.length>1?"Top "+L.length+" discounts":"Top discount")+" right now"+(lab?" \u00b7 "+esc(lab):"")+"</h2>"+L.map(card).join("")+"</div>";
   const draw=()=>{const t=TY.find(x=>x.key==sel);
     const chips=TY.length?`<div class="cp-ty">${[["","All"],...TY.map(x=>[x.key,x.label])].map(x=>`<button class="cp-f${x[0]==sel?" on":""}" data-t="${esc(x[0])}">${esc(x[1])}</button>`).join("")}</div>`:"";
     /* one chip = that product's top 3; "All" = EVERY product type (juicers, coffee makers ...) gets its own top 3 */
