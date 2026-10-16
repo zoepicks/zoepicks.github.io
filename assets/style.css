@@ -286,3 +286,9 @@ h2.cmp{margin:8px 0 4px}
 @media(min-width:700px){.ess-v{max-width:560px;margin:5px auto 0}.tk-c{width:200px}.tk{--ch:60px}}
 @media(prefers-reduced-motion:reduce){.tk-t{animation:none}.tk-w{overflow-x:auto;-webkit-mask:none;mask:none}.ess-k.mv{transition:none}}
 .tk-r{font-size:10px;color:var(--mut);line-height:1}
+
+.offers{margin:22px 0}.offers h2{margin:0 0 4px}
+a.offer{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px 12px;margin:10px 0}
+a.offer img{width:56px;height:56px;object-fit:contain;background:#fff;border-radius:10px;flex-shrink:0}
+a.offer .ob{min-width:0;flex:1;font-size:14px;line-height:1.35}a.offer .os{color:var(--mut);font-size:13px;margin-top:2px}
+a.offer .op{background:var(--ok);color:#fff;font-weight:800;font-size:13px;border-radius:999px;padding:4px 10px;flex-shrink:0}

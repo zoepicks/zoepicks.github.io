@@ -280,6 +280,7 @@ def render(d, base=""):
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
+           "OFFERS": "" if d.get("theme") == "deal" or d.get("expires") else f'<section id="zoe-offers" class="offers" data-slug="{e(d["slug"])}" hidden></section>',
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     # compact rows for every guide (mobile first); deal guides also get the deals strip and biggest-discount-first order
     rep.update({"CARDS": deal_rows(d), "JUMP": "", "COMPARE": "", "VOICES": "", "MORE": "", "FAQ": faq_html(d) + more_html(d)})
