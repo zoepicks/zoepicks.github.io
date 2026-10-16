@@ -39,7 +39,7 @@ Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
   g=g.filter(x=>!k||inCat(x,k));ALL=g;const live=g.filter(x=>!x.soon);
   const dd=D.filter(d=>d.ver&&(!k||inCat(d,k))).slice(0,5);
   if(dd.length){tk.hidden=false;tkn.textContent="also on Amazon · as of "+(dd[0].asof||"");
-    const card=d=>`<div class="cp-tc"><a class="cp-tcm" href="g/${d.guide}/"><div class="cp-tci">${d.img?`<img src="${esc(d.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:"🏷️"}</div><div><span class="cp-pc">-${d.pct}%</span><b>${esc(d.name)}</b><small><strong>${esc(d.now)}</strong> <s>${esc(d.was)}</s></small></div></a>${d.link?`<a class="cp-az" href="${esc(d.link)}" target="_blank" rel="sponsored nofollow noopener">Check on Amazon ↗</a>`:""}</div>`;
+    const card=d=>`<div class="cp-tc"><a class="cp-tcm" href="g/${d.guide}/"><div class="cp-tci">${d.img?`<img src="${esc(d.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:"🏷️"}</div><div><span class="cp-pc">-${d.pct}%</span><b>${esc(d.name)}</b><small><strong>${esc(d.now)}</strong> <s>${esc(d.was)}</s></small></div></a>${d.link?`<a class="cp-az" href="${esc(d.link)}" target="_blank" rel="sponsored nofollow noopener">Buy on Amazon ↗</a>`:""}</div>`;
     const h=dd.map(card).join("");tkt.innerHTML=h+h}
   const bd=live.filter(isDeal).sort((a,b)=>(b.off||0)-(a.off||0))[0];
   if(bd){bn.hidden=false;bn.href="g/"+bd.slug+"/";const dl=days(bd);
