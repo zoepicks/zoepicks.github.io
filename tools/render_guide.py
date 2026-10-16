@@ -240,7 +240,7 @@ def retired_html(d, base=""):
     cat = d.get("category", "other"); url = f"../../category.html?c={e(cat)}"; name = e(CATS.get(cat, "Guides"))
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<title>{e(d["title"])} (ended) — Zoe Picks</title><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={url}">'
-            f'<link rel="canonical" href="{(base + "/category.html?c=" + e(cat)) if base else url}"><link rel="stylesheet" href="../../assets/style.css"></head><body>'
+            f'<link rel="canonical" href="{(base + "/category.html?c=" + e(cat)) if base else url}"><link rel="icon" type="image/png" href="../../assets/logo-64.png"><link rel="stylesheet" href="../../assets/style.css"></head><body>'
             f'<main class="wrap"><div class="g-head"><h1>This offer has ended</h1><p class="sum">The deals in "{e(d["title"])}" are over. '
             f'<a href="{url}">See current {name} guides →</a></p></div></main><script>location.replace("{url}")</script></body></html>')
 
