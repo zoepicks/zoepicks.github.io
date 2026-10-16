@@ -29,7 +29,7 @@ BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 # Best review/roundup sources per category (hands-on testing sites first), + deal sources for FOMO.
 SOURCES = {
-    "computers_phones": ["pcworld.com", "tomshardware.com", "tomsguide.com", "notebookcheck.net", "rtings.com", "techradar.com"],
+    "laptops": ["pcworld.com", "tomshardware.com", "tomsguide.com", "notebookcheck.net", "rtings.com", "techradar.com"],
     "mobiles":          ["gsmarena.com", "tomsguide.com", "pcmag.com", "androidauthority.com", "techradar.com", "rtings.com"],
     "monitors":         ["rtings.com", "tomshardware.com", "pcworld.com", "pcmag.com", "techradar.com"],
     "gaming":           ["tomshardware.com", "rtings.com", "pcgamer.com", "ign.com", "techradar.com", "pcworld.com"],
@@ -39,7 +39,7 @@ SOURCES = {
     "_default":         ["nytimes.com/wirecutter", "rtings.com", "cnet.com", "pcmag.com", "tomsguide.com", "consumerreports.org"],
 }
 DEAL_SOURCES = ["techradar.com", "tomsguide.com", "cnet.com", "pcworld.com"]
-DEAL_SUBS = {"computers_phones": ["laptopdeals", "buildapcsales"], "monitors": ["buildapcsales"], "gaming": ["buildapcsales", "GameDeals"], "mobiles": ["phonedeals"]}
+DEAL_SUBS = {"laptops": ["laptopdeals", "buildapcsales"], "monitors": ["buildapcsales"], "gaming": ["buildapcsales", "GameDeals"], "mobiles": ["phonedeals"]}
 
 
 def log(*a): print("[collect]", *a, flush=True)
