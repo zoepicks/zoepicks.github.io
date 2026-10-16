@@ -244,7 +244,14 @@ def retired_html(d, base=""):
             f'<main class="wrap"><div class="g-head"><h1>This offer has ended</h1><p class="sum">The deals in "{e(d["title"])}" are over. '
             f'<a href="{url}">See current {name} guides →</a></p></div></main><script>location.replace("{url}")</script></body></html>')
 
+def visible_products(P):
+    """Auto-hide: a product the bot gave up on (fill_failed, still no ASIN/image) disappears from the public page, as long as at
+    least 3 products remain. Ranks renumber by position. When the bot later fills it, fill_failed resets and it comes back."""
+    gone = [p for p in P if p.get("fill_failed") and not is_ready(p)]
+    return [p for p in P if p not in gone] if gone and len(P) - len(gone) >= 3 else P
+
 def render(d, base=""):
+    d = dict(d, products=visible_products(d["products"]))
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
@@ -310,7 +317,7 @@ def sync_meta():
     off (biggest 'was' discount % found in the guide's own price text). Only uses what src/*.json already says."""
     ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); meta = {}
     for f in (ROOT / "src").glob("*.json"):
-        d = json.load(open(f)); P = d.get("products") or []
+        d = json.load(open(f)); P = visible_products(d.get("products") or [])
         m = {"n": len(P)}
         img = next((x["image"] for x in P if is_ready(x)), None)
         if img: m["img"] = img
@@ -322,7 +329,7 @@ def sync_meta():
     for f in (ROOT / "src").glob("*.json"):
         d = json.load(open(f))
         if not d.get("expires") or d.get("retired") or d.get("draft") or not is_live(d): continue
-        for x in d.get("products") or []:
+        for x in visible_products(d.get("products") or []):
             q = parse_price(x.get("price"))
             if not q or not q.get("pct"): continue
             deals.append({"cat": d["category"], **({"also": d["also"]} if d.get("also") else {}), "guide": d["slug"], "name": x.get("short") or x.get("name"),
