@@ -1,0 +1,158 @@
+{
+ "v": 1,
+ "fresh_h": 168,
+ "cats": {
+  "computers_phones": [
+   {
+    "asin": "B0G2M676BS",
+    "name": "OmniBook X Flip 14",
+    "pct": 40,
+    "price": "749.99",
+    "note": "was $1,249.99 · at Best Buy · Oct 15",
+    "link": "https://www.amazon.com/dp/B0G2M676BS?tag=iamcartigo-20",
+    "t": 1792065600,
+    "img": "https://m.media-amazon.com/images/I/71BhouoneVL.jpg"
+   },
+   {
+    "asin": "B0DTBPC46X",
+    "name": "IdeaPad Slim 3x",
+    "pct": 35,
+    "price": "549.99",
+    "note": "was $849.99 · at Best Buy · Oct 15",
+    "link": "https://www.amazon.com/dp/B0DTBPC46X?tag=iamcartigo-20",
+    "t": 1792065600,
+    "img": "https://m.media-amazon.com/images/I/71nYpJKrGNL.jpg"
+   },
+   {
+    "asin": "B0G45LV5PR",
+    "name": "LOQ 15 (RTX 5060)",
+    "pct": 35,
+    "price": "1,199.99",
+    "note": "was $1,849.99 · at Best Buy · Oct 15",
+    "link": "https://www.amazon.com/dp/B0G45LV5PR?tag=iamcartigo-20",
+    "t": 1792065600,
+    "img": "https://m.media-amazon.com/images/I/61lKh-rQWlL.jpg"
+   }
+  ],
+  "electronics": [
+   {
+    "asin": "B0F9PFM5PV",
+    "name": "Melomania A100",
+    "pct": 34,
+    "price": "99",
+    "note": "was $149 · Oct 16",
+    "link": "https://www.amazon.com/dp/B0F9PFM5PV?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/710nVTkjLFL.jpg"
+   },
+   {
+    "asin": "B0FQFB8FMG",
+    "name": "AirPods Pro 3",
+    "pct": 28,
+    "price": "179",
+    "note": "was $249 · Oct 16",
+    "link": "https://www.amazon.com/dp/B0FQFB8FMG?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/61solmQSSlL.jpg"
+   }
+  ],
+  "fitness_outdoor": [
+   {
+    "asin": "B0FCS74QQY",
+    "name": "Urevo SpaceWalk E4w",
+    "pct": 22,
+    "price": "179.99",
+    "note": "was $229.99 · Oct 16",
+    "link": "https://www.amazon.com/dp/B0FCS74QQY?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/31lQ3DBSrhL.jpg"
+   }
+  ],
+  "mobiles": [
+   {
+    "asin": "B0G4SWDH8P",
+    "name": "Galaxy S26 Ultra",
+    "pct": 30,
+    "price": "979",
+    "note": "was $1,399 · at Amazon · Oct 13",
+    "link": "https://www.amazon.com/dp/B0G4SWDH8P?tag=iamcartigo-20",
+    "t": 1791892800,
+    "img": "https://m.media-amazon.com/images/I/61PnYmF7ZtL.jpg"
+   },
+   {
+    "asin": "B0GW9TVHJB",
+    "name": "Galaxy A57",
+    "pct": 27,
+    "price": "399",
+    "note": "was $549 · Oct 13",
+    "link": "https://www.amazon.com/dp/B0GW9TVHJB?tag=iamcartigo-20",
+    "t": 1791892800,
+    "img": "https://m.media-amazon.com/images/I/31dJUg6dvtL.jpg"
+   },
+   {
+    "asin": "B0FQFH9BST",
+    "name": "iPhone Air",
+    "pct": 24,
+    "price": "839",
+    "note": "was $1,099 · at Best Buy · Oct 13",
+    "link": "https://www.amazon.com/dp/B0FQFH9BST?tag=iamcartigo-20",
+    "t": 1791892800,
+    "img": "https://m.media-amazon.com/images/I/41WRCOOfIeL.jpg"
+   }
+  ],
+  "monitors": [
+   {
+    "asin": "B0GY1X5L4K",
+    "name": "UltraGear G6",
+    "pct": 48,
+    "price": "209.99",
+    "note": "was $399.99 · at Best Buy · Oct 14",
+    "link": "https://www.amazon.com/dp/B0GY1X5L4K?tag=iamcartigo-20",
+    "t": 1791979200,
+    "img": "https://m.media-amazon.com/images/I/71apXhWHiGL.jpg"
+   },
+   {
+    "asin": "B0FNQDNGXY",
+    "name": "Odyssey G50SF",
+    "pct": 24,
+    "price": "379",
+    "note": "was $499.99 · at Amazon · Oct 14",
+    "link": "https://www.amazon.com/dp/B0FNQDNGXY?tag=iamcartigo-20",
+    "t": 1791979200,
+    "img": "https://m.media-amazon.com/images/I/818+AiwCClL.jpg"
+   }
+  ],
+  "smart_home": [
+   {
+    "asin": "B0G62JQK57",
+    "name": "Blink 2K+",
+    "pct": 55,
+    "price": "35.99",
+    "note": "was $79.99 · Oct 16",
+    "link": "https://www.amazon.com/dp/B0G62JQK57?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/51JTca+9ZdL.jpg"
+   },
+   {
+    "asin": "B0GRKCVS98",
+    "name": "LG C6",
+    "pct": 44,
+    "price": "1,499.99",
+    "note": "was $2,699.99 · at Best Buy · Oct 16",
+    "link": "https://www.amazon.com/dp/B0GRKCVS98?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/81q7WdgNQ3L.jpg"
+   },
+   {
+    "asin": "B0FPPWKMGK",
+    "name": "Ring Battery 4K Pro",
+    "pct": 40,
+    "price": "149.99",
+    "note": "was $249.99 · Oct 16",
+    "link": "https://www.amazon.com/dp/B0FPPWKMGK?tag=iamcartigo-20",
+    "t": 1792152000,
+    "img": "https://m.media-amazon.com/images/I/61TfL6V2hdL.jpg"
+   }
+  ]
+ }
+}

@@ -389,6 +389,37 @@ def sync_meta():
             elif not m.get(k) and k in g: del g[k]; ch = True
     if ch: ix.write_text(json.dumps(L, indent=1))
 
+def sync_site_offers(max_age=6, per_cat=3):
+    """guides/offers-site.json = per category, the top discounts that the site's OWN guides state (price 'now (was X)').
+    Fallback for the category page when the bot's guides/offers.json is missing/empty. A different file on purpose: the bot overwrites
+    offers.json, never this one. Only guides' stated prices dated <= max_age days (US-Eastern), only products with a working Amazon link."""
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.datetime.now(ZoneInfo("America/New_York")).date()
+    except Exception:
+        today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5))).date()
+    cats, seen = {}, set()
+    for f in sorted((ROOT / "src").glob("*.json")):
+        d = json.loads(f.read_text())
+        if d.get("draft") or d.get("retired") or not is_live(d): continue
+        for x in visible_products(d.get("products") or []):
+            q = parse_price(x.get("price"))
+            if not q or not q.get("pct") or not is_ready(x): continue
+            try: asof = datetime.datetime.strptime(x.get("price_asof", ""), "%b %d, %Y").date()
+            except ValueError: continue
+            if not (0 <= (today - asof).days <= max_age): continue
+            link = buy_link(x)
+            if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link) or link in seen: continue
+            seen.add(link)
+            note = " · ".join(t for t in (f'was {q["was"]}' if q.get("was") else "", f'at {q["store"]}' if q.get("store") else "", asof.strftime("%b %-d")) if t)
+            cats.setdefault(d["category"], []).append({"asin": x.get("asin") or link, "name": x.get("short") or x["name"], "pct": q["pct"], "price": q["now"].lstrip("$"),
+                "note": note, "link": link, "t": int(datetime.datetime(asof.year, asof.month, asof.day, 12).timestamp()),
+                **({"img": x["image"]} if x.get("image") else {})})
+    for k in cats: cats[k] = sorted(cats[k], key=lambda z: -z["pct"])[:per_cat]
+    out = {"v": 1, "fresh_h": (max_age + 1) * 24, "cats": dict(sorted(cats.items()))}
+    fp = ROOT / "guides/offers-site.json"; txt = json.dumps(out, indent=1, ensure_ascii=False)
+    if not fp.exists() or fp.read_text() != txt: fp.write_text(txt)
+
 def sync_soon():
     """Keep a 'Coming soon' header row in guides/index.json for every draft guide (src/*.json with "draft": true) so the
     category page lists all planned topics. Rows follow plan priority; a row disappears once the draft becomes a real guide."""
@@ -410,6 +441,7 @@ def rebuild_all(base):
     sync_index_expiry()
     sync_soon()
     sync_meta()
+    sync_site_offers()
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(retired_html(d, base) if d.get("retired") else render(d, base)); print("ok", out / "index.html")

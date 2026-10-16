@@ -51,17 +51,20 @@ Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
   draw();
   const so=g.filter(x=>x.soon);if(so.length){soon.hidden=false;soon.innerHTML="<b>Coming soon</b>"+so.map(x=>`<span>${esc(short(x.title))}</span>`).join("")}
 });
-(async function(){const j=await jget("guides/offers.json");const C=(j&&j.cats)||{};if(Array.isArray(j))return;
-  const n=Date.now()/1000,fh=((j&&j.fresh_h)||36)*3600;
-  const clean=a=>{const seen={};return a.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3)};
-  const base=clean(k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct));
-  const TY=k?((j.types||{})[k]||[]).map(t=>({key:t.key,label:t.label,items:clean(t.items||[])})).filter(t=>t.items.length):[];
+(async function(){let j=await jget("guides/offers.json"),site=false;
+  const n=Date.now()/1000;
+  const build=j=>{const C=(j&&!Array.isArray(j)&&j.cats)||{},fh=((j&&j.fresh_h)||36)*3600;
+    const clean=a=>{const seen={};return a.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3)};
+    return{base:clean(k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct)),
+      TY:k?((j&&j.types||{})[k]||[]).map(t=>({key:t.key,label:t.label,items:clean(t.items||[])})).filter(t=>t.items.length):[]}};
+  let {base,TY}=build(j);
+  if(!base.length&&!TY.length){j=await jget("guides/offers-site.json");site=true;({base,TY}=build(j))}
   if(!base.length&&!TY.length)return;
-  const card=x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`;
+  const card=x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.note?esc(x.note):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`;
   let sel="";
   const draw=()=>{const t=TY.find(x=>x.key==sel),L=t?t.items:base,lab=t?t.label:(c?c[2]:"");
     zo.innerHTML=(TY.length?`<div class="cp-ty">${[["","All"],...TY.map(x=>[x.key,x.label])].map(x=>`<button class="cp-f${x[0]==sel?" on":""}" data-t="${esc(x[0])}">${esc(x[1])}</button>`).join("")}</div>`:"")+
-     "<h2>"+(L.length>1?"Top "+L.length+" discounts":"Top discount")+" right now"+(lab?" \u00b7 "+esc(lab):"")+"</h2><p class=\"sum\">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>"+L.map(card).join("")};
+     "<h2>"+(L.length>1?"Top "+L.length+" discounts":"Top discount")+" right now"+(lab?" \u00b7 "+esc(lab):"")+"</h2><p class=\"sum\">"+(site?"Deals spotted in our guides (dates shown). Prices change fast; confirm on Amazon before buying.":"Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.")+"</p>"+L.map(card).join("")};
   zo.onclick=e=>{const b=e.target.closest("button[data-t]");if(!b)return;sel=b.dataset.t;draw()};
   draw();zo.hidden=false})();
 document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";</script></body></html>
