@@ -46,8 +46,11 @@ def amz_price(p):
     raw, asof = str(p.get("amazon_price") or "").strip(), str(p.get("amazon_price_asof") or "").strip()
     if not re.match(r"^\$\d[\d,]*(\.\d{1,2})?$", raw): return None
     try:
-        from zoneinfo import ZoneInfo
-        today = datetime.datetime.now(ZoneInfo("America/New_York")).date()
+        try:
+            from zoneinfo import ZoneInfo
+            today = datetime.datetime.now(ZoneInfo("America/New_York")).date()
+        except Exception:                                   # no tzdata on the runner: fixed UTC-5 is close enough, never crash the build
+            today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5))).date()
         age = (today - datetime.datetime.strptime(asof, "%b %d, %Y").date()).days
     except ValueError: return None
     return (raw, asof) if 0 <= age <= AMZ_PRICE_MAX_AGE else None
@@ -303,7 +306,7 @@ def site_files(base):
 def sync_index_expiry():
     """Copy each guide's 'expires' from src/*.json into guides/index.json (the bot and the site read it there)."""
     ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); ex = {}; gone = set(); al = {}
-    for f in (ROOT / "src").glob("*.json"):
+    for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); ex[d["slug"]] = d.get("expires"); al[d["slug"]] = d.get("also")
         if d.get("retired"): gone.add(d["slug"])
     ch = False
@@ -337,7 +340,7 @@ def sync_meta():
     """Add card data to guides/index.json for the category page: n (picks), img (first product image), top (#1 pick),
     off (biggest 'was' discount % found in the guide's own price text). Only uses what src/*.json already says."""
     ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); meta = {}
-    for f in (ROOT / "src").glob("*.json"):
+    for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); P = visible_products(d.get("products") or [])
         m = {"n": len(P)}
         img = next((x["image"] for x in P if is_ready(x)), None)
@@ -347,7 +350,7 @@ def sync_meta():
         if off: m["off"] = off
         meta[d["slug"]] = m
     deals = []   # verified "was/now" prices from live deal guides only (store + as-of date come from the guide's own price text)
-    for f in (ROOT / "src").glob("*.json"):
+    for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f))
         if not d.get("expires") or d.get("retired") or d.get("draft") or not is_live(d): continue
         for x in visible_products(d.get("products") or []):
@@ -377,7 +380,7 @@ def sync_soon():
     except Exception: pr = {}
     live = {g["slug"] for g in L if not g.get("soon")}
     soon = []
-    for f in (ROOT / "src").glob("*.json"):
+    for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f))
         if d.get("draft") and not d.get("retired") and d["slug"] not in live:
             soon.append({"slug": d["slug"], "title": d["title"], "category": d["category"], **({"also": d["also"]} if d.get("also") else {}), "soon": True})
