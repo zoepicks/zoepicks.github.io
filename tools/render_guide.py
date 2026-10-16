@@ -246,6 +246,19 @@ def sync_meta():
         off = max([(parse_price(x.get("price")) or {}).get("pct", 0) for x in P] or [0])
         if off: m["off"] = off
         meta[d["slug"]] = m
+    deals = []   # verified "was/now" prices from live deal guides only (store + as-of date come from the guide's own price text)
+    for f in (ROOT / "src").glob("*.json"):
+        d = json.load(open(f))
+        if not d.get("expires") or d.get("retired") or d.get("draft") or not is_live(d): continue
+        for x in d.get("products") or []:
+            q = parse_price(x.get("price"))
+            if not q or not q.get("pct"): continue
+            deals.append({"cat": d["category"], **({"also": d["also"]} if d.get("also") else {}), "guide": d["slug"], "name": x.get("short") or x.get("name"),
+                          "now": q["now"], "was": q["was"], "pct": q["pct"], "save": q["save"], **({"store": q["store"]} if q.get("store") else {}),
+                          **({"img": x["image"]} if x.get("image") else {}), **({"asof": x["price_asof"]} if x.get("price_asof") else {})})
+    deals.sort(key=lambda z: -z["pct"])
+    dj = ROOT / "guides/deals.json"; dt = json.dumps(deals, indent=1)
+    if not dj.exists() or dj.read_text() != dt: dj.write_text(dt)
     ch = False
     for g in L:
         if g.get("soon") or g["slug"] not in meta: continue

@@ -1,48 +1,52 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex">
-<title>Category — Zoe Picks</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=3"></head><body>
+<title>Category — Zoe Picks</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=4"></head><body>
 <nav><div class="wrap"><a class="logo" href="./">Zoe <b>Picks</b></a><a class="l" href="./">← Home</a></div></nav>
 <div class="cp-bar"><div class="cp-rail" id="cats" aria-label="Categories"></div></div>
 <main class="wrap">
-<div class="cp-head"><h1 id="t">Guides</h1><span class="cp-count" id="cnt"></span></div>
-<div class="cp-filters" id="f"></div>
-<section id="deals" hidden><h2 class="cp-h">🔥 Live deals</h2><div class="cp-deals" id="dl"></div></section>
+<section id="tk" class="cp-tk" hidden><div class="cp-tkh"><b>🔥 Top discounts</b><span id="tkn"></span></div><div class="cp-tkw"><div class="cp-tkt" id="tkt"></div></div></section>
+<a id="bn" class="cp-bn" hidden></a>
+<div class="cp-head"><h1 id="t">Guides</h1><span class="cp-count" id="cnt"></span><div class="cp-filters" id="f"></div></div>
 <div class="cp-grid" id="l"><div class="empty">Loading…</div></div>
 <div id="soon" class="cp-soon" hidden></div>
-<p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases.</p></main>
+<p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases. Prices are from the date shown and change often — check the store before buying.</p></main>
 <script src="assets/site.js?v=3" data-root="."></script><script>
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const k=new URLSearchParams(location.search).get("c"),c=CATS.find(x=>x[0]==k);
 t.textContent=c?c[2]:"All guides";document.title=(c?c[2]:"Guides")+" — Zoe Picks";
-cats.innerHTML=[["", "✨","All"],...CATS].map(x=>`<a class="cp-cat${(x[0]==(k||""))?" on":""}" href="category.html${x[0]?"?c="+x[0]:""}"><i>${x[1]}</i>${x[2]}</a>`).join("");
-document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";const on=cats.querySelector(".on");if(on)cats.scrollLeft=on.offsetLeft-16;
 const DAY=864e5,now=Date.now();
 const days=g=>g.expires?Math.ceil((new Date(g.expires+"T00:00:00-05:00")-now)/DAY):null;
-let NEWOK=true;const isNew=g=>NEWOK&&g.date&&now-new Date(g.date)<3*DAY;
 const isDeal=g=>g.expires&&days(g)>0;
 const isBudget=g=>/under|budget|\$\d/i.test(g.title);
-function card(g){
-  const em=(CATS.find(x=>x[0]==g.category)||[0,"🛒"])[1],d=isDeal(g);
-  const th=g.img?`<img src="${esc(g.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`:"";
-  const bd=g.off?`<span class="cp-b red">UP TO ${g.off}% OFF</span>`:d?`<span class="cp-b red">🔥 DEAL</span>`:isNew(g)?`<span class="cp-b new">NEW</span>`:"";
-  return `<a class="cp-card" href="g/${g.slug}/"><div class="cp-th"><em>${em}</em>${th}${bd}</div><div class="cp-in"><b>${esc(g.title.replace(/\s*\(2026\)\s*$/,""))}</b>${g.top?`<small class="cp-top">#1 ${esc(g.top)}</small>`:""}<small class="cp-meta">${g.n?g.n+" picks · ":""}${g.date||""}</small></div></a>`}
-function dealCard(g){const dl=days(g),th=g.img?`<img src="${esc(g.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:"";
-  return `<a class="cp-deal" href="g/${g.slug}/">${th}<span class="cp-b red">${g.off?"UP TO "+g.off+"% OFF":"LIVE DEAL"}</span><b>${esc(g.title.replace(/\s*\(.*\)\s*$/,""))}</b><small>${dl<=60?`Ends in ${dl} day${dl==1?"":"s"}`:"Limited time"} →</small></a>`}
+const short=s=>s.replace(/\s*\(2026\)\s*$/,"");const tshort=s=>short(s).replace(/^(Top|Best)\s+/i,"").replace(/\s+(for|to) (Better|Every|Fresh|Faster|Your|a)\b.*$/i,"");
+async function jget(u){try{return await (await fetch(u,{cache:"no-store"})).json()}catch(e){return[]}}
+const inCat=(x,key)=>x.category==key||x.cat==key||(x.also||[]).includes(key);
 let ALL=[],mode="all";
-function draw(){
-  let g=ALL.filter(x=>!x.soon);
-  if(mode=="deals")g=g.filter(isDeal);else if(mode=="budget")g=g.filter(isBudget);else if(mode=="new")g=g.filter(isNew);
+function drawCats(D){
+  const best={};D.forEach(d=>[d.cat,...(d.also||[])].forEach(q=>best[q]=Math.max(best[q]||0,d.pct)));
+  cats.innerHTML=[["","✨","All"],...CATS].map(x=>{const o=x[0]?best[x[0]]:Math.max(0,...Object.values(best));
+    return `<a class="cp-cat${(x[0]==(k||""))?" on":""}${o?" hot":""}" href="category.html${x[0]?"?c="+x[0]:""}"><i>${x[1]}</i>${x[2]}${o?`<em>-${o}%</em>`:""}</a>`}).join("");
+  const on=cats.querySelector(".on");if(on)cats.scrollLeft=on.offsetLeft-16}
+function tile(g){const em=(CATS.find(x=>x[0]==g.category)||[0,"🛒"])[1],d=isDeal(g);
+  const th=g.img?`<img src="${esc(g.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.remove()">`:"";
+  return `<a class="cp-t${d?" dl":""}" href="g/${g.slug}/"><div class="cp-tth"><em>${em}</em>${th}</div><div class="cp-tin"><b>${esc(tshort(g.title))}</b><small>${g.top?"#1 "+esc(g.top):(g.n?g.n+" picks":"")}</small></div>${g.off?`<span class="cp-b red">-${g.off}%</span>`:d?`<span class="cp-b red">DEAL</span>`:""}</a>`}
+function draw(){let g=ALL.filter(x=>!x.soon);
+  if(mode=="deals")g=g.filter(isDeal);else if(mode=="budget")g=g.filter(isBudget);
   g.sort((a,b)=>(isDeal(b)-isDeal(a)));
-  l.innerHTML=g.length?g.map(card).join(""):'<div class="empty" style="grid-column:1/-1">Nothing here yet — try another filter.</div>';
-  cnt.textContent=g.length+" guide"+(g.length==1?"":"s");
-}
-guides().then(g=>{
-  g=g.filter(x=>!k||x.category==k||(x.also||[]).includes(k));ALL=g;
-  const live=g.filter(x=>!x.soon),dl_=live.filter(isDeal);NEWOK=live.filter(x=>now-new Date(x.date)<3*DAY).length<live.length*.5;
-  if(dl_.length){deals.hidden=false;dl.innerHTML=dl_.map(dealCard).join("")}
-  const fs=[["all","All"]];if(dl_.length)fs.push(["deals","🔥 Deals ("+dl_.length+")"]);
-  if(live.some(isBudget))fs.push(["budget","💰 Budget"]);if(live.some(isNew))fs.push(["new","🆕 New"]);
-  f.innerHTML=fs.map(x=>`<button class="cp-f${x[0]==mode?" on":""}" data-m="${x[0]}">${x[1]}</button>`).join("");
+  l.innerHTML=g.length?g.map(tile).join(""):'<div class="empty" style="grid-column:1/-1">Nothing here yet.</div>';
+  cnt.textContent=g.length+" guides"}
+Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
+  drawCats(D);
+  g=g.filter(x=>!k||inCat(x,k));ALL=g;const live=g.filter(x=>!x.soon);
+  const dd=D.filter(d=>!k||inCat(d,k)).slice(0,5);
+  if(dd.length){tk.hidden=false;tkn.textContent="as of "+(dd[0].asof||"")+" · tap to see";
+    const card=d=>`<a class="cp-tc" href="g/${d.guide}/"><div class="cp-tci">${d.img?`<img src="${esc(d.img)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">`:"🏷️"}</div><div><span class="cp-pc">-${d.pct}%</span><b>${esc(d.name)}</b><small><strong>${esc(d.now)}</strong> <s>${esc(d.was)}</s>${d.store?" · "+esc(d.store):""}</small></div></a>`;
+    const h=dd.map(card).join("");tkt.innerHTML=h+h}
+  const bd=live.filter(isDeal).sort((a,b)=>(b.off||0)-(a.off||0))[0];
+  if(bd){bn.hidden=false;bn.href="g/"+bd.slug+"/";const dl=days(bd);
+    bn.innerHTML=`<div><small>🛍️ ${dl<=60?"Black Friday deals · ends in "+dl+" days":"Limited-time deals"}</small><b>${esc(short(bd.title).replace(/\s*\(.*\)/,""))}</b></div><span>${bd.off?"UP TO<br><i>"+bd.off+"%</i> OFF":"VIEW →"}</span>`}
+  const fs=[["all","All"]];if(live.some(isDeal))fs.push(["deals","🔥 Deals"]);if(live.some(isBudget))fs.push(["budget","💰 Budget"]);
+  f.innerHTML=fs.length>1?fs.map(x=>`<button class="cp-f${x[0]==mode?" on":""}" data-m="${x[0]}">${x[1]}</button>`).join(""):"";
   f.onclick=e=>{const b=e.target.closest("button");if(!b)return;mode=b.dataset.m;f.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x==b));draw()};
   draw();
-  const so=g.filter(x=>x.soon);if(so.length){soon.hidden=false;soon.innerHTML="<b>Coming soon</b>"+so.map(x=>`<span>${esc(x.title.replace(/\s*\(2026\)\s*$/,""))}</span>`).join("")}
-});</script></body></html>
+  const so=g.filter(x=>x.soon);if(so.length){soon.hidden=false;soon.innerHTML="<b>Coming soon</b>"+so.map(x=>`<span>${esc(short(x.title))}</span>`).join("")}
+});document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";</script></body></html>
