@@ -89,6 +89,50 @@ def voices_html(d):
                   f'<p class="l">{e(x["like"])}</p><p class="c">{e(x["catch"])}</p></article>')
     return f'<section class="vr"><h2 class="cmp">What reviewers say <small class="tap">expert reviews, summarized</small></h2><div class="vrail">{cards}</div></section>'
 
+def deal_rows(d):
+    """Compact deal list for theme=deal guides: image + -% badge + price/was + one button per row, details collapsed.
+    Biggest discount first; products with no deal price go last. Button says 'Buy on Amazon' only when the bot's own recent
+    Amazon check shows the deal holds there; otherwise 'Check on Amazon' (the deal price may be from another store)."""
+    items = []
+    for i, p in enumerate(d["products"]):
+        link = buy_link(p)
+        if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
+            raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
+        items.append((i, p, link, parse_price(p.get("price")) or {}))
+    items.sort(key=lambda t: -(t[3].get("pct") or 0))
+    out = ""
+    for n, (i, p, link, q) in enumerate(items):
+        c = PALETTE[i % len(PALETTE)]
+        img = (f'<img src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">' if p.get("image") else "")
+        off = f'<span class="dr-off">-{q["pct"]}%</span>' if q.get("pct") else ""
+        if q.get("now"):
+            was = f'<s>{e(q["was"])}</s>' if q.get("was") else ""
+            meta = " · ".join(x for x in ((f'Save {e(q["save"])}' if q.get("save") else ""), (f'at {e(q["store"])}' if q.get("store") else ""), e(p.get("price_asof", ""))) if x)
+            price = f'<div class="dr-pr"><b>{e(q["now"])}</b>{was}</div><div class="dr-sv">{meta}</div>'
+        else:
+            price = '<div class="dr-pr np">No deal price yet</div><div class="dr-sv">Check the current price on Amazon</div>'
+        hold = amazon_holds(p)
+        btn = f'<a class="dr-btn{" ok" if hold else ""}" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">{"Buy on Amazon" if hold else "Check on Amazon"} &#8599;</a>'
+        det = ""
+        if p.get("best_for"): det += f'<p><b>Best for:</b> {e(p["best_for"])}</p>'
+        if p.get("why"):
+            ws = p["why"] if isinstance(p["why"], list) else [p["why"]]
+            det += "".join(f"<p>{e(x)}</p>" for x in ws[:1])
+        if p.get("pros") or p.get("cons"): det += f'<div class="pc"><div class="pro"><b>Pros</b>{ul(p.get("pros", []))}</div><div class="con"><b>Cons</b>{ul(p.get("cons", []))}</div></div>'
+        if p.get("skip_if"): det += f'<p class="skip"><b>Skip it if:</b> {e(p["skip_if"])}</p>'
+        if p.get("deal_note"): det += f'<p class="deal"><b>Deal tip:</b> {e(p["deal_note"])}</p>'
+        tag = f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else ""
+        out += (f'<article class="dr" id="p{i+1}" style="--c:{c}"><div class="dr-t"><div class="dr-im">{img}{off}</div>'
+                f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{price}{btn}</div></div>'
+                + (f'<details class="dr-d"><summary>Why it is worth it</summary>{det}</details>' if det else "") + "</article>")
+    return f'<div class="dr-list">{out}</div>'
+
+def deal_strip(d):
+    pcts = [(parse_price(p.get("price")) or {}).get("pct", 0) for p in d["products"]]
+    asof = next((p["price_asof"] for p in d["products"] if p.get("price_asof")), d.get("date", ""))
+    top = f"Up to {max(pcts)}% off" if any(pcts) else "Deals"
+    return f'<p class="dstrip"><b>&#128293; {top}</b> · prices as of {e(asof)} · may change, check before buying</p>'
+
 def card(i, p):
     link = buy_link(p)
     if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
@@ -194,6 +238,9 @@ def render(d, base=""):
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
+    if d.get("theme") == "deal":        # compact deal layout (mobile first): rows instead of big cards, no duplicate jump/compare/voices blocks
+        rep.update({"CARDS": deal_rows(d), "JUMP": "", "COMPARE": "", "VOICES": "", "MORE": "",
+                    "INTRO": deal_strip(d) if is_live(d) else intro_html(d), "FAQ": faq_html(d) + more_html(d)})
     if d.get("draft"): rep["OGURL"] += '<meta name="robots" content="noindex">'   # unfinished guide: reachable by link only, hidden from search
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
     return t

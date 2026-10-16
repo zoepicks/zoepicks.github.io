@@ -217,3 +217,21 @@ h2.cmp{margin:8px 0 4px}
 .cp-tc{display:block;width:204px;padding:7px 9px 8px}.cp-tcm{display:flex;gap:8px;align-items:center;text-decoration:none}
 .cp-az{display:block;margin-top:6px;text-align:center;background:#ff9900;color:#111;font-weight:800;font-size:11px;border-radius:8px;padding:5px 6px;text-decoration:none}
 .cp-em{font-style:normal}
+
+/* v6: compact deal rows (theme=deal) */
+.dstrip{margin:10px 0 6px;font-size:13px;color:var(--mut)}.dstrip b{color:#e11d48;font-size:14px}
+.dr-list{display:grid;gap:10px;margin:8px 0 18px}
+.dr{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:16px;padding:10px}
+.dr-t{display:flex;gap:11px}.dr-im{position:relative;width:92px;height:92px;flex:none;border-radius:12px;background:#fff;border:1px solid var(--line);display:grid;place-items:center;overflow:hidden}
+.dr-im img{width:100%;height:100%;object-fit:contain;padding:4px}
+.dr-off{position:absolute;left:0;top:0;background:#e11d48;color:#fff;font-weight:800;font-size:12px;padding:3px 8px;border-radius:0 0 10px 0}
+.dr-b{min-width:0;flex:1;display:flex;flex-direction:column;gap:2px}.dr-tag{color:var(--c);font-weight:700;font-size:11px;text-transform:uppercase;letter-spacing:.02em}
+.dr-b h3{margin:0;font-size:14.5px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.dr-pr{display:flex;align-items:baseline;gap:7px}.dr-pr b{font-size:22px;letter-spacing:-.02em;line-height:1.1}.dr-pr s{color:var(--mut);font-size:13px}.dr-pr.np{font-size:13px;color:var(--mut)}
+.dr-sv{font-size:11.5px;color:var(--mut);line-height:1.3}
+.dr-btn{margin-top:5px;display:block;text-align:center;text-decoration:none;font-weight:800;font-size:13px;padding:8px 10px;border-radius:10px;border:1.5px solid var(--c);color:var(--c);background:transparent}
+.dr-btn.ok{background:#ff9900;border-color:#ff9900;color:#111}
+.dr-d{margin-top:8px;border-top:1px dashed var(--line);padding-top:6px}.dr-d summary{cursor:pointer;font-size:12.5px;font-weight:700;color:var(--c);list-style:none}.dr-d summary::-webkit-details-marker{display:none}.dr-d summary:after{content:" ▾"}
+.dr-d p{font-size:13.5px;margin:8px 0 0}.dr-d .pc{margin-top:8px;font-size:13px}
+@media(max-width:600px){.g-head.deal-head .sum{display:none}.deal-head .hdisc{font-size:11px}}
+@media(min-width:760px){.dr-list{grid-template-columns:1fr 1fr}}
