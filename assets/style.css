@@ -250,3 +250,29 @@ h2.cmp{margin:8px 0 4px}
 .logo .lg{width:28px;height:28px;border-radius:50%;flex:none;box-shadow:0 1px 4px rgba(0,0,0,.18)}
 .hero .hero-logo{display:block;width:96px;height:96px;border-radius:50%;margin:0 0 14px;box-shadow:0 6px 22px rgba(255,105,160,.28)}
 @media(max-width:520px){.hero .hero-logo{width:80px;height:80px}}
+
+/* ===== home: top-discount ticker beside the logo + daily essentials block (data: guides/hot.json) ===== */
+.hero-top{display:flex;align-items:center;gap:12px;margin:0 0 14px}
+.hero .hero-top .hero-logo{margin:0;flex:none}
+.hot[hidden],.ess[hidden]{display:none}
+.hot{--ch:76px;flex:1;min-width:0;height:96px;display:flex;flex-direction:column;gap:4px}
+.hot-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;height:15px;font-size:12.5px;line-height:15px;white-space:nowrap}.hot-h small{font-size:10.5px;color:var(--mut)}
+.hot-w{height:var(--ch);overflow:hidden;border-radius:14px;-webkit-mask:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+.hot-t{display:flex;gap:8px;width:max-content;height:100%;animation:hotk 40s linear infinite}
+.hot-w:hover .hot-t,.hot-w:active .hot-t{animation-play-state:paused}
+@keyframes hotk{from{transform:translateX(-50%)}to{transform:translateX(0)}}  /* moves left -> right */
+.hot-c{flex:none;display:flex;align-items:center;gap:7px;width:184px;height:var(--ch);padding:4px 8px 4px 5px;background:var(--card);border:1px solid var(--line);border-radius:12px;text-decoration:none;color:var(--ink)}
+.hot-i{flex:none;width:calc(var(--ch) - 10px);height:calc(var(--ch) - 10px);border-radius:9px;background:#fff;display:grid;place-items:center;overflow:hidden;font-size:22px}.hot-i img{width:100%;height:100%;object-fit:contain}
+.hot-x{min-width:0;display:flex;flex-direction:column;gap:3px}
+.hot-x em,.ess-n em{font-style:normal;align-self:flex-start;background:#e11d48;color:#fff;font-weight:800;font-size:11px;line-height:1.3;border-radius:6px;padding:1px 6px}
+.hot-x b{font-size:11.5px;line-height:1.2;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+@media(max-width:520px){.hot{--ch:60px;height:80px}.hot-c{width:170px}.hot-x b{font-size:11px}}
+@media(prefers-reduced-motion:reduce){.hot-t{animation:none}.hot-w{overflow-x:auto;-webkit-mask:none;mask:none}}
+.ess{margin:14px 0 0;background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:10px 12px}
+.ess-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:4px}.ess-h b{font-size:14.5px}.ess-h small{font-size:11px;color:var(--mut)}
+.ess-r{display:flex;align-items:center;gap:10px;padding:7px 0;border-top:1px solid var(--line)}.ess-r:first-child{border-top:0}
+.ess-i{flex:none;width:46px;height:46px;border-radius:10px;background:#fff;display:grid;place-items:center;overflow:hidden;font-size:22px}.ess-i img{width:100%;height:100%;object-fit:contain}
+.ess-n{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px}
+.ess-n b{font-size:13px;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ess-b{flex:none;background:#ff9900;color:#111;font-weight:800;font-size:12px;line-height:1.2;border-radius:10px;padding:9px 11px;text-decoration:none;white-space:nowrap;-webkit-tap-highlight-color:transparent}.ess-b:active{filter:brightness(.92)}
+@media(max-width:520px){.ess-b{width:78px;padding:7px 6px;font-size:11.5px;white-space:normal;text-align:center}}
