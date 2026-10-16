@@ -35,7 +35,13 @@
    "link": "https://www.amazon.com/s?k=Samsung+Galaxy+S26+Ultra&tag=iamcartigo-20",
    "asin": "B0G4SWDH8P",
    "image": "https://m.media-amazon.com/images/I/31Zr0kzRWiL.jpg",
-   "image_asin": "B0G4SWDH8P"
+   "image_asin": "B0G4SWDH8P",
+   "amazon_price": "$1,149.52",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Samsung Galaxy S26 Ultra, Unlocked Android Smartphone, 256GB, Black | Privacy Display, Gal",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 2157,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Apple iPhone 18 Pro / 18 Pro Max",
@@ -61,7 +67,10 @@
    ],
    "best_for": "Video shooters and Apple users",
    "skip_if": "You want the widest zoom range or an Android phone",
-   "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+%2F+18+Pro+Max&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+%2F+18+Pro+Max&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Google Pixel 11 Pro / Pro XL",
@@ -90,7 +99,13 @@
    "link": "https://www.amazon.com/s?k=Google+Pixel+11+Pro+%2F+Pro+XL&tag=iamcartigo-20",
    "asin": "B0H82WYQNT",
    "image": "https://m.media-amazon.com/images/I/714ml-6grWL.jpg",
-   "image_asin": "B0H82WYQNT"
+   "image_asin": "B0H82WYQNT",
+   "amazon_price": "$1,299.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Google Pixel 11 Pro XL - Unlocked Smartphone, Gemini - 256 GB - Olive | Android, Gemini In",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 87,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Vivo X300 Ultra / Oppo Find X9 Ultra",
@@ -116,7 +131,10 @@
    "link": "https://www.amazon.com/s?k=Vivo+X300+Ultra+%2F+Oppo+Find+X9+Ultra&tag=iamcartigo-20",
    "asin": "B0HJ7KZJ4B",
    "image": "https://m.media-amazon.com/images/I/51QTsNkcu6L.jpg",
-   "image_asin": "B0HJ7KZJ4B"
+   "image_asin": "B0HJ7KZJ4B",
+   "amazon_price": "$1,799.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "vivo X300 Ultra 5G Unlocked Smartphone|16GB+1TB | China Version |Full GOOG Service| Snapdr"
   }
  ]
 }
