@@ -296,3 +296,5 @@ a.offer .op{background:var(--ok);color:#fff;font-weight:800;font-size:13px;borde
 a.offers-link{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:14px 0;padding:11px 14px;border-radius:14px;background:var(--card);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px}
 a.offers-link span{color:var(--ok);font-weight:800;flex-shrink:0}
 .cp-offers{margin:14px 0}.cp-offers h2{margin:0 0 2px;font-size:18px}.cp-offers .sum{color:var(--mut);font-size:13px;margin:0 0 6px}
+
+.cp-ty{display:flex;gap:6px;overflow-x:auto;margin:0 0 10px;padding-bottom:2px;scrollbar-width:none}.cp-ty::-webkit-scrollbar{display:none}

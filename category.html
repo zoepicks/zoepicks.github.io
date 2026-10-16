@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="64x64" href="assets/logo-64.png"><link rel="apple-touch-icon" href="assets/logo-180.png"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex">
-<title>Category — Zoe Picks</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=5"></head><body>
+<title>Category — Zoe Picks</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=6"></head><body>
 <nav><div class="wrap"><a class="logo" href="./"><img class="lg" src="assets/logo-96.png" alt="Zoe Picks logo" width="28" height="28">Zoe <b>Picks</b></a><a class="l" href="./">← Home</a></div></nav>
 <div class="cp-bar"><div class="cp-rail" id="cats" aria-label="Categories"></div></div>
 <main class="wrap">
@@ -53,10 +53,15 @@ Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
 });
 (async function(){const j=await jget("guides/offers.json");const C=(j&&j.cats)||{};if(Array.isArray(j))return;
   const n=Date.now()/1000,fh=((j&&j.fresh_h)||36)*3600;
-  let L=k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct);
-  const seen={};L=L.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
-  if(!L.length)return;
-  zo.innerHTML="<h2>Top 3 discounts right now"+(c?" · "+esc(c[2]):"")+"</h2><p class=\"sum\">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>"+
-   L.map(x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`).join("");
-  zo.hidden=false})();
+  const clean=a=>{const seen={};return a.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3)};
+  const base=clean(k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct));
+  const TY=k?((j.types||{})[k]||[]).map(t=>({key:t.key,label:t.label,items:clean(t.items||[])})).filter(t=>t.items.length):[];
+  if(!base.length&&!TY.length)return;
+  const card=x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`;
+  let sel="";
+  const draw=()=>{const t=TY.find(x=>x.key==sel),L=t?t.items:base,lab=t?t.label:(c?c[2]:"");
+    zo.innerHTML=(TY.length?`<div class="cp-ty">${[["","All"],...TY.map(x=>[x.key,x.label])].map(x=>`<button class="cp-f${x[0]==sel?" on":""}" data-t="${esc(x[0])}">${esc(x[1])}</button>`).join("")}</div>`:"")+
+     "<h2>Top 3 discounts right now"+(lab?" \u00b7 "+esc(lab):"")+"</h2><p class=\"sum\">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>"+L.map(card).join("")};
+  zo.onclick=e=>{const b=e.target.closest("button[data-t]");if(!b)return;sel=b.dataset.t;draw()};
+  draw();zo.hidden=false})();
 document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";</script></body></html>
