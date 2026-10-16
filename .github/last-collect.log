@@ -1,29 +1,28 @@
 [collect] topic: Best Digital Camera (2026)
-[collect] tavily -> 4 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/camera/reviews/best/camera
-[collect] 4/4 source pages fetched
+[collect] tavily -> 2 pages
+[collect] 2/2 source pages fetched
 [collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 199,511 requested 8,631 -> skipped for this run
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 199,567 requested 4,462 -> skipped for this run
 [collect] llm llama-3.1-8b-instant 404 {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 [collect] llm qwen/qwen3-32b 404 {"error":{"message":"The model `qwen/qwen3-32b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
 [collect] llm meta-llama/llama-4-scout-17b-16e-instruct 404 {"error":{"message":"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.","type":"invalid_request_error","code
 [collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found
-[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,496 requested 8,670 -> skipped for this run
+[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,541 requested 4,430 -> skipped for this run
 [collect] llm llama-3.1-8b-instant 404 {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 [collect] llm qwen/qwen3-32b 404 {"error":{"message":"The model `qwen/qwen3-32b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
 [collect] llm meta-llama/llama-4-scout-17b-16e-instruct 404 {"error":{"message":"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.","type":"invalid_request_error","code
 [collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found
-[collect] llm key ...ITNE openai/gpt-oss-120b DAILY limit limit 200,000 used 197,037 requested 8,683 -> skipped for this run
+[collect] llm key ...ITNE openai/gpt-oss-120b DAILY limit limit 200,000 used 197,289 requested 4,280 -> skipped for this run
 [collect] llm llama-3.1-8b-instant 404 {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 [collect] llm qwen/qwen3-32b 404 {"error":{"message":"The model `qwen/qwen3-32b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
 [collect] llm meta-llama/llama-4-scout-17b-16e-instruct 404 {"error":{"message":"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.","type":"invalid_request_error","code
 [collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found
-[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 197,241 requested 8,542 -> skipped for this run
+[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,008 requested 4,434 -> skipped for this run
 [collect] llm llama-3.1-8b-instant 404 {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 [collect] llm qwen/qwen3-32b 404 {"error":{"message":"The model `qwen/qwen3-32b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
 [collect] llm meta-llama/llama-4-scout-17b-16e-instruct 404 {"error":{"message":"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.","type":"invalid_request_error","code
 [collect] llm llama-3.3-70b-versatile 404 {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found
-[collect] llm key ...4zVi openai/gpt-oss-120b DAILY limit limit 200,000 used 197,638 requested 8,643 -> skipped for this run
+[collect] llm key ...4zVi openai/gpt-oss-120b DAILY limit limit 200,000 used 197,048 requested 4,285 -> skipped for this run
 [collect] llm llama-3.1-8b-instant 404 {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
 [collect] llm qwen/qwen3-32b 404 {"error":{"message":"The model `qwen/qwen3-32b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
 [collect] llm meta-llama/llama-4-scout-17b-16e-instruct 404 {"error":{"message":"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.","type":"invalid_request_error","code
