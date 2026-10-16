@@ -5,7 +5,7 @@
  "date": "Oct 15, 2026",
  "summary": "5 monitors worth buying in the Black Friday sale, why each one is worth it, and the October 2026 prices to beat.",
  "intro": [
-  "\ud83d\udd25 {deal_hook} on top monitors, but only while the offer lasts.",
+  "🔥 {deal_hook} on top monitors, but only while the offer lasts.",
   "We picked 5 monitors for different needs: a cheap 4K screen, an all-rounder, a MacBook-friendly USB-C display, and two gaming deals. Prices can jump back or sell out at any time, so grab yours before it is gone."
  ],
  "compare": true,
@@ -43,7 +43,9 @@
    "deal_note": "AppleInsider lists this as a Prime-exclusive offer on Oct 6, so the price may be higher if you are not a Prime member. Check the live price before you buy.",
    "link": "https://www.amazon.com/s?k=Samsung+ViewFinity+S7+S71H+27+inch+4K+monitor&tag=iamcartigo-20",
    "short": "ViewFinity S7",
-   "asin": "B0H85RW8H8"
+   "asin": "B0H85RW8H8",
+   "image": "https://m.media-amazon.com/images/I/71yC2G6g8kL.jpg",
+   "image_asin": "B0H85RW8H8"
   },
   {
    "name": "Dell S2725QS",
@@ -76,7 +78,9 @@
    "deal_note": "It is $70 below its $299.99 list price in the Oct 6 Prime sale. Make sure you are looking at the S2725QS, since Dell sells several similar model numbers.",
    "link": "https://www.amazon.com/s?k=Dell+S2725QS+27+inch+4K+monitor&tag=iamcartigo-20",
    "short": "Dell S2725QS",
-   "asin": "B0F1GF1KFC"
+   "asin": "B0F1GF1KFC",
+   "image": "https://m.media-amazon.com/images/I/61pF09VcRPL.jpg",
+   "image_asin": "B0F1GF1KFC"
   },
   {
    "name": "LG 27UP850K-W",
@@ -109,7 +113,9 @@
    "deal_note": "It is 20% off at $279.99 in the Oct 6 Prime sale. Check that your laptop's USB-C port supports video output and charging before you buy.",
    "link": "https://www.amazon.com/s?k=LG+27UP850K-W+27+inch+4K+USB-C+monitor&tag=iamcartigo-20",
    "short": "LG 27UP850K-W",
-   "asin": "B0DQFF7FBS"
+   "asin": "B0DQFF7FBS",
+   "image": "https://m.media-amazon.com/images/I/81WBedkWpUL.jpg",
+   "image_asin": "B0DQFF7FBS"
   },
   {
    "name": "LG UltraGear G6",
@@ -138,7 +144,10 @@
    "skip_if": "your PC or console cannot reach high frame rates, or you want an OLED screen.",
    "deal_note": "This deal was reported at Best Buy, not Amazon. Compare both stores for the exact model before you buy.",
    "link": "https://www.amazon.com/s?k=LG+UltraGear+G6+27+inch+1440p+300Hz+gaming+monitor&tag=iamcartigo-20",
-   "short": "UltraGear G6"
+   "short": "UltraGear G6",
+   "asin": "B0GY1X5L4K",
+   "image": "https://m.media-amazon.com/images/I/71apXhWHiGL.jpg",
+   "image_asin": "B0GY1X5L4K"
   },
   {
    "name": "Samsung Odyssey G50SF",
@@ -167,7 +176,10 @@
    "skip_if": "you work with static content for many hours a day, or you want a cheaper LCD.",
    "deal_note": "The price moves between stores, $379 at Amazon versus $449 at Best Buy on Oct 14. If it drops further closer to Black Friday, that is the one to grab.",
    "link": "https://www.amazon.com/s?k=Samsung+Odyssey+G50SF+27+inch+QD-OLED+gaming+monitor&tag=iamcartigo-20",
-   "short": "Odyssey G50SF"
+   "short": "Odyssey G50SF",
+   "asin": "B0FNQDNGXY",
+   "image": "https://m.media-amazon.com/images/I/818+AiwCClL.jpg",
+   "image_asin": "B0FNQDNGXY"
   }
  ],
  "tips": {
