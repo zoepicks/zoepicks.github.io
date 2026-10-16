@@ -37,7 +37,13 @@
    "link": "https://www.amazon.com/s?k=De%27Longhi+La+Specialista+Touch+espresso+machine&tag=iamcartigo-20",
    "asin": "B0F6DY1DGR",
    "image": "https://m.media-amazon.com/images/I/511PBDnenZL.jpg",
-   "image_asin": "B0F6DY1DGR"
+   "image_asin": "B0F6DY1DGR",
+   "amazon_price": "$649.99",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "De'Longhi La Specialista Touch Espresso Machine with Coffee Grinder | #1 Worldwide Espress",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 255,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Breville Barista Touch Impress with Cold Extraction",
@@ -70,7 +76,13 @@
    "link": "https://www.amazon.com/s?k=Breville+Barista+Touch+Impress+espresso+machine&tag=iamcartigo-20",
    "asin": "B0C1T4W797",
    "image": "https://m.media-amazon.com/images/I/71oDZFONWAL.jpg",
-   "image_asin": "B0C1T4W797"
+   "image_asin": "B0C1T4W797",
+   "amazon_price": "$1,449.99",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Breville BES881BSS Barista Touch Impress, Brushed Stainless Steel | Enjoy cold extraction ",
+   "amazon_rating": "3.7",
+   "amazon_reviews": 817,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Breville Bambino",
@@ -102,7 +114,13 @@
    "link": "https://www.amazon.com/s?k=Breville+Bambino+espresso+machine&tag=iamcartigo-20",
    "asin": "B07JVD78TT",
    "image": "https://m.media-amazon.com/images/I/515b5YnjKyL.jpg",
-   "image_asin": "B07JVD78TT"
+   "image_asin": "B07JVD78TT",
+   "amazon_price": "$499.95",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Breville BES500BSS Bambino Plus Espresso Machine, Brushed Stainless Steel | Make café-qual",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 2422,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "De'Longhi Stilosa",
@@ -135,7 +153,13 @@
    "link": "https://www.amazon.com/s?k=De%27Longhi+Stilosa+espresso+machine&tag=iamcartigo-20",
    "asin": "B08C96BG9H",
    "image": "https://m.media-amazon.com/images/I/81c3ItE+jyL.jpg",
-   "image_asin": "B08C96BG9H"
+   "image_asin": "B08C96BG9H",
+   "amazon_price": "$147.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "De'Longhi Stilosa Compact Manual Espresso Machine, Manual Milk Frother | #1 Worldwide Espr",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 13874,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "De'Longhi Dedica Duo",
@@ -167,7 +191,13 @@
    "link": "https://www.amazon.com/s?k=De%27Longhi+Dedica+Duo+espresso+machine&tag=iamcartigo-20",
    "asin": "B0FLR9VH5S",
    "image": "https://m.media-amazon.com/images/I/71vCQKPuIwL.jpg",
-   "image_asin": "B0FLR9VH5S"
+   "image_asin": "B0FLR9VH5S",
+   "amazon_price": "$249.95",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "De'Longhi Dedica Duo Compact Espresso Machine - Cold Brew Coffee Maker with Milk Frother W",
+   "amazon_rating": "3.8",
+   "amazon_reviews": 931,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "KitchenAid Semi-Automatic Espresso Machine",
@@ -198,7 +228,13 @@
    "link": "https://www.amazon.com/s?k=KitchenAid+Semi-Automatic+Espresso+Machine&tag=iamcartigo-20",
    "asin": "B09B19NBGR",
    "image": "https://m.media-amazon.com/images/I/712RQjs7cFL.jpg",
-   "image_asin": "B09B19NBGR"
+   "image_asin": "B09B19NBGR",
+   "amazon_price": "$355.41",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "KitchenAid Metal Semi-Automatic Espresso Machine - KES6503",
+   "amazon_rating": "4",
+   "amazon_reviews": 298,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Ninja Luxe Cafe Mini Plus",
@@ -227,7 +263,10 @@
    ],
    "best_for": "First-time buyers who want good everyday espresso with minimal fuss",
    "skip_if": "You want to chase specialty-level shots",
-   "link": "https://www.amazon.com/s?k=Ninja+Luxe+Cafe+Mini+Plus+espresso+machine&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Ninja+Luxe+Cafe+Mini+Plus+espresso+machine&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Terra Kaffe Demi",
@@ -259,7 +298,13 @@
    "link": "https://www.amazon.com/s?k=Terra+Kaffe+Demi+espresso+machine&tag=iamcartigo-20",
    "asin": "B0FGWSD63C",
    "image": "https://m.media-amazon.com/images/I/61nBQmziRiL.jpg",
-   "image_asin": "B0FGWSD63C"
+   "image_asin": "B0FGWSD63C",
+   "amazon_price": "$795.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Terra Kaffe Demi Compact Fully Automatic Espresso Machine - Slate | Roaster-approved espre",
+   "amazon_rating": "3.9",
+   "amazon_reviews": 93,
+   "amazon_rating_asof": "Oct 16, 2026"
   }
  ],
  "tips": {
