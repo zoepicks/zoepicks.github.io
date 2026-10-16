@@ -239,3 +239,8 @@ h2.cmp{margin:8px 0 4px}
 .dr-b .rt{margin:0;font-size:12px}
 .dr-ph{position:absolute;inset:0;display:grid;place-items:center;font-size:34px;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 14%,var(--card)),color-mix(in srgb,var(--c) 6%,var(--card)))}
 .dr-im img{position:absolute;inset:0;background:#fff}
+
+/* unfilled products (no ASIN/image yet): greyed out, not clickable */
+.card.off,.dr.off{opacity:.55;filter:grayscale(1);position:relative}
+.card.off .more-d summary,.dr.off .dr-d summary{pointer-events:auto}
+.btn.off,.dr-btn.off{background:#d9dde3!important;border-color:#d9dde3!important;color:#6b7280!important;cursor:not-allowed;pointer-events:none;box-shadow:none}

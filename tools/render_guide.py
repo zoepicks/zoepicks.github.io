@@ -60,6 +60,11 @@ def buy_link(p):
     a = str(p.get("asin") or p.get("image_asin") or "").strip().upper()
     return f"https://www.amazon.com/dp/{a}?tag={AFF_TAG}" if re.match(r"^[A-Z0-9]{10}$", a) else p.get("link", "")
 
+def is_ready(p):
+    """True only when the bot filled BOTH a valid ASIN and an image. Unfilled products must never link to an Amazon search page."""
+    a = str(p.get("asin") or p.get("image_asin") or "").strip().upper()
+    return bool(re.match(r"^[A-Z0-9]{10}$", a)) and bool(p.get("image"))
+
 def _rating(p):
     """(rating float, count int) only when the bot stored a sane Amazon rating + count; else None."""
     try:
@@ -117,7 +122,8 @@ def deal_rows(d):
         else:
             price = f'<div class="dr-bf">{e(p["best_for"])}</div>' if p.get("best_for") else ""
         hold = amazon_holds(p) or (not dealpage and not q.get("store"))
-        btn = f'<a class="dr-btn{" ok" if hold else ""}" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">{"Buy on Amazon" if hold else "Check on Amazon"} &#8599;</a>'
+        btn = (f'<a class="dr-btn{" ok" if hold else ""}" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">{"Buy on Amazon" if hold else "Check on Amazon"} &#8599;</a>'
+               if is_ready(p) else '<span class="dr-btn off" role="link" aria-disabled="true">Link coming soon</span>')
         det = ""
         if p.get("best_for") and (dealpage or q.get("now") or q.get("raw")): det += f'<p><b>Best for:</b> {e(p["best_for"])}</p>'
         if p.get("why"):
@@ -127,7 +133,7 @@ def deal_rows(d):
         if p.get("skip_if"): det += f'<p class="skip"><b>Skip it if:</b> {e(p["skip_if"])}</p>'
         if p.get("deal_note"): det += f'<p class="deal"><b>Deal tip:</b> {e(p["deal_note"])}</p>'
         tag = (f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else "") if dealpage else (f'<small class="dr-tag">#{i+1}' + (f' · {e(p["badge"])}' if p.get("badge") else "") + '</small>')
-        out += (f'<article class="dr" id="p{i+1}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
+        out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
                 f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{rating_block(p)}{price}{btn}</div></div>'
                 + (f'<details class="dr-d"><summary>Why it is worth it</summary>{det}</details>' if det else "") + "</article>")
     return f'<div class="dr-list">{out}</div>'
@@ -143,7 +149,7 @@ def card(i, p):
     if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
         raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
     c = PALETTE[i % len(PALETTE)]
-    h = f'<article class="card" id="p{i+1}" style="--c:{c}">'
+    h = f'<article class="card{" off" if not is_ready(p) else ""}" id="p{i+1}" style="--c:{c}">'
     if p.get("badge"): h += f'<span class="rank">#{i+1} · {e(p["badge"])}</span>'
     h += '<div class="top">'
     if p.get("image"): h += f'<img class="thumb" src="{e(p["image"])}" alt="{e(p["name"])}" loading="lazy" decoding="async" width="108" height="108" referrerpolicy="no-referrer" onerror="this.style.display=\'none\'">'
@@ -151,7 +157,8 @@ def card(i, p):
     # scraped Amazon price is internal only (bot uses it to verify deals); never shown publicly
     h += "</div></div>"
     if p.get("best_for"): h += f'<div class="best"><b>Best for:</b> {e(p["best_for"])}</div>'
-    h += f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy here &rarr;</a>'
+    h += (f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy here &rarr;</a>'
+          if is_ready(p) else '<span class="btn off" role="link" aria-disabled="true">Link coming soon</span>')
     d = ""
     if p.get("why"):
         paras = p["why"] if isinstance(p["why"], list) else [p["why"]]
@@ -305,7 +312,7 @@ def sync_meta():
     for f in (ROOT / "src").glob("*.json"):
         d = json.load(open(f)); P = d.get("products") or []
         m = {"n": len(P)}
-        img = next((x["image"] for x in P if x.get("image")), None)
+        img = next((x["image"] for x in P if is_ready(x)), None)
         if img: m["img"] = img
         if P: m["top"] = P[0].get("short") or P[0].get("name")
         off = max([(parse_price(x.get("price")) or {}).get("pct", 0) for x in P] or [0])
@@ -319,7 +326,7 @@ def sync_meta():
             q = parse_price(x.get("price"))
             if not q or not q.get("pct"): continue
             deals.append({"cat": d["category"], **({"also": d["also"]} if d.get("also") else {}), "guide": d["slug"], "name": x.get("short") or x.get("name"),
-                          "ver": amazon_holds(x), **({"link": x["link"]} if x.get("link") else {}),
+                          "ver": amazon_holds(x), **({"link": buy_link(x)} if is_ready(x) else {}),
                           "now": q["now"], "was": q["was"], "pct": q["pct"], "save": q["save"], **({"store": q["store"]} if q.get("store") else {}),
                           **({"img": x["image"]} if x.get("image") else {}), **({"asof": x["price_asof"]} if x.get("price_asof") else {})})
     deals.sort(key=lambda z: -z["pct"])
