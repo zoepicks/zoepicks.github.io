@@ -1,19 +1,12 @@
 {
- "v": 2,
- "updated": "2026-10-16T10:43:57Z",
+ "v": 3,
+ "updated": "2026-10-16T12:48:49Z",
  "hot": [
-  {
-   "asin": "B08L5MNLCP",
-   "name": "Barenthal Cutting Boards",
-   "pct": 58,
-   "t": 1792126968,
-   "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
-   "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=iamcartigo-20"
-  },
   {
    "asin": "B0DCV9V2PV",
    "name": "HOSHANHO Cleaver Knife 7 Inch",
    "pct": 56,
+   "rating": 4.5,
    "t": 1792126969,
    "img": "https://m.media-amazon.com/images/I/71iaq8PkRfL.jpg",
    "link": "https://www.amazon.com/dp/B0DCV9V2PV?tag=iamcartigo-20"
@@ -21,15 +14,39 @@
  ],
  "ess": [
   {
-   "asin": "B0DFNRLHVY",
-   "name": "Huggies Snug & Dry Diapers Size 1",
-   "pct": 25,
-   "t": 1792126989,
-   "img": "https://m.media-amazon.com/images/I/718G+yDyWlL.jpg",
-   "link": "https://www.amazon.com/dp/B0DFNRLHVY?tag=iamcartigo-20",
-   "cat": "baby",
-   "label": "Diapers & wipes",
-   "icon": "👶"
+   "asin": "B08L5MNLCP",
+   "name": "Barenthal Cutting Boards",
+   "pct": 58,
+   "rating": 4.3,
+   "t": 1792126968,
+   "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
+   "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=iamcartigo-20",
+   "cat": "cookware",
+   "label": "Kitchen basics",
+   "icon": "🍳"
+  }
+ ],
+ "trend": [],
+ "themes": [
+  {
+   "key": "halloween",
+   "label": "Halloween",
+   "icon": "🎃"
+  },
+  {
+   "key": "fall",
+   "label": "Fall cozy",
+   "icon": "🍂"
+  },
+  {
+   "key": "christmas",
+   "label": "Christmas gifts",
+   "icon": "🎁"
+  },
+  {
+   "key": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
   }
  ]
 }
