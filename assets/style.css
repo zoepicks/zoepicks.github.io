@@ -292,3 +292,7 @@ a.offer{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(
 a.offer img{width:56px;height:56px;object-fit:contain;background:#fff;border-radius:10px;flex-shrink:0}
 a.offer .ob{min-width:0;flex:1;font-size:14px;line-height:1.35}a.offer .os{color:var(--mut);font-size:13px;margin-top:2px}
 a.offer .op{background:var(--ok);color:#fff;font-weight:800;font-size:13px;border-radius:999px;padding:4px 10px;flex-shrink:0}
+
+a.offers-link{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:14px 0;padding:11px 14px;border-radius:14px;background:var(--card);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-weight:700;font-size:14px}
+a.offers-link span{color:var(--ok);font-weight:800;flex-shrink:0}
+.cp-offers{margin:14px 0}.cp-offers h2{margin:0 0 2px;font-size:18px}.cp-offers .sum{color:var(--mut);font-size:13px;margin:0 0 6px}

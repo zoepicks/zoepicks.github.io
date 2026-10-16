@@ -4,6 +4,7 @@
 <div class="cp-bar"><div class="cp-rail" id="cats" aria-label="Categories"></div></div>
 <main class="wrap">
 <section id="tk" class="cp-tk" hidden><div class="cp-tkh"><b>🔥 Top discounts</b><span id="tkn"></span></div><div class="cp-tkw"><div class="cp-tkt" id="tkt"></div></div></section>
+<section id="zo" class="cp-offers" hidden></section>
 <a id="bn" class="cp-bn" hidden></a>
 <div class="cp-head"><h1 id="t">Guides</h1><span class="cp-count" id="cnt"></span><div class="cp-filters" id="f"></div></div>
 <div class="cp-grid" id="l"><div class="empty">Loading…</div></div>
@@ -49,4 +50,13 @@ Promise.all([guides(),jget("guides/deals.json")]).then(([g,D])=>{
   f.onclick=e=>{const b=e.target.closest("button");if(!b)return;mode=b.dataset.m;f.querySelectorAll("button").forEach(x=>x.classList.toggle("on",x==b));draw()};
   draw();
   const so=g.filter(x=>x.soon);if(so.length){soon.hidden=false;soon.innerHTML="<b>Coming soon</b>"+so.map(x=>`<span>${esc(short(x.title))}</span>`).join("")}
-});document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";</script></body></html>
+});
+(async function(){const j=await jget("guides/offers.json");const C=(j&&j.cats)||{};if(Array.isArray(j))return;
+  const n=Date.now()/1000,fh=((j&&j.fresh_h)||36)*3600;
+  let L=k?(C[k]||[]):Object.values(C).flat().sort((a,b)=>b.pct-a.pct);
+  const seen={};L=L.filter(x=>{if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
+  if(!L.length)return;
+  zo.innerHTML="<h2>Top 3 discounts right now"+(c?" · "+esc(c[2]):"")+"</h2><p class=\"sum\">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>"+
+   L.map(x=>`<a class="offer" href="${esc(x.link)}" rel="sponsored nofollow noopener" target="_blank">${x.img&&/^https:\/\//.test(x.img)?`<img src="${esc(x.img)}" alt="${esc(x.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:""}<div class="ob"><b>${esc(x.name)}</b><div class="os">${[x.price?"$"+esc(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")}</div></div><span class="op">-${x.pct}%</span></a>`).join("");
+  zo.hidden=false})();
+document.querySelector(".cp-bar").style.top=document.querySelector("nav").offsetHeight+"px";</script></body></html>
