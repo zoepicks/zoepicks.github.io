@@ -1520,7 +1520,8 @@
   "category": "fitness_outdoor",
   "high_ticket": true,
   "status": "todo",
-  "priority": 26
+  "priority": 26,
+  "last_try": "Oct 16, 2026"
  },
  {
   "title": "Top Space Heaters for Cold Rooms (2026)",
@@ -1543,7 +1544,7 @@
   "slug": "best-pillows-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 29
  },
  {
