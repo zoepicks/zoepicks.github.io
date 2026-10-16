@@ -38,7 +38,13 @@
    "link": "https://www.amazon.com/s?k=Brooklinen+Down+Comforter&tag=iamcartigo-20",
    "asin": "B0GGN9ZNCX",
    "image": "https://m.media-amazon.com/images/I/71pbU9GweGL.jpg",
-   "image_asin": "B0GGN9ZNCX"
+   "image_asin": "B0GGN9ZNCX",
+   "amazon_price": "$299.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Brooklinen Down Comforter Hotel-Quality Warmth, Breathable - Full/Queen | All-season warmt",
+   "amazon_rating": "3.9",
+   "amazon_reviews": 8,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Layla All-Season Comforter",
@@ -71,7 +77,13 @@
    "link": "https://www.amazon.com/s?k=Layla+All-Season+Comforter&tag=iamcartigo-20",
    "asin": "B093JNRF7M",
    "image": "https://m.media-amazon.com/images/I/81PIBCS7KNL.jpg",
-   "image_asin": "B093JNRF7M"
+   "image_asin": "B093JNRF7M",
+   "amazon_price": "$204.00",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Layla All Season Down Alternative Comforter, (Gray, King/Cal King), 300 Thread Count 100% ",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 45,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Saatva Down Alternative Comforter",
@@ -101,7 +113,10 @@
    "skip_if": "You're on a tight budget",
    "price": "$315",
    "price_asof": "Oct 16, 2026",
-   "link": "https://www.amazon.com/s?k=Saatva+Down+Alternative+Comforter&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Saatva+Down+Alternative+Comforter&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "Cozy Earth Bamboo Viscose Comforter",
@@ -132,7 +147,10 @@
    "skip_if": "You want a fluffy loft or easy machine washing",
    "price": "$388",
    "price_asof": "Oct 16, 2026",
-   "link": "https://www.amazon.com/s?k=Cozy+Earth+Bamboo+Viscose+Comforter&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Cozy+Earth+Bamboo+Viscose+Comforter&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   }
  ]
 }
