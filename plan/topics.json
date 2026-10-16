@@ -1634,14 +1634,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 16, 2026"
  },
  {
   "title": "Best Phone Gimbal (2026)",
   "slug": "best-phone-gimbal-2026",
   "category": "mobiles",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  },
@@ -1661,7 +1662,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 16, 2026"
  },
  {
   "title": "Best Body Pillow (2026)",
@@ -1670,7 +1672,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 16, 2026"
  },
  {
   "title": "Best Laptop Charger (2026)",
