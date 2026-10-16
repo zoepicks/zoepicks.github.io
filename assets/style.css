@@ -301,3 +301,5 @@ a.offers-link span{color:var(--ok);font-weight:800;flex-shrink:0}
 
 .fl{display:flex;flex-wrap:wrap;gap:6px 16px;margin-bottom:10px}.fl a{color:var(--mut);text-decoration:none}.fl a:hover{color:var(--ink);text-decoration:underline}
 .doc{max-width:760px}.doc h2{font-size:20px;margin:26px 0 8px}.doc p,.doc li{line-height:1.7;font-size:15.5px}.doc ul{padding-left:20px}.doc a{color:var(--a)}
+
+.cp-blk{margin-top:14px}.cp-blk:first-of-type{margin-top:4px}
