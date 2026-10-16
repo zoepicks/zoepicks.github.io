@@ -232,6 +232,29 @@ def sync_index_expiry():
             elif not ex[g["slug"]] and "expires" in g: del g["expires"]; ch = True
     if ch: ix.write_text(json.dumps(L, indent=1))
 
+
+def sync_meta():
+    """Add card data to guides/index.json for the category page: n (picks), img (first product image), top (#1 pick),
+    off (biggest 'was' discount % found in the guide's own price text). Only uses what src/*.json already says."""
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text()); meta = {}
+    for f in (ROOT / "src").glob("*.json"):
+        d = json.load(open(f)); P = d.get("products") or []
+        m = {"n": len(P)}
+        img = next((x["image"] for x in P if x.get("image")), None)
+        if img: m["img"] = img
+        if P: m["top"] = P[0].get("short") or P[0].get("name")
+        off = max([(parse_price(x.get("price")) or {}).get("pct", 0) for x in P] or [0])
+        if off: m["off"] = off
+        meta[d["slug"]] = m
+    ch = False
+    for g in L:
+        if g.get("soon") or g["slug"] not in meta: continue
+        m = meta[g["slug"]]
+        for k in ("n", "img", "top", "off"):
+            if m.get(k) and g.get(k) != m[k]: g[k] = m[k]; ch = True
+            elif not m.get(k) and k in g: del g[k]; ch = True
+    if ch: ix.write_text(json.dumps(L, indent=1))
+
 def sync_soon():
     """Keep a 'Coming soon' header row in guides/index.json for every draft guide (src/*.json with "draft": true) so the
     category page lists all planned topics. Rows follow plan priority; a row disappears once the draft becomes a real guide."""
@@ -252,6 +275,7 @@ def rebuild_all(base):
     """Re-render every guide from src/*.json (keeps guides/index.json order). Run after changing assets/og.png."""
     sync_index_expiry()
     sync_soon()
+    sync_meta()
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(retired_html(d, base) if d.get("retired") else render(d, base)); print("ok", out / "index.html")
