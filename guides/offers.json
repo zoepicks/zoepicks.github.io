@@ -1,0 +1,144 @@
+{
+ "v": 3,
+ "updated": "2026-10-16T21:55:40Z",
+ "fresh_h": 36,
+ "cats": {
+  "home_kitchen": [
+   {
+    "asin": "B071CH3TLT",
+    "name": "Hamilton Beach Blender and Food Processor Combo",
+    "pct": 25,
+    "rating": 4.2,
+    "t": 1792187625,
+    "img": "https://m.media-amazon.com/images/I/81QF0Zasx3L.jpg",
+    "link": "https://www.amazon.com/dp/B071CH3TLT?tag=iamcartigo-20",
+    "reviews": 4806
+   }
+  ]
+ },
+ "types": {
+  "gaming": [
+   {
+    "key": "budget-gaming-laptops",
+    "label": "Budget Gaming Laptops",
+    "items": []
+   },
+   {
+    "key": "mechanical-keyboards",
+    "label": "Mechanical Keyboards",
+    "items": []
+   }
+  ],
+  "hobby_music": [
+   {
+    "key": "drawing-tablets",
+    "label": "Drawing Tablets",
+    "items": []
+   },
+   {
+    "key": "usb-microphones",
+    "label": "USB Microphones",
+    "items": []
+   }
+  ],
+  "home_kitchen": [
+   {
+    "key": "food-processors",
+    "label": "Food Processors",
+    "items": [
+     {
+      "asin": "B071CH3TLT",
+      "name": "Hamilton Beach Blender and Food Processor Combo",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1792187625,
+      "img": "https://m.media-amazon.com/images/I/81QF0Zasx3L.jpg",
+      "link": "https://www.amazon.com/dp/B071CH3TLT?tag=iamcartigo-20",
+      "reviews": 4806
+     }
+    ]
+   },
+   {
+    "key": "air-fryers",
+    "label": "Air Fryers",
+    "items": []
+   },
+   {
+    "key": "espresso-machines",
+    "label": "Espresso Machines",
+    "items": []
+   },
+   {
+    "key": "sewing-machines",
+    "label": "Sewing Machines",
+    "items": []
+   },
+   {
+    "key": "space-heaters",
+    "label": "Space Heaters",
+    "items": []
+   },
+   {
+    "key": "juicers",
+    "label": "Juicers",
+    "items": []
+   },
+   {
+    "key": "pillows",
+    "label": "Pillows",
+    "items": []
+   }
+  ],
+  "laptops": [
+   {
+    "key": "laptops",
+    "label": "Laptops",
+    "items": []
+   },
+   {
+    "key": "macbooks",
+    "label": "MacBooks",
+    "items": []
+   },
+   {
+    "key": "tablets",
+    "label": "Tablets",
+    "items": []
+   }
+  ],
+  "mobiles": [
+   {
+    "key": "iphones",
+    "label": "iPhones",
+    "items": []
+   },
+   {
+    "key": "phones",
+    "label": "Phones",
+    "items": []
+   }
+  ],
+  "smart_home": [
+   {
+    "key": "4k-tvs",
+    "label": "4K TVs",
+    "items": []
+   },
+   {
+    "key": "oled-tvs",
+    "label": "OLED TVs",
+    "items": []
+   },
+   {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
+    "items": []
+   },
+   {
+    "key": "soundbars",
+    "label": "Soundbars",
+    "items": []
+   }
+  ]
+ }
+}
