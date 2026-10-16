@@ -39,7 +39,13 @@
    "link": "https://www.amazon.com/s?k=LG+C6+OLED+65+inch&tag=iamcartigo-20",
    "asin": "B0GRKCVS98",
    "image": "https://m.media-amazon.com/images/I/81q7WdgNQ3L.jpg",
-   "image_asin": "B0GRKCVS98"
+   "image_asin": "B0GRKCVS98",
+   "amazon_price": "$999.99",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV, 2026 Model | Dolby Atmos, Dolby Vision",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 113,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Samsung S95H QD-OLED (sold as S99H)",
@@ -71,7 +77,10 @@
    "skip_if": "You are on a strict budget",
    "price": "$2,499 (was $3,399) at Best Buy",
    "price_asof": "Oct 16, 2026",
-   "link": "https://www.amazon.com/s?k=Samsung+S95H+65+inch+OLED&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Samsung+S95H+65+inch+OLED&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 16, 2026",
+   "fill_failed": false
   },
   {
    "name": "LG C5 OLED",
@@ -105,7 +114,10 @@
    "link": "https://www.amazon.com/s?k=LG+C5+OLED+65+inch&tag=iamcartigo-20",
    "asin": "B0DYQM4BDB",
    "image": "https://m.media-amazon.com/images/I/91BV8ujxrJL.jpg",
-   "image_asin": "B0DYQM4BDB"
+   "image_asin": "B0DYQM4BDB",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 1663,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "Samsung S90F OLED",
@@ -139,7 +151,13 @@
    "link": "https://www.amazon.com/s?k=Samsung+S90F+OLED+65+inch&tag=iamcartigo-20",
    "asin": "B0DXMJGQWC",
    "image": "https://m.media-amazon.com/images/I/81a7MINnI9L.jpg",
-   "image_asin": "B0DXMJGQWC"
+   "image_asin": "B0DXMJGQWC",
+   "amazon_price": "$1,497.99",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ4 AI Gen3 Processor Upscaling P",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 635,
+   "amazon_rating_asof": "Oct 16, 2026"
   },
   {
    "name": "TCL QM8L",
@@ -173,7 +191,13 @@
    "link": "https://www.amazon.com/s?k=TCL+QM8L+65+inch&tag=iamcartigo-20",
    "asin": "B0GPSFR1Q4",
    "image": "https://m.media-amazon.com/images/I/81jmymFNFRL.jpg",
-   "image_asin": "B0GPSFR1Q4"
+   "image_asin": "B0GPSFR1Q4",
+   "amazon_price": "$1,528.40",
+   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_listing": "TCL 75 Inch QM8L Series SQD-Mini LED QLED 4K Smart Google TV 75QM8L (2026) | 144Hz, Ultima",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 114,
+   "amazon_rating_asof": "Oct 16, 2026"
   }
  ]
 }
