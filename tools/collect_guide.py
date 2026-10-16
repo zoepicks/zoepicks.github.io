@@ -21,7 +21,8 @@ from bs4 import BeautifulSoup
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks.github.io)"}
 AFF = "iamcartigo-20"
-MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 6
+MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 5   # publish floor 3, cap 5
+ASK_MIN = 4   # the LLM is asked for 4-5 best picks per guide (the 'best 4-5' under the Top-3 discounts)
 PROMPT_CHARS = 2300  # per source, sent to the LLM. Groq free tier = 8000 tokens/min AND per request: prompt(~3.7k)+max_tokens(3.4k) must stay < 8000 or it answers 413
 MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -304,7 +305,7 @@ def build(topic, pages, texts, deals):
     src_block = "\n\n".join(f"[{i}] ({dom}) {txt}" for i, ((dom, _), txt) in enumerate(zip(pages, texts)) if txt)
     deal_block = "\n".join(f"- ({d}) {t}" for d, t in deals[:15]) or "(none)"
     prompt = f"""Topic: {topic['title']}
-Pick {MIN_PRODUCTS}-{MAX_PRODUCTS} products that the sources below recommend. Prefer products recommended by MORE THAN ONE source.
+Pick {ASK_MIN}-{MAX_PRODUCTS} products that the sources below recommend, best first. Prefer products recommended by MORE THAN ONE source.
 Return JSON: {{"summary": "one sentence", "method": "how picks were made, naming the sites used", "assumptions": "price caveats",
 "products": [{{"name": "full product name", "short": "short name", "badge": "e.g. Best Overall", "why": ["2 short paragraphs, facts from sources"],
 "specs": ["up to 6 specs, exactly as stated"], "pros": ["3-4"], "cons": ["2-4"], "best_for": "who", "skip_if": "when to skip",
