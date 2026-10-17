@@ -323,15 +323,21 @@ a.dl-c .dl-d{font-size:11px;font-weight:700;color:#c2410c}
 a.dl-c b{position:absolute;top:8px;right:8px;background:linear-gradient(135deg,#ff416c,#ff4b2b);color:#fff;font-size:12px;font-weight:800;border-radius:999px;padding:3px 8px;letter-spacing:.01em}
 .dl-n{font-size:11px;line-height:1.3;color:var(--mut);margin:4px 2px 0}
 
-/* ===== v5: compact product cards (Amazon-style density, 3 per phone screen) ===== */
-.card{padding:9px 11px;margin:9px 0;border-radius:14px}
-.card .rank{margin:0 0 5px;font-size:10.5px;padding:2px 8px;line-height:1.3}
-.top{gap:10px;align-items:center}
-.top .thumb{flex:0 0 84px;width:84px;height:84px;border-radius:10px}
-.card h3{font-size:14.5px;line-height:1.25;margin:0 0 2px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.rt{margin:0 0 2px;gap:4px;flex-wrap:nowrap;white-space:nowrap}.rt .stars{font-size:13px}.rt b{font-size:13px}.rt .rn{font-size:12px}
-.now{font-size:20px}.was{font-size:12.5px}.off{font-size:11.5px;padding:2px 7px}
-.sub{font-size:11.5px;margin-top:1px;line-height:1.3}.sub .save{font-size:12px}
-.card .best{margin:5px 0 0;font-size:12.5px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
-.card .btn{margin-top:7px;min-height:38px;font-size:14.5px;border-radius:10px}
-.more-d{margin-top:6px;padding-top:5px}.more-d summary{font-size:13px}
+/* ===== v6: compact guide rows (.dr) - Amazon-like density ===== */
+.dr-list{grid-template-columns:minmax(0,1fr);gap:8px;margin:6px 0 14px}
+@media(min-width:760px){.dr-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.dr{min-width:0}
+.dr{padding:8px 9px;border-radius:14px}
+.dr-t{gap:9px}
+.dr-im{width:76px;height:76px;border-radius:10px}.dr-ph{font-size:28px}
+.dr-off{font-size:11px;padding:2px 6px}
+.dr-b{flex-direction:row;flex-wrap:wrap;align-items:baseline;gap:1px 6px}
+.dr-b>*{flex:0 0 100%;min-width:0}
+.dr-tag{order:1;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.dr-b h3{order:2;font-size:14px;line-height:1.22}
+.dr-b .rt{order:3;flex:1 1 auto;margin:0;font-size:12px;white-space:nowrap;gap:4px}.dr-b .rt .stars{font-size:12px}.dr-b .rt b{font-size:12.5px}.dr-b .rt .rn{font-size:11.5px}
+.dr-pr{order:4;flex:0 0 auto;margin-left:auto}.dr-pr b{font-size:18px}.dr-pr s{font-size:12px}
+.dr-sv{order:6;font-size:11px;line-height:1.25}.dr-sv:empty{display:none}
+.dr-bf{order:5;font-size:12px;line-height:1.3;-webkit-line-clamp:1}
+.dr-btn{order:7;margin-top:4px;padding:6px 10px;font-size:12.5px;border-radius:9px;line-height:1.2}
+.dr-d{margin-top:5px;padding-top:4px}.dr-d summary{font-size:12px}
