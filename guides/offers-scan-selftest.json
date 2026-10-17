@@ -1,221 +1,31 @@
 {
- "at": "2026-10-17T08:27:22.015616+00:00",
- "probe": {
-  "captcha_before": 0,
+ "at": "2026-10-17T08:29:36.832410+00:00",
+ "browser_probe": {
   "pages": {
    "search": {
     "status": 200,
-    "bytes": 2217,
-    "captcha_markers": false,
-    "title": "<title>&nbsp;</title><script> var i = 1792225642; var j = i + Number(\"6195\" + \"01189\"); </script> </head> <noscript> <iframe style=\"border: ",
-    "asin_cards": 0
+    "bytes": 1531515,
+    "cards": 51,
+    "strike_prices": 9,
+    "captcha": false,
+    "title": "Amazon.com : laptop"
    },
-   "deals_filter": {
+   "computers_deals_discount": {
     "status": 200,
-    "bytes": 2350,
-    "captcha_markers": false,
-    "title": "<title>&nbsp;</title><script> var i = 1792225648; var j = i + Number(\"3690\" + \"83060\"); </script> </head> <noscript> <iframe style=\"border: ",
-    "asin_cards": 0
+    "bytes": 1057593,
+    "cards": 51,
+    "strike_prices": 29,
+    "captcha": false,
+    "title": "Amazon.com"
    },
-   "bestsellers": {
+   "computers_deals_only": {
     "status": 200,
-    "bytes": 446245,
-    "captcha_markers": false,
-    "title": "<title>Amazon Best Sellers: Best Electronics</title> <meta name=\"description\" content=\"Discover the best Electronics in Best Sellers.  Find ",
-    "asin_cards": 30
+    "bytes": 1058407,
+    "cards": 50,
+    "strike_prices": 28,
+    "captcha": false,
+    "title": "Amazon.com"
    }
-  },
-  "captcha_after": 0
- },
- "scopes": [
-  {
-   "category": "beauty_health",
-   "alias": "beauty",
-   "kw": null,
-   "deals_plus_discount": "no answer",
-   "deals_only": "no answer"
-  },
-  {
-   "category": "beauty_health",
-   "alias": "hpc",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "electronics",
-   "alias": "electronics",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "fashion",
-   "alias": "fashion",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "fitness_outdoor",
-   "alias": "sporting",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "furniture_decor",
-   "alias": "garden",
-   "kw": "furniture",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "furniture_decor",
-   "alias": "garden",
-   "kw": "mattress",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "gaming",
-   "alias": "videogames",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "hobby_music",
-   "alias": "arts-crafts",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "hobby_music",
-   "alias": "mi",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "home_kitchen",
-   "alias": "kitchen",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "home_kitchen",
-   "alias": "appliances",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "laptops",
-   "alias": "computers",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "mobiles",
-   "alias": "mobile",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "mobiles",
-   "alias": "electronics",
-   "kw": "smartwatch",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "monitors",
-   "alias": "computers",
-   "kw": "monitor",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "monitors",
-   "alias": "electronics",
-   "kw": "television",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "monitors",
-   "alias": "electronics",
-   "kw": "projector",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "office_books",
-   "alias": "office-products",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "office_books",
-   "alias": "stripbooks",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "pets",
-   "alias": "pets",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "smart_home",
-   "alias": "electronics",
-   "kw": "smart home",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "smart_home",
-   "alias": "electronics",
-   "kw": "security camera",
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "tools_auto",
-   "alias": "tools",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "tools_auto",
-   "alias": "automotive",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "toys_kids",
-   "alias": "toys-and-games",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
-  },
-  {
-   "category": "toys_kids",
-   "alias": "baby-products",
-   "kw": null,
-   "deals_plus_discount": "BLOCKED",
-   "deals_only": "BLOCKED"
   }
- ]
+ }
 }
