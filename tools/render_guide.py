@@ -291,9 +291,9 @@ def ld_json(d, base):
     return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": [art, bc]}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
 
 def offers_html(d):
-    """Today's top discounts for THIS guide's product type (food-processors -> the Food Processors guide), read client-side from
-    guides/offers.json. The category page no longer shows them. Nothing is drawn (section stays hidden) when there is no fresh
-    verified discount for this type."""
+    """Compact 'Deals today' strip for THIS guide's product type: one small label + a horizontally scrollable row of chips
+    (product name + discount pill), read client-side from guides/offers.json. Stays hidden when there is no fresh verified
+    discount for this type. Shows ONLY name + discount; all other detail is in the picks below."""
     js = r"""(function(){var S=%S%,C=%C%,A=%A%;
 fetch("../../guides/offers.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(j){
 var T=(j&&j.types)||{},fh=((j&&j.fresh_h)||36)*3600,n=Date.now()/1000,best=null,bl=0,s="-"+S+"-";
@@ -303,13 +303,13 @@ if(!best)return;
 var seen={},L=(best.items||[]).filter(function(x){if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
 if(!L.length)return;
 var E=function(v){return String(v==null?"":v).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
-var card=function(x){return '<a class="offer" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank"><div class="ob"><b>'+E(x.name)+'</b></div><span class="op">-'+E(x.pct)+'%%</span></a>'};
-var z=document.getElementById("zo");z.innerHTML='<h2>'+(L.length>1?"Top "+L.length+" discounts":"Top discount")+' right now \u00b7 '+E(best.label)+'</h2><p class="sum">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>'+L.map(card).join("");z.hidden=false;
+var chip=function(x){return '<a class="dl-c" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank"><span class="dl-t">'+E(x.name)+'</span><b>-'+E(x.pct)+'%%</b></a>'};
+var z=document.getElementById("zo");z.innerHTML='<div class="dl-h"><i></i>Deals today \u00b7 '+E(best.label)+'</div><div class="dl-r">'+L.map(chip).join("")+'</div><p class="dl-n">Prices change fast. Confirm on Amazon before buying.</p>';z.hidden=false;
 }).catch(function(){})})();"""
     also = d.get("also") or []
     also = [also] if isinstance(also, str) else list(also)
     js = js.replace("%S%", json.dumps(d["slug"])).replace("%C%", json.dumps(d["category"])).replace("%A%", json.dumps(also)).replace("%%", "%")
-    return '<section id="zo" class="offers" hidden></section><script>' + js.replace("</", "<\\/") + "</script>"
+    return '<section id="zo" class="dl" hidden></section><script>' + js.replace("</", "<\\/") + "</script>"
 
 def render(d, base=""):
     d = dict(d, products=visible_products(d["products"]))
