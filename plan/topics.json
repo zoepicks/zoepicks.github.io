@@ -1766,5 +1766,23 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 17, 2026"
+ },
+ {
+  "title": "Best Mattress (2026)",
+  "slug": "best-mattress-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Face Wash (2026)",
+  "slug": "best-face-wash-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
