@@ -1,21 +1,7 @@
-[collect] topic: Best Food Blender (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-personal-blender
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-personal-blender
-[collect] 3/4 source pages fetched
-[collect] llm request: 3 sources x 3185 chars, ~3583 in + 3400 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 197,479 requested 2,703 -> skipped for this run
-[collect] drop (only 1 sources): Vitamix Ascent X5 Blender
-[collect] FAILED best-food-blender-2026: 'str' object has no attribute 'get'
-Traceback (most recent call last):
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 463, in <module>
-    main()
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 440, in main
-    run_topic(plan, topic, dry)
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 392, in run_topic
-    products = ground(g, pages, texts)
-               ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 358, in ground
-    doms = {pages[i][0] for i, t in enumerate(texts) if t and mentioned(p.get("name", ""), t)}
-                                                                        ^^^^^
-AttributeError: 'str' object has no attribute 'get'
+[collect] topic: Best Usb-C Charger (2026)
+[collect] tavily -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-usb-car-charger
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-usb-car-charger
+[collect] 1/2 source pages fetched
+[collect] FAILED best-usb-c-charger-2026: not enough sources fetched; topic left as todo
+not enough sources fetched; topic left as todo
