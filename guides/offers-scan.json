@@ -2685,6 +2685,52 @@
    "tries": 1,
    "items": [],
    "scanned": "2026-10-17T15:42:50.744283+00:00"
+  },
+  "accessories:computer-mouse": {
+   "label": "Computer Mouse",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0FJRL7593",
+     "name": "Wireless Keyboard and Mouse Combo",
+     "pct": 10,
+     "rating": 4.2,
+     "t": 1792262034,
+     "img": "https://m.media-amazon.com/images/I/81f8wTmOjQL.jpg",
+     "link": "https://www.amazon.com/dp/B0FJRL7593?tag=iamcartigo-20",
+     "now": "179.99",
+     "was": "199.99",
+     "deal": "Limited time deal",
+     "reviews": 5520,
+     "_title": "Wireless Keyboard and Mouse Combo, EDJO 2.4G Full-Sized Ergonomic Computer Keyboard with Wrist Rest and 3 Level DPI Adjust...",
+     "_price": 179.99
+    }
+   ],
+   "scanned": "2026-10-17T18:33:54.949588+00:00",
+   "via": "sweep"
+  },
+  "accessories:mechanical-keyboards": {
+   "label": "Mechanical Keyboards",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0D598CMF3",
+     "name": "Womier PBT Black Keyboard Keycaps",
+     "pct": 13,
+     "rating": 4.5,
+     "t": 1792262034,
+     "img": "https://m.media-amazon.com/images/I/71gwq7RagmL.jpg",
+     "link": "https://www.amazon.com/dp/B0D598CMF3?tag=iamcartigo-20",
+     "now": "19.99",
+     "was": "22.99",
+     "deal": "Limited time deal",
+     "reviews": 733,
+     "_title": "Womier PBT Black Keyboard Keycaps, Japanese MOA Keycaps Set | Mechanical Keyboard Caps, Cute Custom Dye-Sublimation Keycap...",
+     "_price": 19.99
+    }
+   ],
+   "scanned": "2026-10-17T18:33:54.949588+00:00",
+   "via": "sweep"
   }
  },
  "sweeps": {
@@ -2775,6 +2821,14 @@
    "offer_cards": 204,
    "types_hit": 3,
    "types": 4
+  },
+  "accessories": {
+   "at": "2026-10-17T18:33:54.949588+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 2,
+   "types": 3
   }
  }
 }
