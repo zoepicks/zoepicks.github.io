@@ -303,7 +303,7 @@ if(!best)return;
 var seen={},L=(best.items||[]).filter(function(x){if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
 if(!L.length)return;
 var E=function(v){return String(v==null?"":v).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
-var chip=function(x){return '<a class="dl-c" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank"><span class="dl-t">'+E(x.name)+'</span><b>-'+E(x.pct)+'%%</b></a>'};
+var chip=function(x){var im=/^https:\\/\\//.test(x.img||"")?'<img class="dl-i" src="'+E(x.img)+'" alt="" loading="lazy" referrerpolicy="no-referrer">':'<span class="dl-i"></span>';var pr=(x.now&&x.was)?'<span class="dl-p"><strong>$'+E(x.now)+'</strong><s>$'+E(x.was)+'</s></span>':'';var dd=x.deal?'<span class="dl-d">'+E(x.deal)+'</span>':'';return '<a class="dl-c" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank">'+im+'<span class="dl-b"><span class="dl-t">'+E(x.name)+'</span>'+pr+dd+'</span><b>-'+E(x.pct)+'%%</b></a>'};
 var z=document.getElementById("zo");z.innerHTML='<div class="dl-h"><i></i>Deals today \u00b7 '+E(best.label)+'</div><div class="dl-r">'+L.map(chip).join("")+'</div><p class="dl-n">Prices change fast. Confirm on Amazon before buying.</p>';z.hidden=false;
 }).catch(function(){})})();"""
     also = d.get("also") or []
