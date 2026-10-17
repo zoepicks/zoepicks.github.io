@@ -2,9 +2,119 @@
  "slug": "best-gaming-phones-2026",
  "title": "Top Phones for Mobile Gaming (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on phone reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 17, 2026",
+ "summary": "The top mobile gaming phones for 2026 are led by the Asus ROG Phone 9 Pro, followed by the iPhone 17 Pro Max, Samsung Galaxy S25 Ultra, and RedMagic 11 Pro.",
+ "method": "Picks were based on mentions in the provided sources, giving priority to devices referenced by more than one site (ROG Phone 9 Pro and iPhone 17 Pro Max). Sources used: Android Authority (0), Tom’s Guide (1), PCMag (2), TechRadar (3), GSMArena (4).",
+ "assumptions": "Prices are omitted unless explicitly stated in a source; no external pricing data was added.",
+ "products": [
+  {
+   "name": "Asus ROG Phone 9 Pro",
+   "short": "ROG Phone 9 Pro",
+   "badge": "Best Overall",
+   "why": [
+    "The Asus ROG Phone 9 Pro is highlighted across four sources (Tom’s Guide, PCMag, TechRadar, GSMArena) as the top‑tier gaming handset, praised for its massive performance, high‑refresh‑rate display and gamer‑focused design.",
+    "Its combination of a powerful chipset, advanced cooling system and premium audio makes it stand out for competitive mobile gamers."
+   ],
+   "specs": [
+    "Class‑leading performance",
+    "Super‑high refresh rate",
+    "Ample memory and storage",
+    "Rich audio",
+    "Top‑notch design and build"
+   ],
+   "pros": [
+    "Tremendous performance",
+    "Gorgeous visuals",
+    "Immersive audio",
+    "Robust cooling system"
+   ],
+   "cons": [
+    "Expensive",
+    "Lacks mmWave 5G support"
+   ],
+   "best_for": "Hardcore mobile gamers who want the fastest, most feature‑rich device",
+   "skip_if": "You’re on a tight budget or need extensive 5G coverage",
+   "link": "https://www.amazon.com/s?k=Asus+ROG+Phone%E2%80%AF9%E2%80%AFPro&tag=iamcartigo-20"
+  },
+  {
+   "name": "Apple iPhone 17 Pro Max",
+   "short": "iPhone 17 Pro Max",
+   "badge": "Best iPhone",
+   "why": [
+    "Both Tom’s Guide and PCMag list the iPhone 17 Pro Max among their top gaming phones, citing its top‑notch performance and large, bright screen for gaming.",
+    "Its iOS ecosystem and powerful GPU deliver smooth gameplay across a wide range of titles."
+   ],
+   "specs": [
+    "Top‑notch performance",
+    "Large, bright screen"
+   ],
+   "pros": [
+    "Excellent performance",
+    "High‑quality display",
+    "Strong ecosystem support"
+   ],
+   "cons": [
+    "High price point",
+    "Limited customization compared to Android gaming phones"
+   ],
+   "best_for": "iOS users seeking premium gaming performance",
+   "skip_if": "You prefer Android or need a lower‑cost device",
+   "link": "https://www.amazon.com/s?k=Apple+iPhone%E2%80%AF17%E2%80%AFPro%E2%80%AFMax&tag=iamcartigo-20"
+  },
+  {
+   "name": "Samsung Galaxy S25 Ultra",
+   "short": "Galaxy S25 Ultra",
+   "badge": "Best Flagship",
+   "why": [
+    "PCMag’s Editors’ Choice highlights the Galaxy S25 Ultra for its ultimate Android power, AI features and sharp anti‑reflective screen, positioning it as a strong gaming contender.",
+    "Its long software support window adds value for users who want a future‑proof device."
+   ],
+   "specs": [
+    "Class‑leading performance",
+    "Powerful AI features",
+    "Excellent cameras",
+    "Sharp, anti‑reflective screen",
+    "Long software support window"
+   ],
+   "pros": [
+    "High performance",
+    "Great display",
+    "Strong camera system"
+   ],
+   "cons": [
+    "Expensive",
+    "Less S Pen functionality than previous generation"
+   ],
+   "best_for": "Android power users who want a flagship phone that also handles games well",
+   "skip_if": "You need a dedicated gaming phone with extra controls",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy%E2%80%AFS25%E2%80%AFUltra&tag=iamcartigo-20"
+  },
+  {
+   "name": "RedMagic 11 Pro",
+   "short": "RedMagic 11 Pro",
+   "badge": "Best Value Android",
+   "why": [
+    "GSMArena recommends the RedMagic 11 Pro as the best Android gaming phone with the latest hardware and best battery life, noting its Snapdragon 8 Elite Gen 5 chipset and advanced cooling system.",
+    "It also offers physical shoulder triggers and a massive battery with fast charging, appealing to gamers on a budget."
+   ],
+   "specs": [
+    "Snapdragon 8 Elite Gen 5 chipset",
+    "Advanced cooling system",
+    "Physical shoulder triggers",
+    "Massive battery with quick charging"
+   ],
+   "pros": [
+    "Powerful chipset",
+    "Effective cooling",
+    "Large battery"
+   ],
+   "cons": [
+    "Awkward English translations in software",
+    "Unpolished software experience"
+   ],
+   "best_for": "Gamers who want high performance without paying flagship prices",
+   "skip_if": "You prioritize polished software and multilingual support",
+   "link": "https://www.amazon.com/s?k=RedMagic%E2%80%AF11%E2%80%AFPro&tag=iamcartigo-20"
+  }
+ ]
 }
