@@ -1,23 +1,9 @@
 {
  "v": 3,
- "updated": "2026-10-17T08:51:55Z",
+ "updated": "2026-10-17T09:23:05Z",
  "fresh_h": 36,
  "cats": {
   "electronics": [
-   {
-    "asin": "B0CSXV3GK4",
-    "name": "Wireless Earbuds 75H Bluetooth 5.4 Sport Headphones",
-    "pct": 39,
-    "rating": 4.3,
-    "t": 1792225921,
-    "img": "https://m.media-amazon.com/images/I/71NMUHszF4L.jpg",
-    "link": "https://www.amazon.com/dp/B0CSXV3GK4?tag=iamcartigo-20",
-    "now": "24.34",
-    "was": "39.99",
-    "deal": "Limited time deal",
-    "reviews": 26471,
-    "tier": "budget"
-   },
    {
     "asin": "B0DGKWQMSM",
     "name": "TOZO Hybrid Active Noise Cancelling in Ear Wireless Earbuds",
@@ -30,7 +16,7 @@
     "was": "45.99",
     "deal": "Limited time deal",
     "reviews": 28041,
-    "tier": "mid"
+    "tier": "budget"
    },
    {
     "asin": "B0H4W5CFTR",
@@ -44,6 +30,20 @@
     "was": "199.99",
     "deal": "Limited time deal",
     "reviews": 46,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0GZZ7C12J",
+    "name": "ELEGOO Centauri 2 Combo 3D Printer",
+    "pct": 29,
+    "rating": 4.1,
+    "t": 1792227334,
+    "img": "https://m.media-amazon.com/images/I/71bI37cVpzL.jpg",
+    "link": "https://www.amazon.com/dp/B0GZZ7C12J?tag=iamcartigo-20",
+    "now": "328.99",
+    "was": "461.99",
+    "deal": "Limited time deal",
+    "reviews": 3687,
     "tier": "premium"
    }
   ],
@@ -73,6 +73,50 @@
     "was": "37.99",
     "deal": "Limited time deal",
     "reviews": 5378
+   }
+  ],
+  "fitness_outdoor": [
+   {
+    "asin": "B0G4CSRLHV",
+    "name": "WolfWise Pop Up Shower Tent",
+    "pct": 13,
+    "rating": 4.4,
+    "t": 1792227409,
+    "img": "https://m.media-amazon.com/images/I/6197tFXtdOL.jpg",
+    "link": "https://www.amazon.com/dp/B0G4CSRLHV?tag=iamcartigo-20",
+    "now": "34.88",
+    "was": "39.99",
+    "deal": "Limited time deal",
+    "reviews": 9462,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0D7QL1LHC",
+    "name": "Coleman Skydome Camping Tent",
+    "pct": 32,
+    "rating": 4.3,
+    "t": 1792227409,
+    "img": "https://m.media-amazon.com/images/I/61jcR12+JtL.jpg",
+    "link": "https://www.amazon.com/dp/B0D7QL1LHC?tag=iamcartigo-20",
+    "now": "129.99",
+    "was": "189.99",
+    "deal": "Limited time deal",
+    "reviews": 472,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0D7QG97H6",
+    "name": "Coleman Skydome Dark Room Camping Tent",
+    "pct": 26,
+    "rating": 4.1,
+    "t": 1792227409,
+    "img": "https://m.media-amazon.com/images/I/61XU4IA+L2L.jpg",
+    "link": "https://www.amazon.com/dp/B0D7QG97H6?tag=iamcartigo-20",
+    "now": "199.99",
+    "was": "269.99",
+    "deal": "Limited time deal",
+    "reviews": 145,
+    "tier": "premium"
    }
   ],
   "furniture_decor": [
@@ -175,7 +219,8 @@
     "now": "32.99",
     "was": "59.99",
     "deal": "Limited time deal",
-    "reviews": 281
+    "reviews": 281,
+    "tier": "budget"
    },
    {
     "asin": "B01LY6Z2M6",
@@ -188,22 +233,36 @@
     "now": "99.99",
     "was": "139.99",
     "deal": "Limited time deal",
-    "reviews": 57162
+    "reviews": 57162,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0DB8G1W5D",
+    "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1792227560,
+    "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
+    "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=iamcartigo-20",
+    "now": "759.98",
+    "was": "1,077.80",
+    "deal": "Limited time deal",
+    "reviews": 24,
+    "tier": "premium"
    }
   ],
   "home_kitchen": [
    {
-    "asin": "B0H6ZSMYS7",
-    "name": "Food Processor with 2 Bowls",
-    "pct": 40,
-    "rating": 4.2,
-    "t": 1792226594,
-    "img": "https://m.media-amazon.com/images/I/81mMwh2ijuL.jpg",
-    "link": "https://www.amazon.com/dp/B0H6ZSMYS7?tag=iamcartigo-20",
-    "now": "29.98",
-    "was": "49.99",
-    "deal": "Limited time deal",
-    "reviews": 66,
+    "asin": "B0B7JRZ6LX",
+    "name": "BEDELITE Fleece Queen Comforter Set",
+    "pct": 46,
+    "rating": 4.6,
+    "t": 1792227575,
+    "img": "https://m.media-amazon.com/images/I/71pudUiBJeL.jpg",
+    "link": "https://www.amazon.com/dp/B0B7JRZ6LX?tag=iamcartigo-20",
+    "now": "28.99",
+    "was": "53.99",
+    "reviews": 6397,
     "tier": "budget"
    },
    {
@@ -322,6 +381,65 @@
     "reviews": 979,
     "tier": "premium"
    }
+  ],
+  "monitors": [
+   {
+    "asin": "B0GC9PQ41M",
+    "name": "MOKiN Laptop Docking Station Dual Monitor 4K HDMI USB C Hub",
+    "pct": 18,
+    "rating": 4.3,
+    "t": 1792226749,
+    "img": "https://m.media-amazon.com/images/I/71CvG4DYPHL.jpg",
+    "link": "https://www.amazon.com/dp/B0GC9PQ41M?tag=iamcartigo-20",
+    "now": "35.99",
+    "was": "43.99",
+    "deal": "Limited time deal",
+    "reviews": 6184
+   }
+  ],
+  "smart_home": [
+   {
+    "asin": "B0H5CL8DLL",
+    "name": "Google TV Smart Projector 4K",
+    "pct": 60,
+    "rating": 4.5,
+    "t": 1792227170,
+    "img": "https://m.media-amazon.com/images/I/71bZUNVDSIL.jpg",
+    "link": "https://www.amazon.com/dp/B0H5CL8DLL?tag=iamcartigo-20",
+    "now": "198.98",
+    "was": "498.99",
+    "deal": "Limited time deal",
+    "reviews": 25,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0HBQX47FV",
+    "name": "Portable Smart Projector [Bundled",
+    "pct": 53,
+    "rating": 4.4,
+    "t": 1792227170,
+    "img": "https://m.media-amazon.com/images/I/81NHpGrjE+L.jpg",
+    "link": "https://www.amazon.com/dp/B0HBQX47FV?tag=iamcartigo-20",
+    "now": "219.99",
+    "was": "469.99",
+    "deal": "Limited time deal",
+    "reviews": 821,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0HDN32NF5",
+    "name": "[VIDAA Live TV & 6000 ANSI & Now",
+    "pct": 47,
+    "rating": 4.8,
+    "t": 1792227170,
+    "img": "https://m.media-amazon.com/images/I/71xS9zvt8fL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDN32NF5?tag=iamcartigo-20",
+    "now": "299.99",
+    "was": "569.99",
+    "deal": "Limited time deal",
+    "reviews": 111,
+    "tier": "premium"
+   }
   ]
  },
  "types": {
@@ -370,6 +488,54 @@
       "was": "199.99",
       "deal": "Limited time deal",
       "reviews": 46,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "record-players",
+    "label": "Record Players",
+    "items": [
+     {
+      "asin": "B0GTYVHFRQ",
+      "name": "MANGOSTAN Wood Finish Bluetooth Record Player",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/81C0NrQbviL.jpg",
+      "link": "https://www.amazon.com/dp/B0GTYVHFRQ?tag=iamcartigo-20",
+      "now": "41.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 46,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GFV7MVB9",
+      "name": "VinylsLink Vinyl Record Player Bluetooth Turntable",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/71RswQTbBdL.jpg",
+      "link": "https://www.amazon.com/dp/B0GFV7MVB9?tag=iamcartigo-20",
+      "now": "55.99",
+      "was": "111.99",
+      "deal": "Limited time deal",
+      "reviews": 91,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07H8VG9BB",
+      "name": "1 BY ONE Bluetooth Turntable HiFi System",
+      "pct": 24,
+      "rating": 4.4,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/61oZbnatRCL.jpg",
+      "link": "https://www.amazon.com/dp/B07H8VG9BB?tag=iamcartigo-20",
+      "now": "189.99",
+      "was": "249.99",
+      "deal": "Limited time deal",
+      "reviews": 3513,
       "tier": "premium"
      }
     ]
@@ -425,17 +591,68 @@
    {
     "key": "3d-printers",
     "label": "3d Printers",
-    "items": []
+    "items": [
+     {
+      "asin": "B0CQJVF7CR",
+      "name": "2026 New Creality Space PI Filament Dryer-Christmas Gifts",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1792227334,
+      "img": "https://m.media-amazon.com/images/I/61aSzncMEgL.jpg",
+      "link": "https://www.amazon.com/dp/B0CQJVF7CR?tag=iamcartigo-20",
+      "now": "59.99",
+      "was": "85.99",
+      "deal": "Limited time deal",
+      "reviews": 455,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GZZ7C12J",
+      "name": "ELEGOO Centauri 2 Combo 3D Printer",
+      "pct": 29,
+      "rating": 4.1,
+      "t": 1792227334,
+      "img": "https://m.media-amazon.com/images/I/71bI37cVpzL.jpg",
+      "link": "https://www.amazon.com/dp/B0GZZ7C12J?tag=iamcartigo-20",
+      "now": "328.99",
+      "was": "461.99",
+      "deal": "Limited time deal",
+      "reviews": 3687,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H1GSY79Y",
+      "name": "FLASHFORGE Creator 5 Pro 3D Printer",
+      "pct": 23,
+      "rating": 4.0,
+      "t": 1792227334,
+      "img": "https://m.media-amazon.com/images/I/61D-7PEOjYL.jpg",
+      "link": "https://www.amazon.com/dp/B0H1GSY79Y?tag=iamcartigo-20",
+      "now": "848.99",
+      "was": "1,099.00",
+      "deal": "Limited time deal",
+      "reviews": 123,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "e-readers",
     "label": "E Readers",
-    "items": []
-   },
-   {
-    "key": "record-players",
-    "label": "Record Players",
-    "items": []
+    "items": [
+     {
+      "asin": "B0H8SZ945Y",
+      "name": "XTEINK X4 Classic Pocket eReader",
+      "pct": 11,
+      "rating": 4.0,
+      "t": 1792227349,
+      "img": "https://m.media-amazon.com/images/I/61XA5ESbDrL.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=iamcartigo-20",
+      "now": "79.00",
+      "was": "89.00",
+      "reviews": 67
+     }
+    ]
    }
   ],
   "fashion": [
@@ -476,7 +693,50 @@
    {
     "key": "camping-tents",
     "label": "Camping Tents",
-    "items": []
+    "items": [
+     {
+      "asin": "B0G4CSRLHV",
+      "name": "WolfWise Pop Up Shower Tent",
+      "pct": 13,
+      "rating": 4.4,
+      "t": 1792227409,
+      "img": "https://m.media-amazon.com/images/I/6197tFXtdOL.jpg",
+      "link": "https://www.amazon.com/dp/B0G4CSRLHV?tag=iamcartigo-20",
+      "now": "34.88",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 9462,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0D7QL1LHC",
+      "name": "Coleman Skydome Camping Tent",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1792227409,
+      "img": "https://m.media-amazon.com/images/I/61jcR12+JtL.jpg",
+      "link": "https://www.amazon.com/dp/B0D7QL1LHC?tag=iamcartigo-20",
+      "now": "129.99",
+      "was": "189.99",
+      "deal": "Limited time deal",
+      "reviews": 472,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D7QG97H6",
+      "name": "Coleman Skydome Dark Room Camping Tent",
+      "pct": 26,
+      "rating": 4.1,
+      "t": 1792227409,
+      "img": "https://m.media-amazon.com/images/I/61XU4IA+L2L.jpg",
+      "link": "https://www.amazon.com/dp/B0D7QG97H6?tag=iamcartigo-20",
+      "now": "199.99",
+      "was": "269.99",
+      "deal": "Limited time deal",
+      "reviews": 145,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "walking-pads",
@@ -624,7 +884,8 @@
       "now": "32.99",
       "was": "59.99",
       "deal": "Limited time deal",
-      "reviews": 281
+      "reviews": 281,
+      "tier": "budget"
      },
      {
       "asin": "B01LY6Z2M6",
@@ -637,19 +898,89 @@
       "now": "99.99",
       "was": "139.99",
       "deal": "Limited time deal",
-      "reviews": 57162
+      "reviews": 57162,
+      "tier": "mid"
+     }
+    ]
+   },
+   {
+    "key": "drawing-tablets",
+    "label": "Drawing Tablets",
+    "items": [
+     {
+      "asin": "B0BNQ6QM64",
+      "name": "HUION Inspiroy 2 Medium Drawing Tablet",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1792227560,
+      "img": "https://m.media-amazon.com/images/I/41a9ExjxDBL.jpg",
+      "link": "https://www.amazon.com/dp/B0BNQ6QM64?tag=iamcartigo-20",
+      "now": "63.99",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 992,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F6Y18Y5P",
+      "name": "XP-PEN Artist 13.3 Pro V2 Drawing Tablet",
+      "pct": 26,
+      "rating": 4.4,
+      "t": 1792227560,
+      "img": "https://m.media-amazon.com/images/I/61O5gip75PL.jpg",
+      "link": "https://www.amazon.com/dp/B0F6Y18Y5P?tag=iamcartigo-20",
+      "now": "199.99",
+      "was": "269.99",
+      "deal": "Limited time deal",
+      "reviews": 104,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DB8G1W5D",
+      "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
+      "pct": 29,
+      "rating": 4.5,
+      "t": 1792227560,
+      "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
+      "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=iamcartigo-20",
+      "now": "759.98",
+      "was": "1,077.80",
+      "deal": "Limited time deal",
+      "reviews": 24,
+      "tier": "premium"
      }
     ]
    },
    {
     "key": "cameras-beginners",
     "label": "Cameras Beginners",
-    "items": []
-   },
-   {
-    "key": "drawing-tablets",
-    "label": "Drawing Tablets",
-    "items": []
+    "items": [
+     {
+      "asin": "B0DH28GGNZ",
+      "name": "4K Digital Camera for Beginners & Teens",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1792227522,
+      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=iamcartigo-20",
+      "now": "59.99",
+      "was": "79.99",
+      "reviews": 1560
+     },
+     {
+      "asin": "B0H58GGRGY",
+      "name": "ULPTXOO 4K Digital Camera",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1792227522,
+      "img": "https://m.media-amazon.com/images/I/71+KY-FE+bL.jpg",
+      "link": "https://www.amazon.com/dp/B0H58GGRGY?tag=iamcartigo-20",
+      "now": "63.98",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 26
+     }
+    ]
    }
   ],
   "home_kitchen": [
@@ -702,6 +1033,52 @@
     ]
    },
    {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
+    "items": [
+     {
+      "asin": "B0CVVJ5D94",
+      "name": "CozyLux Queen Comforter Set Black",
+      "pct": 41,
+      "rating": 4.4,
+      "t": 1792227575,
+      "img": "https://m.media-amazon.com/images/I/71ICgsQ7t1L.jpg",
+      "link": "https://www.amazon.com/dp/B0CVVJ5D94?tag=iamcartigo-20",
+      "now": "26.99",
+      "was": "45.99",
+      "deal": "Limited time deal",
+      "reviews": 2740,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0B7JRZ6LX",
+      "name": "BEDELITE Fleece Queen Comforter Set",
+      "pct": 46,
+      "rating": 4.6,
+      "t": 1792227575,
+      "img": "https://m.media-amazon.com/images/I/71pudUiBJeL.jpg",
+      "link": "https://www.amazon.com/dp/B0B7JRZ6LX?tag=iamcartigo-20",
+      "now": "28.99",
+      "was": "53.99",
+      "reviews": 6397,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C8T8QKJ7",
+      "name": "BEDELITE Fluffy Queen Comforter Set",
+      "pct": 39,
+      "rating": 4.6,
+      "t": 1792227575,
+      "img": "https://m.media-amazon.com/images/I/81hauWlUzTL.jpg",
+      "link": "https://www.amazon.com/dp/B0C8T8QKJ7?tag=iamcartigo-20",
+      "now": "34.99",
+      "was": "56.99",
+      "reviews": 1555,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "air-fryers",
     "label": "Air Fryers",
     "items": [
@@ -743,6 +1120,54 @@
       "now": "119.99",
       "was": "179.99",
       "reviews": 2214,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "espresso-machines",
+    "label": "Espresso Machines",
+    "items": [
+     {
+      "asin": "B0F12TWP55",
+      "name": "XIXUBX Compact Espresso & Cappuccino Machine",
+      "pct": 18,
+      "rating": 4.1,
+      "t": 1792227590,
+      "img": "https://m.media-amazon.com/images/I/61LRzhM2V9L.jpg",
+      "link": "https://www.amazon.com/dp/B0F12TWP55?tag=iamcartigo-20",
+      "now": "44.99",
+      "was": "54.99",
+      "deal": "Limited time deal",
+      "reviews": 1011,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CW2XKM78",
+      "name": "CHULUX Slim Espresso Machine",
+      "pct": 40,
+      "rating": 4.5,
+      "t": 1792227590,
+      "img": "https://m.media-amazon.com/images/I/71HP4dbnomL.jpg",
+      "link": "https://www.amazon.com/dp/B0CW2XKM78?tag=iamcartigo-20",
+      "now": "83.99",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 775,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H8SS23K8",
+      "name": "Canoly Fast Cold Brew Espresso Machine",
+      "pct": 42,
+      "rating": 4.9,
+      "t": 1792227590,
+      "img": "https://m.media-amazon.com/images/I/71fjvn26F5L.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SS23K8?tag=iamcartigo-20",
+      "now": "219.99",
+      "was": "379.99",
+      "deal": "Limited time deal",
+      "reviews": 34,
       "tier": "premium"
      }
     ]
@@ -796,28 +1221,101 @@
     ]
    },
    {
-    "key": "comforter-sets",
-    "label": "Comforter Sets",
-    "items": []
-   },
-   {
-    "key": "espresso-machines",
-    "label": "Espresso Machines",
-    "items": []
+    "key": "pillows",
+    "label": "Pillows",
+    "items": [
+     {
+      "asin": "B0HJQP3KTR",
+      "name": "DOWNCOOL Cooling Pillows Queen Size Set of 2",
+      "pct": 40,
+      "rating": 4.5,
+      "t": 1792227609,
+      "img": "https://m.media-amazon.com/images/I/71pwPpn3WsL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJQP3KTR?tag=iamcartigo-20",
+      "now": "29.98",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 344,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DPMNS5K5",
+      "name": "Sasttie Firm Pillows Standard Size Set of 4",
+      "pct": 21,
+      "rating": 4.4,
+      "t": 1792227609,
+      "img": "https://m.media-amazon.com/images/I/61AQt9T-qKL.jpg",
+      "link": "https://www.amazon.com/dp/B0DPMNS5K5?tag=iamcartigo-20",
+      "now": "29.99",
+      "was": "37.99",
+      "deal": "Limited time deal",
+      "reviews": 1481,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0993G154N",
+      "name": "Sidney Sleep Adjustable Curved Pillows",
+      "pct": 33,
+      "rating": 4.3,
+      "t": 1792227609,
+      "img": "https://m.media-amazon.com/images/I/71Y-xTyvZTL.jpg",
+      "link": "https://www.amazon.com/dp/B0993G154N?tag=iamcartigo-20",
+      "now": "39.98",
+      "was": "59.99",
+      "reviews": 12063,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "sewing-machines",
     "label": "Sewing Machines",
-    "items": []
+    "items": [
+     {
+      "asin": "B0HFNHBHKT",
+      "name": "Stoigeld Portable Sewing Machine",
+      "pct": 10,
+      "rating": 4.4,
+      "t": 1792227624,
+      "img": "https://m.media-amazon.com/images/I/7145UPqEOdL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFNHBHKT?tag=iamcartigo-20",
+      "now": "79.19",
+      "was": "87.99",
+      "deal": "Limited time deal",
+      "reviews": 51,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GXX5LNVQ",
+      "name": "Brother XM2701 27-Stitch Sewing Machine",
+      "pct": 28,
+      "rating": 4.6,
+      "t": 1792227624,
+      "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
+      "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=iamcartigo-20",
+      "now": "129.99",
+      "was": "179.99",
+      "reviews": 42,
+      "tier": "mid"
+     },
+     {
+      "asin": "B08BGB5GPZ",
+      "name": "Brother CS5055 Computerized Sewing Machine",
+      "pct": 21,
+      "rating": 4.6,
+      "t": 1792227624,
+      "img": "https://m.media-amazon.com/images/I/51BELIRHpIL.jpg",
+      "link": "https://www.amazon.com/dp/B08BGB5GPZ?tag=iamcartigo-20",
+      "now": "134.00",
+      "was": "169.99",
+      "reviews": 3575,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "space-heaters",
     "label": "Space Heaters",
-    "items": []
-   },
-   {
-    "key": "pillows",
-    "label": "Pillows",
     "items": []
    }
   ],
@@ -841,20 +1339,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0HGXS9F3P",
-      "name": "URAO Tablet,10.1\" Android 16 Tablet Octa-core 36GB+128GB…",
-      "pct": 40,
-      "rating": 4.2,
-      "t": 1792226749,
-      "img": "https://m.media-amazon.com/images/I/71MLHY2qL2L.jpg",
-      "link": "https://www.amazon.com/dp/B0HGXS9F3P?tag=iamcartigo-20",
-      "now": "89.98",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 459,
-      "tier": "mid"
-     },
-     {
       "asin": "B0BL5TKDVG",
       "name": "Amazon Fire HD 10 Kids tablet",
       "pct": 45,
@@ -866,6 +1350,20 @@
       "was": "189.99",
       "deal": "Limited time deal",
       "reviews": 8846,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DB8G1W5D",
+      "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
+      "pct": 29,
+      "rating": 4.5,
+      "t": 1792227560,
+      "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
+      "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=iamcartigo-20",
+      "now": "759.98",
+      "was": "1,077.80",
+      "deal": "Limited time deal",
+      "reviews": 24,
       "tier": "premium"
      }
     ]
@@ -1038,6 +1536,25 @@
   ],
   "monitors": [
    {
+    "key": "usb-c-monitors",
+    "label": "USB C Monitors",
+    "items": [
+     {
+      "asin": "B0GC9PQ41M",
+      "name": "MOKiN Laptop Docking Station Dual Monitor 4K HDMI USB C Hub",
+      "pct": 18,
+      "rating": 4.3,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/71CvG4DYPHL.jpg",
+      "link": "https://www.amazon.com/dp/B0GC9PQ41M?tag=iamcartigo-20",
+      "now": "35.99",
+      "was": "43.99",
+      "deal": "Limited time deal",
+      "reviews": 6184
+     }
+    ]
+   },
+   {
     "key": "monitors-home-office",
     "label": "Monitors Home Office",
     "items": []
@@ -1047,21 +1564,120 @@
    {
     "key": "4k-tvs",
     "label": "4K TVs",
-    "items": []
-   },
-   {
-    "key": "oled-tvs",
-    "label": "OLED TVs",
-    "items": []
-   },
-   {
-    "key": "video-doorbells",
-    "label": "Video Doorbells",
-    "items": []
+    "items": [
+     {
+      "asin": "B0H5CL8DLL",
+      "name": "Google TV Smart Projector 4K",
+      "pct": 60,
+      "rating": 4.5,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/71bZUNVDSIL.jpg",
+      "link": "https://www.amazon.com/dp/B0H5CL8DLL?tag=iamcartigo-20",
+      "now": "198.98",
+      "was": "498.99",
+      "deal": "Limited time deal",
+      "reviews": 25,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HFSDT6GX",
+      "name": "【Official Licensed Google TV】VOPLLS 4K Smart Outdoor…",
+      "pct": 44,
+      "rating": 4.4,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/71HcphPoFVL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFSDT6GX?tag=iamcartigo-20",
+      "now": "239.99",
+      "was": "429.99",
+      "deal": "Limited time deal",
+      "reviews": 1146,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HDN32NF5",
+      "name": "[VIDAA Live TV & 6000 ANSI & Now",
+      "pct": 47,
+      "rating": 4.8,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/71xS9zvt8fL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDN32NF5?tag=iamcartigo-20",
+      "now": "299.99",
+      "was": "569.99",
+      "deal": "Limited time deal",
+      "reviews": 111,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "soundbars",
     "label": "Soundbars",
+    "items": [
+     {
+      "asin": "B0HJ5MD6FR",
+      "name": "Assistrust Sound Bar",
+      "pct": 10,
+      "rating": 4.3,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/717rXgpNuLL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJ5MD6FR?tag=iamcartigo-20",
+      "now": "53.98",
+      "was": "59.98",
+      "deal": "Limited time deal",
+      "reviews": 27,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0G523V2TT",
+      "name": "ULTIMEA 7.1ch Sound Bar w/Subwoofer",
+      "pct": 28,
+      "rating": 4.4,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/611BRMOGjnL.jpg",
+      "link": "https://www.amazon.com/dp/B0G523V2TT?tag=iamcartigo-20",
+      "now": "129.98",
+      "was": "179.99",
+      "deal": "Limited time deal",
+      "reviews": 709,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0961X3R2H",
+      "name": "Sony HT-S40R 5.1ch Home Theater Soundbar System,black",
+      "pct": 25,
+      "rating": 4.0,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/51m4NsZau4L.jpg",
+      "link": "https://www.amazon.com/dp/B0961X3R2H?tag=iamcartigo-20",
+      "now": "248.00",
+      "was": "329.99",
+      "deal": "Limited time deal",
+      "reviews": 8807,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "oled-tvs",
+    "label": "OLED TVs",
+    "items": [
+     {
+      "asin": "B0GRKCVS98",
+      "name": "LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV",
+      "pct": 17,
+      "rating": 4.2,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/81q7WdgNQ3L.jpg",
+      "link": "https://www.amazon.com/dp/B0GRKCVS98?tag=iamcartigo-20",
+      "now": "999.99",
+      "was": "1,199.99",
+      "reviews": 116
+     }
+    ]
+   },
+   {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
     "items": []
    }
   ]
