@@ -1,9 +1,31 @@
 {
- "at": "2026-10-17T08:25:38.654583+00:00",
+ "at": "2026-10-17T08:27:22.015616+00:00",
  "probe": {
   "captcha_before": 0,
-  "answered": false,
-  "captcha_after": 1
+  "pages": {
+   "search": {
+    "status": 200,
+    "bytes": 2217,
+    "captcha_markers": false,
+    "title": "<title>&nbsp;</title><script> var i = 1792225642; var j = i + Number(\"6195\" + \"01189\"); </script> </head> <noscript> <iframe style=\"border: ",
+    "asin_cards": 0
+   },
+   "deals_filter": {
+    "status": 200,
+    "bytes": 2350,
+    "captcha_markers": false,
+    "title": "<title>&nbsp;</title><script> var i = 1792225648; var j = i + Number(\"3690\" + \"83060\"); </script> </head> <noscript> <iframe style=\"border: ",
+    "asin_cards": 0
+   },
+   "bestsellers": {
+    "status": 200,
+    "bytes": 446245,
+    "captcha_markers": false,
+    "title": "<title>Amazon Best Sellers: Best Electronics</title> <meta name=\"description\" content=\"Discover the best Electronics in Best Sellers.  Find ",
+    "asin_cards": 30
+   }
+  },
+  "captcha_after": 0
  },
  "scopes": [
   {
@@ -11,7 +33,7 @@
    "alias": "beauty",
    "kw": null,
    "deals_plus_discount": "no answer",
-   "deals_only": "BLOCKED"
+   "deals_only": "no answer"
   },
   {
    "category": "beauty_health",
