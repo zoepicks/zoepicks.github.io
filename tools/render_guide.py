@@ -303,7 +303,7 @@ if(!best)return;
 var seen={},L=(best.items||[]).filter(function(x){if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
 if(!L.length)return;
 var E=function(v){return String(v==null?"":v).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
-var card=function(x){return '<a class="offer" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank">'+(x.img&&/^https:\/\//.test(x.img)?'<img src="'+E(x.img)+'" alt="'+E(x.name)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':"")+'<div class="ob"><b>'+E(x.name)+'</b><div class="os">'+[x.price?"$"+E(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")+'</div></div><span class="op">-'+E(x.pct)+'%%</span></a>'};
+var card=function(x){return '<a class="offer" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank"><div class="ob"><b>'+E(x.name)+'</b></div><span class="op">-'+E(x.pct)+'%%</span></a>'};
 var z=document.getElementById("zo");z.innerHTML='<h2>'+(L.length>1?"Top "+L.length+" discounts":"Top discount")+' right now \u00b7 '+E(best.label)+'</h2><p class="sum">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>'+L.map(card).join("");z.hidden=false;
 }).catch(function(){})})();"""
     also = d.get("also") or []
