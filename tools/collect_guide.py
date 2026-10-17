@@ -222,7 +222,7 @@ _dead = set()   # (key tail, model) pairs that answered 404/403 "no access" - ne
 # Groq models to try per key, in order. A key that cannot use one model (404 model_not_found) falls through to the next;
 # Groq also rate-limits per model, so a 429 on one model just moves on to the next one. Override with env GROQ_MODELS.
 GROQ_MODELS = [m.strip() for m in (os.environ.get("GROQ_MODELS") or
-               "llama-3.3-70b-versatile,openai/gpt-oss-120b,llama-3.1-8b-instant,qwen/qwen3-32b,meta-llama/llama-4-scout-17b-16e-instruct").split(",") if m.strip()]
+               "llama-3.3-70b-versatile,openai/gpt-oss-120b,llama-3.1-8b-instant,qwen/qwen3-32b,meta-llama/llama-4-scout-17b-16e-instruct,openai/gpt-oss-20b,moonshotai/kimi-k2-instruct-0905").split(",") if m.strip()]
 
 
 def _parse_json(txt):
@@ -233,7 +233,7 @@ def _parse_json(txt):
         return json.loads(m.group(0))
 
 
-_diag = {"daily": {}, "toolarge": {}, "minute": {}, "ok": set()}   # "keytail|model" -> "used/limit" text, for the end-of-run summary (per MODEL: Groq limits are per model)
+_diag = {"daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": set()}   # "keytail|model" -> "used/limit" text, for the end-of-run summary (per MODEL: Groq limits are per model)
 
 
 def _nums(body):
@@ -295,11 +295,12 @@ def llm(prompt, system, max_out=MAX_OUT_TOKENS):
                     _diag["toolarge"][f"{key[-4:]}|{model}"] = _nums(body)
                     log(f"llm key ...{key[-4:]} {model} REQUEST TOO LARGE {_nums(body)}")
                     continue
-                if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()): _dead.add((key[-6:], model))
+                if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()):
+                    _dead.add((key[-6:], model)); _diag["noaccess"][f"{key[-4:]}|{model}"] = str(r.status_code)
                 log("llm", model, r.status_code, body[:160])
             except Exception as e: log("llm err", model, e)
         if not any(k[1] and (k[1][-6:], k[2]) not in _dead for k in keys):
-            raise LLMDown("all LLM keys/models are out of DAILY tokens - stopping the run")
+            raise LLMDown(f"no usable LLM combo left: {len(_diag['daily'])} DAILY-limit + {len(_diag['noaccess'])} no-access(404/403) of {len(gk) * len(GROQ_MODELS)} key x model - stopping the run")
         if not waits or rnd == 2: break
         w = min(waits)
         if w > 90: log(f"rate limit resets in {w:.0f}s - too long, giving up on this topic"); break
@@ -448,7 +449,7 @@ def main():
     log(f"llm summary: {len(keys)} key(s) | daily-limit: {tails(_diag['daily'])} | too-large: {tails(_diag['toolarge'])} | per-minute: {tails(_diag['minute'])}")   # old format, kept for older dashboards
     # new per-key+model report for the dashboard (a key is only 'dead' if EVERY model on it is out - Groq limits are per model)
     log("llm report: " + json.dumps({"keys": len(keys), "models": len(GROQ_MODELS), "daily": _diag["daily"], "toolarge": _diag["toolarge"],
-                                      "minute": _diag["minute"], "ok": sorted(_diag["ok"])}))
+                                      "minute": _diag["minute"], "noaccess": _diag["noaccess"], "ok": sorted(_diag["ok"])}))
     log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
     if made == 0 and count > 1: sys.exit(1)
 
