@@ -274,6 +274,17 @@ def visible_products(P):
     gone = [p for p in P if p.get("fill_failed") and not is_ready(p)]
     return [p for p in P if p not in gone] if gone and len(P) - len(gone) >= 3 else P
 
+def meta_desc(txt, limit=158):
+    """Meta/OG description: full text if short enough, else cut at a word boundary (Google truncates ~155-160 chars anyway)."""
+    t = " ".join((txt or "").split())
+    if len(t) <= limit:
+        return t
+    cut = t[:limit - 1].rsplit(" ", 1)[0].rstrip(" ,;:-\u2013\u2014.")
+    while cut.rsplit(" ", 1)[-1].lower() in ("and", "or", "the", "a", "an", "of", "with", "to", "for", "in", "on", "at", "by", "but", "as", "from") and " " in cut:
+        cut = cut.rsplit(" ", 1)[0].rstrip(" ,;:-\u2013\u2014.")           # never end on a dangling word
+    return cut + "\u2026"
+
+
 def ld_json(d, base):
     """Article + BreadcrumbList structured data (only when a canonical base URL is known)."""
     if not base: return ""
@@ -315,7 +326,7 @@ def render(d, base=""):
     d = dict(d, products=visible_products(d["products"]))
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
-    rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
+    rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "META": e(meta_desc(d["summary"])), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OFFERS": offers_html(d),   # top-3 discounts of THIS guide's product type live on its own guide page (not on the category page)
            "LD": ld_json(d, base), "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
