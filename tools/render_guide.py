@@ -405,8 +405,27 @@ def sync_soon():
     new = [g for g in L if not g.get("soon")] + soon
     if new != L: ix.write_text(json.dumps(new, indent=1))
 
+def sync_live():
+    """Add every built (non-draft, non-retired) src/*.json guide that is missing from guides/index.json as a live row.
+    The collector only runs rebuild_all, which used to never add new guides, so built guides were orphaned (page existed, not listed)."""
+    ix = ROOT / "guides/index.json"; L = json.loads(ix.read_text())
+    have = {g["slug"] for g in L if not g.get("soon")}
+    add = []
+    for f in sorted((ROOT / "src").glob("*.json")):
+        d = json.load(open(f))
+        if d.get("draft") or d.get("retired") or d["slug"] in have: continue
+        add.append({"slug": d["slug"], "title": d["title"], "category": d["category"], "date": d.get("date", ""), **({"also": d["also"]} if d.get("also") else {}), **({"expires": d["expires"]} if d.get("expires") else {})})
+    if not add: return
+    def _dt(g):
+        try: return datetime.datetime.strptime(g["date"], "%b %d, %Y")
+        except Exception: return datetime.datetime.min
+    add.sort(key=_dt, reverse=True)
+    new = {g["slug"] for g in add}
+    ix.write_text(json.dumps(add + [g for g in L if g["slug"] not in new], indent=1))
+
 def rebuild_all(base):
     """Re-render every guide from src/*.json (keeps guides/index.json order). Run after changing assets/og.png."""
+    sync_live()
     sync_index_expiry()
     sync_soon()
     sync_meta()
