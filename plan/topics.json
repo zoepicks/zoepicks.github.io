@@ -1653,7 +1653,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Best Weighted Blanket (2026)",
@@ -1691,7 +1692,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Best Neck Pillow (2026)",
@@ -1700,14 +1702,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Best Playstation 5 (2026)",
   "slug": "best-playstation-5-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  },
