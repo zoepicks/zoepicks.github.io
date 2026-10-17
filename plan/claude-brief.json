@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-17T03:26:51.202829+00:00",
+ "generated_at": "2026-10-17T17:38:25.416928+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": null,
   "score_change_24h": null,
-  "pages": 49,
+  "pages": 63,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 14
+   "low": 4
   },
-  "avg_guide_words": 1019,
+  "avg_guide_words": 938,
   "todo": [
    {
     "sev": "high",
@@ -26,39 +26,37 @@
    },
    {
     "sev": "low",
-    "code": "desc_length",
-    "count": 10,
-    "fix": "Descriptions 70-170 chars ke andar rakho.",
+    "code": "slow_page",
+    "count": 2,
+    "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/about.html",
-     "/terms.html",
-     "/g/best-video-doorbells-2026/"
+     "/g/best-record-players-2026/",
+     "/g/best-soundbars-2026/"
     ],
-    "detail": "description 64 chars (best 70-170)"
+    "detail": "load 4.7s"
    },
    {
     "sev": "low",
     "code": "title_length",
-    "count": 4,
+    "count": 2,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
-     "/contact.html",
-     "/terms.html",
-     "/g/best-noise-cancelling-headphones-2026/"
+     "/g/best-noise-cancelling-headphones-2026/",
+     "/g/best-iphones-2026/"
     ],
-    "detail": "title 22 chars (best 25-65)"
+    "detail": "title 70 chars (best 25-65)"
    }
   ],
   "new_issue_types_since_last_brief": [
-   "contact_email_placeholder",
-   "desc_length",
-   "title_length"
+   "slow_page"
   ],
-  "fixed_issue_types_since_last_brief": [],
+  "fixed_issue_types_since_last_brief": [
+   "desc_length"
+  ],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 43,
+   "guides_live": 57,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -66,19 +64,33 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-17T03:26:44.499547+00:00",
+    "t": "2026-10-17T11:26:04.719631+00:00",
+    "indexnow": {
+     "submitted": 27,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-10-17T14:37:46.750986+00:00",
     "indexnow": {
      "submitted": 0,
-     "note": "key file abhi live nahi (agli run me submit hoga)"
+     "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-17T17:38:21.249412+00:00",
+    "indexnow": {
+     "submitted": 5,
+     "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 4,
-  "today_views": 19,
-  "total_visitors": 9,
-  "total_views": 118,
+  "today_visitors": 18,
+  "today_views": 314,
+  "total_visitors": 23,
+  "total_views": 413,
   "since": "2026-10-16",
   "last7": [
    {
@@ -88,45 +100,88 @@
    },
    {
     "day": "2026-10-17",
-    "visitors": 4,
-    "views": 19
+    "visitors": 18,
+    "views": 314
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 11,
-   "warn": 2,
+   "info": 47,
+   "warn": 7,
    "error": 0
   },
   "last7d": {
-   "info": 44,
-   "warn": 27,
+   "info": 80,
+   "warn": 32,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "Hot feed (home top discount)",
     "errors": 0,
-    "warnings": 26
+    "warnings": 30
    }
   ],
   "collector": {
    "today": {
-    "total": 0,
-    "ok": 0,
-    "failed": 0,
+    "total": 11,
+    "ok": 6,
+    "failed": 5,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 22,
+      "at": "2026-10-17T16:05:11Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39047868905"
+     },
+     {
+      "run": 19,
+      "at": "2026-10-17T14:15:09Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39039946642"
+     },
+     {
+      "run": 17,
+      "at": "2026-10-17T09:58:48Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39023143343"
+     },
+     {
+      "run": 15,
+      "at": "2026-10-17T06:17:56Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39009386791"
+     },
+     {
+      "run": 14,
+      "at": "2026-10-17T04:42:24Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39003569148"
+     }
+    ]
    },
    "last7d": {
-    "total": 12,
-    "ok": 3,
-    "failed": 8,
+    "total": 23,
+    "ok": 9,
+    "failed": 13,
     "cancelled": 1,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 15,
+      "at": "2026-10-17T06:17:56Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39009386791"
+     },
+     {
+      "run": 14,
+      "at": "2026-10-17T04:42:24Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39003569148"
+     },
      {
       "run": 10,
       "at": "2026-10-16T15:52:24Z",
@@ -180,16 +235,16 @@
   },
   "site_deploys": {
    "today": {
-    "total": 0,
-    "ok": 0,
+    "total": 39,
+    "ok": 39,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 244,
-    "ok": 244,
+    "total": 283,
+    "ok": 283,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -205,139 +260,295 @@
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 30 min (block #2)"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 60 min (block #3)"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 30 min (block #2)"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
-   },
-   {
-    "module": "ZOEHOT",
-    "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 5 min"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    }
   ]
  },
  "content": {
-  "live_guides": 43,
+  "live_guides": 57,
   "missing_topics_by_status": {
-   "open": 46,
-   "covered": 8,
-   "queued": 6,
-   "built": 4
+   "open": 49,
+   "covered": 10,
+   "built": 13,
+   "queued": 4
   },
   "missing_new": {
-   "today": 10,
-   "d7": 64,
-   "d30": 64
+   "today": 22,
+   "d7": 76,
+   "d30": 76
   },
   "open_topics": [
    {
-    "topic": "120hz monitor",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792198500",
-    "last_at": "1792198720"
-   },
-   {
-    "topic": "stove top pressure cooker",
-    "leads": "5",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792197991",
-    "last_at": "1792198680"
-   },
-   {
-    "topic": "deodorant",
+    "topic": "ps5 pro",
     "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1792196482",
-    "last_at": "1792198324"
+    "first_at": "1792256990",
+    "last_at": "1792257602"
    },
    {
-    "topic": "dog toy",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792197828",
-    "last_at": "1792198145"
-   },
-   {
-    "topic": "rolling carry on luggage",
+    "topic": "sous vide",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792197813",
-    "last_at": "1792197813"
+    "first_at": "1792257487",
+    "last_at": "1792257487"
    },
    {
-    "topic": "hot tub",
+    "topic": "honey scented deodorant",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792197413",
-    "last_at": "1792197413"
+    "first_at": "1792257464",
+    "last_at": "1792257464"
    },
    {
-    "topic": "in-ear gaming headphones",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792196283",
-    "last_at": "1792196636"
-   },
-   {
-    "topic": "earbuds",
+    "topic": "street photography camera",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792195962",
-    "last_at": "1792196267"
+    "first_at": "1792253781",
+    "last_at": "1792253909"
    },
    {
-    "topic": "floral perfume",
-    "leads": "2",
+    "topic": "mechanical keyboard",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1792195383",
-    "last_at": "1792195947"
+    "first_at": "1792189947",
+    "last_at": "1792253791"
    },
    {
-    "topic": "speaker",
+    "topic": "copper thread kippah",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792195365",
-    "last_at": "1792195365"
+    "first_at": "1792250717",
+    "last_at": "1792250717"
+   },
+   {
+    "topic": "wireless mouse",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792242242",
+    "last_at": "1792242535"
+   },
+   {
+    "topic": "black beanie",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792241430",
+    "last_at": "1792241430"
+   },
+   {
+    "topic": "hug pillow",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792240055",
+    "last_at": "1792240055"
+   },
+   {
+    "topic": "makeup palette",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792238936",
+    "last_at": "1792239445"
    }
   ]
  },
+ "search_console": {
+  "ok": true,
+  "error": null,
+  "indexed": 1,
+  "inspected": 62,
+  "states": {
+   "Submitted and indexed": 1,
+   "URL is unknown to Google": 61
+  },
+  "diagnosis": null,
+  "not_indexed": [
+   {
+    "u": "/about.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/contact.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/privacy.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/terms.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/disclosure.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-gaming-phones-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-usb-c-monitors-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-kindle-e-reader-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-playstation-5-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-cameras-for-beginners-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-comforter-sets-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-hoodies-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-phone-gimbal-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-walking-pads-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-wireless-earbuds-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-e-readers-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-record-players-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-smartphones-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-video-doorbells-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-soundbars-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-oled-tvs-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-4k-tvs-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-juicers-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-food-processors-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-monitors-for-home-office-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   }
+  ],
+  "request_list": null,
+  "sitemap": {
+   "last_downloaded": "",
+   "errors": "0",
+   "warnings": "0",
+   "submitted": 0
+  },
+  "sitemap_submit": "ok",
+  "perf": {
+   "clicks_28d": 0,
+   "impressions_28d": 0,
+   "last_days": [],
+   "top_pages": [],
+   "top_queries": []
+  },
+  "opportunities": null,
+  "history": null
+ },
  "suggested_focus": [
+  "Google ne 62 me se 61 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
+  "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Collector runs fail hue - GitHub Actions logs check karo.",
-  "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
+  "Collector runs fail hue - GitHub Actions logs check karo."
  ]
 }
