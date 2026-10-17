@@ -233,7 +233,7 @@ def _parse_json(txt):
         return json.loads(m.group(0))
 
 
-_diag = {"daily": {}, "toolarge": {}, "minute": {}}   # key tail -> "used/limit" text, for the end-of-run summary
+_diag = {"daily": {}, "toolarge": {}, "minute": {}, "ok": set()}   # "keytail|model" -> "used/limit" text, for the end-of-run summary (per MODEL: Groq limits are per model)
 
 
 def _nums(body):
@@ -279,19 +279,20 @@ def llm(prompt, system, max_out=MAX_OUT_TOKENS):
                 if model.startswith("openai/gpt-oss"): payload["reasoning_effort"] = "low"   # far fewer hidden reasoning tokens per guide
                 r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json=payload)
                 if r.status_code == 200:
+                    _diag["ok"].add(f"{key[-4:]}|{model}")
                     try: return _parse_json(r.json()["choices"][0]["message"]["content"])
                     except Exception as e: log("llm bad json", model, e); continue
                 body = r.text[:400].replace("\n", " ")
                 if r.status_code == 429:
                     if "per day" in body or "TPD" in body:
-                        _dead.add((key[-6:], model)); _diag["daily"][key[-4:]] = _nums(body)
+                        _dead.add((key[-6:], model)); _diag["daily"][f"{key[-4:]}|{model}"] = _nums(body)
                         log(f"llm key ...{key[-4:]} {model} DAILY limit {_nums(body)} -> skipped for this run")
                     else:
-                        waits.append(_retry_secs(body) or 30); _diag["minute"][key[-4:]] = _nums(body)
+                        waits.append(_retry_secs(body) or 30); _diag["minute"][f"{key[-4:]}|{model}"] = _nums(body)
                         log(f"llm key ...{key[-4:]} {model} per-minute limit {_nums(body)} -> will wait")
                     continue
                 if r.status_code == 413:
-                    _diag["toolarge"][key[-4:]] = _nums(body)
+                    _diag["toolarge"][f"{key[-4:]}|{model}"] = _nums(body)
                     log(f"llm key ...{key[-4:]} {model} REQUEST TOO LARGE {_nums(body)}")
                     continue
                 if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()): _dead.add((key[-6:], model))
@@ -443,7 +444,11 @@ def main():
         if slug or i == count - 1: break
         time.sleep(gap)
     keys = [k.strip() for k in (os.environ.get("GROQ_API_KEY") or "").split(",") if k.strip()]
-    log(f"llm summary: {len(keys)} key(s) | daily-limit: {sorted(_diag['daily']) or 'none'} | too-large: {sorted(_diag['toolarge']) or 'none'} | per-minute: {sorted(_diag['minute']) or 'none'}")
+    tails = lambda d: sorted({k.split("|")[0] for k in d}) or 'none'
+    log(f"llm summary: {len(keys)} key(s) | daily-limit: {tails(_diag['daily'])} | too-large: {tails(_diag['toolarge'])} | per-minute: {tails(_diag['minute'])}")   # old format, kept for older dashboards
+    # new per-key+model report for the dashboard (a key is only 'dead' if EVERY model on it is out - Groq limits are per model)
+    log("llm report: " + json.dumps({"keys": len(keys), "models": len(GROQ_MODELS), "daily": _diag["daily"], "toolarge": _diag["toolarge"],
+                                      "minute": _diag["minute"], "ok": sorted(_diag["ok"])}))
     log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
     if made == 0 and count > 1: sys.exit(1)
 
