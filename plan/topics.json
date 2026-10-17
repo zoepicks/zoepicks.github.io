@@ -857,7 +857,8 @@
   "category": "toys_kids",
   "high_ticket": false,
   "status": "todo",
-  "priority": 36
+  "priority": 36,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top STEM Toys That Make Learning Fun (2026)",
@@ -1297,7 +1298,8 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 58
+  "priority": 58,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Ultrawide Monitors for Multitasking (2026)",
@@ -1305,7 +1307,8 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 59
+  "priority": 59,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Are OLED Monitors Worth It? Top Picks (2026)",
@@ -1313,14 +1316,15 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 60
+  "priority": 60,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top USB-C Monitors With One-Cable Docking (2026)",
   "slug": "best-usb-c-monitors-2026",
   "category": "monitors",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 61
  },
  {
@@ -1329,7 +1333,8 @@
   "category": "monitors",
   "high_ticket": true,
   "status": "todo",
-  "priority": 62
+  "priority": 62,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Phones for Mobile Gaming (2026)",
@@ -1553,7 +1558,8 @@
   "category": "office_books",
   "high_ticket": false,
   "status": "todo",
-  "priority": 30
+  "priority": 30,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Tote Bags for Work, School & Travel (2026)",
@@ -1561,7 +1567,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 32
+  "priority": 32,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Winter Coats for Real Cold (2026)",
@@ -1569,7 +1576,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 33
+  "priority": 33,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Fish Tanks & Aquarium Kits for Beginners (2026)",
@@ -1577,7 +1585,8 @@
   "category": "pets",
   "high_ticket": false,
   "status": "todo",
-  "priority": 41
+  "priority": 41,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Food Processors for Faster Meal Prep (2026)",
@@ -1593,7 +1602,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 43
+  "priority": 43,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Hammocks for Backyard & Camping (2026)",
@@ -1601,7 +1611,8 @@
   "category": "furniture_decor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 44
+  "priority": 44,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Lawn Mowers: Gas, Electric & Robotic (2026)",
@@ -1609,7 +1620,8 @@
   "category": "tools_auto",
   "high_ticket": false,
   "status": "todo",
-  "priority": 45
+  "priority": 45,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Deodorants That Actually Last All Day (2026)",
@@ -1617,7 +1629,8 @@
   "category": "beauty_health",
   "high_ticket": false,
   "status": "todo",
-  "priority": 46
+  "priority": 46,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Top Makeup Primers for Smooth, Long-Lasting Makeup (2026)",
@@ -1625,7 +1638,8 @@
   "category": "beauty_health",
   "high_ticket": false,
   "status": "todo",
-  "priority": 47
+  "priority": 47,
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Best Digital Camera (2026)",
@@ -1683,7 +1697,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 17, 2026"
  },
  {
   "title": "Best Heating Pad (2026)",
@@ -1719,7 +1734,7 @@
   "slug": "best-kindle-e-reader-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  }
