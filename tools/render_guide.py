@@ -57,7 +57,7 @@ def amz_price(p):
 
 def amz_price_html(p):
     a = amz_price(p)
-    return f'<div class="dr-pr"><b>{e(a[0])}</b></div><div class="dr-sv">on Amazon · updated daily · may change</div>' if a else ""
+    return f'<div class="dr-pr"><b>{e(a[0])}</b></div>' if a else ""
 
 def price_block(p):
     pr = parse_price(p.get("price"))
@@ -74,7 +74,7 @@ def price_block(p):
     if p.get("price"):
         return f'<div class="sub">{e(p["price"])}' + (f' · as of {e(p["price_asof"])}' if p.get("price_asof") else "") + " — may have changed</div>"
     a = amz_price(p)
-    if a: return f'<div class="pl"><span class="now">{e(a[0])}</span></div><div class="sub">on Amazon · updated daily · may change</div>'
+    if a: return f'<div class="pl"><span class="now">{e(a[0])}</span></div>'
     return '<div class="sub">No deal price listed yet. Check the current price on Amazon.</div>'
 
 AFF_TAG = "iamcartigo-20"
@@ -105,7 +105,7 @@ def rating_block(p):
     r, n = rt
     asof = f' title="Amazon rating as of {e(p["amazon_rating_asof"])}"' if p.get("amazon_rating_asof") else ""
     return (f'<div class="rt"{asof}><span class="stars" style="--p:{r/5*100:.0f}%" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</span>'
-            f'<b>{r:g}</b><span class="rn">({n:,} ratings on Amazon)</span></div>')
+            f'<b>{r:g}</b><span class="rn">({n:,})</span></div>')
 
 def voices_html(d):
     """Auto-gliding cards: what the expert reviewers said (paraphrased, attributed) - praise AND the catch."""
@@ -181,7 +181,7 @@ def card(i, p):
     # scraped Amazon price is internal only (bot uses it to verify deals); never shown publicly
     h += "</div></div>"
     if p.get("best_for"): h += f'<div class="best"><b>Best for:</b> {e(p["best_for"])}</div>'
-    h += (f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy here &rarr;</a>'
+    h += (f'<a class="btn" href="{e(link)}" rel="sponsored nofollow noopener" target="_blank">Buy on Amazon &rarr;</a>'
           if is_ready(p) else '<span class="btn off" role="link" aria-disabled="true">Link coming soon</span>')
     d = ""
     if p.get("why"):
