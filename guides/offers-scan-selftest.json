@@ -1,0 +1,199 @@
+{
+ "at": "2026-10-17T08:25:38.654583+00:00",
+ "probe": {
+  "captcha_before": 0,
+  "answered": false,
+  "captcha_after": 1
+ },
+ "scopes": [
+  {
+   "category": "beauty_health",
+   "alias": "beauty",
+   "kw": null,
+   "deals_plus_discount": "no answer",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "beauty_health",
+   "alias": "hpc",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "electronics",
+   "alias": "electronics",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "fashion",
+   "alias": "fashion",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "fitness_outdoor",
+   "alias": "sporting",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "furniture_decor",
+   "alias": "garden",
+   "kw": "furniture",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "furniture_decor",
+   "alias": "garden",
+   "kw": "mattress",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "gaming",
+   "alias": "videogames",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "hobby_music",
+   "alias": "arts-crafts",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "hobby_music",
+   "alias": "mi",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "home_kitchen",
+   "alias": "kitchen",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "home_kitchen",
+   "alias": "appliances",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "laptops",
+   "alias": "computers",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "mobiles",
+   "alias": "mobile",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "mobiles",
+   "alias": "electronics",
+   "kw": "smartwatch",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "monitors",
+   "alias": "computers",
+   "kw": "monitor",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "monitors",
+   "alias": "electronics",
+   "kw": "television",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "monitors",
+   "alias": "electronics",
+   "kw": "projector",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "office_books",
+   "alias": "office-products",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "office_books",
+   "alias": "stripbooks",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "pets",
+   "alias": "pets",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "smart_home",
+   "alias": "electronics",
+   "kw": "smart home",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "smart_home",
+   "alias": "electronics",
+   "kw": "security camera",
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "tools_auto",
+   "alias": "tools",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "tools_auto",
+   "alias": "automotive",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "toys_kids",
+   "alias": "toys-and-games",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  },
+  {
+   "category": "toys_kids",
+   "alias": "baby-products",
+   "kw": null,
+   "deals_plus_discount": "BLOCKED",
+   "deals_only": "BLOCKED"
+  }
+ ]
+}
