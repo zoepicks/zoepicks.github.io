@@ -23,7 +23,12 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks
 AFF = "iamcartigo-20"
 MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 5   # publish floor 3, cap 5
 ASK_MIN = 4   # the LLM is asked for 4-5 best picks per guide (the 'best 4-5' under the Top-3 discounts)
-PROMPT_CHARS = 2300  # per source, sent to the LLM. Groq free tier = 8000 tokens/min AND per request: prompt(~3.7k)+max_tokens(3.4k) must stay < 8000 or it answers 413
+# Groq free tier = 8000 tokens/min AND per request, counted as prompt + max_tokens. Every call is kept under TOKEN_BUDGET so it can
+# never hit the per-minute cap or answer 413. Tokens are estimated at CHARS_PER_TOKEN (3.0 = deliberately pessimistic; real text is ~4).
+TOKEN_BUDGET = 7000
+MAX_OUT_TOKENS = 3400
+CHARS_PER_TOKEN = 3.0
+DEAL_LINES_MAX, DEAL_CHARS_MAX = 10, 900
 MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
 BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
@@ -251,7 +256,11 @@ def _retry_secs(txt):
     return tot or None
 
 
-def llm(prompt, system):
+def est_tokens(*parts):
+    return int(sum(len(p or "") for p in parts) / CHARS_PER_TOKEN) + 1
+
+
+def llm(prompt, system, max_out=MAX_OUT_TOKENS):
     """GROQ_API_KEY may hold several keys separated by commas: they are rotated; for each key every model in GROQ_MODELS is tried.
     403/404 = no access -> that (key, model) is dead for the run. 429 per-minute -> wait the time Groq asks (up to 90 s) and go round again;
     429 per-DAY -> dead for the run. 413 / transient 400 -> skip for this call only. OpenRouter is the last fallback."""
@@ -265,7 +274,7 @@ def llm(prompt, system):
         for url, key, model in keys:
             if not key or (key[-6:], model) in _dead: continue
             try:
-                payload = {"model": model, "temperature": 0.2, "response_format": {"type": "json_object"}, "max_tokens": 3400,
+                payload = {"model": model, "temperature": 0.2, "response_format": {"type": "json_object"}, "max_tokens": max_out,
                            "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}]}
                 if model.startswith("openai/gpt-oss"): payload["reasoning_effort"] = "low"   # far fewer hidden reasoning tokens per guide
                 r = requests.post(url, headers={"Authorization": f"Bearer {key}"}, timeout=120, json=payload)
@@ -302,9 +311,9 @@ SYSTEM = ("You write buying guides from supplied source excerpts ONLY. Never use
 
 
 def build(topic, pages, texts, deals):
-    src_block = "\n\n".join(f"[{i}] ({dom}) {txt}" for i, ((dom, _), txt) in enumerate(zip(pages, texts)) if txt)
-    deal_block = "\n".join(f"- ({d}) {t}" for d, t in deals[:15]) or "(none)"
-    prompt = f"""Topic: {topic['title']}
+    # deal lines: capped so they cannot eat the budget
+    deal_block = "\n".join(f"- ({d}) {t}" for d, t in deals[:DEAL_LINES_MAX])[:DEAL_CHARS_MAX] or "(none)"
+    template = f"""Topic: {topic['title']}
 Pick {ASK_MIN}-{MAX_PRODUCTS} products that the sources below recommend, best first. Prefer products recommended by MORE THAN ONE source.
 Return JSON: {{"summary": "one sentence", "method": "how picks were made, naming the sites used", "assumptions": "price caveats",
 "products": [{{"name": "full product name", "short": "short name", "badge": "e.g. Best Overall", "why": ["2 short paragraphs, facts from sources"],
@@ -314,10 +323,18 @@ Return JSON: {{"summary": "one sentence", "method": "how picks were made, naming
 "sources": [indices of the sources that mention this product]}}]}}
 
 SOURCES:
-{src_block}
+{{SRC}}
 
 DEAL LINES (reddit/roundups, may be empty):
 {deal_block}"""
+    live = [(i, dom, txt) for i, ((dom, _), txt) in enumerate(zip(pages, texts)) if txt]
+    # chars left for source text = (input token budget) * chars/token - system - template - per-source label overhead
+    input_chars = int((TOKEN_BUDGET - MAX_OUT_TOKENS) * CHARS_PER_TOKEN)
+    room = input_chars - len(SYSTEM) - len(template) - 40 * len(live)
+    per_src = max(600, room // max(1, len(live)))
+    src_block = "\n\n".join(f"[{i}] ({dom}) {txt[:per_src]}" for i, dom, txt in live)
+    prompt = template.replace("{SRC}", src_block)
+    log(f"llm request: {len(live)} sources x {per_src} chars, ~{est_tokens(SYSTEM, prompt)} in + {MAX_OUT_TOKENS} out tokens (budget {TOKEN_BUDGET})")
     return llm(prompt, SYSTEM)
 
 
