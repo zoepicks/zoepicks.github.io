@@ -497,6 +497,44 @@
    ],
    "scanned": "2026-10-17T08:39:24.860498+00:00",
    "via": "sweep"
+  },
+  "hobby_music:usb-microphones": {
+   "label": "USB Microphones",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0H3PVPTJB",
+     "name": "SONEVOX AirMic Mini Wireless Microphone",
+     "pct": 45,
+     "rating": 4.7,
+     "t": 1792226447,
+     "img": "https://m.media-amazon.com/images/I/91uUKTLbTBL.jpg",
+     "link": "https://www.amazon.com/dp/B0H3PVPTJB?tag=iamcartigo-20",
+     "now": "32.99",
+     "was": "59.99",
+     "deal": "Limited time deal",
+     "reviews": 281,
+     "_title": "SONEVOX AirMic Mini Wireless Microphone for iPhone & Android (2TX+USB-C RX) | Clear 48kHz/24-bit Audio, AI Noise Cancellat...",
+     "_price": 32.99
+    },
+    {
+     "asin": "B01LY6Z2M6",
+     "name": "Logitech Creators Blue Yeti USB Microphone",
+     "pct": 29,
+     "rating": 4.6,
+     "t": 1792226447,
+     "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
+     "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=iamcartigo-20",
+     "now": "99.99",
+     "was": "139.99",
+     "deal": "Limited time deal",
+     "reviews": 57162,
+     "_title": "Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Streaming, Podcasting, Studio and Computer Condenser Mic w...",
+     "_price": 99.99
+    }
+   ],
+   "scanned": "2026-10-17T08:40:47.863660+00:00",
+   "via": "sweep"
   }
  },
  "sweeps": {
@@ -538,6 +576,14 @@
    "cards": 80,
    "offer_cards": 79,
    "types_hit": 2,
+   "types": 3
+  },
+  "hobby_music": {
+   "at": "2026-10-17T08:40:47.863660+00:00",
+   "pages": 10,
+   "cards": 240,
+   "offer_cards": 239,
+   "types_hit": 1,
    "types": 3
   }
  }
