@@ -282,7 +282,7 @@ h2.cmp{margin:8px 0 4px}
 .ess-im{position:relative;aspect-ratio:1;border-radius:10px;background:#fff;border:1px solid var(--line);display:grid;place-items:center;overflow:hidden;font-size:20px}
 .ess-im img{width:100%;height:100%;object-fit:contain}
 .ess-im em{position:absolute;top:2px;left:2px;font-size:9px;padding:0 4px;border-radius:5px}
-.ess-c b{font-size:10px;line-height:1.15;font-weight:600;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ess-c b{font-size:10px;line-height:1.15;font-weight:600;text-align:center;white-space:normal;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;min-height:2.3em;word-break:break-word}
 @media(min-width:700px){.ess-v{max-width:560px;margin:5px auto 0}.tk-c{width:200px}.tk{--ch:60px}}
 @media(prefers-reduced-motion:reduce){.tk-t{animation:none}.tk-w{overflow-x:auto;-webkit-mask:none;mask:none}.ess-k.mv{transition:none}}
 .tk-r{font-size:10px;color:var(--mut);line-height:1}
