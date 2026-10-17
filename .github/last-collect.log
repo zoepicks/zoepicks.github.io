@@ -1,121 +1,20 @@
-[collect] topic: Top Phones for Mobile Gaming (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://www.androidauthority.com/best-gaming-phones-2026-3632010
-[collect] browser fetch 271 chars: https://www.androidauthority.com/best-gaming-phones-2026-3632010
-[collect] 5/5 source pages fetched
-[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1893 chars, ~3028 in + 3400 out tokens (budget 7000)
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-action-cameras-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-purifiers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-android-phones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-blenders-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bluetooth-speakers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-body-pillow-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bookshelves-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-budget-gaming-laptops-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-budget-laptops-under-600-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camera-phones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cameras-for-beginners-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camping-tents-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-coffee-makers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-comforter-sets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-compact-phones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cordless-stick-vacuums-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-deodorants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-digital-camera-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-drawing-tablets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-e-readers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-espresso-machines-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fish-tanks-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-foldable-phones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-food-processors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-chairs-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-chairs-under-300-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-controllers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-desktops-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-headsets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-keyboards-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops-under-1000-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops-under-1500-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-mice-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-phones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gym-bags-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hammocks-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-handheld-gaming-pcs-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-home-gym-equipment-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hoodies-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kindle-e-reader-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-deals-black-friday-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-for-college-students-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-for-programmers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-for-video-editing-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-for-work-from-home-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-500-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mowers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-adults-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitor-deals-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-home-office-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-mac-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-under-200-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-neck-pillow-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-bundles-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-tvs-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-deals-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-gimbal-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-battery-life-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-300-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-planners-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-portable-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-accessories-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-consoles-bundles-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-robot-vacuums-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartwatches-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-soundbars-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-space-heaters-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stand-mixers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-toaster-ovens-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tote-bags-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ultrawide-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vacuums-for-pet-hair-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-video-doorbells-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-pads-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-webcams-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wired-earbuds-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-under-100-2026/index.html
-[collect] done: best-gaming-phones-2026 4 products
-[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] topic: Best Cookware Set (2026)
+[collect] tavily -> 4 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-cookware-set
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-cookware-set
+[collect] 3/4 source pages fetched
+[collect] llm request: 3 sources x 3185 chars, ~3583 in + 3400 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,096 requested 3,222 -> skipped for this run
+[collect] FAILED best-cookware-set-2026: 'list' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 463, in <module>
+    main()
+  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 440, in main
+    run_topic(plan, topic, dry)
+  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 392, in run_topic
+    products = ground(g, pages, texts)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 357, in ground
+    for p in g.get("products", []):
+             ^^^^^
+AttributeError: 'list' object has no attribute 'get'
