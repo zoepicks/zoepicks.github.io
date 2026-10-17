@@ -219,10 +219,13 @@ def collect_deals(topic):
 # ---------- LLM ----------
 _rot = [0]
 _dead = set()   # (key tail, model) pairs that answered 404/403 "no access" - never retried in this run
+# NOTE (2026-10-17): Groq retired llama-3.3-70b-versatile + llama-3.1-8b-instant (16 Aug 2026) and qwen3-32b + llama-4-scout (17 Jul 2026);
+# they answer 404 model_not_found. Only the IDs below are live. Groq limits are per ORGANIZATION per model, so extra keys from the same
+# org add no capacity - extra MODELS do (each has its own 200k TPD / 8k TPM on the free tier).
 # Groq models to try per key, in order. A key that cannot use one model (404 model_not_found) falls through to the next;
 # Groq also rate-limits per model, so a 429 on one model just moves on to the next one. Override with env GROQ_MODELS.
 GROQ_MODELS = [m.strip() for m in (os.environ.get("GROQ_MODELS") or
-               "llama-3.3-70b-versatile,openai/gpt-oss-120b,llama-3.1-8b-instant,qwen/qwen3-32b,meta-llama/llama-4-scout-17b-16e-instruct,openai/gpt-oss-20b,moonshotai/kimi-k2-instruct-0905").split(",") if m.strip()]
+               "openai/gpt-oss-120b,openai/gpt-oss-20b,qwen/qwen3.6-27b,qwen/qwen3.8-27b").split(",") if m.strip()]
 
 
 def _parse_json(txt):
@@ -295,8 +298,10 @@ def llm(prompt, system, max_out=MAX_OUT_TOKENS):
                     _diag["toolarge"][f"{key[-4:]}|{model}"] = _nums(body)
                     log(f"llm key ...{key[-4:]} {model} REQUEST TOO LARGE {_nums(body)}")
                     continue
-                if r.status_code in (403, 404) or (r.status_code == 400 and "json" not in body.lower()):
-                    _dead.add((key[-6:], model)); _diag["noaccess"][f"{key[-4:]}|{model}"] = str(r.status_code)
+                if r.status_code in (403, 404):
+                    _dead.add((key[-6:], model)); _diag["noaccess"][f"{key[-4:]}|{model}"] = f"{r.status_code} {body[:90]}"
+                elif r.status_code == 400:
+                    _diag["noaccess"].setdefault(f"{key[-4:]}|{model}", f"400 (skipped this call) {body[:90]}")
                 log("llm", model, r.status_code, body[:160])
             except Exception as e: log("llm err", model, e)
         if not any(k[1] and (k[1][-6:], k[2]) not in _dead for k in keys):
