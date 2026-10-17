@@ -290,13 +290,34 @@ def ld_json(d, base):
         {"@type": "ListItem", "position": 3, "name": d["title"], "item": url}]}
     return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": [art, bc]}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
 
+def offers_html(d):
+    """Today's top discounts for THIS guide's product type (food-processors -> the Food Processors guide), read client-side from
+    guides/offers.json. The category page no longer shows them. Nothing is drawn (section stays hidden) when there is no fresh
+    verified discount for this type."""
+    js = r"""(function(){var S=%S%,C=%C%,A=%A%;
+fetch("../../guides/offers.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(j){
+var T=(j&&j.types)||{},fh=((j&&j.fresh_h)||36)*3600,n=Date.now()/1000,best=null,bl=0,s="-"+S+"-";
+var order=[C].concat(A||[]).concat(Object.keys(T));
+order.forEach(function(c,i){if(order.indexOf(c)!==i)return;(T[c]||[]).forEach(function(t){if(s.indexOf("-"+t.key+"-")>-1&&t.key.length>bl){best=t;bl=t.key.length}})});
+if(!best)return;
+var seen={},L=(best.items||[]).filter(function(x){if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
+if(!L.length)return;
+var E=function(v){return String(v==null?"":v).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
+var card=function(x){return '<a class="offer" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank">'+(x.img&&/^https:\/\//.test(x.img)?'<img src="'+E(x.img)+'" alt="'+E(x.name)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">':"")+'<div class="ob"><b>'+E(x.name)+'</b><div class="os">'+[x.price?"$"+E(x.price):"",x.rating?"\u2605 "+x.rating+(x.reviews?" ("+x.reviews+")":""):""].filter(Boolean).join(" \u00b7 ")+'</div></div><span class="op">-'+E(x.pct)+'%%</span></a>'};
+var z=document.getElementById("zo");z.innerHTML='<h2>'+(L.length>1?"Top "+L.length+" discounts":"Top discount")+' right now \u00b7 '+E(best.label)+'</h2><p class="sum">Biggest Amazon discounts today. Prices change fast; confirm on Amazon before buying.</p>'+L.map(card).join("");z.hidden=false;
+}).catch(function(){})})();"""
+    also = d.get("also") or []
+    also = [also] if isinstance(also, str) else list(also)
+    js = js.replace("%S%", json.dumps(d["slug"])).replace("%C%", json.dumps(d["category"])).replace("%A%", json.dumps(also)).replace("%%", "%")
+    return '<section id="zo" class="offers" hidden></section><script>' + js.replace("</", "<\\/") + "</script>"
+
 def render(d, base=""):
     d = dict(d, products=visible_products(d["products"]))
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
            "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
-           "OFFERS": "",   # top-3 discounts live ONLY on the product-type (category) page, never on each guide
+           "OFFERS": offers_html(d),   # top-3 discounts of THIS guide's product type live on its own guide page (not on the category page)
            "LD": ld_json(d, base), "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     # compact rows for every guide (mobile first); deal guides also get the deals strip and biggest-discount-first order
     rep.update({"CARDS": deal_rows(d), "JUMP": "", "COMPARE": "", "VOICES": "", "MORE": "", "FAQ": faq_html(d) + more_html(d)})
