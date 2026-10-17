@@ -1,11 +1,14 @@
-[collect] topic: Best Computer Mouse (2026)
+[collect] topic: Best Mattress (2026)
 [collect] tavily -> 5 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/mouse/reviews/best/ergonomic
-[collect] 5/5 source pages fetched
-[collect] reddit fail laptopdeals Expecting value: line 1 column 1 (char 0)
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1894 chars, ~3566 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Lemokey G1 Wireless Mouse
+[collect] http 403 https://www.nytimes.com/wirecutter/sleep/mattresses
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/sleep/mattresses
+[collect] 4/5 source pages fetched
+[collect] llm request: 4 sources x 2380 chars, ~3574 in + 3400 out tokens (budget 7000)
+[collect] drop (only 1 sources): Casper Snow Hybrid Mattress
+[collect] drop (only 1 sources): Leesa Original Eco‑Foam Mattress
+[collect] drop (only 1 sources): Nolah Evolution Hybrid Mattress
+[collect] drop (only 1 sources): Avocado Luxury Organic Mattress
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -68,6 +71,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattress-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
@@ -117,13 +121,13 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wired-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-under-100-2026/index.html
-[collect] done: best-computer-mouse-2026 3 products
-[collect] topic: Best Nail Polish (2026)
+[collect] done: best-mattress-2026 draft
+[collect] topic: Best Face Wash (2026)
 [collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/dazzle-dry-vs-olive-and-june-quick-dry-nail-polish
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/dazzle-dry-vs-olive-and-june-quick-dry-nail-polish
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-facial-cleansers
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-facial-cleansers
 [collect] 1/2 source pages fetched
-[collect] FAILED best-nail-polish-2026: not enough sources fetched; topic left as todo
+[collect] FAILED best-face-wash-2026: not enough sources fetched; topic left as todo
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
 [collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
 [collect] run finished: 1 guide(s) built, 2 topic(s) tried
