@@ -1,0 +1,86 @@
+{
+ "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
+ "updated": "2026-10-17T11:33:39.888425+00:00",
+ "boots_total": 1,
+ "recent_boots_utc": [
+  "2026-10-17T11:24:26"
+ ],
+ "last_run_ts": 1792236818.4143333,
+ "last_report_ts": 1792207615.3041742,
+ "check_every_h": 3.0,
+ "report_every_h": 12.0,
+ "score": 94,
+ "issues": {
+  "high": 1,
+  "med": 0,
+  "low": 4
+ },
+ "recent_runs": [
+  {
+   "t": "2026-10-17T03:26:44",
+   "score": 94,
+   "why": "manual",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-17T06:29:53",
+   "score": 93,
+   "why": "schedule",
+   "indexnow": 59
+  },
+  {
+   "t": "2026-10-17T09:31:18",
+   "score": 93,
+   "why": "schedule",
+   "indexnow": 5
+  },
+  {
+   "t": "2026-10-17T11:26:04",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 27
+  }
+ ],
+ "recent_tasks": [
+  {
+   "t": "2026-10-17T03:26:55",
+   "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T06:29:55",
+   "what": "SEO check: score 93 (-1), 59 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T06:29:55",
+   "what": "IndexNow: 59 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T09:31:19",
+   "what": "SEO check: score 93 (+0), 61 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T09:31:19",
+   "what": "IndexNow: 5 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T11:33:38",
+   "what": "Search Console: 1/62 pages Google me indexed, 28d clicks 0, sitemap ok",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T11:33:38",
+   "what": "SEO check: score 94 (+1), 62 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-17T11:33:38",
+   "what": "IndexNow: 27 URL Bing ko bheje",
+   "ok": true
+  }
+ ]
+}
