@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-17T04:29:10Z",
+ "updated": "2026-10-17T05:55:31Z",
  "fresh_h": 36,
  "cats": {
   "home_kitchen": [
@@ -12,11 +12,52 @@
     "t": 1792187625,
     "img": "https://m.media-amazon.com/images/I/81QF0Zasx3L.jpg",
     "link": "https://www.amazon.com/dp/B071CH3TLT?tag=iamcartigo-20",
+    "now": "59.95",
+    "was": "79.95",
     "reviews": 4806
    }
   ]
  },
  "types": {
+  "electronics": [
+   {
+    "key": "noise-cancelling-headphones",
+    "label": "Noise Cancelling Headphones",
+    "items": []
+   },
+   {
+    "key": "3d-printers",
+    "label": "3d Printers",
+    "items": []
+   },
+   {
+    "key": "e-readers",
+    "label": "E Readers",
+    "items": []
+   },
+   {
+    "key": "record-players",
+    "label": "Record Players",
+    "items": []
+   },
+   {
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
+    "items": []
+   }
+  ],
+  "fitness_outdoor": [
+   {
+    "key": "camping-tents",
+    "label": "Camping Tents",
+    "items": []
+   },
+   {
+    "key": "walking-pads",
+    "label": "Walking Pads",
+    "items": []
+   }
+  ],
   "gaming": [
    {
     "key": "budget-gaming-laptops",
@@ -27,9 +68,19 @@
     "key": "mechanical-keyboards",
     "label": "Mechanical Keyboards",
     "items": []
+   },
+   {
+    "key": "playstation",
+    "label": "Playstation",
+    "items": []
    }
   ],
   "hobby_music": [
+   {
+    "key": "cameras-beginners",
+    "label": "Cameras Beginners",
+    "items": []
+   },
    {
     "key": "drawing-tablets",
     "label": "Drawing Tablets",
@@ -54,6 +105,8 @@
       "t": 1792187625,
       "img": "https://m.media-amazon.com/images/I/81QF0Zasx3L.jpg",
       "link": "https://www.amazon.com/dp/B071CH3TLT?tag=iamcartigo-20",
+      "now": "59.95",
+      "was": "79.95",
       "reviews": 4806
      }
     ]
@@ -61,6 +114,11 @@
    {
     "key": "air-fryers",
     "label": "Air Fryers",
+    "items": []
+   },
+   {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
     "items": []
    },
    {
@@ -113,8 +171,8 @@
     "items": []
    },
    {
-    "key": "phones",
-    "label": "Phones",
+    "key": "smartphones",
+    "label": "Smartphones",
     "items": []
    }
   ],
