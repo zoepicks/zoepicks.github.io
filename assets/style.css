@@ -401,3 +401,8 @@ nav .wrap{height:54px}
 .trn .tk-x em[data-th=winter]{background:linear-gradient(90deg,#0ea5e9,#4338ca)}
 .trn .tk-x em[data-th=thanksgiving]{background:linear-gradient(90deg,#b45309,#7c2d12)}
 .trn .tk-x em[data-th=blackfriday]{background:linear-gradient(90deg,#111827,#4b5563)}
+
+/* price/rating line (hot ticker + essentials tiles); stale items show a muted 'Check price' pill instead of % */
+.tk-r strong,.ess-r strong{color:var(--ink);font-weight:700}.tk-r s,.ess-r s{opacity:.55}
+.ess-r{font-size:9.5px;line-height:1.1;color:var(--mut);text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tk-x em.st,.ess-im em.st{background:#64748b}

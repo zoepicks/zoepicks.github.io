@@ -19,11 +19,14 @@ guides().then(g=>{g=g.filter(x=>!x.soon);latest.innerHTML=g.length?g.slice(0,8).
 /* Hot feed v3: guides/hot.json is written by the bot every ~2 h. {hot: top offers, ess: everyday items (6+6 per slide), trend: seasonal}.
    Each list hides itself when empty; whole file ignored when older than ~40 h. */
 (function(){
-const H=3600e3,MAXAGE=40*H,esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const H=3600e3,MAXAGE=40*H,PRICE_H=24*H,esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const okLink=u=>/^https:\/\/www\.amazon\.com\//.test(u||""),okImg=u=>/^https:\/\//.test(u||"");
 let _imgN=0;   /* first 24 images load right away (top of page), the rest stay lazy; a broken image falls back to the item's emoji instead of leaving a blank box */
 const img=i=>okImg(i.img)?`<img src="${esc(i.img)}" alt="" loading="${_imgN++<24?"eager":"lazy"}" decoding="async" referrerpolicy="no-referrer" data-f="${esc(i.icon||"🏷️")}" onerror="this.replaceWith(document.createTextNode(this.dataset.f))">`:"";
 const fresh=(a,max)=>(a||[]).filter(i=>i&&okLink(i.link)&&i.name&&i.pct>0&&Date.now()-i.t*1000<MAXAGE).slice(0,max);
+const px=i=>i.now&&i.t&&Date.now()-i.t*1000<PRICE_H;   /* price only when checked < 24 h ago; older = no price, no %, 'Check price' */
+const usd=v=>{const n=parseFloat(v);return isFinite(n)?"$"+(n%1?n.toFixed(2):n.toLocaleString("en-US")):"";};
+const meta=i=>{const a=[];if(i.rating)a.push("★ "+i.rating);if(px(i)&&usd(i.now))a.push("<strong>"+usd(i.now)+"</strong>"+(i.was&&parseFloat(i.was)>parseFloat(i.now)?" <s>"+usd(i.was)+"</s>":""));return a.join(" · ");};
 const AZ='target="_blank" rel="sponsored nofollow noopener"';
 const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 /* ticker: two identical halves -> seamless left->right loop */
@@ -54,9 +57,9 @@ function pager(host,dots,pages){
 }
 fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
   if(!d||!d.updated||Date.now()-new Date(d.updated)>MAXAGE)return;
-  const asof=new Date(d.updated).toLocaleDateString("en-US",{month:"short",day:"numeric"});
+  const asof="Prices checked in last 24h · may change";
   const hot=fresh(d.hot,30),ess=fresh(d.ess,96),trn=fresh(d.trend,36);
-  const card=(i,badge,th)=>`<a class="tk-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="tk-i">${img(i)||esc(i.icon||"🏷️")}</span><span class="tk-x"><em${th?` data-th="${esc(th)}"`:""}>${badge}-${i.pct}%</em><b>${esc(i.name)}</b>${i.rating?`<small class="tk-r">★ ${i.rating}</small>`:""}</span></a>`;
+    const card=(i,badge,th)=>`<a class="tk-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="tk-i">${img(i)||esc(i.icon||"🏷️")}</span><span class="tk-x"><em${th?` data-th="${esc(th)}"`:""}${px(i)?"":' class="st"'}>${px(i)?`${badge}-${i.pct}%`:`${badge}Check price`}</em><b>${esc(i.name)}</b>${meta(i)?`<small class="tk-r">${meta(i)}</small>`:""}</span></a>`;
   if(hot.length){ticker(hotT,hot,i=>card(i,""));hotAsof.textContent=asof;document.getElementById("hot").hidden=false;}
   if(trn.length){
     const SH={halloween:"Halloween",fall:"Fall",christmas:"Christmas",winter:"Winter",thanksgiving:"Thanksgiving",blackfriday:"Black Friday"};
@@ -78,7 +81,7 @@ fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>
   if(ess.length){
     let items=ess.slice();
     if(items.length>12){const rem=items.length%12; if(rem)items=items.concat(items.slice(0,12-rem));}  /* last slide always full */
-    const tile=i=>`<a class="ess-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="ess-im">${img(i)||esc(i.icon||"🛒")}<em>-${i.pct}%</em></span><b>${esc(i.name)}</b></a>`;
+    const tile=i=>`<a class="ess-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="ess-im">${img(i)||esc(i.icon||"🛒")}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b>${meta(i)?`<small class="ess-r">${meta(i)}</small>`:""}</a>`;
     const pages=[];for(let x=0;x<items.length;x+=12)pages.push(items.slice(x,x+12).map(tile).join(""));
     document.getElementById("ess").hidden=false;pager(essV,essD,pages);
   }
