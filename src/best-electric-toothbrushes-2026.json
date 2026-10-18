@@ -35,7 +35,16 @@
    ],
    "best_for": "Tech‑savvy users seeking premium performance",
    "skip_if": "You prefer a simple, low‑cost brush",
-   "link": "https://www.amazon.com/s?k=Philips+Sonicare+9900+Prestige&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Philips+Sonicare+9900+Prestige&tag=iamcartigo-20",
+   "asin": "B0H6GXTTKN",
+   "image": "https://m.media-amazon.com/images/I/81YiTB9wv+L.jpg",
+   "image_asin": "B0H6GXTTKN",
+   "amazon_price": "$379.99",
+   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_listing": "Philips Sonicare Next-Gen DiamondClean 9900 Prestige Electric Toothbrush | Sonic Toothbrus",
+   "amazon_rating": "3",
+   "amazon_reviews": 379,
+   "amazon_rating_asof": "Oct 18, 2026"
   },
   {
    "name": "Suri 2.0 Electric Toothbrush",
@@ -65,7 +74,10 @@
    ],
    "best_for": "Environmentally conscious consumers who want a clean brush",
    "skip_if": "You need app features or a lower price",
-   "link": "https://www.amazon.com/s?k=Suri+2.0+Electric+Toothbrush&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Suri+2.0+Electric+Toothbrush&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Philips One Rechargeable by Sonicare",
@@ -95,7 +107,10 @@
    ],
    "best_for": "Budget users who want a quiet, gentle brush",
    "skip_if": "You need multiple modes or app connectivity",
-   "link": "https://www.amazon.com/s?k=Philips+One+Rechargeable+by+Sonicare&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Philips+One+Rechargeable+by+Sonicare&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   }
  ]
 }
