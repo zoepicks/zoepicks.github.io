@@ -181,6 +181,10 @@ def deal_rows(d):
         items.append((i, p, link, parse_price(p.get("price")) or {}))
     dealpage = d.get("theme") == "deal"
     if dealpage: items.sort(key=lambda t: -(t[3].get("pct") or 0))
+    reordered, soon_shown = False, False
+    if not dealpage:       # picks whose Amazon link is not filled yet go last (original order kept inside each group); the daily rebuild restores the full ranking once the bot fills them
+        rd = [t for t in items if is_ready(t[1])]; nr = [t for t in items if not is_ready(t[1])]
+        if rd and nr: items, reordered = rd + nr, True
     out = ""
     for n, (i, p, link, q) in enumerate(items):
         c = PALETTE[i % len(PALETTE)]
@@ -207,7 +211,9 @@ def deal_rows(d):
         if p.get("pros") or p.get("cons"): det += f'<div class="pc"><div class="pro"><b>Pros</b>{ul(p.get("pros", []))}</div><div class="con"><b>Cons</b>{ul(p.get("cons", []))}</div></div>'
         if p.get("skip_if"): det += f'<p class="skip"><b>Skip it if:</b> {e(p["skip_if"])}</p>'
         if p.get("deal_note"): det += f'<p class="deal"><b>Deal tip:</b> {e(p["deal_note"])}</p>'
-        tag = (f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else "") if dealpage else (f'<small class="dr-tag">#{i+1}' + (f' · {e(p["badge"])}' if p.get("badge") else "") + '</small>')
+        tag = (f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else "") if dealpage else (f'<small class="dr-tag">' + ("" if reordered else f"#{i+1}") + ((("" if reordered else " · ") + e(p["badge"])) if p.get("badge") else "") + '</small>')
+        if reordered and not soon_shown and not is_ready(p):
+            soon_shown = True; out += '<p class="dr-soon">Amazon links for the picks below are being added</p>'
         out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" data-tabs="{e(" ".join(tab_keys(d, p)))}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
                 f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{rating_block(p)}{price}{btn}</div></div>'
                 + (f'<p class="dr-why"><b>Why buy it:</b> {e(p["benefit"])}</p>' if p.get("benefit") else "")
