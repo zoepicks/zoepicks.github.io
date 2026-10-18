@@ -2066,5 +2066,17 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Studio Monitors (2026)",
+  "slug": "best-studio-monitors-2026",
+  "category": "monitors",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-monitors-under-200-2026",
+  "tab": "studio",
+  "tab_label": "Studio"
  }
 ]
