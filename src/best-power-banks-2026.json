@@ -4,8 +4,8 @@
  "category": "accessories",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products appearing in more than one source (Tom’s Guide, CNET, PCMag, CleverHiker) and noted for performance, capacity, or unique features.",
- "assumptions": "Prices are only included when explicitly stated in a source; otherwise null.",
+ "method": "We selected products that appear in at least two of the provided sources (CNET, The Great Outdoors, The Prepared, and Consumer Reports).",
+ "assumptions": "Prices are included only when a source explicitly states them; otherwise the price field is null.",
  "products": [],
  "draft": true
 }

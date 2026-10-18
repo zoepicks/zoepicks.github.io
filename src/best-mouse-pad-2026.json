@@ -4,8 +4,8 @@
  "category": "office_books",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I selected products that appear in more than one source (Scythe, SteelSeries, Logitech) and are highlighted as best overall or best for specific use cases. Sources used: PCMag, PCGamesN, TechGearLab.",
- "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
+ "method": "I selected products that appear in more than one source (Scythe, SteelSeries, Logitech) and are highlighted as best overall or best for specific needs. Sources used: 0 (PCMag), 6 (TechGearLab), 7 (PCGamesN).",
+ "assumptions": "Prices are only included when a source lists them; otherwise price is null. Deal notes are omitted because no discount information was provided.",
  "products": [],
  "draft": true
 }

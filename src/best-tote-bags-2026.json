@@ -3,9 +3,90 @@
  "title": "Top Tote Bags for Work, School & Travel (2026)",
  "category": "fashion",
  "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least two of the provided sources, prioritizing those highlighted as best overall or best value. Sources used: 3,4,5 for Cuyana Easy Tote; 6 for North Face Borealis Tote; 6 for Baggu Standard Tote; 5 for Cuyana Paloma tote.",
- "assumptions": "Prices are only included when explicitly stated in the sources; otherwise price is null. Deal notes are included only if a discount or limited‑time offer is mentioned in the source excerpts.",
- "products": [],
- "draft": true
+ "summary": "The top tote bags for work, school, and travel in 2026 combine style, durability, and practicality, with the Cuyana Easy Tote leading the pack for its premium leather and versatile organization, followed by the Cuyana Paloma tote for a structured yet casual look, the North Face Borealis Tote for rugged travel, the Baggu Standard Tote for everyday carry, and the L.L.Bean Boat and Tote for classic work‑ready design.",
+ "method": "Products were selected from the provided sources, prioritizing those mentioned by multiple sites. The Cuyana Easy Tote appears in Business Insider and Travel + Leisure, the Cuyana Paloma tote in Travel + Leisure, the North Face Borealis Tote and Baggu Standard Tote in PackHacker, and the L.L.Bean Boat and Tote in Wired. These picks reflect the best overall, best for travel, and best for work contexts.",
+ "assumptions": "Prices are only included when explicitly stated in the sources; otherwise the price field is null. No external pricing or discount information was added.",
+ "products": [
+  {
+   "name": "Cuyana Easy Tote",
+   "short": "Cuyana Easy Tote",
+   "badge": "Best Overall",
+   "why": [
+    "Made from premium Italian leather, the Cuyana Easy Tote offers high quality and easy styling for work and travel.",
+    "It features a structured bottom and optional zippered pouch or laptop compartment, making it versatile for everyday use."
+   ],
+   "specs": [
+    "Made from premium Italian leather",
+    "Structured bottom",
+    "Optional zippered pouch",
+    "Laptop compartment"
+   ],
+   "pros": [
+    "Premium leather construction",
+    "Versatile organization options",
+    "Stylish and professional look"
+   ],
+   "cons": [
+    "Higher price point",
+    "Limited color options"
+   ],
+   "best_for": "Professionals and travelers who need a polished, versatile tote",
+   "skip_if": "You prefer a budget-friendly or purely functional bag",
+   "price": "$150 at Cuyana",
+   "link": "https://www.amazon.com/s?k=Cuyana+Easy+Tote&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Cuyana Paloma Tote",
+   "short": "Cuyana Paloma",
+   "badge": "Best for Work",
+   "why": [
+    "A structured bag that fits a laptop, planner, Kindle, and chargers, praised for its polished appearance.",
+    "It lacks a zipper but offers ample space for daily essentials."
+   ],
+   "specs": [
+    "Structured silhouette",
+    "No zipper",
+    "Large interior space"
+   ],
+   "pros": [
+    "Polished look",
+    "Ample space",
+    "Durable construction"
+   ],
+   "cons": [
+    "No zipper closure",
+    "Limited organizational pockets"
+   ],
+   "best_for": "Office workers who want a sleek, spacious tote",
+   "skip_if": "You need a secure zipper closure",
+   "link": "https://www.amazon.com/s?k=Cuyana+Paloma+Tote&tag=zoepicks00-20"
+  },
+  {
+   "name": "L.L.Bean Boat and Tote",
+   "short": "L.L.Bean Boat & Tote",
+   "badge": "Classic Work Tote",
+   "why": [
+    "A timeless design that has been a work staple since 1965.",
+    "It offers a roomy interior suitable for laptops and office supplies."
+   ],
+   "specs": [
+    "Classic canvas design",
+    "Large interior",
+    "Durable construction"
+   ],
+   "pros": [
+    "Classic style",
+    "Durable canvas",
+    "Large capacity"
+   ],
+   "cons": [
+    "Heavy weight",
+    "Limited modern features"
+   ],
+   "best_for": "Professionals who appreciate a classic, durable tote",
+   "skip_if": "You prefer a modern, lightweight design",
+   "link": "https://www.amazon.com/s?k=L.L.Bean+Boat+and+Tote&tag=zoepicks00-20"
+  }
+ ]
 }

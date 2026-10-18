@@ -1,3 +1,24 @@
+[collect] extra sources: +2 readable page(s) -> 6 total (techradar.com, motortrend.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1569 chars, ~3562 in + 3400 out tokens (budget 7000)
+[collect] drop (only 1 sources): Fanttik Slim V10 APEX
+[collect] drop (only 1 sources): Worx 20V Power Share Cordless Cube Vac
+[collect] only 2 well-sourced products -> staying draft
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/oled/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-adjustable-dumbbells-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-purifiers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-android-phones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-area-rugs-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-automatic-cat-feeders-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-baby-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bed-frames-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-beginner-acoustic-guitars-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-blenders-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bluetooth-speakers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-board-games-for-families-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bookshelves-2026/index.html
@@ -5,6 +26,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camera-phones-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cameras-for-beginners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cameras-for-beginners-2026/action/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camping-tents-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-car-vacuums-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-carry-on-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-coffee-makers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-comforter-sets-2026/index.html
@@ -60,6 +82,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-impact-drivers
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-insulated-water-bottles-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-keyboards-for-typing-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kids-tablets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/index.html
@@ -95,6 +118,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelli
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-for-work-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-obd2-scanners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pc-controllers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-cameras-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-grooming-vacuums-2026/index.html
@@ -120,9 +144,11 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-rain-jackets-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-recliners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ride-on-toys-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-security-cameras-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-litter-boxes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sleeping-bags-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-displays-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-thermostats-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartwatches-2026/index.html
@@ -130,6 +156,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sofas-under-10
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-soundbars-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-space-heaters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stand-mixers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-standing-desks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steam-mop-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stem-toys-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stove-top-pressure-cooker-2026/index.html
@@ -167,34 +194,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbu
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-monitors-under-200-2026 draft
-[collect] topic: Top Small Phones for One-Hand Use (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://www.androidauthority.com/sony-xperia-z5-compact-review-649223
-[collect] browser fetch 271 chars: https://www.androidauthority.com/sony-xperia-z5-compact-review-649223
-[collect] 5/5 source pages fetched
-[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1892 chars, ~3029 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Motorola Razr 60 Ultra
-[collect] FAILED best-compact-phones-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Gaming Monitors: 1440p to 4K (2026)
-[collect] tavily -> 5 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/monitor/learn/how-we-test
-[collect] 5/5 source pages fetched
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1892 chars, ~3566 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): MSI MPG 272URX
-[collect] FAILED best-gaming-monitors-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Monitors to Pair With Your Mac (2026)
-[collect] tavily -> 3 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/monitor/tests/inputs/macos-compatibility
-[collect] 3/3 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (creativebloq.com)
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 4 sources x 2374 chars, ~3572 in + 3400 out tokens (budget 7000)
-[collect] FAILED best-monitors-for-mac-2026: 'str' object has no attribute 'get'
-[collect] 3 failures in a row -> stopping this run
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,013 requested 2,923", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,049 requested 2,912", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,546 requested 2,871", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 197,287 requested 2,754", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,364 requested 2,723"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 20 guide(s) built, 30 topic(s) tried
+[collect] done: best-car-vacuums-2026 draft
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['5tBZ', '8SBW', 'ITNE', 'LQ4f']
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,876 requested 2,836", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,819 requested 2,620", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,797 requested 2,564", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,151 requested 2,632", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,529 requested 2,631", "5tBZ|openai/gpt-oss-20b": "limit 200,000 used 199,524 requested 2,714", "LQ4f|openai/gpt-oss-20b": "limit 200,000 used 199,176 requested 2,773", "ITNE|openai/gpt-oss-20b": "limit 200,000 used 199,772 requested 3,486", "8SBW|openai/gpt-oss-20b": "limit 200,000 used 197,887 requested 2,830"}, "toolarge": {}, "minute": {"5tBZ|qwen/qwen3.8-27b": "", "LQ4f|qwen/qwen3.8-27b": "", "ITNE|qwen/qwen3.8-27b": "", "8SBW|qwen/qwen3.8-27b": ""}, "noaccess": {"5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
+[collect] run finished: 36 guide(s) built, 50 topic(s) tried

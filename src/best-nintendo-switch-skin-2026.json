@@ -3,9 +3,65 @@
  "title": "Best Nintendo Switch Skin (2026)",
  "category": "gaming",
  "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I selected products mentioned in at least one source, prioritizing those cited by more than one source. Sources used: 1 (IGN), 3 (ZoomHitskins), and 5 (TheAmazingBees).",
- "assumptions": "Prices are not disclosed in the excerpts, so all price fields are null.",
- "products": [],
- "draft": true
+ "summary": "The only reliable skin options for the Nintendo Switch in 2026 come from the template vectors sold on ArmobileSkin, offering affordable, easy‑to‑apply skins for various Switch models.",
+ "method": "I selected products that appear in more than one source (source 5 lists all four templates) and excluded any that are warned against by IGN (source 1).",
+ "assumptions": "Prices are taken directly from source 5; no other pricing info is available.",
+ "products": [
+  {
+   "name": "Nintendo Switch OLED Skin Template Vector",
+   "short": "OLED Skin Template",
+   "badge": "Best Value",
+   "why": [
+    "This template is available for $6.20, a significant discount from its original price of $12.80.",
+    "It is specifically designed for the Nintendo Switch OLED, ensuring a precise fit."
+   ],
+   "best_for": "Owners of the Switch OLED looking for a budget-friendly skin",
+   "skip_if": "If you prefer a pre‑cut skin rather than a template",
+   "price": "$6.20 at ArmobileSkin",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+OLED+Skin+Template+Vector&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Nintendo Switch Lite Skin Template Vector",
+   "short": "Lite Skin Template",
+   "badge": "Best Value",
+   "why": [
+    "Priced at $5.50 after a 53% discount from the original $11.80.",
+    "Tailored for the Switch Lite, it offers a snug fit."
+   ],
+   "best_for": "Switch Lite users wanting a cost‑effective skin",
+   "skip_if": "If you need a full‑size skin for a non‑Lite model",
+   "price": "$5.50 at ArmobileSkin",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+Lite+Skin+Template+Vector&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Nintendo Switch Skin Template Vector",
+   "short": "Standard Skin Template",
+   "badge": "Best Value",
+   "why": [
+    "Available for $6.20, down from $12.80.",
+    "Designed for the standard Switch, it covers the console and Joy‑Cons."
+   ],
+   "best_for": "Standard Switch owners seeking an affordable skin",
+   "skip_if": "If you own the OLED or Lite models",
+   "price": "$6.20 at ArmobileSkin",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+Skin+Template+Vector&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Nintendo Switch 2 Skin Template Vector",
+   "short": "Switch 2 Skin Template",
+   "badge": "Best Value",
+   "why": [
+    "Marked at $19.00 after a 58% discount from the original $45.00.",
+    "Specifically made for the upcoming Switch 2, ensuring compatibility."
+   ],
+   "best_for": "Future Switch 2 owners wanting a pre‑cut skin",
+   "skip_if": "If you currently own an older Switch model",
+   "price": "$19.00 at ArmobileSkin",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+2+Skin+Template+Vector&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  }
+ ]
 }

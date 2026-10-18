@@ -4,8 +4,8 @@
  "category": "home_kitchen",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I selected products that appear in at least two of the provided sources, prioritizing those with the most detailed endorsements. The sites used were Tom’s Guide (0), CNET (2), Good Housekeeping (3), and WPsychService (4).",
- "assumptions": "Prices are reported only when a source lists them; otherwise the price field is null. No external pricing or discount information was added beyond what the excerpts provide.",
+ "method": "Products were selected from Tom’s Guide, CNET, Good Housekeeping, WPsychService, and Taste of Home, prioritizing items mentioned by more than one source and ranking by overall recommendation.",
+ "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
  "products": [],
  "draft": true
 }

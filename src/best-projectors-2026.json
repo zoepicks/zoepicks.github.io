@@ -3,9 +3,75 @@
  "title": "Top Projectors for Movie Nights & Gaming (2026)",
  "category": "smart_home",
  "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least two of the cited sources (CNET, TechRadar, ExpertReviews, PCMag, Whathifi).",
- "assumptions": "Prices are only included when explicitly stated in the sources; otherwise null.",
- "products": [],
- "draft": true
+ "summary": "Top projectors for movie nights and gaming in 2026, chosen from multiple expert reviews.",
+ "method": "Selected products that appear in more than one source, prioritizing those highlighted as best overall, best for gaming, or best ultra‑short throw. Sources used: CNET (0), RTINGS (2), The Independent (4).",
+ "assumptions": "Prices are only included when explicitly stated in the source excerpts; no additional pricing or discount information is added.",
+ "products": [
+  {
+   "name": "Xgimi Titan Noir Pro",
+   "short": "Titan Noir Pro",
+   "badge": "Best Overall",
+   "why": [
+    "Incredible brightness",
+    "Excellent contrast",
+    "Flexible zoom",
+    "Expensive",
+    "Typical laser artifacts/issues"
+   ],
+   "specs": [
+    "Incredible brightness",
+    "Excellent contrast",
+    "Flexible zoom",
+    "Expensive",
+    "Typical laser artifacts/issues"
+   ],
+   "best_for": "Those who want the brightest, most versatile projector for home cinema and gaming",
+   "skip_if": "You need a very low‑budget option",
+   "link": "https://www.amazon.com/s?k=Xgimi+Titan+Noir+Pro&tag=zoepicks00-20"
+  },
+  {
+   "name": "Epson Home Cinema 5050UB",
+   "short": "5050UB",
+   "badge": "Best 4K LCD Projector",
+   "why": [
+    "Superb overall picture quality",
+    "Excellent contrast ratio",
+    "Motorized lens",
+    "Ample lens shift and motorized zoom",
+    "Huge",
+    "Still uses replaceable lamps"
+   ],
+   "specs": [
+    "Superb overall picture quality",
+    "Excellent contrast ratio",
+    "Motorized lens",
+    "Ample lens shift and motorized zoom",
+    "Huge",
+    "Still uses replaceable lamps"
+   ],
+   "best_for": "Home theater enthusiasts who want premium 4K performance",
+   "skip_if": "You prefer a laser‑based projector",
+   "link": "https://www.amazon.com/s?k=Epson+Home+Cinema+5050UB&tag=zoepicks00-20"
+  },
+  {
+   "name": "BenQ X500i",
+   "short": "X500i",
+   "badge": "Best for Gaming",
+   "best_for": "Gamers looking for a projector with low input lag and good gaming performance",
+   "skip_if": "You need 4K resolution or ultra‑short throw",
+   "price": "£1,499 at The Independent",
+   "link": "https://www.amazon.com/s?k=BenQ+X500i&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Anker Nebula X1",
+   "short": "Nebula X1",
+   "badge": "Best Overall",
+   "best_for": "Users wanting a high‑end, feature‑rich projector for home cinema",
+   "skip_if": "You need a very low‑budget option",
+   "price": "£2,200 at The Independent",
+   "link": "https://www.amazon.com/s?k=Anker+Nebula+X1&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  }
+ ]
 }

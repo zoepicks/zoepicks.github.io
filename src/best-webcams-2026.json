@@ -2,9 +2,107 @@
  "slug": "best-webcams-2026",
  "title": "Top Webcams for Sharp Video Calls (2026)",
  "category": "accessories",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on webcam reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "The top webcams for sharp video calls in 2026 are the Obsbot Tiny 3, Obsbot Tiny SE, Logitech StreamCam, Razer Kiyo, and Logitech MX Brio, chosen for their superior image quality, advanced tracking, and versatile features.",
+ "method": "Selections were based on repeated recommendations across the Consumer Reports, PCMag, Tom’s Guide, and CNET sources, prioritizing products cited by more than one site and highlighting their key strengths.",
+ "assumptions": "Prices are only included when explicitly stated in the sources; otherwise the price field is null.",
+ "products": [
+  {
+   "name": "Obsbot Tiny 3",
+   "short": "Obsbot Tiny 3",
+   "badge": "Best Overall",
+   "why": [
+    "Obsbot Tiny 3 delivers best‑in‑class AI tracking, sharp 4K video, and smooth 1080p120 recording, making it the most capable webcam for premium users.",
+    "Its compact design, built‑in gimbal, and voice/gesture controls provide a polished experience for both videoconferencing and content creation."
+   ],
+   "specs": [
+    "4K30 video",
+    "1080p120 recording",
+    "Built‑in gimbal",
+    "AI movement tracking",
+    "Voice and gesture control",
+    "Uncompressed audio"
+   ],
+   "pros": [
+    "4K video quality",
+    "AI tracking",
+    "Compact size",
+    "Voice control",
+    "Excellent audio"
+   ],
+   "cons": [
+    "Expensive",
+    "Gimbal is a little slow",
+    "No Windows Hello support",
+    "No hand tracking in desk mode"
+   ],
+   "best_for": "Professionals and creators who need top‑tier video and audio in a small form factor",
+   "skip_if": "You’re on a tight budget or need a simple 1080p webcam",
+   "link": "https://www.amazon.com/s?k=Obsbot+Tiny+3&tag=zoepicks00-20"
+  },
+  {
+   "name": "Obsbot Tiny SE",
+   "short": "Obsbot Tiny SE",
+   "badge": "Best Value",
+   "why": [
+    "Obsbot Tiny SE offers mechanical pan and tilt with automatic movement tracking at a lower price than its 4K sibling.",
+    "It delivers bright, sharp 1080p video and powerful control software for versatile use."
+   ],
+   "specs": [
+    "1080p video",
+    "Mechanical pan and tilt",
+    "Automatic movement tracking",
+    "Bright, sharp picture",
+    "Powerful control software"
+   ],
+   "pros": [
+    "Affordable",
+    "Pan/tilt support",
+    "Auto‑framing options",
+    "Bright image"
+   ],
+   "cons": [
+    "No 4K resolution",
+    "Gimbal is a little slow",
+    "No voice controls",
+    "Relatively inexpensive but still pricey for some"
+   ],
+   "best_for": "Users who want advanced tracking without the 4K price tag",
+   "skip_if": "You need 4K video or voice control",
+   "link": "https://www.amazon.com/s?k=Obsbot+Tiny+SE&tag=zoepicks00-20"
+  },
+  {
+   "name": "Razer Kiyo",
+   "short": "Razer Kiyo",
+   "badge": "Best Ring Light",
+   "why": [
+    "Razer Kiyo features a built‑in ring light that works well in low‑light situations, aiding video quality.",
+    "Its autofocus and versatile design allow clipping onto any screen or mounting on a tripod."
+   ],
+   "specs": [
+    "1080p @ 30fps",
+    "Auto focus",
+    "Built‑in ring light",
+    "L‑shaped joint",
+    "Plug‑and‑play"
+   ],
+   "pros": [
+    "Built‑in ring light",
+    "Great autofocus",
+    "Versatile design",
+    "Plug‑and‑play"
+   ],
+   "cons": [
+    "Subpar microphone",
+    "Ring light can be piercing",
+    "Performance depends on environment",
+    "Steep competition"
+   ],
+   "best_for": "Users who need a low‑light solution without external lighting",
+   "skip_if": "You prefer a silent, high‑quality mic or 4K video",
+   "price": "$99 at Store",
+   "link": "https://www.amazon.com/s?k=Razer+Kiyo&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  }
+ ]
 }

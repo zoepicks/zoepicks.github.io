@@ -4,7 +4,7 @@
  "category": "toys_kids",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I selected sets that appear in at least two of the provided sources (CNET, Yours.co.uk, and Wargamer). The picks are ordered by how many sources mention them and by the prominence of the set in each review.",
+ "method": "I selected sets that were highlighted in the articles, giving priority to those mentioned by more than one source (none met that criterion, so I chose the most frequently discussed and visually striking options). The sites used were CNET (source 1), Wargamer (source 5), and IGN (source 7).",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null. No external pricing or discount information was added.",
  "products": [],
  "draft": true
