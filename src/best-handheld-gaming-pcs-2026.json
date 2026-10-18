@@ -38,7 +38,10 @@
    "skip_if": "You have a tight budget",
    "price": "$899 at Asus",
    "link": "https://www.amazon.com/s?k=Asus+ROG+Xbox+Ally+X&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "asin": "B0GHYCFPSV",
+   "image": "https://m.media-amazon.com/images/I/41TBXobiQNL.jpg",
+   "image_asin": "B0GHYCFPSV"
   },
   {
    "name": "Lenovo Legion Go S",
@@ -68,7 +71,10 @@
    ],
    "best_for": "Steam users seeking high performance",
    "skip_if": "You prefer Windows-only titles",
-   "link": "https://www.amazon.com/s?k=Lenovo+Legion+Go+S&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Lenovo+Legion+Go+S&tag=zoepicks00-20",
+   "asin": "B0DTBN55K9",
+   "image": "https://m.media-amazon.com/images/I/71axrw7z6WL.jpg",
+   "image_asin": "B0DTBN55K9"
   },
   {
    "name": "MSI Claw 8 AI+",
@@ -100,7 +106,10 @@
    "skip_if": "You need the absolute top tier performance",
    "price": "$599 at MSI",
    "link": "https://www.amazon.com/s?k=MSI+Claw+8+AI%2B&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "asin": "B0F7SLMWY7",
+   "image": "https://m.media-amazon.com/images/I/61-vPdl7zML.jpg",
+   "image_asin": "B0F7SLMWY7"
   },
   {
    "name": "Steam Deck OLED",
@@ -131,7 +140,10 @@
    "skip_if": "You need Windows compatibility or top performance",
    "price": "$649 at Valve",
    "link": "https://www.amazon.com/s?k=Steam+Deck+OLED&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "asin": "B0CQ3L4726",
+   "image": "https://m.media-amazon.com/images/I/61yx3cbytcL.jpg",
+   "image_asin": "B0CQ3L4726"
   }
  ]
 }
