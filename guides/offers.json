@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T15:09:59Z",
+ "updated": "2026-10-18T15:11:16Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -608,16 +608,17 @@
   ],
   "smart_home": [
    {
-    "asin": "B0C683F516",
-    "name": "Arlo Video Doorbell 2K",
-    "pct": 38,
-    "rating": 4.1,
-    "t": 1792239399,
-    "img": "https://m.media-amazon.com/images/I/61uZs-NyAbL.jpg",
-    "link": "https://www.amazon.com/dp/B0C683F516?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "79.99",
-    "reviews": 1842,
+    "asin": "B0B28G5Y4R",
+    "name": "HAPPRUN Native 1080P Bluetooth Projector",
+    "pct": 45,
+    "rating": 4.3,
+    "t": 1792327302,
+    "img": "https://m.media-amazon.com/images/I/816CUoLVaCL.jpg",
+    "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
+    "now": "59.99",
+    "was": "109.99",
+    "deal": "Limited time deal",
+    "reviews": 13979,
     "tier": "budget"
    },
    {
@@ -635,17 +636,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HDN32NF5",
-    "name": "[VIDAA Live TV & 6000 ANSI & Now",
-    "pct": 47,
-    "rating": 4.8,
+    "asin": "B0HBQX47FV",
+    "name": "Portable Smart Projector [Bundled",
+    "pct": 53,
+    "rating": 4.4,
     "t": 1792328545,
-    "img": "https://m.media-amazon.com/images/I/71xS9zvt8fL.jpg",
-    "link": "https://www.amazon.com/dp/B0HDN32NF5?tag=zoepicks00-20",
-    "now": "299.99",
-    "was": "569.99",
-    "deal": "Limited time deal",
-    "reviews": 112,
+    "img": "https://m.media-amazon.com/images/I/81NHpGrjE+L.jpg",
+    "link": "https://www.amazon.com/dp/B0HBQX47FV?tag=zoepicks00-20",
+    "now": "219.99",
+    "was": "469.99",
+    "reviews": 822,
     "tier": "premium"
    }
   ],
@@ -878,6 +878,11 @@
    {
     "key": "travel-adapters",
     "label": "Travel Adapters",
+    "items": []
+   },
+   {
+    "key": "webcams",
+    "label": "Webcams",
     "items": []
    }
   ],
@@ -1764,6 +1769,11 @@
       "reviews": 1951
      }
     ]
+   },
+   {
+    "key": "tote-bags",
+    "label": "Tote Bags",
+    "items": []
    }
   ],
   "fitness_outdoor": [
@@ -2150,6 +2160,25 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "standing-desks",
+    "label": "Standing Desks",
+    "items": [
+     {
+      "asin": "B0HJZ4J2VF",
+      "name": "VASAGLE Standing Desk",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1792330191,
+      "img": "https://m.media-amazon.com/images/I/71YMaFSL2-L.jpg",
+      "link": "https://www.amazon.com/dp/B0HJZ4J2VF?tag=zoepicks00-20",
+      "now": "105.52",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 1850
+     }
+    ]
    }
   ],
   "gaming": [
@@ -2363,6 +2392,16 @@
    {
     "key": "handheld-gaming-pcs",
     "label": "Handheld Gaming PCs",
+    "items": []
+   },
+   {
+    "key": "nintendo-switch-skin",
+    "label": "Nintendo Switch Skin",
+    "items": []
+   },
+   {
+    "key": "pc-controllers",
+    "label": "PC Controllers",
     "items": []
    }
   ],
@@ -3648,6 +3687,53 @@
     ]
    },
    {
+    "key": "projectors",
+    "label": "Projectors",
+    "items": [
+     {
+      "asin": "B0B28G5Y4R",
+      "name": "HAPPRUN Native 1080P Bluetooth Projector",
+      "pct": 45,
+      "rating": 4.3,
+      "t": 1792327302,
+      "img": "https://m.media-amazon.com/images/I/816CUoLVaCL.jpg",
+      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
+      "now": "59.99",
+      "was": "109.99",
+      "deal": "Limited time deal",
+      "reviews": 13979,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HBQX47FV",
+      "name": "Portable Smart Projector [Bundled",
+      "pct": 53,
+      "rating": 4.4,
+      "t": 1792328545,
+      "img": "https://m.media-amazon.com/images/I/81NHpGrjE+L.jpg",
+      "link": "https://www.amazon.com/dp/B0HBQX47FV?tag=zoepicks00-20",
+      "now": "219.99",
+      "was": "469.99",
+      "reviews": 822,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FDQFZ6HM",
+      "name": "HAPPRUN 1500 ANSI Official Licensed Google TV Outdoor 4K…",
+      "pct": 36,
+      "rating": 4.5,
+      "t": 1792328545,
+      "img": "https://m.media-amazon.com/images/I/71PxH37BZ+L.jpg",
+      "link": "https://www.amazon.com/dp/B0FDQFZ6HM?tag=zoepicks00-20",
+      "now": "250.70",
+      "was": "389.99",
+      "deal": "Limited time deal",
+      "reviews": 312,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "smart-thermostats",
     "label": "Smart Thermostats",
     "items": [
@@ -3787,6 +3873,24 @@
     ]
    },
    {
+    "key": "smart-displays",
+    "label": "Smart Displays",
+    "items": [
+     {
+      "asin": "B0F3HCLNWQ",
+      "name": "antfit Smart Watch",
+      "pct": 22,
+      "rating": 4.3,
+      "t": 1792328183,
+      "img": "https://m.media-amazon.com/images/I/71NPwmeYGnL.jpg",
+      "link": "https://www.amazon.com/dp/B0F3HCLNWQ?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "45.99",
+      "reviews": 733
+     }
+    ]
+   },
+   {
     "key": "streaming-devices",
     "label": "Streaming Devices",
     "items": [
@@ -3817,6 +3921,11 @@
       "reviews": 3650
      }
     ]
+   },
+   {
+    "key": "mesh-wi-fi-systems",
+    "label": "Mesh Wi Fi Systems",
+    "items": []
    }
   ],
   "tools_auto": [
