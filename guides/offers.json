@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T08:33:13Z",
+ "updated": "2026-10-18T11:37:58Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -91,6 +91,34 @@
   ],
   "fashion": [
    {
+    "asin": "B071ZYHCM6",
+    "name": "YOREPEK Large Laptop Backpack",
+    "pct": 47,
+    "rating": 4.7,
+    "t": 1792226749,
+    "img": "https://m.media-amazon.com/images/I/71dSOfW5A0L.jpg",
+    "link": "https://www.amazon.com/dp/B071ZYHCM6?tag=zoepicks00-20",
+    "now": "22.07",
+    "was": "41.99",
+    "deal": "Limited time deal",
+    "reviews": 53170,
+    "tier": "budget"
+   },
+   {
+    "asin": "B07V4R4Z77",
+    "name": "SHRRADOO Extra Large Travel Laptop Backpack",
+    "pct": 15,
+    "rating": 4.7,
+    "t": 1792226749,
+    "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
+    "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
+    "now": "25.49",
+    "was": "29.99",
+    "deal": "Limited time deal",
+    "reviews": 43947,
+    "tier": "mid"
+   },
+   {
     "asin": "B0F9FH9CBJ",
     "name": "PRETTYGARDEN 2 Piece Lounge Sets",
     "pct": 28,
@@ -101,35 +129,22 @@
     "now": "35.99",
     "was": "49.99",
     "deal": "Limited time deal",
-    "reviews": 1334
-   },
-   {
-    "asin": "B0CC983BYN",
-    "name": "AUTOMET Womens 2 Piece Lounge Sweat Sets Fall Fashion…",
-    "pct": 10,
-    "rating": 4.4,
-    "t": 1792226007,
-    "img": "https://m.media-amazon.com/images/I/51XW04Z8p-L.jpg",
-    "link": "https://www.amazon.com/dp/B0CC983BYN?tag=zoepicks00-20",
-    "now": "34.19",
-    "was": "37.99",
-    "deal": "Limited time deal",
-    "reviews": 5378
+    "reviews": 1334,
+    "tier": "premium"
    }
   ],
   "fitness_outdoor": [
    {
-    "asin": "B0G4CSRLHV",
-    "name": "WolfWise Pop Up Shower Tent",
-    "pct": 13,
+    "asin": "B093T3Y6GB",
+    "name": "Yaheetech Adjustable Dumbbell Set Free Weights",
+    "pct": 20,
     "rating": 4.4,
-    "t": 1792227409,
-    "img": "https://m.media-amazon.com/images/I/6197tFXtdOL.jpg",
-    "link": "https://www.amazon.com/dp/B0G4CSRLHV?tag=zoepicks00-20",
-    "now": "34.88",
-    "was": "39.99",
-    "deal": "Limited time deal",
-    "reviews": 9462,
+    "t": 1792294640,
+    "img": "https://m.media-amazon.com/images/I/91pnjFQniwS.jpg",
+    "link": "https://www.amazon.com/dp/B093T3Y6GB?tag=zoepicks00-20",
+    "now": "37.97",
+    "was": "49.99",
+    "reviews": 4337,
     "tier": "budget"
    },
    {
@@ -480,6 +495,34 @@
     "reviews": 111,
     "tier": "premium"
    }
+  ],
+  "toys_kids": [
+   {
+    "asin": "B0BL5TKDVG",
+    "name": "Amazon Fire HD 10 Kids tablet",
+    "pct": 45,
+    "rating": 4.5,
+    "t": 1792226749,
+    "img": "https://m.media-amazon.com/images/I/61sWsuHEcZL.jpg",
+    "link": "https://www.amazon.com/dp/B0BL5TKDVG?tag=zoepicks00-20",
+    "now": "104.99",
+    "was": "189.99",
+    "deal": "Limited time deal",
+    "reviews": 8846
+   },
+   {
+    "asin": "B0D38FT41H",
+    "name": "Amazon Fire HD 8 Kids tablet",
+    "pct": 44,
+    "rating": 4.6,
+    "t": 1792226749,
+    "img": "https://m.media-amazon.com/images/I/61ugA0LAAjL.jpg",
+    "link": "https://www.amazon.com/dp/B0D38FT41H?tag=zoepicks00-20",
+    "now": "94.99",
+    "was": "169.99",
+    "deal": "Limited time deal",
+    "reviews": 5164
+   }
   ]
  },
  "types": {
@@ -611,6 +654,16 @@
    {
     "key": "hair-dryers",
     "label": "Hair Dryers",
+    "items": []
+   },
+   {
+    "key": "water-flossers",
+    "label": "Water Flossers",
+    "items": []
+   },
+   {
+    "key": "epilators",
+    "label": "Epilators",
     "items": []
    }
   ],
@@ -952,6 +1005,54 @@
   ],
   "fashion": [
    {
+    "key": "travel-backpacks",
+    "label": "Travel Backpacks",
+    "items": [
+     {
+      "asin": "B06XZTZ7GB",
+      "name": "MATEIN Travel Laptop Backpack",
+      "pct": 45,
+      "rating": 4.7,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/71ocYTnmgeL.jpg",
+      "link": "https://www.amazon.com/dp/B06XZTZ7GB?tag=zoepicks00-20",
+      "now": "18.68",
+      "was": "33.99",
+      "deal": "Limited time deal",
+      "reviews": 115216,
+      "tier": "budget"
+     },
+     {
+      "asin": "B071ZYHCM6",
+      "name": "YOREPEK Large Laptop Backpack",
+      "pct": 47,
+      "rating": 4.7,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/71dSOfW5A0L.jpg",
+      "link": "https://www.amazon.com/dp/B071ZYHCM6?tag=zoepicks00-20",
+      "now": "22.07",
+      "was": "41.99",
+      "deal": "Limited time deal",
+      "reviews": 53170,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07V4R4Z77",
+      "name": "SHRRADOO Extra Large Travel Laptop Backpack",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
+      "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 43947,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "hoodies",
     "label": "Hoodies",
     "items": [
@@ -966,7 +1067,8 @@
       "now": "35.99",
       "was": "49.99",
       "deal": "Limited time deal",
-      "reviews": 1334
+      "reviews": 1334,
+      "tier": "premium"
      },
      {
       "asin": "B0CC983BYN",
@@ -982,6 +1084,16 @@
       "reviews": 5378
      }
     ]
+   },
+   {
+    "key": "compression-socks",
+    "label": "Compression Socks",
+    "items": []
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
+    "items": []
    }
   ],
   "fitness_outdoor": [
@@ -1032,6 +1144,61 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "adjustable-dumbbells",
+    "label": "Adjustable Dumbbells",
+    "items": [
+     {
+      "asin": "B093T3Y6GB",
+      "name": "Yaheetech Adjustable Dumbbell Set Free Weights",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1792294640,
+      "img": "https://m.media-amazon.com/images/I/91pnjFQniwS.jpg",
+      "link": "https://www.amazon.com/dp/B093T3Y6GB?tag=zoepicks00-20",
+      "now": "37.97",
+      "was": "49.99",
+      "reviews": 4337,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DJ892TWT",
+      "name": "FEIERDUN DB3 5-in-1 Adjustable Dumbbell Set",
+      "pct": 22,
+      "rating": 4.8,
+      "t": 1792203772,
+      "img": "https://m.media-amazon.com/images/I/71zY-yuZ-BL.jpg",
+      "link": "https://www.amazon.com/dp/B0DJ892TWT?tag=zoepicks00-20",
+      "now": "69.97",
+      "was": "89.99",
+      "reviews": 690,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GSQMD3BG",
+      "name": "Yagud Adjustable Dumbbell Set",
+      "pct": 21,
+      "rating": 4.7,
+      "t": 1792233093,
+      "img": "https://m.media-amazon.com/images/I/71Lp8l3vlJL.jpg",
+      "link": "https://www.amazon.com/dp/B0GSQMD3BG?tag=zoepicks00-20",
+      "now": "227.99",
+      "was": "289.99",
+      "reviews": 73,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": []
+   },
+   {
+    "key": "exercise-bikes",
+    "label": "Exercise Bikes",
+    "items": []
    },
    {
     "key": "walking-pads",
@@ -1602,6 +1769,11 @@
     "key": "stand-mixers",
     "label": "Stand Mixers",
     "items": []
+   },
+   {
+    "key": "humidifiers",
+    "label": "Humidifiers",
+    "items": []
    }
   ],
   "laptops": [
@@ -2026,6 +2198,51 @@
    {
     "key": "tire-inflators",
     "label": "Tire Inflators",
+    "items": []
+   }
+  ],
+  "toys_kids": [
+   {
+    "key": "kids-tablets",
+    "label": "Kids Tablets",
+    "items": [
+     {
+      "asin": "B0BL5TKDVG",
+      "name": "Amazon Fire HD 10 Kids tablet",
+      "pct": 45,
+      "rating": 4.5,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/61sWsuHEcZL.jpg",
+      "link": "https://www.amazon.com/dp/B0BL5TKDVG?tag=zoepicks00-20",
+      "now": "104.99",
+      "was": "189.99",
+      "deal": "Limited time deal",
+      "reviews": 8846,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D38FT41H",
+      "name": "Amazon Fire HD 8 Kids tablet",
+      "pct": 44,
+      "rating": 4.6,
+      "t": 1792226749,
+      "img": "https://m.media-amazon.com/images/I/61ugA0LAAjL.jpg",
+      "link": "https://www.amazon.com/dp/B0D38FT41H?tag=zoepicks00-20",
+      "now": "94.99",
+      "was": "169.99",
+      "deal": "Limited time deal",
+      "reviews": 5164
+     }
+    ]
+   },
+   {
+    "key": "board-games-families",
+    "label": "Board Games Families",
+    "items": []
+   },
+   {
+    "key": "strollers",
+    "label": "Strollers",
     "items": []
    }
   ]
