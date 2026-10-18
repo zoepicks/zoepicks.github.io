@@ -493,3 +493,11 @@ nav .wrap{height:54px}
 @media(prefers-reduced-motion:reduce){.ess-all{animation:none}}
 .ess-h b{min-width:0;overflow:hidden;text-overflow:ellipsis}
 @media(max-width:410px){.ess-h{gap:4px}.ess-h b{font-size:13.5px}.ess-all{padding:5px 10px;font-size:12px}.ess-d .ess-a{width:24px;height:24px;font-size:16px}.ess-n{min-width:30px;font-size:12px}}
+
+/* nav social join buttons (home) */
+nav .soc{display:flex;gap:8px;align-items:center}
+nav a.so{display:inline-flex;align-items:center;gap:6px;height:34px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--ink);text-decoration:none;font-size:13px;font-weight:700}
+nav a.so.tg{color:#229ED9}
+nav a.so b{font-weight:700;color:var(--ink)}
+nav a.so:active{transform:scale(.96)}
+@media(max-width:380px){nav a.so b{display:none}nav a.so{padding:0 10px}}
