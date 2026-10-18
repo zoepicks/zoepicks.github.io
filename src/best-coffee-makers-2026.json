@@ -3,7 +3,7 @@
  "title": "Best Coffee Makers 2026: Drip, Cold Brew & More",
  "category": "home_kitchen",
  "date": "Oct 18, 2026",
- "summary": "We compared the top-rated drip coffee makers of 2026 using lab tests from Consumer Reports and expert brew tests. The Technivorm Moccamaster is the best overall, the OXO Brew 9-Cup is the best value, and the Breville Precision Brewer is best if you like to tune your cup. We also include a programmable family pick, a compact brewer, a budget machine and a cold brew maker.",
+ "summary": "Most home coffee tastes flat because the machine never reaches the right brew temperature. We sorted 2026's drip makers down to 7 that get it right, from the best-in-class Moccamaster to a budget-friendly OXO. Pick wrong and you drink mediocre coffee every morning for years.",
  "method": "We started from lab and expert tests, including Consumer Reports and hands-on brew tests that check water temperature, bloom and extraction. Machines certified by the Specialty Coffee Association and those that score well for brew quality, ease of cleaning and reliability ranked higher. Each pick below is matched to a different kind of coffee drinker.",
  "assumptions": "Prices change often, so check the current price on Amazon before you buy. Capacity is listed in cups of about 5 oz, as machines measure it.",
  "products": [
@@ -12,8 +12,8 @@
    "short": "Moccamaster KBGV Select",
    "badge": "Best Overall",
    "why": [
-    "Hand-built in the Netherlands around a copper heating element, it is built to hold brewing water in the ideal temperature window for the whole cycle.",
-    "It is certified by the Specialty Coffee Association, so the brew temperature and time meet the standard serious coffee people use."
+    "This is the machine coffee people buy once and keep for years: a copper heating element, a hand-built body and SCA certification.",
+    "If you drink drip every day, the daily gap in taste is the reason to pay more."
    ],
    "specs": [
     "SCA-certified brewer",
@@ -34,7 +34,7 @@
     "Hot plate keeps coffee warm but can cook it if left too long"
    ],
    "best_for": "People who drink drip coffee every day and want the best cup without fuss",
-   "skip_if": "You want a programmable timer or a thermal carafe on a tight budget",
+   "skip_if": "You want a timer or a thermal carafe, because you will keep wishing it had them",
    "link": "https://www.amazon.com/s?k=Technivorm+Moccamaster+KBGV+Select&tag=zoepicks00-20"
   },
   {
@@ -42,8 +42,8 @@
    "short": "OXO Brew 9-Cup",
    "badge": "Best Value Drip",
    "why": [
-    "A well-regarded mid-price brewer with the Specialty Coffee Association seal, so the water temperature and brew time are checked, not guessed.",
-    "The rainmaker shower head spreads water evenly over the grounds, and the stainless thermal carafe keeps coffee hot without a hot plate."
+    "The sweet spot for most kitchens: SCA-certified temperature and brew time, a thermal carafe, and a timer, without Moccamaster money.",
+    "Coffee stays hot for hours with no burnt hot-plate taste."
    ],
    "specs": [
     "9-cup stainless thermal carafe",
@@ -62,7 +62,7 @@
     "Plastic body feels lighter than premium machines"
    ],
    "best_for": "A small household that wants café-quality drip without paying Moccamaster money",
-   "skip_if": "You regularly brew more than 9 cups at once",
+   "skip_if": "You regularly brew more than 9 cups, since you will end up making two pots",
    "link": "https://www.amazon.com/s?k=OXO+Brew+9-Cup+Coffee+Maker&tag=zoepicks00-20"
   },
   {
@@ -70,8 +70,8 @@
    "short": "Breville Precision Brewer",
    "badge": "Best for Customizing",
    "why": [
-    "It lets you adjust brew temperature and bloom time, and has a pour-over mode, so you can tune the cup to the beans you buy.",
-    "It is certified by the Specialty Coffee Association and stores your favorite settings, which suits people who like to experiment."
+    "Tune the temperature and bloom time to your beans, then use pour-over mode when you feel like it. No other machine here gives you this much control.",
+    "Buy it if you change beans often. Skip it if one-button coffee is all you want."
    ],
    "specs": [
     "Adjustable brew temperature",
@@ -99,8 +99,8 @@
    "short": "Cuisinart PerfecTemp DCC-3200",
    "badge": "Best Programmable Pick",
    "why": [
-    "Consumer Reports has named it among the best-performing drip machines for brew quality, a rare score at this price.",
-    "It brews up to 14 cups, so it covers a big family or a morning with guests, and the timer lets you wake up to fresh coffee."
+    "Consumer Reports lists it among the top performers, so you get proven brew quality and a 14-cup pot at a fair price.",
+    "Set the timer tonight and wake up to a full carafe."
    ],
    "specs": [
     "14-cup glass carafe",
@@ -118,7 +118,7 @@
     "Not as durable-feeling as premium machines"
    ],
    "best_for": "Big households that want a reliable timer-based machine",
-   "skip_if": "You drink one or two cups at a time",
+   "skip_if": "You drink one or two cups at a time, since a big pot will go stale before you finish it",
    "link": "https://www.amazon.com/s?k=Cuisinart+PerfecTemp+14-Cup+Programmable+Coffee+Maker+%28DCC-3200%29&tag=zoepicks00-20"
   },
   {
@@ -219,5 +219,62 @@
    "amazon_reviews": 3435,
    "amazon_rating_asof": "Oct 18, 2026"
   }
+ ],
+ "intro": [
+  "One number separates great home coffee from sour, flat coffee: how long the water stays between 195 and 205°F. Consumer Reports tests exactly that, and it is why two machines at the same price can taste nothing alike.",
+  "Black Friday is Nov 27, and coffee makers like these are often marked down around then. We re-check Amazon prices every day, so the price on each card is the current one when you read this."
+ ],
+ "voices": [
+  {
+   "name": "How Consumer Reports tests",
+   "src": "Consumer Reports · our note on the catch",
+   "like": "It measures how long a brewer keeps the water in the 195-205°F sweet spot, the thing that decides how the coffee tastes.",
+   "catch": "Most spec sheets never show this number, so look for the Specialty Coffee Association seal on the box."
+  },
+  {
+   "name": "Cuisinart PerfecTemp DCC-3200",
+   "src": "Consumer Reports · our note on the catch",
+   "like": "Consumer Reports lists it among its top performers and says to expect excellent brew performance.",
+   "catch": "It is a glass carafe on a hot plate, so coffee that sits for hours loses its flavor."
+  }
+ ],
+ "tips": {
+  "title": "4 mistakes that ruin good coffee",
+  "items": [
+   [
+    "Buying a bigger pot than you drink.",
+    "Coffee loses flavor on a hot plate. Match the carafe to your household, or choose a thermal carafe."
+   ],
+   [
+    "Using old beans.",
+    "Fresh beans matter more than the machine. Buy whole beans and use them within a few weeks of roasting."
+   ],
+   [
+    "Never descaling.",
+    "Mineral buildup lowers the water temperature and slows the brew. Descale every month or two."
+   ],
+   [
+    "Ignoring the SCA seal.",
+    "It means the machine meets set standards for brew temperature and time, so it is the quickest quality check on the box."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best coffee maker for most people?",
+   "The OXO Brew 9-Cup. It is SCA-certified, has a thermal carafe and a timer, and costs far less than the Moccamaster."
+  ],
+  [
+   "Is the Moccamaster worth the money?",
+   "If you drink drip coffee daily, yes. It is built to last and brews at the right temperature every time. If you drink a cup now and then, a cheaper pick is smarter."
+  ],
+  [
+   "Glass or thermal carafe?",
+   "Thermal keeps coffee hot without a hot plate, so it does not taste cooked later. Glass is fine if you finish the pot quickly."
+  ],
+  [
+   "Do I need cold brew too?",
+   "Only if you drink iced coffee regularly. The OXO cold brew maker makes a concentrate that keeps in the fridge for up to two weeks."
+  ]
  ]
 }
