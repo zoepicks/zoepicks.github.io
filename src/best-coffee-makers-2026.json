@@ -35,7 +35,16 @@
    ],
    "best_for": "Households that regularly drink cold brew",
    "skip_if": "You prefer hot coffee or a drip machine",
-   "link": "https://www.amazon.com/s?k=OXO+Brew+Cold+Brew+Coffee+Maker&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=OXO+Brew+Cold+Brew+Coffee+Maker&tag=zoepicks00-20",
+   "asin": "B00JVSVM36",
+   "image": "https://m.media-amazon.com/images/I/71n1eH8llzL.jpg",
+   "image_asin": "B00JVSVM36",
+   "amazon_price": "$49.99",
+   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_listing": "OXO Brew Cold Brew Coffee Maker | OXO Good Grips Cold Brew Coffee Maker 32 oz, Iced Coffee",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 3435,
+   "amazon_rating_asof": "Oct 18, 2026"
   },
   {
    "name": "OXO Brew 8‑Cup Coffee Maker",
@@ -62,7 +71,10 @@
    ],
    "best_for": "Busy mornings and small kitchens",
    "skip_if": "You need a larger capacity or programmable features",
-   "link": "https://www.amazon.com/s?k=OXO+Brew+8%E2%80%91Cup+Coffee+Maker&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=OXO+Brew+8%E2%80%91Cup+Coffee+Maker&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Ninja 12‑Cup Programmable Coffee Brewer",
@@ -89,7 +101,10 @@
    ],
    "best_for": "Those who want a quick, programmable brew",
    "skip_if": "You need a premium build or advanced customization",
-   "link": "https://www.amazon.com/s?k=Ninja+12%E2%80%91Cup+Programmable+Coffee+Brewer&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ninja+12%E2%80%91Cup+Programmable+Coffee+Brewer&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   }
  ]
 }
