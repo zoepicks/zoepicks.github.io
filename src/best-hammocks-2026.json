@@ -2,9 +2,89 @@
  "slug": "best-hammocks-2026",
  "title": "Top Hammocks for Backyard & Camping (2026)",
  "category": "furniture_decor",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "Top hammock picks for backyard and camping in 2026, ranked by consensus across multiple trusted reviews.",
+ "method": "Selected products that appear in at least two independent sources (Tom’s Guide, OutdoorGearLab, TrailineReview, CleverHiker, BikeHikeSafari).",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise price is null.",
+ "products": [
+  {
+   "name": "Kammok Roo Double",
+   "short": "Roo Double",
+   "badge": "Best for Backyard",
+   "why": [
+    "OutdoorGearLab calls it unbeatable for park or campground use with buttery‑soft fabric and climbing‑grade hardware.",
+    "Its roomy flat‑lay dimensions and durable spreader bars prevent the “taco” feeling common in other designs."
+   ],
+   "specs": [
+    "Fabric: buttery‑soft",
+    "Flat‑lay dimensions: roomy",
+    "Hardware: climbing‑grade"
+   ],
+   "pros": [
+    "Soft fabric",
+    "Durable spreader bars",
+    "Climbing‑grade hardware",
+    "Comfortable for two people"
+   ],
+   "cons": [
+    "Not as lightweight as ultralight options",
+    "Setup requires two trees or a stand"
+   ],
+   "best_for": "Backyard or campground lounging with two people",
+   "skip_if": "You need a single‑person hammock",
+   "link": "https://www.amazon.com/s?k=Kammok+Roo+Double&tag=zoepicks00-20"
+  },
+  {
+   "name": "ENO SingleNest",
+   "short": "SingleNest",
+   "badge": "Best Overall",
+   "why": [
+    "TrailineReview names it the Best Overall for two‑person use with a 70D nylon taffeta construction.",
+    "It offers excellent weight capacity, comfort, and easy setup."
+   ],
+   "specs": [
+    "70D nylon taffeta construction",
+    "Weight capacity: high",
+    "Easy setup"
+   ],
+   "pros": [
+    "High weight capacity",
+    "Comfortable",
+    "Easy to set up"
+   ],
+   "cons": [
+    "Not ultralight",
+    "Limited to two‑person use"
+   ],
+   "best_for": "Backcountry and backyard two‑person use",
+   "skip_if": "You need a single‑person hammock",
+   "link": "https://www.amazon.com/s?k=ENO+SingleNest&tag=zoepicks00-20"
+  },
+  {
+   "name": "Hennessy Hammock Ultralite Backpacker Classic",
+   "short": "Ultralite Classic",
+   "badge": "Best Backpacking",
+   "why": [
+    "BikeHikeSafari lists it as the overall best for serious backcountry use, noting its asymmetrical, bottom‑entry design and included tarp and bug net.",
+    "It weighs 1 lb 15 oz, making it one of the lightest options for thru‑hikers."
+   ],
+   "specs": [
+    "Weight: 1 lb 15 oz",
+    "Asymmetrical, bottom‑entry design",
+    "Includes tarp and bug net"
+   ],
+   "pros": [
+    "Very lightweight",
+    "Includes tarp and bug net",
+    "Comfortable for long hikes"
+   ],
+   "cons": [
+    "Heavier than the absolute lightest hammocks",
+    "Setup may be more involved due to included accessories"
+   ],
+   "best_for": "Thru‑hikers and ultralight backpackers",
+   "skip_if": "You need a heavier, more durable hammock for extended camping",
+   "link": "https://www.amazon.com/s?k=Hennessy+Hammock+Ultralite+Backpacker+Classic&tag=zoepicks00-20"
+  }
+ ]
 }

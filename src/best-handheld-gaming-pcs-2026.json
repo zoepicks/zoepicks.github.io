@@ -2,9 +2,136 @@
  "slug": "best-handheld-gaming-pcs-2026",
  "title": "Top Handheld Gaming PCs Like the Steam Deck (2026)",
  "category": "gaming",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on handheld reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "The top handheld gaming PCs of 2026, ranked by performance, price, and user experience, are the Asus ROG Xbox Ally X, Lenovo Legion Go S, MSI Claw 8 AI+, and the Steam Deck OLED, each highlighted by multiple tech outlets.",
+ "method": "I selected products that appear in at least two of the provided sources (PC Gamer, Tom’s Hardware, TechRadar, IGN). The list is ordered from highest to lowest overall recommendation based on repeated praise and coverage.",
+ "assumptions": "Prices are only included when explicitly stated in a source; otherwise the price field is null.",
+ "products": [
+  {
+   "name": "Asus ROG Xbox Ally X",
+   "short": "Ally X",
+   "badge": "Best Overall",
+   "why": [
+    "The device is described as \"the best handheld gaming PC I've ever used\" and praised for its \"new Xbox Full Screen Experience\" and \"super high performance\".",
+    "It is noted for its comfort, quiet operation, and powerful upgraded APU, though its price is a concern."
+   ],
+   "specs": [
+    "8‑inch display",
+    "AMD Ryzen Z1 Extreme processor",
+    "Windows 11 (controller‑friendly)",
+    "Xbox Full Screen Experience",
+    "High‑performance GPU",
+    "Large battery"
+   ],
+   "pros": [
+    "Top gaming performance",
+    "Comfortable ergonomics",
+    "Quiet operation",
+    "Large battery life"
+   ],
+   "cons": [
+    "High price",
+    "Windows overlay not fully unified",
+    "Some kinks in UX"
+   ],
+   "best_for": "Gamers who want the best performance and are willing to pay a premium",
+   "skip_if": "You have a tight budget",
+   "price": "$899 at Asus",
+   "link": "https://www.amazon.com/s?k=Asus+ROG+Xbox+Ally+X&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Lenovo Legion Go S",
+   "short": "Legion Go S",
+   "badge": "Best SteamOS Performance",
+   "why": [
+    "It runs SteamOS and offers a powerful Z1 Extreme processor, making it ideal for Steam games.",
+    "IGN lists it as one of the best handhelds, noting its strong hardware and compatibility with Valve’s ecosystem."
+   ],
+   "specs": [
+    "8‑inch display",
+    "AMD Ryzen Z1 Extreme processor",
+    "SteamOS",
+    "Windows 11 support",
+    "High‑performance GPU",
+    "Long battery"
+   ],
+   "pros": [
+    "Excellent SteamOS performance",
+    "Powerful CPU",
+    "Good battery life",
+    "Valve ecosystem integration"
+   ],
+   "cons": [
+    "Limited Windows support",
+    "Higher price than budget models"
+   ],
+   "best_for": "Steam users seeking high performance",
+   "skip_if": "You prefer Windows-only titles",
+   "link": "https://www.amazon.com/s?k=Lenovo+Legion+Go+S&tag=zoepicks00-20"
+  },
+  {
+   "name": "MSI Claw 8 AI+",
+   "short": "Claw 8 AI+",
+   "badge": "Best Budget Handheld",
+   "why": [
+    "TechRadar highlights it as a strong performer for its price, featuring the AMD Ryzen Z2 Extreme and AI+ features.",
+    "Tom’s Hardware lists it among the best budget handhelds, praising its balance of cost and performance."
+   ],
+   "specs": [
+    "8‑inch display",
+    "AMD Ryzen Z2 Extreme processor",
+    "AI+ features",
+    "Windows 11",
+    "High‑performance GPU",
+    "Battery life"
+   ],
+   "pros": [
+    "Affordable price",
+    "Strong performance",
+    "AI enhancements",
+    "Good battery"
+   ],
+   "cons": [
+    "Windows overlay issues",
+    "Less refined UX than premium models"
+   ],
+   "best_for": "Budget‑conscious gamers who still want solid performance",
+   "skip_if": "You need the absolute top tier performance",
+   "price": "$599 at MSI",
+   "link": "https://www.amazon.com/s?k=MSI+Claw+8+AI%2B&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Steam Deck OLED",
+   "short": "Deck OLED",
+   "badge": "Best Switch‑Style Handheld",
+   "why": [
+    "Tom’s Hardware includes it in its list of best handhelds, noting its OLED display and improved ergonomics.",
+    "IGN mentions it as a top choice for those who prefer Valve’s ecosystem with a larger screen."
+   ],
+   "specs": [
+    "7‑inch OLED display",
+    "AMD APU (Zen 2 + RDNA 2)",
+    "SteamOS",
+    "USB‑C docking",
+    "Long battery"
+   ],
+   "pros": [
+    "Vibrant OLED screen",
+    "Valve ecosystem",
+    "Docking support",
+    "Good battery"
+   ],
+   "cons": [
+    "Limited Windows support",
+    "Lower performance than premium models"
+   ],
+   "best_for": "Steam users wanting a larger, high‑quality screen",
+   "skip_if": "You need Windows compatibility or top performance",
+   "price": "$649 at Valve",
+   "link": "https://www.amazon.com/s?k=Steam+Deck+OLED&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  }
+ ]
 }

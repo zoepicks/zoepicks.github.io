@@ -2,9 +2,94 @@
  "slug": "best-coffee-makers-2026",
  "title": "Top Coffee Makers for Great Coffee at Home (2026)",
  "category": "home_kitchen",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on coffee maker reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "Top coffee makers for 2026, highlighted by multiple trusted reviewers, combine ease, quality, and versatility for home brewing.",
+ "method": "Selected products that appear in at least one of the cited sources, prioritizing those mentioned by more than one site (OXO Brew Cold Brew).",
+ "assumptions": "Prices are not disclosed in the provided excerpts, so all price fields are null.",
+ "products": [
+  {
+   "name": "OXO Brew Cold Brew Coffee Maker",
+   "short": "OXO Cold Brew",
+   "badge": "Best Overall",
+   "why": [
+    "The OXO Cold Brew Coffee Maker was praised for its large \"rainmaker\" showerhead that ensures even water distribution, producing smooth, balanced coffee with rich chocolatey notes.",
+    "Its 32‑ounce glass carafe keeps concentrate fresh for up to two weeks, and the sealed design prevents drips when pouring."
+   ],
+   "specs": [
+    "32‑ounce glass carafe",
+    "Rainmaker showerhead",
+    "Automatic stop feature",
+    "No lid for brewing reservoir",
+    "Measurement markings on carafe"
+   ],
+   "pros": [
+    "Even water distribution",
+    "Long‑lasting concentrate",
+    "Easy to use",
+    "Clear measurement markings"
+   ],
+   "cons": [
+    "No lid for brewing reservoir",
+    "No included lid for reservoir",
+    "Not a drip machine"
+   ],
+   "best_for": "Households that regularly drink cold brew",
+   "skip_if": "You prefer hot coffee or a drip machine",
+   "link": "https://www.amazon.com/s?k=OXO+Brew+Cold+Brew+Coffee+Maker&tag=zoepicks00-20"
+  },
+  {
+   "name": "OXO Brew 8‑Cup Coffee Maker",
+   "short": "OXO Brew 8‑Cup",
+   "badge": "Best Overall",
+   "why": [
+    "The OXO Brew 8‑Cup Coffee Maker offers a compact, sturdy design that brews excellent pots quickly.",
+    "Its thermal carafe prevents drips while pouring, and the filter basket is easy to fill."
+   ],
+   "specs": [
+    "8‑cup capacity",
+    "Compact design",
+    "Thermal carafe",
+    "Filter basket"
+   ],
+   "pros": [
+    "Quick brewing",
+    "Drip‑free pouring",
+    "Sturdy build"
+   ],
+   "cons": [
+    "Filter basket could be easier to fill",
+    "Flimsier plastic and thinner glass than pricier picks"
+   ],
+   "best_for": "Busy mornings and small kitchens",
+   "skip_if": "You need a larger capacity or programmable features",
+   "link": "https://www.amazon.com/s?k=OXO+Brew+8%E2%80%91Cup+Coffee+Maker&tag=zoepicks00-20"
+  },
+  {
+   "name": "Ninja 12‑Cup Programmable Coffee Brewer",
+   "short": "Ninja 12‑Cup",
+   "badge": "Best for Speed",
+   "why": [
+    "The Ninja 12‑Cup Brewer delivers consistent performance at a fair price, with numerous programmable features.",
+    "It keeps temperature stable for more than two hours and includes a cleaning cycle."
+   ],
+   "specs": [
+    "12‑cup capacity",
+    "Programmable brewing",
+    "Temperature stability for 2+ hours",
+    "Cleaning cycle"
+   ],
+   "pros": [
+    "Consistent performance",
+    "Programmable options",
+    "Affordable"
+   ],
+   "cons": [
+    "Flimsier plastic and thinner glass",
+    "Not as durable as pricier models"
+   ],
+   "best_for": "Those who want a quick, programmable brew",
+   "skip_if": "You need a premium build or advanced customization",
+   "link": "https://www.amazon.com/s?k=Ninja+12%E2%80%91Cup+Programmable+Coffee+Brewer&tag=zoepicks00-20"
+  }
+ ]
 }

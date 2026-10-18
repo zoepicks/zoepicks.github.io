@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that were mentioned by at least one of the cited sources (CNET, TechGearLab, and Tinker Vault).",
- "assumptions": "Prices are not provided in the sources, so all price fields are null.",
+ "method": "Selections were based on mentions in the CNET, TechGearLab, and Tinker Vault sources, prioritizing products cited by more than one site and noting their highlighted strengths.",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
  "products": [],
  "draft": true
 }

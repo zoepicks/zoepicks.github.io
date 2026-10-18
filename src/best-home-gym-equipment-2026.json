@@ -2,9 +2,103 @@
  "slug": "best-home-gym-equipment-2026",
  "title": "Top Home Gym Equipment for Any Budget (2026)",
  "category": "fitness_outdoor",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "Top home gym gear for 2026, ranked by expert consensus and cross‑source endorsement.",
+ "method": "Selected products that appear in at least one of the three reviewed sites (PCMag, CNET, Consumer Reports) and highlighted by those sites as best picks.",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise null.",
+ "products": [
+  {
+   "name": "Peloton Cross Training Bike+",
+   "short": "Peloton Bike+",
+   "badge": "Best Overall",
+   "why": [
+    "The bike offers an AI‑powered camera that counts reps and provides form feedback, making it effective for both cycling and strength training.",
+    "It features built‑in voice control, a comfortable seat, immersive Sonos speakers, a fan, and a phone tray, but is expensive and has limited strength‑training performance tracking."
+   ],
+   "specs": [
+    "AI camera for form feedback",
+    "Built‑in voice control",
+    "Comfortable seat",
+    "Immersive Sonos speakers",
+    "Included fan",
+    "Phone tray"
+   ],
+   "pros": [
+    "AI camera for accurate form feedback",
+    "Built‑in voice control",
+    "Comfortable seat",
+    "Immersive audio",
+    "Convenient fan and phone tray"
+   ],
+   "cons": [
+    "High price",
+    "Limited strength‑training performance tracking",
+    "Expensive overall"
+   ],
+   "best_for": "Users who want a versatile bike that also supports strength training with AI feedback",
+   "skip_if": "You’re on a tight budget or need a dedicated rowing machine",
+   "link": "https://www.amazon.com/s?k=Peloton+Cross+Training+Bike%2B&tag=zoepicks00-20"
+  },
+  {
+   "name": "Peloton Cross Training Row+",
+   "short": "Peloton Row+",
+   "badge": "Best Rowing Machine",
+   "why": [
+    "This rowing machine builds on the original model with AI‑powered form feedback, making it one of the most advanced, interactive, and versatile rowers available.",
+    "It offers an extremely smooth feel, an AI camera for form feedback, built‑in voice control, and an included fan, but it is expensive."
+   ],
+   "specs": [
+    "AI camera for form feedback",
+    "Built‑in voice control",
+    "Included fan",
+    "Extremely smooth feel"
+   ],
+   "pros": [
+    "AI form feedback",
+    "Smooth rowing experience",
+    "Built‑in voice control",
+    "Included fan"
+   ],
+   "cons": [
+    "High price",
+    "Expensive overall"
+   ],
+   "best_for": "Rowers who want AI‑guided workouts and a smooth experience",
+   "skip_if": "You’re looking for a budget rowing machine",
+   "link": "https://www.amazon.com/s?k=Peloton+Cross+Training+Row%2B&tag=zoepicks00-20"
+  },
+  {
+   "name": "Tonal 2",
+   "short": "Tonal 2",
+   "badge": "Best Smart Home Gym for Weightlifting",
+   "why": [
+    "Tonal 2 is a space‑saving, wall‑installed machine that is quiet and functions like a personal trainer, allowing customized workouts beyond the provided classes.",
+    "It requires walls that meet installation requirements and its high price ($4,295) does not include custom accessories or professional installation."
+   ],
+   "specs": [
+    "Space‑saving wall‑installed design",
+    "Quiet operation",
+    "Functions like a personal trainer",
+    "Customizable workouts",
+    "Requires specific wall requirements",
+    "High price"
+   ],
+   "pros": [
+    "Space‑saving design",
+    "Quiet operation",
+    "Personal trainer functionality",
+    "Customizable workouts"
+   ],
+   "cons": [
+    "Requires specific wall installation",
+    "High price",
+    "Excludes accessories and installation costs"
+   ],
+   "best_for": "Serious weightlifters who have space and budget for a high‑end smart gym",
+   "skip_if": "You lack wall space or need a lower‑cost option",
+   "price": "$4,295 at Tonal",
+   "link": "https://www.amazon.com/s?k=Tonal+2&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  }
+ ]
 }

@@ -4,8 +4,8 @@
  "category": "monitors",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in more than one source (PCWorld and CNET) and are explicitly recommended as best gaming monitors. Sources used: PCWorld (source 1) and CNET (source 6).",
- "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
+ "method": "Selected products that appear in at least two of the cited sources (PCWorld, PCGuide, PopularMechanics).",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise the field is null.",
  "products": [],
  "draft": true
 }

@@ -1,22 +1,17 @@
+[collect] extra sources: +1 readable page(s) -> 4 total (moderncastle.com)
+[collect] llm request: 4 sources x 2373 chars, ~3578 in + 3400 out tokens (budget 7000)
+[collect] price not in sources, removed: $599 at Store
+[collect] FAILED best-vacuums-2026: 'str' object has no attribute 'get'
+[collect] topic: Top Coffee Makers for Great Coffee at Home (2026)
+[collect] tavily -> 4 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-coffee-maker
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-coffee-maker
+[collect] 3/4 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.androidauthority.com/best-usb-c-wall-chargers-3496950
-[collect] browser fetch 271 chars: https://www.androidauthority.com/best-usb-c-wall-chargers-3496950
-[collect] extra sources: +3 readable page(s) -> 4 total (androidauthority.com, techgearlab.com, lygte-info.dk)
-[collect] llm request: 4 sources x 2378 chars, ~2872 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Anker PowerDrive Speed Plus
-[collect] drop (only 1 sources): Anker 735 Nano II 65W 3‑Port USB‑A/USB‑C Power
-[collect] drop (only 1 sources): Aukey CC‑Y48 Dual Car Charger (48W)
-[collect] drop (only 1 sources): Satechi ST‑TCPDCCS (72W)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (tinkervault.com, tomshardware.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1572 chars, ~3131 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Aukey CC-Y48 Dual Car Charger
-[collect] drop (only 1 sources): Satechi ST‑TCPDCCS
-[collect] drop (only 1 sources): Anker PowerDrive Speed Plus
-[collect] drop (only 1 sources): Anker 735 Nano II 65W 3‑Port
-[collect] drop (only 1 sources): Anker A2348 20W Dual Port
-[collect] only 0 well-sourced products -> staying draft
+[collect] extra sources: +1 readable page(s) -> 4 total (web.archive.org)
+[collect] llm request: 4 sources x 2372 chars, ~3577 in + 3400 out tokens (budget 7000)
+[collect] drop (only 1 sources): Technivorm Moccamaster
+[collect] drop (only 1 sources): Ratio Six Coffee Maker
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -45,6 +40,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-comforter-sets
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-compact-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-compression-socks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-computer-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-computer-mouse-2026/gaming/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cookware-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cordless-drills-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-deodorants-2026/index.html
@@ -84,6 +80,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hair-dryers-20
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hair-straighteners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hammocks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-handheld-gaming-pcs-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-heating-pad-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hiking-backpacks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-home-gym-equipment-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hoodies-2026/index.html
@@ -136,8 +133,11 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-bat
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/under-300/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/neck/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-planners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/bundles/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/accessories/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-portable-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pressure-washers-2026/index.html
@@ -194,7 +194,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-usb-c-charger-2026 draft
+[collect] done: best-coffee-makers-2026 3 products
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,521 requested 2,810", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,769 requested 2,861", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,758 requested 2,798", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,635 requested 2,560", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,959 requested 2,760"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 33 guide(s) built, 50 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"8SBW|openai/gpt-oss-120b": "limit 200,000 used 197,998 requested 2,895", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,016 requested 2,700", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,210 requested 3,578", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,848 requested 2,683", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,681 requested 2,637"}, "toolarge": {}, "minute": {}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 38 guide(s) built, 50 topic(s) tried
