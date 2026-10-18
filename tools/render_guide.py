@@ -118,6 +118,31 @@ def voices_html(d):
                   f'<p class="l">{e(x["like"])}</p><p class="c">{e(x["catch"])}</p></article>')
     return f'<section class="vr"><h2 class="cmp">What reviewers say <small class="tap">expert reviews, summarized</small></h2><div class="vrail">{cards}</div></section>'
 
+def tab_keys(d, p):
+    """Tabs a product belongs to: tabs it is tagged with + any tab with a 'max' price the product's own price text fits under."""
+    ks = [k for k in (p.get("tabs") or []) if k]
+    q = parse_price(p.get("price")) or {}
+    try: now = float(re.sub(r"[^\d.]", "", q.get("now") or "")) if q.get("now") else None
+    except ValueError: now = None
+    for t in d.get("tabs") or []:
+        if t["key"] not in ks and t.get("max") and now is not None and now <= float(t["max"]): ks.append(t["key"])
+    return ks
+
+TABS_JS = r"""(function(){var b=document.querySelectorAll('.tabs button'),L=document.querySelector('.dr-list');if(!b.length||!L)return;
+function go(t){var n=0;b.forEach(function(x){x.classList.toggle('on',x.dataset.t===t)});
+L.querySelectorAll('.dr').forEach(function(a){var h=!!t&&(' '+(a.dataset.tabs||'')+' ').indexOf(' '+t+' ')<0;a.hidden=h;
+if(!h){var g=a.querySelector('.dr-tag');if(g)g.textContent=g.textContent.replace(/^#\d+/,'#'+(++n))}})}
+b.forEach(function(x){x.onclick=function(){go(x.dataset.t);try{history.replaceState(null,'','#'+(x.dataset.t||'all'))}catch(e){}}});
+var h=(location.hash||'').slice(1);if(h&&[].some.call(b,function(x){return x.dataset.t===h}))go(h)})();"""
+
+def tabs_bar(d, items):
+    """One guide, several views: 'Top picks' (all) + one chip per tab that has >= 1 product. Chips only exist when there is something to show."""
+    ts = [(t, sum(1 for _, p, *_ in items if t["key"] in tab_keys(d, p))) for t in d.get("tabs") or []]
+    ts = [(t, n) for t, n in ts if n]
+    if not ts: return ""
+    chips = '<button class="on" data-t="">Top picks</button>' + "".join(f'<button data-t="{e(t["key"])}">{e(t["label"])}<i>{n}</i></button>' for t, n in ts)
+    return f'<div class="tabs" role="tablist">{chips}</div>'
+
 def deal_rows(d):
     """Compact deal list for theme=deal guides: image + -% badge + price/was + one button per row, details collapsed.
     Biggest discount first; products with no deal price go last. Button says 'Buy on Amazon' only when the bot's own recent
@@ -157,10 +182,11 @@ def deal_rows(d):
         if p.get("skip_if"): det += f'<p class="skip"><b>Skip it if:</b> {e(p["skip_if"])}</p>'
         if p.get("deal_note"): det += f'<p class="deal"><b>Deal tip:</b> {e(p["deal_note"])}</p>'
         tag = (f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else "") if dealpage else (f'<small class="dr-tag">#{i+1}' + (f' · {e(p["badge"])}' if p.get("badge") else "") + '</small>')
-        out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
+        out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" data-tabs="{e(" ".join(tab_keys(d, p)))}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
                 f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{rating_block(p)}{price}{btn}</div></div>'
                 + (f'<details class="dr-d"><summary>Why it is worth it</summary>{det}</details>' if det else "") + "</article>")
-    return f'<div class="dr-list">{out}</div>'
+    bar = tabs_bar(d, items)
+    return bar + f'<div class="dr-list">{out}</div>' + (f'<script>{TABS_JS}</script>' if bar else "")   # script AFTER the list it filters
 
 def deal_strip(d):
     pcts = [(parse_price(p.get("price")) or {}).get("pct", 0) for p in d["products"]]

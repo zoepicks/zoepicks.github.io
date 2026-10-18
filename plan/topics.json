@@ -372,7 +372,7 @@
   "priority": 107
  },
  {
-  "title": "Top Wireless Earbuds: AirPods Pro 3 & Rivals (2026)",
+  "title": "Top Earbuds: AirPods Pro 3 & Rivals (2026)",
   "slug": "best-wireless-earbuds-2026",
   "category": "electronics",
   "high_ticket": false,
@@ -1398,7 +1398,11 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 88
+  "priority": 88,
+  "parent": "best-wireless-earbuds-2026",
+  "tab": "under-100",
+  "tab_label": "Under $100",
+  "tab_max": 100
  },
  {
   "title": "Top Smartphones of 2026: Our Overall Picks",
@@ -1668,7 +1672,10 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 17, 2026"
+  "last_try": "Oct 17, 2026",
+  "parent": "best-wireless-earbuds-2026",
+  "tab": "wired",
+  "tab_label": "Wired"
  },
  {
   "title": "Best Weighted Blanket (2026)",

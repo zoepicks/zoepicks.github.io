@@ -380,6 +380,43 @@ def pick_topic(slug=None, skip=()):
     return plan, c[0]
 
 
+def _nm(s): return re.sub(r"[^a-z0-9]+", "", str(s).lower())
+
+MIN_TAB_PRODUCTS = 2   # a tab (variant view of a big guide) is worth showing from 2 picks
+
+def merge_into_parent(plan, topic, products, today, dry):
+    """One product = one big guide. A topic with {parent, tab, tab_label?, tab_max?} (e.g. 'wireless earbuds under 100') adds its picks
+    to the PARENT guide as a tab instead of becoming a second page: same product picked again just gets the tab tag, new ones are appended."""
+    pf = ROOT / "src" / f"{topic['parent']}.json"
+    if not pf.exists(): raise SystemExit(f"parent guide {topic['parent']} missing; topic left as todo")
+    if len(products) < MIN_TAB_PRODUCTS:
+        log(f"only {len(products)} well-sourced products for tab {topic['tab']} -> staying todo")
+        for t in plan:
+            if t["slug"] == topic["slug"]: t["last_try"] = today
+        if not dry: (ROOT / "plan/topics.json").write_text(json.dumps(plan, indent=1))
+        return
+    par = json.loads(pf.read_text(encoding="utf-8")); tab = topic["tab"]; have = {_nm(p.get("name")): p for p in par.get("products", [])}; new = 0
+    for p in products:
+        q = have.get(_nm(p.get("name")))
+        if q is not None:
+            if tab not in q.setdefault("tabs", []): q["tabs"].append(tab)
+        else:
+            p = dict(p, tabs=[tab]); par.setdefault("products", []).append(p); have[_nm(p.get("name"))] = p; new += 1
+    tabs = par.setdefault("tabs", [])
+    if not any(t["key"] == tab for t in tabs):
+        t = {"key": tab, "label": topic.get("tab_label") or tab.replace("-", " ").title()}
+        if topic.get("tab_max"): t["max"] = topic["tab_max"]
+        tabs.append(t)
+    par["date"] = today
+    if dry: print(json.dumps(par, indent=1, ensure_ascii=False)); return
+    pf.write_text(json.dumps(par, indent=1, ensure_ascii=False), encoding="utf-8")
+    for t in plan:
+        if t["slug"] == topic["slug"]: t["status"] = "done"
+    (ROOT / "plan/topics.json").write_text(json.dumps(plan, indent=1))
+    subprocess.run([sys.executable, str(ROOT / "tools/render_guide.py"), "--all", "https://zoepicks.github.io"], check=True)
+    log(f"done: {topic['slug']} -> tab '{tab}' of {topic['parent']} (+{new} new, {len(products) - new} already there)")
+
+
 def run_topic(plan, topic, dry):
     log("topic:", topic["title"])
     domains = SOURCES.get(topic["category"], SOURCES["_default"])
@@ -391,6 +428,7 @@ def run_topic(plan, topic, dry):
     g = build(topic, pages, texts, collect_deals(topic))
     products = ground(g, pages, texts)
     today = datetime.date.today().strftime("%b %-d, %Y")
+    if topic.get("parent"): return merge_into_parent(plan, topic, products, today, dry)
     out = {"slug": topic["slug"], "title": topic["title"], "category": topic["category"], "date": today,
            "summary": g.get("summary", ""), "method": g.get("method", ""), "assumptions": g.get("assumptions", ""), "products": products}
     if any(k in topic["slug"] for k in ("black-friday", "deals")):
