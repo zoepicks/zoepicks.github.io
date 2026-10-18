@@ -62,9 +62,9 @@
    "best_for": "Heavy users who want maximum battery and the biggest screen",
    "skip_if": "You want a phone that is easy to carry in one hand",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+Max&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Apple iPhone 17",
@@ -125,9 +125,9 @@
    "best_for": "Photographers who want a Pro iPhone for less",
    "skip_if": "You want the newest chip and longest battery",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+17+Pro&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Apple iPhone 17e",
@@ -151,9 +151,9 @@
    "best_for": "Budget buyers who want a current iPhone",
    "skip_if": "You want a 120Hz screen or the best cameras",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+17e&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_failed": true
   }
  ]
 }
