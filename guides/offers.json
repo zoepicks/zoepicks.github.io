@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T11:37:58Z",
+ "updated": "2026-10-18T12:08:11Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -192,17 +192,16 @@
     "tier": "budget"
    },
    {
-    "asin": "B0HJG9WRXF",
-    "name": "King Size Mattress 12 Inch",
-    "pct": 10,
-    "rating": 4.5,
+    "asin": "B0F7RHXNHZ",
+    "name": "Avenco Queen Mattress",
+    "pct": 25,
+    "rating": 4.3,
     "t": 1792226194,
-    "img": "https://m.media-amazon.com/images/I/81P3Q3qwkXL.jpg",
-    "link": "https://www.amazon.com/dp/B0HJG9WRXF?tag=zoepicks00-20",
-    "now": "215.99",
-    "was": "239.99",
-    "deal": "Limited time deal",
-    "reviews": 205,
+    "img": "https://m.media-amazon.com/images/I/71ncune8zDL.jpg",
+    "link": "https://www.amazon.com/dp/B0F7RHXNHZ?tag=zoepicks00-20",
+    "now": "202.50",
+    "was": "269.99",
+    "reviews": 350,
     "tier": "mid"
    },
    {
@@ -293,17 +292,14 @@
     "tier": "budget"
    },
    {
-    "asin": "B0HHFJ4RYX",
-    "name": "Hykolity 24\" Space Heater",
-    "pct": 43,
+    "asin": "B0D46XVBXZ",
+    "name": "Redchef 16pcs Ceramic Pots and Pans Set",
+    "pct": 45,
     "rating": 4.5,
-    "t": 1792239319,
-    "img": "https://m.media-amazon.com/images/I/61kBZzd4buL.jpg",
-    "link": "https://www.amazon.com/dp/B0HHFJ4RYX?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "69.99",
-    "deal": "Limited time deal",
-    "reviews": 24,
+    "t": 1792299638,
+    "img": "https://m.media-amazon.com/images/I/61tBV660XrL.jpg",
+    "link": "https://www.amazon.com/dp/B0D46XVBXZ?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -638,6 +634,16 @@
       "reviews": 5520
      }
     ]
+   },
+   {
+    "key": "laptop-charger",
+    "label": "Laptop Charger",
+    "items": []
+   },
+   {
+    "key": "travel-adapters",
+    "label": "Travel Adapters",
+    "items": []
    },
    {
     "key": "wireless-mice",
@@ -1086,6 +1092,11 @@
     ]
    },
    {
+    "key": "carry-on-bags",
+    "label": "Carry On Bags",
+    "items": []
+   },
+   {
     "key": "compression-socks",
     "label": "Compression Socks",
     "items": []
@@ -1254,6 +1265,25 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "desks-small-spaces",
+    "label": "Desks Small Spaces",
+    "items": [
+     {
+      "asin": "B0DBDG9GRV",
+      "name": "Space Heater, Portable Small Heater",
+      "pct": 14,
+      "rating": 4.6,
+      "t": 1792239319,
+      "img": "https://m.media-amazon.com/images/I/71GJC7YFNdL.jpg",
+      "link": "https://www.amazon.com/dp/B0DBDG9GRV?tag=zoepicks00-20",
+      "now": "18.98",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 1273
+     }
+    ]
    }
   ],
   "gaming": [
@@ -1279,6 +1309,11 @@
    {
     "key": "gaming-chairs",
     "label": "Gaming Chairs",
+    "items": []
+   },
+   {
+    "key": "gaming-desks",
+    "label": "Gaming Desks",
     "items": []
    },
    {
@@ -1460,6 +1495,47 @@
       "was": "349.99",
       "deal": "Limited time deal",
       "reviews": 43,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0D46XVBXZ",
+      "name": "Redchef 16pcs Ceramic Pots and Pans Set",
+      "pct": 45,
+      "rating": 4.5,
+      "t": 1792299638,
+      "img": "https://m.media-amazon.com/images/I/61tBV660XrL.jpg",
+      "link": "https://www.amazon.com/dp/B0D46XVBXZ?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FVVGF99S",
+      "name": "CAROTE 20pcs Titanium Cookware Set",
+      "pct": 38,
+      "rating": 4.6,
+      "t": 1792264719,
+      "img": "https://m.media-amazon.com/images/I/71qLM8NQo0L.jpg",
+      "link": "https://www.amazon.com/dp/B0FVVGF99S?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "159.99",
+      "reviews": 596,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DGKKJDBG",
+      "name": "Kikcoin 31 Piece Pots and Pans Set Non Stick Kitchen…",
+      "pct": 49,
+      "rating": 4.2,
+      "t": 1792299637,
+      "img": "https://m.media-amazon.com/images/I/813r4sDxWlL.jpg",
+      "link": "https://www.amazon.com/dp/B0DGKKJDBG?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -2026,6 +2102,20 @@
    {
     "key": "monitors-home-office",
     "label": "Monitors Home Office",
+    "items": []
+   }
+  ],
+  "other": [
+   {
+    "key": "fireproof-safes",
+    "label": "Fireproof Safes",
+    "items": []
+   }
+  ],
+  "pets": [
+   {
+    "key": "pet-cameras",
+    "label": "Pet Cameras",
     "items": []
    }
   ],
