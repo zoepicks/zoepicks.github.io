@@ -1,16 +1,35 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="64x64" href="assets/logo-64.png"><link rel="apple-touch-icon" href="assets/logo-180.png"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>All discounts today — Zoe Picks</title><meta name="description" content="Today's biggest Amazon discounts, sorted by savings and filterable by category.">
 <link rel="canonical" href="https://zoepicks.github.io/deals.html"><meta property="og:title" content="Zoe Picks — honest buying guides"><meta property="og:description" content="Short, honest comparisons of the best products for what you actually need. No hype, clear pros and cons."><meta property="og:type" content="website"><meta property="og:url" content="https://zoepicks.github.io/deals.html"><meta property="og:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Poppins:wght@700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=pol13"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Zoe Picks","url":"https://zoepicks.github.io/"},{"@type":"Organization","name":"Zoe Picks","url":"https://zoepicks.github.io/","logo":"https://zoepicks.github.io/assets/logo-512.png"}]}</script></head><body>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Poppins:wght@700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=pol14"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Zoe Picks","url":"https://zoepicks.github.io/"},{"@type":"Organization","name":"Zoe Picks","url":"https://zoepicks.github.io/","logo":"https://zoepicks.github.io/assets/logo-512.png"}]}</script></head><body>
 <nav><div class="wrap"><a class="logo" href="./"><img class="lg" src="assets/logo-96.png" alt="Zoe Picks logo" width="28" height="28"><span class="bn"><span class="wm"><i>Zoe</i> <b>Picks</b></span><small class="sl">Buy the right thing, <em>not the loudest one.</em></small></span></a><a class="l" href="./">Home</a></div></nav>
 <main class="wrap">
-<div class="dd-top"><h1>All discounts <small id="dlAsof"></small></h1><p id="dlCount" class="dd-sub">Loading deals…</p></div>
-<div class="dd-bar" id="dlBar"><div class="dd-chips" id="dlChips" role="tablist" aria-label="Category"></div>
-<label class="dd-sort">Sort <select id="dlSort"><option value="pct">Biggest discount</option><option value="rating">Top rated</option><option value="low">Price: low to high</option></select></label></div>
-<div class="dd-grid" id="dlGrid"></div>
-<div class="dd-more"><button type="button" id="dlMore" hidden>Show more</button></div>
+<div class="dd-top"><h1>All discounts</h1><p class="dd-sub"><span id="ddCount">Loading deals…</span> <small id="ddAsof"></small></p></div>
+<div class="dd-bar" id="ddBar">
+  <div class="dd-row">
+    <label class="dd-search"><span class="sr-only">Search deals</span><input id="ddQ" type="search" placeholder="Search deals" autocomplete="off" enterkeyhint="search"></label>
+    <button type="button" class="dd-fbtn" id="ddOpen" aria-haspopup="dialog">Filters <i id="ddBadge" hidden></i></button>
+  </div>
+  <div class="dd-chipwrap"><div class="dd-chips" id="ddChips" role="tablist" aria-label="Category"></div></div>
+  <div class="dd-pills" id="ddPills"></div>
+</div>
+<div class="dd-grid" id="ddGrid"></div>
+<div class="dd-more"><button type="button" id="ddMore" hidden>Show more</button></div>
 <p class="disc">Prices and discounts come from Amazon listings checked in the last 24 hours and can change at any time. Always confirm the price on Amazon before you buy.</p>
 </main>
+<div class="dd-ov" id="ddOv" hidden></div>
+<section class="dd-sheet" id="ddSheet" role="dialog" aria-modal="true" aria-labelledby="ddSt" hidden>
+  <div class="dd-sh"><b id="ddSt">Filters</b><button type="button" class="dd-x" id="ddClose" aria-label="Close">✕</button></div>
+  <div class="dd-sb">
+    <fieldset><legend>Sort by</legend><div class="dd-opts" data-k="s"></div></fieldset>
+    <fieldset><legend>Category</legend><div class="dd-opts" data-k="c"></div></fieldset>
+    <fieldset id="ddTypeSet" hidden><legend>Product type</legend><div class="dd-opts" data-k="t"></div></fieldset>
+    <fieldset><legend>Discount</legend><div class="dd-opts" data-k="d"></div></fieldset>
+    <fieldset><legend>Price</legend><div class="dd-opts" data-k="p"></div></fieldset>
+    <fieldset><legend>Customer rating</legend><div class="dd-opts" data-k="r"></div></fieldset>
+  </div>
+  <div class="dd-sf"><button type="button" class="dd-reset" id="ddReset">Clear all</button><button type="button" class="dd-show" id="ddShow">Show deals</button></div>
+</section>
 <footer><div class="fl"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="disclosure.html">Affiliate Disclosure</a></div>© Zoe Picks · As an Amazon Associate we earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</footer>
 <script src="assets/site.js?v=3" data-root="."></script><script src="assets/visit.js?v=1" defer></script>
 <script>
@@ -26,36 +45,91 @@ protein:"Grocery",energy:"Grocery",coffee:"Grocery",olive_oil:"Grocery",spices:"
 cookware:"Home & Kitchen",bedding:"Home & Kitchen",bulbs:"Home & Kitchen",trash_bags:"Home & Kitchen",laundry:"Home & Kitchen",dish:"Home & Kitchen",cleaning:"Home & Kitchen",paper_towels:"Home & Kitchen",toilet_paper:"Home & Kitchen",batteries:"Home & Kitchen",
 shoes:"Fashion",tees:"Fashion",hoodies:"Fashion",jeans:"Fashion",underwear:"Fashion",socks:"Fashion",bags:"Fashion",
 fitness:"Fitness & Outdoor",bottles:"Fitness & Outdoor",baby:"Baby & Pets",dog:"Baby & Pets",cat:"Baby & Pets",audio:"Electronics"};
-let ALL=[],cur="All",sort="pct",shown=PAGE;
+const OPT={
+ s:[["pct","Biggest discount"],["save","Biggest savings ($)"],["rating","Top rated"],["low","Price: low to high"],["high","Price: high to low"]],
+ d:[["0","Any"],["25","25% off or more"],["40","40% off or more"],["50","50% off or more"],["60","60% off or more"]],
+ p:[["","Any"],["0-15","Under $15"],["15-30","$15 to $30"],["30-60","$30 to $60"],["60-","$60 & above"]],
+ r:[["0","Any"],["4","4★ & up"],["4.5","4.5★ & up"]]};
+const LBL={d:v=>v+"%+ off",p:v=>OPT.p.find(o=>o[0]===v)[1],r:v=>v+"★ & up"};
+let ALL=[],S={c:"All",t:"",d:"0",p:"",r:"0",s:"pct",q:""},shown=PAGE;
 const $=id=>document.getElementById(id);
-const list=()=>{let a=cur==="All"?ALL.slice():ALL.filter(i=>i.g===cur);
-  if(sort==="rating")a.sort((x,y)=>(y.rating||0)-(x.rating||0)||y.pct-x.pct);
-  else if(sort==="low")a.sort((x,y)=>(px(x)?+x.now:1e9)-(px(y)?+y.now:1e9));
-  else a.sort((x,y)=>y.pct-x.pct);return a;};
-function chips(){const c={};ALL.forEach(i=>c[i.g]=(c[i.g]||0)+1);
-  const ks=Object.keys(c).sort((a,b)=>(a==="Other")-(b==="Other")||c[b]-c[a]);
-  $("dlChips").innerHTML=["All"].concat(ks).map(k=>`<button type="button" role="tab" aria-selected="${k===cur}" data-k="${esc(k)}">${esc(k)} <i>${k==="All"?ALL.length:c[k]}</i></button>`).join("");}
-function draw(){const a=list(),v=a.slice(0,shown);
-  [].forEach.call($("dlChips").children,b=>b.setAttribute("aria-selected",b.dataset.k===cur));
-  $("dlCount").textContent=a.length+" deal"+(a.length===1?"":"s")+(cur==="All"?"":" in "+cur);
-  $("dlGrid").innerHTML=v.map((i,n)=>`<a class="dd-c" href="${esc(i.link)}" target="_blank" rel="sponsored nofollow noopener" title="${esc(i.name)}"><span class="dd-i">${okImg(i.img)?`<img src="${esc(i.img)}" alt="" loading="${n<8?"eager":"lazy"}" decoding="async" referrerpolicy="no-referrer">`:"🏷️"}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b><span class="dd-m">${i.rating?`<span>★ ${i.rating}</span>`:""}${px(i)&&usd(i.now)?`<strong>${usd(i.now)}</strong>${i.was&&+i.was>+i.now?` <s>${usd(i.was)}</s>`:""}`:`<span>Check price</span>`}</span></a>`).join("")||'<p class="empty">No deals here right now. Try another category.</p>';
-  $("dlMore").hidden=a.length<=shown;}
-$("dlChips").onclick=e=>{const b=e.target.closest("button");if(!b)return;cur=b.dataset.k;shown=PAGE;history.replaceState(null,"",cur==="All"?"deals.html":"deals.html?c="+encodeURIComponent(cur));draw();b.scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});};
-$("dlSort").onchange=e=>{sort=e.target.value;shown=PAGE;draw();};
-$("dlMore").onclick=()=>{shown+=PAGE;draw();};
+const save=i=>px(i)&&+i.was>+i.now?+i.was-+i.now:0;
+function ok(i,skip){
+  if(skip!=="c"&&S.c!=="All"&&i.g!==S.c)return false;
+  if(skip!=="t"&&S.t&&i.ty!==S.t)return false;
+  if(+S.d&&i.pct<+S.d)return false;
+  if(S.r!=="0"&&(i.rating||0)<+S.r)return false;
+  if(S.p){if(!px(i))return false;const [lo,hi]=S.p.split("-"),n=+i.now;if(n<+lo||(hi&&n>=+hi))return false;}
+  if(S.q&&!i.name.toLowerCase().includes(S.q.toLowerCase()))return false;
+  return true;}
+function sorted(a){a=a.slice();
+  if(S.s==="rating")a.sort((x,y)=>(y.rating||0)-(x.rating||0)||y.pct-x.pct);
+  else if(S.s==="save")a.sort((x,y)=>save(y)-save(x)||y.pct-x.pct);
+  else if(S.s==="low")a.sort((x,y)=>(px(x)?+x.now:1e9)-(px(y)?+y.now:1e9));
+  else if(S.s==="high")a.sort((x,y)=>(px(y)?+y.now:-1)-(px(x)?+x.now:-1));
+  else a.sort((x,y)=>y.pct-x.pct);return a;}
+function counts(skip){const c={};ALL.forEach(i=>{if(ok(i,skip)){const k=skip==="c"?i.g:i.ty;c[k]=(c[k]||0)+1;}});return c;}
+const sortCats=c=>Object.keys(c).sort((a,b)=>(a==="Other")-(b==="Other")||c[b]-c[a]);
+function opts(k,list){return list.map(([v,l,n])=>`<button type="button" class="dd-o" data-k="${k}" data-v="${esc(v)}" aria-pressed="${S[k]===v}">${esc(l)}${n!=null?` <i>${n}</i>`:""}</button>`).join("");}
+function drawFilters(){
+  const cc=counts("c"),ks=sortCats(cc),tot=ALL.filter(i=>ok(i,"c")).length;
+  if(S.c!=="All"&&!cc[S.c])ks.unshift(S.c);
+  const catList=[["All","All",tot]].concat(ks.map(k=>[k,k,cc[k]||0]));
+  $("ddChips").innerHTML=catList.map(([v,l,n])=>`<button type="button" role="tab" aria-selected="${S.c===v}" data-k="c" data-v="${esc(v)}">${esc(l)} <i>${n}</i></button>`).join("");
+  const sh=document.querySelector('[data-k="c"].dd-opts');sh.innerHTML=opts("c",catList);
+  document.querySelector('[data-k="s"].dd-opts').innerHTML=opts("s",OPT.s);
+  document.querySelector('[data-k="d"].dd-opts').innerHTML=opts("d",OPT.d);
+  document.querySelector('[data-k="p"].dd-opts').innerHTML=opts("p",OPT.p);
+  document.querySelector('[data-k="r"].dd-opts').innerHTML=opts("r",OPT.r);
+  const tc=S.c==="All"?{}:counts("t");delete tc.undefined;const tk=Object.keys(tc).sort((a,b)=>tc[b]-tc[a]);
+  $("ddTypeSet").hidden=tk.length<2;
+  document.querySelector('[data-k="t"].dd-opts').innerHTML=opts("t",[["","All types",Object.values(tc).reduce((a,b)=>a+b,0)]].concat(tk.map(k=>[k,k,tc[k]])));
+}
+function pills(){const p=[];
+  if(S.c!=="All")p.push(["c",S.c]);if(S.t)p.push(["t",S.t]);if(+S.d)p.push(["d",LBL.d(S.d)]);if(S.p)p.push(["p",LBL.p(S.p)]);if(S.r!=="0")p.push(["r",LBL.r(S.r)]);if(S.q)p.push(["q","“"+S.q+"”"]);
+  $("ddPills").innerHTML=p.length?p.map(([k,l])=>`<button type="button" class="dd-pill" data-clear="${k}">${esc(l)} <span aria-hidden="true">✕</span><span class="sr-only">remove filter</span></button>`).join("")+'<button type="button" class="dd-pill dd-all" data-clear="*">Clear all</button>':"";
+  const n=p.filter(x=>x[0]!=="q").length;$("ddBadge").hidden=!n;$("ddBadge").textContent=n;}
+function url(){const u=new URLSearchParams();if(S.c!=="All")u.set("c",S.c);if(S.t)u.set("t",S.t);if(+S.d)u.set("d",S.d);if(S.p)u.set("p",S.p);if(S.r!=="0")u.set("r",S.r);if(S.s!=="pct")u.set("s",S.s);if(S.q)u.set("q",S.q);
+  history.replaceState(null,"",u.toString()?"deals.html?"+u:"deals.html");}
+function draw(){
+  const a=sorted(ALL.filter(i=>ok(i))),v=a.slice(0,shown);
+  drawFilters();pills();url();
+  $("ddCount").textContent=a.length+" deal"+(a.length===1?"":"s");$("ddShow").textContent="Show "+a.length+" deal"+(a.length===1?"":"s");
+  $("ddGrid").innerHTML=v.map((i,n)=>{const sv=save(i);return `<a class="dd-c" href="${esc(i.link)}" target="_blank" rel="sponsored nofollow noopener" title="${esc(i.name)}"><span class="dd-i">${okImg(i.img)?`<img src="${esc(i.img)}" alt="" loading="${n<8?"eager":"lazy"}" decoding="async" referrerpolicy="no-referrer">`:"🏷️"}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b><span class="dd-m">${px(i)&&usd(i.now)?`<strong>${usd(i.now)}</strong>${i.was&&+i.was>+i.now?`<s>${usd(i.was)}</s>`:""}`:`<span class="dd-chk">Check price</span>`}</span><span class="dd-m2">${i.rating?`<span>★ ${i.rating}</span>`:""}${sv>=1?`<span class="dd-sv">Save ${usd(sv)}</span>`:""}</span></a>`;}).join("")||'<div class="empty">No deals match these filters. <button type="button" class="dd-pill dd-all" data-clear="*">Clear all filters</button></div>';
+  $("ddMore").hidden=a.length<=shown;}
+function set(k,v){S[k]=v;if(k==="c")S.t="";shown=PAGE;draw();}
+document.addEventListener("click",e=>{
+  const o=e.target.closest("[data-k][data-v]");
+  if(o){set(o.dataset.k,o.dataset.v);if(o.closest(".dd-chips"))o.scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});return;}
+  const c=e.target.closest("[data-clear]");
+  if(c){const k=c.dataset.clear;if(k==="*"){S={c:"All",t:"",d:"0",p:"",r:"0",s:S.s,q:""};$("ddQ").value="";}else{S[k]=k==="c"?"All":(k==="d"||k==="r")?"0":"";if(k==="c")S.t="";if(k==="q")$("ddQ").value="";}shown=PAGE;draw();}
+});
+const sheet=$("ddSheet"),ov=$("ddOv");
+const openS=()=>{sheet.hidden=false;ov.hidden=false;document.body.style.overflow="hidden";$("ddClose").focus();};
+const closeS=()=>{sheet.hidden=true;ov.hidden=true;document.body.style.overflow="";$("ddOpen").focus();};
+$("ddOpen").onclick=openS;$("ddClose").onclick=closeS;$("ddShow").onclick=closeS;ov.onclick=closeS;
+$("ddReset").onclick=()=>{S={c:"All",t:"",d:"0",p:"",r:"0",s:"pct",q:""};$("ddQ").value="";shown=PAGE;draw();};
+addEventListener("keydown",e=>{if(e.key==="Escape"&&!sheet.hidden)closeS();});
+let qt;$("ddQ").oninput=e=>{clearTimeout(qt);qt=setTimeout(()=>{S.q=e.target.value.trim();shown=PAGE;draw();},200);};
+$("ddMore").onclick=()=>{shown+=PAGE;draw();};
 const nv=document.querySelector("nav");const setTop=()=>document.documentElement.style.setProperty("--navh",(nv?nv.offsetHeight:56)+"px");setTop();addEventListener("resize",setTop);
 Promise.all([fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.json()),fetch("guides/offers.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)]).then(([d,o])=>{
-  if(!d||!d.updated||Date.now()-new Date(d.updated)>MAXAGE){$("dlCount").textContent="Deals are being refreshed. Please check back soon.";return;}
+  if(!d||!d.updated||Date.now()-new Date(d.updated)>MAXAGE){$("ddCount").textContent="Deals are being refreshed. Please check back soon.";return;}
   const map={};if(o&&o.cats)Object.keys(o.cats).forEach(k=>(o.cats[k]||[]).forEach(i=>{map[i.asin]=CATN[k]||k;}));
-  const TH={};(d.themes||[]).forEach(t=>TH[t.key]=1);
   const seen={};
-  const add=(arr,fn)=>(arr||[]).forEach(i=>{if(!i||!i.asin||seen[i.asin]||!okLink(i.link)||!i.name||!(i.pct>0)||Date.now()-i.t*1000>=MAXAGE)return;seen[i.asin]=1;i.g=fn(i);ALL.push(i);});
-  add(d.ess,i=>ESS[i.cat]||"Other");
+  const add=(arr,fn,ty)=>(arr||[]).forEach(i=>{if(!i||!i.asin||seen[i.asin]||!okLink(i.link)||!i.name||!(i.pct>0)||Date.now()-i.t*1000>=MAXAGE)return;seen[i.asin]=1;i.g=fn(i);i.ty=ty?ty(i):undefined;ALL.push(i);});
+  add(d.ess,i=>ESS[i.cat]||"Other",i=>i.label);
   add(d.hot,i=>map[i.asin]||"Other");
   add(d.trend,i=>map[i.asin]||(i.theme?"Seasonal":"Other"));
-  const q=new URLSearchParams(location.search).get("c");
-  chips();if(q&&ALL.some(i=>i.g===q))cur=q;
-  $("dlAsof").textContent="· prices: last 24h";draw();
-}).catch(()=>{$("dlCount").textContent="Could not load deals. Please try again.";});
+  const q=new URLSearchParams(location.search);
+  if(q.get("c")&&ALL.some(i=>i.g===q.get("c")))S.c=q.get("c");
+  if(q.get("t"))S.t=q.get("t");
+  if(OPT.d.some(o=>o[0]===q.get("d")))S.d=q.get("d");
+  if(OPT.p.some(o=>o[0]===q.get("p")))S.p=q.get("p");
+  if(OPT.r.some(o=>o[0]===q.get("r")))S.r=q.get("r");
+  if(OPT.s.some(o=>o[0]===q.get("s")))S.s=q.get("s");
+  if(q.get("q")){S.q=q.get("q");$("ddQ").value=S.q;}
+  $("ddAsof").textContent="Prices checked in the last 24h";draw();
+}).catch(()=>{$("ddCount").textContent="Could not load deals. Please try again.";});
 })();
 </script></body></html>
