@@ -74,8 +74,8 @@ fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>
       ticker(trnT,list,i=>card(i,tb(i),i.theme));
       [].forEach.call(trnTabs.children,x=>{const on=x.dataset.k===k;x.classList.toggle("on",on);if(on&&trnTabs.scrollWidth>trnTabs.clientWidth)trnTabs.scrollTo({left:Math.max(0,x.offsetLeft-16),behavior:"smooth"});});
     };
-    /* chips: "🎃 Halloween" -> emoji + <span class=lb>label</span>; on phones only the active chip shows its label so all chips fit in one row */
-    const chip=k=>{if(k==="all")return"All";const t=tlab(k),sp=t.indexOf(" ");return sp>0?`${t.slice(0,sp)}<span class="lb"> ${t.slice(sp+1)}</span>`:t;};
+    /* chips: emoji on top, theme name under it (stacked), so all chips fit one row on phones */
+    const chip=k=>{if(k==="all")return'<i>✨</i><span class="lb">All</span>';const t=tlab(k),sp=t.indexOf(" ");return sp>0?`<i>${t.slice(0,sp)}</i><span class="lb">${t.slice(sp+1)}</span>`:`<span class="lb">${t}</span>`;};
     trnTabs.innerHTML=order.length>1?["all"].concat(order).map(k=>`<button type="button" data-k="${esc(k)}" aria-label="${k==="all"?"All":esc(tlab(k))}" title="${k==="all"?"All":esc(tlab(k))}">${chip(k)}</button>`).join(""):"";
     trnTabs.onclick=e=>{const x=e.target.closest("button");if(x)show(x.dataset.k);};
     show("all");

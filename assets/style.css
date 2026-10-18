@@ -408,10 +408,6 @@ nav .wrap{height:54px}
 .tk-x em.st,.ess-im em.st{background:#64748b}
 
 /* Trending theme chips: fit one row on phones (inactive chips = emoji only, active = emoji + name); full labels on wider screens */
-#trnTabs{gap:5px}
-#trnTabs button{padding:8px 11px}
-@media(max-width:560px){#trnTabs button:not(.on) .lb{display:none}#trnTabs button:not(.on):not([data-k=all]){padding:8px 12px;font-size:14px;line-height:1}}
-@media(max-width:340px){#trnTabs{gap:4px}#trnTabs button{padding:8px 9px;font-size:11.5px}#trnTabs button:not(.on):not([data-k=all]){padding:8px 10px}}
 
 /* compact category row (top of home) - the big 'Browse by category' grid stays below */
 .catrow{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin:0 -2px 8px;padding:2px 2px;-webkit-mask:linear-gradient(90deg,#000 94%,transparent);mask:linear-gradient(90deg,#000 94%,transparent)}
@@ -434,3 +430,13 @@ nav .wrap{height:54px}
 .ess-im em{font-size:10.5px;top:4px;left:4px}
 @media(max-width:340px){.ess-r{font-size:9.5px}.ess-c b{font-size:10.5px}.ess-im em{font-size:9.5px}}
 @media(min-width:700px){.ess-r{font-size:11.5px}}
+
+/* Trending theme chips: emoji on top, name under it */
+#trnTabs{gap:5px}
+#trnTabs button{flex:1 0 auto;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:6px 9px 7px;border-radius:16px;min-width:48px}
+#trnTabs button i{font-style:normal;font-size:19px;line-height:1}
+#trnTabs button .lb{font-size:10.5px;line-height:1;font-weight:700;letter-spacing:-.01em}
+@media(min-width:560px){#trnTabs button{flex:none;padding:7px 14px 8px}#trnTabs button .lb{font-size:11.5px}}
+@media(max-width:340px){#trnTabs{gap:4px}#trnTabs button{padding:6px 7px 7px;min-width:0}#trnTabs button .lb{font-size:9.5px}}
+@media(max-width:420px){#trnTabs{gap:4px}#trnTabs button{padding:6px 6px 7px;min-width:0}}
+@media(max-width:340px){#trnTabs button .lb{font-size:9px;letter-spacing:-.02em}#trnTabs button{padding:6px 5px 7px}}
