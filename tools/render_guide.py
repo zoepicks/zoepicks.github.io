@@ -135,13 +135,39 @@ if(!h){var g=a.querySelector('.dr-tag');if(g)g.textContent=g.textContent.replace
 b.forEach(function(x){x.onclick=function(){go(x.dataset.t);try{history.replaceState(null,'','#'+(x.dataset.t||'all'))}catch(e){}}});
 var h=(location.hash||'').slice(1);if(h&&[].some.call(b,function(x){return x.dataset.t===h}))go(h)})();"""
 
+MIN_TAB_PAGE = 3   # a tab with >= 3 picks also gets its own indexable URL: /g/<guide>/<tab>/ (real page, own title/H1/canonical, not a JS filter)
+
+def tab_pages(d):
+    """[(tab, products)] for every tab of this guide that is big enough to be its own page. Drafts/retired guides have none."""
+    if d.get("draft") or d.get("retired"): return []
+    P = visible_products(d["products"]); out = []
+    for t in d.get("tabs") or []:
+        if not re.match(r"^[a-z0-9-]{2,40}$", str(t.get("key", ""))): continue
+        ps = [p for p in P if t["key"] in tab_keys(d, p)]
+        if len(ps) >= MIN_TAB_PAGE: out.append((t, ps))
+    return out
+
+def tab_title(d, t):
+    """Own H1/title of a tab page. A tab may carry an explicit 'title'; else 'Under $N' swaps the price in the parent title, anything else
+    becomes 'Best X: Label (year)'."""
+    if t.get("title"): return t["title"]
+    base = d["title"]; lab = t["label"]
+    ym = re.search(r"\s*\((\d{4})\)\s*$", base); yr = f" ({ym.group(1)})" if ym else ""
+    if str(t["key"]).startswith("under-"):
+        stem = re.split(r"(?i)\s+(?:by\s+budget\b|under\s+\$)", base[:ym.start()] if ym else base)[0].strip()
+        return f"{stem} {lab}{yr}"
+    m = re.search(r"\s*\((\d{4})\)\s*$", base)
+    return f"{base[:m.start()]}: {lab} ({m.group(1)})" if m else f"{base}: {lab}"
+
 def tabs_bar(d, items):
     """One guide, several views: 'Top picks' (all) + one chip per tab that has >= 1 product. Chips only exist when there is something to show."""
     ts = [(t, sum(1 for _, p, *_ in items if t["key"] in tab_keys(d, p))) for t in d.get("tabs") or []]
     ts = [(t, n) for t, n in ts if n]
     if not ts: return ""
     chips = '<button class="on" data-t="">Top picks</button>' + "".join(f'<button data-t="{e(t["key"])}">{e(t["label"])}<i>{n}</i></button>' for t, n in ts)
-    return f'<div class="tabs" role="tablist">{chips}</div>'
+    pg = [t for t, _ in tab_pages(d)] if d.get("_tabpages", True) else []
+    own = ('<nav class="tl" style="font-size:13px;margin:6px 0 10px;opacity:.85">Also as its own page: ' + " · ".join(f'<a href="{e(t["key"])}/">{e(t["label"])}</a>' for t in pg) + "</nav>") if pg else ""
+    return f'<div class="tabs" role="tablist">{chips}</div>{own}'
 
 def deal_rows(d):
     """Compact deal list for theme=deal guides: image + -% badge + price/was + one button per row, details collapsed.
@@ -311,10 +337,10 @@ def meta_desc(txt, limit=158):
     return cut + "\u2026"
 
 
-def ld_json(d, base):
+def ld_json(d, base, url=None, parent=None):
     """Article + BreadcrumbList structured data (only when a canonical base URL is known)."""
     if not base: return ""
-    url = f"{base}/g/{d['slug']}/"
+    url = url or f"{base}/g/{d['slug']}/"
     try: iso = datetime.datetime.strptime(d.get("date", ""), "%b %d, %Y").date().isoformat()
     except Exception: iso = None
     art = {"@type": "Article", "headline": d["title"][:110], "description": d["summary"], "mainEntityOfPage": url,
@@ -324,7 +350,8 @@ def ld_json(d, base):
     bc = {"@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Zoe Picks", "item": base + "/"},
         {"@type": "ListItem", "position": 2, "name": CATS.get(d["category"], "Guide"), "item": f"{base}/category.html?c={d['category']}"},
-        {"@type": "ListItem", "position": 3, "name": d["title"], "item": url}]}
+        {"@type": "ListItem", "position": 3, "name": parent["title"] if parent else d["title"], "item": f"{base}/g/{(parent or d)['slug']}/"}]
+        + ([{"@type": "ListItem", "position": 4, "name": d["title"], "item": url}] if parent else [])}
     return '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": [art, bc]}, ensure_ascii=False).replace("</", "<\\/") + "</script>"
 
 def offers_html(d):
@@ -363,10 +390,30 @@ def render(d, base=""):
     for k, v in rep.items(): t = t.replace("{{" + k + "}}", v)
     return t
 
+def render_tab(d, t, ps, base=""):
+    """One tab of a big guide as its own page (own URL, title, H1, canonical, breadcrumb) - the picks come from the parent guide."""
+    title = tab_title(d, t); key = t["key"]; url = f"{base}/g/{d['slug']}/{key}/"
+    sib = [(x, n) for x, n in tab_pages(d) if x["key"] != key]
+    nav = ('<nav class="tl" style="font-size:14px;margin:4px 0 12px">&larr; <a href="../">' + e(d["title"]) + "</a>"
+           + "".join(f' · <a href="../{e(x["key"])}/">{e(x["label"])}</a>' for x, _ in sib) + "</nav>")
+    d2 = dict(d, title=title, products=ps, tabs=[], _tabpages=False, also=d.get("also"),
+              summary=t.get("summary") or f"{t['label']} picks from our full guide: {d['summary']}")
+    html = render(d2, base)
+    html = html.replace('<div class="dr-list">', nav + '<div class="dr-list">', 1)
+    if base:
+        html = re.sub(r'<meta property="og:url" content="[^"]*"><link rel="canonical" href="[^"]*">',
+                      lambda m: f'<meta property="og:url" content="{e(url)}"><link rel="canonical" href="{e(url)}">', html, 1)
+        html = re.sub(r'<script type="application/ld\+json">.*?</script>', lambda m: ld_json(d2, base, url, d), html, 1, flags=re.S)
+    return html.replace('"../../', '"../../../')
+
 def site_files(base):
     """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
     L = [g for g in json.loads((ROOT / "guides/index.json").read_text()) if is_live(g)]
     urls = [f"{base}/"] + [f"{base}/{pg}.html" for pg in ("about", "contact", "privacy", "terms", "disclosure")] + [f"{base}/g/{g['slug']}/" for g in L]
+    for g in L:                                   # tab pages of the live big guides
+        sf = ROOT / "src" / f"{g['slug']}.json"
+        if sf.exists():
+            urls += [f"{base}/g/{g['slug']}/{t['key']}/" for t, _ in tab_pages(json.load(open(sf)))]
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
     (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
@@ -490,6 +537,8 @@ def rebuild_all(base):
     for f in sorted((ROOT / "src").glob("*.json")):
         d = json.load(open(f)); out = ROOT / "g" / d["slug"]; out.mkdir(parents=True, exist_ok=True)
         (out / "index.html").write_text(retired_html(d, base) if d.get("retired") else render(d, base)); print("ok", out / "index.html")
+        for t, ps in tab_pages(d):
+            (out / t["key"]).mkdir(exist_ok=True); (out / t["key"] / "index.html").write_text(render_tab(d, t, ps, base)); print("ok", out / t["key"] / "index.html")
     site_files(base)
 
 if __name__ == "__main__":
