@@ -210,7 +210,8 @@ def deal_rows(d):
         tag = (f'<small class="dr-tag">{e(p["badge"])}</small>' if p.get("badge") else "") if dealpage else (f'<small class="dr-tag">#{i+1}' + (f' · {e(p["badge"])}' if p.get("badge") else "") + '</small>')
         out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" data-tabs="{e(" ".join(tab_keys(d, p)))}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
                 f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{rating_block(p)}{price}{btn}</div></div>'
-                + (f'<details class="dr-d"><summary>Why it is worth it</summary>{det}</details>' if det else "") + "</article>")
+                + (f'<p class="dr-why"><b>Why buy it:</b> {e(p["benefit"])}</p>' if p.get("benefit") else "")
+                + (f'<details class="dr-d"><summary>Pros, cons &amp; who should skip it</summary>{det}</details>' if det else "") + "</article>")
     bar = tabs_bar(d, items)
     return bar + f'<div class="dr-list">{out}</div>' + (f'<script>{TABS_JS}</script>' if bar else "")   # script AFTER the list it filters
 
