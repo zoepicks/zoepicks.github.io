@@ -13,7 +13,13 @@ name: Zoe Deal Scan
 
 on:
   schedule:
-    - cron: '23 */2 * * *'
+    # Daily US-morning window: Amazon deals roll over at 12 AM Pacific (08:00 UTC after the Nov clock change, 07:00 UTC before),
+    # so 4 runs from 08:05 UTC (3:05-4:05 AM ET) finish before the 7 AM ET plan day. Run 1 does the essentials + part of the
+    # offers sweep, the rest finish the sweep; a run with nothing due exits in seconds. No scans later in the day.
+    - cron: '5 8 * * *'
+    - cron: '50 8 * * *'
+    - cron: '35 9 * * *'
+    - cron: '20 10 * * *'
   workflow_dispatch:
     inputs:
       mode:
