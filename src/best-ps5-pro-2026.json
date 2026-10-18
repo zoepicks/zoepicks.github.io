@@ -4,8 +4,8 @@
  "category": "gaming",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least two of the provided sources (TechRadar, PCWorld, IGN, CNET, TheShortcut).",
- "assumptions": "Prices are taken only when explicitly stated in the sources; no additional pricing or discount information is added.",
+ "method": "I selected products that appear in more than one source: TechRadar, PCWorld, IGN, and CNET all discuss the PS5 Pro. The picks are ranked by the number of mentions and the strength of the endorsement in each review.",
+ "assumptions": "Prices are taken directly from the sources; if a source does not list a price, the field is null. No external pricing or discount information is added.",
  "products": [],
  "draft": true
 }

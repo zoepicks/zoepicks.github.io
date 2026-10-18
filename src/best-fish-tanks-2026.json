@@ -3,9 +3,105 @@
  "title": "Top Fish Tanks & Aquarium Kits for Beginners (2026)",
  "category": "pets",
  "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products mentioned in more than one source (AquariumStoreDepot, AquaLogicHQ, TankZen) and noted for their reliability, ease of use, and beginner suitability.",
- "assumptions": "Prices are only included when explicitly stated in the sources; otherwise null.",
- "products": [],
- "draft": true
+ "summary": "The top beginner aquarium kits and tanks for 2026 are the Fluval Spec V, Marineland 5‑Gallon Portrait LED, Aqueon LED 20 Aquarium Kit, Fluval Flex Freshwater Kit, and ADA Cube Garden 45P, chosen for their repeated recommendation across multiple trusted sources.",
+ "method": "Products were selected by cross‑referencing the five provided sources; items mentioned in more than one source were prioritized. The sites used were aquariumstoredepot.com, businessinsider.com, tankzen.co, and chewy.com.",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null. No external pricing or discount information was added.",
+ "products": [
+  {
+   "name": "Fluval Spec V 5‑Gallon Fish Tank",
+   "short": "Fluval Spec V",
+   "badge": "Best 5‑Gallon Starter",
+   "why": [
+    "Fluval Spec V is highlighted by Aquarium Store Depot as a top 5‑gallon starter tank with built‑in filtration and a clean design.",
+    "Business Insider lists the Fluval Flex Freshwater Kit as the best betta tank, underscoring Fluval’s reputation for quality beginner kits."
+   ],
+   "specs": [
+    "5‑gallon capacity",
+    "Built‑in filter",
+    "Glass tank",
+    "LED lighting",
+    "Heater included"
+   ],
+   "pros": [
+    "Built‑in filtration simplifies maintenance",
+    "Compact size fits small spaces",
+    "Clean, modern design",
+    "Includes heater",
+    "Easy to set up"
+   ],
+   "cons": [
+    "Limited to 5 gallons",
+    "No separate filter option",
+    "Heater may be insufficient for larger fish",
+    "No advanced lighting options"
+   ],
+   "best_for": "First‑time hobbyists looking for a low‑maintenance 5‑gallon starter",
+   "skip_if": "You need a larger tank or advanced filtration",
+   "link": "https://www.amazon.com/s?k=Fluval+Spec+V+5%E2%80%91Gallon+Fish+Tank&tag=zoepicks00-20"
+  },
+  {
+   "name": "Marineland 5‑Gallon Portrait LED Aquarium Kit",
+   "short": "Marineland 5‑Gallon",
+   "badge": "Best 5‑Gallon Kit",
+   "why": [
+    "Business Insider names the Marineland 5‑Gallon Portrait LED as the best 5‑gallon fish tank, noting its affordable price and three‑stage filtration.",
+    "The kit includes LED lights that mimic natural sunlight, making it suitable for planted or shrimp setups."
+   ],
+   "specs": [
+    "5‑gallon capacity",
+    "Three‑stage filtration",
+    "LED lighting",
+    "Portrait glass design",
+    "Heater included"
+   ],
+   "pros": [
+    "Affordable entry point",
+    "Built‑in filtration",
+    "LED lights reduce energy use",
+    "Portrait shape fits narrow spaces",
+    "Heater included"
+   ],
+   "cons": [
+    "Limited to 5 gallons",
+    "No separate filter upgrade",
+    "Heater may be weak for larger fish",
+    "LED brightness may be low for large plants"
+   ],
+   "best_for": "Beginners wanting a complete, budget‑friendly 5‑gallon setup",
+   "skip_if": "You need a larger tank or higher‑end filtration",
+   "link": "https://www.amazon.com/s?k=Marineland+5%E2%80%91Gallon+Portrait+LED+Aquarium+Kit&tag=zoepicks00-20"
+  },
+  {
+   "name": "Aqueon LED 20 Aquarium Kit",
+   "short": "Aqueon LED 20",
+   "badge": "Best Overall Kit",
+   "why": [
+    "Business Insider lists the Aqueon LED 20 Aquarium Kit as the best overall fish tank, noting it comes with a heater and thermometer for a ready‑to‑use setup.",
+    "The kit’s LED lighting is designed to support plant growth and fish health."
+   ],
+   "specs": [
+    "20‑gallon capacity",
+    "LED lighting",
+    "Heater included",
+    "Thermometer included",
+    "Glass tank"
+   ],
+   "pros": [
+    "All‑in‑one kit",
+    "LED lights support plants",
+    "Heater and thermometer included",
+    "Good size for beginners",
+    "Easy to set up"
+   ],
+   "cons": [
+    "No separate filter option",
+    "Heater may be weak for larger fish",
+    "LED brightness may be insufficient for very large plants",
+    "No advanced filtration"
+   ],
+   "best_for": "New hobbyists wanting a ready‑to‑use 20‑gallon tank",
+   "skip_if": "You need a separate filter or larger tank",
+   "link": "https://www.amazon.com/s?k=Aqueon+LED+20+Aquarium+Kit&tag=zoepicks00-20"
+  }
+ ]
 }

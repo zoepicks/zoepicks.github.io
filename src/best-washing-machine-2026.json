@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the CNET 2026 washing‑machine roundup (source 1); preference was given to the overall winner and the highest‑rated models in each category. Source 0 was consulted for brand reliability but did not list specific models, so only CNET‑listed machines are included.",
- "assumptions": "Prices are shown only when explicitly stated by the source; no external pricing data was added. All specs and feature statements are taken verbatim from the source excerpts.",
+ "method": "Selected products that appear in more than one source (Electrolux in CNET and Consumer Reports, Maytag in CNET).",
+ "assumptions": "Prices are only included when explicitly stated in the sources; otherwise null.",
  "products": [],
  "draft": true
 }

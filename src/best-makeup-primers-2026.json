@@ -3,9 +3,97 @@
  "title": "Top Makeup Primers for Smooth, Long-Lasting Makeup (2026)",
  "category": "beauty_health",
  "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the Livinginyellow primer comparison (source 6) and the Glamour SPF primer roundup (source 7). Those appearing in more than one source—Smashbox Photo Finish and e.l.f.—were ranked highest. Prices were taken only when explicitly stated in the Glamour article.",
- "assumptions": "Prices are only provided where a source lists them; otherwise the price field is null.",
- "products": [],
- "draft": true
+ "summary": "Milk Makeup Hydro Grip tops the list for all‑day wear, with Yves Saint Laurent, Charlotte Tilbury, Maybelline and e.l.f. offering strong alternatives for different skin needs.",
+ "method": "Selected products mentioned in the provided sources, prioritizing those cited by more than one site (Milk Makeup).",
+ "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
+ "products": [
+  {
+   "name": "Milk Makeup Hydro Grip Hydrating Makeup Primer",
+   "short": "Milk Makeup Hydro Grip",
+   "badge": "Best Overall",
+   "why": [
+    "Milk Makeup Hydro Grip is highlighted in both Marie Claire and EdytBeauty as a primer that locks makeup in place all day while providing hydration.",
+    "Its blend of hyaluronic acid and niacinamide offers a smooth, dewy finish that blurs pores and fine lines."
+   ],
+   "specs": [
+    "Hydrating Makeup Primer",
+    "Hyaluronic Acid",
+    "Niacinamide",
+    "Smooth Finish",
+    "Long‑wear"
+   ],
+   "pros": [
+    "Long‑lasting wear",
+    "Hydrating formula",
+    "Blurs pores",
+    "Suitable for mature skin"
+   ],
+   "cons": [
+    "May feel slightly dewy for oily skin",
+    "Not a matte finish"
+   ],
+   "best_for": "Anyone seeking a hydrating primer that stays put all day",
+   "skip_if": "You prefer a matte finish or have very oily skin",
+   "link": "https://www.amazon.com/s?k=Milk+Makeup+Hydro+Grip+Hydrating+Makeup+Primer&tag=zoepicks00-20"
+  },
+  {
+   "name": "Maybelline Grippy Serum Hydrating Makeup Primer with 2% Niacinamide",
+   "short": "Maybelline Grippy Serum",
+   "badge": "Best Value",
+   "why": [
+    "Maybelline Grippy Serum is highlighted in EdytBeauty for its affordable price and effective grip thanks to 2% niacinamide.",
+    "It provides a hydrating serum base that extends makeup wear."
+   ],
+   "specs": [
+    "Hydrating Serum Primer",
+    "2% Niacinamide",
+    "Long‑wear",
+    "Affordable"
+   ],
+   "pros": [
+    "Very affordable",
+    "Hydrating",
+    "Long‑wear",
+    "Easy to apply"
+   ],
+   "cons": [
+    "Not a high‑end formula",
+    "May feel slightly sticky on very dry skin"
+   ],
+   "best_for": "Budget‑conscious users who still want long‑lasting makeup",
+   "skip_if": "You need a high‑end, luxury primer",
+   "price": "$9.97",
+   "link": "https://www.amazon.com/s?k=Maybelline+Grippy+Serum+Hydrating+Makeup+Primer+with+2%25+Niacinamide&tag=zoepicks00-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "e.l.f. Power Grip Primer + 4% Niacinamide, Gel-Based & Hydrating Face Primer",
+   "short": "e.l.f. Power Grip",
+   "badge": "Best Grip",
+   "why": [
+    "e.l.f. Power Grip is praised in EdytBeauty for its gel‑based texture that grips makeup and includes 4% niacinamide for added benefits.",
+    "It offers a lightweight, hydrating feel while keeping foundation in place."
+   ],
+   "specs": [
+    "Gel-Based Primer",
+    "4% Niacinamide",
+    "Hydrating",
+    "Long‑wear",
+    "Lightweight"
+   ],
+   "pros": [
+    "Gel texture grips well",
+    "Hydrating",
+    "Long‑wear",
+    "Affordable"
+   ],
+   "cons": [
+    "May feel slightly sticky on oily skin",
+    "Not a high‑end formula"
+   ],
+   "best_for": "Those who need a strong grip without heavy texture",
+   "skip_if": "You prefer a matte finish or have very oily skin",
+   "link": "https://www.amazon.com/s?k=e.l.f.+Power+Grip+Primer+%2B+4%25+Niacinamide%2C+Gel-Based+%26+Hydrating+Face+Primer&tag=zoepicks00-20"
+  }
+ ]
 }

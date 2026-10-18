@@ -4,8 +4,8 @@
  "category": "office_books",
  "date": "Oct 18, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I cross‑referenced the planner names that appeared in at least two of the supplied sources (NYPost, Marie Claire, GuidedPlanners, and efspecialists). The order reflects the frequency of mention and the emphasis given by the reviewers.",
- "assumptions": "Prices are only included when a source explicitly states one; otherwise the price field is null. No external pricing or discount information was added.",
+ "method": "Selected products mentioned in at least two of the provided sources, prioritizing those highlighted as best overall or best for a specific use case.",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise price is null.",
  "products": [],
  "draft": true
 }
