@@ -332,25 +332,39 @@
   },
   "gaming:playstation": {
    "label": "Playstation",
-   "tries": 1,
+   "tries": 2,
    "items": [
+    {
+     "asin": "B0H9Z71PJK",
+     "name": "NBA 2K27 - PlayStation 5",
+     "pct": 29,
+     "rating": 4.8,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/81uApUmA8RL.jpg",
+     "link": "https://www.amazon.com/dp/B0H9Z71PJK?tag=zoepicks00-20",
+     "now": "49.99",
+     "was": "69.99",
+     "deal": "Limited time deal",
+     "reviews": 119,
+     "_title": "NBA 2K27 - PlayStation 5",
+     "_price": 49.99
+    },
     {
      "asin": "B0B9P4PT64",
      "name": "OKHAHA Controller 2 Pack",
      "pct": 10,
      "rating": 4.2,
-     "t": 1792226364,
+     "t": 1792327703,
      "img": "https://m.media-amazon.com/images/I/61WsFLSL06L.jpg",
      "link": "https://www.amazon.com/dp/B0B9P4PT64?tag=zoepicks00-20",
      "now": "22.31",
      "was": "24.79",
-     "deal": "Limited time deal",
-     "reviews": 6013,
+     "reviews": 6014,
      "_title": "OKHAHA Controller 2 Pack for PS3 Wireless Controller for Sony Playstation 3, Double Shock 3, Bluetooth, Rechargeable, Moti...",
      "_price": 22.31
     }
    ],
-   "scanned": "2026-10-17T08:39:24.860498+00:00",
+   "scanned": "2026-10-18T12:48:23.555777+00:00",
    "via": "sweep"
   },
   "hobby_music:usb-microphones": {
@@ -3052,6 +3066,140 @@
    ],
    "scanned": "2026-10-18T12:42:51.155879+00:00",
    "via": "sweep"
+  },
+  "gaming:gaming-controllers": {
+   "label": "Gaming Controllers",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B01H6GUCCQ",
+     "name": "BENGOO G9000 Stereo Gaming Headset",
+     "pct": 31,
+     "rating": 4.3,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
+     "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
+     "now": "19.95",
+     "was": "28.99",
+     "deal": "Limited time deal",
+     "reviews": 122397,
+     "_title": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED ...",
+     "_price": 19.95
+    },
+    {
+     "asin": "B0D49FX7JB",
+     "name": "SCUF ENVISION Wired V2",
+     "pct": 31,
+     "rating": 4.0,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/71sNnXr0eKL.jpg",
+     "link": "https://www.amazon.com/dp/B0D49FX7JB?tag=zoepicks00-20",
+     "now": "89.99",
+     "was": "129.99",
+     "deal": "Limited time deal",
+     "reviews": 51,
+     "_title": "SCUF ENVISION Wired V2 (2025) PC Only Gaming Controller – Black | Windows 10+, Anti-Drift Thumbsticks, Five Remappable G-K...",
+     "_price": 89.99
+    }
+   ],
+   "scanned": "2026-10-18T12:48:23.555777+00:00",
+   "via": "sweep"
+  },
+  "gaming:gaming-headsets": {
+   "label": "Gaming Headsets",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0GD55C2VQ",
+     "name": "Wireless Gaming Headset",
+     "pct": 60,
+     "rating": 4.4,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/71RKM8wJsTL.jpg",
+     "link": "https://www.amazon.com/dp/B0GD55C2VQ?tag=zoepicks00-20",
+     "now": "19.99",
+     "was": "49.99",
+     "deal": "Limited time deal",
+     "reviews": 534,
+     "_title": "Wireless Gaming Headset for PS5, PS4, PC, Switch, 20ms Low Latency with Mic | 2.4GHz 2-in-1 USB-A/USB-C Receiver & Bluetoo...",
+     "_price": 19.99
+    },
+    {
+     "asin": "B0HDT3RMC9",
+     "name": "Acer Wireless Gaming Headset",
+     "pct": 45,
+     "rating": 4.3,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/71WUxRjul4L.jpg",
+     "link": "https://www.amazon.com/dp/B0HDT3RMC9?tag=zoepicks00-20",
+     "now": "43.98",
+     "was": "79.99",
+     "deal": "Limited time deal",
+     "reviews": 56,
+     "_title": "Acer Wireless Gaming Headset with Zero-Latency for PS5,PC,Switch-40H Batt | 2.4GHz & Bluetooth 5.4 Gaming Headphones with ...",
+     "_price": 43.98
+    },
+    {
+     "asin": "B098TVWSR8",
+     "name": "HyperX Cloud Flight",
+     "pct": 38,
+     "rating": 4.5,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/71JPttDoucL.jpg",
+     "link": "https://www.amazon.com/dp/B098TVWSR8?tag=zoepicks00-20",
+     "now": "74.93",
+     "was": "119.99",
+     "deal": "Limited time deal",
+     "reviews": 728,
+     "_title": "HyperX Cloud Flight – Wireless Gaming Headset for PS5 and PS4, Up to 30-hour battery, Memory foam ear cushions and premium...",
+     "_price": 74.93
+    },
+    {
+     "asin": "B01H6GUCCQ",
+     "name": "BENGOO G9000 Stereo Gaming Headset",
+     "pct": 31,
+     "rating": 4.3,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
+     "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
+     "now": "19.95",
+     "was": "28.99",
+     "deal": "Limited time deal",
+     "reviews": 122397,
+     "_title": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED ...",
+     "_price": 19.95
+    },
+    {
+     "asin": "B07PDFBJZD",
+     "name": "Logitech G PRO X Wired Gaming Headset",
+     "pct": 29,
+     "rating": 4.3,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/51j6CXF9DYL.jpg",
+     "link": "https://www.amazon.com/dp/B07PDFBJZD?tag=zoepicks00-20",
+     "now": "92.06",
+     "was": "129.99",
+     "reviews": 6903,
+     "_title": "Logitech G PRO X Wired Gaming Headset - Black | Blue VO!CE Detachable Boom Mic, DTS 7.1, 50 mm Drivers, USB/3.5mm Aux, Spa...",
+     "_price": 92.06
+    },
+    {
+     "asin": "B0C4F9JGTJ",
+     "name": "Ozeino Wireless Gaming Headset",
+     "pct": 25,
+     "rating": 4.3,
+     "t": 1792327703,
+     "img": "https://m.media-amazon.com/images/I/718p9ygBQrL.jpg",
+     "link": "https://www.amazon.com/dp/B0C4F9JGTJ?tag=zoepicks00-20",
+     "now": "29.98",
+     "was": "39.99",
+     "reviews": 11558,
+     "_title": "Ozeino Wireless Gaming Headset for PS5, PC, Switch| Lossless Audio-40H Batt | Play & Charge, 2.4GHz USB & Type-C, Flip Mi...",
+     "_price": 29.98
+    }
+   ],
+   "scanned": "2026-10-18T12:48:23.555777+00:00",
+   "via": "sweep"
   }
  },
  "sweeps": {
@@ -3088,12 +3236,12 @@
    "types": 3
   },
   "gaming": {
-   "at": "2026-10-17T08:39:24.860498+00:00",
+   "at": "2026-10-18T12:48:23.555777+00:00",
    "pages": 5,
    "cards": 80,
-   "offer_cards": 79,
-   "types_hit": 2,
-   "types": 3
+   "offer_cards": 80,
+   "types_hit": 3,
+   "types": 6
   },
   "hobby_music": {
    "at": "2026-10-17T08:40:47.863660+00:00",
