@@ -2538,20 +2538,20 @@
   },
   "beauty_health:hair-dryers": {
    "label": "Hair Dryers",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
      "asin": "B0H1Q11Q8Q",
      "name": "aowoka Hair Dryer, 160000 RPM Professional High Speed Ionic…",
      "pct": 69,
-     "rating": 4.5,
-     "t": 1792326759,
+     "rating": 4.6,
+     "t": 1792366556,
      "img": "https://m.media-amazon.com/images/I/714qY62sNRL.jpg",
      "link": "https://www.amazon.com/dp/B0H1Q11Q8Q?tag=zoepicks00-20",
      "now": "49.99",
      "was": "159.99",
      "deal": "Limited time deal",
-     "reviews": 20,
+     "reviews": 283,
      "_title": "aowoka Hair Dryer, 160000 RPM Professional High Speed Ionic Blow Dryer 500 Million Negative Ions & Heat-Control & Low Nois...",
      "_price": 49.99
     },
@@ -2560,30 +2560,30 @@
      "name": "Mythsight StyleVibe 6-in-1 Air Styler",
      "pct": 30,
      "rating": 4.5,
-     "t": 1792326759,
+     "t": 1792366556,
      "img": "https://m.media-amazon.com/images/I/71aQCZ-c8YL.jpg",
      "link": "https://www.amazon.com/dp/B0FFLTC255?tag=zoepicks00-20",
      "now": "93.38",
      "was": "132.99",
      "deal": "Limited time deal",
-     "reviews": 1697,
+     "reviews": 1699,
      "_title": "Mythsight StyleVibe 6-in-1 Air Styler with Hair Dryer & Auto-Wrap Curl L/R | Blow Dryer Brush, Thermal Brush and Straighte...",
      "_price": 93.38
     }
    ],
-   "scanned": "2026-10-18T12:32:39.467082+00:00",
+   "scanned": "2026-10-18T23:35:56.340347+00:00",
    "via": "sweep"
   },
   "beauty_health:water-flossers": {
    "label": "Water Flossers",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
      "asin": "B0GQXDBFRN",
      "name": "Waterpik Cordless Gem 5100 Portable Water Flosser",
      "pct": 38,
      "rating": 4.1,
-     "t": 1792326759,
+     "t": 1792366556,
      "img": "https://m.media-amazon.com/images/I/71k4ZaTMbFL.jpg",
      "link": "https://www.amazon.com/dp/B0GQXDBFRN?tag=zoepicks00-20",
      "now": "49.99",
@@ -2598,7 +2598,7 @@
      "name": "H2ofloss Water Dental Flosser Teeth Pick -Portable Oral…",
      "pct": 20,
      "rating": 4.2,
-     "t": 1792326759,
+     "t": 1792366556,
      "img": "https://m.media-amazon.com/images/I/61QuLI3BssL.jpg",
      "link": "https://www.amazon.com/dp/B0D1TRFJL2?tag=zoepicks00-20",
      "now": "19.99",
@@ -2609,7 +2609,7 @@
      "_price": 19.99
     }
    ],
-   "scanned": "2026-10-18T12:32:39.467082+00:00",
+   "scanned": "2026-10-18T23:35:56.340347+00:00",
    "via": "sweep"
   },
   "tools_auto:impact-drivers": {
@@ -7136,12 +7136,12 @@
    "types": 6
   },
   "beauty_health": {
-   "at": "2026-10-18T12:32:39.467082+00:00",
+   "at": "2026-10-18T23:35:56.340347+00:00",
    "pages": 10,
-   "cards": 330,
-   "offer_cards": 328,
+   "cards": 331,
+   "offer_cards": 329,
    "types_hit": 2,
-   "types": 6
+   "types": 7
   },
   "pets": {
    "at": "2026-10-18T12:35:20.558606+00:00",
