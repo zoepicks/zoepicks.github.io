@@ -37,7 +37,10 @@
    ],
    "best_for": "Frequent fliers who need a reliable, spacious carry‑on",
    "skip_if": "You need a very lightweight or ultra‑budget option",
-   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Expandable+Carry%E2%80%91On&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Expandable+Carry%E2%80%91On&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Away Carry‑On",
@@ -69,7 +72,16 @@
    ],
    "best_for": "Budget travelers who want a smart suitcase with charging capability",
    "skip_if": "You need a very rugged or high‑capacity bag",
-   "link": "https://www.amazon.com/s?k=Away+Carry%E2%80%91On&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away+Carry%E2%80%91On&tag=zoepicks00-20",
+   "asin": "B0DLHBYCJB",
+   "image": "https://m.media-amazon.com/images/I/61LQ3PWxE+L.jpg",
+   "image_asin": "B0DLHBYCJB",
+   "amazon_price": "$275.00",
+   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_listing": "Away The Carry-On Luggage, 22-inch Lightweight Hardside Spinner Suitcase | Durable & Light",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 465,
+   "amazon_rating_asof": "Oct 18, 2026"
   },
   {
    "name": "Béis The Carry‑On",
@@ -99,7 +111,10 @@
    ],
    "best_for": "Over‑packers who need extra room in a carry‑on",
    "skip_if": "You prefer a hard‑shell or lightweight bag",
-   "link": "https://www.amazon.com/s?k=B%C3%A9is+The+Carry%E2%80%91On&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=B%C3%A9is+The+Carry%E2%80%91On&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   }
  ]
 }

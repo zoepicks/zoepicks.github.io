@@ -501,3 +501,6 @@ nav a.so.tg{color:#229ED9}
 nav a.so b{font-weight:700;color:var(--ink)}
 nav a.so:active{transform:scale(.96)}
 @media(max-width:380px){nav a.so b{display:none}nav a.so{padding:0 10px}}
+
+.dr-why{margin:9px 0 0;padding:8px 10px;border-radius:10px;background:rgba(0,0,0,.04);font-size:13.5px;line-height:1.45}.dr-why b{color:var(--c)}
+.dr-soon{margin:16px 2px 4px;font-size:12.5px;font-weight:700;color:var(--mut)}
