@@ -83,4 +83,4 @@ jobs:
           git config user.name "zoe-collector-bot"
           git config user.email "zoe-collector-bot@users.noreply.github.com"
           git add -A
-          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "collect: new guide data"; git pull --rebase -q; git push; fi
+          if git diff --cached --quiet; then echo "nothing to commit"; else git commit -m "collect: new guide data"; (git pull --rebase -q || (git rebase --abort; git pull --no-rebase -X theirs --no-edit -q)); git push; fi
