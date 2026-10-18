@@ -37,7 +37,10 @@
    "skip_if": "You need a compact, travel‑friendly dryer",
    "price": "$520 at Store",
    "link": "https://www.amazon.com/s?k=Dyson+Supersonic+Hair+Dryer&tag=iamcartigo-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Shark Ionic SpeedStyle",
@@ -69,7 +72,10 @@
    "skip_if": "You need a very low‑cost option",
    "price": "$230 at Store",
    "link": "https://www.amazon.com/s?k=Shark+Ionic+SpeedStyle&tag=iamcartigo-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Conair Ion Shine 1875",
@@ -98,7 +104,10 @@
    "skip_if": "You need high performance or smart tech",
    "price": "$30 at Store",
    "link": "https://www.amazon.com/s?k=Conair+Ion+Shine+1875&tag=iamcartigo-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   }
  ]
 }
