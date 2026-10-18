@@ -11,7 +11,7 @@ var T=(j&&j.types)||{},fh=((j&&j.fresh_h)||36)*3600,n=Date.now()/1000,best=null,
 var order=[C].concat(A||[]).concat(Object.keys(T));
 order.forEach(function(c,i){if(order.indexOf(c)!==i)return;(T[c]||[]).forEach(function(t){if(s.indexOf("-"+t.key+"-")>-1&&t.key.length>bl){best=t;bl=t.key.length}})});
 if(!best)return;
-var seen={},L=(best.items||[]).filter(function(x){if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
+var um=/-under-(\d+)-/.exec(s),cap=um?+um[1]:0,seen={},L=(best.items||[]).filter(function(x){if(cap&&x.now&&parseFloat(x.now)>cap)return false;if(seen[x.asin]||!(n-x.t<fh)||!/^https:\/\/www\.amazon\.com\//.test(x.link||""))return false;seen[x.asin]=1;return true}).slice(0,3);
 if(!L.length)return;
 var E=function(v){return String(v==null?"":v).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})};
 var chip=function(x){var im=(x.img||"").indexOf("https://")===0?'<img class="dl-i" src="'+E(x.img)+'" alt="" loading="lazy" referrerpolicy="no-referrer">':'<span class="dl-i"><\/span>';var pr=(x.now&&x.was)?'<span class="dl-p"><strong>$'+E(x.now)+'<\/strong><s>$'+E(x.was)+'<\/s><\/span>':'';var dd=x.deal?'<span class="dl-d">'+E(x.deal)+'<\/span>':'';return '<a class="dl-c" href="'+E(x.link)+'" rel="sponsored nofollow noopener" target="_blank">'+im+'<span class="dl-b"><span class="dl-t">'+E(x.name)+'<\/span>'+pr+dd+'<\/span><b>-'+E(x.pct)+'%<\/b><\/a>'};
