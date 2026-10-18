@@ -1,8 +1,8 @@
 {
  "slug": "best-4k-tvs-2026",
- "title": "Top 4K TVs for Every Budget (2026)",
+ "title": "Top TVs: 4K & OLED for Every Budget (2026)",
  "category": "smart_home",
- "date": "Oct 16, 2026",
+ "date": "Oct 18, 2026",
  "summary": "Tom's Guide and TechRadar both back the LG C6 and LG C5 OLEDs as top all-rounders, the Samsung S95H (S99H) for bright rooms, the Samsung S90F for gaming and the TCL QM8L mini-LED for big screens and sport.",
  "method": "Picks come from Tom's Guide's best TVs list (updated Oct 13, 2026) and TechRadar's best TVs guide (updated Oct 8, 2026). Each TV here is named by both sites.",
  "assumptions": "Prices are what the retailer price boxes on those pages showed on the day we checked, for the size noted, and they change often. Check the current price on Amazon. Each site tests with its own methods, so brightness and input lag numbers are not directly comparable between them.",
@@ -45,7 +45,10 @@
    "amazon_listing": "LG 42-Inch Class OLED evo AI 4K C6 Series Smart TV, 2026 Model | Dolby Atmos, Dolby Vision",
    "amazon_rating": "4.2",
    "amazon_reviews": 116,
-   "amazon_rating_asof": "Oct 17, 2026"
+   "amazon_rating_asof": "Oct 17, 2026",
+   "tabs": [
+    "oled"
+   ]
   },
   {
    "name": "Samsung S95H QD-OLED (sold as S99H)",
@@ -117,7 +120,10 @@
    "image_asin": "B0DYQM4BDB",
    "amazon_rating": "4.3",
    "amazon_reviews": 1668,
-   "amazon_rating_asof": "Oct 17, 2026"
+   "amazon_rating_asof": "Oct 17, 2026",
+   "tabs": [
+    "oled"
+   ]
   },
   {
    "name": "Samsung S90F OLED",
@@ -157,7 +163,10 @@
    "amazon_listing": "Samsung 65-Inch Class OLED S90F 4K Smart TV (2025 Model) NQ4 AI Gen3 Processor Upscaling P",
    "amazon_rating": "4.4",
    "amazon_reviews": 636,
-   "amazon_rating_asof": "Oct 17, 2026"
+   "amazon_rating_asof": "Oct 17, 2026",
+   "tabs": [
+    "oled"
+   ]
   },
   {
    "name": "TCL QM8L",
@@ -198,6 +207,121 @@
    "amazon_rating": "4.3",
    "amazon_reviews": 114,
    "amazon_rating_asof": "Oct 16, 2026"
+  },
+  {
+   "name": "Samsung S95F OLED",
+   "short": "Samsung S95F",
+   "badge": "Best for bright rooms (TechRadar)",
+   "why": [
+    "TechRadar's pick for bright rooms: vivid colors, high brightness and a glare-free screen that beats reflections. Tom's Guide says it is better than the S90F in most ways but costs far more for fairly minor gains.",
+    "TechRadar notes some black crush and slightly raised blacks from the anti-reflection coating."
+   ],
+   "specs": [
+    "55, 65, 77-inch QD-OLED; 83-inch is a standard OLED",
+    "Four HDMI 2.1 ports; 4K 165Hz with VRR",
+    "HDR10, HDR10+ and HLG (no Dolby Vision)",
+    "9.5ms input lag in TechRadar's test"
+   ],
+   "pros": [
+    "Effective reflection-beating screen",
+    "Vibrant colors and high brightness",
+    "Loaded with gaming features",
+    "Razor-thin design"
+   ],
+   "cons": [
+    "Expensive",
+    "No Dolby Vision",
+    "Some black crush"
+   ],
+   "best_for": "Sunny living rooms where you still want OLED contrast",
+   "skip_if": "You mostly watch in a dark room or want to spend less",
+   "price": "$1,999.99",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=Samsung+S95F+OLED+65+inch&tag=iamcartigo-20",
+   "asin": "B0DXMJFJ7W",
+   "image": "https://m.media-amazon.com/images/I/81idfnaa+qL.jpg",
+   "image_asin": "B0DXMJFJ7W",
+   "tabs": [
+    "oled"
+   ]
+  },
+  {
+   "name": "LG G5 OLED",
+   "short": "LG G5",
+   "badge": "Best premium OLED (TechRadar)",
+   "why": [
+    "TechRadar's best premium OLED, with a four-stack Primary Tandem RGB panel that hit 2,268 nits in Filmmaker mode, then its brightest OLED test. Tom's Guide says it may be one of the best OLEDs ever made.",
+    "Tom's Guide still prefers the cheaper LG B6 unless you need one of the brightest TVs it has tested, and TechRadar notes the C5 delivers similar features for much less."
+   ],
+   "specs": [
+    "48, 55, 65, 77 and 83-inch sizes",
+    "Four HDMI 2.1 ports; 4K 165Hz",
+    "Dolby Vision, HDR10 and HLG (no HDR10+)",
+    "9.1ms input lag with Boost mode on"
+   ],
+   "pros": [
+    "Incredible brightness",
+    "Improved anti-reflection screen",
+    "Fantastic gaming credentials"
+   ],
+   "cons": [
+    "Pricey compared to the C5",
+    "No HDR10+ support",
+    "No input select button on the remote"
+   ],
+   "best_for": "Wall-mounting and bright rooms when you want a top LG panel",
+   "skip_if": "Value matters more than the last bit of brightness",
+   "price": "$1,699.99",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=LG+G5+OLED+55+inch&tag=iamcartigo-20",
+   "asin": "B0DYQR8R98",
+   "image": "https://m.media-amazon.com/images/I/91IlCZLFS9L.jpg",
+   "image_asin": "B0DYQR8R98",
+   "tabs": [
+    "oled"
+   ]
+  },
+  {
+   "name": "LG B5 OLED",
+   "short": "LG B5",
+   "badge": "Best budget OLED (TechRadar)",
+   "why": [
+    "TechRadar's best budget OLED, with vibrant, accurate color, strong contrast and a very low 9.1ms input lag. It is the cheapest way to get an OLED with four HDMI 2.1 ports.",
+    "Tom's Guide says the newer LG B6 is a significant step up in performance and still recommends it over the B5, even though the B5 is slightly cheaper now."
+   ],
+   "specs": [
+    "48, 55, 65 and 77-inch sizes",
+    "Four HDMI 2.1 ports; 4K 120Hz with VRR",
+    "Dolby Vision, HDR10 and HLG (no HDR10+)",
+    "668 nits peak brightness in TechRadar's test"
+   ],
+   "pros": [
+    "Punchy, detailed picture",
+    "Great gaming features",
+    "Affordable for an OLED"
+   ],
+   "cons": [
+    "Limited brightness",
+    "Average sound quality",
+    "No HDR10+ support"
+   ],
+   "best_for": "Dim to moderately lit rooms on a tighter budget",
+   "skip_if": "You can stretch to the LG B6 or C5, or want a bright-room TV",
+   "price": "$1,396.99",
+   "price_asof": "Oct 16, 2026",
+   "link": "https://www.amazon.com/s?k=LG+B5+OLED+65+inch&tag=iamcartigo-20",
+   "asin": "B0F949XDR6",
+   "image": "https://m.media-amazon.com/images/I/917SDXq4gUL.jpg",
+   "image_asin": "B0F949XDR6",
+   "tabs": [
+    "oled"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "oled",
+   "label": "OLED"
   }
  ]
 }

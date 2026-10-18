@@ -27,10 +27,14 @@
   "category": "laptops",
   "high_ticket": true,
   "status": "done",
-  "priority": 95
+  "priority": 95,
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "under-500",
+  "tab_label": "Under $500",
+  "tab_max": 500
  },
  {
-  "title": "Best Laptops Under $1000 (2026)",
+  "title": "Best Laptops by Budget: Under $500, $600 & $1,000 (2026)",
   "slug": "best-laptops-under-1000-2026",
   "category": "laptops",
   "high_ticket": true,
@@ -90,7 +94,11 @@
   "category": "laptops",
   "high_ticket": true,
   "status": "done",
-  "priority": 14
+  "priority": 14,
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "under-600",
+  "tab_label": "Under $600",
+  "tab_max": 600
  },
  {
   "title": "Windows Laptops That Rival the MacBook Air (2026)",
@@ -137,10 +145,13 @@
   "category": "laptops",
   "high_ticket": true,
   "status": "done",
-  "priority": 70
+  "priority": 70,
+  "parent": "best-gaming-laptops-under-1500-2026",
+  "tab": "budget",
+  "tab_label": "Budget"
  },
  {
-  "title": "Top Gaming Laptops Under $1500 (2026)",
+  "title": "Top Gaming Laptops: Under $1,000 & $1,500 (2026)",
   "slug": "best-gaming-laptops-under-1500-2026",
   "category": "laptops",
   "high_ticket": true,
@@ -169,7 +180,10 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 71
+  "priority": 71,
+  "parent": "best-computer-mouse-2026",
+  "tab": "gaming",
+  "tab_label": "Gaming"
  },
  {
   "title": "Top Mechanical Keyboards for Typing & Gaming (2026)",
@@ -217,7 +231,10 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 79
+  "priority": 79,
+  "parent": "best-vacuums-2026",
+  "tab": "robot",
+  "tab_label": "Robot"
  },
  {
   "title": "Top Cordless Vacuums for Everyday Cleaning (2026)",
@@ -225,7 +242,10 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 80
+  "priority": 80,
+  "parent": "best-vacuums-2026",
+  "tab": "stick",
+  "tab_label": "Cordless stick"
  },
  {
   "title": "Top Air Fryers for Fast Weeknight Dinners (2026)",
@@ -289,10 +309,13 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 81
+  "priority": 81,
+  "parent": "best-vacuums-2026",
+  "tab": "pet-hair",
+  "tab_label": "Pet hair"
  },
  {
-  "title": "Top 4K TVs for Every Budget (2026)",
+  "title": "Top TVs: 4K & OLED for Every Budget (2026)",
   "slug": "best-4k-tvs-2026",
   "category": "smart_home",
   "high_ticket": true,
@@ -305,7 +328,10 @@
   "category": "smart_home",
   "high_ticket": true,
   "status": "done",
-  "priority": 99
+  "priority": 99,
+  "parent": "best-4k-tvs-2026",
+  "tab": "oled",
+  "tab_label": "OLED"
  },
  {
   "title": "Top TVs Under $500 (2026)",
@@ -417,7 +443,10 @@
   "category": "electronics",
   "high_ticket": false,
   "status": "todo",
-  "priority": 92
+  "priority": 92,
+  "parent": "best-cameras-for-beginners-2026",
+  "tab": "action",
+  "tab_label": "Action"
  },
  {
   "title": "Top Webcams for Sharp Video Calls (2026)",
@@ -1165,7 +1194,7 @@
   "priority": 18
  },
  {
-  "title": "Top Cameras for Beginner Photographers (2026)",
+  "title": "Top Cameras for Beginners: Digital, Action & 35mm (2026)",
   "slug": "best-cameras-for-beginners-2026",
   "category": "electronics",
   "high_ticket": false,
@@ -1253,7 +1282,7 @@
   "priority": 200
  },
  {
-  "title": "Top Phones Under $500 (2026)",
+  "title": "Top Phones Under $500 & $300 (2026)",
   "slug": "best-phones-under-500-2026",
   "category": "mobiles",
   "high_ticket": true,
@@ -1358,7 +1387,11 @@
   "category": "mobiles",
   "high_ticket": true,
   "status": "done",
-  "priority": 66
+  "priority": 66,
+  "parent": "best-phones-under-500-2026",
+  "tab": "under-300",
+  "tab_label": "Under $300",
+  "tab_max": 300
  },
  {
   "title": "Top Monitors to Pair With Your Mac (2026)",
@@ -1374,7 +1407,11 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 73
+  "priority": 73,
+  "parent": "best-gaming-chairs-2026",
+  "tab": "under-300",
+  "tab_label": "Under $300",
+  "tab_max": 300
  },
  {
   "title": "Top Fast & Wireless Gaming Keyboards (2026)",
@@ -1382,7 +1419,10 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 75
+  "priority": 75,
+  "parent": "best-mechanical-keyboards-2026",
+  "tab": "gaming",
+  "tab_label": "Gaming"
  },
  {
   "title": "Top Console Controllers & Pro Gamepads (2026)",
@@ -1419,7 +1459,10 @@
   "high_ticket": true,
   "status": "todo",
   "priority": 6,
-  "last_try": "Oct 16, 2026"
+  "last_try": "Oct 16, 2026",
+  "parent": "best-playstation-5-2026",
+  "tab": "bundles",
+  "tab_label": "Bundles"
  },
  {
   "title": "Top 3D Printers for Beginners & Hobbyists (2026)",
@@ -1469,7 +1512,11 @@
   "category": "laptops",
   "high_ticket": true,
   "status": "done",
-  "priority": 15
+  "priority": 15,
+  "parent": "best-gaming-laptops-under-1500-2026",
+  "tab": "under-1000",
+  "tab_label": "Under $1,000",
+  "tab_max": 1000
  },
  {
   "title": "Top Colognes for Men: Everyday & Date Night (2026)",
@@ -1513,7 +1560,10 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 24,
-  "last_try": "Oct 16, 2026"
+  "last_try": "Oct 16, 2026",
+  "parent": "best-playstation-5-2026",
+  "tab": "accessories",
+  "tab_label": "Accessories"
  },
  {
   "title": "Cozy Comforter Sets for Winter (2026)",
@@ -1653,7 +1703,10 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 16, 2026"
+  "last_try": "Oct 16, 2026",
+  "parent": "best-cameras-for-beginners-2026",
+  "tab": "digital",
+  "tab_label": "Digital"
  },
  {
   "title": "Best Phone Gimbal (2026)",
@@ -1695,7 +1748,10 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 16, 2026"
+  "last_try": "Oct 16, 2026",
+  "parent": "best-pillows-2026",
+  "tab": "body",
+  "tab_label": "Body pillows"
  },
  {
   "title": "Best Laptop Charger (2026)",
@@ -1725,10 +1781,13 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 17, 2026"
+  "last_try": "Oct 17, 2026",
+  "parent": "best-pillows-2026",
+  "tab": "neck",
+  "tab_label": "Neck & travel"
  },
  {
-  "title": "Best Playstation 5 (2026)",
+  "title": "Best PlayStation 5: Consoles, Bundles & Accessories (2026)",
   "slug": "best-playstation-5-2026",
   "category": "gaming",
   "high_ticket": false,
@@ -1743,7 +1802,10 @@
   "high_ticket": false,
   "status": "done",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "parent": "best-e-readers-2026",
+  "tab": "kindle",
+  "tab_label": "Kindle"
  },
  {
   "title": "Best Cookware Set (2026)",
@@ -1779,10 +1841,11 @@
   "slug": "best-mattress-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo",
+  "status": "dropped",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 17, 2026"
+  "last_try": "Oct 17, 2026",
+  "note": "duplicate of best-mattresses-2026"
  },
  {
   "title": "Best Face Wash (2026)",
@@ -1802,7 +1865,10 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads",
-  "last_try": "Oct 17, 2026"
+  "last_try": "Oct 17, 2026",
+  "parent": "best-cameras-for-beginners-2026",
+  "tab": "35mm",
+  "tab_label": "35mm film"
  },
  {
   "title": "Best Stove Top Pressure Cooker (2026)",
@@ -1873,5 +1939,13 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 18, 2026"
+ },
+ {
+  "title": "Best Vacuums: Robot, Cordless & Pet Hair (2026)",
+  "slug": "best-vacuums-2026",
+  "category": "home_kitchen",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 79
  }
 ]

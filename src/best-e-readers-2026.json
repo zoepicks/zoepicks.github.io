@@ -2,7 +2,7 @@
  "slug": "best-e-readers-2026",
  "title": "Top E-Readers & Kindles for Book Lovers (2026)",
  "category": "electronics",
- "date": "Oct 15, 2026",
+ "date": "Oct 18, 2026",
  "summary": "The guide highlights the Kindle Paperwhite, Kindle (2024), Kindle Scribe Colorsoft, and Kindle Colorsoft as the top e‑readers for 2026, based on recommendations from PCMag and Tom’s Guide.",
  "method": "Products were selected from PCMag (source 0) and Tom’s Guide (source 1); any model mentioned by both sources was prioritized, yielding four picks.",
  "assumptions": "Prices are omitted because no source provided a specific amount; all specifications, pros, cons and badges come directly from the excerpts.",
@@ -45,7 +45,10 @@
    "amazon_listing": "Amazon Kindle Paperwhite 16GB (2024 model) – 7\" glare-free display and weeks of battery li",
    "amazon_rating": "4.6",
    "amazon_reviews": 23550,
-   "amazon_rating_asof": "Oct 16, 2026"
+   "amazon_rating_asof": "Oct 16, 2026",
+   "tabs": [
+    "kindle"
+   ]
   },
   {
    "name": "Amazon Kindle (2024)",
@@ -82,7 +85,10 @@
    "amazon_listing": "Amazon Kindle 16 GB (2024 model) – Light and compact, with fast page turns, and high contr",
    "amazon_rating": "4.5",
    "amazon_reviews": 21008,
-   "amazon_rating_asof": "Oct 16, 2026"
+   "amazon_rating_asof": "Oct 16, 2026",
+   "tabs": [
+    "kindle"
+   ]
   },
   {
    "name": "Amazon Kindle Scribe Colorsoft (2025)",
@@ -156,6 +162,81 @@
    "amazon_price": "$319.99",
    "amazon_price_asof": "Oct 16, 2026",
    "amazon_listing": "Amazon Kindle Colorsoft Signature Edition 32GB (newest model), Thinner, new aluminum desig"
+  },
+  {
+   "name": "Amazon Kindle Paperwhite Kids (2024)",
+   "short": "Kindle Paperwhite Kids",
+   "badge": "Best for Kids",
+   "why": [
+    "PCMag highlights the Kids edition’s protective case, waterproof build, and six months of Amazon Kids+ included.",
+    "It bundles child‑friendly accessories and software for less than buying them separately."
+   ],
+   "specs": [
+    "7‑inch display",
+    "Waterproof construction",
+    "Protective case included",
+    "Six months of Amazon Kids+",
+    "Two‑year replacement warranty",
+    "Ad‑free lock screen"
+   ],
+   "pros": [
+    "Durable and waterproof for kids",
+    "Includes parental‑control software",
+    "Warranty and replacement program"
+   ],
+   "cons": [
+    "Higher cost than standard Paperwhite",
+    "Limited to kid‑focused content ecosystem"
+   ],
+   "best_for": "Parents looking for a safe, rugged e‑reader for children.",
+   "skip_if": "You don’t need child‑specific features or accessories.",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Paperwhite+Kids+%282024%29&tag=iamcartigo-20",
+   "asin": "B0CFPS7ZY9",
+   "image": "https://m.media-amazon.com/images/I/61uMFQ+-6FL.jpg",
+   "image_asin": "B0CFPS7ZY9",
+   "tabs": [
+    "kindle"
+   ]
+  },
+  {
+   "name": "Amazon Kindle Scribe (2024)",
+   "short": "Kindle Scribe",
+   "badge": "Best for Note‑Taking",
+   "why": [
+    "CNET describes the Scribe as a jumbo e‑reader with an 11‑inch color E‑Ink display, mini‑LED lighting, and a custom MediaTek processor for smooth writing.",
+    "It is positioned as the best large‑format device for drawing and note‑taking."
+   ],
+   "specs": [
+    "11‑inch color E‑Ink display",
+    "Mini‑LED lighting system",
+    "Custom MediaTek processor",
+    "Supports stylus for drawing and notes",
+    "Large screen for PDFs and documents"
+   ],
+   "pros": [
+    "Large, color display for notes and PDFs",
+    "Smooth stylus experience",
+    "Powerful processor"
+   ],
+   "cons": [
+    "Bulky compared to standard Kindles",
+    "Higher price point"
+   ],
+   "best_for": "Students, professionals, or artists who need to annotate or sketch on an e‑reader.",
+   "skip_if": "You prefer a compact, single‑purpose reading device.",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Scribe+%282024%29&tag=iamcartigo-20",
+   "asin": "B0DVQQGMCZ",
+   "image": "https://m.media-amazon.com/images/I/71jmcZLd25L.jpg",
+   "image_asin": "B0DVQQGMCZ",
+   "tabs": [
+    "kindle"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "kindle",
+   "label": "Kindle"
   }
  ]
 }

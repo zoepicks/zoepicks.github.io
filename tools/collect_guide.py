@@ -374,7 +374,13 @@ def ground(g, pages, texts):
 # ---------- plan / io ----------
 def pick_topic(slug=None, skip=()):
     plan = json.loads((ROOT / "plan/topics.json").read_text())
-    c = [t for t in plan if (t["slug"] == slug if slug else t.get("status") == "todo" and t["slug"] not in skip)]
+    def _parent_ready(t):      # a tab-topic can only be added to a parent guide that has real picks (not a 'coming soon' draft)
+        if not t.get("parent"): return True
+        pf = ROOT / "src" / f"{t['parent']}.json"
+        try: d = json.loads(pf.read_text(encoding="utf-8"))
+        except Exception: return False
+        return not d.get("draft") and bool(d.get("products"))
+    c = [t for t in plan if (t["slug"] == slug if slug else t.get("status") == "todo" and t["slug"] not in skip and _parent_ready(t))]
     if not c: raise SystemExit("no matching/todo topic")
     c.sort(key=lambda t: (1 if t.get("last_try") else 0, t.get("priority", 999), not t.get("high_ticket", False)))
     return plan, c[0]
@@ -395,7 +401,9 @@ def merge_into_parent(plan, topic, products, today, dry):
             if t["slug"] == topic["slug"]: t["last_try"] = today
         if not dry: (ROOT / "plan/topics.json").write_text(json.dumps(plan, indent=1))
         return
-    par = json.loads(pf.read_text(encoding="utf-8")); tab = topic["tab"]; have = {_nm(p.get("name")): p for p in par.get("products", [])}; new = 0
+    par = json.loads(pf.read_text(encoding="utf-8")); tab = topic["tab"]
+    if par.get("draft") or not par.get("products"): raise SystemExit(f"parent guide {topic['parent']} not built yet; topic left as todo")
+    have = {_nm(p.get("name")): p for p in par.get("products", [])}; new = 0
     for p in products:
         q = have.get(_nm(p.get("name")))
         if q is not None:
@@ -429,8 +437,11 @@ def run_topic(plan, topic, dry):
     products = ground(g, pages, texts)
     today = datetime.date.today().strftime("%b %-d, %Y")
     if topic.get("parent"): return merge_into_parent(plan, topic, products, today, dry)
+    _old = ROOT / "src" / f"{topic['slug']}.json"
+    _tabs = json.loads(_old.read_text(encoding="utf-8")).get("tabs") if _old.exists() else None   # keep the tab spec of a draft parent
     out = {"slug": topic["slug"], "title": topic["title"], "category": topic["category"], "date": today,
            "summary": g.get("summary", ""), "method": g.get("method", ""), "assumptions": g.get("assumptions", ""), "products": products}
+    if _tabs: out["tabs"] = _tabs
     if any(k in topic["slug"] for k in ("black-friday", "deals")):
         out.update({"countdown_to": "2026-11-27", "countdown_label": "Black Friday in", "expires": "2026-12-01", "live_label": "Black Friday deals are live", "theme": "deal"})
     if len(products) < MIN_PRODUCTS:
