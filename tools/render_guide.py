@@ -413,13 +413,16 @@ def render_tab(d, t, ps, base=""):
 def site_files(base):
     """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
     L = [g for g in json.loads((ROOT / "guides/index.json").read_text()) if is_live(g)]
-    urls = [f"{base}/"] + [f"{base}/{pg}.html" for pg in ("about", "contact", "privacy", "terms", "disclosure")] + [f"{base}/g/{g['slug']}/" for g in L]
+    def _lm(g):                                    # <lastmod> from the guide's own date (never faked); empty if unknown
+        try: return datetime.datetime.strptime(g.get("date", ""), "%b %d, %Y").strftime("%Y-%m-%d")
+        except ValueError: return ""
+    urls = [(f"{base}/", "")] + [(f"{base}/{pg}.html", "") for pg in ("about", "contact", "privacy", "terms", "disclosure")] + [(f"{base}/g/{g['slug']}/", _lm(g)) for g in L]
     for g in L:                                   # tab pages of the live big guides
         sf = ROOT / "src" / f"{g['slug']}.json"
         if sf.exists():
-            urls += [f"{base}/g/{g['slug']}/{t['key']}/" for t, _ in tab_pages(json.load(open(sf)))]
+            urls += [(f"{base}/g/{g['slug']}/{t['key']}/", _lm(g)) for t, _ in tab_pages(json.load(open(sf)))]
     (ROOT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-        + "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
+        + "".join(f"<url><loc>{u}</loc>" + (f"<lastmod>{lm}</lastmod>" if lm else "") + "</url>\n" for u, lm in urls) + "</urlset>\n")
     (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
     ix = ROOT / "index.html"; h = ix.read_text()
     rows = "".join(f'<a class="item" href="g/{g["slug"]}/"><span><b>{e(g["title"])}</b><br><small>{e(CATS.get(g["category"], "Guide"))}</small></span><small>{e(g.get("date", ""))}</small></a>' for g in L[:8])
