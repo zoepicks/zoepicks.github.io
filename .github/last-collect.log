@@ -1,7 +1,17 @@
-[collect] drop (only 1 sources): Power Wheels Wrangler
-[collect] price not in sources, removed: $499 at Moderno
-[collect] drop (only 1 sources): Peg Perego Tractor
-[collect] only 2 well-sourced products -> staying draft
+[collect] topic: Best Ps5 Pro (2026)
+[collect] tavily -> 5 pages
+[collect] browser fetch 9000 chars: https://www.rtings.com/monitor/reviews/best/ps5
+[collect] 5/5 source pages fetched
+[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
+[collect] reddit fail GameDeals Expecting value: line 1 column 1 (char 0)
+[collect] llm request: 5 sources x 1896 chars, ~3565 in + 3400 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 199,864 requested 2,764 -> skipped for this run
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 7 total (cnet.com, theshortcut.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 7 sources x 1343 chars, ~3553 in + 3400 out tokens (budget 7000)
+[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 197,926 requested 2,845 -> skipped for this run
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -108,6 +118,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-20
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pressure-washers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-pro-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-rain-jackets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ride-on-toys-2026/index.html
@@ -150,51 +161,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-ride-on-toys-2026 draft
-[collect] topic: Top Craft Kits for Rainy-Day Fun (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-fiber-craft-kits-for-adults
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-fiber-craft-kits-for-adults
-[collect] 1/2 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +3 readable page(s) -> 4 total (buzzfeed.com, paperheartdesign.com, sustainmycrafthabit.com)
-[collect] llm request: 4 sources x 2375 chars, ~3581 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Klutz Mini Grocery Store Craft Kit
-[collect] FAILED best-craft-kits-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Diaper Bags for Busy Parents (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-diaper-bag
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-diaper-bag
-[collect] 1/2 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.forbes.com/sites/forbes-personal-shopper/article/best-diaper-bag
-[collect] browser fetch 0 chars: https://www.forbes.com/sites/forbes-personal-shopper/article/best-diaper-bag
-[collect] extra sources: +3 readable page(s) -> 4 total (annainthehouse.com, forbes.com, moogcobaby.com)
-[collect] llm request: 4 sources x 2375 chars, ~3582 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): No Reception Club Getaway Bag
-[collect] FAILED best-diaper-bags-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Dog Beds for Big, Small & Senior Dogs (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-dog-beds
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-dog-beds
-[collect] 1/2 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] http 403 https://bigdogmom.com/best-dog-bed
-[collect] browser fetch 51 chars: https://bigdogmom.com/best-dog-bed
-[collect] extra sources: +3 readable page(s) -> 4 total (smartbark.co.uk, businessinsider.com, bigdogmom.com)
-[collect] llm request: 4 sources x 2373 chars, ~2805 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): LaiFug Orthopedic Premium Memory Foam Dog Bed
-[collect] drop (only 1 sources): Baker & Bray Ultimate Bed
-[collect] price not in sources, removed: $149 at Chewy
-[collect] drop (only 1 sources): Petfusion Ultimate Dog Lounge
-[collect] drop (only 1 sources): Silentnight Calming Donut Bed
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (spots.com, outsideonline.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1568 chars, ~3060 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): LaiFug Orthopedic Premium Memory Foam Dog Bed
-[collect] FAILED best-dog-beds-2026: 'str' object has no attribute 'get'
-[collect] 3 failures in a row -> stopping this run
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,352 requested 2,700", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,023 requested 2,219", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,209 requested 3,126", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,248 requested 2,635", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,298 requested 2,560"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 25 guide(s) built, 36 topic(s) tried
+[collect] done: best-ps5-pro-2026 draft
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,864 requested 2,764", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,926 requested 2,845"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
