@@ -77,7 +77,7 @@ def price_block(p):
     if a: return f'<div class="pl"><span class="now">{e(a[0])}</span></div>'
     return '<div class="sub">No deal price listed yet. Check the current price on Amazon.</div>'
 
-AFF_TAG = "iamcartigo-20"
+AFF_TAG = "zoepicks00-20"
 
 def buy_link(p):
     """Direct product page (add to cart / buy now) when the bot has stored the product's ASIN, else the saved search link."""
@@ -176,8 +176,8 @@ def deal_rows(d):
     items = []
     for i, p in enumerate(d["products"]):
         link = buy_link(p)
-        if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
-            raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
+        if not re.match(r"^https://www\.amazon\.com/.*tag=zoepicks00-20", link):
+            raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=zoepicks00-20")
         items.append((i, p, link, parse_price(p.get("price")) or {}))
     dealpage = d.get("theme") == "deal"
     if dealpage: items.sort(key=lambda t: -(t[3].get("pct") or 0))
@@ -222,8 +222,8 @@ def deal_strip(d):
 
 def card(i, p):
     link = buy_link(p)
-    if not re.match(r"^https://www\.amazon\.com/.*tag=iamcartigo-20", link):
-        raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=iamcartigo-20")
+    if not re.match(r"^https://www\.amazon\.com/.*tag=zoepicks00-20", link):
+        raise ValueError(f"product {i+1}: link must be an amazon.com URL with tag=zoepicks00-20")
     c = PALETTE[i % len(PALETTE)]
     h = f'<article class="card{" off" if not is_ready(p) else ""}" id="p{i+1}" style="--c:{c}">'
     if p.get("badge"): h += f'<span class="rank">#{i+1} · {e(p["badge"])}</span>'

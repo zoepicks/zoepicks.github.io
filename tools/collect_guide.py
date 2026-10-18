@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; ZoePicksBot/1.0; +https://zoepicks.github.io)"}
-AFF = "iamcartigo-20"
+AFF = "zoepicks00-20"
 MIN_SOURCES, MIN_PRODUCTS, MAX_PRODUCTS = 2, 3, 5   # publish floor 3, cap 5
 ASK_MIN = 4   # the LLM is asked for 4-5 best picks per guide (the 'best 4-5' under the Top-3 discounts)
 # Groq free tier = 8000 tokens/min AND per request, counted as prompt + max_tokens. Every call is kept under TOKEN_BUDGET so it can
