@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T15:11:16Z",
+ "updated": "2026-10-18T22:08:44Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -91,17 +91,16 @@
   ],
   "electronics": [
    {
-    "asin": "B0HDT3RMC9",
-    "name": "Acer Wireless Gaming Headset",
-    "pct": 45,
+    "asin": "B0DGKWQMSM",
+    "name": "TOZO Hybrid Active Noise Cancelling in Ear Wireless Earbuds",
+    "pct": 41,
     "rating": 4.3,
-    "t": 1792327703,
-    "img": "https://m.media-amazon.com/images/I/71WUxRjul4L.jpg",
-    "link": "https://www.amazon.com/dp/B0HDT3RMC9?tag=zoepicks00-20",
-    "now": "43.98",
-    "was": "79.99",
-    "deal": "Limited time deal",
-    "reviews": 56,
+    "t": 1792327302,
+    "img": "https://m.media-amazon.com/images/I/71NQ3OBW5hL.jpg",
+    "link": "https://www.amazon.com/dp/B0DGKWQMSM?tag=zoepicks00-20",
+    "now": "26.96",
+    "was": "45.99",
+    "reviews": 28045,
     "tier": "budget"
    },
    {
@@ -119,17 +118,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0H4W5CFTR",
-    "name": "Hybrid Active Noise Cancelling Headphones 120H Playtime…",
+    "asin": "B0HJ7ZLR8M",
+    "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
     "pct": 50,
-    "rating": 4.5,
+    "rating": 4.8,
     "t": 1792327302,
-    "img": "https://m.media-amazon.com/images/I/71JkH7qTWtL.jpg",
-    "link": "https://www.amazon.com/dp/B0H4W5CFTR?tag=zoepicks00-20",
-    "now": "99.98",
-    "was": "199.99",
+    "img": "https://m.media-amazon.com/images/I/71gj05WSkYL.jpg",
+    "link": "https://www.amazon.com/dp/B0HJ7ZLR8M?tag=zoepicks00-20",
+    "now": "79.98",
+    "was": "160.00",
     "deal": "Limited time deal",
-    "reviews": 49,
+    "reviews": 79,
     "tier": "premium"
    }
   ],
@@ -321,6 +320,19 @@
     "tier": "budget"
    },
    {
+    "asin": "B0DKY6C612",
+    "name": "Brother FB1757X Mechanical Sewing Machine",
+    "pct": 17,
+    "rating": 4.5,
+    "t": 1792262195,
+    "img": "https://m.media-amazon.com/images/I/716J-WSstxL.jpg",
+    "link": "https://www.amazon.com/dp/B0DKY6C612?tag=zoepicks00-20",
+    "now": "99.99",
+    "was": "119.99",
+    "reviews": 581,
+    "tier": "mid"
+   },
+   {
     "asin": "B0GXX5LNVQ",
     "name": "Brother XM2701 27-Stitch Sewing Machine",
     "pct": 28,
@@ -331,35 +343,22 @@
     "now": "129.99",
     "was": "179.99",
     "reviews": 42,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0DB8G1W5D",
-    "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
-    "pct": 29,
-    "rating": 4.5,
-    "t": 1792227560,
-    "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
-    "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=zoepicks00-20",
-    "now": "759.98",
-    "was": "1,077.80",
-    "deal": "Limited time deal",
-    "reviews": 24,
     "tier": "premium"
    }
   ],
   "home_kitchen": [
    {
-    "asin": "B0B7JRZ6LX",
-    "name": "BEDELITE Fleece Queen Comforter Set",
-    "pct": 46,
-    "rating": 4.6,
-    "t": 1792227575,
-    "img": "https://m.media-amazon.com/images/I/71pudUiBJeL.jpg",
-    "link": "https://www.amazon.com/dp/B0B7JRZ6LX?tag=zoepicks00-20",
-    "now": "28.99",
-    "was": "53.99",
-    "reviews": 6397,
+    "asin": "B0HHFJ4RYX",
+    "name": "Hykolity 24\" Space Heater",
+    "pct": 43,
+    "rating": 4.5,
+    "t": 1792239319,
+    "img": "https://m.media-amazon.com/images/I/61kBZzd4buL.jpg",
+    "link": "https://www.amazon.com/dp/B0HHFJ4RYX?tag=zoepicks00-20",
+    "now": "39.99",
+    "was": "69.99",
+    "deal": "Limited time deal",
+    "reviews": 24,
     "tier": "budget"
    },
    {
@@ -1148,6 +1147,20 @@
     "label": "Tablets",
     "items": [
      {
+      "asin": "B0G64B2C55",
+      "name": "aiprotablet 10 inch Kids Tablet",
+      "pct": 11,
+      "rating": 4.1,
+      "t": 1792333388,
+      "img": "https://m.media-amazon.com/images/I/716yiOeKYDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G64B2C55?tag=zoepicks00-20",
+      "now": "71.99",
+      "was": "80.99",
+      "deal": "Limited time deal",
+      "reviews": 252,
+      "tier": "budget"
+     },
+     {
       "asin": "B0GVTPKJVT",
       "name": "Amazon Fire HD 10 tablet",
       "pct": 53,
@@ -1159,7 +1172,7 @@
       "was": "154.99",
       "deal": "Limited time deal",
       "reviews": 44859,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B0BL5TKDVG",
@@ -1173,20 +1186,6 @@
       "was": "189.99",
       "deal": "Limited time deal",
       "reviews": 8850,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DB8G1W5D",
-      "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
-      "pct": 29,
-      "rating": 4.5,
-      "t": 1792227560,
-      "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
-      "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=zoepicks00-20",
-      "now": "759.98",
-      "was": "1,077.80",
-      "deal": "Limited time deal",
-      "reviews": 24,
       "tier": "premium"
      }
     ]
@@ -1243,6 +1242,20 @@
     "label": "Bluetooth Speakers",
     "items": [
      {
+      "asin": "B0HJSW1G3J",
+      "name": "BassBloom Roar 3 Portable Bluetooth Speaker,IPX6…",
+      "pct": 10,
+      "rating": 4.6,
+      "t": 1792327302,
+      "img": "https://m.media-amazon.com/images/I/71SjRnpTuUL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJSW1G3J?tag=zoepicks00-20",
+      "now": "17.99",
+      "was": "19.99",
+      "deal": "Limited time deal",
+      "reviews": 382,
+      "tier": "budget"
+     },
+     {
       "asin": "B0CX1FRR27",
       "name": "Portable Bluetooth Speaker Gift Ideas: Outdoor Travel…",
       "pct": 33,
@@ -1253,20 +1266,6 @@
       "now": "19.96",
       "was": "29.99",
       "reviews": 8438,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GFV7MVB9",
-      "name": "VinylsLink Vinyl Record Player Bluetooth Turntable",
-      "pct": 50,
-      "rating": 4.3,
-      "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/71RswQTbBdL.jpg",
-      "link": "https://www.amazon.com/dp/B0GFV7MVB9?tag=zoepicks00-20",
-      "now": "55.99",
-      "was": "111.99",
-      "deal": "Limited time deal",
-      "reviews": 91,
       "tier": "mid"
      },
      {
@@ -1329,53 +1328,6 @@
       "was": "79.99",
       "deal": "Limited time deal",
       "reviews": 56,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "record-players",
-    "label": "Record Players",
-    "items": [
-     {
-      "asin": "B0GVY7R72X",
-      "name": "Velvet Record Player",
-      "pct": 18,
-      "rating": 4.6,
-      "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/71M+C7qw6XL.jpg",
-      "link": "https://www.amazon.com/dp/B0GVY7R72X?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "48.99",
-      "reviews": 149,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GTYVHFRQ",
-      "name": "MANGOSTAN Wood Finish Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/81C0NrQbviL.jpg",
-      "link": "https://www.amazon.com/dp/B0GTYVHFRQ?tag=zoepicks00-20",
-      "now": "41.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 46,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07H8VG9BB",
-      "name": "1 BY ONE Bluetooth Turntable HiFi System",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/61oZbnatRCL.jpg",
-      "link": "https://www.amazon.com/dp/B07H8VG9BB?tag=zoepicks00-20",
-      "now": "189.99",
-      "was": "249.99",
-      "deal": "Limited time deal",
-      "reviews": 3513,
       "tier": "premium"
      }
     ]
@@ -1462,20 +1414,12 @@
    {
     "key": "e-readers",
     "label": "E Readers",
-    "items": [
-     {
-      "asin": "B0H8SZ945Y",
-      "name": "XTEINK X4 Classic Pocket eReader",
-      "pct": 11,
-      "rating": 4.0,
-      "t": 1792227349,
-      "img": "https://m.media-amazon.com/images/I/61XA5ESbDrL.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
-      "now": "79.00",
-      "was": "89.00",
-      "reviews": 67
-     }
-    ]
+    "items": []
+   },
+   {
+    "key": "record-players",
+    "label": "Record Players",
+    "items": []
    }
   ],
   "fashion": [
@@ -1871,54 +1815,6 @@
     ]
    },
    {
-    "key": "camping-tents",
-    "label": "Camping Tents",
-    "items": [
-     {
-      "asin": "B0G4CSRLHV",
-      "name": "WolfWise Pop Up Shower Tent",
-      "pct": 13,
-      "rating": 4.4,
-      "t": 1792227409,
-      "img": "https://m.media-amazon.com/images/I/6197tFXtdOL.jpg",
-      "link": "https://www.amazon.com/dp/B0G4CSRLHV?tag=zoepicks00-20",
-      "now": "34.88",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 9462,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D7QL1LHC",
-      "name": "Coleman Skydome Camping Tent",
-      "pct": 32,
-      "rating": 4.3,
-      "t": 1792227409,
-      "img": "https://m.media-amazon.com/images/I/61jcR12+JtL.jpg",
-      "link": "https://www.amazon.com/dp/B0D7QL1LHC?tag=zoepicks00-20",
-      "now": "129.99",
-      "was": "189.99",
-      "deal": "Limited time deal",
-      "reviews": 472,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0D7QG97H6",
-      "name": "Coleman Skydome Dark Room Camping Tent",
-      "pct": 26,
-      "rating": 4.1,
-      "t": 1792227409,
-      "img": "https://m.media-amazon.com/images/I/61XU4IA+L2L.jpg",
-      "link": "https://www.amazon.com/dp/B0D7QG97H6?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "269.99",
-      "deal": "Limited time deal",
-      "reviews": 145,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "insulated-water-bottles",
     "label": "Insulated Water Bottles",
     "items": [
@@ -2012,6 +1908,11 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "camping-tents",
+    "label": "Camping Tents",
+    "items": []
    },
    {
     "key": "walking-pads",
@@ -2440,54 +2341,6 @@
     ]
    },
    {
-    "key": "drawing-tablets",
-    "label": "Drawing Tablets",
-    "items": [
-     {
-      "asin": "B0BNQ6QM64",
-      "name": "HUION Inspiroy 2 Medium Drawing Tablet",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1792227560,
-      "img": "https://m.media-amazon.com/images/I/41a9ExjxDBL.jpg",
-      "link": "https://www.amazon.com/dp/B0BNQ6QM64?tag=zoepicks00-20",
-      "now": "63.99",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 992,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F6Y18Y5P",
-      "name": "XP-PEN Artist 13.3 Pro V2 Drawing Tablet",
-      "pct": 26,
-      "rating": 4.4,
-      "t": 1792227560,
-      "img": "https://m.media-amazon.com/images/I/61O5gip75PL.jpg",
-      "link": "https://www.amazon.com/dp/B0F6Y18Y5P?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "269.99",
-      "deal": "Limited time deal",
-      "reviews": 104,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DB8G1W5D",
-      "name": "XPPen Artist Pro 24 Gen2 23.8\" 165Hz Drawing Tablet",
-      "pct": 29,
-      "rating": 4.5,
-      "t": 1792227560,
-      "img": "https://m.media-amazon.com/images/I/71ZArsJ071L.jpg",
-      "link": "https://www.amazon.com/dp/B0DB8G1W5D?tag=zoepicks00-20",
-      "now": "759.98",
-      "was": "1,077.80",
-      "deal": "Limited time deal",
-      "reviews": 24,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "sewing-machines",
     "label": "Sewing Machines",
     "items": [
@@ -2531,6 +2384,11 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "drawing-tablets",
+    "label": "Drawing Tablets",
+    "items": []
    }
   ],
   "home_kitchen": [
@@ -2618,52 +2476,6 @@
       "img": "https://m.media-amazon.com/images/I/813r4sDxWlL.jpg",
       "link": "https://www.amazon.com/dp/B0DGKKJDBG?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "comforter-sets",
-    "label": "Comforter Sets",
-    "items": [
-     {
-      "asin": "B0CVVJ5D94",
-      "name": "CozyLux Queen Comforter Set Black",
-      "pct": 41,
-      "rating": 4.4,
-      "t": 1792227575,
-      "img": "https://m.media-amazon.com/images/I/71ICgsQ7t1L.jpg",
-      "link": "https://www.amazon.com/dp/B0CVVJ5D94?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "45.99",
-      "deal": "Limited time deal",
-      "reviews": 2740,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0B7JRZ6LX",
-      "name": "BEDELITE Fleece Queen Comforter Set",
-      "pct": 46,
-      "rating": 4.6,
-      "t": 1792227575,
-      "img": "https://m.media-amazon.com/images/I/71pudUiBJeL.jpg",
-      "link": "https://www.amazon.com/dp/B0B7JRZ6LX?tag=zoepicks00-20",
-      "now": "28.99",
-      "was": "53.99",
-      "reviews": 6397,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0C8T8QKJ7",
-      "name": "BEDELITE Fluffy Queen Comforter Set",
-      "pct": 39,
-      "rating": 4.6,
-      "t": 1792227575,
-      "img": "https://m.media-amazon.com/images/I/81hauWlUzTL.jpg",
-      "link": "https://www.amazon.com/dp/B0C8T8QKJ7?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "56.99",
-      "reviews": 1555,
       "tier": "premium"
      }
     ]
@@ -2813,54 +2625,6 @@
     ]
    },
    {
-    "key": "espresso-machines",
-    "label": "Espresso Machines",
-    "items": [
-     {
-      "asin": "B0F12TWP55",
-      "name": "XIXUBX Compact Espresso & Cappuccino Machine",
-      "pct": 18,
-      "rating": 4.1,
-      "t": 1792227590,
-      "img": "https://m.media-amazon.com/images/I/61LRzhM2V9L.jpg",
-      "link": "https://www.amazon.com/dp/B0F12TWP55?tag=zoepicks00-20",
-      "now": "44.99",
-      "was": "54.99",
-      "deal": "Limited time deal",
-      "reviews": 1011,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CW2XKM78",
-      "name": "CHULUX Slim Espresso Machine",
-      "pct": 40,
-      "rating": 4.5,
-      "t": 1792227590,
-      "img": "https://m.media-amazon.com/images/I/71HP4dbnomL.jpg",
-      "link": "https://www.amazon.com/dp/B0CW2XKM78?tag=zoepicks00-20",
-      "now": "83.99",
-      "was": "139.99",
-      "deal": "Limited time deal",
-      "reviews": 775,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H8SS23K8",
-      "name": "Canoly Fast Cold Brew Espresso Machine",
-      "pct": 42,
-      "rating": 4.9,
-      "t": 1792227590,
-      "img": "https://m.media-amazon.com/images/I/71fjvn26F5L.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SS23K8?tag=zoepicks00-20",
-      "now": "219.99",
-      "was": "379.99",
-      "deal": "Limited time deal",
-      "reviews": 34,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "coffee-makers",
     "label": "Coffee Makers",
     "items": [
@@ -2960,45 +2724,17 @@
     "label": "Pillows",
     "items": [
      {
-      "asin": "B0HJQP3KTR",
-      "name": "DOWNCOOL Cooling Pillows Queen Size Set of 2",
-      "pct": 40,
-      "rating": 4.5,
-      "t": 1792227609,
-      "img": "https://m.media-amazon.com/images/I/71pwPpn3WsL.jpg",
-      "link": "https://www.amazon.com/dp/B0HJQP3KTR?tag=zoepicks00-20",
-      "now": "29.98",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 344,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09S5TZH5N",
-      "name": "DONAMA Cervical Pillow",
-      "pct": 24,
-      "rating": 4.2,
-      "t": 1792227609,
-      "img": "https://m.media-amazon.com/images/I/71nRBbY4MyL.jpg",
-      "link": "https://www.amazon.com/dp/B09S5TZH5N?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 12668,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0993G154N",
-      "name": "Sidney Sleep Adjustable Curved Pillows",
+      "asin": "B0G476CQPN",
+      "name": "SONGMICS Quilted Double Hammock",
       "pct": 33,
       "rating": 4.3,
-      "t": 1792227609,
-      "img": "https://m.media-amazon.com/images/I/71Y-xTyvZTL.jpg",
-      "link": "https://www.amazon.com/dp/B0993G154N?tag=zoepicks00-20",
+      "t": 1792330159,
+      "img": "https://m.media-amazon.com/images/I/71WJ8arSUDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G476CQPN?tag=zoepicks00-20",
       "now": "39.98",
       "was": "59.99",
-      "reviews": 12063,
-      "tier": "premium"
+      "deal": "Limited time deal",
+      "reviews": 661
      }
     ]
    },
@@ -3049,6 +2785,16 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
+    "items": []
+   },
+   {
+    "key": "espresso-machines",
+    "label": "Espresso Machines",
+    "items": []
    },
    {
     "key": "stand-mixers",
