@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T03:46:03Z",
+ "updated": "2026-10-18T07:43:19Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -76,16 +76,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HHF1HH16",
-    "name": "TCL TAB A1 Plus Android Tablet",
-    "pct": 32,
-    "rating": 4.3,
-    "t": 1792262172,
-    "img": "https://m.media-amazon.com/images/I/61BvCXJGwqL.jpg",
-    "link": "https://www.amazon.com/dp/B0HHF1HH16?tag=iamcartigo-20",
-    "now": "189.98",
-    "was": "279.99",
-    "reviews": 404,
+    "asin": "B0HJ7T67FT",
+    "name": "Google TV Smart Outdoor Projector",
+    "pct": 48,
+    "rating": 4.8,
+    "t": 1792227170,
+    "img": "https://m.media-amazon.com/images/I/71eVEriw3qL.jpg",
+    "link": "https://www.amazon.com/dp/B0HJ7T67FT?tag=iamcartigo-20",
+    "now": "209.98",
+    "was": "399.99",
+    "reviews": 147,
     "tier": "premium"
    }
   ],
@@ -595,6 +595,11 @@
       "reviews": 5520
      }
     ]
+   },
+   {
+    "key": "wireless-mice",
+    "label": "Wireless Mice",
+    "items": []
    }
   ],
   "electronics": [
@@ -694,21 +699,20 @@
     ]
    },
    {
-    "key": "record-players",
-    "label": "Record Players",
+    "key": "bluetooth-speakers",
+    "label": "Bluetooth Speakers",
     "items": [
      {
-      "asin": "B0GTYVHFRQ",
-      "name": "MANGOSTAN Wood Finish Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.5,
+      "asin": "B0GVY7R72X",
+      "name": "Velvet Record Player",
+      "pct": 18,
+      "rating": 4.6,
       "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/81C0NrQbviL.jpg",
-      "link": "https://www.amazon.com/dp/B0GTYVHFRQ?tag=iamcartigo-20",
-      "now": "41.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 46,
+      "img": "https://m.media-amazon.com/images/I/71M+C7qw6XL.jpg",
+      "link": "https://www.amazon.com/dp/B0GVY7R72X?tag=iamcartigo-20",
+      "now": "39.99",
+      "was": "48.99",
+      "reviews": 149,
       "tier": "budget"
      },
      {
@@ -726,17 +730,16 @@
       "tier": "mid"
      },
      {
-      "asin": "B07H8VG9BB",
-      "name": "1 BY ONE Bluetooth Turntable HiFi System",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1792227388,
-      "img": "https://m.media-amazon.com/images/I/61oZbnatRCL.jpg",
-      "link": "https://www.amazon.com/dp/B07H8VG9BB?tag=iamcartigo-20",
-      "now": "189.99",
-      "was": "249.99",
-      "deal": "Limited time deal",
-      "reviews": 3513,
+      "asin": "B0HJ7T67FT",
+      "name": "Google TV Smart Outdoor Projector",
+      "pct": 48,
+      "rating": 4.8,
+      "t": 1792227170,
+      "img": "https://m.media-amazon.com/images/I/71eVEriw3qL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJ7T67FT?tag=iamcartigo-20",
+      "now": "209.98",
+      "was": "399.99",
+      "reviews": 147,
       "tier": "premium"
      }
     ]
@@ -790,8 +793,56 @@
     ]
    },
    {
-    "key": "3d-printers",
-    "label": "3d Printers",
+    "key": "record-players",
+    "label": "Record Players",
+    "items": [
+     {
+      "asin": "B0GTYVHFRQ",
+      "name": "MANGOSTAN Wood Finish Bluetooth Record Player",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/81C0NrQbviL.jpg",
+      "link": "https://www.amazon.com/dp/B0GTYVHFRQ?tag=iamcartigo-20",
+      "now": "41.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 46,
+      "tier": "budget"
+     },
+     {
+      "asin": "B00M7OXYLY",
+      "name": "DIGITNOW Bluetooth Record Player Turntable",
+      "pct": 10,
+      "rating": 4.2,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/61Zc34n39eL.jpg",
+      "link": "https://www.amazon.com/dp/B00M7OXYLY?tag=iamcartigo-20",
+      "now": "107.99",
+      "was": "119.99",
+      "deal": "Limited time deal",
+      "reviews": 2464,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07H8VG9BB",
+      "name": "1 BY ONE Bluetooth Turntable HiFi System",
+      "pct": 24,
+      "rating": 4.4,
+      "t": 1792227388,
+      "img": "https://m.media-amazon.com/images/I/61oZbnatRCL.jpg",
+      "link": "https://www.amazon.com/dp/B07H8VG9BB?tag=iamcartigo-20",
+      "now": "189.99",
+      "was": "249.99",
+      "deal": "Limited time deal",
+      "reviews": 3513,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "printers",
+    "label": "Printers",
     "items": [
      {
       "asin": "B0CQJVF7CR",
@@ -1534,6 +1585,11 @@
       "reviews": 4806
      }
     ]
+   },
+   {
+    "key": "stand-mixers",
+    "label": "Stand Mixers",
+    "items": []
    }
   ],
   "laptops": [
@@ -1711,6 +1767,25 @@
       "deal": "Limited time deal",
       "reviews": 1434,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "smartwatches",
+    "label": "Smartwatches",
+    "items": [
+     {
+      "asin": "B0HGFKCN38",
+      "name": "Quican Smart Watches",
+      "pct": 31,
+      "rating": 4.8,
+      "t": 1792226816,
+      "img": "https://m.media-amazon.com/images/I/61z0q9PbA4L.jpg",
+      "link": "https://www.amazon.com/dp/B0HGFKCN38?tag=iamcartigo-20",
+      "now": "47.98",
+      "was": "69.99",
+      "deal": "Limited time deal",
+      "reviews": 26
      }
     ]
    }
@@ -1913,6 +1988,23 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "smart-thermostats",
+    "label": "Smart Thermostats",
+    "items": []
+   },
+   {
+    "key": "streaming-devices",
+    "label": "Streaming Devices",
+    "items": []
+   }
+  ],
+  "tools_auto": [
+   {
+    "key": "impact-drivers",
+    "label": "Impact Drivers",
+    "items": []
    }
   ]
  }
