@@ -33,9 +33,9 @@
    "best_for": "Buyers upgrading from an iPhone 16 Pro or older who want the best compact iPhone",
    "skip_if": "You already own an iPhone 17 Pro",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro&tag=iamcartigo-20",
-   "fill_tries": 3,
-   "fill_last": "Oct 16, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": true
   },
   {
    "name": "Apple iPhone 18 Pro Max",
@@ -62,8 +62,8 @@
    "best_for": "Heavy users who want maximum battery and the biggest screen",
    "skip_if": "You want a phone that is easy to carry in one hand",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+Max&tag=iamcartigo-20",
-   "fill_tries": 2,
-   "fill_last": "Oct 16, 2026",
+   "fill_tries": 3,
+   "fill_last": "Oct 18, 2026",
    "fill_failed": false
   },
   {
@@ -95,12 +95,12 @@
    "asin": "B0G4RWJZW6",
    "image": "https://m.media-amazon.com/images/I/41ecg3kWg1L.jpg",
    "image_asin": "B0G4RWJZW6",
-   "amazon_price": "$809.43",
-   "amazon_price_asof": "Oct 16, 2026",
+   "amazon_price": "$824.97",
+   "amazon_price_asof": "Oct 18, 2026",
    "amazon_listing": "Apple iPhone 17, US Version, 256GB, eSIM, Black- Unlocked (Renewed Premium)",
    "amazon_rating": "4.2",
-   "amazon_reviews": 424,
-   "amazon_rating_asof": "Oct 16, 2026"
+   "amazon_reviews": 430,
+   "amazon_rating_asof": "Oct 18, 2026"
   },
   {
    "name": "Apple iPhone 17 Pro",
@@ -125,8 +125,8 @@
    "best_for": "Photographers who want a Pro iPhone for less",
    "skip_if": "You want the newest chip and longest battery",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+17+Pro&tag=iamcartigo-20",
-   "fill_tries": 2,
-   "fill_last": "Oct 16, 2026",
+   "fill_tries": 3,
+   "fill_last": "Oct 18, 2026",
    "fill_failed": false
   },
   {
@@ -151,8 +151,8 @@
    "best_for": "Budget buyers who want a current iPhone",
    "skip_if": "You want a 120Hz screen or the best cameras",
    "link": "https://www.amazon.com/s?k=Apple+iPhone+17e&tag=iamcartigo-20",
-   "fill_tries": 2,
-   "fill_last": "Oct 16, 2026",
+   "fill_tries": 3,
+   "fill_last": "Oct 18, 2026",
    "fill_failed": false
   }
  ]
