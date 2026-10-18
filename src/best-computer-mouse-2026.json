@@ -34,7 +34,10 @@
    "skip_if": "You need a left‑handed mouse",
    "price": "$100 at unspecified",
    "link": "https://www.amazon.com/s?k=Logitech+MX+Master+4&tag=iamcartigo-20",
-   "price_asof": "Oct 17, 2026"
+   "price_asof": "Oct 17, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Razer Cobra Pro",
@@ -61,7 +64,10 @@
    ],
    "best_for": "Competitive gamers who want high precision and customizable lighting",
    "skip_if": "You have very large hands or a tight budget",
-   "link": "https://www.amazon.com/s?k=Razer+Cobra+Pro&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Razer+Cobra+Pro&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Razer Naga V3 Pro",
@@ -89,7 +95,10 @@
    "best_for": "MMO players and workflow‑automation enthusiasts",
    "skip_if": "You don’t need many programmable buttons",
    "deal_note": "Save $54 at Amazon – lowest‑ever price",
-   "link": "https://www.amazon.com/s?k=Razer+Naga+V3+Pro&tag=iamcartigo-20"
+   "link": "https://www.amazon.com/s?k=Razer+Naga+V3+Pro&tag=iamcartigo-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 18, 2026",
+   "fill_failed": false
   }
  ],
  "tabs": [
