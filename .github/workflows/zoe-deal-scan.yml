@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'sweep | selftest | selftest-browser'
+        description: 'sweep | essentials | selftest | selftest-browser'
         default: 'sweep'
       publish:
         description: 'also merge into offers.json now (1) or leave it to the Render loop (0)'
