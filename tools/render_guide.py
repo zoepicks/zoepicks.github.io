@@ -404,7 +404,11 @@ def render_tab(d, t, ps, base=""):
         html = re.sub(r'<meta property="og:url" content="[^"]*"><link rel="canonical" href="[^"]*">',
                       lambda m: f'<meta property="og:url" content="{e(url)}"><link rel="canonical" href="{e(url)}">', html, 1)
         html = re.sub(r'<script type="application/ld\+json">.*?</script>', lambda m: ld_json(d2, base, url, d), html, 1, flags=re.S)
-    return html.replace('"../../', '"../../../')
+    html = html.replace('"../../', '"../../../')
+    # "More guides" cards are written as ../<slug>/ (one level up from /g/<guide>/); a tab page sits one level deeper, so they need ../../
+    html = re.sub(r'<section class="more">.*?</section>',
+                  lambda m: m.group(0).replace('href="../', 'href="../../'), html, 1, flags=re.S)
+    return html
 
 def site_files(base):
     """sitemap.xml + static guide links on the homepage (so crawlers / no-JS see them)."""
