@@ -1,0 +1,98 @@
+{
+ "slug": "best-printers-2026",
+ "title": "Top Home Printers That Won't Eat Your Ink (2026)",
+ "category": "electronics",
+ "date": "Oct 18, 2026",
+ "summary": "A concise guide to the best home printers that keep ink costs low in 2026.",
+ "method": "Selected from CNET, TechGearLab, and PCMag reviews, prioritizing models highlighted for affordability and ink efficiency.",
+ "assumptions": "Prices are only included when explicitly stated in the source excerpts; otherwise, price is null.",
+ "products": [
+  {
+   "name": "Epson EcoTank ET-1910",
+   "short": "Epson EcoTank ET-1910",
+   "badge": "Best Ink‑Tank",
+   "why": [
+    "Epson’s EcoTank ET-1910 is a tank‑based printer that eliminates the need for scanning and copying, making it uncommonly affordable to both buy and run.",
+    "It offers a low cost per page thanks to its refillable ink tanks, a key feature for users who print frequently and want to avoid cartridge costs."
+   ],
+   "specs": [
+    "All‑in‑one inkjet",
+    "Tank‑based ink system",
+    "No scan or copy functions",
+    "Affordable upfront and operating costs"
+   ],
+   "pros": [
+    "Low cost per page",
+    "No need for cartridges",
+    "Compact design",
+    "Easy refill"
+   ],
+   "cons": [
+    "No scanning or copying",
+    "Limited paper tray capacity",
+    "Lower print speed compared to some models"
+   ],
+   "best_for": "Home users who print mainly documents and photos and want to save on ink over time.",
+   "skip_if": "You need scanning or copying capabilities.",
+   "link": "https://www.amazon.com/s?k=Epson+EcoTank+ET-1910&tag=iamcartigo-20"
+  },
+  {
+   "name": "HP OfficeJet Pro 9125e",
+   "short": "HP OfficeJet Pro 9125e",
+   "badge": "Best Overall",
+   "why": [
+    "The HP OfficeJet Pro 9125e delivers super fast printing and scanning with a large paper tray, making it ideal for small offices and home use.",
+    "Its quiet operation and reliable Wi‑Fi connectivity ensure a smooth experience without signal loss."
+   ],
+   "specs": [
+    "Super fast printing and scanning",
+    "Large paper tray",
+    "Quiet operation",
+    "Wi‑Fi connectivity"
+   ],
+   "pros": [
+    "Fast print speeds",
+    "Large paper capacity",
+    "Quiet printing",
+    "Reliable Wi‑Fi"
+   ],
+   "cons": [
+    "Dimpling in photos",
+    "Loud when printing photos",
+    "Limited color accuracy for photos"
+   ],
+   "best_for": "Small offices or home users who need fast, reliable printing and scanning.",
+   "skip_if": "You require high‑quality photo printing.",
+   "link": "https://www.amazon.com/s?k=HP+OfficeJet+Pro+9125e&tag=iamcartigo-20"
+  },
+  {
+   "name": "Brother All‑in‑one J1010DW",
+   "short": "Brother J1010DW",
+   "badge": "Best Budget All‑in‑one",
+   "why": [
+    "The Brother All‑in‑one J1010DW offers impressive text quality and quiet printing at a budget price.",
+    "Its small ink cartridges and Amazon Dash button readiness make it convenient for frequent users."
+   ],
+   "specs": [
+    "All‑in‑one inkjet",
+    "Quiet printing",
+    "Small ink cartridges",
+    "Amazon Dash button ready"
+   ],
+   "pros": [
+    "Budget friendly",
+    "Quiet operation",
+    "Convenient cartridge size",
+    "All‑in‑one functionality"
+   ],
+   "cons": [
+    "Small ink cartridges may need frequent refills",
+    "Limited print speed",
+    "No high‑resolution photo printing"
+   ],
+   "best_for": "Budget‑conscious home users who need basic printing, scanning, and copying.",
+   "skip_if": "You require high‑volume printing or photo quality.",
+   "link": "https://www.amazon.com/s?k=Brother+All%E2%80%91in%E2%80%91one+J1010DW&tag=iamcartigo-20"
+  }
+ ]
+}
