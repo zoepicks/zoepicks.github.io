@@ -1,0 +1,61 @@
+name: Zoe Deal Scan
+
+# Category sweep for the "Deals today" strips of Zoe Picks (see x/zoe_deal_scan_ci.py, x/zoe_taxonomy.py).
+# Each Amazon department is swept at most once per 20 h, so most runs finish in about a minute (nothing due).
+#
+# Secrets needed:
+#   ZOE_GH_TOKEN  PAT with write access to the Zoe site repo (guides/offers-scan.json) and read access to this repo.
+#
+# Runs HERE (public repo = free Actions minutes). The checkout step pulls the private Naami code with ZOE_GH_TOKEN.
+# The copy in the Naami repo has its schedule switched off so the scan never runs twice.
+#
+# First time: Actions -> Zoe Deal Scan -> Run workflow -> mode = selftest (checks every Amazon department id, writes nothing).
+
+on:
+  schedule:
+    - cron: '23 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'sweep | selftest | selftest-browser'
+        default: 'sweep'
+      publish:
+        description: 'also merge into offers.json now (1) or leave it to the Render loop (0)'
+        default: '0'
+
+concurrency:
+  group: zoe-deal-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: naami24x7/Naami
+          token: ${{ secrets.ZOE_GH_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements-scan.txt
+
+      - name: Install lean deps
+        run: pip install -r requirements-scan.txt
+
+      - name: Install Chromium (Amazon search pages need a real browser from GitHub runners)
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Deal scan
+        env:
+          ZOE_GH_TOKEN: ${{ secrets.ZOE_GH_TOKEN }}
+          ZOE_DEAL_SCAN: 'on'
+          ZOE_SCAN_MODE: ${{ github.event.inputs.mode || 'sweep' }}
+          ZOE_CI_PUBLISH: ${{ github.event.inputs.publish || '0' }}
+          ZOE_CI_BUDGET_MIN: '30'
+        run: python -m x.zoe_deal_scan_ci
