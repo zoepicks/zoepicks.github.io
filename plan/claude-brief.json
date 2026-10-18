@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-17T17:38:25.416928+00:00",
+ "generated_at": "2026-10-18T05:45:08.138574+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
-  "score_24h_ago": null,
-  "score_change_24h": null,
-  "pages": 63,
+  "score_24h_ago": 93,
+  "score_change_24h": 1,
+  "pages": 72,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 4
+   "low": 7
   },
-  "avg_guide_words": 938,
+  "avg_guide_words": 934,
   "todo": [
    {
     "sev": "high",
@@ -26,37 +26,33 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 2,
-    "fix": "Slow pages ki images/HTML size kam karo.",
+    "code": "title_length",
+    "count": 6,
+    "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
-     "/g/best-record-players-2026/",
-     "/g/best-soundbars-2026/"
+     "/g/best-playstation-5-2026/",
+     "/g/best-cameras-for-beginners-2026/",
+     "/g/best-noise-cancelling-headphones-2026/"
     ],
-    "detail": "load 4.7s"
+    "detail": "title 70 chars (best 25-65)"
    },
    {
     "sev": "low",
-    "code": "title_length",
-    "count": 2,
-    "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
+    "code": "slow_page",
+    "count": 1,
+    "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-noise-cancelling-headphones-2026/",
-     "/g/best-iphones-2026/"
+     "/g/best-laptops-under-1000-2026/"
     ],
-    "detail": "title 70 chars (best 25-65)"
+    "detail": "load 3.31s"
    }
   ],
-  "new_issue_types_since_last_brief": [
-   "slow_page"
-  ],
-  "fixed_issue_types_since_last_brief": [
-   "desc_length"
-  ],
+  "new_issue_types_since_last_brief": [],
+  "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 57,
+   "guides_live": 66,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -64,33 +60,33 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-17T11:26:04.719631+00:00",
-    "indexnow": {
-     "submitted": 27,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-17T14:37:46.750986+00:00",
+    "t": "2026-10-17T23:39:41.564055+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-17T17:38:21.249412+00:00",
+    "t": "2026-10-18T02:40:35.344904+00:00",
     "indexnow": {
-     "submitted": 5,
+     "submitted": 19,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-10-18T05:45:03.144437+00:00",
+    "indexnow": {
+     "submitted": 18,
      "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 18,
-  "today_views": 314,
-  "total_visitors": 23,
-  "total_views": 413,
+  "today_visitors": 4,
+  "today_views": 84,
+  "total_visitors": 27,
+  "total_views": 497,
   "since": "2026-10-16",
   "last7": [
    {
@@ -102,72 +98,65 @@
     "day": "2026-10-17",
     "visitors": 18,
     "views": 314
+   },
+   {
+    "day": "2026-10-18",
+    "visitors": 4,
+    "views": 84
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 47,
-   "warn": 7,
+   "info": 28,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 80,
-   "warn": 32,
+   "info": 152,
+   "warn": 42,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "Hot feed (home top discount)",
     "errors": 0,
-    "warnings": 30
+    "warnings": 37
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
-    "ok": 6,
-    "failed": 5,
-    "cancelled": 0,
+    "total": 7,
+    "ok": 3,
+    "failed": 3,
+    "cancelled": 1,
     "running": 0,
     "failed_runs": [
      {
-      "run": 22,
-      "at": "2026-10-17T16:05:11Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39047868905"
+      "run": 32,
+      "at": "2026-10-18T03:09:35Z",
+      "event": "workflow_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39092628733"
      },
      {
-      "run": 19,
-      "at": "2026-10-17T14:15:09Z",
+      "run": 29,
+      "at": "2026-10-18T00:50:35Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39039946642"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39084259210"
      },
      {
-      "run": 17,
-      "at": "2026-10-17T09:58:48Z",
+      "run": 28,
+      "at": "2026-10-18T00:19:36Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39023143343"
-     },
-     {
-      "run": 15,
-      "at": "2026-10-17T06:17:56Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39009386791"
-     },
-     {
-      "run": 14,
-      "at": "2026-10-17T04:42:24Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39003569148"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39082345761"
      }
     ]
    },
    "last7d": {
-    "total": 23,
-    "ok": 9,
-    "failed": 13,
-    "cancelled": 1,
+    "total": 34,
+    "ok": 14,
+    "failed": 18,
+    "cancelled": 2,
     "running": 0,
     "failed_runs": [
      {
@@ -235,16 +224,16 @@
   },
   "site_deploys": {
    "today": {
-    "total": 39,
-    "ok": 39,
+    "total": 22,
+    "ok": 22,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 283,
-    "ok": 283,
+    "total": 300,
+    "ok": 300,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -263,19 +252,24 @@
     "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 30 min (block #2)"
    },
    {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 21 HIGH issue(s): broken_link, contact_email_placeholder"
+   },
+   {
     "module": "ZOEHOT",
     "level": "w",
     "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    },
    {
     "module": "ZOEHOT",
     "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 60 min (block #3)"
+    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    },
    {
     "module": "ZOEHOT",
@@ -286,107 +280,102 @@
     "module": "ZOEHOT",
     "level": "w",
     "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
-   },
-   {
-    "module": "ZOEHOT",
-    "level": "w",
-    "msg": "zoe hot scan: Amazon block hit - stopping this batch, retry in 15 min (block #1)"
    }
   ]
  },
  "content": {
-  "live_guides": 57,
+  "live_guides": 66,
   "missing_topics_by_status": {
-   "open": 49,
-   "covered": 10,
-   "built": 13,
-   "queued": 4
+   "open": 81,
+   "built": 17,
+   "covered": 13,
+   "queued": 7
   },
   "missing_new": {
-   "today": 22,
-   "d7": 76,
-   "d30": 76
+   "today": 3,
+   "d7": 118,
+   "d30": 118
   },
   "open_topics": [
    {
-    "topic": "ps5 pro",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792256990",
-    "last_at": "1792257602"
-   },
-   {
-    "topic": "sous vide",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792257487",
-    "last_at": "1792257487"
-   },
-   {
-    "topic": "honey scented deodorant",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792257464",
-    "last_at": "1792257464"
-   },
-   {
-    "topic": "street photography camera",
+    "topic": "macbook",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792253781",
-    "last_at": "1792253909"
+    "first_at": "1792264841",
+    "last_at": "1792284473"
    },
    {
-    "topic": "mechanical keyboard",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792189947",
-    "last_at": "1792253791"
-   },
-   {
-    "topic": "copper thread kippah",
+    "topic": "mini pc",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792250717",
-    "last_at": "1792250717"
+    "first_at": "1792284451",
+    "last_at": "1792284451"
    },
    {
-    "topic": "wireless mouse",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792242242",
-    "last_at": "1792242535"
-   },
-   {
-    "topic": "black beanie",
+    "topic": "ps5 console",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792241430",
-    "last_at": "1792241430"
+    "first_at": "1792283352",
+    "last_at": "1792283352"
    },
    {
-    "topic": "hug pillow",
+    "topic": "hair clipper",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792240055",
-    "last_at": "1792240055"
+    "first_at": "1792281456",
+    "last_at": "1792281456"
    },
    {
-    "topic": "makeup palette",
-    "leads": "3",
+    "topic": "journal notebook",
+    "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792238936",
-    "last_at": "1792239445"
+    "first_at": "1792281399",
+    "last_at": "1792281399"
+   },
+   {
+    "topic": "bookshelf",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792281097",
+    "last_at": "1792281097"
+   },
+   {
+    "topic": "desktop pc",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792280477",
+    "last_at": "1792280635"
+   },
+   {
+    "topic": "microphone cable",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792280483",
+    "last_at": "1792280483"
+   },
+   {
+    "topic": "toaster oven",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792279020",
+    "last_at": "1792279020"
+   },
+   {
+    "topic": "vacuum cleaner",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792278902",
+    "last_at": "1792278902"
    }
   ]
  },
