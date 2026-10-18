@@ -466,12 +466,9 @@ nav .wrap{height:54px}
 .dd-m{display:flex;flex-wrap:wrap;gap:2px 8px;align-items:baseline;font-size:12.5px;color:var(--mut)}.dd-m strong{color:var(--ink);font-size:15px}.dd-m s{opacity:.55}
 .dd-more{text-align:center;margin:18px 0}.dd-more button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:99px;padding:10px 22px;font:700 14px Inter,system-ui,sans-serif;cursor:pointer}
 
-/* home: categories sit right under the header as ONE swipeable row, so they are visible on the first screen */
-.bento.cats-row{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin:10px -18px 0;padding:2px 18px 4px;scroll-snap-type:x proximity;scroll-padding:0 18px;-webkit-overflow-scrolling:touch}
-.bento.cats-row::-webkit-scrollbar{display:none}
-.bento.cats-row .cat{flex:0 0 auto;width:74px;padding:8px 4px;scroll-snap-align:start}
-.bento.cats-row .cat i{font-size:22px;font-style:normal}
-.bento.cats-row .cat b{font-size:11px;line-height:1.15}
-@media(min-width:700px){.bento.cats-row{margin:12px 0 0;padding:2px 0 4px}.bento.cats-row .cat{width:92px}}
 /* essentials header: title, See all, counter */
-.ess-h b{flex:1}.ess-all{font-size:12.5px;font-weight:700;color:var(--a);text-decoration:none;padding:4px 8px}
+.ess-h b{flex:1}.ess-all{font-size:12.5px;font-weight:800;color:#fff;text-decoration:none;padding:6px 14px;border-radius:99px;background:linear-gradient(135deg,var(--a),var(--b));box-shadow:0 6px 16px -6px var(--a);white-space:nowrap;animation:essPulse 2.6s ease-in-out infinite}.ess-all::after{content:" ›";font-weight:800}.ess-all:active{transform:scale(.95)}
+@keyframes essPulse{0%,100%{box-shadow:0 6px 16px -6px var(--a)}50%{box-shadow:0 6px 22px -2px var(--b)}}
+@media(prefers-reduced-motion:reduce){.ess-all{animation:none}}
+.ess-h b{min-width:0;overflow:hidden;text-overflow:ellipsis}
+@media(max-width:410px){.ess-h{gap:4px}.ess-h b{font-size:13.5px}.ess-all{padding:5px 10px;font-size:12px}.ess-d .ess-a{width:24px;height:24px;font-size:16px}.ess-n{min-width:30px;font-size:12px}}
