@@ -431,21 +431,77 @@ BACKUP_DOMAINS = ["cnet.com", "pcmag.com", "tomsguide.com", "techradar.com", "th
                   "consumerreports.org", "goodhousekeeping.com", "bestproducts.com", "thespruceeats.com", "gq.com", "esquire.com", "allure.com"]
 
 
+# Shops / social / reference sites are never review sources, whatever the search engine ranks first.
+NOT_REVIEW_HOSTS = ("amazon.", "walmart.", "target.", "ebay.", "bestbuy.", "homedepot.", "lowes.", "etsy.", "aliexpress.", "wayfair.", "costco.",
+                    "pinterest.", "facebook.", "instagram.", "tiktok.", "youtube.", "youtu.be", "reddit.", "quora.", "wikipedia.", "twitter.", "x.com",
+                    "linkedin.", "zoepicks.", "temu.", "shein.")
+
+
+def _host(url):
+    h = urllib.parse.urlparse(url).netloc.lower()
+    return h[4:] if h.startswith("www.") else h
+
+
+def _reviewish(url):
+    """A real article page on a non-shop site (not a bare homepage)."""
+    if not url.startswith("http"): return False
+    h = _host(url)
+    return bool(h) and not any(b in h for b in NOT_REVIEW_HOSTS) and len(urllib.parse.urlparse(url).path.strip("/")) > 3
+
+
+def discover_open(topic, exclude=()):
+    """Find the BEST review sites for THIS product on the open web (not a fixed list): Tavily (relevance ranked) -> DuckDuckGo -> real browser.
+    Returns [(host, url)], one URL per host, skipping shops/social and the hosts in `exclude`."""
+    q = _kw(topic) + " best review tested"
+    urls = []
+    if os.environ.get("TAVILY_API_KEY"):
+        try:
+            r = requests.post("https://api.tavily.com/search", json={"api_key": os.environ["TAVILY_API_KEY"], "query": q, "max_results": 15,
+                              "search_depth": "basic", "exclude_domains": [h.strip(".") for h in NOT_REVIEW_HOSTS if "." in h.strip(".")]}, timeout=40)
+            r.raise_for_status()
+            urls = [x["url"] for x in r.json().get("results", [])]
+            log("open web (tavily) ->", len(urls), "results")
+        except Exception as e:
+            log("open web tavily fail", e)
+    if not urls:
+        try:
+            r = requests.get("https://html.duckduckgo.com/html/", params={"q": q}, headers=UA, timeout=30)
+            urls = [_unwrap(a.get("href", "")) for a in BeautifulSoup(r.text, "lxml").select("a.result__a")]
+            log("open web (ddg) ->", len(urls), "results")
+        except Exception as e:
+            log("open web ddg fail", e)
+    if not urls:
+        for eng, sel in (("https://www.bing.com/search?q=" + urllib.parse.quote_plus(q), "li.b_algo h2 a"),):
+            html = _browser_html(eng, wait_ms=1500)
+            urls = [_unwrap(a.get("href", "")) for a in BeautifulSoup(html, "lxml").select(sel)] if html else []
+            log("open web (browser) ->", len(urls), "results")
+    seen, out = {_host("https://" + e) if "/" not in e else _host(e) for e in exclude}, []
+    for u in urls:
+        if _reviewish(u) and _host(u) not in seen:
+            seen.add(_host(u)); out.append((_host(u), u))
+    return out
+
+
 def top_up_sources(topic, domains, pages, texts, want=TARGET_PAGES, max_new=3):
-    """Add readable pages from backup domains (not tried yet) until `want` pages have text. Returns how many were added."""
+    """Add readable pages until `want` pages have text: FIRST the best review sites for this very product (open-web search),
+    then the generic backup list. Returns how many readable pages were added."""
     have = lambda: sum(bool(t) for t in texts)
     if have() >= want:
         return 0
     tried = {d for d, _ in pages}
-    backup = [d for d in BACKUP_DOMAINS if d.split("/")[0] not in tried and d not in domains]
-    if not backup:
-        return 0
+    cands = []
     try:
-        extra = discover(topic, backup)
+        cands += discover_open(topic, tried)
     except Exception as e:
-        log("backup sources fail", e); return 0
+        log("open web search fail", e)
+    backup = [d for d in BACKUP_DOMAINS if d.split("/")[0] not in tried and d not in domains]
+    if backup and len(cands) < max_new + 2:
+        try:
+            cands += discover(topic, backup)
+        except Exception as e:
+            log("backup sources fail", e)
     added = 0
-    for dom, url in extra:
+    for dom, url in cands:
         if have() >= want or added >= max_new:
             break
         if dom in tried:
@@ -455,7 +511,7 @@ def top_up_sources(topic, domains, pages, texts, want=TARGET_PAGES, max_new=3):
         pages.append((dom, url)); texts.append(t)
         if t:
             added += 1
-    log(f"backup sources: +{added} readable page(s) -> {have()} total")
+    log(f"extra sources: +{added} readable page(s) -> {have()} total ({', '.join(d for d, _ in pages[-max(added, 1):])})")
     return added
 
 
