@@ -1,10 +1,30 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-gimbal-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-battery-life-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/under-300/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-planners-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-portable-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pressure-washers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-printers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-thermostats-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartphones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartwatches-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-soundbars-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-space-heaters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stand-mixers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steam-mop-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stove-top-pressure-cooker-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-streaming-devices-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tire-inflators-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-toaster-ovens-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tool-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tote-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tvs-under-500-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ultrawide-monitors-2026/index.html
@@ -19,31 +39,37 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blank
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
-[collect] done: best-impact-drivers-2026 3 products
-[collect] topic: Top Tool Sets for First Apartments & Garages (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-basic-home-toolkit
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-basic-home-toolkit
-[collect] 1/2 source pages fetched
+[collect] done: best-hair-dryers-2026 3 products
+[collect] topic: Top Electric Shavers for a Close, Comfy Shave (2026)
+[collect] tavily -> 3 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-electric-razor
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-electric-razor
+[collect] 2/3 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.hgtv.com/shopping/product-reviews/best-tool-sets
-[collect] browser fetch 9000 chars: https://www.hgtv.com/shopping/product-reviews/best-tool-sets
-[collect] extra sources: +3 readable page(s) -> 4 total (techgearlab.com, hgtv.com, bobvila.com)
-[collect] llm request: 4 sources x 2372 chars, ~3574 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): DeWalt DWMT73802 142‑Piece Mechanics Tool Set
-[collect] drop (only 1 sources): Amazon Basics 173‑Piece Hand Tool Kit
-[collect] drop (only 1 sources): Deko 258‑Piece Mechanics Tool Kit On Wheels
+/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py:185: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  s = BeautifulSoup(html, "lxml")
+[collect] extra sources: +2 readable page(s) -> 4 total (shavingadvisor.com, which.co.uk)
+[collect] llm request: 4 sources x 2372 chars, ~3498 in + 3400 out tokens (budget 7000)
+[collect] drop (only 1 sources): Philips Norelco Multigroom Series 7000
+[collect] drop (only 0 sources): Manscaped Manspot
+[collect] drop (only 1 sources): Panasonic MultiShape
+[collect] drop (only 1 sources): Philips Norelco OneBlade 360
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-home-tool-kits
-[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-home-tool-kits
-[collect] http 403 https://www.finehomebuilding.com/forum/best-tool-kit-for-home-and-diy-projects-expert-advice
-[collect] browser fetch 7752 chars: https://www.finehomebuilding.com/forum/best-tool-kit-for-home-and-diy-projects-expert-advice
-[collect] extra sources: +2 readable page(s) -> 6 total (popularmechanics.com, finehomebuilding.com)
+[collect] http 403 https://thesweetandsimplekitchen.com/best-electric-shavers
+[collect] browser fetch 279 chars: https://thesweetandsimplekitchen.com/best-electric-shavers
+[collect] extra sources: +2 readable page(s) -> 6 total (thesweetandsimplekitchen.com, inkl.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1568 chars, ~3567 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): DeWalt DWMT73802 142-Piece Mechanics Tool Set
-[collect] drop (only 1 sources): Craftsman 102-Piece Tool Set
-[collect] drop (only 1 sources): Amazon Basics 173-Piece Hand Tool Kit
+[collect] llm request: 6 sources x 1568 chars, ~3031 in + 3400 out tokens (budget 7000)
 [collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -70,6 +96,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-desk-lamps-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-drawing-tablets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-e-readers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-e-readers-2026/kindle/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-electric-shavers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-electric-toothbrushes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-espresso-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fish-tanks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-foldable-phones-2026/index.html
@@ -84,6 +112,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gym-bags-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hair-dryers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hammocks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-handheld-gaming-pcs-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-home-gym-equipment-2026/index.html
@@ -120,6 +149,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switc
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-skin-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-for-work-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-obd2-scanners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-deals-2026/index.html
@@ -132,6 +162,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-planners-2026/
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-portable-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pressure-washers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
@@ -146,6 +177,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steam-mop-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stove-top-pressure-cooker-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-streaming-devices-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tire-inflators-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-toaster-ovens-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tool-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tote-bags-2026/index.html
@@ -162,39 +194,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blank
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
-[collect] done: best-tool-sets-2026 draft
-[collect] topic: Top Jump Starters for Winter Breakdowns (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-portable-jump-starter
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-portable-jump-starter
-[collect] 3/4 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (autoweek.com)
-[collect] llm request: 4 sources x 2373 chars, ~3572 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Battery Tender 2000 AMP Lithium Jump Starter
-[collect] FAILED best-jump-starters-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Car Vacuums for Crumbs & Pet Hair (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/airify-pro-review
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/airify-pro-review
-[collect] browser fetch 9000 chars: https://www.rtings.com/vacuum/reviews/best/car
-[collect] 3/4 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (elytstyle.com)
-[collect] llm request: 4 sources x 2374 chars, ~3574 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Worx 20V Power Share Cordless Cube Vac
-[collect] FAILED best-car-vacuums-2026: 'str' object has no attribute 'get'
-[collect] topic: Top Dash Cams for Insurance-Proof Footage (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-dash-cam
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-dash-cam
-[collect] 3/4 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (caranddriver.com)
-[collect] llm request: 4 sources x 2373 chars, ~3576 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Viofo A329S
-[collect] FAILED best-dash-cams-2026: 'str' object has no attribute 'get'
-[collect] 3 failures in a row -> stopping this run
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 195,947 requested 4,668", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 196,451 requested 3,856", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,718 requested 3,598", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,055 requested 3,097"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 9 guide(s) built, 13 topic(s) tried
+[collect] done: best-electric-shavers-2026 draft
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"8SBW|openai/gpt-oss-120b": "limit 200,000 used 197,545 requested 2,670", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,648 requested 2,751", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,745 requested 2,852", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,763 requested 2,687", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,702 requested 2,688"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 6 guide(s) built, 7 topic(s) tried
