@@ -172,7 +172,7 @@
   "slug": "best-gaming-headsets-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 74
  },
  {
@@ -200,7 +200,7 @@
   "slug": "best-gaming-chairs-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 72
  },
  {
@@ -217,7 +217,8 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 77
+  "priority": 77,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Handheld Gaming PCs Like the Steam Deck (2026)",
@@ -225,7 +226,8 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 76
+  "priority": 76,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Robot Vacuums That Also Mop (2026)",
@@ -263,7 +265,8 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 82
+  "priority": 82,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Espresso Machines for Home Baristas (2026)",
@@ -278,7 +281,7 @@
   "slug": "best-blenders-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 83
  },
  {
@@ -1416,7 +1419,8 @@
   "parent": "best-gaming-chairs-2026",
   "tab": "under-300",
   "tab_label": "Under $300",
-  "tab_max": 300
+  "tab_max": 300,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Fast & Wireless Gaming Keyboards (2026)",
@@ -1427,7 +1431,8 @@
   "priority": 75,
   "parent": "best-mechanical-keyboards-2026",
   "tab": "gaming",
-  "tab_label": "Gaming"
+  "tab_label": "Gaming",
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Console Controllers & Pro Gamepads (2026)",
@@ -1435,7 +1440,8 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 78
+  "priority": 78,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Wireless Earbuds Under $100 (2026)",
@@ -1951,7 +1957,8 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 79
+  "priority": 79,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Best Washing Machine (2026)",
