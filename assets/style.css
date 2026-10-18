@@ -343,3 +343,16 @@ a.dl-c b{position:absolute;top:8px;right:8px;background:linear-gradient(135deg,#
 .dr-d{margin-top:5px;padding-top:4px}.dr-d summary{font-size:12px}
 
 .tabs{display:flex;gap:8px;overflow-x:auto;margin:6px 0 8px;padding-bottom:2px;-webkit-overflow-scrolling:touch}.tabs button{flex:none;border:1px solid rgba(127,127,127,.35);background:transparent;color:inherit;font:inherit;font-weight:700;font-size:13px;padding:6px 13px;border-radius:999px;cursor:pointer}.tabs button.on{background:#6c5ce7;border-color:#6c5ce7;color:#fff}.tabs i{font-style:normal;opacity:.75;margin-left:6px;font-size:12px}.dr[hidden]{display:none!important}
+
+/* ===== brand wordmark + slogan in the header (slogan moved here from the middle of the home page) ===== */
+.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.logo{font-family:"Poppins",Inter,system-ui,sans-serif;font-weight:800;letter-spacing:-.03em;min-width:0}
+.logo .bn{display:flex;flex-direction:column;line-height:1.05;min-width:0}
+.logo .wm{font-size:19px;font-weight:800;letter-spacing:-.04em;display:inline-block}
+.logo .wm i{font-style:normal;background:linear-gradient(90deg,#ff5fa2,var(--a));-webkit-background-clip:text;background-clip:text;color:transparent}
+.logo .wm b{background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;background-clip:text;color:transparent}
+.logo .wm::after{content:"";display:block;height:2px;width:100%;margin-top:1px;border-radius:2px;background:linear-gradient(90deg,#ff5fa2,var(--a),var(--b));opacity:.9}
+.logo .sl{font-family:Inter,system-ui,sans-serif;font-weight:600;font-size:10px;letter-spacing:0;color:var(--mut);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.logo .sl em{font-style:normal;background:linear-gradient(90deg,var(--a),var(--b));-webkit-background-clip:text;background-clip:text;color:transparent}
+nav .wrap{height:54px}
+@media(max-width:400px){.logo .sl{font-size:9px}.logo .wm{font-size:18px}}
