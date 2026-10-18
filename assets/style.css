@@ -412,3 +412,17 @@ nav .wrap{height:54px}
 #trnTabs button{padding:8px 11px}
 @media(max-width:560px){#trnTabs button:not(.on) .lb{display:none}#trnTabs button:not(.on):not([data-k=all]){padding:8px 12px;font-size:14px;line-height:1}}
 @media(max-width:340px){#trnTabs{gap:4px}#trnTabs button{padding:8px 9px;font-size:11.5px}#trnTabs button:not(.on):not([data-k=all]){padding:8px 10px}}
+
+/* compact category row (top of home) - the big 'Browse by category' grid stays below */
+.catrow{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin:0 -2px 8px;padding:2px 2px;-webkit-mask:linear-gradient(90deg,#000 94%,transparent);mask:linear-gradient(90deg,#000 94%,transparent)}
+.catrow::-webkit-scrollbar{display:none}
+.catrow a{flex:none;display:inline-flex;align-items:center;gap:5px;font:600 12px/1 Inter,system-ui,sans-serif;padding:8px 12px;border-radius:99px;border:1px solid var(--line);background:var(--card);color:var(--ink);text-decoration:none;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.catrow a i{font-style:normal;font-size:14px;line-height:1}
+.catrow a:active{transform:scale(.96)}
+/* essentials tile: rating line, then price line (never clipped) */
+.ess-r{display:flex;flex-direction:column;align-items:center;gap:1px;white-space:nowrap}
+.ess-r span{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis}
+
+.tk-r{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+@media(max-width:340px){.ess-r{font-size:8.5px}}
+.catrow+.hero{padding-top:0}.catrow+.hero .hot{margin-top:6px}

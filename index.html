@@ -3,7 +3,7 @@
 <link rel="canonical" href="https://zoepicks.github.io/"><meta property="og:title" content="Zoe Picks — honest buying guides"><meta property="og:description" content="Short, honest comparisons of the best products for what you actually need. No hype, clear pros and cons."><meta property="og:type" content="website"><meta property="og:url" content="https://zoepicks.github.io/"><meta property="og:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Poppins:wght@700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=pol8"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Zoe Picks","url":"https://zoepicks.github.io/"},{"@type":"Organization","name":"Zoe Picks","url":"https://zoepicks.github.io/","logo":"https://zoepicks.github.io/assets/logo-512.png"}]}</script></head><body>
 <nav><div class="wrap"><a class="logo" href="./"><img class="lg" src="assets/logo-96.png" alt="Zoe Picks logo" width="28" height="28"><span class="bn"><span class="wm"><i>Zoe</i> <b>Picks</b></span><small class="sl">Buy the right thing, <em>not the loudest one.</em></small></span></a><a class="l" href="#how">How we pick</a></div></nav>
-<main class="wrap"><section class="hero"><div class="hot tk" id="hot" hidden><div class="tk-h"><b>🔥 Top offers</b><small id="hotAsof"></small></div><div class="tk-w"><div class="tk-t" id="hotT"></div></div></div>
+<main class="wrap"><div class="catrow" id="catRow" role="navigation" aria-label="Categories"></div><section class="hero"><div class="hot tk" id="hot" hidden><div class="tk-h"><b>🔥 Top offers</b><small id="hotAsof"></small></div><div class="tk-w"><div class="tk-t" id="hotT"></div></div></div>
 <h1 class="sr-only">Zoe Picks — buy the right thing, not the loudest one</h1>
 </section>
 <section class="ess" id="ess" hidden><div class="ess-h"><b>🛒 Daily essentials</b><span class="ess-d" id="essD"></span></div><div class="ess-v" id="essV"></div></section>
@@ -14,6 +14,7 @@
 <p class="disc"><b>Disclosure:</b> As an Amazon Associate we earn from qualifying purchases. Links are affiliate links; they cost you nothing extra. Prices change often — always check the current price on Amazon.</p>
 <footer><div class="fl"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="disclosure.html">Affiliate Disclosure</a></div>© Zoe Picks · As an Amazon Associate we earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</footer></main>
 <script src="assets/site.js?v=3" data-root="."></script><script src="assets/visit.js?v=1" defer></script><script>
+catRow.innerHTML=CATS.map(c=>`<a href="category.html?c=${c[0]}"><i>${c[1]}</i>${c[2]}</a>`).join("");
 cats.innerHTML=CATS.map(c=>`<a class="cat" href="category.html?c=${c[0]}"><i>${c[1]}</i><b>${c[2]}</b></a>`).join("");
 guides().then(g=>{g=g.filter(x=>!x.soon);latest.innerHTML=g.length?g.slice(0,8).map(row).join(""):'<div class="empty">First guides are on the way.</div>'});
 /* Hot feed v3: guides/hot.json is written by the bot every ~2 h. {hot: top offers, ess: everyday items (6+6 per slide), trend: seasonal}.
@@ -26,7 +27,7 @@ const img=i=>okImg(i.img)?`<img src="${esc(i.img)}" alt="" loading="${_imgN++<24
 const fresh=(a,max)=>(a||[]).filter(i=>i&&okLink(i.link)&&i.name&&i.pct>0&&Date.now()-i.t*1000<MAXAGE).slice(0,max);
 const px=i=>i.now&&i.t&&Date.now()-i.t*1000<PRICE_H;   /* price only when checked < 24 h ago; older = no price, no %, 'Check price' */
 const usd=v=>{const n=parseFloat(v);return isFinite(n)?"$"+(n%1?n.toFixed(2):n.toLocaleString("en-US")):"";};
-const meta=i=>{const a=[];if(i.rating)a.push("★ "+i.rating);if(px(i)&&usd(i.now))a.push("<strong>"+usd(i.now)+"</strong>"+(i.was&&parseFloat(i.was)>parseFloat(i.now)?" <s>"+usd(i.was)+"</s>":""));return a.join(" · ");};
+const meta=i=>{const a=[];if(i.rating)a.push("★ "+i.rating);if(px(i)&&usd(i.now))a.push("<strong>"+usd(i.now)+"</strong>"+(i.was&&parseFloat(i.was)>parseFloat(i.now)&&(usd(i.now)+usd(i.was)).length<=12?" <s>"+usd(i.was)+"</s>":""));return a.join(" · ");};
 const AZ='target="_blank" rel="sponsored nofollow noopener"';
 const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 /* ticker: two identical halves -> seamless left->right loop */
@@ -83,7 +84,7 @@ fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>
   if(ess.length){
     let items=ess.slice();
     if(items.length>12){const rem=items.length%12; if(rem)items=items.concat(items.slice(0,12-rem));}  /* last slide always full */
-    const tile=i=>`<a class="ess-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="ess-im">${img(i)||esc(i.icon||"🛒")}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b>${meta(i)?`<small class="ess-r">${meta(i)}</small>`:""}</a>`;
+    const tile=i=>`<a class="ess-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="ess-im">${img(i)||esc(i.icon||"🛒")}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b>${(i.rating||px(i))?`<small class="ess-r">${i.rating?`<span>★ ${i.rating}</span>`:""}${px(i)&&usd(i.now)?`<span><strong>${usd(i.now)}</strong></span>`:""}</small>`:""}</a>`;
     const pages=[];for(let x=0;x<items.length;x+=12)pages.push(items.slice(x,x+12).map(tile).join(""));
     document.getElementById("ess").hidden=false;pager(essV,essD,pages);
   }
