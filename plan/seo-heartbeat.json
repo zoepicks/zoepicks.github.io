@@ -1,31 +1,26 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-18T12:01:28.385108+00:00",
- "boots_total": 5,
+ "updated": "2026-10-18T15:04:26.656334+00:00",
+ "boots_total": 6,
  "recent_boots_utc": [
   "2026-10-17T11:24:26",
   "2026-10-17T12:42:22",
   "2026-10-18T03:44:29",
   "2026-10-18T08:31:40",
-  "2026-10-18T09:04:58"
+  "2026-10-18T09:04:58",
+  "2026-10-18T13:07:58"
  ],
- "last_run_ts": 1792324887.0408883,
+ "last_run_ts": 1792335866.0955882,
  "last_report_ts": 1792302312.8126912,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
- "score": 94,
+ "score": 93,
  "issues": {
-  "high": 1,
+  "high": 4,
   "med": 0,
-  "low": 8
+  "low": 61
  },
  "recent_runs": [
-  {
-   "t": "2026-10-17T09:31:18",
-   "score": 93,
-   "why": "schedule",
-   "indexnow": 5
-  },
   {
    "t": "2026-10-17T11:26:04",
    "score": 94,
@@ -79,19 +74,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 30
+  },
+  {
+   "t": "2026-10-18T15:04:24",
+   "score": 93,
+   "why": "schedule",
+   "indexnow": 48
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-18T05:45:04",
-   "what": "SEO check: score 94 (+94), 72 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-18T05:45:04",
-   "what": "IndexNow: 18 URL Bing ko bheje",
-   "ok": true
-  },
   {
    "t": "2026-10-18T05:45:12",
    "what": "Report + Claude brief repo me likhe",
@@ -120,6 +111,16 @@
   {
    "t": "2026-10-18T12:01:27",
    "what": "IndexNow: 30 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-18T15:04:26",
+   "what": "SEO check: score 93 (-1), 131 pages, 4 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-18T15:04:26",
+   "what": "IndexNow: 48 URL Bing ko bheje",
    "ok": true
   }
  ]
