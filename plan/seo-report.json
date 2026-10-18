@@ -1,44 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-10-17T17:38:21.249412+00:00",
+ "generated_at": "2026-10-18T05:45:03.144437+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-10-17T03:26:44.499547+00:00",
-   "score": 94,
-   "pages": 49,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 14
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx10",
-    "title_lengthx4"
-   ],
-   "avg_words": 1019,
-   "why": "manual",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-10-17T06:29:53.043580+00:00",
-   "score": 93,
-   "pages": 59,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 21
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx17",
-    "title_lengthx4"
-   ],
-   "avg_words": 961,
-   "why": "schedule",
-   "indexnow": 59
-  },
   {
    "t": "2026-10-17T09:31:18.838952+00:00",
    "score": 93,
@@ -109,6 +73,77 @@
    "avg_words": 938,
    "why": "schedule",
    "indexnow": 5
+  },
+  {
+   "t": "2026-10-17T20:39:11.953492+00:00",
+   "score": 94,
+   "pages": 63,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 15
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "slow_pagex13",
+    "title_lengthx2"
+   ],
+   "avg_words": 938,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-17T23:39:41.564055+00:00",
+   "score": 94,
+   "pages": 63,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 2
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx2"
+   ],
+   "avg_words": 938,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-18T02:40:35.344904+00:00",
+   "score": 0,
+   "pages": 63,
+   "issues": {
+    "high": 21,
+    "med": 0,
+    "low": 5
+   },
+   "top": [
+    "broken_linkx20",
+    "contact_email_placeholderx1",
+    "title_lengthx5"
+   ],
+   "avg_words": 973,
+   "why": "schedule",
+   "indexnow": 19
+  },
+  {
+   "t": "2026-10-18T05:45:03.144437+00:00",
+   "score": 94,
+   "pages": 72,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 7
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx6",
+    "slow_pagex1"
+   ],
+   "avg_words": 934,
+   "why": "schedule",
+   "indexnow": 18
   }
  ],
  "todo_by_priority": [
@@ -124,31 +159,31 @@
   },
   {
    "sev": "low",
-   "code": "slow_page",
-   "count": 2,
-   "fix": "Slow pages ki images/HTML size kam karo.",
+   "code": "title_length",
+   "count": 6,
+   "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
    "example": [
-    "/g/best-record-players-2026/",
-    "/g/best-soundbars-2026/"
+    "/g/best-playstation-5-2026/",
+    "/g/best-cameras-for-beginners-2026/",
+    "/g/best-noise-cancelling-headphones-2026/"
    ],
-   "detail": "load 4.7s"
+   "detail": "title 70 chars (best 25-65)"
   },
   {
    "sev": "low",
-   "code": "title_length",
-   "count": 2,
-   "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
+   "code": "slow_page",
+   "count": 1,
+   "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-noise-cancelling-headphones-2026/",
-    "/g/best-iphones-2026/"
+    "/g/best-laptops-under-1000-2026/"
    ],
-   "detail": "title 70 chars (best 25-65)"
+   "detail": "load 3.31s"
   }
  ],
  "adsense_checklist": {
   "policy_pages_live": true,
   "contact_email_set": false,
-  "guides_live": 57,
+  "guides_live": 66,
   "guides_enough_20plus": true,
   "thin_guides": 0,
   "own_domain": false,
@@ -157,21 +192,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 4
+  "low": 7
  },
- "avg_guide_words": 938,
+ "avg_guide_words": 934,
  "slowest": [
   {
+   "url": "/g/best-laptops-under-1000-2026/",
+   "secs": 3.31
+  },
+  {
    "url": "/g/best-record-players-2026/",
-   "secs": 4.7
+   "secs": 2.7
   },
   {
-   "url": "/g/best-soundbars-2026/",
-   "secs": 3.1
-  },
-  {
-   "url": "/g/best-mattresses-2026/",
-   "secs": 3.0
+   "url": "/g/best-2-in-1-laptops-2026/",
+   "secs": 2.7
   }
  ],
  "broken_links": [],
@@ -181,9 +216,9 @@
    "s": 200,
    "t": 32,
    "d": 104,
-   "w": 267,
+   "w": 283,
    "i": 0,
-   "h": "553be3aa27"
+   "h": "48f93206aa"
   },
   {
    "u": "/about.html",
@@ -231,11 +266,83 @@
    "h": "4f4eff947e"
   },
   {
+   "u": "/g/best-streaming-devices-2026/",
+   "s": 200,
+   "t": 58,
+   "d": 155,
+   "w": 759,
+   "i": 0,
+   "h": "5680d748b0"
+  },
+  {
+   "u": "/g/best-smart-thermostats-2026/",
+   "s": 200,
+   "t": 62,
+   "d": 107,
+   "w": 547,
+   "i": 0,
+   "h": "2ccf2ba862"
+  },
+  {
+   "u": "/g/best-smartwatches-2026/",
+   "s": 200,
+   "t": 56,
+   "d": 79,
+   "w": 656,
+   "i": 0,
+   "h": "c3e8d6880a"
+  },
+  {
+   "u": "/g/best-bluetooth-speakers-2026/",
+   "s": 200,
+   "t": 50,
+   "d": 145,
+   "w": 544,
+   "i": 0,
+   "h": "6452dac7e6"
+  },
+  {
+   "u": "/g/best-stand-mixers-2026/",
+   "s": 200,
+   "t": 54,
+   "d": 151,
+   "w": 575,
+   "i": 0,
+   "h": "8ea8aea8e2"
+  },
+  {
+   "u": "/g/best-blenders-2026/",
+   "s": 200,
+   "t": 58,
+   "d": 152,
+   "w": 570,
+   "i": 0,
+   "h": "d14082502f"
+  },
+  {
+   "u": "/g/best-gaming-headsets-2026/",
+   "s": 200,
+   "t": 61,
+   "d": 156,
+   "w": 601,
+   "i": 0,
+   "h": "02ca09468c"
+  },
+  {
+   "u": "/g/best-gaming-chairs-2026/",
+   "s": 200,
+   "t": 48,
+   "d": 148,
+   "w": 505,
+   "i": 0,
+   "h": "3d6bbb9861"
+  },
+  {
    "u": "/g/best-computer-mouse-2026/",
    "s": 200,
    "t": 38,
    "d": 158,
-   "w": 562,
+   "w": 571,
    "i": 0,
    "h": "750e2de044"
   },
@@ -244,7 +351,7 @@
    "s": 200,
    "t": 47,
    "d": 156,
-   "w": 657,
+   "w": 663,
    "i": 0,
    "h": "fa72b41292"
   },
@@ -253,43 +360,34 @@
    "s": 200,
    "t": 60,
    "d": 117,
-   "w": 745,
+   "w": 764,
    "i": 0,
-   "h": "ed9b6792f5"
-  },
-  {
-   "u": "/g/best-kindle-e-reader-2026/",
-   "s": 200,
-   "t": 39,
-   "d": 155,
-   "w": 646,
-   "i": 0,
-   "h": "8f0aaaf13c"
+   "h": "8655dffdaf"
   },
   {
    "u": "/g/best-playstation-5-2026/",
    "s": 200,
-   "t": 37,
+   "t": 70,
    "d": 156,
-   "w": 766,
-   "i": 0,
-   "h": "dfbf46ea30"
+   "w": 779,
+   "i": 1,
+   "h": "ce38296e73"
   },
   {
    "u": "/g/best-cameras-for-beginners-2026/",
    "s": 200,
-   "t": 57,
+   "t": 68,
    "d": 153,
-   "w": 716,
-   "i": 0,
-   "h": "16fac72d14"
+   "w": 1096,
+   "i": 1,
+   "h": "8d672264c2"
   },
   {
    "u": "/g/best-comforter-sets-2026/",
    "s": 200,
    "t": 49,
    "d": 156,
-   "w": 828,
+   "w": 840,
    "i": 0,
    "h": "69722a491c"
   },
@@ -298,7 +396,7 @@
    "s": 200,
    "t": 44,
    "d": 151,
-   "w": 1229,
+   "w": 1236,
    "i": 0,
    "h": "328e73aef0"
   },
@@ -307,7 +405,7 @@
    "s": 200,
    "t": 36,
    "d": 147,
-   "w": 584,
+   "w": 593,
    "i": 0,
    "h": "af2b8f2f7e"
   },
@@ -316,35 +414,35 @@
    "s": 200,
    "t": 56,
    "d": 155,
-   "w": 966,
+   "w": 980,
    "i": 0,
    "h": "33d34e2341"
   },
   {
    "u": "/g/best-wireless-earbuds-2026/",
    "s": 200,
-   "t": 63,
+   "t": 54,
    "d": 156,
-   "w": 988,
+   "w": 998,
    "i": 0,
-   "h": "5a37c4aa3b"
+   "h": "a641947071"
   },
   {
    "u": "/g/best-e-readers-2026/",
    "s": 200,
    "t": 58,
    "d": 142,
-   "w": 750,
+   "w": 933,
    "i": 0,
-   "h": "c51d14481a"
+   "h": "e676789cb9"
   },
   {
    "u": "/g/best-record-players-2026/",
    "s": 200,
    "t": 53,
    "d": 122,
-   "w": 635,
-   "i": 1,
+   "w": 642,
+   "i": 0,
    "h": "0b37cb0116"
   },
   {
@@ -352,16 +450,16 @@
    "s": 200,
    "t": 54,
    "d": 133,
-   "w": 597,
+   "w": 603,
    "i": 0,
-   "h": "fb99287640"
+   "h": "ab5701a4c2"
   },
   {
    "u": "/g/best-video-doorbells-2026/",
    "s": 200,
    "t": 58,
    "d": 155,
-   "w": 826,
+   "w": 835,
    "i": 0,
    "h": "06e005d41d"
   },
@@ -370,34 +468,25 @@
    "s": 200,
    "t": 52,
    "d": 152,
-   "w": 974,
-   "i": 1,
-   "h": "c3a664f350"
-  },
-  {
-   "u": "/g/best-oled-tvs-2026/",
-   "s": 200,
-   "t": 57,
-   "d": 152,
-   "w": 1105,
+   "w": 983,
    "i": 0,
-   "h": "c69cada6b0"
+   "h": "c3a664f350"
   },
   {
    "u": "/g/best-4k-tvs-2026/",
    "s": 200,
-   "t": 46,
+   "t": 54,
    "d": 153,
-   "w": 853,
+   "w": 1212,
    "i": 0,
-   "h": "18aa19215f"
+   "h": "ecefaf0460"
   },
   {
    "u": "/g/best-juicers-2026/",
    "s": 200,
    "t": 54,
    "d": 157,
-   "w": 1232,
+   "w": 1234,
    "i": 0,
    "h": "c731d07424"
   },
@@ -406,7 +495,7 @@
    "s": 200,
    "t": 59,
    "d": 152,
-   "w": 1067,
+   "w": 1071,
    "i": 0,
    "h": "53a806df55"
   },
@@ -415,16 +504,16 @@
    "s": 200,
    "t": 53,
    "d": 148,
-   "w": 1347,
+   "w": 1366,
    "i": 0,
-   "h": "13aba439f2"
+   "h": "8e815f4aab"
   },
   {
    "u": "/g/best-mechanical-keyboards-2026/",
    "s": 200,
    "t": 63,
    "d": 129,
-   "w": 1287,
+   "w": 1296,
    "i": 0,
    "h": "39c7b4a7c6"
   },
@@ -433,7 +522,7 @@
    "s": 200,
    "t": 54,
    "d": 150,
-   "w": 1141,
+   "w": 1145,
    "i": 0,
    "h": "5ca73c4232"
   },
@@ -442,7 +531,7 @@
    "s": 200,
    "t": 63,
    "d": 130,
-   "w": 1335,
+   "w": 1349,
    "i": 0,
    "h": "f71de73873"
   },
@@ -451,7 +540,7 @@
    "s": 200,
    "t": 58,
    "d": 152,
-   "w": 1599,
+   "w": 1596,
    "i": 0,
    "h": "2d9be8a80b"
   },
@@ -460,7 +549,7 @@
    "s": 200,
    "t": 70,
    "d": 156,
-   "w": 1664,
+   "w": 1671,
    "i": 1,
    "h": "bb6ee9bff5"
   },
@@ -469,7 +558,7 @@
    "s": 200,
    "t": 64,
    "d": 144,
-   "w": 1183,
+   "w": 1195,
    "i": 0,
    "h": "fdbd1cd8d8"
   },
@@ -478,7 +567,7 @@
    "s": 200,
    "t": 51,
    "d": 119,
-   "w": 1114,
+   "w": 1126,
    "i": 0,
    "h": "596fe97ade"
   },
@@ -487,7 +576,7 @@
    "s": 200,
    "t": 52,
    "d": 153,
-   "w": 1070,
+   "w": 1084,
    "i": 0,
    "h": "2139119b3e"
   },
@@ -496,16 +585,16 @@
    "s": 200,
    "t": 57,
    "d": 155,
-   "w": 1297,
+   "w": 1308,
    "i": 0,
-   "h": "fcf7e02814"
+   "h": "1742fa0d3f"
   },
   {
    "u": "/g/best-drawing-tablets-2026/",
    "s": 200,
    "t": 50,
    "d": 152,
-   "w": 1365,
+   "w": 1369,
    "i": 0,
    "h": "249be37a5b"
   },
@@ -514,52 +603,43 @@
    "s": 200,
    "t": 60,
    "d": 152,
-   "w": 1392,
+   "w": 1404,
    "i": 0,
-   "h": "9fa841eb66"
+   "h": "51eaa1942b"
   },
   {
    "u": "/g/best-3d-printers-2026/",
    "s": 200,
    "t": 60,
    "d": 152,
-   "w": 1502,
+   "w": 1509,
    "i": 0,
    "h": "787f46e2a7"
   },
   {
-   "u": "/g/best-phones-under-300-2026/",
-   "s": 200,
-   "t": 47,
-   "d": 112,
-   "w": 596,
-   "i": 0,
-   "h": "22c3b8cb9c"
-  },
-  {
    "u": "/g/best-phones-under-500-2026/",
    "s": 200,
-   "t": 40,
+   "t": 47,
    "d": 155,
-   "w": 665,
+   "w": 978,
    "i": 0,
-   "h": "342e806614"
+   "h": "d064a99eb2"
   },
   {
    "u": "/g/best-phones-for-battery-life-2026/",
    "s": 200,
    "t": 52,
    "d": 135,
-   "w": 845,
+   "w": 851,
    "i": 0,
-   "h": "325fbf6044"
+   "h": "2c42a551cf"
   },
   {
    "u": "/g/best-android-phones-2026/",
    "s": 200,
    "t": 54,
    "d": 143,
-   "w": 787,
+   "w": 792,
    "i": 0,
    "h": "7b1341692f"
   },
@@ -568,7 +648,7 @@
    "s": 200,
    "t": 47,
    "d": 137,
-   "w": 659,
+   "w": 662,
    "i": 0,
    "h": "4ecd7a0f06"
   },
@@ -577,7 +657,7 @@
    "s": 200,
    "t": 52,
    "d": 156,
-   "w": 814,
+   "w": 815,
    "i": 0,
    "h": "6b4d138773"
   },
@@ -586,52 +666,34 @@
    "s": 200,
    "t": 72,
    "d": 124,
-   "w": 788,
+   "w": 792,
    "i": 1,
    "h": "400a80574d"
   },
   {
    "u": "/g/best-gaming-laptops-under-1500-2026/",
    "s": 200,
-   "t": 49,
+   "t": 60,
    "d": 131,
-   "w": 705,
+   "w": 1110,
    "i": 0,
-   "h": "df466b5215"
-  },
-  {
-   "u": "/g/best-gaming-laptops-under-1000-2026/",
-   "s": 200,
-   "t": 49,
-   "d": 128,
-   "w": 722,
-   "i": 0,
-   "h": "545804606e"
-  },
-  {
-   "u": "/g/best-budget-gaming-laptops-2026/",
-   "s": 200,
-   "t": 64,
-   "d": 105,
-   "w": 711,
-   "i": 0,
-   "h": "984b3ba14f"
+   "h": "5e277e6099"
   },
   {
    "u": "/g/best-laptops-for-video-editing-2026/",
    "s": 200,
    "t": 59,
    "d": 117,
-   "w": 658,
+   "w": 647,
    "i": 0,
-   "h": "17ff6b2933"
+   "h": "b7c8aee3c0"
   },
   {
    "u": "/g/best-laptops-for-work-from-home-2026/",
    "s": 200,
    "t": 52,
    "d": 142,
-   "w": 704,
+   "w": 702,
    "i": 0,
    "h": "21e06cebfc"
   },
@@ -640,7 +702,7 @@
    "s": 200,
    "t": 54,
    "d": 143,
-   "w": 635,
+   "w": 624,
    "i": 0,
    "h": "92f8db1ec3"
   },
@@ -649,25 +711,16 @@
    "s": 200,
    "t": 61,
    "d": 138,
-   "w": 710,
+   "w": 708,
    "i": 0,
    "h": "54a2ba36e0"
-  },
-  {
-   "u": "/g/best-budget-laptops-under-600-2026/",
-   "s": 200,
-   "t": 49,
-   "d": 147,
-   "w": 734,
-   "i": 0,
-   "h": "e522c35733"
   },
   {
    "u": "/g/best-2-in-1-laptops-2026/",
    "s": 200,
    "t": 61,
    "d": 137,
-   "w": 619,
+   "w": 617,
    "i": 0,
    "h": "03df5ef54f"
   },
@@ -676,25 +729,16 @@
    "s": 200,
    "t": 63,
    "d": 97,
-   "w": 605,
+   "w": 612,
    "i": 0,
    "h": "4097769857"
-  },
-  {
-   "u": "/g/best-laptops-under-500-2026/",
-   "s": 200,
-   "t": 58,
-   "d": 112,
-   "w": 540,
-   "i": 0,
-   "h": "c97e6c6367"
   },
   {
    "u": "/g/best-macbooks-2026/",
    "s": 200,
    "t": 49,
    "d": 131,
-   "w": 687,
+   "w": 685,
    "i": 0,
    "h": "a87f6c314f"
   },
@@ -703,7 +747,7 @@
    "s": 200,
    "t": 48,
    "d": 110,
-   "w": 1507,
+   "w": 1513,
    "i": 0,
    "h": "e2e18a0321"
   },
@@ -712,25 +756,25 @@
    "s": 200,
    "t": 50,
    "d": 112,
-   "w": 1536,
+   "w": 1555,
    "i": 0,
-   "h": "f73ac33642"
+   "h": "54e210db57"
   },
   {
    "u": "/g/best-laptops-under-1000-2026/",
    "s": 200,
-   "t": 44,
+   "t": 68,
    "d": 132,
-   "w": 990,
-   "i": 0,
-   "h": "b86d0624cc"
+   "w": 1471,
+   "i": 2,
+   "h": "b639ca522c"
   },
   {
    "u": "/g/best-laptop-deals-black-friday-2026/",
    "s": 200,
    "t": 49,
    "d": 104,
-   "w": 1622,
+   "w": 1628,
    "i": 0,
    "h": "c8425b14bd"
   },
@@ -739,9 +783,81 @@
    "s": 200,
    "t": 52,
    "d": 100,
-   "w": 631,
+   "w": 623,
    "i": 0,
    "h": "eaf728c3b5"
+  },
+  {
+   "u": "/g/best-cameras-for-beginners-2026/action/",
+   "s": 200,
+   "t": 76,
+   "d": 147,
+   "w": 731,
+   "i": 1,
+   "h": "20ae7e72ac"
+  },
+  {
+   "u": "/g/best-e-readers-2026/kindle/",
+   "s": 200,
+   "t": 40,
+   "d": 150,
+   "w": 730,
+   "i": 0,
+   "h": "05f394a5dd"
+  },
+  {
+   "u": "/g/best-4k-tvs-2026/oled/",
+   "s": 200,
+   "t": 32,
+   "d": 156,
+   "w": 1082,
+   "i": 0,
+   "h": "87b4aae839"
+  },
+  {
+   "u": "/g/best-phones-under-500-2026/under-300/",
+   "s": 200,
+   "t": 40,
+   "d": 153,
+   "w": 618,
+   "i": 0,
+   "h": "f3f9bcba71"
+  },
+  {
+   "u": "/g/best-gaming-laptops-under-1500-2026/under-1000/",
+   "s": 200,
+   "t": 51,
+   "d": 152,
+   "w": 730,
+   "i": 0,
+   "h": "e16a883a85"
+  },
+  {
+   "u": "/g/best-gaming-laptops-under-1500-2026/budget/",
+   "s": 200,
+   "t": 45,
+   "d": 146,
+   "w": 726,
+   "i": 0,
+   "h": "99a36eb8ad"
+  },
+  {
+   "u": "/g/best-laptops-under-1000-2026/under-500/",
+   "s": 200,
+   "t": 42,
+   "d": 146,
+   "w": 643,
+   "i": 0,
+   "h": "e97f8ba427"
+  },
+  {
+   "u": "/g/best-laptops-under-1000-2026/under-600/",
+   "s": 200,
+   "t": 42,
+   "d": 146,
+   "w": 802,
+   "i": 0,
+   "h": "c2e3c6f785"
   }
  ],
  "actions": [
@@ -784,6 +900,34 @@
    "t": "2026-10-17T17:38:21.249412+00:00",
    "indexnow": {
     "submitted": 5,
+    "http": 200
+   }
+  },
+  {
+   "t": "2026-10-17T20:39:11.953492+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-10-17T23:39:41.564055+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-10-18T02:40:35.344904+00:00",
+   "indexnow": {
+    "submitted": 19,
+    "http": 200
+   }
+  },
+  {
+   "t": "2026-10-18T05:45:03.144437+00:00",
+   "indexnow": {
+    "submitted": 18,
     "http": 200
    }
   }
