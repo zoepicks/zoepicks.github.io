@@ -406,3 +406,9 @@ nav .wrap{height:54px}
 .tk-r strong,.ess-r strong{color:var(--ink);font-weight:700}.tk-r s,.ess-r s{opacity:.55}
 .ess-r{font-size:9.5px;line-height:1.1;color:var(--mut);text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .tk-x em.st,.ess-im em.st{background:#64748b}
+
+/* Trending theme chips: fit one row on phones (inactive chips = emoji only, active = emoji + name); full labels on wider screens */
+#trnTabs{gap:5px}
+#trnTabs button{padding:8px 11px}
+@media(max-width:560px){#trnTabs button:not(.on) .lb{display:none}#trnTabs button:not(.on):not([data-k=all]){padding:8px 12px;font-size:14px;line-height:1}}
+@media(max-width:340px){#trnTabs{gap:4px}#trnTabs button{padding:8px 9px;font-size:11.5px}#trnTabs button:not(.on):not([data-k=all]){padding:8px 10px}}

@@ -57,7 +57,7 @@ function pager(host,dots,pages){
 }
 fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
   if(!d||!d.updated||Date.now()-new Date(d.updated)>MAXAGE)return;
-  const asof="Prices checked in last 24h · may change";
+  const asof="Prices: last 24h";
   const hot=fresh(d.hot,30),ess=fresh(d.ess,96),trn=fresh(d.trend,36);
     const card=(i,badge,th)=>`<a class="tk-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="tk-i">${img(i)||esc(i.icon||"🏷️")}</span><span class="tk-x"><em${th?` data-th="${esc(th)}"`:""}${px(i)?"":' class="st"'}>${px(i)?`${badge}-${i.pct}%`:`${badge}Check price`}</em><b>${esc(i.name)}</b>${meta(i)?`<small class="tk-r">${meta(i)}</small>`:""}</span></a>`;
   if(hot.length){ticker(hotT,hot,i=>card(i,""));hotAsof.textContent=asof;document.getElementById("hot").hidden=false;}
@@ -71,9 +71,11 @@ fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>
       const list=k==="all"?trn:trn.filter(i=>i.theme===k);
       trnT.style.animation="none";void trnT.offsetWidth;trnT.style.animation="";
       ticker(trnT,list,i=>card(i,tb(i),i.theme));
-      [].forEach.call(trnTabs.children,x=>x.classList.toggle("on",x.dataset.k===k));
+      [].forEach.call(trnTabs.children,x=>{const on=x.dataset.k===k;x.classList.toggle("on",on);if(on&&trnTabs.scrollWidth>trnTabs.clientWidth)trnTabs.scrollTo({left:Math.max(0,x.offsetLeft-16),behavior:"smooth"});});
     };
-    trnTabs.innerHTML=order.length>1?["all"].concat(order).map(k=>`<button type="button" data-k="${esc(k)}">${k==="all"?"All":tlab(k)}</button>`).join(""):"";
+    /* chips: "🎃 Halloween" -> emoji + <span class=lb>label</span>; on phones only the active chip shows its label so all chips fit in one row */
+    const chip=k=>{if(k==="all")return"All";const t=tlab(k),sp=t.indexOf(" ");return sp>0?`${t.slice(0,sp)}<span class="lb"> ${t.slice(sp+1)}</span>`:t;};
+    trnTabs.innerHTML=order.length>1?["all"].concat(order).map(k=>`<button type="button" data-k="${esc(k)}" aria-label="${k==="all"?"All":esc(tlab(k))}" title="${k==="all"?"All":esc(tlab(k))}">${chip(k)}</button>`).join(""):"";
     trnTabs.onclick=e=>{const x=e.target.closest("button");if(x)show(x.dataset.k);};
     show("all");
     trnH.textContent="✨ Trending now";trnAsof.textContent=asof;document.getElementById("trn").hidden=false;
