@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-18T07:43:19Z",
+ "updated": "2026-10-18T08:33:13Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -599,6 +599,18 @@
    {
     "key": "wireless-mice",
     "label": "Wireless Mice",
+    "items": []
+   }
+  ],
+  "beauty_health": [
+   {
+    "key": "electric-toothbrushes",
+    "label": "Electric Toothbrushes",
+    "items": []
+   },
+   {
+    "key": "hair-dryers",
+    "label": "Hair Dryers",
     "items": []
    }
   ],
@@ -2004,6 +2016,16 @@
    {
     "key": "impact-drivers",
     "label": "Impact Drivers",
+    "items": []
+   },
+   {
+    "key": "obd2-scanners",
+    "label": "Obd2 Scanners",
+    "items": []
+   },
+   {
+    "key": "tire-inflators",
+    "label": "Tire Inflators",
     "items": []
    }
   ]
