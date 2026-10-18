@@ -388,3 +388,16 @@ nav .wrap{height:54px}
 .hero~.bento .cat b{font-size:12px}
 .hero~.list{gap:10px}
 .hero~.list .item{box-shadow:0 4px 14px -10px rgba(15,18,34,.3)}
+
+/* ===== trending tabs + themed badges (2026-10-18) ===== */
+.tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;margin:2px 0 8px;padding:2px 0;-webkit-overflow-scrolling:touch}
+.tabs::-webkit-scrollbar{display:none}.tabs:empty{display:none}
+.tabs button{flex:none;font:600 12px/1 Inter,system-ui,sans-serif;padding:8px 13px;border-radius:99px;border:1px solid var(--line);background:var(--card);color:var(--mut);cursor:pointer;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.tabs button.on{color:#fff;border-color:transparent;background:linear-gradient(90deg,var(--a),var(--b))}
+.trn .tk-x em{max-width:100%;overflow:hidden;text-overflow:ellipsis}
+.trn .tk-x em[data-th=halloween]{background:linear-gradient(90deg,#f97316,#9a3412)}
+.trn .tk-x em[data-th=fall]{background:linear-gradient(90deg,#d97706,#92400e)}
+.trn .tk-x em[data-th=christmas]{background:linear-gradient(90deg,#dc2626,#15803d)}
+.trn .tk-x em[data-th=winter]{background:linear-gradient(90deg,#0ea5e9,#4338ca)}
+.trn .tk-x em[data-th=thanksgiving]{background:linear-gradient(90deg,#b45309,#7c2d12)}
+.trn .tk-x em[data-th=blackfriday]{background:linear-gradient(90deg,#111827,#4b5563)}
