@@ -75,7 +75,7 @@ jobs:
           if [ -n "$IN_SLUG" ]; then
             python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | tail -n 200 | $TEE .github/last-collect.log
           else
-            python3 -u tools/collect_guide.py --count "$SHARE" --gap 45 2>&1 | tail -n 200 | $TEE .github/last-collect.log
+            python3 -u tools/collect_guide.py --count "$SHARE" --gap 20 2>&1 | tail -n 200 | $TEE .github/last-collect.log
           fi
       - name: Commit
         if: always() && steps.plan.outputs.share != '0'

@@ -425,6 +425,40 @@ def merge_into_parent(plan, topic, products, today, dry):
     log(f"done: {topic['slug']} -> tab '{tab}' of {topic['parent']} (+{new} new, {len(products) - new} already there)")
 
 
+# ---------- backup sources (a blocked site, e.g. Wirecutter 403, must not leave a guide with 2 pages and 0 well-sourced picks) ----------
+TARGET_PAGES = 4          # try to have this many readable source pages before asking the LLM
+BACKUP_DOMAINS = ["cnet.com", "pcmag.com", "tomsguide.com", "techradar.com", "theverge.com", "wired.com", "engadget.com", "rtings.com",
+                  "consumerreports.org", "goodhousekeeping.com", "bestproducts.com", "thespruceeats.com", "gq.com", "esquire.com", "allure.com"]
+
+
+def top_up_sources(topic, domains, pages, texts, want=TARGET_PAGES, max_new=3):
+    """Add readable pages from backup domains (not tried yet) until `want` pages have text. Returns how many were added."""
+    have = lambda: sum(bool(t) for t in texts)
+    if have() >= want:
+        return 0
+    tried = {d for d, _ in pages}
+    backup = [d for d in BACKUP_DOMAINS if d.split("/")[0] not in tried and d not in domains]
+    if not backup:
+        return 0
+    try:
+        extra = discover(topic, backup)
+    except Exception as e:
+        log("backup sources fail", e); return 0
+    added = 0
+    for dom, url in extra:
+        if have() >= want or added >= max_new:
+            break
+        if dom in tried:
+            continue
+        tried.add(dom)
+        t = fetch_text(url)
+        pages.append((dom, url)); texts.append(t)
+        if t:
+            added += 1
+    log(f"backup sources: +{added} readable page(s) -> {have()} total")
+    return added
+
+
 def run_topic(plan, topic, dry):
     log("topic:", topic["title"])
     domains = SOURCES.get(topic["category"], SOURCES["_default"])
@@ -432,9 +466,16 @@ def run_topic(plan, topic, dry):
     texts = [fetch_text(u) for _, u in pages]
     ok = sum(bool(t) for t in texts)
     log(f"{ok}/{len(pages)} source pages fetched")
+    top_up_sources(topic, domains, pages, texts)                       # fewer than TARGET_PAGES readable -> add backup sites
+    ok = sum(bool(t) for t in texts)
     if ok < MIN_SOURCES: raise SystemExit("not enough sources fetched; topic left as todo")
-    g = build(topic, pages, texts, collect_deals(topic))
+    deals = collect_deals(topic)
+    g = build(topic, pages, texts, deals)
     products = ground(g, pages, texts)
+    if len(products) < MIN_PRODUCTS and top_up_sources(topic, domains, pages, texts, want=ok + 2, max_new=2):   # would stay a draft -> one retry with more sources
+        log("retrying with extra sources before giving up")
+        g = build(topic, pages, texts, deals)
+        products = ground(g, pages, texts)
     today = datetime.date.today().strftime("%b %-d, %Y")
     if topic.get("parent"): return merge_into_parent(plan, topic, products, today, dry)
     _old = ROOT / "src" / f"{topic['slug']}.json"
