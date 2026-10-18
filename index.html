@@ -17,7 +17,7 @@
 catRow.innerHTML=CATS.map(c=>`<a href="category.html?c=${c[0]}"><i>${c[1]}</i>${c[2]}</a>`).join("");
 cats.innerHTML=CATS.map(c=>`<a class="cat" href="category.html?c=${c[0]}"><i>${c[1]}</i><b>${c[2]}</b></a>`).join("");
 guides().then(g=>{g=g.filter(x=>!x.soon);latest.innerHTML=g.length?g.slice(0,8).map(row).join(""):'<div class="empty">First guides are on the way.</div>'});
-/* Hot feed v3: guides/hot.json is written by the bot every ~2 h. {hot: top offers, ess: everyday items (6+6 per slide), trend: seasonal}.
+/* Hot feed v3: guides/hot.json is written by the bot every ~2 h. {hot: top offers, ess: everyday items (5+5 per slide), trend: seasonal}.
    Each list hides itself when empty; whole file ignored when older than ~40 h. */
 (function(){
 const H=3600e3,MAXAGE=40*H,PRICE_H=24*H,esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -83,9 +83,9 @@ fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>
   }
   if(ess.length){
     let items=ess.slice();
-    if(items.length>12){const rem=items.length%12; if(rem)items=items.concat(items.slice(0,12-rem));}  /* last slide always full */
+    if(items.length>10){const rem=items.length%10; if(rem)items=items.concat(items.slice(0,10-rem));}  /* last slide always full */
     const tile=i=>`<a class="ess-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="ess-im">${img(i)||esc(i.icon||"🛒")}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b>${(i.rating||px(i))?`<small class="ess-r">${i.rating?`<span>★ ${i.rating}</span>`:""}${px(i)&&usd(i.now)?`<span><strong>${usd(i.now)}</strong></span>`:""}</small>`:""}</a>`;
-    const pages=[];for(let x=0;x<items.length;x+=12)pages.push(items.slice(x,x+12).map(tile).join(""));
+    const pages=[];for(let x=0;x<items.length;x+=10)pages.push(items.slice(x,x+10).map(tile).join(""));
     document.getElementById("ess").hidden=false;pager(essV,essD,pages);
   }
 }).catch(()=>{});

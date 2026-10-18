@@ -426,3 +426,11 @@ nav .wrap{height:54px}
 .tk-r{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
 @media(max-width:340px){.ess-r{font-size:8.5px}}
 .catrow+.hero{padding-top:0}.catrow+.hero .hot{margin-top:6px}
+
+/* essentials: 5 per row (5+5 per slide) so tiles are bigger and readable */
+.ess-p{grid-template-columns:repeat(5,minmax(0,1fr));gap:12px 8px}
+.ess-c b{font-size:11.5px;line-height:1.2;min-height:2.4em}
+.ess-r{font-size:10.5px}
+.ess-im em{font-size:10.5px;top:4px;left:4px}
+@media(max-width:340px){.ess-r{font-size:9.5px}.ess-c b{font-size:10.5px}.ess-im em{font-size:9.5px}}
+@media(min-width:700px){.ess-r{font-size:11.5px}}
