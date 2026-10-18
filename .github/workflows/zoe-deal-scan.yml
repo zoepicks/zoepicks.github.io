@@ -30,7 +30,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
         with:
@@ -57,5 +57,5 @@ jobs:
           ZOE_DEAL_SCAN: 'on'
           ZOE_SCAN_MODE: ${{ github.event.inputs.mode || 'sweep' }}
           ZOE_CI_PUBLISH: ${{ github.event.inputs.publish || '0' }}
-          ZOE_CI_BUDGET_MIN: '30'
+          ZOE_CI_BUDGET_MIN: '40'
         run: python -m x.zoe_deal_scan_ci
