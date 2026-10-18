@@ -54,7 +54,7 @@ function pager(host,dots,pages){
 fetch("guides/hot.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
   if(!d||!d.updated||Date.now()-new Date(d.updated)>MAXAGE)return;
   const asof=new Date(d.updated).toLocaleDateString("en-US",{month:"short",day:"numeric"});
-  const hot=fresh(d.hot,30),ess=fresh(d.ess,60),trn=fresh(d.trend,36);
+  const hot=fresh(d.hot,30),ess=fresh(d.ess,96),trn=fresh(d.trend,36);
   const card=(i,badge)=>`<a class="tk-c" href="${esc(i.link)}" ${AZ} title="${esc(i.name)}"><span class="tk-i">${img(i)||esc(i.icon||"🏷️")}</span><span class="tk-x"><em>${badge}-${i.pct}%</em><b>${esc(i.name)}</b>${i.rating?`<small class="tk-r">★ ${i.rating}</small>`:""}</span></a>`;
   if(hot.length){ticker(hotT,hot,i=>card(i,""));hotAsof.textContent=asof;document.getElementById("hot").hidden=false;}
   if(trn.length){
