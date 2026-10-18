@@ -1,11 +1,91 @@
 [
  {
-  "slug": "best-wireless-mouse-2026",
-  "title": "Best Wireless Mouse (2026)",
-  "category": "accessories",
+  "slug": "best-coffee-makers-2026",
+  "title": "Top Coffee Makers for Great Coffee at Home (2026)",
+  "category": "home_kitchen",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "OXO Cold Brew"
+ },
+ {
+  "slug": "best-gaming-controllers-2026",
+  "title": "Top Console Controllers & Pro Gamepads (2026)",
+  "category": "gaming",
   "date": "Oct 18, 2026",
   "n": 4,
-  "top": "MX Master 3S"
+  "top": "GameSir G7 Pro"
+ },
+ {
+  "slug": "best-handheld-gaming-pcs-2026",
+  "title": "Top Handheld Gaming PCs Like the Steam Deck (2026)",
+  "category": "gaming",
+  "date": "Oct 18, 2026",
+  "n": 4,
+  "top": "Ally X"
+ },
+ {
+  "slug": "best-portable-monitors-2026",
+  "title": "Top Portable Monitors for Laptops & Travel (2026)",
+  "category": "monitors",
+  "date": "Oct 18, 2026",
+  "n": 4,
+  "top": "MSI Pro MP165 E6"
+ },
+ {
+  "slug": "best-deodorants-2026",
+  "title": "Top Deodorants That Actually Last All Day (2026)",
+  "category": "beauty_health",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Native"
+ },
+ {
+  "slug": "best-hammocks-2026",
+  "title": "Top Hammocks for Backyard & Camping (2026)",
+  "category": "furniture_decor",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Roo Double"
+ },
+ {
+  "slug": "best-gym-bags-2026",
+  "title": "Top Gym Bags for Training & Weekends (2026)",
+  "category": "fashion",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Lululemon 2\u2011in\u20111"
+ },
+ {
+  "slug": "best-winter-coats-2026",
+  "title": "Top Winter Coats for Real Cold (2026)",
+  "category": "fashion",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Nuuk Parka"
+ },
+ {
+  "slug": "best-home-gym-equipment-2026",
+  "title": "Top Home Gym Equipment for Any Budget (2026)",
+  "category": "fitness_outdoor",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Peloton Bike+"
+ },
+ {
+  "slug": "best-nintendo-switch-bundles-2026",
+  "title": "Top Nintendo Switch 2 Bundles for the Holidays (2026)",
+  "category": "gaming",
+  "date": "Oct 18, 2026",
+  "n": 4,
+  "top": "Switch Lite"
+ },
+ {
+  "slug": "best-mens-colognes-2026",
+  "title": "Top Colognes for Men: Everyday & Date Night (2026)",
+  "category": "beauty_health",
+  "date": "Oct 18, 2026",
+  "n": 3,
+  "top": "Polo"
  },
  {
   "slug": "best-food-blender-2026",
@@ -314,7 +394,7 @@
   "title": "Best Computer Mouse (2026)",
   "category": "accessories",
   "date": "Oct 17, 2026",
-  "n": 3,
+  "n": 5,
   "top": "MX Master 4",
   "img": "https://m.media-amazon.com/images/I/61z3ENJubZL.jpg"
  },
@@ -341,7 +421,7 @@
   "title": "Best Playstation 5 (2026)",
   "category": "gaming",
   "date": "Oct 17, 2026",
-  "n": 3,
+  "n": 11,
   "top": "PS5 Pro",
   "img": "https://m.media-amazon.com/images/I/61m6x5e9e-L.jpg"
  },
@@ -396,7 +476,7 @@
   "title": "Top Wireless Earbuds: AirPods Pro 3 & Rivals (2026)",
   "category": "electronics",
   "date": "Oct 16, 2026",
-  "n": 6,
+  "n": 8,
   "img": "https://m.media-amazon.com/images/I/61solmQSSlL.jpg",
   "top": "AirPods Pro 3",
   "off": 34
@@ -535,7 +615,7 @@
   "title": "Top Pillows for Side, Back & Stomach Sleepers (2026)",
   "category": "home_kitchen",
   "date": "Oct 16, 2026",
-  "n": 5,
+  "n": 7,
   "img": "https://m.media-amazon.com/images/I/61neGtqdmEL.jpg",
   "top": "Coop Original Adjustable"
  },
@@ -771,6 +851,12 @@
   "top": "Acer Swift 16 AI (Lunar Lake)"
  },
  {
+  "slug": "best-heating-pad-2026",
+  "title": "Best Heating Pad (2026)",
+  "category": "beauty_health",
+  "soon": true
+ },
+ {
   "slug": "best-nail-polish-2026",
   "title": "Best Nail Polish (2026)",
   "category": "other",
@@ -831,27 +917,9 @@
   "soon": true
  },
  {
-  "slug": "best-mens-colognes-2026",
-  "title": "Top Colognes for Men: Everyday & Date Night (2026)",
-  "category": "beauty_health",
-  "soon": true
- },
- {
   "slug": "best-bookshelves-2026",
   "title": "Top Bookshelves for Storage & Style (2026)",
   "category": "furniture_decor",
-  "soon": true
- },
- {
-  "slug": "best-nintendo-switch-bundles-2026",
-  "title": "Top Nintendo Switch 2 Bundles for the Holidays (2026)",
-  "category": "gaming",
-  "soon": true
- },
- {
-  "slug": "best-home-gym-equipment-2026",
-  "title": "Top Home Gym Equipment for Any Budget (2026)",
-  "category": "fitness_outdoor",
   "soon": true
  },
  {
@@ -863,12 +931,6 @@
  {
   "slug": "best-tote-bags-2026",
   "title": "Top Tote Bags for Work, School & Travel (2026)",
-  "category": "fashion",
-  "soon": true
- },
- {
-  "slug": "best-winter-coats-2026",
-  "title": "Top Winter Coats for Real Cold (2026)",
   "category": "fashion",
   "soon": true
  },
@@ -885,27 +947,9 @@
   "soon": true
  },
  {
-  "slug": "best-gym-bags-2026",
-  "title": "Top Gym Bags for Training & Weekends (2026)",
-  "category": "fashion",
-  "soon": true
- },
- {
-  "slug": "best-hammocks-2026",
-  "title": "Top Hammocks for Backyard & Camping (2026)",
-  "category": "furniture_decor",
-  "soon": true
- },
- {
   "slug": "best-lawn-mowers-2026",
   "title": "Top Lawn Mowers: Gas, Electric & Robotic (2026)",
   "category": "tools_auto",
-  "soon": true
- },
- {
-  "slug": "best-deodorants-2026",
-  "title": "Top Deodorants That Actually Last All Day (2026)",
-  "category": "beauty_health",
   "soon": true
  },
  {
@@ -951,21 +995,9 @@
   "soon": true
  },
  {
-  "slug": "best-portable-monitors-2026",
-  "title": "Top Portable Monitors for Laptops & Travel (2026)",
-  "category": "monitors",
-  "soon": true
- },
- {
   "slug": "best-monitors-for-mac-2026",
   "title": "Top Monitors to Pair With Your Mac (2026)",
   "category": "monitors",
-  "soon": true
- },
- {
-  "slug": "best-handheld-gaming-pcs-2026",
-  "title": "Top Handheld Gaming PCs Like the Steam Deck (2026)",
-  "category": "gaming",
   "soon": true
  },
  {
@@ -975,20 +1007,8 @@
   "soon": true
  },
  {
-  "slug": "best-gaming-controllers-2026",
-  "title": "Top Console Controllers & Pro Gamepads (2026)",
-  "category": "gaming",
-  "soon": true
- },
- {
   "slug": "best-vacuums-2026",
   "title": "Best Vacuums: Robot, Cordless & Pet Hair (2026)",
-  "category": "home_kitchen",
-  "soon": true
- },
- {
-  "slug": "best-coffee-makers-2026",
-  "title": "Top Coffee Makers for Great Coffee at Home (2026)",
   "category": "home_kitchen",
   "soon": true
  },

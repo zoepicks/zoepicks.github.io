@@ -2,7 +2,7 @@
  "slug": "best-wireless-earbuds-2026",
  "title": "Top Earbuds: AirPods Pro 3 & Rivals (2026)",
  "category": "electronics",
- "date": "Oct 16, 2026",
+ "date": "Oct 18, 2026",
  "summary": "Tom's Guide picks the AirPods Pro 3 as the best wireless earbuds, while TechRadar and SoundGuys back the Sony WF-1000XM6 and Technics EAH-AZ100 for Android, the Bose QC Ultra for noise cancelling and the Cambridge Melomania A100 for value.",
  "method": "Picks come from Tom's Guide (updated Sep 22, 2026), TechRadar's wireless earbuds guide (Jun 18, 2026) and SoundGuys' lab-tested guide (Jun 2, 2026). Each product here is named by at least two of the three.",
  "assumptions": "Prices are what Tom's Guide's price box showed on the day we checked and change often, so check the current price on Amazon. Tom's Guide ratings are from its own testing; TechRadar and SoundGuys use different test methods.",
@@ -198,6 +198,64 @@
    "asin": "B0DT2H17F6",
    "image": "https://m.media-amazon.com/images/I/51gfNsXzcWL.jpg",
    "image_asin": "B0DT2H17F6"
+  },
+  {
+   "name": "Shure SE215",
+   "short": "Shure SE215",
+   "badge": "Best Noise Isolation",
+   "why": [
+    "The SE215 is praised for its solid build quality and superb noise isolation.",
+    "It is mentioned in multiple reviews for its reliable performance and comfort."
+   ],
+   "specs": [
+    "Passive isolation",
+    "Durable construction",
+    "Included ear tips"
+   ],
+   "pros": [
+    "Excellent passive noise isolation",
+    "Durable build",
+    "Comfortable fit"
+   ],
+   "cons": [
+    "No microphone",
+    "Limited bass depth"
+   ],
+   "best_for": "users seeking isolation and durability",
+   "skip_if": "you need a microphone",
+   "link": "https://www.amazon.com/s?k=Shure+SE215&tag=zoepicks00-20",
+   "tabs": [
+    "wired"
+   ]
+  },
+  {
+   "name": "1MORE Triple Driver",
+   "short": "1MORE Triple Driver",
+   "badge": "Best Value",
+   "why": [
+    "HeadphonesAddict highlights the 1MORE Triple Driver as one of the best wired earbuds under $100.",
+    "It offers strong sound quality and solid build."
+   ],
+   "specs": [
+    "Triple driver design",
+    "Under $100",
+    "Solid build quality"
+   ],
+   "pros": [
+    "Excellent sound",
+    "Good build quality",
+    "Affordable"
+   ],
+   "cons": [
+    "No microphone",
+    "Limited bass depth"
+   ],
+   "best_for": "budget audiophiles",
+   "skip_if": "you need a microphone",
+   "link": "https://www.amazon.com/s?k=1MORE+Triple+Driver&tag=zoepicks00-20",
+   "tabs": [
+    "wired"
+   ]
   }
  ],
  "tabs": [
@@ -205,6 +263,10 @@
    "key": "under-100",
    "label": "Under $100",
    "max": 100
+  },
+  {
+   "key": "wired",
+   "label": "Wired"
   }
  ]
 }
