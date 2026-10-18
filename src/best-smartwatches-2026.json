@@ -2,9 +2,152 @@
  "slug": "best-smartwatches-2026",
  "title": "Top Smartwatches for iPhone & Android (2026)",
  "category": "mobiles",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on smartwatch reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "Top smartwatches for 2026, ranked by overall value and multi‑source endorsement",
+ "method": "Selected watches that appear in at least two of the three reviewed sites (TechRadar, PCMag, Tom’s Guide, ZDNet).",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise null.",
+ "products": [
+  {
+   "name": "Apple Watch Ultra 4",
+   "short": "Apple Watch Ultra 4",
+   "badge": "Best Overall",
+   "why": [
+    "Apple Watch Ultra 4 offers a 74‑hour battery life, the fastest S11 chip, and precision health tracking, making it the top choice for outdoor adventurers and power users.",
+    "Its rugged design, satellite connectivity, and advanced safety features give it a clear edge over other high‑end models."
+   ],
+   "specs": [
+    "74‑hour battery life",
+    "S11 chip",
+    "Precision health tracking",
+    "Satellite and 5G connectivity",
+    "100m water resistance",
+    "Dual speakers"
+   ],
+   "pros": [
+    "Longest battery life in its class",
+    "Fastest processor",
+    "Robust outdoor features"
+   ],
+   "cons": [
+    "High price",
+    "Large size may not fit all wrists"
+   ],
+   "best_for": "Outdoor enthusiasts and power users who need endurance and advanced safety features",
+   "skip_if": "You prefer a smaller, more affordable smartwatch",
+   "link": "https://www.amazon.com/s?k=Apple+Watch+Ultra+4&tag=iamcartigo-20"
+  },
+  {
+   "name": "Google Pixel Watch 5",
+   "short": "Pixel Watch 5",
+   "badge": "Best Android Smartwatch",
+   "why": [
+    "Pixel Watch 5 is highlighted as the number one Android watch, with faster performance and deeply integrated Gemini AI.",
+    "Its design and software integration make it the best choice for Android users."
+   ],
+   "specs": [
+    "Gemini AI",
+    "Curved display",
+    "Improved battery life",
+    "Satellite SOS"
+   ],
+   "pros": [
+    "Best Android integration",
+    "Gemini AI",
+    "Satellite SOS"
+   ],
+   "cons": [
+    "Minor changes from predecessor",
+    "Limited ruggedness"
+   ],
+   "best_for": "Android users seeking a polished, AI‑powered experience",
+   "skip_if": "You use iOS or need extreme durability",
+   "link": "https://www.amazon.com/s?k=Google+Pixel+Watch+5&tag=iamcartigo-20"
+  },
+  {
+   "name": "Samsung Galaxy Watch Ultra 2",
+   "short": "Galaxy Watch Ultra 2",
+   "badge": "Best for Outdoor Adventurers",
+   "why": [
+    "Galaxy Watch Ultra 2 boasts a three‑day battery, a super‑bright screen, and scuba‑diving durability, justifying its premium price for outdoor lovers.",
+    "Its titanium casing and advanced safety features make it a standout."
+   ],
+   "specs": [
+    "Three‑day battery life",
+    "Super‑bright AMOLED display",
+    "Titanium casing",
+    "Scuba‑diving durability",
+    "Large capacity battery",
+    "Sapphire glass"
+   ],
+   "pros": [
+    "Long battery",
+    "Rugged build",
+    "Bright display"
+   ],
+   "cons": [
+    "Large size",
+    "High price"
+   ],
+   "best_for": "Outdoor adventurers who need durability and long battery life",
+   "skip_if": "You prefer a slim, everyday watch",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch+Ultra+2&tag=iamcartigo-20"
+  },
+  {
+   "name": "Apple Watch SE 3",
+   "short": "Apple Watch SE 3",
+   "badge": "Best Value for iPhone",
+   "why": [
+    "Apple Watch SE 3 delivers two‑day battery life, a top‑of‑the‑line processor, an always‑on display, and upgraded sensors—all at a lower price point.",
+    "It is the top budget pick for iPhone users."
+   ],
+   "specs": [
+    "Two‑day battery life",
+    "Fast processor",
+    "Always‑on display",
+    "Upgraded sensors",
+    "Water resistant"
+   ],
+   "pros": [
+    "Affordable",
+    "Great battery",
+    "Strong performance"
+   ],
+   "cons": [
+    "Heart rate tracking less advanced than higher models",
+    "Limited premium features"
+   ],
+   "best_for": "iPhone users on a budget who still want solid performance",
+   "skip_if": "You need the most advanced health sensors",
+   "price": "$249 at Apple",
+   "link": "https://www.amazon.com/s?k=Apple+Watch+SE+3&tag=iamcartigo-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Samsung Galaxy Watch 9",
+   "short": "Galaxy Watch 9",
+   "badge": "Best for Most People",
+   "why": [
+    "Galaxy Watch 9 focuses on preventive health features but shares similar battery performance with its predecessor.",
+    "It offers a sleek, slim design suitable for everyday wear."
+   ],
+   "specs": [
+    "Preventive health features",
+    "Similar battery life to Watch 8",
+    "Sleek slim design",
+    "Advanced health monitoring"
+   ],
+   "pros": [
+    "Sleek design",
+    "Health features",
+    "Affordability"
+   ],
+   "cons": [
+    "Underwhelming battery life",
+    "Less rugged"
+   ],
+   "best_for": "General consumers looking for a balanced, everyday smartwatch",
+   "skip_if": "You need extreme battery or ruggedness",
+   "link": "https://www.amazon.com/s?k=Samsung+Galaxy+Watch+9&tag=iamcartigo-20"
+  }
+ ]
 }

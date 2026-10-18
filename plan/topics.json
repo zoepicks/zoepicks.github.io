@@ -209,7 +209,8 @@
   "category": "gaming",
   "high_ticket": false,
   "status": "todo",
-  "priority": 97
+  "priority": 97,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Prebuilt Gaming PCs (2026)",
@@ -290,7 +291,8 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 84
+  "priority": 84,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Toaster Ovens That Replace the Big Oven (2026)",
@@ -298,14 +300,15 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 85
+  "priority": 85,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Stand Mixers for Holiday Baking (2026)",
   "slug": "best-stand-mixers-2026",
   "category": "home_kitchen",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 86
  },
  {
@@ -344,7 +347,8 @@
   "category": "smart_home",
   "high_ticket": true,
   "status": "todo",
-  "priority": 100
+  "priority": 100,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Soundbars That Fix Weak TV Sound (2026)",
@@ -368,14 +372,15 @@
   "category": "smart_home",
   "high_ticket": false,
   "status": "todo",
-  "priority": 103
+  "priority": 103,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Smart Thermostats That Cut Energy Bills (2026)",
   "slug": "best-smart-thermostats-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 104
  },
  {
@@ -384,14 +389,15 @@
   "category": "smart_home",
   "high_ticket": false,
   "status": "todo",
-  "priority": 105
+  "priority": 105,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Streaming Sticks & Boxes for Any TV (2026)",
   "slug": "best-streaming-devices-2026",
   "category": "smart_home",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 106
  },
  {
@@ -400,7 +406,8 @@
   "category": "smart_home",
   "high_ticket": false,
   "status": "todo",
-  "priority": 107
+  "priority": 107,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Earbuds: AirPods Pro 3 & Rivals (2026)",
@@ -423,7 +430,7 @@
   "slug": "best-bluetooth-speakers-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 89
  },
  {
@@ -432,14 +439,15 @@
   "category": "accessories",
   "high_ticket": false,
   "status": "todo",
-  "priority": 90
+  "priority": 90,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Smartwatches for iPhone & Android (2026)",
   "slug": "best-smartwatches-2026",
   "category": "mobiles",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 91
  },
  {
@@ -447,7 +455,7 @@
   "slug": "best-action-cameras-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 92,
   "parent": "best-cameras-for-beginners-2026",
   "tab": "action",
@@ -459,7 +467,8 @@
   "category": "accessories",
   "high_ticket": false,
   "status": "todo",
-  "priority": 93
+  "priority": 93,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Projectors for Movie Nights & Gaming (2026)",
@@ -467,7 +476,8 @@
   "category": "smart_home",
   "high_ticket": true,
   "status": "todo",
-  "priority": 94
+  "priority": 94,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top E-Readers & Kindles for Book Lovers (2026)",
@@ -492,7 +502,8 @@
   "category": "furniture_decor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 108
+  "priority": 108,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Standing Desks That Don't Wobble (2026)",
@@ -500,7 +511,8 @@
   "category": "furniture_decor",
   "high_ticket": true,
   "status": "todo",
-  "priority": 109
+  "priority": 109,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Monitors for Working From Home (2026)",
@@ -1453,7 +1465,8 @@
   "parent": "best-wireless-earbuds-2026",
   "tab": "under-100",
   "tab_label": "Under $100",
-  "tab_max": 100
+  "tab_max": 100,
+  "last_try": "Oct 18, 2026"
  },
  {
   "title": "Top Smartphones of 2026: Our Overall Picks",

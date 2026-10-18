@@ -2,9 +2,90 @@
  "slug": "best-bluetooth-speakers-2026",
  "title": "Top Portable Bluetooth Speakers (2026)",
  "category": "electronics",
- "draft": true,
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on speaker reviews, and specs will be for the configuration the reviewers tested.",
- "date": "Oct 15, 2026",
- "products": []
+ "date": "Oct 18, 2026",
+ "summary": "The top portable Bluetooth speakers of 2026 combine rugged durability, powerful sound, and smart connectivity, with Bose, Anker, Creative, Beats, and Marshall offering the best options for every use case.",
+ "method": "I selected products that appear in at least two of the provided sources, prioritizing those highlighted as best overall, best value, or best sound. The sites used were TechRadar, Tom’s Guide, PCMag, CNET, and RTINGS.",
+ "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null. Deal notes are taken directly from any discount or limited‑time offer mentioned in the excerpts.",
+ "products": [
+  {
+   "name": "Bose SoundLink Max",
+   "short": "SoundLink Max",
+   "badge": "Best Overall",
+   "why": [
+    "The Bose SoundLink Max is described as a monster of a Bluetooth speaker, loud enough for the largest outdoor gatherings and featuring 20 hours of battery life.",
+    "It is rugged, water‑resistant, and delivers epic sound with plenty of bass, making it the go‑to choice for backyard parties."
+   ],
+   "specs": [
+    "20 hours battery life",
+    "Waterproof",
+    "Rugged design"
+   ],
+   "pros": [
+    "Very loud and powerful",
+    "Excellent bass",
+    "Durable"
+   ],
+   "cons": [
+    "Not the cheapest",
+    "No built‑in microphone"
+   ],
+   "best_for": "Outdoor parties and large gatherings",
+   "skip_if": "You need a budget speaker",
+   "link": "https://www.amazon.com/s?k=Bose+SoundLink+Max&tag=iamcartigo-20"
+  },
+  {
+   "name": "Bose SoundLink Plus",
+   "short": "SoundLink Plus",
+   "badge": "Best Value",
+   "why": [
+    "The Bose SoundLink Plus offers a sleek design with an integrated rope loop and IP67 waterproof, dustproof, and shock‑resistant construction.",
+    "It delivers impressive sound for its size with robust bass and good clarity, and includes a USB‑C charge‑out for powering devices."
+   ],
+   "specs": [
+    "IP67 waterproof, dustproof, shock‑resistant",
+    "USB‑C charge‑out",
+    "Integrated rope loop"
+   ],
+   "pros": [
+    "Portable and rugged",
+    "Good sound quality",
+    "USB‑C charging"
+   ],
+   "cons": [
+    "No built‑in microphone",
+    "No auxiliary input"
+   ],
+   "best_for": "Portable use with a need for durability",
+   "skip_if": "You need speakerphone capabilities",
+   "price": "$299 at Bose",
+   "link": "https://www.amazon.com/s?k=Bose+SoundLink+Plus&tag=iamcartigo-20",
+   "price_asof": "Oct 18, 2026"
+  },
+  {
+   "name": "Marshall Bromley 450",
+   "short": "Bromley 450",
+   "badge": "Best Sound",
+   "why": [
+    "The Marshall Bromley 450 is highlighted as the best‑sounding Bluetooth speaker, offering a balanced, even response with accurate frequency coverage.",
+    "It features multi‑device pairing, a locked EQ, and directivity for consistent sound from different angles."
+   ],
+   "specs": [
+    "Multi‑device pairing",
+    "Locked EQ",
+    "Directivity"
+   ],
+   "pros": [
+    "Excellent sound quality",
+    "Balanced response",
+    "Consistent from all angles"
+   ],
+   "cons": [
+    "No battery life mentioned",
+    "No waterproof rating"
+   ],
+   "best_for": "Home listening where sound quality matters",
+   "skip_if": "You need portability or battery life",
+   "link": "https://www.amazon.com/s?k=Marshall+Bromley+450&tag=iamcartigo-20"
+  }
+ ]
 }
