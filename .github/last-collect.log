@@ -1,22 +1,11 @@
-[collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.androidauthority.com/best-usb-c-wall-chargers-3496950
-[collect] browser fetch 271 chars: https://www.androidauthority.com/best-usb-c-wall-chargers-3496950
-[collect] extra sources: +3 readable page(s) -> 4 total (androidauthority.com, techgearlab.com, lygte-info.dk)
-[collect] llm request: 4 sources x 2378 chars, ~2872 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Anker PowerDrive Speed Plus
-[collect] drop (only 1 sources): Anker 735 Nano II 65W 3‑Port USB‑A/USB‑C Power
-[collect] drop (only 1 sources): Aukey CC‑Y48 Dual Car Charger (48W)
-[collect] drop (only 1 sources): Satechi ST‑TCPDCCS (72W)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (tinkervault.com, tomshardware.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1572 chars, ~3131 in + 3400 out tokens (budget 7000)
-[collect] drop (only 1 sources): Aukey CC-Y48 Dual Car Charger
-[collect] drop (only 1 sources): Satechi ST‑TCPDCCS
-[collect] drop (only 1 sources): Anker PowerDrive Speed Plus
-[collect] drop (only 1 sources): Anker 735 Nano II 65W 3‑Port
-[collect] drop (only 1 sources): Anker A2348 20W Dual Port
-[collect] only 0 well-sourced products -> staying draft
+[collect] topic: Best Wireless Mouse (2026)
+[collect] tavily -> 5 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-wireless-mouse
+[collect] browser fetch 9000 chars: https://www.rtings.com/mouse/reviews/best/wireless-gaming
+[collect] 4/5 source pages fetched
+[collect] llm request: 4 sources x 2378 chars, ~3570 in + 3400 out tokens (budget 7000)
+[collect] drop (only 1 sources): Razer Basilisk V3 Pro 35K Wireless Gaming Mouse
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -193,8 +182,9 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blank
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-usb-c-charger-2026 draft
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,521 requested 2,810", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,769 requested 2,861", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,758 requested 2,798", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,635 requested 2,560", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,959 requested 2,760"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 33 guide(s) built, 50 topic(s) tried
+[collect] done: best-wireless-mouse-2026 4 products
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
