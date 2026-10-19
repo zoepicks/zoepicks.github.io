@@ -19,8 +19,8 @@
     "SCA-certified brewer",
     "Copper boiler, no programmable timer",
     "Glass carafe with a hot plate",
-    "Manual shut-off design",
-    "Made to be repaired, with a long warranty"
+    "Made to be repaired, with a long warranty",
+    "Boiler shuts off automatically when the water tank is empty"
    ],
    "pros": [
     "Clean, sweet, even extraction",
@@ -36,10 +36,17 @@
    "best_for": "People who drink drip coffee every day and want the best cup without fuss",
    "skip_if": "You want a timer or a thermal carafe, because you will keep wishing it had them",
    "link": "https://www.amazon.com/s?k=Technivorm+Moccamaster+KBGV+Select&tag=zoepicks00-20",
-   "benefit": "Brews a full pot at the right temperature, so every cup tastes clean and sweet. It is built to be repaired, so it can be the last coffee maker you buy.",
+   "benefit": "If you drink coffee every morning, this can give you consistently good coffee at home without relying on expensive coffee shops. It comes with a 5-year warranty and lifetime repairs (a small fee applies after year five), so it may save you from replacing a cheaper machine every few years. The upfront price is high, and the repair promise is what makes it easier to justify.",
    "asin": "B093DYPBYR",
    "image": "https://m.media-amazon.com/images/I/713zbtG35lL.jpg",
-   "image_asin": "B093DYPBYR"
+   "image_asin": "B093DYPBYR",
+   "amazon_price": "$365.96",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Technivorm Moccamaster 53941 KBGV Select 10-Cup Coffee Maker, Polished Silver, 40 ounce, 1",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 5110,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "Handmade in the Netherlands, with a copper heating element that brews between 196°F and 205°F. It makes a full pot in about 4-6 minutes, uses regular paper filters, and has no timer or app."
   },
   {
    "name": "OXO Brew 9-Cup Coffee Maker",
@@ -68,10 +75,14 @@
    "best_for": "A small household that wants café-quality drip without paying Moccamaster money",
    "skip_if": "You regularly brew more than 9 cups, since you will end up making two pots",
    "link": "https://www.amazon.com/s?k=OXO+Brew+9-Cup+Coffee+Maker&tag=zoepicks00-20",
-   "benefit": "Café-quality drip every morning, with a timer and a thermal carafe that keeps coffee hot for hours, for far less than a premium machine.",
+   "benefit": "Set the timer at night and wake up to a hot, fresh pot that stays hot for hours without the burnt taste of a hot plate. You get certified brew quality for noticeably less than a Moccamaster. One honest catch: some owners report drips when pouring, so pour slowly.",
    "asin": "B00YEYKK8U",
    "image": "https://m.media-amazon.com/images/I/71dxDL0TaIL.jpg",
-   "image_asin": "B00YEYKK8U"
+   "image_asin": "B00YEYKK8U",
+   "amazon_rating": "3.9",
+   "amazon_reviews": 3647,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "SCA-certified drip brewer with a double-wall thermal carafe, a programmable wake-up timer and a Rainmaker showerhead. It brews 2 to 9 cups."
   },
   {
    "name": "Breville Precision Brewer Thermal",
@@ -101,7 +112,11 @@
    "best_for": "Home brewers who change beans often and want to dial in the cup",
    "skip_if": "You just want to press one button and pour",
    "link": "https://www.amazon.com/s?k=Breville+Precision+Brewer+Thermal&tag=zoepicks00-20",
-   "benefit": "Tune the temperature and bloom to each bag of beans, so a good bag tastes like a great one."
+   "benefit": "If you try different beans and like getting the best from each bag, you can tune the temperature and bloom instead of living with one fixed recipe. If you only want one button, you will pay for settings you never use.",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false,
+   "desc": "Drip brewer with adjustable brew temperature, adjustable bloom time, a pour-over mode and a thermal carafe."
   },
   {
    "name": "Cuisinart PerfecTemp 14-Cup Programmable Coffee Maker (DCC-3200)",
@@ -129,10 +144,17 @@
    "best_for": "Big households that want a reliable timer-based machine",
    "skip_if": "You drink one or two cups at a time, since a big pot will go stale before you finish it",
    "link": "https://www.amazon.com/s?k=Cuisinart+PerfecTemp+14-Cup+Programmable+Coffee+Maker+%28DCC-3200%29&tag=zoepicks00-20",
-   "benefit": "Wake up to a fresh 14-cup pot every morning, from a machine Consumer Reports lists among its top performers.",
+   "benefit": "For a big household or office, set the timer tonight and wake up to a full pot at a fair price. Over 44,000 Amazon buyers rate it 4.4, a good sign of reliability at this price.",
    "asin": "B00MVWGQX0",
    "image": "https://m.media-amazon.com/images/I/71io+Gh4ApL.jpg",
-   "image_asin": "B00MVWGQX0"
+   "image_asin": "B00MVWGQX0",
+   "amazon_price": "$99.99",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Cuisinart Coffee Maker, Programmable, 14-Cup Glass Carafe, DCC-3200 | Stainless steel Perf",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 44395,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "14-cup programmable brewer with a glass carafe, adjustable keep-warm and brew-strength control."
   },
   {
    "name": "OXO Brew 8‑Cup Coffee Maker",
@@ -155,18 +177,25 @@
    ],
    "cons": [
     "Filter basket could be easier to fill",
-    "Plastic body and thinner glass than pricier machines"
+    "Plastic body feels lighter than premium machines"
    ],
    "best_for": "Busy mornings and small kitchens",
    "skip_if": "You need a larger capacity or programmable features",
    "link": "https://www.amazon.com/s?k=OXO+Brew+8%E2%80%91Cup+Coffee+Maker&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
-   "benefit": "Fresh coffee on busy mornings without giving up counter space, in a thermal carafe that does not drip.",
+   "benefit": "If you mostly make one or two mugs, or fill a travel mug before work, it brews certified-quality coffee in a small body that fits a tight kitchen, and its drip-free valve lets you pour a cup before the brew finishes. You start it by hand because there is no timer, and a few owners say the carafe does not stay as hot as they expected.",
    "asin": "B07H9G93WK",
    "image": "https://m.media-amazon.com/images/I/717dHUDucUL.jpg",
-   "image_asin": "B07H9G93WK"
+   "image_asin": "B07H9G93WK",
+   "amazon_price": "$219.95",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "OXO Brew 8-Cup Coffee Maker - Single-Serve, Thermal Carafe, Stainless Steel | SCA Certifie",
+   "amazon_rating": "4",
+   "amazon_reviews": 4842,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "SCA-certified brewer that makes a single mug straight into a travel mug, or up to 8 cups (OXO counts a cup as 5 oz) into a vacuum-insulated thermal carafe. It is compact enough to fit under most cabinets and has no timer."
   },
   {
    "name": "Ninja 12‑Cup Programmable Coffee Brewer",
@@ -194,13 +223,14 @@
    "best_for": "Those who want a quick, programmable brew",
    "skip_if": "You need a premium build or advanced customization",
    "link": "https://www.amazon.com/s?k=Ninja+12%E2%80%91Cup+Programmable+Coffee+Brewer&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
-   "benefit": "A programmable 12-cup brewer with a cleaning cycle at an easy price, so you get a dependable daily pot without overspending.",
-   "asin": "B07ZTYZTJ5",
+   "benefit": "If you want a dependable daily pot without paying for features you will not use, it covers the basics at an easy price. It is a budget machine, so think of it as a good starter, not a forever buy.",
+   "asin": "B07S98411N",
    "image": "https://m.media-amazon.com/images/I/41WxwAcW6ZL.jpg",
-   "image_asin": "B07ZTYZTJ5"
+   "image_asin": "B07S98411N",
+   "desc": "12-cup programmable brewer with a cleaning cycle."
   },
   {
    "name": "OXO Brew Cold Brew Coffee Maker",
@@ -234,12 +264,13 @@
    "image": "https://m.media-amazon.com/images/I/71n1eH8llzL.jpg",
    "image_asin": "B00JVSVM36",
    "amazon_price": "$49.99",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "OXO Brew Cold Brew Coffee Maker | OXO Good Grips Cold Brew Coffee Maker 32 oz, Iced Coffee",
    "amazon_rating": "4.5",
    "amazon_reviews": 3435,
-   "amazon_rating_asof": "Oct 18, 2026",
-   "benefit": "Make smooth cold brew concentrate that keeps for up to two weeks, instead of paying café prices for iced coffee."
+   "amazon_rating_asof": "Oct 19, 2026",
+   "benefit": "If you buy iced coffee often, one batch of concentrate gives you cold brew at home for the next two weeks. It is cold brew only, so it will not replace a hot drip machine.",
+   "desc": "32 oz glass carafe with a Rainmaker showerhead that makes cold brew concentrate, which keeps for up to two weeks."
   }
  ],
  "intro": [

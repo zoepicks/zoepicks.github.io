@@ -32,7 +32,10 @@
    "badge": "Best Overall",
    "asin": "B0F28NWHQ8",
    "image": "https://m.media-amazon.com/images/I/71g-ymAHSPL.jpg",
-   "image_asin": "B0H7B4YZ5G"
+   "image_asin": "B0H7B4YZ5G",
+   "desc": "A 16-inch Windows laptop with a 2880×1800 OLED screen, an Intel Core Ultra 7 256V chip, 16GB of RAM and a 1TB SSD. It weighs 3.37 lb, which is light for a screen this size.",
+   "benefit": "If you want a big, sharp screen for notes, papers and video without carrying a heavy bag, this gives you a 16-inch OLED at 3.37 lb. PCWorld measured about 17.5 hours of battery, enough for a full day of classes. The catch is that the AI features feel underdeveloped and a few keyboard keys are cramped.",
+   "skip_if": "You want a laptop mainly for its AI features, because they feel underdeveloped"
   },
   {
    "name": "Apple MacBook Neo",
@@ -63,11 +66,14 @@
    "image": "https://m.media-amazon.com/images/I/61yHzuw8VBL.jpg",
    "image_asin": "B0GR6BVYS5",
    "amazon_price": "$689.99",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligen",
    "amazon_rating": "4.6",
-   "amazon_reviews": 1513,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_reviews": 1514,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 13-inch MacBook with an Apple A18 Pro chip, 8GB of RAM and a 256GB SSD in an aluminum body. It has a 2408×1506 Liquid Retina display and weighs 2.7 lb.",
+   "benefit": "If you want a Mac for everyday coursework, it feels premium for its price class, with a sturdy aluminum build, a good-looking display and about 13 hours of battery. Over 1,500 Amazon buyers rate it 4.6. The catch is 8GB of RAM and 256GB of storage, slower multi-core speed, and Touch ID only on the higher-priced model.",
+   "skip_if": "You edit video or run other heavy multi-core work, because multi-core performance lags"
   },
   {
    "name": "Dell 14S",
@@ -93,9 +99,12 @@
    "link": "https://www.amazon.com/s?k=Dell+14S+laptop+Core+Ultra+7+355&tag=zoepicks00-20",
    "best_for": "Long days away from an outlet.",
    "badge": "Best Battery",
-   "fill_tries": 2,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_tries": 3,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false,
+   "desc": "A 14-inch Windows laptop with a 1920×1200 OLED touchscreen, an Intel Core Ultra 7 355, 16GB of RAM and a 512GB SSD. It weighs 3.28 lb.",
+   "benefit": "If you spend long days on campus away from an outlet, this is the pick: PCWorld measured about 36 hours of offline video playback, the longest battery life it has recorded. You also get a polished build, a colorful and accurate screen and a good selection of ports. The catch is weak 3D graphics, a screen that is not very bright, and so-so performance for the money.",
+   "skip_if": "You play 3D games or work in bright rooms, because graphics are weak and the screen is not very bright"
   },
   {
    "name": "Asus Chromebook Plus CX34",
@@ -125,11 +134,14 @@
    "image": "https://m.media-amazon.com/images/I/61sJCKt5XnL.jpg",
    "image_asin": "B0D7TS3K65",
    "amazon_price": "$429.99",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "Asus Chromebook Plus CX34 CX3402CBA-DH388-GR 14\" Chromebook - Full HD - Intel Core i3 12th",
    "amazon_rating": "4.6",
    "amazon_reviews": 12,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 14-inch ChromeOS laptop with a 1080p touchscreen, 8GB of RAM and 128GB of storage. PCWorld tested it with a Core i5-1335U. It weighs 3.17 lb and has a 1080p webcam.",
+   "benefit": "If your coursework lives in a browser and Google apps, this is a snappy laptop with a nice keyboard, plenty of ports and a 1080p webcam for video calls. The catch is that it runs ChromeOS only, so Windows or Mac programs will not install, and its battery life of about 13 hours is not class-leading. Amazon listings vary, so check the exact processor before you buy.",
+   "skip_if": "Your classes need Windows or Mac-only software, because it runs ChromeOS only"
   },
   {
    "name": "Microsoft Surface Pro",
@@ -164,8 +176,58 @@
    "amazon_listing": "Microsoft Surface Pro 2-in-1 Laptop/Tablet (2025), Windows 11 Copilot+ PC, 12\" Touchscreen",
    "amazon_rating": "4.2",
    "amazon_reviews": 127,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 12-inch Windows 2-in-1 with a Snapdragon X Plus chip, a 2196×1464 screen and 16GB of RAM. PCWorld reviewed the 512GB SSD version. It weighs 1.51 lb and has all Copilot+ PC features.",
+   "benefit": "If you take notes on the go and want something you can carry everywhere, at 1.51 lb it is the lightest pick here, with good office performance and up to about 19 hours of battery in light use. The catch is a narrow screen, no HDR, a charger that is not included, and only about 2 hours of battery at full brightness under heavy use.",
+   "skip_if": "You work for hours at full brightness or want a wide screen, because battery drops to about 2 hours under heavy use"
   }
  ],
- "date": "Oct 15, 2026"
+ "date": "Oct 15, 2026",
+ "intro": [
+  "A laptop's battery claim and its real battery life can be very far apart. In PCWorld's tests the Dell 14S ran about 36 hours of offline video, while the Surface Pro falls to about 2 hours at full brightness under heavy use. Knowing how you will use it matters more than any number on the box.",
+  "Black Friday is Nov 27, so it is worth watching prices. They change often, so check the current price on Amazon before you buy."
+ ],
+ "tips": {
+  "title": "4 mistakes students make when buying a laptop",
+  "items": [
+   [
+    "Trusting the battery number on the box.",
+    "Battery figures here come from PCWorld's tests, and they depend on use. The Surface Pro lasts up to about 19 hours in light use but only about 2 hours at full brightness under heavy use."
+   ],
+   [
+    "Picking the wrong operating system.",
+    "Check your course software first. A Chromebook runs ChromeOS only, so Windows or Mac programs will not install."
+   ],
+   [
+    "Ignoring the exact configuration.",
+    "Specs here are for the version PCWorld tested. Amazon listings can differ in processor, RAM and storage, so check the listing before you buy."
+   ],
+   [
+    "Expecting a budget Mac to do everything.",
+    "The MacBook Neo suits everyday coursework, but its multi-core performance lags, so heavy video or similar work will feel slower."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best laptop for most college students?",
+   "The Acer Swift 16 AI is our Best Overall pick. It has a 16-inch OLED screen at 3.37 lb and lasted about 17.5 hours in PCWorld's test."
+  ],
+  [
+   "Which laptop has the longest battery life?",
+   "The Dell 14S. PCWorld measured about 36 hours of offline video playback, the longest it has recorded."
+  ],
+  [
+   "Is a Chromebook enough for college?",
+   "If your coursework is on the web and in Google apps, yes. The Asus Chromebook Plus CX34 is our Best Chromebook. Skip it if a class needs Windows or Mac software, because it runs ChromeOS only."
+  ],
+  [
+   "Is the MacBook Neo good for students?",
+   "For everyday coursework, yes. It has a sturdy build, a good display and about 13 hours of battery. Skip it for heavy multi-core work, where performance lags."
+  ],
+  [
+   "Which is the lightest pick?",
+   "The Microsoft Surface Pro at 1.51 lb. The trade-offs are a narrow screen, no HDR, and a charger that is not included."
+  ]
+ ]
 }

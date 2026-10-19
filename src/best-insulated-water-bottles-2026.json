@@ -40,7 +40,10 @@
    "link": "https://www.amazon.com/s?k=Hydro+Flask+Insulated+Water+Bottle&tag=zoepicks00-20",
    "asin": "B07YXM6XTF",
    "image": "https://m.media-amazon.com/images/I/71vx3EAtSLL.jpg",
-   "image_asin": "B07YXM6XTF"
+   "image_asin": "B07YXM6XTF",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 31017,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Stanley Quencher H2.0",
@@ -71,7 +74,10 @@
    "link": "https://www.amazon.com/s?k=Stanley+Quencher+H2.0&tag=zoepicks00-20",
    "asin": "B0CJZW65R3",
    "image": "https://m.media-amazon.com/images/I/41fVlf8ZJyL.jpg",
-   "image_asin": "B0CJZW65R3"
+   "image_asin": "B0CJZW65R3",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 206822,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Klean Kanteen TKWide Recycled Insulated Water Bottle",
@@ -100,7 +106,10 @@
    ],
    "best_for": "Eco‑conscious consumers who need a small, insulated bottle for daily hydration.",
    "skip_if": "You need a larger capacity or a wide mouth design.",
-   "link": "https://www.amazon.com/s?k=Klean+Kanteen+TKWide+Recycled+Insulated+Water+Bottle&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Klean+Kanteen+TKWide+Recycled+Insulated+Water+Bottle&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   }
  ]
 }

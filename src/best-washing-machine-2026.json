@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Oct 19, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products based on mentions in the supplied sources; only WaveMAX Dallas was found.",
- "assumptions": "No price information was provided in the sources, so price fields are null.",
+ "method": "Selected products that appear in at least two independent sources (Consumer Reports, CNET, Reviewed, Yahoo) and represent a mix of front‑load, top‑load, and washer‑dryer combos.",
+ "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
  "products": [],
  "draft": true
 }

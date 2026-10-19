@@ -30,7 +30,10 @@
    ],
    "best_for": "Users seeking professional‑grade results at home",
    "skip_if": "You have very sensitive skin that reacts badly to mechanical plucking",
-   "link": "https://www.amazon.com/s?k=Braun+Silk-%C3%A9pil+9+Flex+SkinSpa+9-481+3D+Epilator+Wet+%26+Dry&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Braun+Silk-%C3%A9pil+9+Flex+SkinSpa+9-481+3D+Epilator+Wet+%26+Dry&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Philips Epilator Series 8000",
@@ -57,7 +60,13 @@
    "link": "https://www.amazon.com/s?k=Philips+Epilator+Series+8000&tag=zoepicks00-20",
    "asin": "B0GNB94W8G",
    "image": "https://m.media-amazon.com/images/I/71Q4V+cEwyL.jpg",
-   "image_asin": "B0GNB94W8G"
+   "image_asin": "B0GNB94W8G",
+   "amazon_price": "$79.95",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Philips Epilator Series 8000 - Cordless Wet and Dry Electric Epilator, Hair Removal for Le",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 3378,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Panasonic Epilator with Gentle Cap",
@@ -82,7 +91,10 @@
    ],
    "best_for": "First‑time epilator users or those with sensitive skin",
    "skip_if": "You require a high‑performance device for large areas",
-   "link": "https://www.amazon.com/s?k=Panasonic+Epilator+with+Gentle+Cap&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Panasonic+Epilator+with+Gentle+Cap&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Braun Silk-épil 9 Flex SkinSpa 9-481 3D Epilator Wet & Dry",
@@ -107,7 +119,10 @@
    ],
    "best_for": "Users who want a single device for multiple body areas",
    "skip_if": "You only need a bikini epilator",
-   "link": "https://www.amazon.com/s?k=Braun+Silk-%C3%A9pil+9+Flex+SkinSpa+9-481+3D+Epilator+Wet+%26+Dry&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Braun+Silk-%C3%A9pil+9+Flex+SkinSpa+9-481+3D+Epilator+Wet+%26+Dry&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   }
  ]
 }

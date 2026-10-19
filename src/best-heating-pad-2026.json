@@ -4,8 +4,8 @@
  "category": "beauty_health",
  "date": "Oct 19, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Reviewed all provided sources for mentions of heating pad products; none were present.",
- "assumptions": "No price or deal information available.",
+ "method": "Selected products that appear in at least two sources (Sunbeam in CNET and TechGearLab, Pure Enrichment in TechGearLab, UTK in EatVeganVybez).",
+ "assumptions": "Prices are only included when a source specifies them; otherwise price is null.",
  "products": [],
  "draft": true
 }

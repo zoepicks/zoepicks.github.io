@@ -1,10 +1,10 @@
 {
  "slug": "best-comforter-sets-2026",
- "title": "Cozy Comforter Sets for Winter (2026)",
+ "title": "Best Comforters for Winter (2026)",
  "category": "home_kitchen",
- "date": "Oct 16, 2026",
- "summary": "NCOA's tested picks, cross-checked against Mattress Clarity, the NY Post and NBC Select, put the Brooklinen Down for warmth, Layla All-Season for allergies, Saatva Down Alternative for a plush synthetic feel and Cozy Earth Bamboo for a light luxury option.",
- "method": "Picks come from NCOA (tested a dozen comforters, updated Sep 9, 2026) and are kept only where at least one more outlet also names them: Mattress Clarity, the NY Post and NBC Select. Silk & Snow, NCOA's top overall pick, was left out because we could not confirm it in a second source.",
+ "date": "Oct 19, 2026",
+ "summary": "A comforter that is too hot wakes you at 2 a.m., and one that is too thin leaves you cold all winter. We narrowed it to 4 comforters that NCOA's testers and other trusted outlets recommend, covering real down, allergy-friendly down alternatives and a light bamboo luxury pick. Pick wrong and you will be paying to sleep badly for the whole season.",
+ "method": "Picks come from NCOA's test of a dozen comforters (updated Sep 9, 2026) and are kept only where at least one more outlet also names them: Mattress Clarity, the NY Post and NBC Select. Silk & Snow, NCOA's top overall pick, was left out because we could not confirm it in a second source.",
  "assumptions": "Prices are NCOA's listed queen-size prices (all-season weight where there are options) before discounts, and change often. These are comforters and inserts, not full bedding sets, so sheets and a duvet cover are sold separately.",
  "products": [
   {
@@ -32,7 +32,7 @@
     "$10 return fee"
    ],
    "best_for": "Cold sleepers who want real down and a very long trial",
-   "skip_if": "You have feather allergies or want to wash it at home",
+   "skip_if": "you have feather allergies, want to wash it at home, or want the lightweight or all-season version for a very cold room",
    "price": "$399",
    "price_asof": "Oct 16, 2026",
    "link": "https://www.amazon.com/s?k=Brooklinen+Down+Comforter&tag=zoepicks00-20",
@@ -40,11 +40,13 @@
    "image": "https://m.media-amazon.com/images/I/71pbU9GweGL.jpg",
    "image_asin": "B0GGN9ZNCX",
    "amazon_price": "$299.00",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "Brooklinen Down Comforter Hotel-Quality Warmth, Breathable - Full/Queen | All-season warmt",
    "amazon_rating": "3.9",
    "amazon_reviews": 8,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "Sateen cotton shell filled with ethically sourced Canadian down clusters and feathers, in lightweight, heavyweight and all-season weights. It comes with a 365-night trial and a one-year warranty.",
+   "benefit": "If you are a cold sleeper who wants the lofty, hotel-bed feel of real down without a heavy weight, this gives you warmth that NCOA found lofty but not too heavy. Choose a heavier weight for winter, since the lighter ones hold less heat. The 365-night trial lets you test it through a whole winter before you commit."
   },
   {
    "name": "Layla All-Season Comforter",
@@ -78,12 +80,14 @@
    "asin": "B093JNRF7M",
    "image": "https://m.media-amazon.com/images/I/81PIBCS7KNL.jpg",
    "image_asin": "B093JNRF7M",
-   "amazon_price": "$184.00",
-   "amazon_price_asof": "Oct 18, 2026",
-   "amazon_listing": "Layla All Season Down Alternative Comforter, (Gray, Full/Queen), 300 Thread Count 100% Cot",
+   "amazon_price": "$204.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Layla All Season Down Alternative Comforter, (Gray, King/Cal King), 300 Thread Count 100% ",
    "amazon_rating": "4.3",
-   "amazon_reviews": 13,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_reviews": 45,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "100% cotton shell with ClusterLoft down-alternative fill, in one all-season weight. It is OEKO-TEX certified, machine washable and has a 5-year warranty.",
+   "benefit": "If you wake up too warm or you have allergies, this feels as soft as natural down without feathers and was the best cooling comforter on NCOA's list. You can toss it in the washing machine at home, and the 5-year warranty covers the long run. It is one weight only, so very cold sleepers may want an extra blanket."
   },
   {
    "name": "Saatva Down Alternative Comforter",
@@ -116,7 +120,9 @@
    "link": "https://www.amazon.com/s?k=Saatva+Down+Alternative+Comforter&tag=zoepicks00-20",
    "fill_tries": 4,
    "fill_last": "Oct 16, 2026",
-   "fill_failed": true
+   "fill_failed": true,
+   "desc": "Sateen cotton shell with 100% recycled polyester microfiber fill, in lightweight, heavyweight and all-year weights. It has baffle-box construction, a 45-night trial and a one-year warranty.",
+   "benefit": "If you like a thick, puffy comforter but want to avoid down, the baffle-box design keeps the fill evenly spread so there are no cold spots. It stays cool to the touch and goes in the washing machine and dryer. Think about it carefully if your budget is tight, because it is the pricier down alternative and has a short trial."
   },
   {
    "name": "Cozy Earth Bamboo Viscose Comforter",
@@ -150,7 +156,60 @@
    "link": "https://www.amazon.com/s?k=Cozy+Earth+Bamboo+Viscose+Comforter&tag=zoepicks00-20",
    "fill_tries": 4,
    "fill_last": "Oct 16, 2026",
-   "fill_failed": true
+   "fill_failed": true,
+   "desc": "Shell and fill are both 100% viscose from bamboo, in lightweight and midweight options. It is OEKO-TEX certified with a 100-night trial and a 10-year warranty.",
+   "benefit": "If heavy, bulky bedding is hard for you to lift and make, this is the easiest of NCOA's picks to handle, and it lies nearly flat like a blanket. The 10-year warranty is the longest in this guide. The catch is that it is not machine washable and wrinkles easily, so it suits people who want a sleek look over a fluffy loft."
   }
+ ],
+ "intro": [
+  "The right comforter is about warmth that matches how you sleep. Mattress Clarity notes that the lightweight and all-season Brooklinen models do not hold much warmth, so for a cold winter bedroom you want a heavier weight, not just the best-known name.",
+  "Black Friday is Nov 27, and bedding like this is often marked down around then. We re-check Amazon prices every day, so the price on each card is the current one when you read this."
+ ],
+ "tips": {
+  "title": "5 mistakes that ruin a good night under a comforter",
+  "items": [
+   [
+    "Buying the wrong warmth for your room.",
+    "Pick the weight for your bedroom temperature and how you sleep. Hot sleepers should look at all-season or lightweight, and cold sleepers at heavyweight."
+   ],
+   [
+    "Ignoring allergies.",
+    "Down and feathers can trigger allergies. A down alternative, like the Layla or Saatva, is the safer choice."
+   ],
+   [
+    "Forgetting how you will wash it.",
+    "Brooklinen's down only fits commercial washers, and Cozy Earth's bamboo is not machine washable. Layla and Saatva can go in a home machine."
+   ],
+   [
+    "Skipping the trial period.",
+    "Trials range from 30 nights (Layla) to 365 nights (Brooklinen). A long trial lets you test a comforter through changing seasons."
+   ],
+   [
+    "Expecting a full bedding set.",
+    "These are comforters and inserts. Sheets and a duvet cover are sold separately."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best comforter for most people?",
+   "The Layla All-Season. It earned NCOA's top overall score, feels like natural down, cools well and is machine washable."
+  ],
+  [
+   "Which comforter is best for cold sleepers?",
+   "The Brooklinen Down, in a heavier weight. Mattress Clarity says the lightweight and all-season versions do not retain much warmth."
+  ],
+  [
+   "Is down or down alternative better?",
+   "Down gives the lofty, classic feel but can trigger allergies. A down alternative like the Saatva or Layla is allergy-friendly and easier to wash."
+  ],
+  [
+   "Which comforter is easiest to lift and move?",
+   "The Cozy Earth Bamboo. NCOA found it the easiest of its picks to handle for people with limited mobility."
+  ],
+  [
+   "Can I machine-wash these?",
+   "The Layla and Saatva can be machine-washed. The Brooklinen needs a commercial machine and the Cozy Earth is not machine washable."
+  ]
  ]
 }

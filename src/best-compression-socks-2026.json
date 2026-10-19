@@ -32,8 +32,8 @@
    "best_for": "People who spend long hours on their feet or traveling",
    "skip_if": "You need medical‑grade compression above 20 mmHg",
    "link": "https://www.amazon.com/s?k=Bombas+Everyday+Compression+Socks&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 18, 2026",
+   "fill_tries": 2,
+   "fill_last": "Oct 19, 2026",
    "fill_failed": false
   },
   {
@@ -61,12 +61,18 @@
    "best_for": "Runners and marathon trainees",
    "skip_if": "You need medical‑grade compression",
    "link": "https://www.amazon.com/s?k=Physix+Gear+Compression+Socks&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B08P61K3BY",
    "image": "https://m.media-amazon.com/images/I/61K+KjL9+DL.jpg",
-   "image_asin": "B08P61K3BY"
+   "image_asin": "B08P61K3BY",
+   "amazon_price": "$19.20",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Physix Gear Compression Socks 20-30 mmHg - Men & Women - Running, Nurses, Shin Splints, Fl",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 95063,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "SockWell In Flight Moderate Graduated Compression Socks",
@@ -93,8 +99,8 @@
    "best_for": "Air travelers and people on long drives",
    "skip_if": "You need high‑grade medical compression",
    "link": "https://www.amazon.com/s?k=SockWell+In+Flight+Moderate+Graduated+Compression+Socks&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 18, 2026",
+   "fill_tries": 2,
+   "fill_last": "Oct 19, 2026",
    "fill_failed": false
   }
  ]

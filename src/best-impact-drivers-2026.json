@@ -37,9 +37,9 @@
    "price": "$385 at Retailer",
    "link": "https://www.amazon.com/s?k=Festool+TID+18+HPC+4%2C0+I-Plus+Impact+Driver&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
-   "fill_tries": 3,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": true
   },
   {
    "name": "Cat DX71 Impact Driver",
@@ -71,9 +71,9 @@
    "price": "$187 at Retailer",
    "link": "https://www.amazon.com/s?k=Cat+DX71+Impact+Driver&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
-   "fill_tries": 3,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": true
   },
   {
    "name": "Flex FX1351-2A Impact Driver",
@@ -105,12 +105,15 @@
    "price": "$167 at Retailer",
    "link": "https://www.amazon.com/s?k=Flex+FX1351-2A+Impact+Driver&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
-   "fill_tries": 3,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B0FT3B7KM5",
    "image": "https://m.media-amazon.com/images/I/31IGl8VVH2L.jpg",
-   "image_asin": "B0FT3B7KM5"
+   "image_asin": "B0FT3B7KM5",
+   "amazon_price": "$418.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Bundle of FLEX 24V Brushless Cordless 1/4-Inch Hex Impact Driver Kit (FX1351-2A) + 24V Bru"
   }
  ]
 }

@@ -38,12 +38,18 @@
    "skip_if": "You’re on a tight budget or prefer non‑stainless steel options",
    "link": "https://www.amazon.com/s?k=All%E2%80%91Clad+D3+Stainless+Steel+10%E2%80%91Piece+Cookware+Set&tag=zoepicks00-20",
    "benefit": "Even heat and a build that lasts for decades, so you buy cookware once and stop replacing pans.",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B005H8KD3E",
    "image": "https://m.media-amazon.com/images/I/71ytI8SoGDL.jpg",
-   "image_asin": "B005H8KD3E"
+   "image_asin": "B005H8KD3E",
+   "amazon_price": "$799.95",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "All-Clad D3® Stainless Steel Cookware Set, 10-Piece, Made in the USA | The Original Bonded",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 1847,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Tramontina Signature Tri-Ply Clad 12-Piece Cookware Set",
@@ -71,7 +77,10 @@
    "best_for": "Home cooks who want near-premium stainless without the premium price",
    "skip_if": "You want a USA-made or heirloom set",
    "link": "https://www.amazon.com/s?k=Tramontina+Signature+Tri-Ply+Clad+12-Piece+Cookware+Set&tag=zoepicks00-20",
-   "benefit": "Near-premium tri-ply cooking for much less, with 12 pieces so your kitchen is covered from day one."
+   "benefit": "Near-premium tri-ply cooking for much less, with 12 pieces so your kitchen is covered from day one.",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Cuisinart MultiClad Pro 12-Piece Stainless Steel Cookware Set (MCP-12N)",
@@ -135,8 +144,8 @@
    "link": "https://www.amazon.com/s?k=GreenPan+Valencia+Pro+Ceramic+Non%E2%80%91Stick+11%E2%80%91Piece+Cookware+Set&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
    "benefit": "Eggs, fish and pancakes slide out and cleanup takes seconds, with a ceramic coating the maker says is free of PFAS.",
-   "fill_tries": 1,
-   "fill_last": "Oct 18, 2026",
+   "fill_tries": 2,
+   "fill_last": "Oct 19, 2026",
    "fill_failed": false
   },
   {
@@ -167,12 +176,15 @@
    "skip_if": "You want the best value, since the sets above cook nearly as well for much less",
    "link": "https://www.amazon.com/s?k=Hestan+NanoBond+Stainless+Steel+10%E2%80%91Piece+Cookware+Set&tag=zoepicks00-20",
    "benefit": "A top-tier set with a scratch- and stain-resistant surface for cooks who want the best and will pay for it.",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B08KZ7MJXK",
    "image": "https://m.media-amazon.com/images/I/41Y8ZVR9sYL.jpg",
-   "image_asin": "B08KZ7MJXK"
+   "image_asin": "B08KZ7MJXK",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 4,
+   "amazon_rating_asof": "Oct 19, 2026"
   }
  ],
  "intro": [

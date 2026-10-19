@@ -216,6 +216,7 @@ def deal_rows(d):
             soon_shown = True; out += '<p class="dr-soon">Amazon links for the picks below are being added</p>'
         out += (f'<article class="dr{" off" if not is_ready(p) else ""}" id="p{i+1}" data-tabs="{e(" ".join(tab_keys(d, p)))}" style="--c:{c}"><div class="dr-t"><div class="dr-im"><span class="dr-ph">{EMOJI.get(d["category"], "🛒")}</span>{img}{off}</div>'
                 f'<div class="dr-b">{tag}<h3>{e(p["name"])}</h3>{rating_block(p)}{price}{btn}</div></div>'
+                + (f'<p class="dr-desc">{e(p["desc"])}</p>' if p.get("desc") else "")
                 + (f'<p class="dr-why"><b>Why buy it:</b> {e(p["benefit"])}</p>' if p.get("benefit") else "")
                 + (f'<details class="dr-d"><summary>Pros, cons &amp; who should skip it</summary>{det}</details>' if det else "") + "</article>")
     bar = tabs_bar(d, items)

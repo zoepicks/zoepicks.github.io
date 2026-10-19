@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Oct 19, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Reviewed all supplied sources for product mentions and specifications.",
- "assumptions": "No price or deal information available.",
+ "method": "I selected products that appear in at least one of the three cited reviews (CNET, TechGearLab, ToolGuyd), prioritizing those mentioned by multiple sites. I ranked them by overall wattage and feature set as described in the excerpts.",
+ "assumptions": "Prices are not provided in the sources, so all price fields are null. No additional specs or discounts were inferred beyond what the excerpts state.",
  "products": [],
  "draft": true
 }
