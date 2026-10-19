@@ -1,7 +1,3 @@
-[collect] only 0 well-sourced products -> staying draft
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/oled/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-adjustable-dumbbells-2026/index.html
@@ -74,9 +70,11 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-heating-pad-20
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hiking-backpacks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-home-gym-equipment-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hoodies-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hot-tub-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-humidifiers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-impact-drivers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-insulated-water-bottles-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-camera-lens-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-2026/index.html
@@ -196,7 +194,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbu
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-usb-c-charger-2026 draft
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'ITNE'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,707 requested 4,300", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 196,598 requested 3,414"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 4 guide(s) built, 5 topic(s) tried
+[collect] done: best-hot-tub-2026 draft
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,482 requested 2,473", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,739 requested 1,412"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried
