@@ -32,7 +32,10 @@
    ],
    "best_for": "Competitive gamers who need the fastest refresh rates and highest resolution",
    "skip_if": "You’re on a tight budget or use the monitor for static work only",
-   "link": "https://www.amazon.com/s?k=Dell+Alienware+AW3225QF&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Dell+Alienware+AW3225QF&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Samsung Odyssey OLED G9",
@@ -62,7 +65,13 @@
    "link": "https://www.amazon.com/s?k=Samsung+Odyssey+OLED+G9&tag=zoepicks00-20",
    "asin": "B0DSGJRKCR",
    "image": "https://m.media-amazon.com/images/I/71s2+AY8C-L.jpg",
-   "image_asin": "B0DSGJRKCR"
+   "image_asin": "B0DSGJRKCR",
+   "amazon_price": "$1,199.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Samsung 49\" Odyssey OLED G9 (G91SD) Dual QHD QD-OLED Curved Gaming Monitor | 144Hz, 0.03ms",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 244,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Gigabyte FO32U2 Pro",
@@ -89,7 +98,10 @@
    ],
    "best_for": "Users who want a large OLED screen for gaming and content creation",
    "skip_if": "You need a smaller monitor or are budget‑conscious",
-   "link": "https://www.amazon.com/s?k=Gigabyte+FO32U2+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Gigabyte+FO32U2+Pro&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   }
  ]
 }
