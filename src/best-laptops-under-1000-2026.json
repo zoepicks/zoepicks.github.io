@@ -5,7 +5,7 @@
  "summary": "5 tested laptops you can find for under $1,000: a Mac, a Windows all-rounder, a gaming laptop, a Chromebook and a cheap Copilot+ PC.",
  "method": "Picks come from PCWorld's hands-on laptop testing (updated Oct 2026), plus the Lenovo IdeaPad Slim 3x from the 2026 reviews we summarize in our Black Friday guide. Specs and battery figures are for the configuration PCWorld tested; Amazon listings can differ, so check the exact configuration before buying. We don't show prices because they change daily, and some of these only dip under $1,000 at certain stores or during sales.",
  "assumptions": "\"under $1,000\" is based on the lowest prices reported in Oct 2026; list prices and some retailers (including Amazon at times) can be higher.",
- "date": "Oct 18, 2026",
+ "date": "Oct 19, 2026",
  "products": [
   {
    "name": "Apple MacBook Neo",
@@ -418,6 +418,10 @@
    "key": "under-600",
    "label": "Under $600",
    "max": 600
+  },
+  {
+   "key": "small",
+   "label": "Small"
   }
  ],
  "intro": [
