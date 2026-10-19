@@ -39,12 +39,12 @@
    "asin": "B0F1YPNX2Y",
    "image": "https://m.media-amazon.com/images/I/71LRSq3IuqL.jpg",
    "image_asin": "B0F1YPNX2Y",
-   "amazon_price": "$799.99",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price": "$809.69",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "Dell UltraSharp DELL-U3225QE",
    "amazon_rating": "4.6",
    "amazon_reviews": 125,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Acer Vero B247Y G",
@@ -76,7 +76,10 @@
    "link": "https://www.amazon.com/s?k=Acer+Vero+B247Y+G+monitor&tag=zoepicks00-20",
    "asin": "B0F3BTRK3L",
    "image": "https://m.media-amazon.com/images/I/416K0-H+gWL.jpg",
-   "image_asin": "B0F3BTRK3L"
+   "image_asin": "B0F3BTRK3L",
+   "amazon_rating": "5",
+   "amazon_reviews": 1,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Asus ProArt PA278CFRV",
@@ -106,12 +109,15 @@
    "best_for": "Home office workers who also edit photos or design",
    "skip_if": "You want the best contrast or true HDR",
    "link": "https://www.amazon.com/s?k=Asus+ProArt+PA278CFRV+monitor&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B0F9LR2X7X",
    "image": "https://m.media-amazon.com/images/I/91oYqwORIRL.jpg",
-   "image_asin": "B0F9LR2X7X"
+   "image_asin": "B0F9LR2X7X",
+   "amazon_price": "$239.99",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "ASUS ProArt Display 27” 1440P Professional Monitor (PA278CFRV) - IPS, QHD (2560 x 1440), P"
   },
   {
    "name": "Asus ProArt PA279CRV",
@@ -143,12 +149,12 @@
    "asin": "B0BQPSX5CR",
    "image": "https://m.media-amazon.com/images/I/91dkLCfM8dL.jpg",
    "image_asin": "B0BQPSX5CR",
-   "amazon_price": "$397.17",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price": "$399.00",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "ASUS ProArt PA279CRV 27 Inch 4K UHD USB-C HDR Professional Monitor for Mac | Calman Verifi",
    "amazon_rating": "4.2",
-   "amazon_reviews": 627,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_reviews": 629,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Asus ProArt Display 5K PA27JCV",
@@ -178,8 +184,8 @@
    "best_for": "Anyone who reads small text all day or edits detailed photos",
    "skip_if": "You want high refresh for gaming",
    "link": "https://www.amazon.com/s?k=Asus+ProArt+Display+5K+PA27JCV+monitor&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 18, 2026",
+   "fill_tries": 2,
+   "fill_last": "Oct 19, 2026",
    "fill_failed": false
   },
   {
@@ -214,11 +220,11 @@
    "image": "https://m.media-amazon.com/images/I/71vKgQdSdhL.jpg",
    "image_asin": "B0D2PDYHD9",
    "amazon_price": "$549.99",
-   "amazon_price_asof": "Oct 18, 2026",
+   "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "BenQ RD280U 28.2” 4K 3840x2560 3:2 Programming Monitor, Eye-Care, Nano Matte Panel, Coding",
    "amazon_rating": "4.5",
    "amazon_reviews": 81,
-   "amazon_rating_asof": "Oct 18, 2026"
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Asus ZenScreen MB249C",
@@ -250,7 +256,13 @@
    "link": "https://www.amazon.com/s?k=Asus+ZenScreen+MB249C+monitor&tag=zoepicks00-20",
    "asin": "B0BQPS9QCT",
    "image": "https://m.media-amazon.com/images/I/71-g8hTewGL.jpg",
-   "image_asin": "B0BQPS9QCT"
+   "image_asin": "B0BQPS9QCT",
+   "amazon_price": "$349.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "ASUS ZenScreen MB249C 24 Inch 1080p USB-C Portable Monitor | USB-C 60W, C-clamp Arm, Speak",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 152,
+   "amazon_rating_asof": "Oct 19, 2026"
   }
  ],
  "tips": {
