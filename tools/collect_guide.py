@@ -26,7 +26,7 @@ ASK_MIN = 4   # the LLM is asked for 4-5 best picks per guide (the 'best 4-5' un
 # Groq free tier = 8000 tokens/min AND per request, counted as prompt + max_tokens. Every call is kept under TOKEN_BUDGET so it can
 # never hit the per-minute cap or answer 413. Tokens are estimated at CHARS_PER_TOKEN (3.0 = deliberately pessimistic; real text is ~4).
 TOKEN_BUDGET = 7000
-MAX_OUT_TOKENS = 3800   # +400: each pick now also carries "desc" + "benefit"
+MAX_OUT_TOKENS = 4000   # each pick carries "desc" + a 3-4 sentence "benefit", the guide carries a "verdict"
 CHARS_PER_TOKEN = 3.0
 DEAL_LINES_MAX, DEAL_CHARS_MAX = 10, 900
 MIN_TEXT = 400  # fetched page text shorter than this = blocked/empty -> retry in a real browser
@@ -322,11 +322,11 @@ def build(topic, pages, texts, deals):
     deal_block = "\n".join(f"- ({d}) {t}" for d, t in deals[:DEAL_LINES_MAX])[:DEAL_CHARS_MAX] or "(none)"
     template = f"""Topic: {topic['title']}
 Pick {ASK_MIN}-{MAX_PRODUCTS} products that the sources below recommend, best first. Prefer products recommended by MORE THAN ONE source.
-Style for "desc" and "benefit": simple English, short sentences, no hype words (best ever, amazing, perfect). Every number, warranty term or rating you write must appear in the sources, otherwise leave it out. Never mention a price in them. "benefit" always names who it suits AND one real drawback.
-Return JSON: {{"summary": "one sentence", "method": "how picks were made, naming the sites used", "assumptions": "price caveats",
+Style for "desc" and "benefit": simple English, short sentences, no hype words (best ever, amazing, perfect). Every number, warranty term or rating you write must appear in the sources, otherwise leave it out. Never mention a price in them. "benefit" always shows who it suits, why it wins against the other picks, AND one real drawback.
+Return JSON: {{"summary": "one sentence", "verdict": {{"pick": "exact name of the single best pick for most buyers", "line": "1-2 sentences: who should buy it and why, from source facts, plus its main catch", "also": [["2-3 word label of what another pick wins at, e.g. Longest battery", "exact product name"]]}}, "method": "how picks were made, naming the sites used", "assumptions": "price caveats",
 "products": [{{"name": "full product name", "short": "short name", "badge": "e.g. Best Overall", "why": ["2 short paragraphs, facts from sources"],
 "desc": "1-2 plain sentences: what the product is and has, using facts from the sources (design, capacity, key features, and what it does NOT have). No opinion, no hype",
-"benefit": "2-3 sentences, the 'Why buy it' line. Start with 'If you ...' (the buyer it suits). Then the real-life gain from source facts (e.g. warranty, timer, saves money or time). End with ONE honest catch taken from the cons or owner complaints in the sources",
+"benefit": "3-4 sentences, the 'Why buy it' line. Start with 'Picture ...' and one short real-life scene of the buyer this pick suits using it. Then the real gain, from source facts. Then why it beats the OTHER picks of this guide, only with comparisons the sources support (e.g. 'the only X here', 'the longest Y in this guide'). End with 'The catch:' and ONE honest drawback taken from the cons or owner complaints in the sources",
 "specs": ["up to 6 specs, exactly as stated"], "pros": ["3-4"], "cons": ["2-4"], "best_for": "who", "skip_if": "when to skip",
 "price": "only if a source states a price, format '$599 (was $699) at Store' or '$599 at Store', else null",
 "deal_note": "ONLY a short sentence taken from the deal lines or sources about a discount / limited-time offer, else null",
@@ -376,6 +376,35 @@ def ground(g, pages, texts):
         if p.get("price"): p["price_asof"] = datetime.date.today().strftime("%b %-d, %Y")
         keep.append(p)
     return keep[:MAX_PRODUCTS]
+
+
+def ground_verdict(v, products, texts):
+    """Guide-level 'Our pick' verdict. The pick and every 'also' name must resolve to a product that survived grounding; a number in the
+    line that no source contains drops the line (pick + chips stay). Returns None when the pick cannot be resolved."""
+    if not isinstance(v, dict): return None
+    names = [p["name"] for p in products]
+    def find(x):
+        x = str(x or "").strip().lower()
+        if not x: return None
+        for n in names:
+            if n.lower() == x: return n
+        hits = [n for n in names if x in n.lower() or n.lower() in x]
+        return hits[0] if len(hits) == 1 else None
+    pick = find(v.get("pick"))
+    if not pick: return None
+    out = {"pick": pick}
+    line, alltxt = str(v.get("line") or "").strip(), " ".join(texts)
+    if line and not any(n.strip(",.") and n.strip(",.") not in alltxt for n in re.findall(r"\d[\d,.]*", line)): out["line"] = line
+    elif line: log("verdict line has a number not in sources, removed")
+    also, seen = [], {pick}
+    for it in (v.get("also") or [])[:4]:
+        try: lab, nm = it
+        except (TypeError, ValueError): continue
+        nm = find(nm)
+        if nm and nm not in seen and str(lab).strip() and len(str(lab).split()) <= 4:
+            seen.add(nm); also.append([str(lab).strip(), nm])
+    if also: out["also"] = also
+    return out
 
 
 # ---------- plan / io ----------
@@ -545,6 +574,8 @@ def run_topic(plan, topic, dry):
     _tabs = json.loads(_old.read_text(encoding="utf-8")).get("tabs") if _old.exists() else None   # keep the tab spec of a draft parent
     out = {"slug": topic["slug"], "title": topic["title"], "category": topic["category"], "date": today,
            "summary": g.get("summary", ""), "method": g.get("method", ""), "assumptions": g.get("assumptions", ""), "products": products}
+    _v = ground_verdict(g.get("verdict"), products, texts)
+    if _v and not topic.get("parent"): out["verdict"] = _v
     if _tabs: out["tabs"] = _tabs
     if any(k in topic["slug"] for k in ("black-friday", "deals")):
         out.update({"countdown_to": "2026-11-27", "countdown_label": "Black Friday in", "expires": "2026-12-01", "live_label": "Black Friday deals are live", "theme": "deal"})
