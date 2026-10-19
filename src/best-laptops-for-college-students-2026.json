@@ -182,5 +182,52 @@
    "skip_if": "You work for hours at full brightness or want a wide screen, because battery drops to about 2 hours under heavy use"
   }
  ],
- "date": "Oct 15, 2026"
+ "date": "Oct 15, 2026",
+ "intro": [
+  "A laptop's battery claim and its real battery life can be very far apart. In PCWorld's tests the Dell 14S ran about 36 hours of offline video, while the Surface Pro falls to about 2 hours at full brightness under heavy use. Knowing how you will use it matters more than any number on the box.",
+  "Black Friday is Nov 27, so it is worth watching prices. They change often, so check the current price on Amazon before you buy."
+ ],
+ "tips": {
+  "title": "4 mistakes students make when buying a laptop",
+  "items": [
+   [
+    "Trusting the battery number on the box.",
+    "Battery figures here come from PCWorld's tests, and they depend on use. The Surface Pro lasts up to about 19 hours in light use but only about 2 hours at full brightness under heavy use."
+   ],
+   [
+    "Picking the wrong operating system.",
+    "Check your course software first. A Chromebook runs ChromeOS only, so Windows or Mac programs will not install."
+   ],
+   [
+    "Ignoring the exact configuration.",
+    "Specs here are for the version PCWorld tested. Amazon listings can differ in processor, RAM and storage, so check the listing before you buy."
+   ],
+   [
+    "Expecting a budget Mac to do everything.",
+    "The MacBook Neo suits everyday coursework, but its multi-core performance lags, so heavy video or similar work will feel slower."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best laptop for most college students?",
+   "The Acer Swift 16 AI is our Best Overall pick. It has a 16-inch OLED screen at 3.37 lb and lasted about 17.5 hours in PCWorld's test."
+  ],
+  [
+   "Which laptop has the longest battery life?",
+   "The Dell 14S. PCWorld measured about 36 hours of offline video playback, the longest it has recorded."
+  ],
+  [
+   "Is a Chromebook enough for college?",
+   "If your coursework is on the web and in Google apps, yes. The Asus Chromebook Plus CX34 is our Best Chromebook. Skip it if a class needs Windows or Mac software, because it runs ChromeOS only."
+  ],
+  [
+   "Is the MacBook Neo good for students?",
+   "For everyday coursework, yes. It has a sturdy build, a good display and about 13 hours of battery. Skip it for heavy multi-core work, where performance lags."
+  ],
+  [
+   "Which is the lightest pick?",
+   "The Microsoft Surface Pro at 1.51 lb. The trade-offs are a narrow screen, no HDR, and a charger that is not included."
+  ]
+ ]
 }
