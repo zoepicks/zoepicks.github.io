@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-19T08:38:27Z",
+ "updated": "2026-10-19T11:12:25Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2932,51 +2932,6 @@
     ]
    },
    {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0D4PV79J9",
-      "name": "SENSARTE Nonstick Cookware Set 13 Pcs",
-      "pct": 33,
-      "rating": 4.5,
-      "t": 1792272071,
-      "img": "https://m.media-amazon.com/images/I/71v2DeeTD8L.jpg",
-      "link": "https://www.amazon.com/dp/B0D4PV79J9?tag=zoepicks00-20",
-      "now": "69.99",
-      "was": "99.95",
-      "reviews": 6451,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GYJBWK1C",
-      "name": "CAROTE 21pcs Ceramic Cookware Set",
-      "pct": 41,
-      "rating": 4.7,
-      "t": 1792272687,
-      "img": "https://m.media-amazon.com/images/I/815cCyb2seL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYJBWK1C?tag=zoepicks00-20",
-      "now": "79.97",
-      "was": "135.99",
-      "reviews": 1006,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FTRQD63S",
-      "name": "CAROTE 44pcs Pots and Pans",
-      "pct": 39,
-      "rating": 4.6,
-      "t": 1792284263,
-      "img": "https://m.media-amazon.com/images/I/81qUcRQr--L.jpg",
-      "link": "https://www.amazon.com/dp/B0FTRQD63S?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "329.99",
-      "reviews": 404,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "food-processors",
     "label": "Food Processors",
     "items": [
@@ -3020,6 +2975,37 @@
       "deal": "Limited time deal",
       "reviews": 2128,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0FTRQD63S",
+      "name": "CAROTE 44pcs Pots and Pans",
+      "pct": 39,
+      "rating": 4.6,
+      "t": 1792284263,
+      "img": "https://m.media-amazon.com/images/I/81qUcRQr--L.jpg",
+      "link": "https://www.amazon.com/dp/B0FTRQD63S?tag=zoepicks00-20",
+      "now": "199.99",
+      "was": "329.99",
+      "reviews": 404
+     },
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792369883,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2160
      }
     ]
    },
