@@ -9,7 +9,7 @@ on:
         description: 'max products (0 = all)'
         default: '0'
       mode:
-        description: 'all (default) or picks'
+        description: 'all (default), picks or deep'
         default: 'all'
 
 permissions:
