@@ -31,7 +31,10 @@
    ],
    "best_for": "Travelers and mobile professionals who need a single, lightweight charger for laptops and phones.",
    "skip_if": "You need a charger with USB‑A ports or higher wattage than 45W.",
-   "link": "https://www.amazon.com/s?k=Anker+Nano+Pro+521+USB-C+Charger&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Anker+Nano+Pro+521+USB-C+Charger&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "UGREEN Nexode 200W 6‑port USB‑C and USB‑A Desktop Charger",
@@ -57,7 +60,10 @@
    ],
    "best_for": "Gamers, content creators, and office setups needing simultaneous charging for several laptops.",
    "skip_if": "You need a portable charger for travel.",
-   "link": "https://www.amazon.com/s?k=UGREEN+Nexode+200W+6%E2%80%91port+USB%E2%80%91C+and+USB%E2%80%91A+Desktop+Charger&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=UGREEN+Nexode+200W+6%E2%80%91port+USB%E2%80%91C+and+USB%E2%80%91A+Desktop+Charger&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "UGREEN Nexode 65W Charger",
@@ -89,7 +95,13 @@
    "price_asof": "Oct 18, 2026",
    "asin": "B0CD1NVW7R",
    "image": "https://m.media-amazon.com/images/I/51ljPGvwJnL.jpg",
-   "image_asin": "B0CD1NVW7R"
+   "image_asin": "B0CD1NVW7R",
+   "amazon_price": "$37.98",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "UGREEN Nexode Pro 65W GaN USB C Slim Wall Charger, 3-Port Compact Fast PPS Charger for iPh",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 1461,
+   "amazon_rating_asof": "Oct 19, 2026"
   }
  ]
 }
