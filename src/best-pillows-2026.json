@@ -34,7 +34,7 @@
    "best_for": "Anyone who wants to tune the height and firmness themselves",
    "skip_if": "You sleep very hot or hate fluffing your pillow",
    "link": "https://www.amazon.com/s?k=Coop+Sleep+Goods+Original+Adjustable+Pillow&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Oct 19, 2026",
    "fill_failed": false
   },
@@ -181,7 +181,7 @@
    "best_for": "Budget shoppers and side sleepers who want two decent pillows",
    "skip_if": "You sleep hot or want to adjust the height",
    "link": "https://www.amazon.com/s?k=Beckham+Hotel+Collection+Gel+Pillow&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Oct 19, 2026",
    "fill_failed": false
   },
@@ -336,7 +336,10 @@
    "price_asof": "Oct 19, 2026",
    "tabs": [
     "body"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Snuggle-Pedic Body Pillow",
