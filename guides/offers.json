@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-19T08:07:02Z",
+ "updated": "2026-10-19T08:38:27Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -3072,6 +3072,11 @@
     ]
    },
    {
+    "key": "stove-pressure-cooker",
+    "label": "Stove Pressure Cooker",
+    "items": []
+   },
+   {
     "key": "space-heaters",
     "label": "Space Heaters",
     "items": []
@@ -3079,6 +3084,11 @@
    {
     "key": "stand-mixers",
     "label": "Stand Mixers",
+    "items": []
+   },
+   {
+    "key": "steam-mop",
+    "label": "Steam Mop",
     "items": []
    }
   ],
