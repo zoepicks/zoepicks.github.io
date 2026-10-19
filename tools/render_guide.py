@@ -268,6 +268,24 @@ def intro_html(d):
     on = is_live(d)
     return (sec(live, "intro intro-live", not on) if live else "") + sec(end, "intro intro-end", on)
 
+def verdict_html(d):
+    """'Our pick' box at the very top (buyers who are ready to buy see the decision first). Only rendered when the guide has a
+    'verdict': {"pick": product name, "line": why (1-2 sentences), "also": [[label, product name], ...]}. Names must match a product,
+    otherwise that part is skipped (nothing is invented)."""
+    v = d.get("verdict")
+    if not v: return ""
+    idx = {p["name"]: i for i, p in enumerate(d["products"])}
+    pk = v.get("pick")
+    if pk not in idx: return ""
+    pp = d["products"][idx[pk]]
+    h = (f'<section class="verdict"><b class="vk">Our pick</b><a class="vp" href="#p{idx[pk]+1}">{e(pp.get("short") or pk)}</a>'
+         + (f'<p>{e(v["line"])}</p>' if v.get("line") else ""))
+    also = [(lab, nm) for lab, nm in (v.get("also") or []) if nm in idx and nm != pk]
+    if also:
+        h += '<div class="va"><span>Also good for</span>' + "".join(
+            f'<a href="#p{idx[nm]+1}"><i>{e(lab)}</i>{e(d["products"][idx[nm]].get("short") or nm)}</a>' for lab, nm in also) + "</div>"
+    return h + "</section>"
+
 def jump_html(d):
     """Sticky-ish scrollable chips #1..#N under the header so a buyer can jump straight to a pick."""
     if len(d["products"]) < 3: return ""
@@ -388,7 +406,7 @@ def render(d, base=""):
     t = (ROOT / "templates/guide.html").read_text()
     method = d["method"] + (" Assumptions: " + d["assumptions"] if d.get("assumptions") else "")
     rep = {"OGV": og_version(), "TITLE": e(d["title"]), "SUMMARY": e(d["summary"]), "META": e(meta_desc(d["summary"])), "CATKEY": e(d["category"]), "CATNAME": e(CATS.get(d["category"], "Guide")),
-           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
+           "DATE": e(d["date"]), "METHOD": e(method), "MORE": more_html(d), "CARDS": "\n".join(card(i, p) for i, p in enumerate(d["products"])), "INTRO": intro_html(d), "COMPARE": compare_html(d), "JUMP": jump_html(d), "VERDICT": verdict_html(d), "VOICES": voices_html(d), "COUNTDOWN": countdown_html(d), "HEADCLASS": "deal-head" if d.get("theme") == "deal" else "", "TIPS": tips_html(d), "FAQ": faq_html(d),
            "OFFERS": offers_html(d),   # top-3 discounts of THIS guide's product type live on its own guide page (not on the category page)
            "LD": ld_json(d, base), "OGURL": (f'<meta property="og:url" content="{e(base)}/g/{e(d["slug"])}/"><link rel="canonical" href="{e(base)}/g/{e(d["slug"])}/">') if base else ""}
     # compact rows for every guide (mobile first); deal guides also get the deals strip and biggest-discount-first order
