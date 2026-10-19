@@ -4,12 +4,39 @@ import glob, json, os, random, re, sys, time
 from playwright.sync_api import sync_playwright
 
 LIMIT = int(os.environ.get("LIMIT") or 0)
-PICKS = os.environ.get("MODE") == "picks"
-OUT = ".github/amazon-raw/results-picks.json" if PICKS else ".github/amazon-raw/results.json"
+MODE = os.environ.get("MODE") or "all"
+PICKS = MODE == "picks"
+DEEP = MODE == "deep"
+OUT = ".github/amazon-raw/results-%s.json" % MODE if MODE in ("picks", "deep") else ".github/amazon-raw/results.json"
+
+def variants(name, path):
+    n = name.replace("\u2011", "-").replace("\u2013", "-").replace("\u2019", "'")
+    n = re.sub(r"\(sold as[^)]*\)", "", n, flags=re.I)
+    n = re.sub(r"\bTemplate Vector\b", "", n, flags=re.I)
+    base = re.sub(r"\s+", " ", re.sub(r"\(([^)]*)\)", r" \1 ", n)).strip()
+    cat = re.sub(r"^best-|-20\d\d$", "", os.path.basename(path)[:-5]).replace("-", " ")
+    cat1 = cat.split()[-1] if cat else ""
+    toks = base.replace("/", " ").split()
+    model = [w for w in toks if re.search(r"\d", w)]
+    v = [base]
+    if "/" in base: v.append(base.split("/")[0].strip())
+    if cat1 and cat1.lower().rstrip("s") not in base.lower(): v.append(base + " " + cat)
+    if toks and model: v.append(toks[0] + " " + " ".join(model[:3]))
+    out = []
+    for x in v:
+        if x and x not in out: out.append(x)
+    return out[:3]
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
 def tasks():
     if PICKS: return json.load(open(".github/amazon-raw/picks.json", encoding="utf-8"))
+    if DEEP:
+        out = []
+        for p in sorted(glob.glob("src/*.json")):
+            for pr in json.load(open(p, encoding="utf-8")).get("products", []):
+                if not (pr.get("asin") or pr.get("image_asin")):
+                    out.append({"path": p, "name": pr["name"], "asin": "", "need": ["link"], "queries": variants(pr["name"], p)})
+        return out
     out = []
     for p in sorted(glob.glob("src/*.json")):
         g = json.load(open(p, encoding="utf-8"))
@@ -60,24 +87,43 @@ def main():
         page = ctx.new_page()
         for i, t in enumerate(ts):
             rec = dict(t, cards=[], dp=None, status="ok")
-            for attempt in range(2):
-                try:
-                    if t["asin"]:
-                        page.goto(f"https://www.amazon.com/dp/{t['asin']}", timeout=45000, wait_until="domcontentloaded")
-                    else:
-                        q = re.sub(r"\s+", "+", re.sub(r"[()/]", " ", t["name"]).strip())
-                        page.goto(f"https://www.amazon.com/s?k={q}", timeout=45000, wait_until="domcontentloaded")
-                    page.wait_for_timeout(1800)
-                    if blocked(page):
-                        blocks += 1; rec["status"] = "blocked"
-                        print(f"[{i}] BLOCKED {t['name'][:40]}", flush=True)
-                        time.sleep(90 if attempt == 0 else 5); continue
-                    rec["status"] = "ok"
-                    if t["asin"]: rec["dp"] = page.evaluate(JS_DP)
-                    else: rec["cards"] = page.evaluate(JS_SEARCH)
-                    break
-                except Exception as e:
-                    rec["status"] = "error: " + str(e)[:100]
+            if DEEP:
+                seen = {}
+                for qi, qtext in enumerate(t["queries"]):
+                    for attempt in range(2):
+                        try:
+                            q = re.sub(r"\s+", "+", re.sub(r"[()/]", " ", qtext).strip())
+                            page.goto(f"https://www.amazon.com/s?k={q}", timeout=45000, wait_until="domcontentloaded")
+                            page.wait_for_timeout(1800)
+                            if blocked(page):
+                                blocks += 1; rec["status"] = "blocked"; time.sleep(90 if attempt == 0 else 5); continue
+                            rec["status"] = "ok"
+                            for c in page.evaluate(JS_SEARCH)[:8]:
+                                if c["asin"] not in seen: seen[c["asin"]] = dict(c, q=qi)
+                            break
+                        except Exception as e:
+                            rec["status"] = "error: " + str(e)[:100]
+                    time.sleep(random.uniform(3, 6))
+                rec["cards"] = list(seen.values())
+            else:
+              for attempt in range(2):
+                  try:
+                      if t["asin"]:
+                          page.goto(f"https://www.amazon.com/dp/{t['asin']}", timeout=45000, wait_until="domcontentloaded")
+                      else:
+                          q = re.sub(r"\s+", "+", re.sub(r"[()/]", " ", t["name"]).strip())
+                          page.goto(f"https://www.amazon.com/s?k={q}", timeout=45000, wait_until="domcontentloaded")
+                      page.wait_for_timeout(1800)
+                      if blocked(page):
+                          blocks += 1; rec["status"] = "blocked"
+                          print(f"[{i}] BLOCKED {t['name'][:40]}", flush=True)
+                          time.sleep(90 if attempt == 0 else 5); continue
+                      rec["status"] = "ok"
+                      if t["asin"]: rec["dp"] = page.evaluate(JS_DP)
+                      else: rec["cards"] = page.evaluate(JS_SEARCH)
+                      break
+                  except Exception as e:
+                      rec["status"] = "error: " + str(e)[:100]
             n = len(rec["cards"]) or (1 if (rec["dp"] or {}).get("title") else 0)
             print(f"[{i}] {rec['status']} {n} result(s) :: {t['name'][:50]}", flush=True)
             res.append(rec)
