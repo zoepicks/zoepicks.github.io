@@ -39,7 +39,9 @@
    "amazon_listing": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina ",
    "amazon_rating": "4.7",
    "amazon_reviews": 1222,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A MacBook Air in 13-inch and 15-inch sizes with an M4 or M5 chip and a 12MP Center Stage webcam (Ceedo). It does not run Windows-only business software.",
+   "benefit": "Picture a day of back-to-back video calls and documents, in a quiet room, with a camera that makes you look good. Ceedo calls its 12MP Center Stage webcam the best built-in camera it tested, and the sources praise its quiet operation and long battery life. It is the best overall pick in this guide for calls and documents, while the MacBook Pro 16 is meant for heavier work. The catch: it costs more than most budget Windows laptops."
   },
   {
    "name": "Apple MacBook Pro 16",
@@ -72,7 +74,9 @@
    "amazon_listing": "Apple 2026 MacBook Pro Laptop with Apple M5 Pro chip with 18-core CPU and 20-core GPU: Bui",
    "amazon_rating": "4.6",
    "amazon_reviews": 111,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 16-inch MacBook Pro with an Apple M-series chip. It is large and heavy to carry.",
+   "benefit": "Picture a designer or developer at a desk with a code editor, design tools and a video call open at the same time. Growrk calls it one of the best laptops for working remotely, ideal for people who keep many demanding apps open. It is the pick here for the heaviest multitasking. The catch: Growrk notes premium pricing compared with Windows laptops, and it is large and heavy to carry."
   },
   {
    "name": "Lenovo ThinkPad X1 Carbon (Gen 13)",
@@ -104,7 +108,9 @@
    "amazon_listing": "Lenovo ThinkPad X1 Carbon Gen 13 Aura Edition 14\", Ultra 7 258V, 32GB/1TB | Copilot+ PC, 2",
    "amazon_rating": "3.9",
    "amazon_reviews": 9,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A light Windows business laptop with a business-grade build. It is not aimed at big creative displays.",
+   "benefit": "Picture a manager typing reports and taking calls all day on Windows. Ceedo names it its best laptop for business professionals and says it has the best keyboard in its roundup, and Growrk says it represents the pinnacle of business laptops in 2026. It is the Windows choice for people who type and take calls all day. The catch: it is premium-priced."
   },
   {
    "name": "Lenovo IdeaPad Slim 3 / Slim 5 (16-inch)",
@@ -138,7 +144,73 @@
    "amazon_listing": "Lenovo IdeaPad Slim 3, 15.6 Inch FHD Laptop | Backlit Keyboard | AMD Ryzen 5 5625U, 6-Core",
    "amazon_rating": "4.3",
    "amazon_reviews": 21,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 16-inch Windows 11 laptop, sold as the Slim 3 and the Slim 5. It is not as light or refined as the premium laptops.",
+   "benefit": "Picture a small home desk where a 16-inch screen gives you room for a document and a chat window side by side. Gaurav Tiwari names the Slim 5 its best budget all-rounder with one of the better keyboards in the budget class, and another roundup makes the Slim 3 16 its editor's choice for remote work. It is the budget pick in this guide. The catch: check the webcam and RAM before buying."
   }
+ ],
+ "intro": [
+  "For home-office work, the processor is not the spec to chase. Sources stress that webcam quality, RAM and a comfortable keyboard matter more. Ceedo calls the MacBook Air's 12MP Center Stage webcam the best built-in camera it tested."
+ ],
+ "verdict": {
+  "pick": "Apple MacBook Air (M4 / M5)",
+  "line": "If you live on video calls and documents, get this one: Ceedo names the 13-inch MacBook Air M4 its best overall pick, and Cleveland Heart picks the 15-inch M5 for silent productivity. It costs more than most budget Windows laptops, and it will not run Windows-only business software.",
+  "also": [
+   [
+    "Best for demanding work",
+    "Apple MacBook Pro 16"
+   ],
+   [
+    "Best for business",
+    "Lenovo ThinkPad X1 Carbon (Gen 13)"
+   ],
+   [
+    "Best budget",
+    "Lenovo IdeaPad Slim 3 / Slim 5 (16-inch)"
+   ]
+  ]
+ },
+ "tips": {
+  "title": "4 mistakes when buying a work-from-home laptop",
+  "items": [
+   [
+    "Chasing the processor.",
+    "Sources stress that webcam quality, RAM and a comfortable keyboard matter more than the headline processor for home-office work."
+   ],
+   [
+    "Skipping the webcam and RAM check on a budget laptop.",
+    "The IdeaPad Slim picks are affordable, but the sources say to check the webcam and RAM before you buy."
+   ],
+   [
+    "Buying a heavy creative laptop for email and calls.",
+    "The MacBook Pro 16 is for people who keep many demanding apps open. If you only do email, calls and documents, skip it."
+   ],
+   [
+    "Forgetting your software.",
+    "The MacBook Air and MacBook Pro run macOS. If your job needs Windows-only business software, the ThinkPad X1 Carbon is the Windows choice."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best laptop for working from home?",
+   "The Apple MacBook Air (M4 / M5). Ceedo names the 13-inch M4 its best overall pick, and Gaurav Tiwari lists the 13-inch Air as its best pick for battery and longevity."
+  ],
+  [
+   "Which laptop has the best keyboard for typing all day?",
+   "The Lenovo ThinkPad X1 Carbon (Gen 13). Ceedo says it has the best keyboard in its roundup."
+  ],
+  [
+   "What is the best cheap laptop for working from home?",
+   "The Lenovo IdeaPad Slim 5 is Gaurav Tiwari's best budget all-rounder, with a 16-inch WUXGA screen. Check the webcam and RAM before buying."
+  ],
+  [
+   "Which laptop is quietest?",
+   "The MacBook Air. Cleveland Heart picks the 15-inch M5 Air for silent productivity."
+  ],
+  [
+   "Is a 16-inch laptop better for a home office?",
+   "It gives more working space on a small desk, but it is less portable. Both IdeaPad picks and the MacBook Pro 16 are 16-inch models."
+  ]
  ]
 }

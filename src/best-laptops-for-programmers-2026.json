@@ -39,7 +39,9 @@
    "amazon_listing": "Apple 2024 MacBook Pro with Apple M4 Chip (14-inch, 16GB RAM, 512GB SSD Storage) Space Bla",
    "amazon_rating": "4.8",
    "amazon_reviews": 47,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 14-inch MacBook Pro with the Apple M4 chip, running macOS. A 16-inch size is also sold. It does not run Windows-only tools.",
+   "benefit": "Picture a developer with a code editor, a phone simulator and a local server all running at once, with no slowdown. It gives top performance for web, mobile, backend and machine learning work, and a UDN review says the 16-inch model lasts up to two work days on battery. It has more headroom than the MacBook Air in this guide, and the ThinkPad is not as slick. The catch: it is premium-priced."
   },
   {
    "name": "Apple MacBook Air (M-series)",
@@ -71,7 +73,9 @@
    "amazon_listing": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina ",
    "amazon_rating": "4.7",
    "amazon_reviews": 1222,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A light MacBook with an Apple M-series chip, running macOS. It has less headroom than the MacBook Pro.",
+   "benefit": "Picture a student coding on the bus, then in a cafe, with a bag that stays light. Box recommends the Apple range for portable development, and G-Tech calls the MacBook Air M3 the best balance of value and power for programming students. It is the most portable pick in this guide. The catch: it has less headroom than the MacBook Pro for heavy workloads."
   },
   {
    "name": "Lenovo ThinkPad T16",
@@ -106,7 +110,65 @@
    "amazon_listing": "Lenovo ThinkPad T16 Gen 4 Business Laptop 16 FHD+ Display, Intel Ultra 5-225U (Beats i7-13",
    "amazon_rating": "4",
    "amazon_reviews": 22,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A durable business laptop for Windows or Linux, mostly upgradeable according to TechRadar. It is not as slick as a MacBook.",
+   "benefit": "Picture a developer who works on Linux and wants a great keyboard and parts that can be upgraded later. TechRadar picks it as its best overall programming laptop, saying ThinkPads are durable, mostly upgradeable and run Linux very well. It is the only pick in this guide for Windows and Linux. The catch: it is not as slick as a MacBook, and it is a poor fit if you build for iOS."
   }
+ ],
+ "intro": [
+  "Sources agree on one spec for programming: 16GB of RAM is the sensible minimum, and 8GB only suits basic learning. That number matters more than the logo on the lid, so check the memory before anything else."
+ ],
+ "verdict": {
+  "pick": "Apple MacBook Pro 14 (M4)",
+  "line": "If you want one laptop for most programming work, get this one: Creative Bloq says it is the laptop it would recommend to most programmers, and it is not a close call. It is premium-priced and a poor fit if you need Windows-only tools.",
+  "also": [
+   [
+    "Best portable",
+    "Apple MacBook Air (M-series)"
+   ],
+   [
+    "Best for Windows and Linux",
+    "Lenovo ThinkPad T16"
+   ]
+  ]
+ },
+ "tips": {
+  "title": "4 mistakes when buying a laptop for coding",
+  "items": [
+   [
+    "Buying 8GB of RAM.",
+    "Sources agree 16GB is the sensible minimum for programming. 8GB only suits basic learning."
+   ],
+   [
+    "Choosing macOS when you need Windows-only tools.",
+    "The MacBook Pro and MacBook Air both run macOS. If your tools are Windows-only, look at the ThinkPad T16."
+   ],
+   [
+    "Expecting a thin laptop to handle heavy builds.",
+    "The MacBook Air has less headroom than the MacBook Pro for heavy workloads, including big builds and local AI models."
+   ],
+   [
+    "Forgetting Linux support.",
+    "TechRadar says ThinkPads run Linux very well. If you work on Linux, that matters more than the thinnest design."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best laptop for most programmers?",
+   "The Apple MacBook Pro 14 (M4). Creative Bloq would recommend it to most programmers, and TechRadar says its screen is among the best on any laptop."
+  ],
+  [
+   "What is the best laptop for programming students?",
+   "G-Tech calls the MacBook Air M3 the best balance of value and power for programming students. It is light, but has less headroom than the Pro."
+  ],
+  [
+   "Which laptop is best for Windows or Linux?",
+   "The Lenovo ThinkPad T16. TechRadar picks it as its best overall programming laptop, and says ThinkPads are durable, mostly upgradeable and run Linux very well."
+  ],
+  [
+   "How much RAM do I need for programming?",
+   "16GB is the sensible minimum according to the sources. 8GB only suits basic learning."
+  ]
  ]
 }
