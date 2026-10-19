@@ -36,7 +36,10 @@
    "skip_if": "You need a standalone device without a phone",
    "price": "$99.99 at Amazon",
    "link": "https://www.amazon.com/s?k=BlueDriver+Bluetooth+Pro+OBDII+Scan+Tool&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Fixd OBD‑II Active Car Health Monitor",
@@ -67,7 +70,10 @@
    "skip_if": "You drive a diesel or electric vehicle",
    "price": "$59.99 at Fixd",
    "link": "https://www.amazon.com/s?k=Fixd+OBD%E2%80%91II+Active+Car+Health+Monitor&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Ancel BD310 OBD‑II Scanner",
@@ -93,7 +99,10 @@
    ],
    "best_for": "DIY mechanics who want a versatile, budget‑friendly scanner",
    "skip_if": "You need professional‑level diagnostics like ABS or transmission codes",
-   "link": "https://www.amazon.com/s?k=Ancel+BD310+OBD%E2%80%91II+Scanner&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ancel+BD310+OBD%E2%80%91II+Scanner&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Motopower MP69033 OBD‑II Scanner",
@@ -122,7 +131,13 @@
    "link": "https://www.amazon.com/s?k=Motopower+MP69033+OBD%E2%80%91II+Scanner&tag=zoepicks00-20",
    "asin": "B07Z3HB7DR",
    "image": "https://m.media-amazon.com/images/I/61ybpjOSa1L.jpg",
-   "image_asin": "B07Z3HB7DR"
+   "image_asin": "B07Z3HB7DR",
+   "amazon_price": "$26.99",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "MOTOPOWER MP69033 Car OBD2 Scanner Code Reader Engine Fault Scanner CAN Diagnostic Scan To",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 52494,
+   "amazon_rating_asof": "Oct 19, 2026"
   }
  ]
 }
