@@ -75,9 +75,9 @@
    "best_for": "Environmentally conscious consumers who want a clean brush",
    "skip_if": "You need app features or a lower price",
    "link": "https://www.amazon.com/s?k=Suri+2.0+Electric+Toothbrush&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Philips One Rechargeable by Sonicare",
@@ -108,9 +108,9 @@
    "best_for": "Budget users who want a quiet, gentle brush",
    "skip_if": "You need multiple modes or app connectivity",
    "link": "https://www.amazon.com/s?k=Philips+One+Rechargeable+by+Sonicare&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": true
   }
  ]
 }
