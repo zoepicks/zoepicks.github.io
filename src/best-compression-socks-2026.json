@@ -32,9 +32,9 @@
    "best_for": "People who spend long hours on their feet or traveling",
    "skip_if": "You need medical‑grade compression above 20 mmHg",
    "link": "https://www.amazon.com/s?k=Bombas+Everyday+Compression+Socks&tag=zoepicks00-20",
-   "fill_tries": 0,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false,
+   "fill_failed": true,
    "asin": "B08Y67N1VS",
    "amazon_price": "$35.99",
    "amazon_price_asof": "Oct 19, 2026",
@@ -108,9 +108,9 @@
    "best_for": "Air travelers and people on long drives",
    "skip_if": "You need high‑grade medical compression",
    "link": "https://www.amazon.com/s?k=SockWell+In+Flight+Moderate+Graduated+Compression+Socks&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": true
   }
  ]
 }
