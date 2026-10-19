@@ -2,11 +2,21 @@
  "slug": "best-vacuums-2026",
  "title": "Best Vacuums: Robot, Cordless & Pet Hair (2026)",
  "category": "home_kitchen",
- "draft": true,
- "date": "Oct 18, 2026",
+ "date": "Oct 19, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "This guide is a work in progress. Picks will come from hands-on vacuum reviews, and specs will be for the configuration the reviewers tested.",
+ "method": "Picks were made by cross‑referencing the top‑rated models listed in Consumer Reports, Good Housekeeping, TechGearLab, and BHG. Products that appeared in more than one source were prioritized.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
  "products": [],
+ "verdict": {
+  "pick": "Shark Stratos Upright Vacuum",
+  "line": "Picture a family that cleans every day and needs a powerful, versatile vacuum. The Shark Stratos Upright delivers strong suction on carpets and bare floors, has a large dustbin, and is easy to use. Its main catch is that it is heavier than stick models.",
+  "also": [
+   [
+    "Cordless Freedom",
+    "Shark PowerDetect Cordless Vacuum"
+   ]
+  ]
+ },
  "tabs": [
   {
    "key": "robot",
@@ -20,5 +30,6 @@
    "key": "pet-hair",
    "label": "Pet hair"
   }
- ]
+ ],
+ "draft": true
 }

@@ -5,7 +5,7 @@
  "summary": "5 tested laptops you can find for under $1,000: a Mac, a Windows all-rounder, a gaming laptop, a Chromebook and a cheap Copilot+ PC.",
  "method": "Picks come from PCWorld's hands-on laptop testing (updated Oct 2026), plus the Lenovo IdeaPad Slim 3x from the 2026 reviews we summarize in our Black Friday guide. Specs and battery figures are for the configuration PCWorld tested; Amazon listings can differ, so check the exact configuration before buying. We don't show prices because they change daily, and some of these only dip under $1,000 at certain stores or during sales.",
  "assumptions": "\"under $1,000\" is based on the lowest prices reported in Oct 2026; list prices and some retailers (including Amazon at times) can be higher.",
- "date": "Oct 18, 2026",
+ "date": "Oct 19, 2026",
  "products": [
   {
    "name": "Apple MacBook Neo",
@@ -386,6 +386,68 @@
    "tabs": [
     "under-600"
    ]
+  },
+  {
+   "name": "Lenovo Chromebook Flex 11",
+   "short": "Flex 11",
+   "badge": "Best for Students",
+   "why": [
+    "The Flex 11 is highlighted for its 11‑inch screen and 2‑in‑1 functionality.",
+    "It is recommended for students needing a portable, versatile device."
+   ],
+   "desc": "The Lenovo Chromebook Flex 11 is an 11‑inch 2‑in‑1 Chromebook with a flexible hinge and decent battery life. It does not feature a high‑end processor.",
+   "benefit": "Picture a college student who attends lectures and works on assignments on the go. The Flex 11’s 2‑in‑1 design lets you use it as a laptop or tablet, and its battery supports a full day of classes. It outperforms other picks by offering the best balance of portability and versatility. The catch: its performance is lower than some dedicated laptops.",
+   "specs": [
+    "11‑inch display",
+    "2‑in‑1 convertible",
+    "Decent battery life"
+   ],
+   "pros": [
+    "Versatile design",
+    "Portable",
+    "Good battery"
+   ],
+   "cons": [
+    "Lower performance",
+    "No high‑end graphics"
+   ],
+   "best_for": "students",
+   "skip_if": "you need high performance",
+   "link": "https://www.amazon.com/s?k=Lenovo+Chromebook+Flex+11&tag=zoepicks00-20",
+   "tabs": [
+    "small"
+   ]
+  },
+  {
+   "name": "Apple MacBook Air",
+   "short": "MacBook Air",
+   "badge": "Best Ultra‑Portable",
+   "why": [
+    "The MacBook Air is ranked first in Notebookcheck’s best ultra‑portable laptops list.",
+    "It is praised for its performance and battery life in a lightweight package."
+   ],
+   "desc": "The Apple MacBook Air is a subnotebook with a 13‑inch display, lightweight design, and integrated graphics. It does not have a dedicated GPU.",
+   "benefit": "Picture a professional who travels frequently and needs a reliable machine for work. The MacBook Air delivers strong performance and long battery life in a slim form factor, making it ideal for business use. It wins against other picks by offering the best overall performance among ultra‑portable laptops. The catch: it lacks a dedicated graphics card, limiting intensive graphics tasks.",
+   "specs": [
+    "13‑inch display",
+    "Lightweight",
+    "Integrated graphics"
+   ],
+   "pros": [
+    "Strong performance",
+    "Long battery",
+    "Slim design"
+   ],
+   "cons": [
+    "No dedicated GPU",
+    "Limited gaming"
+   ],
+   "best_for": "business professionals",
+   "skip_if": "you need high‑end gaming or graphics",
+   "link": "https://www.amazon.com/s?k=Apple+MacBook+Air&tag=zoepicks00-20",
+   "tabs": [
+    "small"
+   ]
   }
  ],
  "tabs": [
@@ -398,6 +460,10 @@
    "key": "under-600",
    "label": "Under $600",
    "max": 600
+  },
+  {
+   "key": "small",
+   "label": "Small"
   }
  ]
 }
