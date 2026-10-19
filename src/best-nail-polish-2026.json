@@ -32,7 +32,10 @@
    "skip_if": "You prefer a non‑toxic formula or a budget option",
    "price": "$13 at Amazon",
    "link": "https://www.amazon.com/s?k=OPI+Nail+Lacquer&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Olive & June Nail Polish",
@@ -59,7 +62,16 @@
    "skip_if": "You need a wide color palette or a very low budget",
    "price": "$10",
    "link": "https://www.amazon.com/s?k=Olive+%26+June+Nail+Polish&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "asin": "B0GRCMHNT1",
+   "image": "https://m.media-amazon.com/images/I/51Sp+59cAkL.jpg",
+   "image_asin": "B0GRCMHNT1",
+   "amazon_price": "$9.97",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Olive & June Long Lasting Nail Polish, Obsessed",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 1401,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Essie Gel Couture Nail Polish",
@@ -85,7 +97,13 @@
    "skip_if": "You lack a curing lamp or prefer a quick‑dry formula",
    "price": "$13",
    "link": "https://www.amazon.com/s?k=Essie+Gel+Couture+Nail+Polish&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "asin": "B073WZN1BD",
+   "image": "https://m.media-amazon.com/images/I/61EIBPJ5GjL.jpg",
+   "image_asin": "B073WZN1BD",
+   "amazon_price": "$16.97",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Essie Gel Couture Longwear Nail Polish Kit, Sheer Nude Pink, Fairy Tailor + Top Coat, 0.46"
   },
   {
    "name": "S&L Gel Polish",
@@ -109,7 +127,10 @@
    ],
    "best_for": "Nail techs and enthusiasts seeking professional gel results",
    "skip_if": "You prefer a non‑gel formula or lack a curing lamp",
-   "link": "https://www.amazon.com/s?k=S%26L+Gel+Polish&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=S%26L+Gel+Polish&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Sally Hansen Nail Polish",
@@ -133,7 +154,13 @@
    ],
    "best_for": "Budget‑conscious consumers looking for dependable polish",
    "skip_if": "You require a non‑toxic or high‑performance formula",
-   "link": "https://www.amazon.com/s?k=Sally+Hansen+Nail+Polish&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Sally+Hansen+Nail+Polish&tag=zoepicks00-20",
+   "asin": "B00LJ1KGNK",
+   "image": "https://m.media-amazon.com/images/I/61XRHyqWDxL.jpg",
+   "image_asin": "B00LJ1KGNK",
+   "amazon_price": "$5.44",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Sally Hansen Insta-Dri, Back to Black, Quick Dry, Long Lasting, Opaque, ShinyBlack Nail Po"
   }
  ]
 }
