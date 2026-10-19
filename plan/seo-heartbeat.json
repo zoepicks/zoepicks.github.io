@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-19T00:09:09.310912+00:00",
+ "updated": "2026-10-19T03:09:56.725264+00:00",
  "boots_total": 7,
  "recent_boots_utc": [
   "2026-10-17T11:24:26",
@@ -11,7 +11,7 @@
   "2026-10-18T13:07:58",
   "2026-10-18T18:06:25"
  ],
- "last_run_ts": 1792368547.6152692,
+ "last_run_ts": 1792379395.526335,
  "last_report_ts": 1792346846.7313201,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,12 +22,6 @@
   "low": 10
  },
  "recent_runs": [
-  {
-   "t": "2026-10-17T20:39:11",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-17T23:39:41",
    "score": 94,
@@ -81,14 +75,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 18
+  },
+  {
+   "t": "2026-10-19T03:09:55",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-18T15:04:26",
-   "what": "SEO check: score 93 (-1), 131 pages, 4 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-18T15:04:26",
    "what": "IndexNow: 48 URL Bing ko bheje",
@@ -122,6 +117,11 @@
   {
    "t": "2026-10-19T00:09:07",
    "what": "IndexNow: 18 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-19T03:09:55",
+   "what": "SEO check: score 94 (+0), 133 pages, 1 high issue",
    "ok": true
   }
  ]
