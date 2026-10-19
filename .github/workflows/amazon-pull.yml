@@ -8,6 +8,9 @@ on:
       limit:
         description: 'max products (0 = all)'
         default: '0'
+      mode:
+        description: 'all (default) or picks'
+        default: 'all'
 
 permissions:
   contents: write
@@ -31,6 +34,7 @@ jobs:
       - name: Pull from Amazon
         env:
           LIMIT: ${{ github.event.inputs.limit }}
+          MODE: ${{ github.event.inputs.mode }}
         run: python -u tools/amazon_pull.py 2>&1 | tee /tmp/pull.log
       - name: Commit raw result
         if: always()

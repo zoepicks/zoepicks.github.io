@@ -4,10 +4,12 @@ import glob, json, os, random, re, sys, time
 from playwright.sync_api import sync_playwright
 
 LIMIT = int(os.environ.get("LIMIT") or 0)
-OUT = ".github/amazon-raw/results.json"
+PICKS = os.environ.get("MODE") == "picks"
+OUT = ".github/amazon-raw/results-picks.json" if PICKS else ".github/amazon-raw/results.json"
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
 def tasks():
+    if PICKS: return json.load(open(".github/amazon-raw/picks.json", encoding="utf-8"))
     out = []
     for p in sorted(glob.glob("src/*.json")):
         g = json.load(open(p, encoding="utf-8"))
