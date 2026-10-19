@@ -34,7 +34,13 @@
    "link": "https://www.amazon.com/s?k=OnePlus+15&tag=zoepicks00-20",
    "asin": "B0FSCVPZ5W",
    "image": "https://m.media-amazon.com/images/I/61MZPmFWEYL.jpg",
-   "image_asin": "B0FSCVPZ5W"
+   "image_asin": "B0FSCVPZ5W",
+   "amazon_price": "$1,029.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "OnePlus 15, 12GB RAM + 256GB Storage, Dual-SIM, Unlocked Android Smartphone, Snapdragon 8 ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 346,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Apple iPhone 17 Pro Max / 18 Pro Max",
@@ -62,7 +68,13 @@
    "link": "https://www.amazon.com/s?k=Apple+iPhone+17+Pro+Max+%2F+18+Pro+Max&tag=zoepicks00-20",
    "asin": "B0FTCWXD9K",
    "image": "https://m.media-amazon.com/images/I/51GOhI8bhHL.jpg",
-   "image_asin": "B0FTCWXD9K"
+   "image_asin": "B0FTCWXD9K",
+   "amazon_price": "$1,165.00",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Apple iPhone 17 Pro Max, US Version, 256GB, eSIM, Deep Blue- Unlocked (Renewed)",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 543,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Motorola Moto G (2026)",
@@ -89,7 +101,13 @@
    "link": "https://www.amazon.com/s?k=Motorola+Moto+G+%282026%29&tag=zoepicks00-20",
    "asin": "B0FXY81HJG",
    "image": "https://m.media-amazon.com/images/I/710cM1K5mOL.jpg",
-   "image_asin": "B0FXY81HJG"
+   "image_asin": "B0FXY81HJG",
+   "amazon_price": "$399.99",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Motorola Moto G Power - 2026 | Unlocked | Made for US 8/128GB | 50MP Camera | Pantone Pure",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 3803,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "Motorola Razr Ultra (2026)",
@@ -114,7 +132,13 @@
    "link": "https://www.amazon.com/s?k=Motorola+Razr+Ultra+%282026%29&tag=zoepicks00-20",
    "asin": "B0GVMN79TQ",
    "image": "https://m.media-amazon.com/images/I/61AkvPM-poL.jpg",
-   "image_asin": "B0GVMN79TQ"
+   "image_asin": "B0GVMN79TQ",
+   "amazon_price": "$1,499.99",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Motorola Razr Ultra 2026 | Unlocked | Made for US 16/512GB | 50MP Camera | Pantone Orient ",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 11,
+   "amazon_rating_asof": "Oct 19, 2026"
   },
   {
    "name": "ASUS ROG Phone 9 Pro",
@@ -138,7 +162,10 @@
    ],
    "best_for": "Gamers and heavy users who want multi-day battery",
    "skip_if": "You want a slim everyday phone",
-   "link": "https://www.amazon.com/s?k=ASUS+ROG+Phone+9+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=ASUS+ROG+Phone+9+Pro&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   }
  ]
 }
