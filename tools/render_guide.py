@@ -264,6 +264,8 @@ def intro_html(d):
         return f'<section class="{cls}"{" hidden" if hidden else ""}>' + "".join(f"<p>{e(x.replace('{deal_hook}', hook))}</p>" for x in xs) + "</section>"
     live, end = d.get("intro"), d.get("intro_ended")
     if not live and not end: return ""
+    if live and not end and d.get("theme") != "deal" and not d.get("expires"):   # evergreen guide: calm reading intro, not the red "deal alert" look
+        return sec(live, "intro intro-plain", False)
     if not end: return sec(live, "intro intro-live", False)
     on = is_live(d)
     return (sec(live, "intro intro-live", not on) if live else "") + sec(end, "intro intro-end", on)
@@ -282,7 +284,7 @@ def verdict_html(d):
          + (f'<p>{e(v["line"])}</p>' if v.get("line") else ""))
     also = [(lab, nm) for lab, nm in (v.get("also") or []) if nm in idx and nm != pk]
     if also:
-        h += '<div class="va"><span>Also good for</span>' + "".join(
+        h += '<div class="va">Also good for</div><div class="vs">' + "".join(
             f'<a href="#p{idx[nm]+1}"><i>{e(lab)}</i>{e(d["products"][idx[nm]].get("short") or nm)}</a>' for lab, nm in also) + "</div>"
     return h + "</section>"
 
