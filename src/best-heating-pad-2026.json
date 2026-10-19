@@ -4,8 +4,8 @@
  "category": "beauty_health",
  "date": "Oct 19, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least two sources (Sunbeam in CNET and TechGearLab, Pure Enrichment in TechGearLab, UTK in EatVeganVybez).",
- "assumptions": "Prices are only included when a source specifies them; otherwise price is null.",
+ "method": "Products were selected based on mentions in the given source excerpts; none of the excerpts referenced heating pads, so no items could be listed.",
+ "assumptions": "Prices and specifications are omitted because the sources contain no relevant product details.",
  "products": [],
  "draft": true
 }
