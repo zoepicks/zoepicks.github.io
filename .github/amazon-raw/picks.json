@@ -1,7 +1,55 @@
 [
  {
   "path": "src/_probe.json",
-  "name": "HP Spectre x360 14 2-in-1 laptop",
+  "name": "Strix G16 B0DZZWMB2L",
+  "asin": "B0DZZWMB2L",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "Swift 16 B0GCN46SPT",
+  "asin": "B0GCN46SPT",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "MBP M5 Pro B0GR17YNHL",
+  "asin": "B0GR17YNHL",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "Yoga 7i B0FQ364776",
+  "asin": "B0FQ364776",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "Yoga 7i B0HKZ4PR34",
+  "asin": "B0HKZ4PR34",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "Surface Pro cur B0DXGNJ2S9",
+  "asin": "B0DXGNJ2S9",
+  "need": [
+   "stats"
+  ]
+ },
+ {
+  "path": "src/_probe.json",
+  "name": "Microsoft Surface Pro 11th Edition Snapdragon X Plus 12 inch",
   "asin": "",
   "need": [
    "link",
@@ -11,7 +59,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "HP Spectre x360 14 Intel Core Ultra 7 OLED touchscreen",
+  "name": "Lenovo IdeaPad Slim 3 15 laptop",
   "asin": "",
   "need": [
    "link",
@@ -21,7 +69,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "Dell 14S laptop",
+  "name": "Lenovo IdeaPad Slim 5 16 inch laptop",
   "asin": "",
   "need": [
    "link",
@@ -31,7 +79,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "Dell 14S Intel Core Ultra 7 OLED touchscreen",
+  "name": "Acer Aspire Go 15 laptop",
   "asin": "",
   "need": [
    "link",
@@ -41,7 +89,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "ASUS ROG Strix G16 RTX 5060 gaming laptop",
+  "name": "Acer Aspire 5 15 laptop Windows 11",
   "asin": "",
   "need": [
    "link",
@@ -51,7 +99,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "ASUS ROG Strix G16 G614 RTX 5060 16GB 165Hz",
+  "name": "HP Victus 15 gaming laptop RTX",
   "asin": "",
   "need": [
    "link",
@@ -61,7 +109,7 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "Acer Nitro V 16 AI RTX 5060 gaming laptop",
+  "name": "Lenovo Yoga 9i 2-in-1 Aura Edition 14",
   "asin": "",
   "need": [
    "link",
@@ -71,93 +119,11 @@
  },
  {
   "path": "src/_probe.json",
-  "name": "Acer Nitro V 16S AI gaming laptop",
+  "name": "Lenovo ThinkPad X1 Carbon Gen 13",
   "asin": "",
   "need": [
    "link",
    "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "ASUS ROG Zephyrus G14 2025 RTX 5060",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "ASUS ROG Zephyrus G14 RTX 5070 Ti OLED",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Acer Swift 16 AI SF16-51 Intel Core Ultra 7 256V OLED",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Acer Swift 16 AI (Lunar Lake) [B0F28NWHQ8]",
-  "asin": "B0F28NWHQ8",
-  "need": [
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Acer Swift 16 AI (Lunar Lake) [B0H7B4YZ5G]",
-  "asin": "B0H7B4YZ5G",
-  "need": [
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Apple MacBook Pro 14-inch M5 Pro chip",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Lenovo Yoga 7i 2-in-1 14 inch Intel Core Ultra 7 laptop",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "MacBook Air 13 [B0GR1JTFP8]",
-  "asin": "B0GR1JTFP8",
-  "need": [
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "MacBook Pro M5 Pro [B0GR14G9PM]",
-  "asin": "B0GR14G9PM",
-  "need": [
    "stats"
   ]
  }
