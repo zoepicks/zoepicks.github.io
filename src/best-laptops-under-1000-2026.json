@@ -49,7 +49,9 @@
    "amazon_listing": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligen",
    "amazon_rating": "4.6",
    "amazon_reviews": 1514,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 13-inch MacBook with an A18 Pro chip, 8GB of memory and a 256GB SSD. It does not support P3 color, so it is not for serious color work.",
+   "benefit": "Picture a student writing essays and streaming between classes on a sturdy aluminum laptop that lasts about 13 hours. PCWorld picks it as its best budget laptop, and it is the lightest PCWorld-tested pick in this guide at 2.7 lb. It gives you a Mac without a Mac price. The catch: multi-core performance lags and memory is 8GB."
   },
   {
    "name": "Acer Swift 16 AI (Lunar Lake)",
@@ -84,7 +86,9 @@
    "skip_if": "you want the lowest price: the Amazon listing has been well above $1,000.",
    "asin": "B0F28NWHQ8",
    "image": "https://m.media-amazon.com/images/I/71g-ymAHSPL.jpg",
-   "image_asin": "B0H7B4YZ5G"
+   "image_asin": "B0H7B4YZ5G",
+   "desc": "A 16-inch Windows laptop with a 2880×1800 OLED screen, an Intel Core Ultra 7 256V chip, 16GB of RAM and a 1TB SSD. It weighs 3.37 lb and does not have standout AI features.",
+   "benefit": "Picture a day split between lectures and an office desk, with a big, sharp screen and no heavy bag. PCWorld measured about 17.5 hours of battery, the longest of the PCWorld-tested picks in this guide, and it has Wi-Fi 7 and two Thunderbolt 4 ports. The catch: its AI features still feel unfinished, and PCWorld found it just under budget at one store while others charged more."
   },
   {
    "name": "Acer Nitro V 16 AI",
@@ -125,7 +129,9 @@
    "amazon_listing": "Acer Nitro V 16 AI Gaming Laptop 16\" WUXGA IPS 180Hz AMD 6-core Ryzen 5 240 16GB DDR5 512G",
    "amazon_rating": "4.1",
    "amazon_reviews": 10,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 16-inch gaming laptop with an AMD Ryzen 5 240, an Nvidia RTX 5050, 16GB of RAM and a 1920×1200 180Hz screen. It weighs 5.38 lb and has Wi-Fi 6 only.",
+   "benefit": "Picture a student who games at 1080p in the evening and uses the same laptop for school during the day. Its RTX 5050 averaged around 72 fps in Cyberpunk 2077, and battery life is unusually good for a gaming laptop at 8 to 12 hours with light use. It is the only pick in this guide with dedicated graphics named in our sources. The catch: the CPU is sub-par, the speakers are poor, and prices vary a lot between stores."
   },
   {
    "name": "Asus Chromebook Plus CX34",
@@ -168,7 +174,9 @@
    "amazon_listing": "Asus Chromebook Plus CX34 CX3402CBA-DH388-GR 14\" Chromebook - Full HD - Intel Core i3 12th",
    "amazon_rating": "4.6",
    "amazon_reviews": 12,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 14-inch Chromebook Plus with an Intel Core i5-1335U, 8GB of RAM and a 1920×1080 touchscreen. It runs ChromeOS only.",
+   "benefit": "Picture a student who lives in the browser and Google apps, typing notes on a keyboard that PCWorld calls a highlight. It is fast for a Chromebook and costs roughly half of what most laptops on this list do. The catch: it runs ChromeOS only, and its battery life of about 13 hours is not class-leading."
   },
   {
    "name": "Lenovo IdeaPad Slim 3x",
@@ -205,7 +213,9 @@
    "amazon_listing": "Lenovo IdeaPad Slim 3X - 2025 - Everyday AI Laptop - Copilot+ PC - 15.3\" WUXGA Display - 1",
    "amazon_rating": "4.4",
    "amazon_reviews": 254,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 15.3-inch Windows laptop with a Qualcomm Snapdragon X chip and a 45 TOPS NPU. It has an ARM chip, so some apps may not run.",
+   "benefit": "Picture a laptop for browsing, streaming and notes that gets through a day without a charger. Lenovo claims up to 14 hours, and Rapid Charge gives about 2 hours from a 15-minute charge, per Lenovo. It is one of the cheapest Copilot+ PCs you can buy. The catch: PCWorld says the 15-inch screen is the weakest part and the hardware makes a lot of compromises."
   },
   {
    "name": "Acer Aspire Go 15",
@@ -242,7 +252,9 @@
    "amazon_listing": "Acer Aspire Lite 15 Laptop with Office 365, 16GB RAM, 1TB Cloud Storage and 256GB SSD, Int",
    "amazon_rating": "4.6",
    "amazon_reviews": 3,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 15-inch Windows laptop with a 1080p display. It has integrated graphics only.",
+   "benefit": "Picture a family laptop for homework, email and video calls. PCWorld highlights the Aspire Go 15 for great battery life and a solid 1080p screen, BestReviews picks it as a budget laptop still worth using, and 8bittoast calls it the most consistently recommended budget laptop in its range in 2026. The catch: integrated graphics only, so it is not for gaming."
   },
   {
    "name": "ASUS Chromebook CX15",
@@ -277,7 +289,9 @@
    "amazon_listing": "ASUS Chromebook CX15 Laptop, 15.6\" FHD Anti-Glare Display, Intel® Processor N50, 128GB Sto",
    "amazon_rating": "4.3",
    "amazon_reviews": 94,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 15-inch Chromebook with a tested battery life of 7 hours 26 minutes (Tom's Guide). It is a basic machine, not a premium one.",
+   "benefit": "Picture a simple laptop for web pages, documents and video calls. PCWorld names it the best Chromebook in its low-price class, and Tom's Guide calls it one of the cheapest laptops it has tested that still does not disappoint. It is the cheapest pick in this guide. The catch: its 7 hours 26 minutes of tested battery is the shortest figure in this guide."
   },
   {
    "name": "Acer Aspire 5",
@@ -312,7 +326,9 @@
    "amazon_rating_asof": "Oct 19, 2026",
    "tabs": [
     "under-600"
-   ]
+   ],
+   "desc": "A Windows 11 laptop for office work, browsing and light streaming (PCGuide). It is not made for gaming.",
+   "benefit": "Picture a student writing papers, browsing and watching lectures on a dependable Windows laptop. PCGuide recommends the Aspire 5 Slim for non-gaming use, and Impressive Magazine names the 2026 Aspire 5 its best Windows all-rounder. It is the plain all-round Windows choice among this guide's mid-budget picks. The catch: it is not made for gaming."
   },
   {
    "name": "ASUS Vivobook 16 (M1605)",
@@ -348,7 +364,9 @@
    "amazon_rating_asof": "Oct 19, 2026",
    "tabs": [
     "under-600"
-   ]
+   ],
+   "desc": "A 16-inch Windows laptop. iTechGuides says to look for the 16GB RAM and 512GB SSD configuration.",
+   "benefit": "Picture a student who wants a large screen for documents and spreadsheets and is willing to carry a bigger laptop. iTechGuides reports that RTINGS names it its best tested laptop in this price range, strongest overall when it has at least 16GB of RAM and a 512GB SSD. The catch: it is only worth buying in that configuration, and the 16-inch size is less portable."
   },
   {
    "name": "Lenovo IdeaPad Slim 3",
@@ -385,69 +403,9 @@
    "amazon_rating_asof": "Oct 19, 2026",
    "tabs": [
     "under-600"
-   ]
-  },
-  {
-   "name": "Lenovo Chromebook Flex 11",
-   "short": "Flex 11",
-   "badge": "Best for Students",
-   "why": [
-    "The Flex 11 is highlighted for its 11‑inch screen and 2‑in‑1 functionality.",
-    "It is recommended for students needing a portable, versatile device."
    ],
-   "desc": "The Lenovo Chromebook Flex 11 is an 11‑inch 2‑in‑1 Chromebook with a flexible hinge and decent battery life. It does not feature a high‑end processor.",
-   "benefit": "Picture a college student who attends lectures and works on assignments on the go. The Flex 11’s 2‑in‑1 design lets you use it as a laptop or tablet, and its battery supports a full day of classes. It outperforms other picks by offering the best balance of portability and versatility. The catch: its performance is lower than some dedicated laptops.",
-   "specs": [
-    "11‑inch display",
-    "2‑in‑1 convertible",
-    "Decent battery life"
-   ],
-   "pros": [
-    "Versatile design",
-    "Portable",
-    "Good battery"
-   ],
-   "cons": [
-    "Lower performance",
-    "No high‑end graphics"
-   ],
-   "best_for": "students",
-   "skip_if": "you need high performance",
-   "link": "https://www.amazon.com/s?k=Lenovo+Chromebook+Flex+11&tag=zoepicks00-20",
-   "tabs": [
-    "small"
-   ]
-  },
-  {
-   "name": "Apple MacBook Air",
-   "short": "MacBook Air",
-   "badge": "Best Ultra‑Portable",
-   "why": [
-    "The MacBook Air is ranked first in Notebookcheck’s best ultra‑portable laptops list.",
-    "It is praised for its performance and battery life in a lightweight package."
-   ],
-   "desc": "The Apple MacBook Air is a subnotebook with a 13‑inch display, lightweight design, and integrated graphics. It does not have a dedicated GPU.",
-   "benefit": "Picture a professional who travels frequently and needs a reliable machine for work. The MacBook Air delivers strong performance and long battery life in a slim form factor, making it ideal for business use. It wins against other picks by offering the best overall performance among ultra‑portable laptops. The catch: it lacks a dedicated graphics card, limiting intensive graphics tasks.",
-   "specs": [
-    "13‑inch display",
-    "Lightweight",
-    "Integrated graphics"
-   ],
-   "pros": [
-    "Strong performance",
-    "Long battery",
-    "Slim design"
-   ],
-   "cons": [
-    "No dedicated GPU",
-    "Limited gaming"
-   ],
-   "best_for": "business professionals",
-   "skip_if": "you need high‑end gaming or graphics",
-   "link": "https://www.amazon.com/s?k=Apple+MacBook+Air&tag=zoepicks00-20",
-   "tabs": [
-    "small"
-   ]
+   "desc": "A 15.6-inch Windows 11 laptop that weighs 3.42 lb (Fypower). Weak 4GB or 128GB versions exist.",
+   "benefit": "Picture a sturdy everyday laptop for schoolwork that goes in a backpack every day. Fypower calls the Slim 3i 15.6 its best-value pick and says Lenovo puts these laptops through 12 military-grade durability tests. It is light for a 15.6-inch laptop. The catch: pick the configuration carefully, because 4GB or 128GB models are weak for daily use."
   }
  ],
  "tabs": [
@@ -465,5 +423,74 @@
    "key": "small",
    "label": "Small"
   }
+ ],
+ "intro": [
+  "The same laptop can cost very different amounts at different stores. PCWorld saw the Acer Nitro V 16 AI far higher on Amazon than at other stores, and the Swift 16 AI just under the budget line at Best Buy while other stores charged more.",
+  "Some of these only drop into budget at certain stores or during sales, so compare before you buy."
+ ],
+ "verdict": {
+  "pick": "Apple MacBook Neo",
+  "line": "If you want one laptop on a budget, get this one: it is PCWorld's pick for best budget laptop, with a sturdy aluminum body, a sharp 13-inch screen and about 13 hours of battery. It has only 8GB of memory and its multi-core performance lags.",
+  "also": [
+   [
+    "Best Windows all-rounder",
+    "Acer Swift 16 AI (Lunar Lake)"
+   ],
+   [
+    "Best gaming laptop",
+    "Acer Nitro V 16 AI"
+   ],
+   [
+    "Best Chromebook",
+    "Asus Chromebook Plus CX34"
+   ],
+   [
+    "Cheapest Copilot+ PC",
+    "Lenovo IdeaPad Slim 3x"
+   ]
+  ]
+ },
+ "tips": {
+  "title": "4 mistakes when buying a budget laptop",
+  "items": [
+   [
+    "Paying the first price you see.",
+    "PCWorld saw the Nitro V 16 AI far higher on Amazon than at other stores, and the Swift 16 AI just under the budget line at only one store."
+   ],
+   [
+    "Buying a weak configuration.",
+    "iTechGuides warns that 4GB or 128GB models of the IdeaPad Slim 3 are weak for daily use. For the Vivobook 16, look for 16GB of RAM and a 512GB SSD."
+   ],
+   [
+    "Forgetting that a Chromebook runs ChromeOS only.",
+    "The Chromebook picks cannot install Windows or macOS desktop software, so check your classes or work first."
+   ],
+   [
+    "Ignoring Windows on Arm.",
+    "The IdeaPad Slim 3x has an ARM chip, so check that your apps support Windows on ARM."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "What is the best budget laptop for most people?",
+   "The Apple MacBook Neo. It is PCWorld's pick for best budget laptop, with about 13 hours of battery at 2.7 lb. Its multi-core performance lags."
+  ],
+  [
+   "What is the best gaming laptop on a budget?",
+   "The Acer Nitro V 16 AI. Its RTX 5050 averaged around 72 fps in Cyberpunk 2077 in PCWorld's review. The CPU, speakers and Wi-Fi 6 are weak spots."
+  ],
+  [
+   "Which Windows laptop has the best battery life?",
+   "The Acer Swift 16 AI. PCWorld measured about 17.5 hours. The IdeaPad Slim 3x claims up to 14 hours, according to Lenovo."
+  ],
+  [
+   "Is a Chromebook enough for school?",
+   "If your work lives in the browser, yes. The Asus Chromebook Plus CX34 is our Best Chromebook. Skip it if you need Windows or macOS desktop software."
+  ],
+  [
+   "Which cheap Chromebook is best?",
+   "The ASUS Chromebook CX15. PCWorld names it the best Chromebook in its low-price class. Tom's Guide tested its battery at 7 hours 26 minutes."
+  ]
  ]
 }

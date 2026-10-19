@@ -82,7 +82,10 @@
    "amazon_rating": "3.9",
    "amazon_reviews": 3647,
    "amazon_rating_asof": "Oct 19, 2026",
-   "desc": "SCA-certified drip brewer with a double-wall thermal carafe, a programmable wake-up timer and a Rainmaker showerhead. It brews 2 to 9 cups."
+   "desc": "SCA-certified drip brewer with a double-wall thermal carafe, a programmable wake-up timer and a Rainmaker showerhead. It brews 2 to 9 cups.",
+   "amazon_price": "$206.87",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "OXO Brew 9-Cup Drip Coffee Maker – Programmable Machine, Stainless Steel"
   },
   {
    "name": "Breville Precision Brewer Thermal",
@@ -113,9 +116,9 @@
    "skip_if": "You just want to press one button and pour",
    "link": "https://www.amazon.com/s?k=Breville+Precision+Brewer+Thermal&tag=zoepicks00-20",
    "benefit": "If you try different beans and like getting the best from each bag, you can tune the temperature and bloom instead of living with one fixed recipe. If you only want one button, you will pay for settings you never use.",
-   "fill_tries": 2,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false,
+   "fill_failed": true,
    "desc": "Drip brewer with adjustable brew temperature, adjustable bloom time, a pour-over mode and a thermal carafe."
   },
   {

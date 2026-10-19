@@ -40,7 +40,9 @@
    "amazon_listing": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina ",
    "amazon_rating": "4.8",
    "amazon_reviews": 303,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 13-inch MacBook Air with the Apple M5 chip and Wi-Fi 7, released in March 2026. Its memory and storage cannot be upgraded later.",
+   "benefit": "Picture a student or professional carrying one light laptop from class to office to home, with a full day of battery. Macworld names it the best MacBook overall, Tom's Guide reports over 15 hours of battery, and it can drive two external displays. It is the best pick for most people in this guide, while the Neo is slower and the Pros cost much more. The catch: RAM and storage are fixed, so buy the size you need up front."
   },
   {
    "name": "Apple MacBook Neo",
@@ -74,7 +76,9 @@
    "amazon_listing": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligen",
    "amazon_rating": "4.6",
    "amazon_reviews": 1518,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "Apple's entry-level MacBook with the A18 Pro chip. It has about half the multi-core and GPU speed of the M5 Air (Refurbed).",
+   "benefit": "Picture a student writing essays, browsing and sending email on a real MacBook. Macworld calls it the cheapest way to buy a Mac laptop in 2026, and Tom's Guide calls it an exemplary budget laptop for the price. It is the cheapest Mac in this guide. The catch: it is less powerful than the Air and Pro, so it is not for video editing or heavy coding."
   },
   {
    "name": "Apple MacBook Pro 14-inch (M5)",
@@ -108,7 +112,9 @@
    "amazon_listing": "Apple 2025 MacBook Pro Laptop with Apple M5 chip with 10‑core CPU and 10‑core GPU: Built f",
    "amazon_rating": "4.7",
    "amazon_reviews": 324,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 14-inch MacBook Pro with the Apple M5 chip. It has a better display than the Air.",
+   "benefit": "Picture a power user who carries a dependable Pro to client meetings, with strong sustained performance and long battery life. Tom's Guide names it the best MacBook Pro overall, and Macworld recommends it for people who need sustained performance and better displays than the Air offers. It is the Pro to pick if you do not need the M5 Pro or M5 Max. The catch: it costs much more than the Air."
   },
   {
    "name": "Apple MacBook Pro (M5 Pro / M5 Max)",
@@ -140,7 +146,74 @@
    "image_asin": "B0FWD726XF",
    "amazon_rating": "4.7",
    "amazon_reviews": 457,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 19, 2026",
+   "desc": "A 14-inch or 16-inch MacBook Pro with an M5 Pro or M5 Max chip. It is built for sustained heavy work, not for light use.",
+   "benefit": "Picture a video editor or developer who runs heavy projects every day. Macworld points creative pros, developers and high-end video editors to the M5 Pro and M5 Max, and Tom's Guide picks the M5 Pro for its strong GPU for video edits and AI work. It has the top GPU and CPU power in this guide. The catch: it is very expensive and more than most people need."
   }
+ ],
+ "intro": [
+  "You cannot add memory or storage to the MacBook Air after you buy it. That makes the size you choose up front matter more than the chip,.",
+  "Apple raised MacBook prices in 2026, so check the current price on Amazon before you buy."
+ ],
+ "verdict": {
+  "pick": "Apple MacBook Air 13-inch (M5, 2026)",
+  "line": "If you want one MacBook for school, work and everything else, get this one: Macworld names it the best MacBook overall, and Tom's Guide reports over 15 hours of battery. Its memory and storage cannot be upgraded later, so buy the size you need up front.",
+  "also": [
+   [
+    "Best budget MacBook",
+    "Apple MacBook Neo"
+   ],
+   [
+    "Best Pro for most",
+    "Apple MacBook Pro 14-inch (M5)"
+   ],
+   [
+    "Best for creators and pros",
+    "Apple MacBook Pro (M5 Pro / M5 Max)"
+   ]
+  ]
+ },
+ "tips": {
+  "title": "4 mistakes when buying a MacBook",
+  "items": [
+   [
+    "Treating the Neo like an Air.",
+    "Refurbed says the M5 in the Air has roughly double the multi-core and GPU performance of the Neo's A18 Pro chip."
+   ],
+   [
+    "Buying too little memory or storage on an Air.",
+    "The Air's RAM and storage are fixed, so you cannot upgrade them later."
+   ],
+   [
+    "Buying a Pro for light work.",
+    "If you mostly browse, write and stream, the Pro is more than you need."
+   ],
+   [
+    "Expecting a big jump from the 14-inch M5.",
+    "Tom's Guide notes the 14-inch M5 is not a huge upgrade over the M4 model."
+   ]
+  ]
+ },
+ "faq": [
+  [
+   "Which MacBook should most people buy?",
+   "The 13-inch M5 MacBook Air. Macworld names it the best MacBook overall, and Tom's Guide calls it a fantastic laptop for most people."
+  ],
+  [
+   "Is the MacBook Neo good enough?",
+   "For browsing, schoolwork and email, yes. Macworld calls it the cheapest way to buy a Mac laptop in 2026. Skip it if you edit video or code heavily."
+  ],
+  [
+   "When should I choose a MacBook Pro over an Air?",
+   "Choose a Pro if you need sustained performance and better displays than the Air offers, as Macworld says."
+  ],
+  [
+   "Which MacBook is best for video editors?",
+   "The MacBook Pro with M5 Pro or M5 Max. Tom's Guide picks the M5 Pro for its strong GPU for video edits and AI work."
+  ],
+  [
+   "Can I upgrade the memory later?",
+   "On the MacBook Air, no. Memory and storage cannot be upgraded after you buy."
+  ]
  ]
 }

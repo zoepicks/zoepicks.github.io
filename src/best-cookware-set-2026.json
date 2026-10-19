@@ -78,9 +78,18 @@
    "skip_if": "You want a USA-made or heirloom set",
    "link": "https://www.amazon.com/s?k=Tramontina+Signature+Tri-Ply+Clad+12-Piece+Cookware+Set&tag=zoepicks00-20",
    "benefit": "Near-premium tri-ply cooking for much less, with 12 pieces so your kitchen is covered from day one.",
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B00JDL2GXG",
+   "amazon_price": "$299.95",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Pc Pots and Pans Set",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 1764,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "image": "https://m.media-amazon.com/images/I/81XtWukmgBL.jpg",
+   "image_asin": "B00JDL2GXG"
   },
   {
    "name": "Cuisinart MultiClad Pro 12-Piece Stainless Steel Cookware Set (MCP-12N)",
@@ -150,9 +159,18 @@
    "link": "https://www.amazon.com/s?k=GreenPan+Valencia+Pro+Ceramic+Non%E2%80%91Stick+11%E2%80%91Piece+Cookware+Set&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
    "benefit": "Eggs, fish and pancakes slide out and cleanup takes seconds, with a ceramic coating the maker says is free of PFAS.",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": true,
+   "asin": "B071HVQL76",
+   "amazon_price": "$449.95",
+   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_listing": "GreenPan Valencia Pro 11 Piece Cookware Set Ceramic Nonstick Pots & Pans",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 2137,
+   "amazon_rating_asof": "Oct 19, 2026",
+   "image": "https://m.media-amazon.com/images/I/71Lc41U-QYL.jpg",
+   "image_asin": "B071HVQL76"
   },
   {
    "name": "Hestan NanoBond Stainless Steel 10‑Piece Cookware Set",
