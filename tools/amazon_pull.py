@@ -23,10 +23,12 @@ def tasks():
 
 JS_SEARCH = """() => [...document.querySelectorAll('div[data-component-type="s-search-result"][data-asin]')].slice(0,10).map(d => {
   const q = s => d.querySelector(s);
-  const rate = q('span[aria-label*="out of 5 stars"]');
-  const cnt = q('a[aria-label*="ratings"], span[aria-label*="ratings"]') || q('span.s-underline-text');
-  return {asin: d.getAttribute('data-asin'), title: (q('h2') || {}).innerText || '', image: (q('img.s-image') || {}).src || '',
-          price: (q('span.a-price span.a-offscreen') || {}).textContent || '', rating: rate ? rate.getAttribute('aria-label') : '',
+  const h2 = q('h2'), im = q('img.s-image');
+  const title = [h2 && h2.getAttribute('aria-label'), im && im.alt, h2 && h2.innerText].filter(Boolean).sort((a,b) => b.length - a.length)[0] || '';
+  const rate = q('span.a-icon-alt');
+  const cnt = q('a[aria-label*="rating"], span[aria-label*="rating"]') || q('span.s-underline-text');
+  return {asin: d.getAttribute('data-asin'), title: title, image: im ? im.src : '',
+          price: (q('span.a-price span.a-offscreen') || {}).textContent || '', rating: rate ? rate.textContent : '',
           reviews: cnt ? (cnt.getAttribute('aria-label') || cnt.textContent) : '', sponsored: /sponsored/i.test(d.innerText.slice(0,200))};
 }).filter(x => x.asin)"""
 JS_DP = """() => {
