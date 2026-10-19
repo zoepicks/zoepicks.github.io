@@ -1,0 +1,75 @@
+name: Zoe Fill Missing
+
+# Fills every guide product that is still missing its Amazon ASIN / image / price / stars, using real headless Chromium.
+# Only products with something missing are looked up - complete products are skipped (zero Amazon requests for them).
+# Logic lives in the private Naami repo (x/zoe_fill_ci.py -> x/zoe_images.py); this repo is public, so the Actions minutes are free.
+# Manual run: Actions -> Zoe Fill Missing -> Run workflow.
+# Needs secret ZOE_GH_TOKEN (same one zoe-deal-scan uses: write access to this repo, read access to Naami).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zoe-fill-missing
+  cancel-in-progress: false
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: naami24x7/Naami
+          token: ${{ secrets.ZOE_GH_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements-scan.txt
+
+      - name: Install lean deps
+        run: pip install -r requirements-scan.txt
+
+      - name: Install Chromium (Amazon search pages need a real browser)
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Fill missing ASIN / image / price / stars
+        env:
+          ZOE_GH_TOKEN: ${{ secrets.ZOE_GH_TOKEN }}
+        run: python -m x.zoe_fill_ci
+
+      - name: Push result (readable in this repo)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request
+          token, repo = os.environ["GH_TOKEN"], "zoepicks/zoepicks.github.io"
+          try:
+              data = json.load(open("fill_result.json", encoding="utf-8"))
+          except Exception:
+              data = {"phase": "error", "error": "run ended without a result (crash or timeout)"}
+          data["run_id"] = os.environ.get("RUN_ID")
+          path = ".github/zoe-fill-results/latest.json"
+          api = f"https://api.github.com/repos/{repo}/contents/{path}"
+          hdr = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+          sha = None
+          try:
+              sha = json.loads(urllib.request.urlopen(urllib.request.Request(api, headers=hdr)).read())["sha"]
+          except Exception:
+              pass
+          body = {"message": "ci: zoe-fill-missing result (auto)", "content": base64.b64encode(json.dumps(data, ensure_ascii=False, indent=1).encode()).decode()}
+          if sha:
+              body["sha"] = sha
+          req = urllib.request.Request(api, data=json.dumps(body).encode(), headers={**hdr, "Content-Type": "application/json"}, method="PUT")
+          print(path, urllib.request.urlopen(req).status)
+          PYEOF
