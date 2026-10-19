@@ -383,14 +383,14 @@
   },
   "hobby_music:usb-microphones": {
    "label": "USB Microphones",
-   "tries": 2,
+   "tries": 3,
    "items": [
     {
      "asin": "B0H3PVPTJB",
      "name": "SONEVOX AirMic Mini Wireless Microphone",
      "pct": 45,
      "rating": 4.7,
-     "t": 1792327787,
+     "t": 1792369730,
      "img": "https://m.media-amazon.com/images/I/91uUKTLbTBL.jpg",
      "link": "https://www.amazon.com/dp/B0H3PVPTJB?tag=zoepicks00-20",
      "now": "32.99",
@@ -405,7 +405,7 @@
      "name": "Logitech Creators Blue Yeti USB Microphone",
      "pct": 29,
      "rating": 4.6,
-     "t": 1792327787,
+     "t": 1792369730,
      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
      "now": "99.99",
@@ -416,7 +416,7 @@
      "_price": 99.99
     }
    ],
-   "scanned": "2026-10-18T12:49:47.114200+00:00",
+   "scanned": "2026-10-19T00:28:50.649502+00:00",
    "via": "sweep"
   },
   "home_kitchen:air-fryers": {
@@ -6976,7 +6976,7 @@
    "types": 8
   },
   "hobby_music": {
-   "at": "2026-10-18T12:49:47.114200+00:00",
+   "at": "2026-10-19T00:28:50.649502+00:00",
    "pages": 10,
    "cards": 240,
    "offer_cards": 239,
