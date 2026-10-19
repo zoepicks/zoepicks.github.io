@@ -1,0 +1,42 @@
+name: Amazon Pull
+
+# Raw Amazon data (search cards / exact /dp page) for guide products that still miss asin / image / price / stars.
+# Result is committed to .github/amazon-raw/results.json; the guides are filled from it afterwards (nothing is guessed here).
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'max products (0 = all)'
+        default: '0'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: amazon-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - name: Install Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+      - name: Pull from Amazon
+        env:
+          LIMIT: ${{ github.event.inputs.limit }}
+        run: python -u tools/amazon_pull.py 2>&1 | tee /tmp/pull.log
+      - name: Commit raw result
+        if: always()
+        run: |
+          tail -n 60 /tmp/pull.log > .github/amazon-raw/log.txt || true
+          git config user.name "zoe-bot"; git config user.email "zoe-bot@users.noreply.github.com"
+          git add .github/amazon-raw
+          git commit -m "amazon-pull: raw result (auto)" || exit 0
+          for i in 1 2 3 4 5 6; do git pull -q --rebase && git push -q && break || sleep 5; done
