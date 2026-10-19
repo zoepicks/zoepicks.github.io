@@ -105,7 +105,10 @@
    "skip_if": "you want a quiet bedroom unit or hate refilling every day",
    "asin": "B0B1DQ8KV3",
    "image": "https://m.media-amazon.com/images/I/71BKdwThcJL.jpg",
-   "image_asin": "B0B1DQ8KV3"
+   "image_asin": "B0B1DQ8KV3",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Levoit Classic 300S Smart Ultrasonic Cool Mist Humidifier",
@@ -138,7 +141,10 @@
    "skip_if": "your room is large or very dry and you need maximum output",
    "asin": "B09C24TYGQ",
    "image": "https://m.media-amazon.com/images/I/71Vwkk9ht+L.jpg",
-   "image_asin": "B09C24TYGQ"
+   "image_asin": "B09C24TYGQ",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Dreo Smart Humidifier HM311S",
@@ -170,7 +176,10 @@
    "skip_if": "your room is large or you need strong output on a very dry day",
    "asin": "B0CCVX6FSD",
    "image": "https://m.media-amazon.com/images/I/71jt63GyBzL.jpg",
-   "image_asin": "B0CCVX6FSD"
+   "image_asin": "B0CCVX6FSD",
+   "fill_tries": 1,
+   "fill_last": "Oct 19, 2026",
+   "fill_failed": false
   },
   {
    "name": "Blueair InvisibleMist H35i Humidifier",
