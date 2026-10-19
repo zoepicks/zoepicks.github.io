@@ -2172,7 +2172,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 19, 2026"
  },
  {
   "title": "Best In-Ear Gaming Headphones (2026)",
@@ -2181,7 +2182,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 19, 2026"
  },
  {
   "title": "Best Chewable Fidget Toy (2026)",
@@ -2190,7 +2192,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 19, 2026"
  },
  {
   "title": "Best Polo Shirt (2026)",
@@ -2199,7 +2202,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 19, 2026"
  },
  {
   "title": "Best Facial Skincare (2026)",
@@ -2208,7 +2212,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 19, 2026"
  },
  {
   "title": "Best Road Bike (2026)",
@@ -2220,6 +2225,7 @@
   "source": "buyer-leads",
   "parent": "best-exercise-bikes-2026",
   "tab": "road",
-  "tab_label": "Road"
+  "tab_label": "Road",
+  "last_try": "Oct 19, 2026"
  }
 ]
