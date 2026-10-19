@@ -1,129 +1,105 @@
 [
  {
   "path": "src/_probe.json",
-  "name": "Strix G16 B0DZZWMB2L",
-  "asin": "B0DZZWMB2L",
+  "name": "SurfacePro 2024 11th ed",
+  "asin": "B0DV177XNR",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Swift 16 B0GCN46SPT",
-  "asin": "B0GCN46SPT",
+  "name": "IdeaPad Slim3 Ryzen7",
+  "asin": "B0F2MLQPL3",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "MBP M5 Pro B0GR17YNHL",
-  "asin": "B0GR17YNHL",
+  "name": "IdeaPad Slim3 cur",
+  "asin": "B0GZZR7CDN",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Yoga 7i B0FQ364776",
-  "asin": "B0FQ364776",
+  "name": "Aspire Go15 R3",
+  "asin": "B0GRJ59M6Y",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Yoga 7i B0HKZ4PR34",
-  "asin": "B0HKZ4PR34",
+  "name": "Aspire Go15 R7 578",
+  "asin": "B0H7FHP8YY",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Surface Pro cur B0DXGNJ2S9",
-  "asin": "B0DXGNJ2S9",
+  "name": "Aspire Go15 cur",
+  "asin": "B0HJG54TV2",
   "need": [
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Microsoft Surface Pro 11th Edition Snapdragon X Plus 12 inch",
-  "asin": "",
+  "name": "Aspire Go15 R7 629",
+  "asin": "B0FT3NRVL6",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Lenovo IdeaPad Slim 3 15 laptop",
-  "asin": "",
+  "name": "Aspire5 touch",
+  "asin": "B0D45Z3KSJ",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Lenovo IdeaPad Slim 5 16 inch laptop",
-  "asin": "",
+  "name": "Aspire5 cur",
+  "asin": "B0HBQ76XDR",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Acer Aspire Go 15 laptop",
-  "asin": "",
+  "name": "X1 Carbon alt 4.5",
+  "asin": "B0DQ4CRXDQ",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Acer Aspire 5 15 laptop Windows 11",
-  "asin": "",
+  "name": "X1 Carbon alt 4.2",
+  "asin": "B0FS9WHNQJ",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "HP Victus 15 gaming laptop RTX",
-  "asin": "",
+  "name": "Yoga9i alt",
+  "asin": "B0FTCGYXTM",
   "need": [
-   "link",
-   "image",
    "stats"
   ]
  },
  {
   "path": "src/_probe.json",
-  "name": "Lenovo Yoga 9i 2-in-1 Aura Edition 14",
-  "asin": "",
+  "name": "Yoga9i cur",
+  "asin": "B0FTBSZ4TD",
   "need": [
-   "link",
-   "image",
-   "stats"
-  ]
- },
- {
-  "path": "src/_probe.json",
-  "name": "Lenovo ThinkPad X1 Carbon Gen 13",
-  "asin": "",
-  "need": [
-   "link",
-   "image",
    "stats"
   ]
  }
