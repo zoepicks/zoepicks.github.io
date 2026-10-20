@@ -648,6 +648,7 @@ def main():
     count = max(1, int(_arg("--count", 1)))
     gap = int(_arg("--gap", 45))
     tried, made, fails_in_row = set(), 0, 0
+    log(f"keys loaded: tavily {len(_tv_keys())} ({', '.join('...' + k[-4:] for k in _tv_keys()) or 'none'}) | groq {len([k for k in (os.environ.get('GROQ_API_KEY') or '').split(',') if k.strip()])}")
     deadline = time.time() + float(_arg("--max-min", 0) or 0) * 60 if _arg("--max-min") else None
     halt = None
     for i in range(count):
@@ -680,7 +681,7 @@ def main():
     log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
     if halt and os.environ.get("RUN_TAG") and not dry:      # tells the remaining chunks of THIS run not to start (they would hit the same wall)
         (ROOT / ".github").mkdir(exist_ok=True)
-        (ROOT / ".github/collect-halt.json").write_text(json.dumps({"run": os.environ["RUN_TAG"], "reason": halt, "at": datetime.datetime.utcnow().isoformat() + "Z"}))
+        (ROOT / ".github/collect-halt.json").write_text(json.dumps({"run": os.environ["RUN_TAG"], "reason": halt, "at": datetime.datetime.now(datetime.timezone.utc).isoformat() + "Z"}))
     if made == 0 and count > 1: sys.exit(1)
 
 
