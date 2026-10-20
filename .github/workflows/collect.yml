@@ -3,7 +3,7 @@ name: Collect guide data
 # NO fixed schedule any more. The Naami bot (x/zoe_collect.py on Render) triggers this ONCE per day,
 # right after BOTH the X window and the FB window have closed (bot idle), asking for up to 250 guides (built in sequential chunks of 50, one job each, because one GitHub job is limited to 6 h).
 # Manual run: Actions tab -> Run workflow (optionally a slug / a count).
-# Needs repo secret GROQ_API_KEY (optionally OPENROUTER_API_KEY, TAVILY_API_KEY).
+# Needs repo secret GROQ_API_KEY (optionally OPENROUTER_API_KEY, TAVILY_API_KEY + TAVILY_API_KEY_2..6 - rotated when one hits its limit).
 on:
   repository_dispatch:
     types: [zoe_collect]
@@ -30,7 +30,7 @@ jobs:
       matrix:
         chunk: [0, 1, 2, 3, 4]
     runs-on: ubuntu-latest
-    timeout-minutes: 345
+    timeout-minutes: 150      # was 345: a stuck run used to block the queue for 5.75 h
     steps:
       - uses: actions/checkout@v4
       - name: Plan this chunk
@@ -49,6 +49,9 @@ jobs:
             [ "$SHARE" -gt 50 ] && SHARE=50
             [ "$SHARE" -lt 0 ] && SHARE=0
           fi
+          if [ -f .github/collect-halt.json ] && grep -q "\"run\": \"${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}\"" .github/collect-halt.json; then
+            echo "an earlier chunk of this run stopped (quota/limit): $(cat .github/collect-halt.json) -> this chunk is skipped"; SHARE=0
+          fi
           echo "share=$SHARE" >> "$GITHUB_OUTPUT"
           echo "chunk $CHUNK builds $SHARE guide(s) (total requested: $COUNT)"
       - if: steps.plan.outputs.share != '0'
@@ -61,10 +64,17 @@ jobs:
         run: playwright install --with-deps chromium || echo "playwright install failed - browser fallback disabled"
       - name: Collect + build guides
         if: steps.plan.outputs.share != '0'
+        timeout-minutes: 120      # step-level cap so the Commit step below ALWAYS gets to run (and save the log + guides)
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          TAVILY_API_KEY_2: ${{ secrets.TAVILY_API_KEY_2 }}
+          TAVILY_API_KEY_3: ${{ secrets.TAVILY_API_KEY_3 }}
+          TAVILY_API_KEY_4: ${{ secrets.TAVILY_API_KEY_4 }}
+          TAVILY_API_KEY_5: ${{ secrets.TAVILY_API_KEY_5 }}
+          TAVILY_API_KEY_6: ${{ secrets.TAVILY_API_KEY_6 }}
+          RUN_TAG: ${{ github.run_id }}-${{ github.run_attempt }}
           IN_SLUG: ${{ github.event.inputs.slug }}
           SHARE: ${{ steps.plan.outputs.share }}
           CHUNK: ${{ matrix.chunk }}
@@ -73,15 +83,16 @@ jobs:
           set -o pipefail
           TEE="tee"; [ "$CHUNK" != "0" ] && TEE="tee -a"      # last-collect.log accumulates across the chunks of one run
           if [ -n "$IN_SLUG" ]; then
-            python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | tail -n 200 | $TEE .github/last-collect.log
+            python3 -u tools/collect_guide.py --slug "$IN_SLUG" 2>&1 | $TEE .github/last-collect.log
           else
-            python3 -u tools/collect_guide.py --count "$SHARE" --gap 20 2>&1 | tail -n 200 | $TEE .github/last-collect.log
+            python3 -u tools/collect_guide.py --count "$SHARE" --gap 20 --max-min 100 2>&1 | $TEE .github/last-collect.log   # log is written live (no tail: a cancelled run used to lose it); script stops starting new guides after 100 min
           fi
       - name: Commit
         if: always() && steps.plan.outputs.share != '0'
         run: |
           git config user.name "zoe-collector-bot"
           git config user.email "zoe-collector-bot@users.noreply.github.com"
+          [ -f .github/last-collect.log ] && tail -n 400 .github/last-collect.log > .github/last-collect.tmp && mv .github/last-collect.tmp .github/last-collect.log
           git add -A
           if git diff --cached --quiet; then echo "nothing to commit"; else
             git commit -m "collect: new guide data"

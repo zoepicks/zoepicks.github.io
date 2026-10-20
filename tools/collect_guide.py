@@ -51,9 +51,35 @@ def log(*a): print("[collect]", *a, flush=True)
 
 
 # ---------- discovery ----------
+class SourcesDown(SystemExit):
+    """Every Tavily key is out of quota AND no fallback search works -> stop the whole run (do not mark topics as tried)."""
+
+_tv_dead = set()
+def _tv_keys():
+    """TAVILY_API_KEY and TAVILY_API_KEY_2 .. _9; each var may also hold several keys separated by commas."""
+    out = []
+    for name in ["TAVILY_API_KEY"] + [f"TAVILY_API_KEY_{i}" for i in range(2, 10)]:
+        for k in (os.environ.get(name) or "").split(","):
+            k = k.strip()
+            if k and k not in out: out.append(k)
+    return out
+
+def _tv_alive(): return [k for k in _tv_keys() if k not in _tv_dead]
+
+def _tv_post(payload, timeout=40):
+    """POST to Tavily with key rotation: 429/432/433/401/403 = key out of quota/invalid -> dead for this run, next key. Raises when none is left."""
+    keys = _tv_alive()
+    if not keys: raise RuntimeError("all Tavily keys exhausted")
+    for k in keys:
+        r = requests.post("https://api.tavily.com/search", json=dict(payload, api_key=k), timeout=timeout)
+        if r.status_code in (401, 403, 429, 432, 433):
+            _tv_dead.add(k); log(f"tavily key ...{k[-4:]} {r.status_code} (limit/invalid) -> skipped for this run, {len(_tv_alive())} key(s) left"); continue
+        r.raise_for_status()
+        return r
+    raise RuntimeError("all Tavily keys exhausted")
+
 def _tavily(q, domain):
-    r = requests.post("https://api.tavily.com/search", json={"api_key": os.environ["TAVILY_API_KEY"], "query": q, "include_domains": [domain],
-                      "max_results": 2, "search_depth": "basic"}, timeout=30)
+    r = _tv_post({"query": q, "include_domains": [domain], "max_results": 2, "search_depth": "basic"}, 30)
     return [x["url"] for x in r.json().get("results", [])]
 
 
@@ -68,9 +94,7 @@ def _ddg(q, domain):
 
 def _tavily_multi(q, domains):
     """ONE Tavily call per topic (free plan = 1000 searches/month): all review domains at once, 1 best URL per domain."""
-    r = requests.post("https://api.tavily.com/search", json={"api_key": os.environ["TAVILY_API_KEY"], "query": q, "include_domains": [d.split("/")[0] for d in domains],
-                      "max_results": 12, "search_depth": "basic"}, timeout=40)
-    r.raise_for_status()
+    r = _tv_post({"query": q, "include_domains": [d.split("/")[0] for d in domains], "max_results": 12, "search_depth": "basic"}, 40)
     seen, out = set(), []
     for x in r.json().get("results", []):
         host = next((d.split("/")[0] for d in domains if d.split("/")[0] in x["url"]), None)
@@ -162,7 +186,7 @@ def _kw(topic):
 def discover(topic, domains):
     q = _kw(topic) + " review tested"
     # 1) Tavily: ONE call per topic. (No per-domain Tavily retry any more - it only burns quota when the key/plan is the problem.)
-    if os.environ.get("TAVILY_API_KEY"):
+    if _tv_keys():
         try:
             pages = _tavily_multi(q, domains)
             if pages: log("tavily ->", len(pages), "pages"); return pages
@@ -178,7 +202,10 @@ def discover(topic, domains):
     if pages: log("ddg ->", len(pages), "pages"); return pages
     # 3) real browser search
     log("no pages from Tavily/DDG -> browser search fallback")
-    return _browser_search(q, domains)
+    pages = _browser_search(q, domains)
+    if not pages and _tv_keys() and not _tv_alive():
+        raise SourcesDown("all Tavily keys out of quota and DDG/browser search found nothing - stopping the run")
+    return pages
 
 
 def _extract(html, limit):
@@ -345,11 +372,16 @@ DEAL LINES (reddit/roundups, may be empty):
     src_block = "\n\n".join(f"[{i}] ({dom}) {txt[:per_src]}" for i, dom, txt in live)
     prompt = template.replace("{SRC}", src_block)
     log(f"llm request: {len(live)} sources x {per_src} chars, ~{est_tokens(SYSTEM, prompt)} in + {MAX_OUT_TOKENS} out tokens (budget {TOKEN_BUDGET})")
-    return llm(prompt, SYSTEM)
+    g = llm(prompt, SYSTEM)
+    if isinstance(g, list) and g and isinstance(g[0], dict): g = g[0]
+    if not isinstance(g, dict): raise ValueError(f"LLM returned {type(g).__name__}, not a JSON object")
+    g["products"] = [x for x in (g.get("products") or []) if isinstance(x, dict)] if isinstance(g.get("products"), list) else []
+    return g
 
 
 # ---------- grounding gate ----------
 def mentioned(name, text):
+    name = str(name or "")
     toks = [t for t in re.findall(r"[A-Za-z0-9]+", name.lower()) if len(t) > 1][:3]
     t = text.lower()
     return bool(toks) and all(x in t for x in toks)
@@ -357,7 +389,8 @@ def mentioned(name, text):
 
 def ground(g, pages, texts):
     keep = []
-    for p in g.get("products", []):
+    for p in (g.get("products") or []):
+        if not isinstance(p, dict): continue
         doms = {pages[i][0] for i, t in enumerate(texts) if t and mentioned(p.get("name", ""), t)}
         if len(doms) < MIN_SOURCES:
             log("drop (only %d sources):" % len(doms), p.get("name")); continue
@@ -490,11 +523,10 @@ def discover_open(topic, exclude=()):
     Returns [(host, url)], one URL per host, skipping shops/social and the hosts in `exclude`."""
     q = _kw(topic) + " best review tested"
     urls = []
-    if os.environ.get("TAVILY_API_KEY"):
+    if _tv_alive():
         try:
-            r = requests.post("https://api.tavily.com/search", json={"api_key": os.environ["TAVILY_API_KEY"], "query": q, "max_results": 15,
-                              "search_depth": "basic", "exclude_domains": [h.strip(".") for h in NOT_REVIEW_HOSTS if "." in h.strip(".")]}, timeout=40)
-            r.raise_for_status()
+            r = _tv_post({"query": q, "max_results": 15, "search_depth": "basic",
+                          "exclude_domains": [h.strip(".") for h in NOT_REVIEW_HOSTS if "." in h.strip(".")]}, 40)
             urls = [x["url"] for x in r.json().get("results", [])]
             log("open web (tavily) ->", len(urls), "results")
         except Exception as e:
@@ -560,7 +592,9 @@ def run_topic(plan, topic, dry):
     log(f"{ok}/{len(pages)} source pages fetched")
     top_up_sources(topic, domains, pages, texts)                       # fewer than TARGET_PAGES readable -> add backup sites
     ok = sum(bool(t) for t in texts)
-    if ok < MIN_SOURCES: raise SystemExit("not enough sources fetched; topic left as todo")
+    if ok < MIN_SOURCES:
+        if _tv_keys() and not _tv_alive(): raise SourcesDown("not enough sources and all Tavily keys are out of quota - stopping the run")
+        raise SystemExit("not enough sources fetched; topic left as todo")
     deals = collect_deals(topic)
     g = build(topic, pages, texts, deals)
     products = ground(g, pages, texts)
@@ -614,7 +648,10 @@ def main():
     count = max(1, int(_arg("--count", 1)))
     gap = int(_arg("--gap", 45))
     tried, made, fails_in_row = set(), 0, 0
+    deadline = time.time() + float(_arg("--max-min", 0) or 0) * 60 if _arg("--max-min") else None
+    halt = None
     for i in range(count):
+        if deadline and time.time() > deadline: log(f"time budget used up ({_arg('--max-min')} min) -> stopping, {made} guide(s) built so far"); break
         try:
             plan, topic = pick_topic(slug, tried)
         except SystemExit as e:
@@ -623,12 +660,13 @@ def main():
         try:
             run_topic(plan, topic, dry)
             made += 1; fails_in_row = 0
-        except LLMDown as e:
-            log("STOP:", e); break
+            log(f"progress: guide {made} done ({topic['slug']}) | tried {len(tried)} | tavily keys alive {len(_tv_alive())}/{len(_tv_keys())}")
+        except (LLMDown, SourcesDown) as e:
+            halt = str(e); log("STOP:", e); break
         except (Exception, SystemExit) as e:
             fails_in_row += 1
             log(f"FAILED {topic['slug']}: {e}")
-            if not dry and "no LLM key worked" not in str(e): _mark_tried(topic["slug"])
+            if not dry and "no LLM key worked" not in str(e) and "Tavily" not in str(e): _mark_tried(topic["slug"])
             if count == 1: raise
             if fails_in_row >= 3: log("3 failures in a row -> stopping this run"); break
         if slug or i == count - 1: break
@@ -640,6 +678,9 @@ def main():
     log("llm report: " + json.dumps({"keys": len(keys), "models": len(GROQ_MODELS), "daily": _diag["daily"], "toolarge": _diag["toolarge"],
                                       "minute": _diag["minute"], "noaccess": _diag["noaccess"], "ok": sorted(_diag["ok"])}))
     log(f"run finished: {made} guide(s) built, {len(tried)} topic(s) tried")
+    if halt and os.environ.get("RUN_TAG") and not dry:      # tells the remaining chunks of THIS run not to start (they would hit the same wall)
+        (ROOT / ".github").mkdir(exist_ok=True)
+        (ROOT / ".github/collect-halt.json").write_text(json.dumps({"run": os.environ["RUN_TAG"], "reason": halt, "at": datetime.datetime.utcnow().isoformat() + "Z"}))
     if made == 0 and count > 1: sys.exit(1)
 
 
