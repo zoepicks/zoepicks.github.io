@@ -2330,5 +2330,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Bluetooth Game Controller (2026)",
+  "slug": "best-bluetooth-game-controller-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-game-controller-2026",
+  "tab": "bluetooth",
+  "tab_label": "Bluetooth"
+ },
+ {
+  "title": "Best Street Photography Camera (2026)",
+  "slug": "best-street-photography-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
