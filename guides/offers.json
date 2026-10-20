@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-20T20:04:06Z",
+ "updated": "2026-10-20T22:34:36Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1194,8 +1194,18 @@
     ]
    },
    {
+    "key": "electric-shavers",
+    "label": "Electric Shavers",
+    "items": []
+   },
+   {
     "key": "electric-toothbrushes",
     "label": "Electric Toothbrushes",
+    "items": []
+   },
+   {
+    "key": "massage-guns",
+    "label": "Massage Guns",
     "items": []
    }
   ],
@@ -2046,8 +2056,23 @@
     ]
    },
    {
+    "key": "hiking-boots",
+    "label": "Hiking Boots",
+    "items": []
+   },
+   {
     "key": "walking-pads",
     "label": "Walking Pads",
+    "items": []
+   },
+   {
+    "key": "yoga-mats",
+    "label": "Yoga Mats",
+    "items": []
+   },
+   {
+    "key": "coolers",
+    "label": "Coolers",
     "items": []
    }
   ],
@@ -3223,6 +3248,38 @@
       "tier": "budget"
      },
      {
+      "asin": "B0GLPQCR51",
+      "name": "DJI Osmo Mobile 8 Standard Combo",
+      "pct": 18,
+      "rating": 4.3,
+      "t": 1792475221,
+      "img": "https://m.media-amazon.com/images/I/61MuXoEM4IL.jpg",
+      "link": "https://www.amazon.com/dp/B0GLPQCR51?tag=zoepicks00-20",
+      "now": "89.00",
+      "was": "109.00",
+      "reviews": 3702,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FJ2L67HJ",
+      "name": "DJI Osmo Mobile 8 Gimbal Stabilizer",
+      "pct": 13,
+      "rating": 4.3,
+      "t": 1792425853,
+      "img": "https://m.media-amazon.com/images/I/612zsTP6aOL.jpg",
+      "link": "https://www.amazon.com/dp/B0FJ2L67HJ?tag=zoepicks00-20",
+      "now": "129.00",
+      "was": "149.00",
+      "reviews": 3702,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "fitness-trackers",
+    "label": "Fitness Trackers",
+    "items": [
+     {
       "asin": "B0C8CJ6VD9",
       "name": "RUIMEN Smart Watches",
       "pct": 33,
@@ -3234,19 +3291,34 @@
       "was": "37.99",
       "deal": "Limited time deal",
       "reviews": 18040,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H35F38YX",
+      "name": "Smart Watches for Men Women,Smartwatch",
+      "pct": 53,
+      "rating": 4.4,
+      "t": 1792504372,
+      "img": "https://m.media-amazon.com/images/I/71uDHCyr2LL.jpg",
+      "link": "https://www.amazon.com/dp/B0H35F38YX?tag=zoepicks00-20",
+      "now": "47.24",
+      "was": "99.90",
+      "deal": "Limited time deal",
+      "reviews": 539,
       "tier": "mid"
      },
      {
-      "asin": "B0GLPQCR51",
-      "name": "DJI Osmo Mobile 8 Standard Combo",
-      "pct": 18,
-      "rating": 4.3,
-      "t": 1792475221,
-      "img": "https://m.media-amazon.com/images/I/61MuXoEM4IL.jpg",
-      "link": "https://www.amazon.com/dp/B0GLPQCR51?tag=zoepicks00-20",
-      "now": "89.00",
-      "was": "109.00",
-      "reviews": 3702,
+      "asin": "B0HGFKCN38",
+      "name": "Quican Smart Watches",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1792504372,
+      "img": "https://m.media-amazon.com/images/I/61z0q9PbA4L.jpg",
+      "link": "https://www.amazon.com/dp/B0HGFKCN38?tag=zoepicks00-20",
+      "now": "47.98",
+      "was": "69.99",
+      "deal": "Limited time deal",
+      "reviews": 27,
       "tier": "premium"
      }
     ]
@@ -3270,17 +3342,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0H35F38YX",
-      "name": "Smart Watches for Men Women,Smartwatch",
-      "pct": 53,
-      "rating": 4.4,
+      "asin": "B0GZ2BNW4D",
+      "name": "Gydom Smart Watch for Women Men",
+      "pct": 31,
+      "rating": 4.3,
       "t": 1792504372,
-      "img": "https://m.media-amazon.com/images/I/71uDHCyr2LL.jpg",
-      "link": "https://www.amazon.com/dp/B0H35F38YX?tag=zoepicks00-20",
-      "now": "47.24",
-      "was": "99.90",
+      "img": "https://m.media-amazon.com/images/I/71GMOnAWUTL.jpg",
+      "link": "https://www.amazon.com/dp/B0GZ2BNW4D?tag=zoepicks00-20",
+      "now": "47.98",
+      "was": "69.99",
       "deal": "Limited time deal",
-      "reviews": 539,
+      "reviews": 567,
       "tier": "mid"
      },
      {
@@ -3303,19 +3375,6 @@
     "key": "smartwatches",
     "label": "Smartwatches",
     "items": [
-     {
-      "asin": "B0HGFKCN38",
-      "name": "Quican Smart Watches",
-      "pct": 31,
-      "rating": 4.4,
-      "t": 1792504372,
-      "img": "https://m.media-amazon.com/images/I/61z0q9PbA4L.jpg",
-      "link": "https://www.amazon.com/dp/B0HGFKCN38?tag=zoepicks00-20",
-      "now": "47.98",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 27
-     },
      {
       "asin": "B0H1GGXRQS",
       "name": "ALLENERGY Smart Watches",
@@ -3546,6 +3605,13 @@
     "items": []
    }
   ],
+  "office_books": [
+   {
+    "key": "document-scanners",
+    "label": "Document Scanners",
+    "items": []
+   }
+  ],
   "other": [
    {
     "key": "fireproof-safes",
@@ -3644,6 +3710,11 @@
     ]
    },
    {
+    "key": "micellar-water",
+    "label": "Micellar Water",
+    "items": []
+   },
+   {
     "key": "nail-polish",
     "label": "Nail Polish",
     "items": []
@@ -3729,6 +3800,16 @@
       "reviews": 61
      }
     ]
+   },
+   {
+    "key": "self-cleaning-litter-boxes",
+    "label": "Self Cleaning Litter Boxes",
+    "items": []
+   },
+   {
+    "key": "dog-harnesses",
+    "label": "Dog Harnesses",
+    "items": []
    }
   ],
   "smart_home": [
@@ -4077,6 +4158,21 @@
       "reviews": 1774
      }
     ]
+   },
+   {
+    "key": "cordless-drills",
+    "label": "Cordless Drills",
+    "items": []
+   },
+   {
+    "key": "dash-cams",
+    "label": "Dash Cams",
+    "items": []
+   },
+   {
+    "key": "pressure-washers",
+    "label": "Pressure Washers",
+    "items": []
    }
   ],
   "toys_kids": [
@@ -4194,6 +4290,16 @@
       "reviews": 316
      }
     ]
+   },
+   {
+    "key": "toys-year-olds",
+    "label": "Toys Year Olds",
+    "items": []
+   },
+   {
+    "key": "stem-toys",
+    "label": "Stem Toys",
+    "items": []
    }
   ]
  }
