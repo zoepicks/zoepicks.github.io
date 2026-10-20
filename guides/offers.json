@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-20T00:08:36Z",
+ "updated": "2026-10-20T01:10:50Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -47,16 +47,17 @@
   ],
   "beauty_health": [
    {
-    "asin": "B072J2ZBPY",
-    "name": "Degree Men UltraClear Antiperspirant Deodorant",
+    "asin": "B00RZUO1W6",
+    "name": "Kenneth Cole Black All Over Body Spray",
     "pct": 30,
-    "rating": 4.7,
-    "t": 1792453178,
-    "img": "https://m.media-amazon.com/images/I/81O8YOszq3L.jpg",
-    "link": "https://www.amazon.com/dp/B072J2ZBPY?tag=zoepicks00-20",
-    "now": "13.76",
-    "was": "19.73",
-    "reviews": 43502,
+    "rating": 4.6,
+    "t": 1792423681,
+    "img": "https://m.media-amazon.com/images/I/51jByYygesL.jpg",
+    "link": "https://www.amazon.com/dp/B00RZUO1W6?tag=zoepicks00-20",
+    "now": "10.50",
+    "was": "15.00",
+    "deal": "Limited time deal",
+    "reviews": 12333,
     "tier": "budget"
    },
    {
@@ -178,7 +179,7 @@
     "name": "Cvonte Adjustable Dumbbell Set",
     "pct": 42,
     "rating": 4.5,
-    "t": 1792453178,
+    "t": 1792458035,
     "img": "https://m.media-amazon.com/images/I/71sTw6pAXeL.jpg",
     "link": "https://www.amazon.com/dp/B0H7158LVR?tag=zoepicks00-20",
     "now": "69.99",
@@ -1064,7 +1065,8 @@
       "now": "10.50",
       "was": "15.00",
       "deal": "Limited time deal",
-      "reviews": 12333
+      "reviews": 12333,
+      "tier": "budget"
      }
     ]
    },
@@ -1073,44 +1075,16 @@
     "label": "Deodorants",
     "items": [
      {
-      "asin": "B07GB1KJN3",
-      "name": "Native Aluminum-Free Clean Deodorant",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1792328882,
-      "img": "https://m.media-amazon.com/images/I/51P7okOy-GL.jpg",
-      "link": "https://www.amazon.com/dp/B07GB1KJN3?tag=zoepicks00-20",
-      "now": "11.91",
-      "was": "13.99",
-      "reviews": 137795,
-      "tier": "budget"
-     },
-     {
       "asin": "B072J2ZBPY",
       "name": "Degree Men UltraClear Antiperspirant Deodorant",
       "pct": 30,
       "rating": 4.7,
-      "t": 1792453178,
+      "t": 1792458035,
       "img": "https://m.media-amazon.com/images/I/81O8YOszq3L.jpg",
       "link": "https://www.amazon.com/dp/B072J2ZBPY?tag=zoepicks00-20",
       "now": "13.76",
       "was": "19.73",
-      "reviews": 43502,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GT8W461M",
-      "name": "W By Jake Paul Men's Antiperspirant",
-      "pct": 28,
-      "rating": 4.2,
-      "t": 1792328882,
-      "img": "https://m.media-amazon.com/images/I/81Oh5qnEUFL.jpg",
-      "link": "https://www.amazon.com/dp/B0GT8W461M?tag=zoepicks00-20",
-      "now": "19.42",
-      "was": "26.97",
-      "deal": "Limited time deal",
-      "reviews": 132,
-      "tier": "premium"
+      "reviews": 43502
      }
     ]
    },
@@ -1134,53 +1108,13 @@
     ]
    },
    {
-    "key": "epilators",
-    "label": "Epilators",
-    "items": [
-     {
-      "asin": "B0DKSVDYC6",
-      "name": "VOGOE Epilators Hair Removal",
-      "pct": 12,
-      "rating": 3.9,
-      "t": 1792328970,
-      "img": "https://m.media-amazon.com/images/I/61iwYMEqqjL.jpg",
-      "link": "https://www.amazon.com/dp/B0DKSVDYC6?tag=zoepicks00-20",
-      "now": "21.99",
-      "was": "24.99",
-      "reviews": 870,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0BLGY25RX",
-      "name": "VOGOE Epilator for Women-Cordless Epilators Hair Removal",
-      "pct": 8,
-      "rating": 3.9,
-      "t": 1792328970,
-      "img": "https://m.media-amazon.com/images/I/61cDporbyYL.jpg",
-      "link": "https://www.amazon.com/dp/B0BLGY25RX?tag=zoepicks00-20",
-      "now": "27.59",
-      "was": "29.99",
-      "reviews": 3220,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FV3WFG9N",
-      "name": "Upgrade Epilator for Women",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1792328970,
-      "img": "https://m.media-amazon.com/images/I/71CsfKmtcyL.jpg",
-      "link": "https://www.amazon.com/dp/B0FV3WFG9N?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "49.99",
-      "reviews": 75,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "electric-toothbrushes",
     "label": "Electric Toothbrushes",
+    "items": []
+   },
+   {
+    "key": "epilators",
+    "label": "Epilators",
     "items": []
    }
   ],
@@ -1434,36 +1368,7 @@
       "link": "https://www.amazon.com/dp/B0CXPVN581?tag=zoepicks00-20",
       "now": "41.99",
       "was": "59.99",
-      "reviews": 267,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D9V8R5X9",
-      "name": "Omezizy Bluetooth Shipping Label Printer",
-      "pct": 27,
-      "rating": 4.3,
-      "t": 1792329018,
-      "img": "https://m.media-amazon.com/images/I/71WDb3WBQ1L.jpg",
-      "link": "https://www.amazon.com/dp/B0D9V8R5X9?tag=zoepicks00-20",
-      "now": "69.98",
-      "was": "95.99",
-      "deal": "Limited time deal",
-      "reviews": 1186,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GZZ7C12J",
-      "name": "ELEGOO Centauri 2 Combo 3D Printer",
-      "pct": 29,
-      "rating": 4.1,
-      "t": 1792329018,
-      "img": "https://m.media-amazon.com/images/I/71bI37cVpzL.jpg",
-      "link": "https://www.amazon.com/dp/B0GZZ7C12J?tag=zoepicks00-20",
-      "now": "328.99",
-      "was": "461.99",
-      "deal": "Limited time deal",
-      "reviews": 3690,
-      "tier": "premium"
+      "reviews": 267
      }
     ]
    },
@@ -1808,7 +1713,7 @@
       "name": "Cvonte Adjustable Dumbbell Set",
       "pct": 42,
       "rating": 4.5,
-      "t": 1792453178,
+      "t": 1792458035,
       "img": "https://m.media-amazon.com/images/I/71sTw6pAXeL.jpg",
       "link": "https://www.amazon.com/dp/B0H7158LVR?tag=zoepicks00-20",
       "now": "69.99",
