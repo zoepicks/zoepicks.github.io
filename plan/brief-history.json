@@ -46,5 +46,21 @@
    "Google reason 'URL is unknown to Google' (135 pages): Google ko URL abhi pata hi nahi - sitemap submit ho chuka hai; Request indexing (roz ~10) + internal links badhao.",
    "Google reason 'ERROR' (1 pages): Google ka reason dekho: ERROR"
   ]
+ },
+ {
+  "day": "2026-10-20",
+  "score": 87,
+  "issues": {
+   "high": 4,
+   "med": 0,
+   "low": 43
+  },
+  "visitors_today": 0,
+  "bot_errors_today": 0,
+  "focus": [
+   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check karta hai",
+   "Google ne 137 me se 136 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
+   "Google reason 'URL is unknown to Google' (135 pages): Google ko URL abhi pata hi nahi - sitemap submit ho chuka hai; Request indexing (roz ~10) + internal links badhao."
+  ]
  }
 ]
