@@ -1,19 +1,30 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-19T18:47:01.470673+00:00",
+ "generated_at": "2026-10-20T06:55:36.414429+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
-  "score": 94,
+  "score": 87,
   "score_24h_ago": 94,
-  "score_change_24h": 0,
+  "score_change_24h": -7,
   "pages": 137,
   "issue_counts": {
-   "high": 1,
+   "high": 4,
    "med": 0,
-   "low": 35
+   "low": 43
   },
-  "avg_guide_words": 942,
+  "avg_guide_words": 933,
   "todo": [
+   {
+    "sev": "high",
+    "code": "fetch_failed",
+    "count": 2,
+    "fix": "Page fetch nahi hua - site down to nahi?",
+    "example": [
+     "/g/best-hair-dryers-2026/",
+     "/g/best-electric-toothbrushes-2026/"
+    ],
+    "detail": "page khul nahi raha: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   },
    {
     "sev": "high",
     "code": "contact_email_placeholder",
@@ -25,16 +36,26 @@
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
    },
    {
+    "sev": "high",
+    "code": "broken_link",
+    "count": 1,
+    "fix": "Broken internal links theek karo (template ya guide JSON me).",
+    "example": [
+     "(site)"
+    ],
+    "detail": "/category.html?c=accessories -> HTTP 0"
+   },
+   {
     "sev": "low",
     "code": "slow_page",
-    "count": 23,
+    "count": 31,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-exercise-bikes-2026/",
-     "/g/best-humidifiers-2026/",
-     "/g/best-electric-toothbrushes-2026/"
+     "/g/best-tote-bags-2026/",
+     "/g/best-impact-drivers-2026/",
+     "/g/best-wireless-mice-2026/"
     ],
-    "detail": "load 6.2s"
+    "detail": "load 3.3s"
    },
    {
     "sev": "low",
@@ -49,54 +70,51 @@
     "detail": "title 69 chars (best 25-65)"
    }
   ],
-  "new_issue_types_since_last_brief": [],
+  "new_issue_types_since_last_brief": [
+   "fetch_failed",
+   "broken_link"
+  ],
   "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
    "guides_live": 131,
    "guides_enough_20plus": true,
-   "thin_guides": 0,
+   "thin_guides": 2,
    "own_domain": false,
-   "no_broken_links": true
+   "no_broken_links": false
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-19T12:22:39.816618+00:00",
-    "indexnow": {
-     "submitted": 31,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-19T15:41:04.439054+00:00",
+    "t": "2026-10-20T00:49:06.447135+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-19T18:46:55.832401+00:00",
+    "t": "2026-10-20T03:50:00.751145+00:00",
     "indexnow": {
-     "submitted": 1,
+     "submitted": 0,
+     "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-20T06:55:25.549510+00:00",
+    "indexnow": {
+     "submitted": 3,
      "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 55,
-  "today_views": 122,
-  "total_visitors": 89,
-  "total_views": 739,
+  "today_visitors": 0,
+  "today_views": 0,
+  "total_visitors": 91,
+  "total_views": 747,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-13",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-10-14",
     "visitors": 0,
@@ -129,21 +147,27 @@
    },
    {
     "day": "2026-10-19",
-    "visitors": 55,
-    "views": 122,
+    "visitors": 57,
+    "views": 130,
+    "clicks": 0
+   },
+   {
+    "day": "2026-10-20",
+    "visitors": 0,
+    "views": 0,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 16,
+   "info": 17,
    "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 161,
-   "warn": 44,
+   "info": 221,
+   "warn": 48,
    "error": 0
   },
   "modules_with_errors_7d": [
@@ -155,24 +179,24 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 7
+    "warnings": 11
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
-    "ok": 4,
+    "total": 6,
+    "ok": 1,
     "failed": 0,
-    "cancelled": 6,
-    "running": 1,
+    "cancelled": 3,
+    "running": 2,
     "failed_runs": []
    },
    "last7d": {
-    "total": 61,
-    "ok": 30,
+    "total": 77,
+    "ok": 40,
     "failed": 20,
-    "cancelled": 10,
-    "running": 1,
+    "cancelled": 15,
+    "running": 2,
     "failed_runs": [
      {
       "run": 15,
@@ -239,37 +263,12 @@
   },
   "site_deploys": {
    "today": {
-    "total": 218,
-    "ok": 214,
-    "failed": 4,
+    "total": 38,
+    "ok": 38,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 671,
-      "at": "2026-10-19T11:05:19Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39242077918"
-     },
-     {
-      "run": 554,
-      "at": "2026-10-19T08:17:11Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39221685356"
-     },
-     {
-      "run": 501,
-      "at": "2026-10-19T05:45:51Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39206225052"
-     },
-     {
-      "run": 500,
-      "at": "2026-10-19T05:45:44Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39206215960"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
@@ -309,7 +308,7 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 4 HIGH issue(s): fetch_failed, contact_email_placeholder, broken_link"
    },
    {
     "module": "ZOESEO",
@@ -351,17 +350,89 @@
  "content": {
   "live_guides": 131,
   "missing_topics_by_status": {
-   "covered": 23,
-   "open": 119,
-   "built": 31,
-   "queued": 9
+   "queued": 15,
+   "built": 48,
+   "covered": 31,
+   "open": 101
   },
   "missing_new": {
-   "today": 20,
-   "d7": 182,
-   "d30": 182
+   "today": 0,
+   "d7": 195,
+   "d30": 195
   },
   "open_topics": [
+   {
+    "topic": "small phone purse",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792445851",
+    "last_at": "1792445851"
+   },
+   {
+    "topic": "men's perfume",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792444077",
+    "last_at": "1792444077"
+   },
+   {
+    "topic": "dreamcast console",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792441622",
+    "last_at": "1792441622"
+   },
+   {
+    "topic": "robot vacuum",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792441603",
+    "last_at": "1792441603"
+   },
+   {
+    "topic": "area rug",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792440426",
+    "last_at": "1792440426"
+   },
+   {
+    "topic": "floor bean bag",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792440404",
+    "last_at": "1792440404"
+   },
+   {
+    "topic": "celtics hoodie",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792440320",
+    "last_at": "1792440320"
+   },
+   {
+    "topic": "toaster",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792436974",
+    "last_at": "1792436974"
+   },
+   {
+    "topic": "portable printer",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792436280",
+    "last_at": "1792436280"
+   },
    {
     "topic": "steam controller",
     "leads": "1",
@@ -369,78 +440,6 @@
     "status": "open",
     "first_at": "1792434517",
     "last_at": "1792434517"
-   },
-   {
-    "topic": "diaper bag",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792433347",
-    "last_at": "1792433347"
-   },
-   {
-    "topic": "game controller",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792430091",
-    "last_at": "1792430267"
-   },
-   {
-    "topic": "oppo reno 15",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792429322",
-    "last_at": "1792429322"
-   },
-   {
-    "topic": "body pillowcase",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792429094",
-    "last_at": "1792429094"
-   },
-   {
-    "topic": "baby carrier",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792428403",
-    "last_at": "1792428403"
-   },
-   {
-    "topic": "full size suitcase",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792427145",
-    "last_at": "1792427145"
-   },
-   {
-    "topic": "crockpot",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792356661",
-    "last_at": "1792425249"
-   },
-   {
-    "topic": "blue headphones",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792421504",
-    "last_at": "1792421504"
-   },
-   {
-    "topic": "razor",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792419473",
-    "last_at": "1792419473"
    }
   ]
  },
@@ -649,15 +648,43 @@
     "clicks": 0,
     "impr": 0
    }
-  ]
+  ],
+  "sitemap_check": {
+   "state": "pending",
+   "ok": false,
+   "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check karta hai",
+   "status": {
+    "last_submitted": "2026-10-20T06:55",
+    "last_downloaded": "",
+    "pending": true,
+    "errors": 0,
+    "warnings": 0,
+    "submitted": 0,
+    "indexed": 0
+   },
+   "live": {
+    "http": 200,
+    "valid_xml": true,
+    "urls": 137,
+    "other_host_urls": 0,
+    "live_pages_crawled": 135
+   },
+   "permission": "siteOwner",
+   "resubmitted": true,
+   "put": "ok",
+   "listed_paths": [
+    "https://zoepicks.github.io/sitemap.xml"
+   ]
+  }
  },
  "suggested_focus": [
+  "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check karta hai",
   "Google ne 137 me se 136 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
   "Google reason 'URL is unknown to Google' (135 pages): Google ko URL abhi pata hi nahi - sitemap submit ho chuka hai; Request indexing (roz ~10) + internal links badhao.",
   "Google reason 'ERROR' (1 pages): Google ka reason dekho: ERROR",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
-  "Collector runs fail hue - GitHub Actions logs check karo."
+  "HIGH SEO: Page fetch nahi hua - site down to nahi? (2 page)",
+  "HIGH SEO: Broken internal links theek karo (template ya guide JSON me). (1 page)"
  ]
 }
