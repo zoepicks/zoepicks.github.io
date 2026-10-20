@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-20T03:50:01.509512+00:00",
- "boots_total": 11,
+ "updated": "2026-10-20T06:55:40.789747+00:00",
+ "boots_total": 12,
  "recent_boots_utc": [
-  "2026-10-17T12:42:22",
   "2026-10-18T03:44:29",
   "2026-10-18T08:31:40",
   "2026-10-18T09:04:58",
@@ -12,25 +11,20 @@
   "2026-10-19T04:04:54",
   "2026-10-19T09:10:40",
   "2026-10-19T15:08:59",
-  "2026-10-19T16:05:46"
+  "2026-10-19T16:05:46",
+  "2026-10-20T06:44:16"
  ],
- "last_run_ts": 1792468201.0444534,
- "last_report_ts": 1792435639.0089302,
+ "last_run_ts": 1792479332.6096697,
+ "last_report_ts": 1792479339.4798553,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
- "score": 94,
+ "score": 87,
  "issues": {
-  "high": 1,
+  "high": 4,
   "med": 0,
-  "low": 14
+  "low": 43
  },
  "recent_runs": [
-  {
-   "t": "2026-10-19T00:09:04",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 18
-  },
   {
    "t": "2026-10-19T03:09:55",
    "score": 94,
@@ -84,29 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-10-20T06:55:25",
+   "score": 87,
+   "why": "schedule",
+   "indexnow": 3
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-19T12:38:38",
-   "what": "IndexNow: 31 URL Bing ko bheje",
-   "ok": true
-  },
-  {
-   "t": "2026-10-19T15:41:05",
-   "what": "SEO check: score 94 (+0), 137 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-19T18:46:57",
-   "what": "SEO check: score 94 (+0), 137 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-19T18:46:57",
-   "what": "IndexNow: 1 URL Bing ko bheje",
-   "ok": true
-  },
   {
    "t": "2026-10-19T18:47:19",
    "what": "Report + Claude brief repo me likhe",
@@ -125,6 +105,26 @@
   {
    "t": "2026-10-20T03:50:01",
    "what": "SEO check: score 94 (+0), 137 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-20T06:55:32",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check ",
+   "ok": false
+  },
+  {
+   "t": "2026-10-20T06:55:32",
+   "what": "SEO check: score 87 (-7), 137 pages, 4 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-20T06:55:32",
+   "what": "IndexNow: 3 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-20T06:55:39",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
