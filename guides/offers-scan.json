@@ -5887,40 +5887,9 @@
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
-   "tries": 1,
-   "items": [
-    {
-     "asin": "B0BWT35QW8",
-     "name": "Capture Card 4K HDMI Video Streaming to USB 3.0 1080P 60FPS…",
-     "pct": 17,
-     "rating": 4.4,
-     "t": 1792333269,
-     "img": "https://m.media-amazon.com/images/I/71z3BHFWMtL.jpg",
-     "link": "https://www.amazon.com/dp/B0BWT35QW8?tag=zoepicks00-20",
-     "now": "19.87",
-     "was": "23.99",
-     "deal": "Limited time deal",
-     "reviews": 1035,
-     "_title": "Capture Card 4K HDMI Video Streaming to USB 3.0 1080P 60FPS Capture Device | Audio Video Capture, 4K HDMI Loop-Out, Work f...",
-     "_price": 19.87
-    },
-    {
-     "asin": "B08R724GS4",
-     "name": "Video Capture Card 4K 1080P 60FPS",
-     "pct": 15,
-     "rating": 4.3,
-     "t": 1792333269,
-     "img": "https://m.media-amazon.com/images/I/71JMZgTpZGL.jpg",
-     "link": "https://www.amazon.com/dp/B08R724GS4?tag=zoepicks00-20",
-     "now": "22.94",
-     "was": "26.99",
-     "deal": "Limited time deal",
-     "reviews": 3650,
-     "_title": "Video Capture Card 4K 1080P 60FPS, USB 3.0 HDMI Video Capture Device, HD Game Capture Card for Streaming, Work with PS4/PS...",
-     "_price": 22.94
-    }
-   ],
-   "scanned": "2026-10-18T14:21:09.905200+00:00"
+   "tries": 2,
+   "items": [],
+   "scanned": "2026-10-20T14:09:57.948761+00:00"
   },
   "tools_auto:obd2-scanners": {
    "label": "Obd2 Scanners",
