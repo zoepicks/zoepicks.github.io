@@ -6,8 +6,8 @@ from playwright.sync_api import sync_playwright
 LIMIT = int(os.environ.get("LIMIT") or 0)
 MODE = os.environ.get("MODE") or "all"
 PICKS = MODE == "picks"
-DEEP = MODE == "deep"
-OUT = ".github/amazon-raw/results-%s.json" % MODE if MODE in ("picks", "deep") else ".github/amazon-raw/results.json"
+DEEP = MODE in ("deep", "queries")
+OUT = ".github/amazon-raw/results-%s.json" % MODE if MODE in ("picks", "deep", "queries") else ".github/amazon-raw/results.json"
 
 def variants(name, path):
     n = name.replace("\u2011", "-").replace("\u2013", "-").replace("\u2019", "'")
@@ -30,6 +30,7 @@ os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
 def tasks():
     if PICKS: return json.load(open(".github/amazon-raw/picks.json", encoding="utf-8"))
+    if MODE == "queries": return json.load(open(".github/amazon-raw/queries.json", encoding="utf-8"))
     if DEEP:
         out = []
         for p in sorted(glob.glob("src/*.json")):
@@ -63,9 +64,12 @@ JS_SEARCH = """() => [...document.querySelectorAll('div[data-component-type="s-s
 JS_DP = """() => {
   const t = s => (document.querySelector(s) || {});
   const img = t('#landingImage');
+  const rows = [...document.querySelectorAll('#productDetails_techSpec_section_1 tr, #productDetails_detailBullets_sections1 tr, #prodDetails tr')].map(r => r.innerText.replace(/\\s+/g, ' ').trim()).filter(x => x && x.length < 160).slice(0, 25);
+  const bl = [...document.querySelectorAll('#feature-bullets li')].map(x => x.innerText.replace(/\\s+/g, ' ').trim()).filter(Boolean).slice(0, 8);
   return {title: (t('#productTitle').textContent || '').trim(), image: img.getAttribute ? (img.getAttribute('data-old-hires') || img.src || '') : '',
           price: (t('#corePrice_feature_div span.a-offscreen').textContent || t('span.a-price span.a-offscreen').textContent || ''),
-          rating: (t('#acrPopover').title || ''), reviews: (t('#acrCustomerReviewText').textContent || '')};
+          rating: (t('#acrPopover').title || ''), reviews: (t('#acrCustomerReviewText').textContent || ''),
+          brand: (t('#bylineInfo').textContent || '').trim(), bullets: bl, details: rows, avail: (t('#availability').innerText || '').trim().slice(0, 80)};
 }"""
 
 def blocked(page):
