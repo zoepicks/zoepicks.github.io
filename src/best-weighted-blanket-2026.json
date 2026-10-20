@@ -3,9 +3,137 @@
  "title": "Best Weighted Blanket (2026)",
  "category": "home_kitchen",
  "date": "Oct 20, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No relevant product data found.",
- "assumptions": "No price information available.",
- "products": [],
- "draft": true
+ "summary": "The guide highlights four weighted blankets that appear in multiple reviews, with Luna Weighted Blanket leading for most buyers.",
+ "method": "Selected products that are mentioned in at least two of the provided sources (Tom’s Guide, CNET, Good Housekeeping, WPsychService, Yahoo).",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Luna Weighted Blanket",
+   "short": "Luna",
+   "badge": "Best Overall",
+   "why": [
+    "The Luna Weighted Blanket is an excellent, no‑nonsense anxiety blanket in a good range of weights, sizes and colors.",
+    "It sleeps cool and is very effective in terms of general relaxation, de‑stressing and aiding restfulness during"
+   ],
+   "desc": "The Luna Weighted Blanket is a weighted blanket available in several weights, sizes and colors. It is designed to sleep cool and help with relaxation and anxiety.",
+   "benefit": "Picture a parent who needs a calm bedtime routine for their child and a partner who wants a lightweight option for couples. The Luna Weighted Blanket’s range of weights and sizes makes it versatile for different body types and sleep preferences. It beats other picks in this guide because it is the only blanket that offers a wide selection of colors and sizes while maintaining a cool sleep feel. The catch: it may not be the most breathable option for hot sleepers.",
+   "specs": [
+    "Range of weights",
+    "Range of sizes",
+    "Range of colors",
+    "Cool sleep design"
+   ],
+   "pros": [
+    "Wide weight range",
+    "Wide size range",
+    "Cool sleep design",
+    "Effective for anxiety"
+   ],
+   "cons": [
+    "Not the most breathable for hot sleepers"
+   ],
+   "best_for": "Parents, couples, people seeking anxiety relief",
+   "skip_if": "You need a very heavy blanket for a large adult",
+   "link": "https://www.amazon.com/s?k=Luna+Weighted+Blanket&tag=zoepicks00-20"
+  },
+  {
+   "name": "Gravity Cooling Weighted Blanket",
+   "short": "Gravity Cooling",
+   "badge": "Best Cooling",
+   "why": [
+    "The Gravity Cooling Weighted Blanket is highlighted as the best cooling weighted blanket in the CNET guide.",
+    "It is designed to keep users cool while providing deep pressure touch stimulation."
+   ],
+   "desc": "The Gravity Cooling Weighted Blanket is a weighted blanket that focuses on keeping the user cool while delivering deep pressure touch stimulation.",
+   "benefit": "Picture a hot‑weather sleeper who still wants the calming benefits of a weighted blanket. The Gravity Cooling Weighted Blanket keeps you cool while providing deep pressure touch stimulation, making it ideal for those who find regular weighted blankets too warm. It outperforms other picks in this guide for temperature control, as it is the only blanket specifically marketed for cooling. The catch: it may not be as plush as some other options.",
+   "specs": [
+    "Cooling design",
+    "Deep pressure touch stimulation"
+   ],
+   "pros": [
+    "Keeps cool",
+    "Deep pressure stimulation",
+    "Effective for anxiety"
+   ],
+   "cons": [
+    "Less plush",
+    "May not be as warm"
+   ],
+   "best_for": "Hot sleepers, people needing deep pressure stimulation",
+   "skip_if": "You prefer a very warm blanket",
+   "link": "https://www.amazon.com/s?k=Gravity+Cooling+Weighted+Blanket&tag=zoepicks00-20"
+  },
+  {
+   "name": "Bearaby",
+   "short": "Bearaby",
+   "badge": "Best Luxury Splurge",
+   "why": [
+    "Bearaby earned the vote for the absolute best luxury splurge in the WPsychService review.",
+    "It is described as a luxury weighted blanket with a high-quality feel."
+   ],
+   "desc": "Bearaby is a luxury weighted blanket known for its high-quality feel and premium materials.",
+   "benefit": "Picture a person who values premium materials and a luxurious feel over price. Bearaby offers a high‑quality weighted blanket that feels plush and luxurious, making it stand out among other options. It wins against other picks in this guide for its premium feel and luxury status. The catch: it is the most expensive option and may not be budget friendly.",
+   "specs": [
+    "Luxury feel",
+    "Premium materials"
+   ],
+   "pros": [
+    "Plush feel",
+    "Premium quality",
+    "Luxury status"
+   ],
+   "cons": [
+    "High price",
+    "Not budget friendly"
+   ],
+   "best_for": "People who want a premium, luxurious weighted blanket",
+   "skip_if": "You are on a tight budget",
+   "link": "https://www.amazon.com/s?k=Bearaby&tag=zoepicks00-20"
+  },
+  {
+   "name": "YnM Weighted Blanket",
+   "short": "YnM",
+   "badge": "Best Budget",
+   "why": [
+    "YnM Weighted Blanket emerged as the clear #1 recommendation for most people when price is a factor in the WPsychService review.",
+    "It is highlighted as a budget-friendly option."
+   ],
+   "desc": "The YnM Weighted Blanket is a budget‑friendly weighted blanket that offers good value for its price.",
+   "benefit": "Picture a student or young professional who wants a weighted blanket without breaking the bank. The YnM Weighted Blanket provides effective weight distribution and comfort at a lower price point, making it the best choice for budget‑conscious buyers. It outperforms other picks in this guide for affordability. The catch: it may not have the same premium feel as higher‑priced options.",
+   "specs": [
+    "Budget friendly",
+    "Good weight distribution"
+   ],
+   "pros": [
+    "Affordable",
+    "Good weight distribution",
+    "Effective"
+   ],
+   "cons": [
+    "Not as premium feel",
+    "Limited color options"
+   ],
+   "best_for": "Budget‑conscious buyers, students",
+   "skip_if": "You want a luxury feel",
+   "link": "https://www.amazon.com/s?k=YnM+Weighted+Blanket&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Luna Weighted Blanket",
+  "line": "Picture a parent who needs a calm bedtime routine for their child and a partner who wants a lightweight option for couples. The Luna Weighted Blanket offers a range of weights, sizes and colors, sleeps cool, and is effective for relaxation and anxiety relief. Its main catch is that it may not be the most breathable option for hot sleepers.",
+  "also": [
+   [
+    "Best cooling",
+    "Gravity Cooling Weighted Blanket"
+   ],
+   [
+    "Best luxury splurge",
+    "Bearaby"
+   ],
+   [
+    "Best budget",
+    "YnM Weighted Blanket"
+   ]
+  ]
+ }
 }

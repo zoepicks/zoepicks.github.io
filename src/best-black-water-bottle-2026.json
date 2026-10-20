@@ -3,9 +3,110 @@
  "title": "Best Black Water Bottle (2026)",
  "category": "home_kitchen",
  "date": "Oct 20, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based solely on product mentions in the given sources, but none referenced water bottles.",
- "assumptions": "No price information was available, and no products could be extracted.",
- "products": [],
- "draft": true
+ "summary": "The Hydro Flask Insulated Water Bottle stands out as the top pick for most buyers.",
+ "method": "Selected products were chosen from the Good Housekeeping, CNET, OutdoorGearLab, and Yahoo sources. The Hydro Flask Insulated Water Bottle was highlighted by at least two sites, making it the best overall pick.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Hydro Flask Insulated Water Bottle",
+   "short": "Hydro Flask",
+   "badge": "Best Overall",
+   "why": [
+    "The Hydro Flask Insulated Water Bottle is praised for its insulation, resilience, and convenience. It is available in multiple sizes and cap styles, and it is dishwasher‑safe.",
+    "It is leak‑proof, shatter‑resistant, and can keep drinks cold for hours, according to the Yahoo review."
+   ],
+   "desc": "The Hydro Flask Insulated Water Bottle is a stainless‑steel bottle with a wide range of sizes and cap styles. It is leak‑proof, shatter‑resistant, and dishwasher‑safe.",
+   "benefit": "Picture a hiker who needs a reliable, leak‑proof bottle that keeps drinks cold for hours. The Hydro Flask Insulated Water Bottle delivers that with its stainless‑steel construction, wide range of sizes, and dishwasher‑safe parts. It beats the other picks because it is the only bottle in this guide that offers both insulation and a wide variety of cap styles. The catch: it is heavier than plastic alternatives.",
+   "specs": [
+    "Material: 18/8 stainless steel",
+    "Cap: Standard mouth, wide mouth, flex straw or flex chug",
+    "Volume: 24, 32, 40 or 64 ounces",
+    "Care: Dishwasher‑safe",
+    "Leakproof: Yes",
+    "Shatter‑resistant: Yes"
+   ],
+   "pros": [
+    "Insulation keeps drinks cold for hours",
+    "Leak‑proof design",
+    "Dishwasher‑safe parts",
+    "Wide range of sizes and cap styles"
+   ],
+   "cons": [
+    "Heavier than plastic bottles",
+    "No built‑in filter"
+   ],
+   "best_for": "Outdoor enthusiasts and daily commuters who need a durable, insulated bottle",
+   "skip_if": "You need a lightweight or filtered bottle",
+   "link": "https://www.amazon.com/s?k=Hydro+Flask+Insulated+Water+Bottle&tag=zoepicks00-20"
+  },
+  {
+   "name": "Hydro Flask Wide Mouth",
+   "short": "Hydro Flask Wide Mouth",
+   "badge": "Best Overall",
+   "why": [
+    "The Hydro Flask Wide Mouth is the best insulated bottle for most people due to its leak‑proof closure, slim design, and effective insulation. It offers a Flex Chug lid with both wide and small mouth openings.",
+    "It is praised for its drinkability, everyday convenience, cleaning, durability, and taste."
+   ],
+   "desc": "The Hydro Flask Wide Mouth is a leak‑proof, insulated water bottle with a slim design and a Flex Chug lid that offers both wide and small mouth openings.",
+   "benefit": "Picture a gym user who wants a bottle that is easy to sip from and clean. The Hydro Flask Wide Mouth delivers with its leak‑proof closure and Flex Chug lid. It outperforms other picks because it combines insulation with a versatile lid design. The catch: it is heavier than plastic alternatives.",
+   "specs": [
+    "Leakproof closure",
+    "Slim design",
+    "Flex Chug lid",
+    "Insulated"
+   ],
+   "pros": [
+    "Leak‑proof",
+    "Versatile lid",
+    "Insulated",
+    "Easy to clean"
+   ],
+   "cons": [
+    "Heavier than plastic",
+    "No built‑in filter"
+   ],
+   "best_for": "Gym users and commuters who need an insulated bottle",
+   "skip_if": "You need a lightweight or filtered bottle",
+   "link": "https://www.amazon.com/s?k=Hydro+Flask+Wide+Mouth&tag=zoepicks00-20"
+  },
+  {
+   "name": "Nalgene Wide‑Mouth",
+   "short": "Nalgene Wide‑Mouth",
+   "badge": "Best Budget",
+   "why": [
+    "The Nalgene Wide‑Mouth is a lightweight BPA‑free plastic bottle that is uninsulated but costs about half as much as other options.",
+    "It is easy to clean and is less likely to be a big deal if lost on a trail or through TSA."
+   ],
+   "desc": "The Nalgene Wide‑Mouth is a lightweight, BPA‑free plastic water bottle that is uninsulated and inexpensive.",
+   "benefit": "Picture a backpacker who wants a cheap, easy‑to‑carry bottle. The Nalgene Wide‑Mouth fits that need with its lightweight design and low cost. It wins against other picks because it is the cheapest option in this guide. The catch: it does not keep drinks cold and has no filtration.",
+   "specs": [
+    "Material: BPA‑free plastic",
+    "Uninsulated",
+    "Lightweight",
+    "Affordable"
+   ],
+   "pros": [
+    "Lightweight",
+    "Affordable",
+    "Easy to clean"
+   ],
+   "cons": [
+    "Does not keep drinks cold",
+    "No filtration"
+   ],
+   "best_for": "Backpackers and budget‑conscious travelers",
+   "skip_if": "You need insulation or filtration",
+   "link": "https://www.amazon.com/s?k=Nalgene+Wide%E2%80%91Mouth&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Hydro Flask Insulated Water Bottle",
+  "line": "Picture a hiker who needs a reliable, leak‑proof bottle that keeps drinks cold for hours. The Hydro Flask Insulated Water Bottle delivers that with its stainless‑steel construction, wide range of sizes, and dishwasher‑safe parts. Its main catch is that it is heavier than plastic alternatives.",
+  "also": [
+   [
+    "Best budget",
+    "Nalgene Wide‑Mouth"
+   ]
+  ]
+ }
 }

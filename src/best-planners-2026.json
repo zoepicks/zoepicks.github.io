@@ -4,12 +4,8 @@
  "category": "office_books",
  "date": "Oct 20, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were identified by searching the source excerpts for explicit product names. Only the Full Focus Planner was mentioned.",
- "assumptions": "No price information was available in the sources, so price fields are null.",
+ "method": "Selected products were identified from the provided sources: PCMag for Microsoft Planner, Consumer Reports for analog preferences, Tom’s Guide for ADHD‑focused planners, eF Specialists for student planners, Wired for general style advice, and Plaky for digital apps. The picks were chosen based on repeated mentions and explicit recommendations.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
- "verdict": {
-  "pick": "Full Focus Planner",
-  "line": "Picture a planner that links your yearly goals to daily actions, helping you stay focused and reduce overwhelm. It is ideal for anyone who wants a structured system to track progress and celebrate small wins. The catch: it does not include a built‑in habit tracker."
- },
  "draft": true
 }
