@@ -34,7 +34,10 @@
    ],
    "best_for": "Home users who print mainly documents and photos and want to save on ink over time.",
    "skip_if": "You need scanning or copying capabilities.",
-   "link": "https://www.amazon.com/s?k=Epson+EcoTank+ET-1910&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Epson+EcoTank+ET-1910&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "HP OfficeJet Pro 9125e",
@@ -107,7 +110,10 @@
    "amazon_reviews": 9112,
    "amazon_rating_asof": "Oct 20, 2026",
    "image": "https://m.media-amazon.com/images/I/61ZyrptvstL.jpg",
-   "image_asin": "B09WZBZ1JQ"
+   "image_asin": "B09WZBZ1JQ",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
