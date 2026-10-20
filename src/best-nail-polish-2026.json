@@ -33,9 +33,18 @@
    "price": "$13 at Amazon",
    "link": "https://www.amazon.com/s?k=OPI+Nail+Lacquer&tag=zoepicks00-20",
    "price_asof": "Oct 18, 2026",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Oct 19, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B000NG889Q",
+   "image": "https://m.media-amazon.com/images/I/51vZ6e0grnL.jpg",
+   "image_asin": "B000NG889Q",
+   "amazon_price": "$11.99",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "OPI Nail Lacquer Classic Nail Polish Colors | Nude & Brown Shades | Crème, Shimmer, and Gl",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 23,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Olive & June Nail Polish",
@@ -67,11 +76,11 @@
    "image": "https://m.media-amazon.com/images/I/51Sp+59cAkL.jpg",
    "image_asin": "B0GRCMHNT1",
    "amazon_price": "$9.97",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Olive & June Long Lasting Nail Polish, Obsessed",
    "amazon_rating": "4.2",
    "amazon_reviews": 1401,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Essie Gel Couture Nail Polish",
@@ -102,11 +111,11 @@
    "image": "https://m.media-amazon.com/images/I/61EIBPJ5GjL.jpg",
    "image_asin": "B073WZN1BD",
    "amazon_price": "$16.97",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Essie Gel Couture Longwear Nail Polish Kit, Sheer Nude Pink, Fairy Tailor + Top Coat, 0.46",
    "amazon_rating": "4.5",
-   "amazon_reviews": 2096,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 2097,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "S&L Gel Polish",
@@ -131,8 +140,8 @@
    "best_for": "Nail techs and enthusiasts seeking professional gel results",
    "skip_if": "You prefer a non‑gel formula or lack a curing lamp",
    "link": "https://www.amazon.com/s?k=S%26L+Gel+Polish&tag=zoepicks00-20",
-   "fill_tries": 2,
-   "fill_last": "Oct 19, 2026",
+   "fill_tries": 3,
+   "fill_last": "Oct 20, 2026",
    "fill_failed": false
   },
   {
@@ -161,12 +170,12 @@
    "asin": "B00LJ1KGNK",
    "image": "https://m.media-amazon.com/images/I/61XRHyqWDxL.jpg",
    "image_asin": "B00LJ1KGNK",
-   "amazon_price": "$5.44",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price": "$5.98",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Sally Hansen Insta-Dri, Back to Black, Quick Dry, Long Lasting, Opaque, ShinyBlack Nail Po",
    "amazon_rating": "4.5",
-   "amazon_reviews": 20291,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 20294,
+   "amazon_rating_asof": "Oct 20, 2026"
   }
  ]
 }
