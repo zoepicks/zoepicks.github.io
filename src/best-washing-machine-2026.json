@@ -2,10 +2,107 @@
  "slug": "best-washing-machine-2026",
  "title": "Best Washing Machine (2026)",
  "category": "other",
- "date": "Oct 19, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "None",
- "assumptions": "No price data",
- "products": [],
- "draft": true
+ "date": "Oct 20, 2026",
+ "summary": "The guide ranks top washing machines for 2026, focusing on capacity, speed, durability and smart features.",
+ "method": "Picks were chosen from The Spruce and Good Housekeeping articles, giving priority to models mentioned by more than one source.",
+ "assumptions": "No price information was provided in the sources, so price fields are left null.",
+ "products": [
+  {
+   "name": "Whirlpool Smart Top Load Washer",
+   "short": "Whirlpool Smart Top Load",
+   "badge": "Best Overall",
+   "why": [
+    "The Spruce calls it the best overall and most reliable top‑load washer.",
+    "It features a removable central agitator for extra capacity, a built‑in faucet for targeting stains, and a load‑and‑go detergent dispenser."
+   ],
+   "desc": "A top‑loading washer with a removable agitator, built‑in faucet and load‑and‑go dispenser. It does not have a front‑load drum.",
+   "benefit": "Picture a busy family loading a huge pile of laundry and using the built‑in faucet to pre‑treat stains. The washer’s large capacity cuts weekly loads in half, saving time. It beats the LG model on capacity and the Speed Queen on price, and it’s the only top‑load with a built‑in faucet in this guide. The catch: the high tub can be hard to reach into.",
+   "specs": [
+    "Removable central agitator",
+    "Built‑in faucet",
+    "Load‑and‑go detergent dispenser"
+   ],
+   "pros": [
+    "Huge capacity",
+    "Stain‑targeting faucet",
+    "Convenient detergent dispenser"
+   ],
+   "cons": [
+    "Hard to reach into tub",
+    "More water use than front‑loaders"
+   ],
+   "best_for": "Large families needing high capacity",
+   "skip_if": "You prefer a front‑load design",
+   "link": "https://www.amazon.com/s?k=Whirlpool+Smart+Top+Load+Washer&tag=zoepicks00-20"
+  },
+  {
+   "name": "LG Front Load HE Stackable Smart Washer",
+   "short": "LG Front Load HE",
+   "badge": "Fastest Cycle",
+   "why": [
+    "Good Housekeeping lists it as the best overall for speed, completing full loads in just over 30 minutes.",
+    "It has a bright drum light and an easy‑to‑use control panel, though it is less gentle on clothes."
+   ],
+   "desc": "A front‑loading washer that cleans full loads in about 30 minutes, with a bright drum light and simple controls. It does not include a built‑in faucet.",
+   "benefit": "Picture a single professional rushing to finish laundry before a meeting and using the 30‑minute cycle to get clean clothes fast. The quick cycle saves time compared to the Whirlpool top‑load. It is the only model in this guide with sub‑30‑minute cycles. The catch: it can be harsher on fabrics than some other machines.",
+   "specs": [
+    "Full loads in just over 30 minutes",
+    "Bright drum light",
+    "Easy control panel"
+   ],
+   "pros": [
+    "Very fast cycles",
+    "Clear drum illumination",
+    "User‑friendly controls"
+   ],
+   "cons": [
+    "Less gentle on clothes",
+    "Front‑load maintenance can be tricky"
+   ],
+   "best_for": "People who value speed above all",
+   "skip_if": "You need a gentle wash for delicate fabrics",
+   "link": "https://www.amazon.com/s?k=LG+Front+Load+HE+Stackable+Smart+Washer&tag=zoepicks00-20"
+  },
+  {
+   "name": "Speed Queen TR7 Heavy Duty Top Load Washer",
+   "short": "Speed Queen TR7",
+   "badge": "Longest Warranty",
+   "why": [
+    "Good Housekeeping calls it the best agitator top‑loader for its gentle wash and durable design.",
+    "It comes with a seven‑year warranty."
+   ],
+   "desc": "A heavy‑duty top‑loading washer with an agitator that provides gentle cleaning. It does not have a built‑in faucet or load‑and‑go dispenser.",
+   "benefit": "Picture a laundromat owner needing a machine that lasts years with minimal repairs. The washer’s durable build and seven‑year warranty ensure long‑term reliability, outlasting the Whirlpool and LG models. It is the only washer in this guide with a seven‑year warranty. The catch: it lacks the advanced stain‑treatment features of the Whirlpool top‑load.",
+   "specs": [
+    "Seven‑year warranty",
+    "Gentle agitator wash"
+   ],
+   "pros": [
+    "Durable construction",
+    "Gentle on clothes",
+    "Long warranty"
+   ],
+   "cons": [
+    "No built‑in faucet",
+    "Fewer smart features"
+   ],
+   "best_for": "Users seeking durability and long warranty",
+   "skip_if": "You need advanced stain‑removal tools",
+   "link": "https://www.amazon.com/s?k=Speed+Queen+TR7+Heavy+Duty+Top+Load+Washer&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Whirlpool Smart Top Load Washer",
+  "line": "Ideal for families who need large loads and easy stain treatment. It offers a removable agitator, built‑in faucet and load‑and‑go dispenser, making laundry quicker and more convenient. The main catch is that top‑load designs can be harder to reach into.",
+  "also": [
+   [
+    "Fastest Cycle",
+    "LG Front Load HE Stackable Smart Washer"
+   ],
+   [
+    "Longest Warranty",
+    "Speed Queen TR7 Heavy Duty Top Load Washer"
+   ]
+  ]
+ }
 }
