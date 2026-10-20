@@ -41,11 +41,11 @@
    "asin": "B0F1H9TF2X",
    "image": "https://m.media-amazon.com/images/I/61m6x5e9e-L.jpg",
    "image_asin": "B0F1H9TF2X",
-   "amazon_rating": "3.9",
-   "amazon_reviews": 31,
-   "amazon_rating_asof": "Oct 19, 2026",
-   "amazon_price": "$79.00",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_rating": "3.8",
+   "amazon_reviews": 33,
+   "amazon_rating_asof": "Oct 20, 2026",
+   "amazon_price": "$1,714.99",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Sony PlayStation 5 Pro 2TB SSD Digital Console with Two Controllers, White and Chroma Pear"
   },
   {
@@ -77,7 +77,10 @@
    "skip_if": "You need the absolute highest performance or extra storage",
    "price": "$500 at major retailers",
    "link": "https://www.amazon.com/s?k=Sony+PlayStation+5+Slim+825%E2%80%AFGB+Console&tag=zoepicks00-20",
-   "price_asof": "Oct 17, 2026"
+   "price_asof": "Oct 17, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Sony PlayStation 5 (Standard) 1 TB Console",
@@ -108,7 +111,10 @@
    "skip_if": "You need the extra storage or cutting‑edge graphics of the Pro",
    "price": "$500 at major retailers",
    "link": "https://www.amazon.com/s?k=Sony+PlayStation+5+%28Standard%29+1%E2%80%AFTB+Console&tag=zoepicks00-20",
-   "price_asof": "Oct 17, 2026"
+   "price_asof": "Oct 17, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "PS5 Slim Bundle with Spider‑Man 2",
@@ -151,7 +157,10 @@
    "amazon_reviews": 821,
    "amazon_rating_asof": "Oct 20, 2026",
    "image": "https://m.media-amazon.com/images/I/71StZXR0DZL.jpg",
-   "image_asin": "B0CKZF4N8R"
+   "image_asin": "B0CKZF4N8R",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "PS5 Slim Digital Edition Bundle with Spider‑Man 2",
@@ -193,7 +202,10 @@
    "amazon_reviews": 778,
    "amazon_rating_asof": "Oct 20, 2026",
    "image": "https://m.media-amazon.com/images/I/71ic9iy3vVL.jpg",
-   "image_asin": "B0CV4J3TS7"
+   "image_asin": "B0CV4J3TS7",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "PS5 Disc + Horizon Forbidden West + Call of Duty + God of War Bundle",
@@ -227,7 +239,10 @@
    "price_asof": "Oct 18, 2026",
    "tabs": [
     "bundles"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Certified Refurbished PS5 Digital Edition",
@@ -260,7 +275,10 @@
    "price_asof": "Oct 18, 2026",
    "tabs": [
     "bundles"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Sony DualSense Controller",
@@ -293,11 +311,11 @@
    "image": "https://m.media-amazon.com/images/I/61E4bTm1QZL.jpg",
    "image_asin": "B09B1XX1PN",
    "amazon_price": "$20.37",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "PowerA Twin Charging Station for Dualsense Wireless Controllers, Dualsense Controller Char",
    "amazon_rating": "4.7",
-   "amazon_reviews": 4985,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 4987,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "SteelSeries Arctis Nova Pro Wireless",
@@ -326,11 +344,11 @@
    "image": "https://m.media-amazon.com/images/I/71WpmCBbVdL.jpg",
    "image_asin": "B0GS7PZH2P",
    "amazon_price": "$359.99",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "SteelSeries Arctis Nova Pro Omni Hi-Res Wireless Gaming Headset - Graphite | 96kHz/24bit, ",
    "amazon_rating": "4.3",
    "amazon_reviews": 300,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "PowerA DualSense Charging Dock",
@@ -354,7 +372,10 @@
    "link": "https://www.amazon.com/s?k=PowerA+DualSense+Charging+Dock&tag=zoepicks00-20",
    "tabs": [
     "accessories"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "PlayStation Portal",
@@ -383,8 +404,8 @@
    "image": "https://m.media-amazon.com/images/I/61LSWoVFRYL.jpg",
    "image_asin": "B0DSLTZ6M3",
    "amazon_rating": "4.5",
-   "amazon_reviews": 7409,
-   "amazon_rating_asof": "Oct 19, 2026",
+   "amazon_reviews": 7413,
+   "amazon_rating_asof": "Oct 20, 2026",
    "amazon_price": "$199.73",
    "amazon_price_asof": "Oct 19, 2026",
    "amazon_listing": "PlayStation 5 Portal Remote Player - Midnight Black"
