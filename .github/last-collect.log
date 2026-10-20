@@ -1,4 +1,4 @@
-[collect] topic: Best Razor Blades (2026)
+[collect] topic: Best Switch Charger (2026)
 [collect] tavily multi fail 432 Client Error:  for url: https://api.tavily.com/search
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
@@ -11,20 +11,18 @@
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
-[collect] extra sources: +2 readable page(s) -> 2 total (razer.com, razor.com)
-[collect] llm request: 2 sources x 3291 chars, ~2964 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,505 requested 2,368 -> skipped for this run
-[collect] drop (only 1 sources): Razor Power Core XLR150
-[collect] FAILED best-razor-blades-2026: 'str' object has no attribute 'get'
-Traceback (most recent call last):
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 647, in <module>
-    main()
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 624, in main
-    run_topic(plan, topic, dry)
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 566, in run_topic
-    products = ground(g, pages, texts)
-               ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/zoepicks.github.io/zoepicks.github.io/tools/collect_guide.py", line 361, in ground
-    doms = {pages[i][0] for i, t in enumerate(texts) if t and mentioned(p.get("name", ""), t)}
-                                                                        ^^^^^
-AttributeError: 'str' object has no attribute 'get'
+[collect] browser fetch 6763 chars: https://www.nintendo.com/us/gaming-systems/switch/
+[collect] extra sources: +2 readable page(s) -> 2 total (nintendo.com, switch.com)
+[collect] llm request: 2 sources x 3290 chars, ~2985 in + 4000 out tokens (budget 7000)
+[collect] open web tavily fail 432 Client Error:  for url: https://api.tavily.com/search
+[collect] open web (ddg) -> 0 results
+[collect] open web (browser) -> 10 results
+[collect] tavily multi fail 432 Client Error:  for url: https://api.tavily.com/search
+[collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser search html.duckduckgo.com -> 0 pages
+[collect] browser search www.bing.com -> 0 pages
+[collect] extra sources: +0 readable page(s) -> 2 total (switch.com)
+[collect] only 0 well-sourced products for tab switch -> staying todo
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
