@@ -35,7 +35,10 @@
    "skip_if": "You need an insulated or ultralight jacket",
    "price": "$189 at REI",
    "link": "https://www.amazon.com/s?k=Patagonia+Torrentshell+3L&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "REI Co‑op Rainier Rain Jacket",
@@ -68,7 +71,10 @@
    "skip_if": "You need high‑performance or insulated gear",
    "price": "$99 at REI",
    "link": "https://www.amazon.com/s?k=REI+Co%E2%80%91op+Rainier+Rain+Jacket&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "The North Face Alta Vista Rain Jacket",
