@@ -218,7 +218,8 @@
   "category": "gaming",
   "high_ticket": true,
   "status": "todo",
-  "priority": 77
+  "priority": 77,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Handheld Gaming PCs Like the Steam Deck (2026)",
@@ -290,7 +291,8 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 84
+  "priority": 84,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Toaster Ovens That Replace the Big Oven (2026)",
@@ -298,7 +300,8 @@
   "category": "home_kitchen",
   "high_ticket": false,
   "status": "todo",
-  "priority": 85
+  "priority": 85,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Stand Mixers for Holiday Baking (2026)",
@@ -344,7 +347,8 @@
   "category": "smart_home",
   "high_ticket": true,
   "status": "todo",
-  "priority": 100
+  "priority": 100,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Soundbars That Fix Weak TV Sound (2026)",
@@ -368,7 +372,8 @@
   "category": "smart_home",
   "high_ticket": false,
   "status": "todo",
-  "priority": 103
+  "priority": 103,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Smart Thermostats That Cut Energy Bills (2026)",
@@ -434,7 +439,8 @@
   "category": "accessories",
   "high_ticket": false,
   "status": "todo",
-  "priority": 90
+  "priority": 90,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Smartwatches for iPhone & Android (2026)",
@@ -496,7 +502,8 @@
   "category": "furniture_decor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 108
+  "priority": 108,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Standing Desks That Don't Wobble (2026)",
@@ -529,7 +536,8 @@
   "category": "accessories",
   "high_ticket": false,
   "status": "todo",
-  "priority": 111
+  "priority": 111,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Desk Lamps for Eye Comfort (2026)",
@@ -537,7 +545,8 @@
   "category": "furniture_decor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 112
+  "priority": 112,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Wireless Mice for Work & Travel (2026)",
@@ -553,7 +562,8 @@
   "category": "accessories",
   "high_ticket": true,
   "status": "todo",
-  "priority": 114
+  "priority": 114,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Headphones for Open Offices & Calls (2026)",
@@ -568,7 +578,7 @@
   "slug": "best-document-scanners-2026",
   "category": "office_books",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 116
  },
  {
@@ -576,7 +586,7 @@
   "slug": "best-cordless-drills-2026",
   "category": "tools_auto",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 117
  },
  {
@@ -593,7 +603,8 @@
   "category": "tools_auto",
   "high_ticket": false,
   "status": "todo",
-  "priority": 119
+  "priority": 119,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Jump Starters for Winter Breakdowns (2026)",
@@ -601,7 +612,8 @@
   "category": "tools_auto",
   "high_ticket": false,
   "status": "todo",
-  "priority": 120
+  "priority": 120,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Car Vacuums for Crumbs & Pet Hair (2026)",
@@ -609,14 +621,15 @@
   "category": "tools_auto",
   "high_ticket": true,
   "status": "todo",
-  "priority": 121
+  "priority": 121,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Dash Cams for Insurance-Proof Footage (2026)",
   "slug": "best-dash-cams-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 122
  },
  {
@@ -632,7 +645,7 @@
   "slug": "best-pressure-washers-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 124
  },
  {
@@ -641,7 +654,8 @@
   "category": "tools_auto",
   "high_ticket": false,
   "status": "todo",
-  "priority": 125
+  "priority": 125,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top OBD2 Scanners to Diagnose Your Own Car (2026)",
@@ -672,7 +686,7 @@
   "slug": "best-electric-shavers-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 129
  },
  {
@@ -680,7 +694,7 @@
   "slug": "best-massage-guns-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 130
  },
  {
@@ -688,7 +702,7 @@
   "slug": "best-fitness-trackers-2026",
   "category": "mobiles",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 131
  },
  {
@@ -697,7 +711,8 @@
   "category": "beauty_health",
   "high_ticket": false,
   "status": "todo",
-  "priority": 132
+  "priority": 132,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Water Flossers for Healthier Gums (2026)",
@@ -721,7 +736,8 @@
   "category": "beauty_health",
   "high_ticket": false,
   "status": "todo",
-  "priority": 135
+  "priority": 135,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Epilators for Longer-Lasting Hair Removal (2026)",
@@ -737,7 +753,8 @@
   "category": "fitness_outdoor",
   "high_ticket": true,
   "status": "todo",
-  "priority": 137
+  "priority": 137,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Adjustable Dumbbells That Save Space (2026)",
@@ -760,7 +777,7 @@
   "slug": "best-yoga-mats-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 140
  },
  {
@@ -777,7 +794,8 @@
   "category": "fitness_outdoor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 141
+  "priority": 141,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Hiking Backpacks for Day Hikes & Overnights (2026)",
@@ -785,14 +803,15 @@
   "category": "fitness_outdoor",
   "high_ticket": false,
   "status": "todo",
-  "priority": 142
+  "priority": 142,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Coolers That Keep Ice for Days (2026)",
   "slug": "best-coolers-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 143
  },
  {
@@ -800,7 +819,7 @@
   "slug": "best-hiking-boots-2026",
   "category": "fitness_outdoor",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 144
  },
  {
@@ -817,7 +836,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 146
+  "priority": 146,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Walking Shoes for All-Day Comfort (2026)",
@@ -825,7 +845,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 147
+  "priority": 147,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Sunglasses: Style Meets UV Protection (2026)",
@@ -833,7 +854,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 148
+  "priority": 148,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Watches Under $200 That Look Expensive (2026)",
@@ -841,7 +863,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 149
+  "priority": 149,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Travel Backpacks for Carry-On Trips (2026)",
@@ -857,7 +880,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 151
+  "priority": 151,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Rain Jackets That Stay Dry (2026)",
@@ -873,7 +897,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 153
+  "priority": 153,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Compression Socks for Travel & Long Shifts (2026)",
@@ -889,7 +914,8 @@
   "category": "fashion",
   "high_ticket": false,
   "status": "todo",
-  "priority": 155
+  "priority": 155,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top LEGO Sets for Adults: Display-Worthy Builds (2026)",
@@ -905,7 +931,7 @@
   "slug": "best-stem-toys-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 156
  },
  {
@@ -913,7 +939,7 @@
   "slug": "best-toys-for-3-year-olds-2026",
   "category": "toys_kids",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 157
  },
  {
@@ -922,7 +948,8 @@
   "category": "toys_kids",
   "high_ticket": true,
   "status": "todo",
-  "priority": 158
+  "priority": 158,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Strollers for Newborns to Toddlers (2026)",
@@ -954,7 +981,8 @@
   "category": "toys_kids",
   "high_ticket": false,
   "status": "todo",
-  "priority": 162
+  "priority": 162,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Craft Kits for Rainy-Day Fun (2026)",
@@ -962,7 +990,8 @@
   "category": "hobby_music",
   "high_ticket": false,
   "status": "todo",
-  "priority": 163
+  "priority": 163,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Diaper Bags for Busy Parents (2026)",
@@ -970,7 +999,8 @@
   "category": "toys_kids",
   "high_ticket": false,
   "status": "todo",
-  "priority": 164
+  "priority": 164,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Dog Beds for Big, Small & Senior Dogs (2026)",
@@ -978,7 +1008,8 @@
   "category": "pets",
   "high_ticket": false,
   "status": "todo",
-  "priority": 165
+  "priority": 165,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Automatic Cat Feeders for Busy Owners (2026)",
@@ -986,14 +1017,15 @@
   "category": "pets",
   "high_ticket": false,
   "status": "todo",
-  "priority": 166
+  "priority": 166,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Are Self-Cleaning Litter Boxes Worth It? Top Picks (2026)",
   "slug": "best-self-cleaning-litter-boxes-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 167
  },
  {
@@ -1001,7 +1033,7 @@
   "slug": "best-dog-harnesses-2026",
   "category": "pets",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 168
  },
  {
@@ -1010,7 +1042,8 @@
   "category": "pets",
   "high_ticket": false,
   "status": "todo",
-  "priority": 169
+  "priority": 169,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Pet Cameras to Check on Your Pets (2026)",
@@ -1026,7 +1059,8 @@
   "category": "pets",
   "high_ticket": false,
   "status": "todo",
-  "priority": 171
+  "priority": 171,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Tough Dog Toys for Heavy Chewers (2026)",
@@ -1458,7 +1492,8 @@
   "parent": "best-wireless-earbuds-2026",
   "tab": "under-100",
   "tab_label": "Under $100",
-  "tab_max": 100
+  "tab_max": 100,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Top Smartphones of 2026: Our Overall Picks",
@@ -1961,7 +1996,8 @@
   "category": "home_kitchen",
   "high_ticket": true,
   "status": "todo",
-  "priority": 79
+  "priority": 79,
+  "last_try": "Oct 20, 2026"
  },
  {
   "title": "Best Washing Machine (2026)",

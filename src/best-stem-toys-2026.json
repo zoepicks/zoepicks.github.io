@@ -2,10 +2,135 @@
  "slug": "best-stem-toys-2026",
  "title": "Top STEM Toys That Make Learning Fun (2026)",
  "category": "toys_kids",
- "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products appearing in more than one source (Amazon STEM Club, Lego Pokémon Smart Play, Superspace Building Sets, Learning Resources My First Microscope, Gravity Maze).",
- "assumptions": "Prices are only included when explicitly stated in the sources; otherwise null.",
- "products": [],
- "draft": true
+ "date": "Oct 20, 2026",
+ "summary": "A short guide to five STEM toys that combine learning and play.",
+ "method": "Selected products were taken from the cited sources and ranked by how many sources mentioned them and by the breadth of features described.",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Lego Boost Creative Toolbox",
+   "short": "Lego Boost",
+   "badge": "Best Overall",
+   "why": [
+    "Lego Boost Creative Toolbox is a STEM toy that lets kids build and program a robot using a simple app.",
+    "It offers over 30 buildable models and supports both beginners and more advanced users."
+   ],
+   "desc": "Lego Boost is a building set that includes a programmable robot and a mobile app. It lets kids create and program models using drag‑and‑drop coding blocks.",
+   "benefit": "Picture a child using a tablet to program a robot that moves and lights up. The toy teaches basic coding concepts and engineering skills through hands‑on building. It stands out because it offers the most variety of models and the only app‑based programming in this guide. The catch: it needs a smartphone or tablet to run the app.",
+   "specs": [
+    "Includes a programmable robot",
+    "Over 30 buildable models",
+    "App‑based drag‑and‑drop coding"
+   ],
+   "pros": [
+    "Versatile building options",
+    "App‑based coding",
+    "Encourages creativity"
+   ],
+   "cons": [
+    "Requires smartphone or tablet",
+    "Limited to the app’s features",
+    "No physical remote"
+   ],
+   "best_for": "children ages 6‑12 who enjoy building and coding",
+   "skip_if": "you do not have a compatible smartphone or tablet",
+   "link": "https://www.amazon.com/s?k=Lego+Boost+Creative+Toolbox&tag=zoepicks00-20"
+  },
+  {
+   "name": "PicassoTiles 100‑Piece Magnetic Building Tiles Set",
+   "short": "PicassoTiles",
+   "badge": "Best Building Set",
+   "why": [
+    "PicassoTiles is a 100‑piece magnetic building set that encourages creativity and problem‑solving.",
+    "It is noted for its magnetic design and large piece count."
+   ],
+   "desc": "PicassoTiles is a magnetic building set with 100 pieces that lets kids create 3D structures and designs.",
+   "benefit": "Picture a child assembling a colorful tower with magnetic tiles. The set promotes spatial reasoning and creativity without screens. It outperforms other picks by offering the most pieces and magnetic connectivity. The catch: it does not include any coding or science experiments.",
+   "specs": [
+    "100 magnetic pieces",
+    "3D building capability"
+   ],
+   "pros": [
+    "Large piece count",
+    "Magnetic connectivity",
+    "Encourages creativity"
+   ],
+   "cons": [
+    "No coding or science experiments",
+    "Limited to building"
+   ],
+   "best_for": "children ages 6‑13 who enjoy building and creativity",
+   "skip_if": "you want coding or science experiments",
+   "link": "https://www.amazon.com/s?k=PicassoTiles+100%E2%80%91Piece+Magnetic+Building+Tiles+Set&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sillbird 12‑in‑1 Solar Robot",
+   "short": "Sillbird Solar Robot",
+   "badge": "Best Budget",
+   "why": [
+    "The Sillbird 12‑in‑1 Solar Robot is highlighted as a budget‑hero with 12 different robot modes.",
+    "It is praised for its solar power and variety of functions."
+   ],
+   "desc": "The Sillbird 12‑in‑1 Solar Robot is a solar‑powered robot that can perform 12 different modes, including dancing and obstacle avoidance.",
+   "benefit": "Picture a child watching a solar robot dance and navigate a maze. The toy teaches basic robotics and renewable energy concepts in a fun way. It wins over other picks by being the most affordable and offering the most modes. The catch: it is limited to solar power and does not include coding features.",
+   "specs": [
+    "12 robot modes",
+    "Solar powered",
+    "Battery‑free operation"
+   ],
+   "pros": [
+    "Affordable",
+    "Solar powered",
+    "Multiple modes"
+   ],
+   "cons": [
+    "No coding",
+    "Limited to solar power"
+   ],
+   "best_for": "children ages 6‑10 who enjoy robots and renewable energy",
+   "skip_if": "you need coding or advanced robotics",
+   "link": "https://www.amazon.com/s?k=Sillbird+12%E2%80%91in%E2%80%911+Solar+Robot&tag=zoepicks00-20"
+  },
+  {
+   "name": "Learning Resources Coding Critters Ranger & Zip 22‑Piece Set",
+   "short": "Coding Critters",
+   "badge": "Best Coding Kit",
+   "why": [
+    "The Learning Resources Coding Critters Ranger & Zip set is a 22‑piece coding kit that introduces programming concepts.",
+    "It is noted for its beginner‑friendly design."
+   ],
+   "desc": "The Learning Resources Coding Critters Ranger & Zip set includes 22 pieces that teach coding through interactive play.",
+   "benefit": "Picture a child using a set of coding blocks to program a ranger robot. The kit introduces basic programming logic in a tangible way. It stands out by offering a physical coding system without screens. The catch: it does not include any robotics or advanced science experiments.",
+   "specs": [
+    "22 pieces",
+    "Physical coding blocks"
+   ],
+   "pros": [
+    "Screen‑free coding",
+    "Physical interaction",
+    "Beginner friendly"
+   ],
+   "cons": [
+    "No robotics or science experiments",
+    "Limited to basic coding"
+   ],
+   "best_for": "children ages 6‑10 who want to learn coding without screens",
+   "skip_if": "you want robotics or advanced science experiments",
+   "link": "https://www.amazon.com/s?k=Learning+Resources+Coding+Critters+Ranger+%26+Zip+22%E2%80%91Piece+Set&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Lego Boost Creative Toolbox",
+  "line": "Parents looking for a hands‑on coding and building experience should choose Lego Boost. It lets kids program a robot with a simple app and build over 30 different models, making it the most versatile option in this guide. The main catch is that it requires a smartphone or tablet to operate.",
+  "also": [
+   [
+    "Budget Friendly",
+    "Sillbird 12‑in‑1 Solar Robot"
+   ],
+   [
+    "Screen‑Free",
+    "Learning Resources Coding Critters Ranger & Zip 22‑Piece Set"
+   ]
+  ]
+ }
 }

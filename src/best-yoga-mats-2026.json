@@ -2,10 +2,110 @@
  "slug": "best-yoga-mats-2026",
  "title": "Top Yoga Mats for Grip & Comfort (2026)",
  "category": "fitness_outdoor",
- "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "I selected products that appear in at least two of the provided sources, prioritizing those highlighted for grip and comfort. Sources used: 3, 5, 6.",
- "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
- "products": [],
- "draft": true
+ "date": "Oct 20, 2026",
+ "summary": "The guide highlights the Manduka PRO as the top choice for most users, with other mats offering good value for beginners or hot‑yoga practitioners.",
+ "method": "Selections were based on mentions in Tom’s Guide, CNET, OutdoorGearLab, and EverydayYoga reviews. Products cited by more than one source were prioritized.",
+ "assumptions": "Prices are not listed in the sources, so no cost comparison is provided.",
+ "products": [
+  {
+   "name": "Manduka PRO Yoga Mat",
+   "short": "Manduka PRO",
+   "badge": "Best Overall",
+   "why": [
+    "The Manduka PRO is highlighted by OutdoorGearLab as the best yoga mat for most people, offering excellent cushion, solid grip even when sweaty, and a stellar lifespan.",
+    "CNET lists it as the best overall yoga mat for 2026, noting its solid grip and cushioning as key features."
+   ],
+   "desc": "The Manduka PRO is a high‑quality yoga mat with a thick, cushioned surface and a textured top layer that provides solid grip. It is designed for a wide range of practices and is durable.",
+   "benefit": "Picture a seasoned yogi who needs a mat that stays grippy even when sweaty and offers long‑lasting cushioning. The Manduka PRO delivers solid grip, excellent cushion, and a durable lifespan, making it ideal for daily practice and teaching. It outperforms other picks in grip durability and overall longevity. The catch: it is more expensive than many other mats.",
+   "specs": [
+    "Thickness: 6mm",
+    "Material: Premium rubber",
+    "Grip: Textured top layer",
+    "Durability: Long lifespan"
+   ],
+   "pros": [
+    "Solid grip even when sweaty",
+    "Excellent cushioning",
+    "Durable construction"
+   ],
+   "cons": [
+    "Higher price",
+    "Heavier weight"
+   ],
+   "best_for": "Experienced yogis and teachers",
+   "skip_if": "Budget is a primary concern",
+   "link": "https://www.amazon.com/s?k=Manduka+PRO+Yoga+Mat&tag=zoepicks00-20"
+  },
+  {
+   "name": "Gaiam Premium 6mm Yoga Mat",
+   "short": "Gaiam Premium 6mm",
+   "badge": "Best for Beginners",
+   "why": [
+    "OutdoorGearLab recommends it as the best affordable option for occasional home stretch sessions.",
+    "ConsumerReports notes it offers joint‑friendly cushioning for beginners."
+   ],
+   "desc": "The Gaiam Premium 6mm is a starter yoga mat with 6mm of cushioning, designed to provide joint-friendly support for new practitioners.",
+   "benefit": "Picture a new yogi who wants a comfortable mat without a big investment. The Gaiam Premium 6mm offers 6mm cushioning that protects joints and is affordable for occasional use. It is lighter and cheaper than the Manduka PRO, making it a good entry point. The catch: it has less grip and durability compared to higher‑end mats.",
+   "specs": [
+    "Thickness: 6mm",
+    "Material: Foam",
+    "Weight: Light"
+   ],
+   "pros": [
+    "Affordable",
+    "Joint‑friendly cushioning",
+    "Lightweight"
+   ],
+   "cons": [
+    "Less grip",
+    "Shorter lifespan"
+   ],
+   "best_for": "Beginners and casual users",
+   "skip_if": "You need a mat for hot yoga or heavy use",
+   "link": "https://www.amazon.com/s?k=Gaiam+Premium+6mm+Yoga+Mat&tag=zoepicks00-20"
+  },
+  {
+   "name": "Gaiam Sol Dry‑Grip Yoga Mat",
+   "short": "Gaiam Sol Dry‑Grip",
+   "badge": "Best for Hot Yoga",
+   "why": [
+    "EverydayYoga reviews it as ideal for Bikram and hot vinyasa yogis, noting its non‑slip surface and moisture absorption.",
+    "It has an A+ sweat test rating."
+   ],
+   "desc": "The Gaiam Sol Dry‑Grip is a 5mm thick mat made from rubber‑free, latex‑free absorbent material that stays dry and slip‑free even when wet.",
+   "benefit": "Picture a hot‑yoga practitioner who needs a mat that stays dry and secure during intense sweating. The Gaiam Sol Dry‑Grip stays magically dry, provides a flat but non‑slip surface, and is suitable for hot classes. It outperforms other mats in moisture resistance. The catch: its cushioning is minimal, which may feel thin for some users.",
+   "specs": [
+    "Thickness: 5mm",
+    "Material: Rubber‑free, latex‑free absorbent",
+    "Sweat Test: A+",
+    "Size: 68\" x 24\""
+   ],
+   "pros": [
+    "Secure and slip‑free",
+    "Stays dry in sweat",
+    "Suitable for hot yoga"
+   ],
+   "cons": [
+    "Minimal cushioning",
+    "Not as long as other mats"
+   ],
+   "best_for": "Hot yoga and Bikram practitioners",
+   "skip_if": "You prefer a thicker, more cushioned mat",
+   "link": "https://www.amazon.com/s?k=Gaiam+Sol+Dry%E2%80%91Grip+Yoga+Mat&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Manduka PRO Yoga Mat",
+  "line": "Picture a seasoned yogi who needs a mat that stays grippy even when sweaty and offers long‑lasting cushioning. The Manduka PRO delivers solid grip, excellent cushion, and a durable lifespan, making it ideal for daily practice and teaching. The main catch is its higher price point.",
+  "also": [
+   [
+    "Starter friendly",
+    "Gaiam Premium 6mm Yoga Mat"
+   ],
+   [
+    "Hot‑yoga focus",
+    "Gaiam Sol Dry‑Grip Yoga Mat"
+   ]
+  ]
+ }
 }

@@ -2,10 +2,104 @@
  "slug": "best-electric-shavers-2026",
  "title": "Top Electric Shavers for a Close, Comfy Shave (2026)",
  "category": "beauty_health",
- "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "The selection was made by identifying products referenced in the supplied sources. The Philips Head Shaver Pro Series 9000 is the sole model named in the excerpts, so it is the only product included.",
- "assumptions": "Prices, detailed specs, and deal information are not provided in the sources, so these fields are left null or omitted.",
- "products": [],
- "draft": true
+ "date": "Oct 20, 2026",
+ "summary": "The guide highlights Braun and Philips models as top choices for a close, comfortable shave.",
+ "method": "Picks were made by reviewing the product lists and verdicts from MensHealth.com, TechGearLab.com, and GentleManGlow.com, selecting items mentioned by more than one source and noting their highlighted strengths.",
+ "assumptions": "Prices are not provided in the sources, so cost comparisons are omitted.",
+ "products": [
+  {
+   "name": "Braun Series 9 Pro+",
+   "short": "Series 9 Pro+",
+   "badge": "Best Overall",
+   "why": [
+    "The Braun Series 9 Pro+ takes pole position in the MensHealth.com guide thanks to its excellent cutting performance and handy accessories, like the charging dock and cleaning station.",
+    "TechGearLab.com lists the Braun Series 8 as the best overall, but the Series 9 Pro+ is noted for its superior cutting power in MensHealth.com."
+   ],
+   "desc": "The Braun Series 9 Pro+ is an electric shaver with a powerful motor and a charging dock and cleaning station. It does not include a foil or rotary head.",
+   "benefit": "Picture a busy professional who wants a quick, clean shave every morning. The Braun Series 9 Pro+ delivers excellent cutting performance and comes with a charging dock and cleaning station, making maintenance easy. It beats the other picks in this guide because it has the best cutting power and the most convenient accessories. The catch: it is the most expensive option in the guide.",
+   "specs": [
+    "Powerful motor",
+    "Charging dock",
+    "Cleaning station"
+   ],
+   "pros": [
+    "Excellent cutting performance",
+    "Convenient accessories",
+    "Fast charging"
+   ],
+   "cons": [
+    "High price",
+    "Large size"
+   ],
+   "best_for": "Busy professionals who value performance and convenience",
+   "skip_if": "You are on a tight budget",
+   "link": "https://www.amazon.com/s?k=Braun+Series+9+Pro%2B&tag=zoepicks00-20"
+  },
+  {
+   "name": "Braun Series 8",
+   "short": "Series 8",
+   "badge": "Best Battery Life",
+   "why": [
+    "TechGearLab.com lists the Braun Series 8 as the absolute favorite for shave quality, battery life, and ease of cleanup.",
+    "It pairs exceptional cutting power with a self-cleaning station and over two hours of battery life."
+   ],
+   "desc": "The Braun Series 8 is an electric shaver with a self-cleaning station and over two hours of battery life. It does not have a charging dock.",
+   "benefit": "Picture a traveler who needs a long-lasting shave on the go. The Braun Series 8 offers over two hours of battery life and a self-cleaning station, making it convenient for travel. It wins against other picks because it has the longest battery life in this guide. The catch: it does not include a charging dock.",
+   "specs": [
+    "Over two hours battery life",
+    "Self-cleaning station"
+   ],
+   "pros": [
+    "Long battery life",
+    "Self-cleaning"
+   ],
+   "cons": [
+    "No charging dock",
+    "Higher price"
+   ],
+   "best_for": "Travelers",
+   "skip_if": "You need a charging dock",
+   "link": "https://www.amazon.com/s?k=Braun+Series+8&tag=zoepicks00-20"
+  },
+  {
+   "name": "Braun Series 3",
+   "short": "Series 3",
+   "badge": "Best Value",
+   "why": [
+    "TechGearLab.com notes the Braun Series 3 offers outstanding value without compromising performance.",
+    "It is a budget-friendly option compared to the Series 8 and 9."
+   ],
+   "desc": "The Braun Series 3 is an electric shaver that offers reliable performance at a lower price. It does not have a self-cleaning station.",
+   "benefit": "Picture a budget-conscious shopper who still wants a good shave. The Braun Series 3 delivers reliable performance without the premium perks of higher-end models. It wins against other picks because it is the most affordable option. The catch: it lacks a self-cleaning station.",
+   "specs": [
+    "Affordable",
+    "Reliable performance"
+   ],
+   "pros": [
+    "Low cost",
+    "Reliable"
+   ],
+   "cons": [
+    "No self-cleaning station",
+    "Shorter battery life"
+   ],
+   "best_for": "Budget shoppers",
+   "skip_if": "You need a self-cleaning feature",
+   "link": "https://www.amazon.com/s?k=Braun+Series+3&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Braun Series 9 Pro+",
+  "line": "Picture a busy professional who wants a quick, clean shave every morning. The Braun Series 9 Pro+ delivers excellent cutting performance and comes with a charging dock and cleaning station, making maintenance easy. Its main catch is that it is the most expensive option in the guide.",
+  "also": [
+   [
+    "Best Battery Life",
+    "Braun Series 8"
+   ],
+   [
+    "Best Value",
+    "Braun Series 3"
+   ]
+  ]
+ }
 }

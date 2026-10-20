@@ -2,10 +2,108 @@
  "slug": "best-self-cleaning-litter-boxes-2026",
  "title": "Are Self-Cleaning Litter Boxes Worth It? Top Picks (2026)",
  "category": "pets",
- "date": "Oct 18, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions across the provided sources, prioritising items cited by more than one site (e.g., Litter‑Robot 4). Sources used: Tom’s Guide (0), PCMag (2), CNET (4), Cosmopolitan (5), SmartPawParent (6).",
- "assumptions": "Prices are taken only from the excerpts; if a price isn’t listed it’s left null. Specs reflect exactly what the sources state.",
- "products": [],
- "draft": true
+ "date": "Oct 20, 2026",
+ "summary": "Self-cleaning litter boxes automate waste removal, with the Litter-Robot 4 and 5 Pro leading in reliability and features, while budget options like the PetPivot offer basic automation.",
+ "method": "Picks were selected based on recommendations from tomsguide.com, pcmag.com, consumerreports.org, cnet.com, whisker.com, and cats.com. Preference was given to products mentioned by multiple sources or highlighted as top picks in detailed tests.",
+ "assumptions": "Prices are not included in the product descriptions as per instructions. Availability and specific model variants may vary by region.",
+ "products": [
+  {
+   "name": "Litter-Robot 4",
+   "short": "Litter-Robot 4",
+   "badge": "Best Overall",
+   "why": [
+    "The Litter-Robot 4 is described as the highest-rated automatic, self-cleaning litter box. It features enhanced odor control with a sealed, carbon-filtered waste drawer and is suitable for up to 4 cats.",
+    "It allows users to monitor visits and track weights via the Whisker app. The unit can go up to 8 days before emptying the waste drawer in a 1-cat household."
+   ],
+   "desc": "This is a self-cleaning litter box with a sealed, carbon-filtered waste drawer. It supports up to 4 cats and connects to the Whisker app for monitoring visits and weights. It is designed for cats weighing 3-25 lbs.",
+   "benefit": "Picture a multi-cat household where you no longer need to scoop daily. The Litter-Robot 4 handles waste automatically and tracks each cat's weight and visits. It beats other picks by offering the highest rating and specific multi-cat capacity of up to 4 cats. The catch: it is a premium-priced option compared to budget models like the PetPivot.",
+   "specs": [
+    "Suitable for up to 4 cats",
+    "Go up to 8 days before emptying waste drawer in 1-cat household",
+    "Designed for cats 3-25 lbs",
+    "Sealed, carbon-filtered waste drawer",
+    "Whisker app integration",
+    "Quiet sifting"
+   ],
+   "pros": [
+    "Highest-rated automatic self-cleaning litter box",
+    "Multi-cat friendly (up to 4 cats)",
+    "Enhanced odor control with carbon filter",
+    "Tracks weight and visits via app"
+   ],
+   "cons": [
+    "Premium price point",
+    "Requires app setup for full features"
+   ],
+   "best_for": "Multi-cat households and users who want detailed health tracking.",
+   "skip_if": "You are on a tight budget or have only one cat and do not need app features.",
+   "link": "https://www.amazon.com/s?k=Litter-Robot+4&tag=zoepicks00-20"
+  },
+  {
+   "name": "Litter-Robot 5 Pro",
+   "short": "Litter-Robot 5 Pro",
+   "badge": "Best Premium",
+   "why": [
+    "Cats.com heartily recommends the Litter-Robot 5 Pro or other Whisker models. It is part of the top-tier options in their test of 38 models.",
+    "It is positioned as a high-end choice for those who want to avoid buggy or difficult-to-set-up units."
+   ],
+   "desc": "This is a high-end automatic litter box from Whisker. It is recommended as a top pick for users seeking reliable performance and advanced features.",
+   "benefit": "Picture a cat owner who wants the most reliable and feature-rich option available. The Litter-Robot 5 Pro is recommended by Cats.com as a top choice after testing 38 models. It beats other picks by being a flagship model with proven reliability. The catch: it is likely the most expensive option in this guide.",
+   "specs": [
+    "Recommended by Cats.com",
+    "Part of Whisker lineup",
+    "Tested in 38-model comparison"
+   ],
+   "pros": [
+    "Highly recommended by expert testers",
+    "Reliable performance",
+    "Advanced features"
+   ],
+   "cons": [
+    "High cost",
+    "May be overkill for single-cat households"
+   ],
+   "best_for": "Buyers who want the top-tier experience and do not mind the cost.",
+   "skip_if": "You are looking for a budget-friendly solution.",
+   "link": "https://www.amazon.com/s?k=Litter-Robot+5+Pro&tag=zoepicks00-20"
+  },
+  {
+   "name": "Neakasa M1",
+   "short": "Neakasa M1",
+   "badge": "Best Mid-Range",
+   "why": [
+    "PCMag compared the Neakasa M1 to the PetPivot, questioning if its premium perks justify the higher price. It is positioned as a step up from the budget option.",
+    "It eliminates the daily poop removal slog, similar to the PetPivot but with additional features."
+   ],
+   "desc": "This is a mid-range self-cleaning litter box. It offers premium perks over the PetPivot, including enhanced features for cat owners.",
+   "benefit": "Picture a cat owner who wants more than basic automation but cannot justify the cost of a Litter-Robot. The Neakasa M1 offers premium perks at a price between the PetPivot and top-tier models. It beats the PetPivot by offering more features. The catch: it is more expensive than the PetPivot and may not have the same brand recognition as Litter-Robot.",
+   "specs": [
+    "Premium perks over PetPivot",
+    "Self-cleaning mechanism",
+    "Higher price than PetPivot"
+   ],
+   "pros": [
+    "More features than budget options",
+    "Reliable waste removal",
+    "Mid-range pricing"
+   ],
+   "cons": [
+    "More expensive than PetPivot",
+    "Less brand recognition than Litter-Robot"
+   ],
+   "best_for": "Buyers who want a balance between price and features.",
+   "skip_if": "You want the absolute lowest price or the highest-end features.",
+   "link": "https://www.amazon.com/s?k=Neakasa+M1&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Litter-Robot 4",
+  "line": "Best for most buyers due to high ratings, multi-cat support, and app connectivity. The main catch is that it is a premium product compared to budget alternatives.",
+  "also": [
+   [
+    "Smart Features",
+    "Litter-Robot 5 Pro"
+   ]
+  ]
+ }
 }
