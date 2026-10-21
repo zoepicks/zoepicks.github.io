@@ -4,12 +4,18 @@
  "category": "beauty_health",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on products mentioned in sources 1,2,6 and 7. Preference was given to items cited by more than one source.",
- "assumptions": "No price data was used because sources did not list consistent pricing for all items.",
+ "method": "Selected products were chosen from CNET and Healthydadhacks reviews, which both recommend Sunbeam models.",
+ "assumptions": "Prices are not listed in the sources, so no price information is provided.",
  "products": [],
  "verdict": {
   "pick": "Sunbeam XL Heating Pad",
-  "line": "Ideal for anyone who wants fast, dry heat for lower‑back relief. It heats quickly, covers a large area and is praised for easing muscles before work or workouts. The catch is it only provides dry heat, not the moist heat some users prefer."
+  "line": "The Sunbeam XL Heating Pad is ideal for people who need fast, deep heat for lower back or larger muscle groups. It heats quickly and stays warm, making it a solid choice for daily use. The main catch is its larger size may be less portable.",
+  "also": [
+   [
+    "Standard Size",
+    "Sunbeam Heating Pad"
+   ]
+  ]
  },
  "draft": true
 }
