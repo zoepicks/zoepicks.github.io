@@ -35,7 +35,10 @@
    ],
    "best_for": "Frequent travelers needing smart charging",
    "skip_if": "Budget travelers",
-   "link": "https://www.amazon.com/s?k=Away+Bigger+Carry%E2%80%91On+with+Pocket&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away+Bigger+Carry%E2%80%91On+with+Pocket&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Condé Nast Traveler Hard‑Shell Luggage",
@@ -65,7 +68,10 @@
    ],
    "best_for": "Long‑haul travelers needing rugged protection",
    "skip_if": "Those who prefer lighter, softer luggage",
-   "link": "https://www.amazon.com/s?k=Cond%C3%A9%E2%80%AFNast+Traveler+Hard%E2%80%91Shell+Luggage&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Cond%C3%A9%E2%80%AFNast+Traveler+Hard%E2%80%91Shell+Luggage&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Away Carry‑On",
@@ -91,7 +97,16 @@
    ],
    "best_for": "Budget travelers seeking style",
    "skip_if": "Those who need a return guarantee",
-   "link": "https://www.amazon.com/s?k=Away+Carry%E2%80%91On&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away+Carry%E2%80%91On&tag=zoepicks00-20",
+   "asin": "B0DLHBYCJB",
+   "image": "https://m.media-amazon.com/images/I/61LQ3PWxE+L.jpg",
+   "image_asin": "B0DLHBYCJB",
+   "amazon_price": "$275.00",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "Away The Carry-On Luggage, 22-inch Lightweight Hardside Spinner Suitcase | Durable & Light",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 466,
+   "amazon_rating_asof": "Oct 20, 2026"
   }
  ],
  "verdict": {
