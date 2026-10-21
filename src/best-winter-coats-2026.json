@@ -36,11 +36,11 @@
    "image": "https://m.media-amazon.com/images/I/61xk1UKHANL.jpg",
    "image_asin": "B0C35L32TV",
    "amazon_price": "$261.85",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Fjallraven Nuuk Lite Parka Women's Winter Jacket, Dark Navy, S | Waterproof, Breathable, 1",
    "amazon_rating": "5",
    "amazon_reviews": 1,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "The North Face McMurdo Down Parka",
@@ -71,11 +71,11 @@
    "image": "https://m.media-amazon.com/images/I/61vRVL+Xg4L.jpg",
    "image_asin": "B0DSJZHKTG",
    "amazon_price": "$450.00",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "THE NORTH FACE Men's McMurdo Parka | Long Waterproof Winter Jacket With 600 Fill Waterfowl",
    "amazon_rating": "4.5",
    "amazon_reviews": 132,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "REI Co‑op Stormhenge Down Hybrid Parka",
@@ -101,7 +101,10 @@
    ],
    "best_for": "Budget‑conscious users who still need solid performance",
    "skip_if": "You need the absolute highest warmth",
-   "link": "https://www.amazon.com/s?k=REI+Co%E2%80%91op+Stormhenge+Down+Hybrid+Parka&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=REI+Co%E2%80%91op+Stormhenge+Down+Hybrid+Parka&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
