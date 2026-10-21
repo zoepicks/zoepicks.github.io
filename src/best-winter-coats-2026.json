@@ -4,7 +4,7 @@
  "category": "fashion",
  "date": "Oct 18, 2026",
  "summary": "The best winter coats for real cold in 2026 come from Fjallraven, The North Face, Outdoor Research, REI Co‑op, and Columbia, each offering proven warmth, weather‑proofing, and design suited to the harshest conditions.",
- "method": "I selected products that appear in more than one of the supplied sources (Fjallraven Nuuk Parka appears in sources 4 and 6). I also included the top picks from each source that were not repeated elsewhere, noting the source list for each item.",
+ "method": "I selected products that appear in more than one of the supplied sources (Fjallraven Nuuk Parka appears in sources 4 and 6). I also included the top picks from each source that were not repeated elsewhere, noting the source list for each item. Added from Amazon listing details (not from the review sources above): Columbia Powder Lite II.",
  "assumptions": "Prices are not provided in any source, so all price fields are null. No discount or deal information is mentioned, so deal_note fields are null.",
  "products": [
   {
@@ -78,33 +78,42 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "REI Co‑op Stormhenge Down Hybrid Parka",
-   "short": "Stormhenge Hybrid Parka",
-   "badge": "Best Budget",
+   "name": "Columbia Powder Lite II Hooded Jacket",
+   "short": "Columbia Powder Lite II",
+   "badge": "Best Budget Insulated",
    "why": [
-    "The REI Co‑op Stormhenge Down Hybrid Parka is recommended by Outdoor Gear Lab for those who want performance without a high price tag.",
-    "It blends down and polyester insulation and features a shell that is nearly impervious to water and snow."
+    "It is a water-resistant, insulated hooded jacket.",
+    "It has zippered closures."
    ],
    "specs": [
-    "Blend of down and polyester insulation",
-    "Shell nearly impervious to water and snow",
-    "Affordable"
+    "Water-resistant",
+    "Insulated",
+    "Hooded",
+    "Zippered"
    ],
    "pros": [
-    "Good warmth for price",
-    "Water‑resistant shell",
-    "Hybrid insulation"
+    "Insulated for cold days",
+    "Hood included",
+    "Rated 4.6 on Amazon"
    ],
    "cons": [
-    "No price info",
-    "Not as warm as pure down"
+    "Few details on the listing",
+    "Water-resistant, not waterproof"
    ],
-   "best_for": "Budget‑conscious users who still need solid performance",
-   "skip_if": "You need the absolute highest warmth",
-   "link": "https://www.amazon.com/s?k=REI+Co%E2%80%91op+Stormhenge+Down+Hybrid+Parka&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "best_for": "Commuters in cold weather",
+   "skip_if": "You need waterproof storm protection",
+   "link": "https://www.amazon.com/s?k=Columbia+Powder+Lite+II+Hooded+Jacket&tag=zoepicks00-20",
+   "benefit": "Picture a cold commute: insulation and a hood keep you warm, and the finish resists light wet. The catch: the main listing gives few technical details.",
+   "asin": "B0CLR8CQ7X",
+   "amazon_price": "$115.50",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Columbia Men's Powder Lite II Hooded Jacket",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 259,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/61V6D-WCsrL.jpg",
+   "image_asin": "B0CLR8CQ7X",
+   "desc": "A hooded insulated Columbia jacket. The Amazon page shows few details."
   }
  ]
 }

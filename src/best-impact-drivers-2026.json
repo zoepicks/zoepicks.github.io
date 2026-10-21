@@ -4,7 +4,7 @@
  "category": "tools_auto",
  "date": "Oct 18, 2026",
  "summary": "The top impact drivers for 2026 combine power, battery life, and ergonomic design, with the Kobalt XTR Max 24V and DeWalt DCF809C1 Atomic 20V MAX leading the pack.",
- "method": "Selected products that appear in the provided sources, prioritizing those highlighted as best overall or best power. Ranked by the prominence of the recommendation in the source excerpts.",
+ "method": "Selected products that appear in the provided sources, prioritizing those highlighted as best overall or best power. Ranked by the prominence of the recommendation in the source excerpts. Added from Amazon listing details (not from the review sources above): Milwaukee 2953-20.",
  "assumptions": "Prices are only included when explicitly stated in the source; otherwise the price field is null.",
  "products": [
   {
@@ -51,40 +51,6 @@
    "image_asin": "B08691X4MC"
   },
   {
-   "name": "Cat DX71 Impact Driver",
-   "short": "Cat DX71",
-   "badge": "Best Value",
-   "why": [
-    "Consumer Reports highlighted the Cat DX71 as a full‑sized standard impact driver with strong power and quick charging.",
-    "It offers ample run time and solid handling for heavy‑duty jobs."
-   ],
-   "specs": [
-    "18‑V battery",
-    "Price $187"
-   ],
-   "pros": [
-    "Affordable price",
-    "Strong power",
-    "Quick charging",
-    "Built‑in LED light",
-    "Three‑year warranty",
-    "Storage case included"
-   ],
-   "cons": [
-    "Very loud, requires hearing protection",
-    "No mention of battery life",
-    "Limited to 18‑V system"
-   ],
-   "best_for": "Homeowners and hobbyists needing a powerful yet budget‑friendly driver",
-   "skip_if": "You need a compact or 12‑V tool",
-   "price": "$187 at Retailer",
-   "link": "https://www.amazon.com/s?k=Cat+DX71+Impact+Driver&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true
-  },
-  {
    "name": "Flex FX1351-2A Impact Driver",
    "short": "Flex FX1351",
    "badge": "Best Performance",
@@ -123,6 +89,46 @@
    "amazon_price": "$418.00",
    "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Bundle of FLEX 24V Brushless Cordless 1/4-Inch Hex Impact Driver Kit (FX1351-2A) + 24V Bru"
+  },
+  {
+   "name": "Milwaukee M18 FUEL 2953-20 Impact Driver",
+   "short": "Milwaukee 2953-20",
+   "badge": "Best for M18 Users",
+   "why": [
+    "It delivers up to 2,000 in-lbs of torque at up to 3,900 RPM.",
+    "It has Tri-LED lights, 4-mode drive control and single-handed bit insertion."
+   ],
+   "specs": [
+    "Up to 2,000 in-lbs of torque",
+    "Up to 3,900 RPM",
+    "1/4 inch hex chuck",
+    "Tri-LED lights",
+    "4-mode drive control"
+   ],
+   "pros": [
+    "High torque",
+    "Lights on the tool",
+    "Single-handed bit changes",
+    "Rated 4.7 on Amazon"
+   ],
+   "cons": [
+    "Tool only: battery and charger sold separately",
+    "Locks you into the M18 battery system"
+   ],
+   "best_for": "Builders and serious DIYers",
+   "skip_if": "You do not have M18 batteries and want a ready kit",
+   "link": "https://www.amazon.com/s?k=Milwaukee+M18+FUEL+2953-20+Impact+Driver&tag=zoepicks00-20",
+   "benefit": "Picture a deck build with long screws: 2,000 in-lbs of torque drives them in, and the Tri-LED lights show the work area. The 4 drive modes help with smaller fasteners. The catch: you must buy the battery and charger separately if you do not own Milwaukee M18 gear.",
+   "asin": "B0BZSWTVCV",
+   "amazon_price": "$112.50",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Milwaukee 2953-20 18V Cordless 1/4\" Hex Impact Driver (Tool Only)",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 389,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/61iaqdzBFnL.jpg",
+   "image_asin": "B0BZSWTVCV",
+   "desc": "An 18V cordless 1/4 inch hex impact driver sold as a tool only. A battery and charger are not included."
   }
  ]
 }

@@ -4,7 +4,7 @@
  "category": "furniture_decor",
  "date": "Oct 18, 2026",
  "summary": "The best compact desks for small apartments combine sturdy construction, versatile use, and space‑saving features, with the top picks coming from multiple trusted reviewers.",
- "method": "I selected desks that appear in more than one source (CNET, Tom’s Guide, Architectural Digest) and prioritized those highlighted as best overall or best compact.",
+ "method": "I selected desks that appear in more than one source (CNET, Tom’s Guide, Architectural Digest) and prioritized those highlighted as best overall or best compact. Added from Amazon listing details (not from the review sources above): FlexiSpot EN1.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
  "products": [
   {
@@ -48,40 +48,6 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "SecretLab Magnus Pro XL Gaming Desk",
-   "short": "Magnus Pro XL",
-   "badge": "Best Gaming Desk",
-   "why": [
-    "CNET lists it as the best standing gaming desk, praising its large surface and sturdy build.",
-    "It includes built‑in LED lighting and headphone hooks, enhancing the gaming experience."
-   ],
-   "specs": [
-    "Large desktop surface",
-    "Built‑in LED lighting",
-    "Headphone hooks",
-    "Sturdy frame"
-   ],
-   "pros": [
-    "Spacious work area",
-    "Integrated lighting",
-    "Cable hooks",
-    "Robust construction"
-   ],
-   "cons": [
-    "Limited plug space",
-    "Not ideal for very small rooms",
-    "Higher price point"
-   ],
-   "best_for": "Gamers who need a large, feature‑rich desk in a compact footprint",
-   "skip_if": "You have a very tight corner or need a minimalist design",
-   "price": "$699 at Store",
-   "link": "https://www.amazon.com/s?k=SecretLab+Magnus+Pro+XL+Gaming+Desk&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true
-  },
-  {
    "name": "Branch Daily Desk",
    "short": "Branch Daily",
    "badge": "Best Daily Use Desk",
@@ -117,6 +83,46 @@
    "amazon_rating": "4",
    "amazon_reviews": 57,
    "amazon_rating_asof": "Oct 20, 2026"
+  },
+  {
+   "name": "FlexiSpot EN1 Standing Desk",
+   "short": "FlexiSpot EN1",
+   "badge": "Best Budget",
+   "why": [
+    "A one-piece desktop with no seam down the middle, which gives a smooth, uninterrupted work surface.",
+    "It lifts from 28.9 to 46.5 inches and remembers 4 height presets."
+   ],
+   "specs": [
+    "Electric height adjustment, 28.9 to 46.5 inches",
+    "4 memory presets",
+    "Holds up to 176 lbs",
+    "One-piece desktop, 48 x 24 inches",
+    "Top colors: black, white, natural, walnut"
+   ],
+   "pros": [
+    "Compact footprint",
+    "No seam in the desktop",
+    "Simpler assembly than most standing desks",
+    "Height memory presets"
+   ],
+   "cons": [
+    "176 lb limit is modest",
+    "Small top for large monitors plus a tower"
+   ],
+   "best_for": "Small rooms and first-time standing-desk buyers",
+   "skip_if": "You need room for a heavy, multi-monitor setup",
+   "link": "https://www.amazon.com/s?k=FlexiSpot+EN1+Standing+Desk&tag=zoepicks00-20",
+   "benefit": "Picture a small apartment where the desk has to be a work desk in the morning and a standing desk in the afternoon: the 48 x 24 inch top fits a laptop, a monitor and a few small items. The memory presets mean one button press moves it to your sitting or standing height. Its footprint is smaller than a large two-monitor desk, which is the point in a small room. The catch: the 176 lb limit and the compact top are not for a heavy multi-monitor setup.",
+   "asin": "B08BHPMYGK",
+   "amazon_price": "$109.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "FLEXISPOT EN1 One-Piece Standing Desk, Electric Adjustable with 4 Memory Presets, 176 LBS ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 12772,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/61ZR4GuC3FL.jpg",
+   "image_asin": "B08BHPMYGK",
+   "desc": "An electric height-adjustable desk with a one-piece 48 x 24 inch top. It holds up to 176 lbs, so it is not meant for very heavy setups."
   }
  ]
 }

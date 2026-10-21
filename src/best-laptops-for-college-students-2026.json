@@ -84,37 +84,6 @@
    "skip_if": "You edit video or run other heavy multi-core work, because multi-core performance lags"
   },
   {
-   "name": "Dell 14S",
-   "specs": [
-    "Core Ultra 7 355",
-    "16GB RAM",
-    "512GB SSD",
-    "14-in 1920×1200 OLED touch",
-    "~36h offline video playback (PCWorld test)",
-    "3.28 lb"
-   ],
-   "pros": [
-    "Longest battery life PCWorld has recorded",
-    "Polished build",
-    "Colorful, accurate display",
-    "Good port selection"
-   ],
-   "cons": [
-    "Weak 3D graphics",
-    "Screen isn't very bright",
-    "Performance is only so-so for the money"
-   ],
-   "link": "https://www.amazon.com/s?k=Dell+14S+laptop+Core+Ultra+7+355&tag=zoepicks00-20",
-   "best_for": "Long days away from an outlet.",
-   "badge": "Best Battery",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true,
-   "desc": "A 14-inch Windows laptop with a 1920×1200 OLED touchscreen, an Intel Core Ultra 7 355, 16GB of RAM and a 512GB SSD. It weighs 3.28 lb.",
-   "benefit": "Picture a week of classes where you rarely think about a charger. PCWorld measured about 36 hours of offline video playback, the longest battery life it has recorded and the longest in this guide. You also get a colorful, accurate 14-inch OLED touchscreen and a good selection of ports. The catch: weak 3D graphics, a screen that is not very bright, and so-so performance for the money.",
-   "skip_if": "You play 3D games or work in bright rooms, because graphics are weak and the screen is not very bright"
-  },
-  {
    "name": "Asus Chromebook Plus CX34",
    "specs": [
     "Core i5-1335U",
@@ -192,7 +161,7 @@
  ],
  "date": "Oct 15, 2026",
  "intro": [
-  "A laptop's battery claim and its real battery life can be very far apart. In PCWorld's tests the Dell 14S ran about 36 hours of offline video, while the Surface Pro falls to about 2 hours at full brightness under heavy use. Knowing how you will use it matters more than any number on the box.",
+  "A laptop's battery claim and its real battery life can be very far apart. In PCWorld's tests the Acer Swift 16 AI ran about 17.5 hours, while the Surface Pro falls to about 2 hours at full brightness under heavy use. Knowing how you will use it matters more than any number on the box.",
   "Black Friday is Nov 27, so it is worth watching prices. They change often, so check the current price on Amazon before you buy."
  ],
  "tips": {
@@ -222,8 +191,8 @@
    "The Acer Swift 16 AI is our Best Overall pick. It has a 16-inch OLED screen at 3.37 lb and lasted about 17.5 hours in PCWorld's test."
   ],
   [
-   "Which laptop has the longest battery life?",
-   "The Dell 14S. PCWorld measured about 36 hours of offline video playback, the longest it has recorded."
+   "How long does the top pick last on battery?",
+   "PCWorld measured about 17.5 hours on the Acer Swift 16 AI. The Surface Pro falls to about 2 hours at full brightness under heavy use."
   ],
   [
    "Is a Chromebook enough for college?",
@@ -242,10 +211,6 @@
   "pick": "Acer Swift 16 AI (Lunar Lake)",
   "line": "If you want one laptop that suits most students, get this one: a 16-inch OLED screen at 3.37 lb with about 17.5 hours of battery in PCWorld's test. Its AI features are underdeveloped, so buy it for the screen and battery, not the AI.",
   "also": [
-   [
-    "Longest battery",
-    "Dell 14S"
-   ],
    [
     "Best Mac",
     "Apple MacBook Neo"

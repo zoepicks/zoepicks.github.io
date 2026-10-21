@@ -139,33 +139,6 @@
    "amazon_rating": "4.7",
    "amazon_reviews": 11,
    "amazon_rating_asof": "Oct 20, 2026"
-  },
-  {
-   "name": "ASUS ROG Phone 9 Pro",
-   "short": "ROG Phone 9 Pro",
-   "badge": "Multi-day battery",
-   "why": [
-    "Tom's Guide says Asus sets the battery standard with its ROG phones, and that the big battery in the ROG Phone 9 Pro provides multi-day life. A GeekChamp test named it the longest-lasting phone in its testing.",
-    "It is an older gaming phone, so check whether a newer ROG model has replaced it."
-   ],
-   "specs": [
-    "Very large battery",
-    "Gaming phone"
-   ],
-   "pros": [
-    "Multi-day battery life",
-    "Software avoids background drain (GeekChamp)"
-   ],
-   "cons": [
-    "Bulky gaming design",
-    "Older model"
-   ],
-   "best_for": "Gamers and heavy users who want multi-day battery",
-   "skip_if": "You want a slim everyday phone",
-   "link": "https://www.amazon.com/s?k=ASUS+ROG+Phone+9+Pro&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
   }
  ]
 }

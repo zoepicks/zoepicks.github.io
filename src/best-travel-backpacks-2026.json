@@ -3,81 +3,129 @@
  "title": "Top Travel Backpacks for Carry-On Trips (2026)",
  "category": "fashion",
  "date": "Oct 18, 2026",
- "summary": "The top carry‑on travel backpacks for 2026 are the Tortuga Travel Backpack Pro, Tomtoc Navigator T66 Travel 40L, GORUCK GR2 40L, WANDRD PRVKE, and Aer Travel Pack 4, all of which were highlighted in the 2026 travel‑bag roundup on NomadsNation.com.",
- "method": "I selected products that appear in the NomadsNation.com list (source 6) and ranked them by the order presented, which reflects the editors’ preference. Products that also appear in other sources were noted, but only source 6 contains the required details.",
+ "summary": "Three travel backpacks for 2026, chosen from Amazon listing details: the Tortuga Travel Backpack Lite 40L for a full carry-on, the Peak Design Travel Backpack 45L for an expandable pack, and the Osprey Daylite Expandable 26+6 as a smaller personal-item pack.",
+ "method": "These picks come from Amazon listing details (sizes, materials, features and ratings), not from review-site tests.",
  "assumptions": "Prices are not provided in the source excerpts, so all price fields are null. No discount or deal information is available, so deal_note is null.",
  "products": [
   {
-   "name": "Tortuga Travel Backpack Pro",
-   "short": "Tortuga Pro",
-   "badge": "Best Overall",
+   "name": "Tortuga Travel Backpack Lite 40L",
+   "short": "Tortuga Lite 40L",
+   "badge": "Best Carry-On Fit",
    "why": [
-    "The Pro wins for comfort with a premium harness and smart travel organization.",
-    "It is highlighted as the top pick in the 2026 travel‑bag roundup."
+    "It holds 40 liters and measures 22 x 14 x 8 inches, within carry-on limits.",
+    "It has a hip belt, sternum strap and load lifters, plus a suitcase-style front opening."
+   ],
+   "specs": [
+    "40 liters, 22 x 14 x 8 inches",
+    "630D CORDURA nylon, YKK zippers",
+    "Hip belt, sternum strap, load lifters",
+    "Suitcase-style opening",
+    "Laptop compartment up to 16 inches"
    ],
    "pros": [
-    "Premium harness for comfort",
-    "Smart travel organization",
-    "Durable construction"
+    "Comfortable carry system",
+    "Easy packing",
+    "Durable materials",
+    "Carry-on size"
    ],
    "cons": [
-    "Heavier than some competitors",
-    "Limited price transparency"
+    "High price",
+    "Fewer ratings"
    ],
-   "best_for": "Business travelers who value comfort and organization",
-   "skip_if": "You need a very lightweight pack",
-   "link": "https://www.amazon.com/s?k=Tortuga+Travel+Backpack+Pro&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "best_for": "One-bag travelers",
+   "skip_if": "You want a cheaper pack",
+   "link": "https://www.amazon.com/s?k=Tortuga+Travel+Backpack+Lite+40L&tag=zoepicks00-20",
+   "benefit": "Picture a week-long trip with one bag: the front-loading opening works like a suitcase, and the hip belt takes weight off your shoulders. A separate laptop compartment fits up to 16 inches. Among the backpacks here, it is the full-size 40L option. The catch: it is expensive and has fewer ratings than the others.",
+   "asin": "B0DZTH2D2S",
+   "amazon_price": "$250.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Tortuga 40L Travel Backpack Lite, Black - Large Carry-On Travel Bag",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 147,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/91XAtUjD6oL.jpg",
+   "image_asin": "B0DZTH2D2S",
+   "desc": "A 40L carry-on travel backpack in 630D CORDURA nylon with YKK zippers. A separate compartment holds a laptop up to 16 inches."
   },
   {
-   "name": "GORUCK GR2 40L",
-   "short": "GORUCK GR2",
-   "badge": "Most Overbuilt",
+   "name": "Peak Design Travel Backpack 45L",
+   "short": "Peak Design 45L",
+   "badge": "Best Expandable",
    "why": [
-    "The GR2 is the most overbuilt option but comes with serious weight and stiffness tradeoffs.",
-    "It is noted for its durability and ruggedness."
+    "It expands from 35 to 45 liters and has rear and top access.",
+    "The shell is weatherproof 400D recycled nylon canvas."
+   ],
+   "specs": [
+    "35 to 45 liters expandable",
+    "400D recycled nylon canvas",
+    "Rear and top access",
+    "Laptop sleeve up to 17 inches",
+    "Tuck-away straps and hip belt"
    ],
    "pros": [
-    "Highly durable",
-    "Rugged construction",
-    "Strong build quality"
+    "Expandable size",
+    "Weatherproof shell",
+    "Flexible carry options",
+    "Large laptop sleeve"
    ],
    "cons": [
-    "Heavy",
-    "Stiff carry"
+    "Highest price in this guide",
+    "Expanded size may exceed airline limits"
    ],
-   "best_for": "Adventure travelers who need a tough, long‑lasting pack",
-   "skip_if": "You prefer a lightweight, flexible design",
-   "link": "https://www.amazon.com/s?k=GORUCK+GR2+40L&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "best_for": "Travelers who want a bag that adjusts",
+   "skip_if": "You want the cheapest option",
+   "link": "https://www.amazon.com/s?k=Peak+Design+Travel+Backpack+45L&tag=zoepicks00-20",
+   "benefit": "Picture a trip that grows: expand the pack when you shop. The luggage pass-through and hidden carry straps help in transit. Among the backpacks here, it is the one that expands. The catch: it is the most expensive of the three, and an expanded 45L may not fit every airline's carry-on limit.",
+   "asin": "B0DDL4YW86",
+   "amazon_price": "$299.95",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Peak Design Travel Backpack 45L, Black, Expandable 35-45L Design, Rear and Top Access, Wea",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 518,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/51tujQGaEVL.jpg",
+   "image_asin": "B0DDL4YW86",
+   "desc": "A 45L expandable travel backpack with tuck-away straps and a laptop sleeve up to 17 inches. Check airline limits when expanded."
   },
   {
-   "name": "Aer Travel Pack 4",
-   "short": "Aer Travel Pack 4",
-   "badge": "Safest All‑Rounder",
+   "name": "Osprey Daylite Expandable Travel Pack 26+6",
+   "short": "Osprey Daylite 26+6",
+   "badge": "Best Budget",
    "why": [
-    "Safest all‑rounder that fits most travel styles without major weaknesses.",
-    "It is listed as a top pick for general travel use."
+    "The main compartment expands by 2 inches to add 6 liters.",
+    "It is sized as a personal item for most major airlines."
+   ],
+   "specs": [
+    "26 liters, expands by 6",
+    "Personal item size",
+    "AirScape back panel",
+    "Two stretch bottle pockets",
+    "Tech sleeve, luggage pass-through"
    ],
    "pros": [
-    "Versatile design",
-    "Good organization",
-    "Comfortable carry"
+    "Low price",
+    "Rated 4.7 on Amazon",
+    "Expandable",
+    "Light"
    ],
    "cons": [
-    "No standout premium features",
-    "Limited brand awareness"
+    "Small for longer trips",
+    "Basic carry system"
    ],
-   "best_for": "General travelers looking for a reliable, all‑purpose carry‑on",
-   "skip_if": "You need a highly specialized or premium feature set",
-   "link": "https://www.amazon.com/s?k=Aer+Travel+Pack+4&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "best_for": "Short trips and day use",
+   "skip_if": "You pack for a week or more",
+   "link": "https://www.amazon.com/s?k=Osprey+Daylite+Expandable+Travel+Pack+26%2B6&tag=zoepicks00-20",
+   "benefit": "Picture a short trip where you want to skip checked bags: the AirScape back panel keeps your back cool. Two bottle pockets and a tech sleeve help. Among the backpacks here, it is the smallest and cheapest. The catch: it is a personal item size, so it carries less.",
+   "asin": "B0DSQX5N64",
+   "amazon_price": "$110.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Osprey Daylite Expandable 26+6 Travel Pack, Gray OS",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 1391,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/7157CUZLHBL.jpg",
+   "image_asin": "B0DSQX5N64",
+   "desc": "A 26-liter travel pack that expands to 32 liters. It is a personal-item size, not a full week-long pack."
   }
  ]
 }

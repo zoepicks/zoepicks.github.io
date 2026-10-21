@@ -4,7 +4,7 @@
  "category": "tools_auto",
  "date": "Oct 18, 2026",
  "summary": "The top portable tire inflators are led by the Viair 88P, followed by AstroAI, EPAuto, Fanttik X8 Apex and Black & Decker models.",
- "method": "Products were chosen from the four source articles (Consumer Reports, Tom’s Guide, CNET, MotorTrend); priority was given to items appearing in more than one source.",
+ "method": "Products were chosen from the four source articles (Consumer Reports, Tom’s Guide, CNET, MotorTrend); priority was given to items appearing in more than one source. Added from Amazon listing details (not from the review sources above): DEWALT DCC020IB.",
  "assumptions": "Only information explicitly present in the excerpts was used; no prices, specs, pros or cons were added when not stated.",
  "products": [
   {
@@ -48,18 +48,44 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Black & Decker Max Cordless Tire Inflator",
-   "short": "Black & Decker Max",
-   "badge": "Best Cordless 20V Portable Tire Inflator (CNET)",
+   "name": "DEWALT 20V MAX Air Inflator DCC020IB",
+   "short": "DEWALT DCC020IB",
+   "badge": "Best Multi-Power",
    "why": [
-    "CNET lists the Black & Decker Max Cordless Tire Inflator as the best cordless 20 V option, indicating strong performance among battery‑powered models."
+    "It runs on a 20V MAX battery, a 12V car outlet or 110V wall power, and inflates up to 80 psi.",
+    "It has automatic shutoff, an LED light and a 3-year limited warranty."
    ],
-   "best_for": "Drivers who want a cordless inflator with a 20 V battery platform",
-   "skip_if": "If you prefer a corded unit or need higher pressure capability",
-   "link": "https://www.amazon.com/s?k=Black+%26+Decker+Max+Cordless+Tire+Inflator&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "specs": [
+    "Up to 80 psi",
+    "20V MAX battery, 12V DC or 110V AC",
+    "Automatic shutoff",
+    "LED light",
+    "3-year limited warranty, 6.4 lbs"
+   ],
+   "pros": [
+    "Three power options",
+    "Auto shutoff",
+    "Very large review base",
+    "LED light"
+   ],
+   "cons": [
+    "Battery not included",
+    "Bulky at 6.4 lbs"
+   ],
+   "best_for": "Owners of DEWALT 20V batteries",
+   "skip_if": "You do not own a DEWALT battery",
+   "link": "https://www.amazon.com/s?k=DEWALT+20V+MAX+Air+Inflator+DCC020IB&tag=zoepicks00-20",
+   "benefit": "Picture a flat tire in a dark driveway: the LED light and 3 power sources help. High-volume mode also fills larger items. It can also run from a car outlet or a wall plug. The catch: it is a tool only, so you need your own battery.",
+   "asin": "B07H39S9JQ",
+   "amazon_price": "$143.66",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "DEWALT 20V MAX Air Inflator, Tool Only (DCC020IB)",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 18597,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/71cN2uWsNJL.jpg",
+   "image_asin": "B07H39S9JQ",
+   "desc": "A cordless air inflator sold tool only. The battery is not included."
   }
  ]
 }

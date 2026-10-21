@@ -3,8 +3,8 @@
  "title": "Top Carry-On Bags That Fit Every Airline (2026)",
  "category": "fashion",
  "date": "Oct 18, 2026",
- "summary": "Top carry‑on bags that fit every airline are the Travelpro Platinum Elite, Away Carry‑On, Béis The Carry‑On, and Quince Carry‑On, chosen for their repeated endorsement and airline‑friendly dimensions.",
- "method": "I selected products mentioned in more than one source, prioritizing those with multiple citations. Sources used: Consumer Reports (1), PCMag (2), OutdoorGearLab (3), Business Insider (4).",
+ "summary": "Top carry‑on bags that fit every airline are the Travelpro Platinum Elite, Away Carry‑On and Quince Carry‑On, chosen for their repeated endorsement and airline‑friendly dimensions. The Samsonite Freeform Hardside was added from its Amazon listing.",
+ "method": "I selected products mentioned in more than one source, prioritizing those with multiple citations. Sources used: Consumer Reports (1), PCMag (2), OutdoorGearLab (3), Business Insider (4). Added from Amazon listing details (not from the review sources above): Samsonite Freeform.",
  "assumptions": "Prices are not provided in the excerpts, so all price fields are null. No discount information was found, so deal_note is null.",
  "products": [
   {
@@ -93,37 +93,46 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Béis The Carry‑On",
-   "short": "Béis The Carry‑On",
-   "badge": "Best Extra Space",
+   "name": "Samsonite Freeform Hardside Carry-On Spinner",
+   "short": "Samsonite Freeform",
+   "badge": "Best Hardside",
    "why": [
-    "Business Insider recommends Béis for extra space, calling it an expandable bag with a massive interior capacity.",
-    "OutdoorGearLab also lists it as a recommendation for travelers needing more room."
+    "A hard-shell carry-on that measures 15 x 10 x 23 inches with wheels, which Samsonite says meets the cabin size limits of most airlines.",
+    "Inside there is a 20.5 x 14.5 x 10 inch packing space with elastic straps, a divider and a pouch."
    ],
    "specs": [
-    "Expandable feature",
-    "Large interior capacity",
-    "Soft‑shell construction",
-    "Four double‑spinner wheels",
-    "Dimensions fit standard overhead bins"
+    "15 x 10 x 23 inches with wheels",
+    "Polypropylene hard shell",
+    "8 spinner wheels, telescopic handle",
+    "Combination lock",
+    "34 liters, 6.5 pounds",
+    "Interior 20.5 x 14.5 x 10 inches"
    ],
    "pros": [
-    "Massive interior space",
-    "Expandable design",
-    "Smooth rolling",
-    "Soft‑shell comfort"
+    "Scratch-resistant textured shell",
+    "Spinner wheels roll in any direction",
+    "Light for a hard-shell bag",
+    "Straps, divider and pouch keep clothes in place"
    ],
    "cons": [
-    "Heavier than some hard‑shell options",
-    "Limited durability details",
-    "No battery feature"
+    "34 liters is small for long trips",
+    "Rigid shell cannot be squeezed into a tight bin",
+    "No soft outer pocket is listed for quick grabs"
    ],
-   "best_for": "Over‑packers who need extra room in a carry‑on",
-   "skip_if": "You prefer a hard‑shell or lightweight bag",
-   "link": "https://www.amazon.com/s?k=B%C3%A9is+The+Carry%E2%80%91On&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true
+   "best_for": "Short trips and travelers who want a light, rigid carry-on",
+   "skip_if": "You pack for more than a few days or want a soft bag that squeezes into tight bins",
+   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Hardside+Carry-On+Spinner&tag=zoepicks00-20",
+   "benefit": "Picture a short work trip where the bag gets pushed into the overhead bin and dragged through the terminal: the textured, scratch-resistant shell is made for that kind of handling. It weighs 6.5 pounds empty and rolls on 8 wheels, so you carry very little of the load. Compared with a soft carry-on, the rigid shell protects what is inside better but gives you no stretch. The catch: it holds 34 liters, which is small for trips longer than a few days.",
+   "asin": "B01M0A3BKH",
+   "amazon_price": "$139.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Samsonite Freeform Hardside Carry-On Luggage with Spinner Wheels - Hardshell Suitcase - TS",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 19383,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/81UKNDaQDkL.jpg",
+   "image_asin": "B01M0A3BKH",
+   "desc": "A polypropylene hard-shell carry-on with 8 spinner wheels, a combination lock and a telescopic handle. It is a rigid shell, so it will not squeeze into a tight space the way a soft bag can."
   }
  ]
 }

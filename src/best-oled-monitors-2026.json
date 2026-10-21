@@ -4,7 +4,7 @@
  "category": "monitors",
  "date": "Oct 18, 2026",
  "summary": "OLED monitors deliver unmatched contrast and color, making them ideal for gaming, creative work, and immersive media, but their higher cost and burn‑in risk mean they’re best for users who prioritize image quality over budget.",
- "method": "I selected products highlighted in at least two of the provided sources, ranking them by how many sources mentioned them. The sites used were PCMag (source 0), RTINGS (source 1), Warmert (source 2), IGN (sources 3 and 5), and Digital Trends (source 4).",
+ "method": "I selected products highlighted in at least two of the provided sources, ranking them by how many sources mentioned them. The sites used were PCMag (source 0), RTINGS (source 1), Warmert (source 2), IGN (sources 3 and 5), and Digital Trends (source 4). Added from Amazon listing details (not from the review sources above): Gigabyte MO32U24.",
  "assumptions": "Prices are only included when a source explicitly states one; otherwise the price field is null. Deal notes are taken directly from the source deal lines.",
  "products": [
   {
@@ -83,34 +83,45 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Gigabyte FO32U2 Pro",
-   "short": "FO32U2 Pro",
-   "badge": "Best 32\" OLED",
+   "name": "Gigabyte MO32U24 31.5-inch QD-OLED Monitor",
+   "short": "Gigabyte MO32U24",
+   "badge": "Best 4K QD-OLED",
    "why": [
-    "The Gigabyte FO32U2 Pro features a 32‑inch OLED panel with excellent HDR performance and speedy response times, making it a strong contender for both gaming and creative work.",
-    "Its Quantum Dot technology enhances color vibrancy, providing a more luminous picture."
+    "A 31.5-inch QD-OLED panel with 3840 x 2160 resolution at 240Hz and 0.03 ms response.",
+    "It supports AMD FreeSync Premium Pro and is NVIDIA G-SYNC compatible."
    ],
    "specs": [
-    "32\" OLED panel",
-    "Quantum Dot technology",
-    "Fast response time"
+    "31.5-inch QD-OLED, 3840 x 2160",
+    "240Hz, 0.03 ms",
+    "FreeSync Premium Pro, G-SYNC compatible",
+    "Contrast ratio 1,500,000:1",
+    "Fanless design"
    ],
    "pros": [
-    "32\" size",
-    "Quantum Dot color enhancement",
-    "Fast response time"
+    "4K at 240Hz",
+    "AI-based burn-in protection",
+    "Fanless cooling",
+    "Film for deeper blacks"
    ],
    "cons": [
-    "High price",
-    "Limited refresh rate info",
-    "Potential burn‑in"
+    "Very few Amazon ratings",
+    "Brightness is 300 nits",
+    "Burn-in risk remains with OLED"
    ],
-   "best_for": "Users who want a large OLED screen for gaming and content creation",
-   "skip_if": "You need a smaller monitor or are budget‑conscious",
-   "link": "https://www.amazon.com/s?k=Gigabyte+FO32U2+Pro&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
+   "best_for": "PC gamers who want 4K and a fast OLED panel",
+   "skip_if": "You want a monitor with a long track record",
+   "link": "https://www.amazon.com/s?k=Gigabyte+MO32U24+31.5-inch+QD-OLED+Monitor&tag=zoepicks00-20",
+   "benefit": "Picture a PC game at 4K: this panel runs 240Hz with 0.03 ms response. A fanless design and a graphene thermal film manage the heat. It pairs a 31.5-inch panel with 4K resolution. The catch: it has only a few Amazon ratings so far, and OLED panels can still show burn-in.",
+   "asin": "B0HB7NWZYK",
+   "amazon_price": "$799.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "GIGABYTE - MO32U24 US - 31.5\" QD-OLED Gaming Monitor - UHD 3840x2160-240Hz - 0.03ms - AMD ",
+   "amazon_rating": "5.0",
+   "amazon_reviews": 3,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/812t+hicwWL.jpg",
+   "image_asin": "B0HB7NWZYK",
+   "desc": "A 4K QD-OLED gaming monitor with an AI-based OLED Care burn-in protection suite. It reaches 300 nits brightness per the listing."
   }
  ]
 }

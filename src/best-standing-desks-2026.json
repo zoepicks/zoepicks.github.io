@@ -4,7 +4,7 @@
  "category": "furniture_decor",
  "date": "Oct 18, 2026",
  "summary": "The Uplift V3 is the top choice for stability and features, while the FlexiSpot E7 and SecretLab Magnus Pro offer strong alternatives for heavy-duty use and gaming respectively.",
- "method": "Picks were selected based on recommendations from CNET, Business Insider, Tom's Guide, Top Ten Reviews, and TechRadar, prioritizing products recommended by multiple sources.",
+ "method": "Picks were selected based on recommendations from CNET, Business Insider, Tom's Guide, Top Ten Reviews, and TechRadar, prioritizing products recommended by multiple sources. Added from Amazon listing details (not from the review sources above): FlexiSpot E6 MAX.",
  "assumptions": "Prices are not provided in the source excerpts; availability and specific pricing may vary by retailer.",
  "products": [
   {
@@ -47,65 +47,6 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "FlexiSpot E7 Standing Desk",
-   "short": "FlexiSpot E7",
-   "badge": "Best Heavy-Duty",
-   "why": [
-    "Top Ten Reviews describes the FlexiSpot E7 as one of the best standing desks tested, noting its stylish look, excellent build quality, and great feature set. It offers a wide range of motion fitting users from 4’2” to 6’4”.",
-    "Business Insider identifies the Flexispot E7 Pro as the best heavy-duty standing desk. Top Ten Reviews highlights features like the child lock and adjustable anti-collision sensors, making it ideal for busy households."
-   ],
-   "specs": [
-    "Fits people from 4’2” to 6’4”",
-    "Child lock",
-    "Adjustable anti-collision sensors",
-    "Sturdy",
-    "Straightforward assembly"
-   ],
-   "pros": [
-    "Sturdy",
-    "Straightforward assembly",
-    "Simple and fun to use",
-    "Adjustable anti-collision sensors"
-   ],
-   "cons": [
-    "Expensive",
-    "Very heavy",
-    "Touch buttons are very sensitive"
-   ],
-   "best_for": "Users of any height who need a sturdy, heavy-duty desk with safety features.",
-   "skip_if": "You are looking for a budget option or prefer non-touch controls.",
-   "link": "https://www.amazon.com/s?k=FlexiSpot+E7+Standing+Desk&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
-   "name": "SecretLab Magnus Pro XL",
-   "short": "Magnus Pro XL",
-   "badge": "Best Gaming",
-   "why": [
-    "CNET identifies the SecretLab Magnus Pro XL as the best standing gaming desk money can buy. Business Insider selects the Secretlab Magnus Pro as the best standing desk for cable management.",
-    "The desk is highlighted for its performance in gaming setups and cable management capabilities, distinguishing it from standard office desks."
-   ],
-   "specs": [
-    "Best standing gaming desk money can buy",
-    "Best standing desk for cable management"
-   ],
-   "pros": [
-    "Excellent for gaming",
-    "Superior cable management"
-   ],
-   "cons": [
-    "May be overkill for non-gaming users"
-   ],
-   "best_for": "Gamers and users who prioritize cable management.",
-   "skip_if": "You do not game or have minimal cable management needs.",
-   "link": "https://www.amazon.com/s?k=SecretLab+Magnus+Pro+XL&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
    "name": "Branch Duo Standing Desk",
    "short": "Branch Duo",
    "badge": "Best Small Space",
@@ -135,6 +76,46 @@
    "amazon_rating": "4.5",
    "amazon_reviews": 34,
    "amazon_rating_asof": "Oct 19, 2026"
+  },
+  {
+   "name": "FlexiSpot E6 MAX Bamboo Standing Desk",
+   "short": "FlexiSpot E6 MAX",
+   "badge": "Best Warranty",
+   "why": [
+    "A 55 x 28 inch bamboo top on dual motors that are quieter than 50 dB.",
+    "It has a 10-year guarantee on the frame and motor and 2 years on electronics."
+   ],
+   "specs": [
+    "Dual-motor, quieter than 50 dB",
+    "55 x 28 inch bamboo top",
+    "10-year frame and motor guarantee",
+    "4 memory buttons",
+    "Backlit controls"
+   ],
+   "pros": [
+    "Very long guarantee",
+    "Quiet motors",
+    "Natural bamboo top",
+    "Height memory"
+   ],
+   "cons": [
+    "Fixed top size",
+    "No power column"
+   ],
+   "best_for": "People who want a desk that lasts",
+   "skip_if": "You need a larger or a leatherette top",
+   "link": "https://www.amazon.com/s?k=FlexiSpot+E6+MAX+Bamboo+Standing+Desk&tag=zoepicks00-20",
+   "benefit": "Picture a desk you keep for a decade: the long guarantee reflects that. The four memory buttons recall your heights, and the dual motors run quietly. The 10-year guarantee on the frame and motor is the main reason to choose it. The catch: the bamboo top is a fixed 55 x 28 inches.",
+   "asin": "B0CWGJCDXX",
+   "amazon_price": "$359.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "FLEXISPOT E6 MAX 55\" x 28\" Bamboo Standing Desk, Dual Motor 3-Stage",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 314,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/91jC02GjAIL.jpg",
+   "image_asin": "B0CWGJCDXX",
+   "desc": "A dual-motor bamboo standing desk with four memory buttons. It does not have a built-in power column."
   }
  ]
 }

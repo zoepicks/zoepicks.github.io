@@ -4,7 +4,7 @@
  "category": "fitness_outdoor",
  "date": "Oct 18, 2026",
  "summary": "Top home gym gear for 2026, ranked by expert consensus and cross‑source endorsement.",
- "method": "Selected products that appear in at least one of the three reviewed sites (PCMag, CNET, Consumer Reports) and highlighted by those sites as best picks.",
+ "method": "Selected products that appear in at least one of the three reviewed sites (PCMag, CNET, Consumer Reports) and highlighted by those sites as best picks. Added from Amazon listing details (not from the review sources above): PowerBlock Elite EXP.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise null.",
  "products": [
   {
@@ -49,37 +49,6 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Peloton Cross Training Row+",
-   "short": "Peloton Row+",
-   "badge": "Best Rowing Machine",
-   "why": [
-    "This rowing machine builds on the original model with AI‑powered form feedback, making it one of the most advanced, interactive, and versatile rowers available.",
-    "It offers an extremely smooth feel, an AI camera for form feedback, built‑in voice control, and an included fan, but it is expensive."
-   ],
-   "specs": [
-    "AI camera for form feedback",
-    "Built‑in voice control",
-    "Included fan",
-    "Extremely smooth feel"
-   ],
-   "pros": [
-    "AI form feedback",
-    "Smooth rowing experience",
-    "Built‑in voice control",
-    "Included fan"
-   ],
-   "cons": [
-    "High price",
-    "Expensive overall"
-   ],
-   "best_for": "Rowers who want AI‑guided workouts and a smooth experience",
-   "skip_if": "You’re looking for a budget rowing machine",
-   "link": "https://www.amazon.com/s?k=Peloton+Cross+Training+Row%2B&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
-  },
-  {
    "name": "Tonal 2",
    "short": "Tonal 2",
    "badge": "Best Smart Home Gym for Weightlifting",
@@ -120,6 +89,46 @@
    "amazon_rating": "4.6",
    "amazon_reviews": 288,
    "amazon_rating_asof": "Oct 20, 2026"
+  },
+  {
+   "name": "PowerBlock Elite EXP Adjustable Dumbbells",
+   "short": "PowerBlock Elite EXP",
+   "badge": "Best Space-Saver",
+   "why": [
+    "One pair replaces 16 pairs of dumbbells, from 5 to 50 lbs per hand, and measures 12 x 7 x 7 inches.",
+    "A magnetic pin changes the weight in 16 steps, with 2.5 lb micro weights."
+   ],
+   "specs": [
+    "5 to 50 lbs per hand, 16 steps",
+    "2.5 lb micro weights",
+    "12 x 7 x 7 inches",
+    "Magnetic pin selection",
+    "5-year limited warranty"
+   ],
+   "pros": [
+    "Replaces many pairs",
+    "Quick weight changes",
+    "Expandable to 70 or 90 lbs",
+    "Expansion kits available"
+   ],
+   "cons": [
+    "Base set stops at 50 lbs per hand",
+    "Expansion kits cost extra"
+   ],
+   "best_for": "Home gym owners with little space",
+   "skip_if": "You already lift above 50 lbs per hand",
+   "link": "https://www.amazon.com/s?k=PowerBlock+Elite+EXP+Adjustable+Dumbbells&tag=zoepicks00-20",
+   "benefit": "Picture a small apartment where racks of dumbbells will not fit: one compact pair covers curls to presses. The pin lets you change the weight in seconds, and expansion kits can raise it to 70 or 90 lbs. Compared with a fixed-weight set, it saves a lot of floor space. The catch: heavier weights need the expansion kits, which are sold separately.",
+   "asin": "B00A21NRNO",
+   "amazon_price": "$358.80",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "PowerBlock Elite EXP 90 Adjustable Dumbbells, Stage 1, Set of 2, 5 lb-50 lb",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 2675,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/71hFnjGFvVL.jpg",
+   "image_asin": "B00A21NRNO",
+   "desc": "A pair of adjustable dumbbells with a 5-year limited warranty. The base set stops at 50 lbs per hand."
   }
  ]
 }

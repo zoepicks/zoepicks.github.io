@@ -4,7 +4,7 @@
  "category": "beauty_health",
  "date": "Oct 18, 2026",
  "summary": "Top electric toothbrushes recommended by multiple trusted sites in 2026.",
- "method": "Selected products that appear in at least two of the cited sources (Consumer Reports, CNET, Tom’s Guide, Woman&Home).",
+ "method": "Selected products that appear in at least two of the cited sources (Consumer Reports, CNET, Tom’s Guide, Woman&Home). Added from Amazon listing details (not from the review sources above): Oral-B iO Series 5, Sonicare 4100.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise price is null.",
  "products": [
   {
@@ -47,70 +47,84 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Suri 2.0 Electric Toothbrush",
-   "short": "Suri 2.0",
-   "badge": "Best Sustainable",
+   "name": "Oral-B iO Series 5 Electric Toothbrush",
+   "short": "Oral-B iO Series 5",
+   "badge": "Best Smart Features",
    "why": [
-    "CNET calls the Suri 2.0 the best sustainable electric toothbrush, praising its eco‑friendly packaging and recycling program.",
-    "Consumer Reports lists it among the top models, noting its solid cleaning ability and sustainable design."
+    "It has a visible pressure sensor and a light ring that celebrates a 2-minute brush and alerts you to change the brush head.",
+    "It offers 5 cleaning settings and works with the Oral-B app, which tracks how and where you brush."
    ],
    "specs": [
-    "Eco‑friendly packaging",
-    "Recycling program",
-    "Sonic vibration",
-    "Two‑minute timer",
-    "Pressure sensor"
+    "Rechargeable, 5 cleaning settings",
+    "Visible pressure sensor",
+    "2-minute light ring timer",
+    "Brush head change alert",
+    "Oral-B app tracking"
    ],
    "pros": [
-    "Sustainable design",
-    "Good cleaning",
-    "Pressure sensor",
-    "Eco‑friendly packaging"
+    "Pressure sensor shows if you brush too hard",
+    "Light ring timer",
+    "5 settings for different needs",
+    "App shows missed areas"
    ],
    "cons": [
-    "Pricier than other options",
-    "Lacks app connectivity",
-    "Limited color options"
+    "Higher price than basic electric brushes",
+    "Full tracking needs the app"
    ],
-   "best_for": "Environmentally conscious consumers who want a clean brush",
-   "skip_if": "You need app features or a lower price",
-   "link": "https://www.amazon.com/s?k=Suri+2.0+Electric+Toothbrush&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true
+   "best_for": "People who want feedback while they brush",
+   "skip_if": "You want the cheapest reliable electric brush",
+   "link": "https://www.amazon.com/s?k=Oral-B+iO+Series+5+Electric+Toothbrush&tag=zoepicks00-20",
+   "benefit": "Picture a person who brushes fast and hard: the pressure sensor shows when you press too hard or too lightly, and the light ring keeps the 2 minutes honest. The 5 settings let you switch between daily cleaning and gum care. Compared with the simpler Sonicare 4100 in this guide, the iO adds an app and a light ring. The catch: it costs more than a basic model, and the tracking only works if you use the app.",
+   "asin": "B0B5YR3R5H",
+   "amazon_price": "$119.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Oral-B iO Series 5 Ultimate White Rechargeable Electric Toothbrush with Visible Pressure S",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 417,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/71hJwEa5ceL.jpg",
+   "image_asin": "B0B5YR3R5H",
+   "desc": "A rechargeable electric toothbrush with 5 cleaning settings, a 2-minute timer and a pressure sensor. The app is optional, but without it you lose the tracking."
   },
   {
-   "name": "Philips One Rechargeable by Sonicare",
-   "short": "Philips One",
-   "badge": "Best Affordable",
+   "name": "Philips Sonicare 4100 Rechargeable Toothbrush",
+   "short": "Sonicare 4100",
+   "badge": "Best Value",
    "why": [
-    "CNET lists the Philips One Rechargeable as the best affordable electric toothbrush, noting its quiet operation, suitability for sensitive gums, and two‑minute timer.",
-    "Consumer Reports includes it in its top‑rated list, highlighting its solid cleaning performance and affordability."
+    "It has a pressure sensor that makes the handle pulse if you press too hard, plus a 2-minute SmarTimer and a QuadPacer for each section of the mouth.",
+    "EasyStart ramps up the power gradually, and a reminder tells you when to replace the brush head."
    ],
    "specs": [
-    "Quiet operation",
-    "Two‑minute timer",
-    "Single brushing mode",
-    "Good for sensitive gums",
-    "Rechargeable battery"
+    "Rechargeable sonic toothbrush",
+    "Pressure sensor",
+    "2-minute SmarTimer and QuadPacer",
+    "EasyStart gradual power",
+    "Brush head replacement reminder"
    ],
    "pros": [
-    "Affordable",
-    "Quiet",
-    "Good for sensitive gums",
-    "Easy to use"
+    "Pressure feedback in the handle",
+    "Simple timer and pacing",
+    "Gentle ramp-up for new users",
+    "Reminds you when the brush head is worn"
    ],
    "cons": [
-    "Only one brushing mode",
-    "No interactive app",
-    "Limited features"
+    "No app connection is listed",
+    "Fewer cleaning modes to choose from than the iO"
    ],
-   "best_for": "Budget users who want a quiet, gentle brush",
-   "skip_if": "You need multiple modes or app connectivity",
-   "link": "https://www.amazon.com/s?k=Philips+One+Rechargeable+by+Sonicare&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 19, 2026",
-   "fill_failed": true
+   "best_for": "First-time electric brush buyers who want the basics",
+   "skip_if": "You want app tracking or several cleaning modes",
+   "link": "https://www.amazon.com/s?k=Philips+Sonicare+4100+Rechargeable+Toothbrush&tag=zoepicks00-20",
+   "benefit": "Picture someone upgrading from a manual brush: the handle pulses if you press too hard, and the 2-minute timer and section pacer guide the routine. EasyStart builds the power slowly so the first uses are not harsh. Compared with the Oral-B iO in this guide, it skips the app and the light ring and keeps the basics. The catch: the listing mentions one brush head and no app connection.",
+   "asin": "B09LD7WRVS",
+   "amazon_price": "$49.96",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Philips Sonicare 4100 Rechargeable Electric Toothbrush, 1 Brush Head, Black",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 23253,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/71Nuz9Sjl1L.jpg",
+   "image_asin": "B09LD7WRVS",
+   "desc": "A rechargeable sonic toothbrush with a pressure sensor, a timer and a brush-head replacement reminder. It has no app or light ring listed."
   }
  ]
 }

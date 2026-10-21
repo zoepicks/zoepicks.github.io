@@ -8,37 +8,6 @@
  "assumptions": "Prices are shown only when a source explicitly states them; otherwise the price field is null. No external pricing or discount data were added.",
  "products": [
   {
-   "name": "SentrySafe Digital Safe SFW123GDC",
-   "short": "SFW123GDC",
-   "badge": "Best Overall",
-   "why": [
-    "The CNET article calls it the \"Best fireproof home safe\" and notes its 1,700‑degree fireproofing and 1.23 cubic‑foot capacity. Business Insider lists it as the \"Best overall home safe\" and reports it survived nearly two hours in a fire. BobVila also includes it in its \"Best Digital Lock\" category, highlighting its digital lock and water‑proof features."
-   ],
-   "specs": [
-    "Very durable",
-    "1.23 cubic feet capacity",
-    "Fireproof at 1,700 degrees",
-    "Waterproof",
-    "Heavy at over 85 pounds"
-   ],
-   "pros": [
-    "Large capacity",
-    "High fire and water resistance",
-    "Digital lock"
-   ],
-   "cons": [
-    "Very heavy",
-    "Lacks smart tech features",
-    "No biometric access"
-   ],
-   "best_for": "Homeowners needing a robust, fire‑ and water‑proof safe for important documents and valuables.",
-   "skip_if": "You need a portable or budget‑friendly option.",
-   "link": "https://www.amazon.com/s?k=SentrySafe+Digital+Safe+SFW123GDC&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
-  },
-  {
    "name": "Amazon Basics Steel Home Security Electronic Safe",
    "short": "Amazon Basics Steel",
    "badge": "Best Budget",

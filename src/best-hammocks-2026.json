@@ -4,7 +4,7 @@
  "category": "furniture_decor",
  "date": "Oct 18, 2026",
  "summary": "Top hammock picks for backyard and camping in 2026, ranked by consensus across multiple trusted reviews.",
- "method": "Selected products that appear in at least two independent sources (Tom’s Guide, OutdoorGearLab, TrailineReview, CleverHiker, BikeHikeSafari).",
+ "method": "Selected products that appear in at least two independent sources (Tom’s Guide, OutdoorGearLab, TrailineReview, CleverHiker, BikeHikeSafari). Added from Amazon listing details (not from the review sources above): ENO DoubleNest.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise price is null.",
  "products": [
   {
@@ -79,33 +79,44 @@
    "amazon_rating_asof": "Oct 20, 2026"
   },
   {
-   "name": "Hennessy Hammock Ultralite Backpacker Classic",
-   "short": "Ultralite Classic",
-   "badge": "Best Backpacking",
+   "name": "ENO DoubleNest Hammock",
+   "short": "ENO DoubleNest",
+   "badge": "Best Lightweight",
    "why": [
-    "BikeHikeSafari lists it as the overall best for serious backcountry use, noting its asymmetrical, bottom‑entry design and included tarp and bug net.",
-    "It weighs 1 lb 15 oz, making it one of the lightest options for thru‑hikers."
+    "It weighs 19 oz and packs to about 4 x 5.5 inches, small enough for a hiking pack.",
+    "It is 9.5 feet long, holds 400 lbs and fits 1 to 2 people."
    ],
    "specs": [
-    "Weight: 1 lb 15 oz",
-    "Asymmetrical, bottom‑entry design",
-    "Includes tarp and bug net"
+    "Nylon, 19 oz",
+    "9.5 feet long, 400 lb capacity",
+    "1 to 2 person",
+    "Folded size about 4 x 5.5 inches",
+    "Triple-stitched seam"
    ],
    "pros": [
-    "Very lightweight",
-    "Includes tarp and bug net",
-    "Comfortable for long hikes"
+    "Very light and packable",
+    "Fits two people",
+    "Rated 4.8 out of 5 on Amazon",
+    "Works with ENO straps"
    ],
    "cons": [
-    "Heavier than the absolute lightest hammocks",
-    "Setup may be more involved due to included accessories"
+    "Straps are not listed as included",
+    "No bug net or rain fly in the listing"
    ],
-   "best_for": "Thru‑hikers and ultralight backpackers",
-   "skip_if": "You need a heavier, more durable hammock for extended camping",
-   "link": "https://www.amazon.com/s?k=Hennessy+Hammock+Ultralite+Backpacker+Classic&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
+   "best_for": "Hikers and campers who want a light hammock",
+   "skip_if": "You want a hammock with a built-in bug net",
+   "link": "https://www.amazon.com/s?k=ENO+DoubleNest+Hammock&tag=zoepicks00-20",
+   "benefit": "Picture a hiking trip where every ounce counts: the DoubleNest packs small and weighs 19 oz. It fits two people with a 400 lb capacity and works with ENO straps. The catch: the straps are not mentioned as included, so plan to buy them.",
+   "asin": "B09KNY2P6Z",
+   "amazon_price": "$84.95",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "ENO, Eagles Nest Outfitters DoubleNest Lightweight Camping Hammock, 1 to 2 Person, Special",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 5243,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/81gDR0BI+VL.jpg",
+   "image_asin": "B09KNY2P6Z",
+   "desc": "A lightweight nylon double hammock with a triple-stitched seam. It does not come with a bug net or rain fly in the listing."
   }
  ]
 }

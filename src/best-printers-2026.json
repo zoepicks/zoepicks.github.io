@@ -4,41 +4,9 @@
  "category": "electronics",
  "date": "Oct 18, 2026",
  "summary": "A concise guide to the best home printers that keep ink costs low in 2026.",
- "method": "Selected from CNET, TechGearLab, and PCMag reviews, prioritizing models highlighted for affordability and ink efficiency.",
+ "method": "Selected from CNET, TechGearLab, and PCMag reviews, prioritizing models highlighted for affordability and ink efficiency. Added from Amazon listing details (not from the review sources above): Epson EcoTank ET-1913.",
  "assumptions": "Prices are only included when explicitly stated in the source excerpts; otherwise, price is null.",
  "products": [
-  {
-   "name": "Epson EcoTank ET-1910",
-   "short": "Epson EcoTank ET-1910",
-   "badge": "Best Ink‑Tank",
-   "why": [
-    "Epson’s EcoTank ET-1910 is a tank‑based printer that eliminates the need for scanning and copying, making it uncommonly affordable to both buy and run.",
-    "It offers a low cost per page thanks to its refillable ink tanks, a key feature for users who print frequently and want to avoid cartridge costs."
-   ],
-   "specs": [
-    "All‑in‑one inkjet",
-    "Tank‑based ink system",
-    "No scan or copy functions",
-    "Affordable upfront and operating costs"
-   ],
-   "pros": [
-    "Low cost per page",
-    "No need for cartridges",
-    "Compact design",
-    "Easy refill"
-   ],
-   "cons": [
-    "No scanning or copying",
-    "Limited paper tray capacity",
-    "Lower print speed compared to some models"
-   ],
-   "best_for": "Home users who print mainly documents and photos and want to save on ink over time.",
-   "skip_if": "You need scanning or copying capabilities.",
-   "link": "https://www.amazon.com/s?k=Epson+EcoTank+ET-1910&tag=zoepicks00-20",
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
   {
    "name": "HP OfficeJet Pro 9125e",
    "short": "HP OfficeJet Pro 9125e",
@@ -114,6 +82,46 @@
    "fill_tries": 1,
    "fill_last": "Oct 20, 2026",
    "fill_failed": false
+  },
+  {
+   "name": "Epson EcoTank ET-1913 Supertank Printer",
+   "short": "Epson EcoTank ET-1913",
+   "badge": "Best Low-Cost Ink",
+   "why": [
+    "It comes with enough ink to print up to 3,600 black and 6,500 color pages.",
+    "It prints at 11 pages per minute black, has a 100-sheet paper tray and refillable ink tanks."
+   ],
+   "specs": [
+    "Wireless color supertank printer",
+    "Up to 3 years of ink in the box",
+    "11 ppm black, 100-sheet tray",
+    "6.8 pounds",
+    "Borderless printing"
+   ],
+   "pros": [
+    "Low running cost per page",
+    "Simple refills",
+    "Light and compact",
+    "Ink included"
+   ],
+   "cons": [
+    "Few ratings so far",
+    "Modest print speed"
+   ],
+   "best_for": "Home users who print regularly",
+   "skip_if": "You need fast printing or a document feeder",
+   "link": "https://www.amazon.com/s?k=Epson+EcoTank+ET-1913+Supertank+Printer&tag=zoepicks00-20",
+   "benefit": "Picture a home with a printer that sat unused and dried out its cartridges: the EcoTank uses refillable tanks and keyed bottles so refills are simple. The ink in the box covers up to 3 years of printing. Epson calls it its most affordable supertank. The catch: it is a new model with very few ratings, and 11 pages per minute is not fast.",
+   "asin": "B0GSSL12DG",
+   "amazon_price": "$159.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Epson EcoTank ET-1913 Wireless Color Supertank Printer with up to 3 Years of Ink, Refillab",
+   "amazon_rating": "5.0",
+   "amazon_reviews": 7,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/61sgXgLlkgL.jpg",
+   "image_asin": "B0GSSL12DG",
+   "desc": "A wireless color supertank printer with refillable tanks. The listing says nothing about scanning or an automatic document feeder."
   }
  ]
 }

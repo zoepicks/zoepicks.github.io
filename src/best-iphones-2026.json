@@ -47,35 +47,6 @@
    "image_asin": "B0HJHMWDLW"
   },
   {
-   "name": "Apple iPhone 18 Pro Max",
-   "short": "iPhone 18 Pro Max",
-   "badge": "Best battery life",
-   "why": [
-    "Trusted Reviews says the bigger iPhone is still the best for battery life overall, and CNN says people who push their battery hard should choose the 18 Pro Max.",
-    "9to5Mac notes the extra weight over its predecessor is obvious and that it sits at the edge of what its reviewer is willing to carry."
-   ],
-   "specs": [
-    "A20 Pro chip",
-    "Largest iPhone screen",
-    "Variable aperture camera"
-   ],
-   "pros": [
-    "Best iPhone battery life",
-    "Large display",
-    "Most capable camera system"
-   ],
-   "cons": [
-    "Heavy",
-    "Premium price"
-   ],
-   "best_for": "Heavy users who want maximum battery and the biggest screen",
-   "skip_if": "You want a phone that is easy to carry in one hand",
-   "link": "https://www.amazon.com/s?k=Apple+iPhone+18+Pro+Max&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": true
-  },
-  {
    "name": "Apple iPhone 17",
    "short": "iPhone 17",
    "badge": "Best for most people",
@@ -110,59 +81,6 @@
    "amazon_rating": "4.2",
    "amazon_reviews": 433,
    "amazon_rating_asof": "Oct 20, 2026"
-  },
-  {
-   "name": "Apple iPhone 17 Pro",
-   "short": "iPhone 17 Pro",
-   "badge": "Best Pro value",
-   "why": [
-    "Macworld names the iPhone 17 Pro its best iPhone for photography. GSMArena says the 17 Pro gets you much of the way to the 18 Pro at a considerably lower price.",
-    "Coolblue also lists the 17 Pro among the models with the best cameras."
-   ],
-   "specs": [
-    "A19 Pro chip",
-    "6.3-inch screen",
-    "Pro camera system"
-   ],
-   "pros": [
-    "Pro camera and performance",
-    "Cheaper than the iPhone 18 Pro"
-   ],
-   "cons": [
-    "Being replaced by the 18 Pro in the lineup"
-   ],
-   "best_for": "Photographers who want a Pro iPhone for less",
-   "skip_if": "You want the newest chip and longest battery",
-   "link": "https://www.amazon.com/s?k=Apple+iPhone+17+Pro&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": true
-  },
-  {
-   "name": "Apple iPhone 17e",
-   "short": "iPhone 17e",
-   "badge": "Best budget iPhone",
-   "why": [
-    "Macworld names the iPhone 17e its best value iPhone, and iGeeksBlog calls it the best budget-friendly iPhone. iTechGuides notes it launched in March 2026.",
-    "It is the cheapest way to get a current iPhone."
-   ],
-   "specs": [
-    "Launched March 2026 (iTechGuides)",
-    "Current iPhone software"
-   ],
-   "pros": [
-    "Lowest price in the current lineup",
-    "Current iOS support"
-   ],
-   "cons": [
-    "Fewer features than the iPhone 17"
-   ],
-   "best_for": "Budget buyers who want a current iPhone",
-   "skip_if": "You want a 120Hz screen or the best cameras",
-   "link": "https://www.amazon.com/s?k=Apple+iPhone+17e&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": true
   }
  ]
 }

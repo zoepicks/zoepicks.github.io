@@ -3,8 +3,8 @@
  "title": "Top Gym Bags for Training & Weekends (2026)",
  "category": "fashion",
  "date": "Oct 18, 2026",
- "summary": "The top gym bags for 2026 combine durability, organization, and style, with the Lululemon 2‑in‑1 Travel Duffle Backpack, FocusGear Ultimate Gym Bag 2.0, KNKG Core Duffel, Dagne Dover Landon Neoprene Carryall, and Mack Weldon Atlas standing out across multiple reviews.",
- "method": "Selected products that appear in more than one source (MensHealth and Yahoo) and are highlighted as best overall, best with pockets, best organization, most stylish, or best water‑resistant. Sources used: 5 (MensHealth) and 6 (Yahoo).",
+ "summary": "The top gym bags for 2026 combine durability, organization, and style, with the Lululemon 2‑in‑1 Travel Duffle Backpack, FocusGear Ultimate Gym Bag 2.0, Dagne Dover Landon Neoprene Carryall, and Mack Weldon Atlas standing out across multiple reviews. The Under Armour Undeniable 5.0 Duffle was added from its Amazon listing.",
+ "method": "Selected products that appear in more than one source (MensHealth and Yahoo) and are highlighted as best overall, best with pockets, best organization, most stylish, or best water‑resistant. Sources used: 5 (MensHealth) and 6 (Yahoo). Added from Amazon listing details (not from the review sources above): UA Undeniable 5.0.",
  "assumptions": "Prices are not provided in the excerpts, so all price fields are null.",
  "products": [
   {
@@ -86,37 +86,41 @@
    "image_asin": "B07GSJ45CF"
   },
   {
-   "name": "KNKG Core Duffel (35L)",
-   "short": "KNKG Core",
-   "badge": "Best Organization",
+   "name": "Under Armour Undeniable 5.0 Duffle",
+   "short": "UA Undeniable 5.0",
+   "badge": "Best Budget",
    "why": [
-    "The KNKG Core Duffel offers a well‑thought‑out layout with multiple compartments, a separate shoe pocket, and a padded laptop sleeve. Its 35‑liter size balances capacity with portability. The bag’s design is praised for keeping items organized and odor‑free.",
-    "MensHealth cites it as the best organized gym bag, noting its efficient use of space and practical features."
+    "It is a duffle bag from Under Armour's Undeniable 5.0 line.",
+    "It is rated 4.7 out of 5 stars by more than 26,000 Amazon reviewers."
    ],
    "specs": [
-    "35‑liter capacity",
-    "Multiple compartments",
-    "Dedicated shoe pocket",
-    "Padded laptop sleeve",
-    "Odor‑control lining"
+    "Under Armour Undeniable 5.0 line",
+    "Duffle bag",
+    "Sizes and colors vary by listing"
    ],
    "pros": [
-    "Great organization",
-    "Compact size",
-    "Odor control",
-    "Durable"
+    "Rated 4.7 out of 5",
+    "Large review base",
+    "Simple duffle shape"
    ],
    "cons": [
-    "No price listed",
-    "Limited color options",
-    "No water‑resistant exterior"
+    "Few specs on the main listing page",
+    "Size and color options need checking"
    ],
-   "best_for": "Those who need a mid‑size bag with excellent organization",
-   "skip_if": "You need a very large or very small bag",
-   "link": "https://www.amazon.com/s?k=KNKG+Core+Duffel+%2835L%29&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": true
+   "best_for": "People who want a straightforward, well-reviewed gym duffle",
+   "skip_if": "You want a bag with lots of organizer pockets or a backpack carry",
+   "link": "https://www.amazon.com/s?k=Under+Armour+Undeniable+5.0+Duffle&tag=zoepicks00-20",
+   "benefit": "Picture a daily gym bag that carries a change of clothes and shoes. The Undeniable 5.0 is one of Under Armour's best-known duffles, and a 4.7 average across thousands of ratings shows owners are happy with it. The catch: the Amazon page lists no capacity or material details at first glance, so confirm the size before you buy.",
+   "asin": "B093LSTLVK",
+   "amazon_price": "$35.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Under Armour Undeniable 5.0 Duffle",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 26537,
+   "amazon_rating_asof": "Oct 21, 2026",
+   "image": "https://m.media-amazon.com/images/I/416jduxRK2L.jpg",
+   "image_asin": "B093LSTLVK",
+   "desc": "A gym duffle from Under Armour's Undeniable 5.0 line. The listing shows few details on the main page, so check the size you choose."
   }
  ]
 }

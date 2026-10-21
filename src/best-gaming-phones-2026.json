@@ -3,7 +3,7 @@
  "title": "Top Phones for Mobile Gaming (2026)",
  "category": "mobiles",
  "date": "Oct 17, 2026",
- "summary": "The top mobile gaming phones for 2026 are led by the Asus ROG Phone 9 Pro, followed by the iPhone 17 Pro Max, Samsung Galaxy S25 Ultra, and RedMagic 11 Pro.",
+ "summary": "The top mobile gaming phones for 2026 are led by the Asus ROG Phone 9 Pro, followed by the iPhone 17 Pro Max and Samsung Galaxy S25 Ultra.",
  "method": "Picks were based on mentions in the provided sources, giving priority to devices referenced by more than one site (ROG Phone 9 Pro and iPhone 17 Pro Max). Sources used: Android Authority (0), Tom’s Guide (1), PCMag (2), TechRadar (3), GSMArena (4).",
  "assumptions": "Prices are omitted unless explicitly stated in a source; no external pricing data was added.",
  "products": [
@@ -115,36 +115,6 @@
    "amazon_rating": "4.3",
    "amazon_reviews": 220,
    "amazon_rating_asof": "Oct 20, 2026"
-  },
-  {
-   "name": "RedMagic 11 Pro",
-   "short": "RedMagic 11 Pro",
-   "badge": "Best Value Android",
-   "why": [
-    "GSMArena recommends the RedMagic 11 Pro as the best Android gaming phone with the latest hardware and best battery life, noting its Snapdragon 8 Elite Gen 5 chipset and advanced cooling system.",
-    "It also offers physical shoulder triggers and a massive battery with fast charging, appealing to gamers on a budget."
-   ],
-   "specs": [
-    "Snapdragon 8 Elite Gen 5 chipset",
-    "Advanced cooling system",
-    "Physical shoulder triggers",
-    "Massive battery with quick charging"
-   ],
-   "pros": [
-    "Powerful chipset",
-    "Effective cooling",
-    "Large battery"
-   ],
-   "cons": [
-    "Awkward English translations in software",
-    "Unpolished software experience"
-   ],
-   "best_for": "Gamers who want high performance without paying flagship prices",
-   "skip_if": "You prioritize polished software and multilingual support",
-   "link": "https://www.amazon.com/s?k=RedMagic%E2%80%AF11%E2%80%AFPro&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 18, 2026",
-   "fill_failed": true
   }
  ]
 }

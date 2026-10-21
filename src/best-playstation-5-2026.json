@@ -49,74 +49,6 @@
    "amazon_listing": "Sony PlayStation 5 Pro 2TB SSD Digital Console with Two Controllers, White and Chroma Pear"
   },
   {
-   "name": "Sony PlayStation 5 Slim 825 GB Console",
-   "short": "PS5 Slim",
-   "badge": "Best Value",
-   "why": [
-    "Tom's Guide recommends the PS5 Slim as the go‑to choice for most buyers, citing its lower price and solid performance. PCMag notes the Slim’s 825 GB SSD and inclusion of an optical disc drive, making it a well‑rounded option. CNET points out its similar size to the Pro and the presence of a disc drive, offering a balanced package for casual gamers."
-   ],
-   "specs": [
-    "825 GB SSD",
-    "Built‑in optical disc drive",
-    "Same CPU as Pro",
-    "Two USB‑C ports front",
-    "HDMI 2.1 output",
-    "Wi‑Fi 6 (standard)"
-   ],
-   "pros": [
-    "More affordable than Pro",
-    "Includes disc drive for physical games",
-    "Compact form factor"
-   ],
-   "cons": [
-    "Less storage than Pro’s 2 TB",
-    "No Wi‑Fi 7 upgrade",
-    "Graphics not as high as Pro"
-   ],
-   "best_for": "Gamers who want a solid PlayStation experience without the premium price",
-   "skip_if": "You need the absolute highest performance or extra storage",
-   "price": "$500 at major retailers",
-   "link": "https://www.amazon.com/s?k=Sony+PlayStation+5+Slim+825%E2%80%AFGB+Console&tag=zoepicks00-20",
-   "price_asof": "Oct 17, 2026",
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
-   "name": "Sony PlayStation 5 (Standard) 1 TB Console",
-   "short": "PS5",
-   "badge": "Best All‑Rounder",
-   "why": [
-    "Tom's Guide lists the base PS5 as a strong all‑rounder for casual players, noting its solid performance and large game library. PCMag mentions the standard 1 TB SSD and identical CPU to the Pro, making it a capable baseline. CNET references the non‑Pro PS5’s $500 price point as a comparison when evaluating the Pro’s value."
-   ],
-   "specs": [
-    "1 TB SSD",
-    "Built‑in optical disc drive",
-    "Same CPU as Pro",
-    "Wi‑Fi 6",
-    "Two USB‑C ports front",
-    "HDMI 2.1"
-   ],
-   "pros": [
-    "Good performance for most games",
-    "Includes disc drive",
-    "Lower price than Pro"
-   ],
-   "cons": [
-    "Less storage than Pro’s 2 TB",
-    "No Wi‑Fi 7",
-    "Graphics upgrades limited compared to Pro"
-   ],
-   "best_for": "Typical gamers who want a reliable console at a reasonable price",
-   "skip_if": "You need the extra storage or cutting‑edge graphics of the Pro",
-   "price": "$500 at major retailers",
-   "link": "https://www.amazon.com/s?k=Sony+PlayStation+5+%28Standard%29+1%E2%80%AFTB+Console&tag=zoepicks00-20",
-   "price_asof": "Oct 17, 2026",
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
    "name": "PS5 Slim Bundle with Spider‑Man 2",
    "short": "PS5 Slim + Spider‑Man 2",
    "badge": "Best Overall",
@@ -208,79 +140,6 @@
    "fill_failed": false
   },
   {
-   "name": "PS5 Disc + Horizon Forbidden West + Call of Duty + God of War Bundle",
-   "short": "Horizon + CoD + God of War",
-   "badge": "Best Game Collection",
-   "why": [
-    "This bundle includes the PS5 disc console plus three blockbuster titles: Horizon Forbidden West, Call of Duty: Modern Warfare II, and God of War: Ragnarok. It’s a massive collection for $629, offering a wide range of gameplay experiences."
-   ],
-   "specs": [
-    "PS5 disc console",
-    "Horizon Forbidden West (disc)",
-    "Call of Duty: Modern Warfare II (disc)",
-    "God of War: Ragnarok (download)"
-   ],
-   "pros": [
-    "Three major games included",
-    "Wide variety of genres",
-    "Great for new console owners",
-    "Large storage capacity"
-   ],
-   "cons": [
-    "High price point",
-    "No extra accessories",
-    "Limited to these three games"
-   ],
-   "best_for": "Gamers who want a full lineup of blockbuster titles",
-   "skip_if": "You already own these games or need accessories",
-   "price": "$629 at Studio",
-   "deal_note": "In‑stock bundle",
-   "link": "https://www.amazon.com/s?k=PS5+Disc+%2B+Horizon+Forbidden+West+%2B+Call+of+Duty+%2B+God+of+War+Bundle&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026",
-   "tabs": [
-    "bundles"
-   ],
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
-   "name": "Certified Refurbished PS5 Digital Edition",
-   "short": "Refurbished PS5 Digital",
-   "badge": "Best Budget",
-   "why": [
-    "Sony’s PS Direct offers a certified refurbished PS5 Digital Edition for $349.99, a $100 saving over the brand‑new price. It’s a cost‑effective way to get a fully functional console with a warranty."
-   ],
-   "specs": [
-    "Certified Refurbished PS5 Digital Edition",
-    "$349.99 price",
-    "Sony warranty"
-   ],
-   "pros": [
-    "$100 savings",
-    "Warranty included",
-    "Fully functional",
-    "Eco‑friendly"
-   ],
-   "cons": [
-    "No physical discs",
-    "No bundled game",
-    "Limited to digital edition"
-   ],
-   "best_for": "Budget‑conscious gamers who prefer digital downloads",
-   "skip_if": "You need a disc drive or a bundled game",
-   "price": "$349.99 at PS Direct",
-   "deal_note": "Certified refurbished",
-   "link": "https://www.amazon.com/s?k=Certified+Refurbished+PS5+Digital+Edition&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026",
-   "tabs": [
-    "bundles"
-   ],
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
-  },
-  {
    "name": "Sony DualSense Controller",
    "short": "DualSense",
    "badge": "Best Overall",
@@ -349,33 +208,6 @@
    "amazon_rating": "4.3",
    "amazon_reviews": 300,
    "amazon_rating_asof": "Oct 20, 2026"
-  },
-  {
-   "name": "PowerA DualSense Charging Dock",
-   "short": "Charging Dock",
-   "badge": "Best Charging",
-   "why": [
-    "Added to Wired’s updated list of best accessories, providing a convenient way to keep DualSense controllers powered.",
-    "It eliminates the need to dig out cables or worry about low battery during play."
-   ],
-   "pros": [
-    "Keeps controllers charged",
-    "Convenient docking",
-    "Reduces cable clutter"
-   ],
-   "cons": [
-    "No price info",
-    "Not a gaming feature"
-   ],
-   "best_for": "Players who want to keep multiple DualSense controllers ready",
-   "skip_if": "You already have a charging solution",
-   "link": "https://www.amazon.com/s?k=PowerA+DualSense+Charging+Dock&tag=zoepicks00-20",
-   "tabs": [
-    "accessories"
-   ],
-   "fill_tries": 2,
-   "fill_last": "Oct 20, 2026",
-   "fill_failed": false
   },
   {
    "name": "PlayStation Portal",
