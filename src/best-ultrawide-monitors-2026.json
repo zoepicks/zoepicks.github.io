@@ -25,7 +25,10 @@
    ],
    "best_for": "Gamers seeking the best visual experience",
    "skip_if": "You need a lower‑resolution or cheaper option",
-   "link": "https://www.amazon.com/s?k=Alienware+39+5K+OLED+%28AW3926QW%29&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Alienware+39+5K+OLED+%28AW3926QW%29&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "MSI MPG 341CQR",
@@ -56,11 +59,11 @@
    "image": "https://m.media-amazon.com/images/I/81fsC2GxYQL.jpg",
    "image_asin": "B0GGRP6YKJ",
    "amazon_price": "$2,530.20",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "MSI MPG 341CQR X36-34 UWQHD Gaming Monitor (3440x1440, 1800R), 5ª gen QD-OLED, 360Hz, 0.03",
    "amazon_rating": "4.7",
    "amazon_reviews": 28,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Tandem WOLED 39‑inch",
@@ -79,7 +82,10 @@
    ],
    "best_for": "Users who want OLED quality in a 39‑inch ultrawide",
    "skip_if": "You need a higher refresh rate or lower price",
-   "link": "https://www.amazon.com/s?k=Tandem+WOLED+39%E2%80%91inch&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Tandem+WOLED+39%E2%80%91inch&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "V‑Stripe QD‑OLED 34‑inch",
@@ -99,7 +105,10 @@
    ],
    "best_for": "Gamers and multitaskers who need high refresh rates",
    "skip_if": "You prefer a lower refresh rate or a different panel type",
-   "link": "https://www.amazon.com/s?k=V%E2%80%91Stripe+QD%E2%80%91OLED+34%E2%80%91inch&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=V%E2%80%91Stripe+QD%E2%80%91OLED+34%E2%80%91inch&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
