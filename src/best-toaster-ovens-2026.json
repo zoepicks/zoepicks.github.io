@@ -3,13 +3,106 @@
  "title": "Top Toaster Ovens That Replace the Big Oven (2026)",
  "category": "home_kitchen",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected based on recommendations from Good Housekeeping, Should It, The Guardian, and Epicurious, prioritizing products recommended by multiple sources.",
- "assumptions": "Prices are not included as specific current pricing was not provided in the source excerpts.",
- "products": [],
+ "summary": "These five toaster ovens are recommended by multiple expert sources for their ability to replace a full-size oven for most daily cooking tasks.",
+ "method": "Picks were selected based on recommendations from Consumer Reports, Good Housekeeping, CNET, ShouldIt, The Guardian, and Epicurious. Products recommended by more than one source were prioritized.",
+ "assumptions": "No prices are listed in the provided source excerpts. Availability and specific model variants may vary by region.",
+ "products": [
+  {
+   "name": "Breville Joule Smart Oven Air Fryer Pro",
+   "short": "Breville Joule",
+   "badge": "Best Overall",
+   "why": [
+    "This oven is named Best Overall by Good Housekeeping, The Guardian, and Epicurious. It is described as a premium experience with high-end build and precise operation.",
+    "It functions as an air fryer thanks to added convection fans. It is noted for its versatility in baking, roasting, and broiling."
+   ],
+   "desc": "A high-end countertop oven with air frying capabilities. It features convection fans and multiple cooking modes. It is designed to replace a full-size oven for many tasks.",
+   "benefit": "Picture a home cook who wants to roast vegetables or bake cookies without heating up the whole house. This oven handles those tasks with precise operation and a high-end build. It beats other picks by being the consensus Best Overall across three major sources. The catch: it is positioned as a premium option, implying a higher cost than budget alternatives.",
+   "specs": [
+    "Air Fryer Pro",
+    "Convection fans",
+    "Smart Oven"
+   ],
+   "pros": [
+    "Named Best Overall by multiple sources",
+    "High-end build",
+    "Precise operation",
+    "Versatile cooking modes"
+   ],
+   "cons": [
+    "Premium price point",
+    "May be overkill for simple toasting"
+   ],
+   "best_for": "Buyers wanting a versatile, high-performance oven to replace their main oven.",
+   "skip_if": "You are on a strict budget or only need basic toasting.",
+   "link": "https://www.amazon.com/s?k=Breville+Joule+Smart+Oven+Air+Fryer+Pro&tag=zoepicks00-20"
+  },
+  {
+   "name": "Cuisinart Air Fryer + Convection Toaster Oven",
+   "short": "Cuisinart Air Fryer",
+   "badge": "Best Air Fryer",
+   "why": [
+    "Good Housekeeping names this the Best Air Fryer Toaster Oven. It is also mentioned in the context of the Cuisinart TOA-70 being a top choice for high-end build and competitive price.",
+    "It offers precise operation and excellent cooking performance. It is a strong contender for those prioritizing air frying features."
+   ],
+   "desc": "A toaster oven with dedicated air fryer and convection functions. It is designed for versatile cooking including air frying. It is noted for its competitive price relative to its build quality.",
+   "benefit": "Picture a user who wants crisp results on frozen foods like waffles or fries without a separate air fryer. This model provides that function with precise operation. It beats the Breville in terms of price competitiveness while maintaining high-end build qualities. The catch: it is not the consensus Best Overall, though it is highly rated for air frying.",
+   "specs": [
+    "Air Fryer",
+    "Convection",
+    "Toaster Oven"
+   ],
+   "pros": [
+    "Best Air Fryer Toaster Oven per Good Housekeeping",
+    "High-end build",
+    "Precise operation",
+    "Competitive price"
+   ],
+   "cons": [
+    "Not the overall top pick in all sources",
+    "Specific model variations may differ"
+   ],
+   "best_for": "Buyers who prioritize air frying capabilities and value for money.",
+   "skip_if": "You need the absolute highest-end smart features of the Breville.",
+   "link": "https://www.amazon.com/s?k=Cuisinart+Air+Fryer+%2B+Convection+Toaster+Oven&tag=zoepicks00-20"
+  },
+  {
+   "name": "Hamilton Beach 6-in-1 Sure Crisp Air Fryer Toaster Oven",
+   "short": "Hamilton Beach 6-in-1",
+   "badge": "Best Value",
+   "why": [
+    "Good Housekeeping identifies this as the Best Value pick. It is a 6-in-1 appliance that includes air frying.",
+    "It is recommended for buyers looking for a cost-effective option that still offers multiple cooking functions."
+   ],
+   "desc": "A 6-in-1 toaster oven with air fryer capabilities. It is designed for versatile cooking at a lower price point. It offers multiple functions in one compact unit.",
+   "benefit": "Picture a renter or small household that needs a versatile appliance without a large investment. This oven provides six functions including air frying. It beats the premium picks by offering core functionality at a better value. The catch: it may lack the advanced smart features or build quality of the Breville or Cuisinart.",
+   "specs": [
+    "6-in-1",
+    "Sure Crisp",
+    "Air Fryer"
+   ],
+   "pros": [
+    "Best Value per Good Housekeeping",
+    "6-in-1 functionality",
+    "Includes air frying",
+    "Cost-effective"
+   ],
+   "cons": [
+    "Less premium build than top picks",
+    "Fewer advanced features"
+   ],
+   "best_for": "Budget-conscious buyers who want multiple cooking modes.",
+   "skip_if": "You require high-end smart controls or premium build materials.",
+   "link": "https://www.amazon.com/s?k=Hamilton+Beach+6-in-1+Sure+Crisp+Air+Fryer+Toaster+Oven&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
   "pick": "Breville Joule Smart Oven Air Fryer Pro",
-  "line": "This model is the best overall pick for buyers who want a versatile appliance that can replace a full-size oven for many tasks. It wins for its high-end build and precise operation, though it is a premium option compared to budget alternatives."
- },
- "draft": true
+  "line": "This is the top pick for most buyers because it is named Best Overall by Good Housekeeping, The Guardian, and Epicurious. It offers high-end features and precise operation, but it is a premium option compared to the budget picks.",
+  "also": [
+   [
+    "Best Value",
+    "Hamilton Beach 6-in-1 Sure Crisp Air Fryer Toaster Oven"
+   ]
+  ]
+ }
 }

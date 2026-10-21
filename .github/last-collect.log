@@ -1,9 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-palette-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-setting-spray-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-chair-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
@@ -120,26 +114,32 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-power-banks-2026 draft
-[collect] progress: guide 49 done (best-power-banks-2026) | tried 49 | tavily keys alive 2/2
-[collect] topic: Top TVs Under $500 (2026)
+[collect] done: best-hair-straighteners-2026 4 products
+[collect] progress: guide 49 done (best-hair-straighteners-2026) | tried 49 | tavily keys alive 2/2
+[collect] topic: Top Foot Massagers for Tired Feet (2026)
 [collect] tavily -> 4 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/tv/reviews/best/by-price/under-500
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1625 chars, ~2971 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Hisense QD7QF
-[collect] drop (only 1 sources): Roku Select TV (2025)
-[collect] drop (only 1 sources): Samsung Crystal UHD U8000F TV
+[collect] http 403 https://www.nytimes.com/wirecutter/advice/at-home-foot-spa
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/advice/at-home-foot-spa
+[collect] 3/4 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://gagadget.com/en/690685-4k-tv-under-500
-[collect] browser fetch 247 chars: https://gagadget.com/en/690685-4k-tv-under-500
-[collect] extra sources: +2 readable page(s) -> 6 total (expertreviews.co.uk, gagadget.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2686 in + 4000 out tokens (budget 7000)
+[collect] http 404 https://www.garagegymreviews.com/best-foot-massager
+[collect] browser fetch 609 chars: https://www.garagegymreviews.com/best-foot-massager
+[collect] extra sources: +1 readable page(s) -> 4 total (garagegymreviews.com)
+[collect] llm request: 4 sources x 1621 chars, ~2639 in + 4000 out tokens (budget 7000)
+[collect] llm key ...8SBW qwen/qwen3.8-27b per-minute limit  -> will wait
+[collect] llm key ...4zVi qwen/qwen3.8-27b per-minute limit  -> will wait
 [collect] llm key ...5tBZ qwen/qwen3.8-27b per-minute limit  -> will wait
 [collect] llm key ...LQ4f qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] drop (only 1 sources): Hisense QD7QF
-[collect] only 1 well-sourced products -> staying draft
+[collect] llm key ...ITNE qwen/qwen3.8-27b per-minute limit  -> will wait
+[collect] rate-limited, waiting 31s then trying again
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (walks4all.com, techgearlab.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1067 chars, ~2811 in + 4000 out tokens (budget 7000)
+[collect] llm key ...4zVi qwen/qwen3.8-27b per-minute limit  -> will wait
+[collect] llm key ...5tBZ qwen/qwen3.8-27b per-minute limit  -> will wait
+[collect] llm key ...LQ4f qwen/qwen3.8-27b per-minute limit  -> will wait
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-tvs-under-500-2026 draft
-[collect] progress: guide 50 done (best-tvs-under-500-2026) | tried 50 | tavily keys alive 2/2
+[collect] done: best-foot-massagers-2026 draft
+[collect] progress: guide 50 done (best-foot-massagers-2026) | tried 50 | tavily keys alive 2/2
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f']
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,812 requested 2,495", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,313 requested 2,439", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,231 requested 2,319", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,653 requested 2,410", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,808 requested 2,394", "5tBZ|openai/gpt-oss-20b": "limit 200,000 used 198,850 requested 2,595", "ITNE|openai/gpt-oss-20b": "limit 200,000 used 198,209 requested 2,684", "LQ4f|openai/gpt-oss-20b": "limit 200,000 used 199,715 requested 2,842", "8SBW|openai/gpt-oss-20b": "limit 200,000 used 197,718 requested 2,454", "4zVi|openai/gpt-oss-20b": "limit 200,000 used 199,308 requested 3,480"}, "toolarge": {}, "minute": {"5tBZ|qwen/qwen3.8-27b": "", "LQ4f|qwen/qwen3.8-27b": "", "ITNE|qwen/qwen3.8-27b": "", "8SBW|qwen/qwen3.8-27b": "", "4zVi|qwen/qwen3.8-27b": "limit 1,000 used 842 requested 311"}, "noaccess": {"5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,432 requested 2,289", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,843 requested 3,547", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,852 requested 3,666", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,794 requested 2,436", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,460 requested 2,472", "5tBZ|openai/gpt-oss-20b": "limit 200,000 used 196,833 requested 3,408", "4zVi|openai/gpt-oss-20b": "limit 200,000 used 199,825 requested 3,346", "LQ4f|openai/gpt-oss-20b": "limit 200,000 used 199,103 requested 3,237", "8SBW|openai/gpt-oss-20b": "limit 200,000 used 199,435 requested 4,006", "ITNE|openai/gpt-oss-20b": "limit 200,000 used 198,222 requested 3,860"}, "toolarge": {}, "minute": {"8SBW|qwen/qwen3.8-27b": "", "4zVi|qwen/qwen3.8-27b": "", "LQ4f|qwen/qwen3.8-27b": "", "ITNE|qwen/qwen3.8-27b": "", "5tBZ|qwen/qwen3.8-27b": ""}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
 [collect] run finished: 50 guide(s) built, 50 topic(s) tried

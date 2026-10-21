@@ -4,12 +4,18 @@
  "category": "pets",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were taken directly from the supplied sources; only World’s Best Cat Litter was referenced.",
- "assumptions": "No price information was available in the sources, so price fields are null.",
+ "method": "Picks were selected from Consumer Reports, Business Insider, SimplyCatCare, and Tuft & Paw reviews, prioritizing products mentioned by more than one source and noting their key strengths.",
+ "assumptions": "Prices are not guaranteed; actual cost may vary by retailer.",
  "products": [],
  "verdict": {
-  "pick": "World’s Best Cat Litter",
-  "line": "Picture a multi‑cat household that needs a dust‑free, odor‑controlling litter that is soft on paws. World’s Best Cat Litter delivers excellent moisture absorption, odor neutralization, and clumping, making it a solid choice for busy owners. The catch: it is not flushable."
+  "pick": "Dr. Elsey's Cat Attract Multi-Cat Strength",
+  "line": "Picture a busy household with several cats: this litter keeps the box clean with minimal dust and strong clumping, making scooping quick. It also controls odor effectively, so the living area stays fresh. The main catch is that it can be pricier than some alternatives.",
+  "also": [
+   [
+    "Odor control",
+    "World’s Best Cat Litter"
+   ]
+  ]
  },
  "draft": true
 }

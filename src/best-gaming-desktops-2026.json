@@ -4,8 +4,12 @@
  "category": "gaming",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No usable data",
- "assumptions": "No price data",
+ "method": "Picks were derived from explicit recommendations in IGN and PCMag excerpts. Tom's Hardware and TechRadar excerpts were paywalled or generic, and Dell.com returned an error, so they were excluded from product selection. PCGamer excerpt discussed a keyboard, not a PC, and was ignored.",
+ "assumptions": "No prices are available in the provided excerpts. Specific model variants (like 'Gamer Xtr' full name) are truncated in the source text.",
  "products": [],
+ "verdict": {
+  "pick": "Dell Alienware Aurora R16 Gaming Desktop",
+  "line": "Recommended by IGN for its revised design and latest hardware options, though the Indian edition is limited to 13th-Gen CPUs. It is the only specific prebuilt model with a detailed review excerpt provided in the sources."
+ },
  "draft": true
 }
