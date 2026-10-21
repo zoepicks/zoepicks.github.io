@@ -34,7 +34,16 @@
    ],
    "best_for": "Large dogs that pull",
    "skip_if": "Very small dogs",
-   "link": "https://www.amazon.com/s?k=Auroth+Tactical+Dog+Harness&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Auroth+Tactical+Dog+Harness&tag=zoepicks00-20",
+   "asin": "B07XNQB5RT",
+   "image": "https://m.media-amazon.com/images/I/71yDwH2eKjL.jpg",
+   "image_asin": "B07XNQB5RT",
+   "amazon_price": "$24.29",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "AUROTH Tactical Dog Harness Medium Sized Dog No Pull Adjustable Dog Vest | Heavy Duty with",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 60696,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "PetSafe Easy Walk",
@@ -62,7 +71,10 @@
    ],
    "best_for": "Dogs that pull on city sidewalks",
    "skip_if": "Dogs that need extra chest padding",
-   "link": "https://www.amazon.com/s?k=PetSafe+Easy+Walk&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=PetSafe+Easy+Walk&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Auroth No Pull Harness",
@@ -93,7 +105,16 @@
    ],
    "best_for": "Senior dogs needing assistance",
    "skip_if": "Owners looking for the lightest harness",
-   "link": "https://www.amazon.com/s?k=Auroth+No+Pull+Harness&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Auroth+No+Pull+Harness&tag=zoepicks00-20",
+   "asin": "B07XNS62H4",
+   "image": "https://m.media-amazon.com/images/I/61jZjoIjXEL.jpg",
+   "image_asin": "B07XNS62H4",
+   "amazon_price": "$20.09",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "AUROTH Dog Harness for Large Dogs, No Pull Tactical Dog Vest Heavy Duty | Easy Control wit",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 60696,
+   "amazon_rating_asof": "Oct 20, 2026"
   }
  ],
  "verdict": {
