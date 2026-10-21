@@ -37,7 +37,16 @@
    ],
    "best_for": "Multi-cat households and users who want detailed health tracking.",
    "skip_if": "You are on a tight budget or have only one cat and do not need app features.",
-   "link": "https://www.amazon.com/s?k=Litter-Robot+4&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Litter-Robot+4&tag=zoepicks00-20",
+   "asin": "B0BH6MD3DJ",
+   "image": "https://m.media-amazon.com/images/I/61jha-FWVBL.jpg",
+   "image_asin": "B0BH6MD3DJ",
+   "amazon_price": "$699.00",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "Whisker Litter-Robot 4 with Step & Fence, Black - Automatic | Self-Cleaning Cat Litter Box",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 265,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Litter-Robot 5 Pro",
@@ -65,7 +74,10 @@
    ],
    "best_for": "Buyers who want the top-tier experience and do not mind the cost.",
    "skip_if": "You are looking for a budget-friendly solution.",
-   "link": "https://www.amazon.com/s?k=Litter-Robot+5+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Litter-Robot+5+Pro&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Neakasa M1",
@@ -93,7 +105,16 @@
    ],
    "best_for": "Buyers who want a balance between price and features.",
    "skip_if": "You want the absolute lowest price or the highest-end features.",
-   "link": "https://www.amazon.com/s?k=Neakasa+M1&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Neakasa+M1&tag=zoepicks00-20",
+   "asin": "B0DK6RSFG2",
+   "image": "https://m.media-amazon.com/images/I/71trwNauyIL.jpg",
+   "image_asin": "B0DK6RSFG2",
+   "amazon_price": "$379.99",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "Neakasa M1 Plus Lite Self-Cleaning Litter Box, Open-Top Design for Large Cats, Automatic C",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 335,
+   "amazon_rating_asof": "Oct 20, 2026"
   }
  ],
  "verdict": {
