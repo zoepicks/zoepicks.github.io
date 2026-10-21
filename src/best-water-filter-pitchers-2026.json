@@ -34,9 +34,18 @@
    "best_for": "Families prioritizing maximum contaminant removal",
    "skip_if": "You need quick filtering or a lower filter cost",
    "link": "https://www.amazon.com/s?k=Culligan+ZeroWater+10-Cup+Pitcher&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0GFB19SCF",
+   "image": "https://m.media-amazon.com/images/I/61aikJBQ8vL.jpg",
+   "image_asin": "B0GFB19SCF",
+   "amazon_price": "$29.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Culligan ZeroWater 10-Cup Pitcher Water Filter Removes PFAS, Matte Black | Certified to Re",
+   "amazon_rating": "3.9",
+   "amazon_reviews": 267,
+   "amazon_rating_asof": "Oct 21, 2026"
   },
   {
    "name": "Clearly Filtered Water Pitcher",
@@ -65,9 +74,15 @@
    "best_for": "Homeowners needing comprehensive contaminant removal",
    "skip_if": "You need UV‑C cleaning or alkaline water",
    "link": "https://www.amazon.com/s?k=Clearly+Filtered+Water+Pitcher&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0DFC22BHT",
+   "image": "https://m.media-amazon.com/images/I/61ZY7WTifjL.jpg",
+   "image_asin": "B0DFC22BHT",
+   "amazon_price": "$109.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Clearly Filtered Water Filter Pitcher, 10 Cup BPA Free Water Filtration | Targets up to 38"
   },
   {
    "name": "Epic Pure Water Pitcher",
@@ -101,7 +116,10 @@
    "image_asin": "B0GFGSQ2M8",
    "amazon_rating": "4",
    "amazon_reviews": 4,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating_asof": "Oct 20, 2026",
+   "amazon_price": "$82.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Epic Pure XP Fluoride Water Filter Pitcher, 10 Cup, White & Bamboo | NSF Certified Filter,"
   }
  ],
  "verdict": {
