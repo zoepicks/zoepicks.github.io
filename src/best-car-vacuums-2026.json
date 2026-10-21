@@ -34,7 +34,7 @@
    "best_for": "Buyers who prioritize maximum cleaning power and runtime and are willing to pay a premium price.",
    "skip_if": "You are on a tight budget or find handheld vacuums uncomfortable to hold for extended periods.",
    "link": "https://www.amazon.com/s?k=Dyson+V8&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Oct 21, 2026",
    "fill_failed": false
   },
@@ -65,9 +65,15 @@
    "best_for": "Drivers who need a cheap, portable vacuum for quick, light cleaning tasks.",
    "skip_if": "You have heavy pet hair or need to clean a large vehicle interior thoroughly.",
    "link": "https://www.amazon.com/s?k=Black%2BDecker+Dustbuster&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 21, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B00IOEFBKS",
+   "image": "https://m.media-amazon.com/images/I/61EKK2IYlcL.jpg",
+   "image_asin": "B00IOEFBKS",
+   "amazon_price": "$66.95",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "BLACK+DECKER dust buster PIVOT VAC Handheld Vacuum Cordless, Car Vacuum Portable Rechargea"
   },
   {
    "name": "Black & Decker Max Flex Lithium",
@@ -96,7 +102,7 @@
    "best_for": "Drivers who want a dedicated, efficient car vacuum recommended by automotive specialists.",
    "skip_if": "You prefer a vacuum that is also a full-size home vacuum or need the broadest range of expert reviews.",
    "link": "https://www.amazon.com/s?k=Black+%26+Decker+Max+Flex+Lithium&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Oct 21, 2026",
    "fill_failed": false
   }
