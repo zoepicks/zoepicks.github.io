@@ -42,8 +42,8 @@
    "image": "https://m.media-amazon.com/images/I/61rbIdWHoML.jpg",
    "image_asin": "B07YXM6XTF",
    "amazon_rating": "4.7",
-   "amazon_reviews": 31026,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_reviews": 31029,
+   "amazon_rating_asof": "Oct 21, 2026"
   },
   {
    "name": "Hydro Flask Wide Mouth",
@@ -74,9 +74,18 @@
    "best_for": "Gym users and commuters who need an insulated bottle",
    "skip_if": "You need a lightweight or filtered bottle",
    "link": "https://www.amazon.com/s?k=Hydro+Flask+Wide+Mouth&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0G997HP6M",
+   "image": "https://m.media-amazon.com/images/I/61Iz2wCth2L.jpg",
+   "image_asin": "B0G997HP6M",
+   "amazon_price": "$32.95",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Hydro Flask Water Bottle - Insulated Stainless Steel - Wide Mouth Flex Lid, Non Spill, Lea",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 31029,
+   "amazon_rating_asof": "Oct 21, 2026"
   },
   {
    "name": "Nalgene Wide‑Mouth",
@@ -106,9 +115,15 @@
    "best_for": "Backpackers and budget‑conscious travelers",
    "skip_if": "You need insulation or filtration",
    "link": "https://www.amazon.com/s?k=Nalgene+Wide%E2%80%91Mouth&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0994LQRTH",
+   "image": "https://m.media-amazon.com/images/I/61LUb05U5rL.jpg",
+   "image_asin": "B0994LQRTH",
+   "amazon_price": "$14.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Nalgene 16 oz Wide Mouth Water Bottle, Amethyst | Slim Cup Holder Size, BPA-Free, Durable "
   }
  ],
  "verdict": {
