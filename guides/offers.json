@@ -1,9 +1,22 @@
 {
  "v": 3,
- "updated": "2026-10-21T02:33:39Z",
+ "updated": "2026-10-21T04:34:05Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
+   {
+    "asin": "B004FHO5Y6",
+    "name": "Logitech C270 720p Webcam Plug-and-Play Wide Screen Video…",
+    "pct": 31,
+    "rating": 4.4,
+    "t": 1792505538,
+    "img": "https://m.media-amazon.com/images/I/61yo4swj-PL.jpg",
+    "link": "https://www.amazon.com/dp/B004FHO5Y6?tag=zoepicks00-20",
+    "now": "20.80",
+    "was": "29.99",
+    "reviews": 21439,
+    "tier": "budget"
+   },
    {
     "asin": "B0BXGCRRLW",
     "name": "Logitech Brio 100 Full HD 1080p Webcam",
@@ -15,33 +28,19 @@
     "now": "24.99",
     "was": "39.99",
     "reviews": 8038,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0CF3VGQFL",
-    "name": "Redragon Mechanical Gaming Keyboard Wired",
-    "pct": 33,
-    "rating": 4.3,
-    "t": 1792425836,
-    "img": "https://m.media-amazon.com/images/I/71Bk2A2WmOL.jpg",
-    "link": "https://www.amazon.com/dp/B0CF3VGQFL?tag=zoepicks00-20",
-    "now": "28.49",
-    "was": "42.21",
-    "deal": "Limited time deal",
-    "reviews": 6885,
     "tier": "mid"
    },
    {
-    "asin": "B0FMD2Z3N2",
-    "name": "Logitech Alto Keys K98M Wireless Mechanical Gasket Keyboard",
-    "pct": 17,
+    "asin": "B0GXT9CXT1",
+    "name": "Acer A640 4K Webcam",
+    "pct": 20,
     "rating": 4.5,
-    "t": 1792474296,
-    "img": "https://m.media-amazon.com/images/I/61FYlW5tsFL.jpg",
-    "link": "https://www.amazon.com/dp/B0FMD2Z3N2?tag=zoepicks00-20",
-    "now": "99.99",
-    "was": "119.99",
-    "reviews": 361,
+    "t": 1792476162,
+    "img": "https://m.media-amazon.com/images/I/71C2cb1cQ1L.jpg",
+    "link": "https://www.amazon.com/dp/B0GXT9CXT1?tag=zoepicks00-20",
+    "now": "39.98",
+    "was": "49.99",
+    "reviews": 677,
     "tier": "premium"
    }
   ],
@@ -116,17 +115,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0D38HHCG9",
-    "name": "Amazon Fire HD 8 Kids tablet",
+    "asin": "B0H4W5CFTR",
+    "name": "Hybrid Active Noise Cancelling Headphones 120H Playtime…",
     "pct": 50,
-    "rating": 4.6,
-    "t": 1792505501,
-    "img": "https://m.media-amazon.com/images/I/61xAS-vEB5L.jpg",
-    "link": "https://www.amazon.com/dp/B0D38HHCG9?tag=zoepicks00-20",
-    "now": "74.99",
-    "was": "149.99",
+    "rating": 4.4,
+    "t": 1792543831,
+    "img": "https://m.media-amazon.com/images/I/71JkH7qTWtL.jpg",
+    "link": "https://www.amazon.com/dp/B0H4W5CFTR?tag=zoepicks00-20",
+    "now": "99.98",
+    "was": "199.99",
     "deal": "Limited time deal",
-    "reviews": 5175,
+    "reviews": 52,
     "tier": "premium"
    }
   ],
@@ -300,17 +299,16 @@
   ],
   "hobby_music": [
    {
-    "asin": "B0GFSBQVRG",
-    "name": "PANTASY Vintage Sewing Machine Building Set",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1792425918,
-    "img": "https://m.media-amazon.com/images/I/71eWBcrTd3L.jpg",
-    "link": "https://www.amazon.com/dp/B0GFSBQVRG?tag=zoepicks00-20",
-    "now": "59.99",
-    "was": "79.99",
-    "deal": "Limited time deal",
-    "reviews": 104,
+    "asin": "B0GTZ865L3",
+    "name": "BRIBAT USB Microphone",
+    "pct": 24,
+    "rating": 4.4,
+    "t": 1792476184,
+    "img": "https://m.media-amazon.com/images/I/71sWJkQ8HmL.jpg",
+    "link": "https://www.amazon.com/dp/B0GTZ865L3?tag=zoepicks00-20",
+    "now": "15.29",
+    "was": "19.99",
+    "reviews": 64,
     "tier": "budget"
    },
    {
@@ -659,20 +657,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B0FFGBL72C",
-    "name": "[Built-in Apps/4K Support] Smart Outdoor Projector",
-    "pct": 54,
-    "rating": 4.5,
-    "t": 1792504704,
-    "img": "https://m.media-amazon.com/images/I/71dnuLKAfoL.jpg",
-    "link": "https://www.amazon.com/dp/B0FFGBL72C?tag=zoepicks00-20",
-    "now": "196.93",
-    "was": "429.99",
-    "deal": "Limited time deal",
-    "reviews": 5227,
-    "tier": "mid"
-   },
-   {
     "asin": "B0H5CL8DLL",
     "name": "Google TV Smart Projector 4K",
     "pct": 60,
@@ -684,6 +668,20 @@
     "was": "498.99",
     "deal": "Limited time deal",
     "reviews": 26,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0HDN32NF5",
+    "name": "[VIDAA Live TV & 6000 ANSI & Now",
+    "pct": 47,
+    "rating": 4.8,
+    "t": 1792504704,
+    "img": "https://m.media-amazon.com/images/I/71xS9zvt8fL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDN32NF5?tag=zoepicks00-20",
+    "now": "299.99",
+    "was": "569.99",
+    "deal": "Limited time deal",
+    "reviews": 112,
     "tier": "premium"
    }
   ],
@@ -837,22 +835,7 @@
       "link": "https://www.amazon.com/dp/B0DQ1D9VJR?tag=zoepicks00-20",
       "now": "24.49",
       "was": "34.99",
-      "reviews": 94,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CF3VGQFL",
-      "name": "Redragon Mechanical Gaming Keyboard Wired",
-      "pct": 33,
-      "rating": 4.3,
-      "t": 1792425836,
-      "img": "https://m.media-amazon.com/images/I/71Bk2A2WmOL.jpg",
-      "link": "https://www.amazon.com/dp/B0CF3VGQFL?tag=zoepicks00-20",
-      "now": "28.49",
-      "was": "42.21",
-      "deal": "Limited time deal",
-      "reviews": 6885,
-      "tier": "mid"
+      "reviews": 94
      },
      {
       "asin": "B0FMD2Z3N2",
@@ -864,8 +847,7 @@
       "link": "https://www.amazon.com/dp/B0FMD2Z3N2?tag=zoepicks00-20",
       "now": "99.99",
       "was": "119.99",
-      "reviews": 361,
-      "tier": "premium"
+      "reviews": 361
      }
     ]
    },
@@ -873,20 +855,6 @@
     "key": "wireless-mouse",
     "label": "Wireless Mouse",
     "items": [
-     {
-      "asin": "B0D2X7DCG5",
-      "name": "Logitech MK270 Full Size Wireless Keyboard and Mouse Combo",
-      "pct": 33,
-      "rating": 4.5,
-      "t": 1792425614,
-      "img": "https://m.media-amazon.com/images/I/61mtdhRTYmL.jpg",
-      "link": "https://www.amazon.com/dp/B0D2X7DCG5?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 111286,
-      "tier": "budget"
-     },
      {
       "asin": "B0F3J4F1W3",
       "name": "PHILIPS Wireless Keyboard and Mouse Combo",
@@ -897,77 +865,23 @@
       "link": "https://www.amazon.com/dp/B0F3J4F1W3?tag=zoepicks00-20",
       "now": "24.29",
       "was": "28.99",
-      "reviews": 196,
-      "tier": "mid"
-     },
-     {
-      "asin": "B072JX77X6",
-      "name": "Logitech MK335 Full Size Quiet Wireless Keyboard Mouse Combo",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1792425614,
-      "img": "https://m.media-amazon.com/images/I/5110JBRA1-L.jpg",
-      "link": "https://www.amazon.com/dp/B072JX77X6?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 9891,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "phone-gimbal",
-    "label": "Phone Gimbal",
-    "items": [
-     {
-      "asin": "B0FJ2L67HJ",
-      "name": "DJI Osmo Mobile 8 Gimbal Stabilizer",
-      "pct": 13,
-      "rating": 4.3,
-      "t": 1792425853,
-      "img": "https://m.media-amazon.com/images/I/612zsTP6aOL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJ2L67HJ?tag=zoepicks00-20",
-      "now": "129.00",
-      "was": "149.00",
-      "reviews": 3702
-     },
-     {
-      "asin": "B0BP2VZ6K9",
-      "name": "DJI Osmo Mobile 6 Smartphone Gimbal Stabilizer",
-      "pct": 8,
-      "rating": 4.5,
-      "t": 1792425853,
-      "img": "https://m.media-amazon.com/images/I/61Zj6kAw-9L.jpg",
-      "link": "https://www.amazon.com/dp/B0BP2VZ6K9?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "109.00",
-      "reviews": 20136
+      "reviews": 196
      }
     ]
    },
    {
     "key": "computer-mouse",
     "label": "Computer Mouse",
-    "items": [
-     {
-      "asin": "B0FJRL7593",
-      "name": "Wireless Keyboard and Mouse Combo",
-      "pct": 10,
-      "rating": 4.2,
-      "t": 1792425614,
-      "img": "https://m.media-amazon.com/images/I/81f8wTmOjQL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJRL7593?tag=zoepicks00-20",
-      "now": "179.99",
-      "was": "199.99",
-      "deal": "Limited time deal",
-      "reviews": 5521
-     }
-    ]
+    "items": []
    },
    {
     "key": "laptop-charger",
     "label": "Laptop Charger",
+    "items": []
+   },
+   {
+    "key": "phone-gimbal",
+    "label": "Phone Gimbal",
     "items": []
    },
    {
@@ -1507,6 +1421,20 @@
       "tier": "budget"
      },
      {
+      "asin": "B0G2Y896VJ",
+      "name": "THINKYA Record Player",
+      "pct": 50,
+      "rating": 4.1,
+      "t": 1792506522,
+      "img": "https://m.media-amazon.com/images/I/71sZw1L+jHL.jpg",
+      "link": "https://www.amazon.com/dp/B0G2Y896VJ?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 20,
+      "tier": "mid"
+     },
+     {
       "asin": "B0GFV7MVB9",
       "name": "VinylsLink Vinyl Record Player Bluetooth Turntable",
       "pct": 50,
@@ -1517,20 +1445,6 @@
       "now": "55.99",
       "was": "111.99",
       "reviews": 91,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0B28G5Y4R",
-      "name": "HAPPRUN Native 1080P Bluetooth Projector",
-      "pct": 45,
-      "rating": 4.3,
-      "t": 1792543831,
-      "img": "https://m.media-amazon.com/images/I/816CUoLVaCL.jpg",
-      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "109.99",
-      "deal": "Limited time deal",
-      "reviews": 13994,
       "tier": "premium"
      }
     ]
@@ -1553,30 +1467,30 @@
       "tier": "budget"
      },
      {
-      "asin": "B0G2Y896VJ",
-      "name": "THINKYA Record Player",
-      "pct": 50,
-      "rating": 4.2,
-      "t": 1792426534,
-      "img": "https://m.media-amazon.com/images/I/71sZw1L+jHL.jpg",
-      "link": "https://www.amazon.com/dp/B0G2Y896VJ?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "99.99",
-      "reviews": 51,
+      "asin": "B0GS5J75YL",
+      "name": "MANGOSTAN Red Burl Wood Bluetooth Record Player",
+      "pct": 30,
+      "rating": 4.6,
+      "t": 1792438252,
+      "img": "https://m.media-amazon.com/images/I/71d4jMutmVL.jpg",
+      "link": "https://www.amazon.com/dp/B0GS5J75YL?tag=zoepicks00-20",
+      "now": "48.99",
+      "was": "69.99",
+      "reviews": 61,
       "tier": "mid"
      },
      {
-      "asin": "B0GV3W74WN",
-      "name": "MANGOSTAN Mahogany Wood Bluetooth Record Player",
+      "asin": "B0G6DCTF2C",
+      "name": "BIGMONAT All-in-One Record Player",
       "pct": 20,
-      "rating": 4.4,
+      "rating": 4.2,
       "t": 1792506522,
-      "img": "https://m.media-amazon.com/images/I/91R9sSYU15L.jpg",
-      "link": "https://www.amazon.com/dp/B0GV3W74WN?tag=zoepicks00-20",
-      "now": "119.99",
-      "was": "149.99",
+      "img": "https://m.media-amazon.com/images/I/61QzTvoZMDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G6DCTF2C?tag=zoepicks00-20",
+      "now": "127.99",
+      "was": "159.99",
       "deal": "Limited time deal",
-      "reviews": 30,
+      "reviews": 29,
       "tier": "premium"
      }
     ]
@@ -1629,37 +1543,6 @@
     ]
    },
    {
-    "key": "cameras-beginners",
-    "label": "Cameras Beginners",
-    "items": [
-     {
-      "asin": "B0DH28GGNZ",
-      "name": "4K Digital Camera for Beginners & Teens",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1792425883,
-      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
-      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "79.99",
-      "reviews": 1560
-     },
-     {
-      "asin": "B0H58GGRGY",
-      "name": "ULPTXOO 4K Digital Camera",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1792425883,
-      "img": "https://m.media-amazon.com/images/I/71+KY-FE+bL.jpg",
-      "link": "https://www.amazon.com/dp/B0H58GGRGY?tag=zoepicks00-20",
-      "now": "63.98",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 26
-     }
-    ]
-   },
-   {
     "key": "e-readers",
     "label": "E Readers",
     "items": [
@@ -1676,6 +1559,11 @@
       "reviews": 70
      }
     ]
+   },
+   {
+    "key": "cameras-beginners",
+    "label": "Cameras Beginners",
+    "items": []
    }
   ],
   "fashion": [
@@ -1933,27 +1821,13 @@
     ]
    },
    {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B0F1F5FWMG",
-      "name": "UIQUR Mens Rain Jacket Raincoat Waterproof Windbreaker",
-      "pct": 10,
-      "rating": 4.2,
-      "t": 1792424313,
-      "img": "https://m.media-amazon.com/images/I/814N257zllL.jpg",
-      "link": "https://www.amazon.com/dp/B0F1F5FWMG?tag=zoepicks00-20",
-      "now": "17.99",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 1955
-     }
-    ]
-   },
-   {
     "key": "gym-bags",
     "label": "Gym Bags",
+    "items": []
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
     "items": []
    }
   ],
@@ -2489,20 +2363,6 @@
     "label": "Desks Small Spaces",
     "items": [
      {
-      "asin": "B0DBDG9GRV",
-      "name": "Space Heater, Portable Small Heater",
-      "pct": 14,
-      "rating": 4.6,
-      "t": 1792425803,
-      "img": "https://m.media-amazon.com/images/I/71GJC7YFNdL.jpg",
-      "link": "https://www.amazon.com/dp/B0DBDG9GRV?tag=zoepicks00-20",
-      "now": "18.98",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 1282,
-      "tier": "budget"
-     },
-     {
       "asin": "B0DPB3HLL1",
       "name": "Lufeiya Small Desk",
       "pct": 28,
@@ -2514,6 +2374,20 @@
       "was": "49.99",
       "deal": "Limited time deal",
       "reviews": 1673,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DF2G3Q2G",
+      "name": "TEMI Small Computer Desk Folding Table",
+      "pct": 11,
+      "rating": 4.7,
+      "t": 1792505093,
+      "img": "https://m.media-amazon.com/images/I/71Mu1-DbHVL.jpg",
+      "link": "https://www.amazon.com/dp/B0DF2G3Q2G?tag=zoepicks00-20",
+      "now": "49.94",
+      "was": "55.96",
+      "deal": "Limited time deal",
+      "reviews": 1304,
       "tier": "mid"
      },
      {
@@ -2837,50 +2711,7 @@
    {
     "key": "sewing-machines",
     "label": "Sewing Machines",
-    "items": [
-     {
-      "asin": "B0GFSBQVRG",
-      "name": "PANTASY Vintage Sewing Machine Building Set",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1792425918,
-      "img": "https://m.media-amazon.com/images/I/71eWBcrTd3L.jpg",
-      "link": "https://www.amazon.com/dp/B0GFSBQVRG?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 104,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GXSB3PN9",
-      "name": "Lastempa Mini Sewing Machine",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1792425918,
-      "img": "https://m.media-amazon.com/images/I/71RdDRpb8qL.jpg",
-      "link": "https://www.amazon.com/dp/B0GXSB3PN9?tag=zoepicks00-20",
-      "now": "71.98",
-      "was": "79.98",
-      "deal": "Limited time deal",
-      "reviews": 37,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HFNHBHKT",
-      "name": "Stoigeld Portable Sewing Machine",
-      "pct": 10,
-      "rating": 4.4,
-      "t": 1792425918,
-      "img": "https://m.media-amazon.com/images/I/7145UPqEOdL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFNHBHKT?tag=zoepicks00-20",
-      "now": "79.19",
-      "was": "87.99",
-      "deal": "Limited time deal",
-      "reviews": 52,
-      "tier": "premium"
-     }
-    ]
+    "items": []
    }
   ],
   "home_kitchen": [
@@ -3283,20 +3114,6 @@
     "label": "Space Heaters",
     "items": [
      {
-      "asin": "B0DBDG9GRV",
-      "name": "Space Heater, Portable Small Heater",
-      "pct": 14,
-      "rating": 4.6,
-      "t": 1792425803,
-      "img": "https://m.media-amazon.com/images/I/71GJC7YFNdL.jpg",
-      "link": "https://www.amazon.com/dp/B0DBDG9GRV?tag=zoepicks00-20",
-      "now": "18.98",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 1282,
-      "tier": "budget"
-     },
-     {
       "asin": "B0FFRR3FTC",
       "name": "Space Heater for Indoor Use",
       "pct": 33,
@@ -3306,8 +3123,7 @@
       "link": "https://www.amazon.com/dp/B0FFRR3FTC?tag=zoepicks00-20",
       "now": "26.98",
       "was": "39.99",
-      "reviews": 1128,
-      "tier": "mid"
+      "reviews": 1128
      },
      {
       "asin": "B0HGF2WJCM",
@@ -3319,8 +3135,7 @@
       "link": "https://www.amazon.com/dp/B0HGF2WJCM?tag=zoepicks00-20",
       "now": "39.95",
       "was": "59.99",
-      "reviews": 61,
-      "tier": "premium"
+      "reviews": 61
      }
     ]
    },
@@ -3439,25 +3254,6 @@
     ]
    },
    {
-    "key": "steam-mop",
-    "label": "Steam Mop",
-    "items": [
-     {
-      "asin": "B0H4ZY45WJ",
-      "name": "roborock F25 Ultra Steam Gen 2 Wet Dry Steam Vacuum Mop",
-      "pct": 13,
-      "rating": 4.9,
-      "t": 1792425698,
-      "img": "https://m.media-amazon.com/images/I/518ryGNmXML.jpg",
-      "link": "https://www.amazon.com/dp/B0H4ZY45WJ?tag=zoepicks00-20",
-      "now": "699.99",
-      "was": "799.99",
-      "deal": "Limited time deal",
-      "reviews": 33
-     }
-    ]
-   },
-   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": []
@@ -3470,6 +3266,11 @@
    {
     "key": "stand-mixers",
     "label": "Stand Mixers",
+    "items": []
+   },
+   {
+    "key": "steam-mop",
+    "label": "Steam Mop",
     "items": []
    },
    {
@@ -3530,21 +3331,7 @@
    {
     "key": "macbooks",
     "label": "MacBooks",
-    "items": [
-     {
-      "asin": "B0BNTHWWMY",
-      "name": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1792425035,
-      "img": "https://m.media-amazon.com/images/I/71Mh2J8Hk7L.jpg",
-      "link": "https://www.amazon.com/dp/B0BNTHWWMY?tag=zoepicks00-20",
-      "now": "44.79",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 13414
-     }
-    ]
+    "items": []
    }
   ],
   "mobiles": [
@@ -3571,12 +3358,11 @@
       "name": "MorePro Health Fitness Tracker Smart Watch",
       "pct": 50,
       "rating": 5.0,
-      "t": 1792537500,
+      "t": 1792553249,
       "img": "https://m.media-amazon.com/images/I/61mz9Z92U-L.jpg",
       "link": "https://www.amazon.com/dp/B0HFMM89N7?tag=zoepicks00-20",
       "now": "39.99",
       "was": "79.99",
-      "deal": "Limited time deal",
       "reviews": 50,
       "tier": "mid"
      },
@@ -3615,16 +3401,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0GLPQCR51",
-      "name": "DJI Osmo Mobile 8 Standard Combo",
-      "pct": 18,
-      "rating": 4.3,
-      "t": 1792475221,
-      "img": "https://m.media-amazon.com/images/I/61MuXoEM4IL.jpg",
-      "link": "https://www.amazon.com/dp/B0GLPQCR51?tag=zoepicks00-20",
-      "now": "89.00",
-      "was": "109.00",
-      "reviews": 3702,
+      "asin": "B0C8CJ6VD9",
+      "name": "RUIMEN Smart Watches",
+      "pct": 33,
+      "rating": 4.1,
+      "t": 1792504372,
+      "img": "https://m.media-amazon.com/images/I/61C8s7xLLwL.jpg",
+      "link": "https://www.amazon.com/dp/B0C8CJ6VD9?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "37.99",
+      "deal": "Limited time deal",
+      "reviews": 18040,
       "tier": "mid"
      },
      {
@@ -4383,52 +4170,6 @@
     ]
    },
    {
-    "key": "video-doorbells",
-    "label": "Video Doorbells",
-    "items": [
-     {
-      "asin": "B0GD7JLR92",
-      "name": "Cookedixo 1080P Video Doorbell Camera Wireless",
-      "pct": 25,
-      "rating": 4.0,
-      "t": 1792477048,
-      "img": "https://m.media-amazon.com/images/I/71ZqHXLZTTL.jpg",
-      "link": "https://www.amazon.com/dp/B0GD7JLR92?tag=zoepicks00-20",
-      "now": "11.94",
-      "was": "15.99",
-      "reviews": 201,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FJ2FFBKG",
-      "name": "Doorbell Camera Wireless,2K FHD Head-to-Toe Video",
-      "pct": 28,
-      "rating": 4.1,
-      "t": 1792425819,
-      "img": "https://m.media-amazon.com/images/I/716EYBmP2lL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJ2FFBKG?tag=zoepicks00-20",
-      "now": "42.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 708,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FJMS2JT3",
-      "name": "Honeywell Home X8S Premium Smart Wi-Fi Thermostat",
-      "pct": 17,
-      "rating": 4.4,
-      "t": 1792505301,
-      "img": "https://m.media-amazon.com/images/I/512f-5-PqlL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJMS2JT3?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "239.99",
-      "reviews": 151,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "soundbars",
     "label": "Soundbars",
     "items": [
@@ -4492,6 +4233,51 @@
       "was": "399.99",
       "deal": "Limited time deal",
       "reviews": 393
+     }
+    ]
+   },
+   {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
+    "items": [
+     {
+      "asin": "B0GD7JLR92",
+      "name": "Cookedixo 1080P Video Doorbell Camera Wireless",
+      "pct": 25,
+      "rating": 4.0,
+      "t": 1792477048,
+      "img": "https://m.media-amazon.com/images/I/71ZqHXLZTTL.jpg",
+      "link": "https://www.amazon.com/dp/B0GD7JLR92?tag=zoepicks00-20",
+      "now": "11.94",
+      "was": "15.99",
+      "reviews": 201,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F5M75XCV",
+      "name": "Tapo 2K Wireless Smart Video Doorbell",
+      "pct": 20,
+      "rating": 4.3,
+      "t": 1792475228,
+      "img": "https://m.media-amazon.com/images/I/61rkvbHWFSL.jpg",
+      "link": "https://www.amazon.com/dp/B0F5M75XCV?tag=zoepicks00-20",
+      "now": "39.98",
+      "was": "49.99",
+      "reviews": 886,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FJMS2JT3",
+      "name": "Honeywell Home X8S Premium Smart Wi-Fi Thermostat",
+      "pct": 17,
+      "rating": 4.4,
+      "t": 1792505301,
+      "img": "https://m.media-amazon.com/images/I/512f-5-PqlL.jpg",
+      "link": "https://www.amazon.com/dp/B0FJMS2JT3?tag=zoepicks00-20",
+      "now": "199.99",
+      "was": "239.99",
+      "reviews": 151,
+      "tier": "premium"
      }
     ]
    },
