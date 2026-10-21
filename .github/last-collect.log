@@ -1,3 +1,20 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-adults-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-palette-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-setting-spray-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-chair-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/compact-wireless/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-micellar-water-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-midi-keyboards-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitor-deals-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-home-office-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-mac-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-under-200-2026/index.html
@@ -103,30 +120,28 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-air-purifiers-2026 draft
-[collect] progress: guide 48 done (best-air-purifiers-2026) | tried 48 | tavily keys alive 2/2
-[collect] topic: Top Toaster Ovens That Replace the Big Oven (2026)
-[collect] tavily -> 3 pages
-[collect] 3/3 source pages fetched
+[collect] done: best-polo-shirt-2026 draft
+[collect] progress: guide 13 done (best-polo-shirt-2026) | tried 13 | tavily keys alive 2/2
+[collect] topic: Best Facial Skincare (2026)
+[collect] tavily -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-trader-joes-skin-care
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-trader-joes-skin-care
+[collect] 1/2 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-toaster-ovens
-[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-toaster-ovens
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/the-best-toaster-oven
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/the-best-toaster-oven
-[collect] extra sources: +1 readable page(s) -> 4 total (healthyrecipes101.com)
-[collect] llm request: 4 sources x 1619 chars, ~2979 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Breville Joule Smart Oven Air Fryer Pro
-[collect] drop (only 1 sources): Cuisinart TOA-70
-[collect] drop (only 1 sources): Cuisinart CS0-300 Combo Steam + Convection Oven
-[collect] drop (only 1 sources): Ninja Prestige Smart XL Toaster Oven
+[collect] browser fetch 7582 chars: https://eminenceorganics.com/us/blog/skincare/best-facial-cleanser-for-sensitive-skin.html
+[collect] extra sources: +3 readable page(s) -> 4 total (eminenceorganics.com, thegoodtrade.com, goodhousekeeping.com)
+[collect] llm request: 4 sources x 1625 chars, ~2982 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Lemon Grass Cleanser
+[collect] drop (only 1 sources): Stone Crop Gel Wash
+[collect] drop (only 1 sources): Calm Skin Chamomile Cleanser
+[collect] drop (only 1 sources): Tulsi & Snow Mushroom Cleansing Milk
+[collect] drop (only 1 sources): Ursa Major
+[collect] drop (only 1 sources): OSEA
 [collect] open web (tavily) -> 15 results
-[collect] browser fetch 180 chars: https://www.techgearlab.com/catalog/toaster-oven
-[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, eater.com)
+[collect] extra sources: +2 readable page(s) -> 6 total (independent.co.uk, thefiltery.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1066 chars, ~2671 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Breville Joule Smart Oven Air Fryer Pro
-[collect] drop (only 1 sources): Ninja Prestige Smart XL Toaster Oven
-[collect] only 2 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2972 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -378,23 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-toaster-ovens-2026 draft
-[collect] progress: guide 49 done (best-toaster-ovens-2026) | tried 49 | tavily keys alive 2/2
-[collect] topic: Top Wireless Earbuds Under $100 (2026)
-[collect] tavily -> 5 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/headphones/reviews/best/wireless-bluetooth-earbuds-under-100
-[collect] 5/5 source pages fetched
-[collect] llm request: 5 sources x 1289 chars, ~2963 in + 4000 out tokens (budget 7000)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 7 total (complyfoam.com, scarbir.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 7 sources x 909 chars, ~2950 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Soundcore P42i
-[collect] drop (only 1 sources): SoundPEATS H3
-[collect] drop (only 1 sources): OnePlus Buds 4
-[collect] drop (only 1 sources): Baseus Bowie MC2
-[collect] only 1 well-sourced products for tab under-100 -> staying todo
-[collect] progress: guide 50 done (best-wireless-earbuds-under-100-2026) | tried 50 | tavily keys alive 2/2
+[collect] done: best-facial-skincare-2026 draft
+[collect] progress: guide 14 done (best-facial-skincare-2026) | tried 14 | tavily keys alive 2/2
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,822 requested 2,220", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,220 requested 2,687", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,232 requested 2,176", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,273 requested 2,214", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,745 requested 2,680"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,937 requested 2,238", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,800 requested 2,354", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,074 requested 2,569", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,027 requested 2,364", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,728 requested 2,499"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 14 guide(s) built, 14 topic(s) tried

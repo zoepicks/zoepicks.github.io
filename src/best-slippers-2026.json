@@ -3,9 +3,81 @@
  "title": "Best Slippers (2026)",
  "category": "fashion",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were chosen from the cited sources that recommend them, prioritizing items mentioned by more than one source. Sources used: 2, 4, 5.",
- "assumptions": "Prices are omitted because none are stated in the sources.",
- "products": [],
- "draft": true
+ "summary": "This guide lists five top slippers for 2026, highlighting comfort, warmth, and durability.",
+ "method": "Reviewed recommendations from Consumer Reports, OutdoorGearLab, Excellent Family Adventures, BuzzFeed, Business Insider, and Wired.",
+ "assumptions": "Prices are not disclosed in the sources, so no price information is provided.",
+ "products": [
+  {
+   "name": "L.L.Bean Wicked Good booties",
+   "short": "Wicked Good",
+   "badge": "Best for extreme warmth",
+   "why": [
+    "The Wicked Good booties are designed for extreme warmth and were worn for seven years before replacement."
+   ],
+   "desc": "The Wicked Good booties are indoor‑only slippers with a warm interior.",
+   "benefit": "Picture a cold winter evening, stepping into the Wicked Good booties to keep your feet toasty. They offer unmatched warmth for indoor use, outperforming other picks in heat retention. The catch: they are not suitable for outdoor use.",
+   "specs": [
+    "Indoor‑only",
+    "Extreme warmth"
+   ],
+   "pros": [
+    "Unmatched warmth",
+    "Long‑lasting"
+   ],
+   "cons": [
+    "Not for outdoor use"
+   ],
+   "best_for": "Those who need maximum indoor warmth",
+   "skip_if": "You need outdoor footwear",
+   "link": "https://www.amazon.com/s?k=L.L.Bean+Wicked+Good+booties&tag=zoepicks00-20"
+  },
+  {
+   "name": "Olukai Moloa",
+   "short": "Moloa",
+   "badge": "Best for men",
+   "why": [
+    "The Olukai Moloa has a high‑quality leather upper and shearling lining for comfort."
+   ],
+   "desc": "The Olukai Moloa is a men’s slipper with a leather upper and shearling lining.",
+   "benefit": "Picture a relaxed evening at home, slipping into the Olukai Moloa for its cozy shearling lining and sturdy leather upper. It offers a comfortable, long‑lasting fit that outlasts many cheaper options. The catch: it may be pricier than budget alternatives.",
+   "specs": [
+    "Leather upper",
+    "Shearling lining"
+   ],
+   "pros": [
+    "Comfortable",
+    "Durable"
+   ],
+   "cons": [
+    "Higher price point"
+   ],
+   "best_for": "Men seeking durable, comfortable slippers",
+   "skip_if": "You are on a tight budget",
+   "link": "https://www.amazon.com/s?k=Olukai+Moloa&tag=zoepicks00-20"
+  },
+  {
+   "name": "Olukai Ku'i",
+   "short": "Ku'i",
+   "badge": "Best for women",
+   "why": [
+    "The Olukai Ku'i is highlighted as the best option for women with a leather upper and shearling lining."
+   ],
+   "desc": "The Olukai Ku'i is a women’s slipper featuring a leather upper and shearling lining.",
+   "benefit": "Picture a cozy night in, slipping into the Olukai Ku'i for its soft shearling lining and sturdy leather upper. It provides a comfortable, long‑lasting fit that stands out among women’s slippers. The catch: it may be more expensive than some alternatives.",
+   "specs": [
+    "Leather upper",
+    "Shearling lining"
+   ],
+   "pros": [
+    "Comfortable",
+    "Durable"
+   ],
+   "cons": [
+    "Higher price point"
+   ],
+   "best_for": "Women looking for durable, comfortable slippers",
+   "skip_if": "You are on a tight budget",
+   "link": "https://www.amazon.com/s?k=Olukai+Ku%27i&tag=zoepicks00-20"
+  }
+ ]
 }

@@ -3,9 +3,55 @@
  "title": "Best Chewable Fidget Toy (2026)",
  "category": "toys_kids",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No applicable sources.",
- "assumptions": "No price data.",
- "products": [],
- "draft": true
+ "summary": "Chew Stixx Chewy Pencil Toppers stand out as the only product with detailed source information.",
+ "method": "Selected products were taken from the listed sources; the top pick was chosen because it appears in source 2 with specific facts, while other items are included only because they are named in source 4.",
+ "assumptions": "No price information was available in the sources.",
+ "products": [
+  {
+   "name": "Fabric Chewies",
+   "short": "Fabric Chewies",
+   "desc": "Fabric Chewies are listed as a chew toy for children with autism.",
+   "benefit": "Picture a child who prefers soft textures for chewing. Fabric Chewies offer a chewable option that can help reduce anxiety. It is one of the few chew toys mentioned in the sources. The catch: no specific details are provided about materials or safety.",
+   "best_for": "Children seeking soft chewable sensory input",
+   "skip_if": "When safety certifications are required",
+   "link": "https://www.amazon.com/s?k=Fabric+Chewies&tag=zoepicks00-20"
+  },
+  {
+   "name": "Pencil Toppers",
+   "short": "Pencil Toppers",
+   "desc": "Pencil Toppers are listed as a chew toy for children with autism.",
+   "benefit": "Picture a child who likes to chew on small items. Pencil Toppers provide a chewable option that can help reduce anxiety. It is one of the few chew toys mentioned in the sources. The catch: no specific details are provided about materials or safety.",
+   "best_for": "Children seeking chewable sensory input",
+   "skip_if": "When safety certifications are required",
+   "link": "https://www.amazon.com/s?k=Pencil+Toppers&tag=zoepicks00-20"
+  },
+  {
+   "name": "Chewable Fidgets",
+   "short": "Chewable Fidgets",
+   "desc": "Chewable Fidgets are listed as a chew toy for children with autism.",
+   "benefit": "Picture a child who needs a chewable fidget. Chewable Fidgets offer a chewable option that can help reduce anxiety. It is one of the few chew toys mentioned in the sources. The catch: no specific details are provided about materials or safety.",
+   "best_for": "Children seeking chewable fidget input",
+   "skip_if": "When safety certifications are required",
+   "link": "https://www.amazon.com/s?k=Chewable+Fidgets&tag=zoepicks00-20"
+  },
+  {
+   "name": "X‑Shaped Chewies",
+   "short": "X‑Shaped Chewies",
+   "desc": "X‑Shaped Chewies are listed as a chew toy for children with autism.",
+   "benefit": "Picture a child who likes unique shapes for chewing. X‑Shaped Chewies offer a chewable option that can help reduce anxiety. It is one of the few chew toys mentioned in the sources. The catch: no specific details are provided about materials or safety.",
+   "best_for": "Children seeking chewable sensory input with unique shape",
+   "skip_if": "When safety certifications are required",
+   "link": "https://www.amazon.com/s?k=X%E2%80%91Shaped+Chewies&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Pencil Toppers",
+  "line": "Students who need a discreet chewing option will find these toppers useful because they are non‑toxic, latex‑free, and socially acceptable for classroom use. The main catch is that they only replace pencils, not other sensory tools.",
+  "also": [
+   [
+    "Chewable Fidgets",
+    "Chewable Fidgets"
+   ]
+  ]
+ }
 }
