@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-21T07:26:25.088041+00:00",
+ "generated_at": "2026-10-21T19:56:02.352994+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 178,
+  "pages": 188,
   "issue_counts": {
    "high": 1,
    "med": 0,
    "low": 21
   },
-  "avg_guide_words": 935,
+  "avg_guide_words": 957,
   "todo": [
    {
     "sev": "high",
@@ -30,45 +30,42 @@
     "count": 14,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
-     "/g/best-self-cleaning-litter-boxes-2026/",
-     "/g/best-makeup-primers-2026/",
-     "/g/best-playstation-5-2026/"
+     "/g/best-hiking-backpacks-2026/",
+     "/g/best-lego-sets-for-adults-2026/",
+     "/g/best-self-cleaning-litter-boxes-2026/"
     ],
-    "detail": "title 69 chars (best 25-65)"
+    "detail": "title 66 chars (best 25-65)"
    },
    {
     "sev": "low",
     "code": "desc_length",
-    "count": 4,
+    "count": 5,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
+     "/g/best-hiking-backpacks-2026/",
      "/g/best-monitors-for-mac-2026/",
-     "/g/best-game-controller-2026/",
-     "/g/best-stem-toys-2026/"
+     "/g/best-game-controller-2026/"
     ],
-    "detail": "description 59 chars (best 70-170)"
+    "detail": "description 68 chars (best 70-170)"
    },
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 3,
+    "count": 2,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-camping-tents-2026/",
-     "/g/best-usb-microphones-2026/",
-     "/g/best-espresso-machines-2026/"
+     "/g/best-stove-top-pressure-cooker-2026/",
+     "/g/best-pillows-2026/neck/"
     ],
-    "detail": "load 3.89s"
+    "detail": "load 3.1s"
    }
   ],
-  "new_issue_types_since_last_brief": [
-   "desc_length"
-  ],
+  "new_issue_types_since_last_brief": [],
   "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 172,
+   "guides_live": 182,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -76,33 +73,33 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-21T01:24:11.148951+00:00",
+    "t": "2026-10-21T13:30:46.088074+00:00",
     "indexnow": {
-     "submitted": 9,
+     "submitted": 40,
      "http": 200
     }
    },
    {
-    "t": "2026-10-21T04:25:12.456292+00:00",
+    "t": "2026-10-21T16:52:09.528671+00:00",
     "indexnow": {
-     "submitted": 15,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-21T07:26:19.254191+00:00",
+    "t": "2026-10-21T19:55:55.171901+00:00",
     "indexnow": {
-     "submitted": 32,
+     "submitted": 16,
      "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 2,
-  "today_views": 2,
-  "total_visitors": 99,
-  "total_views": 771,
+  "today_visitors": 4,
+  "today_views": 41,
+  "total_visitors": 101,
+  "total_views": 810,
   "since": "2026-10-16",
   "last7": [
    {
@@ -143,21 +140,21 @@
    },
    {
     "day": "2026-10-21",
-    "visitors": 2,
-    "views": 2,
+    "visitors": 4,
+    "views": 41,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 93,
-   "warn": 2,
+   "info": 27,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 354,
-   "warn": 52,
+   "info": 288,
+   "warn": 51,
    "error": 0
   },
   "modules_with_errors_7d": [
@@ -169,22 +166,35 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 15
+    "warnings": 14
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 2,
-    "failed": 0,
+    "total": 13,
+    "ok": 11,
+    "failed": 2,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 100,
+      "at": "2026-10-21T15:18:05Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39624371011"
+     },
+     {
+      "run": 99,
+      "at": "2026-10-21T14:48:05Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39620038609"
+     }
+    ]
    },
    "last7d": {
-    "total": 95,
-    "ok": 52,
-    "failed": 23,
+    "total": 106,
+    "ok": 61,
+    "failed": 25,
     "cancelled": 20,
     "running": 0,
     "failed_runs": [
@@ -253,8 +263,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 73,
-    "ok": 73,
+    "total": 97,
+    "ok": 97,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -321,103 +331,103 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 172,
+  "live_guides": 182,
   "missing_topics_by_status": {
-   "open": 114,
-   "built": 46,
-   "covered": 27,
-   "queued": 13
+   "open": 123,
+   "covered": 26,
+   "queued": 12,
+   "built": 39
   },
   "missing_new": {
-   "today": 0,
+   "today": 20,
    "d7": 200,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "black hoodie",
+    "topic": "cute pillow",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792548303",
-    "last_at": "1792548303"
+    "first_at": "1792612315",
+    "last_at": "1792612315"
    },
    {
-    "topic": "sneakers",
+    "topic": "pet pillow",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792610705",
+    "last_at": "1792610705"
+   },
+   {
+    "topic": "open back headphones",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792610528",
+    "last_at": "1792610528"
+   },
+   {
+    "topic": "drone",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792547568",
-    "last_at": "1792547857"
+    "first_at": "1792357488",
+    "last_at": "1792603349"
    },
    {
-    "topic": "electric scooter",
+    "topic": "flashlight",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792546756",
-    "last_at": "1792546756"
+    "first_at": "1792602113",
+    "last_at": "1792602113"
    },
    {
-    "topic": "vrr monitor",
+    "topic": "sling bag",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792541870",
-    "last_at": "1792541870"
+    "first_at": "1792602035",
+    "last_at": "1792602035"
    },
    {
-    "topic": "north face puffer jacket",
+    "topic": "giant bean bag",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792540910",
-    "last_at": "1792540910"
+    "first_at": "1792599892",
+    "last_at": "1792599892"
    },
    {
-    "topic": "wedge sneakers",
+    "topic": "entertainment center",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792538992",
-    "last_at": "1792538992"
+    "first_at": "1792599145",
+    "last_at": "1792599145"
    },
    {
-    "topic": "video game controller",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792538911",
-    "last_at": "1792538911"
-   },
-   {
-    "topic": "knife set",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792536396",
-    "last_at": "1792536396"
-   },
-   {
-    "topic": "over-bed desk",
+    "topic": "skincare product",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792534529",
-    "last_at": "1792534665"
+    "first_at": "1792598935",
+    "last_at": "1792599121"
    },
    {
-    "topic": "office chair",
+    "topic": "work boots",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792369641",
-    "last_at": "1792534399"
+    "first_at": "1792598597",
+    "last_at": "1792598755"
    }
   ]
  },
@@ -425,16 +435,16 @@
   "ok": true,
   "error": null,
   "indexed": 1,
-  "inspected": 138,
+  "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 137
+   "URL is unknown to Google": 149
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 137,
-    "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
+    "pages": 149,
+    "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
    }
   ],
   "not_indexed": [
@@ -464,120 +474,120 @@
     "crawled": ""
    },
    {
-    "u": "/g/best-washing-machine-2026/",
+    "u": "/g/best-lego-sets-for-adults-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-steam-mop-2026/",
+    "u": "/g/best-cat-litter-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-stove-top-pressure-cooker-2026/",
+    "u": "/g/best-shampoo-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-face-wash-2026/",
+    "u": "/g/best-hair-straighteners-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-nail-polish-2026/",
+    "u": "/g/best-car-vacuums-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-standing-desks-2026/",
+    "u": "/g/best-toaster-ovens-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-smart-displays-2026/",
+    "u": "/g/best-vacuums-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-mesh-wi-fi-systems-2026/",
+    "u": "/g/best-monitors-for-mac-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-pc-controllers-2026/",
+    "u": "/g/best-lawn-mowers-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-projectors-2026/",
+    "u": "/g/best-sunscreen-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-webcams-2026/",
+    "u": "/g/best-game-controller-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-compact-phones-2026/",
+    "u": "/g/best-iphone-camera-lens-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-tote-bags-2026/",
+    "u": "/g/best-chewable-fidget-toy-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-nintendo-switch-skin-2026/",
+    "u": "/g/best-slippers-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-oled-monitors-2026/",
+    "u": "/g/best-stanley-lunch-box-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-ultrawide-monitors-2026/",
+    "u": "/g/best-sweatpants-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-4k-monitors-2026/",
+    "u": "/g/best-nintendo-switch-lite-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-makeup-primers-2026/",
+    "u": "/g/best-surround-sound-system-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-fish-tanks-2026/",
+    "u": "/g/best-usb-c-charger-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
    {
-    "u": "/g/best-wireless-mouse-2026/",
+    "u": "/g/best-water-filter-pitchers-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    }
   ],
   "request_list": [
-   "https://zoepicks.github.io/g/best-washing-machine-2026/",
-   "https://zoepicks.github.io/g/best-steam-mop-2026/",
-   "https://zoepicks.github.io/g/best-stove-top-pressure-cooker-2026/",
-   "https://zoepicks.github.io/g/best-face-wash-2026/",
-   "https://zoepicks.github.io/g/best-nail-polish-2026/",
-   "https://zoepicks.github.io/g/best-standing-desks-2026/",
-   "https://zoepicks.github.io/g/best-smart-displays-2026/",
-   "https://zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/",
-   "https://zoepicks.github.io/g/best-pc-controllers-2026/",
-   "https://zoepicks.github.io/g/best-projectors-2026/"
+   "https://zoepicks.github.io/g/best-lego-sets-for-adults-2026/",
+   "https://zoepicks.github.io/g/best-cat-litter-2026/",
+   "https://zoepicks.github.io/g/best-shampoo-2026/",
+   "https://zoepicks.github.io/g/best-hair-straighteners-2026/",
+   "https://zoepicks.github.io/g/best-car-vacuums-2026/",
+   "https://zoepicks.github.io/g/best-toaster-ovens-2026/",
+   "https://zoepicks.github.io/g/best-vacuums-2026/",
+   "https://zoepicks.github.io/g/best-monitors-for-mac-2026/",
+   "https://zoepicks.github.io/g/best-lawn-mowers-2026/",
+   "https://zoepicks.github.io/g/best-sunscreen-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-20T13:02",
+   "last_submitted": "2026-10-20T16:19",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -585,7 +595,7 @@
    "submitted": 0,
    "indexed": 0
   },
-  "sitemap_submit": "pending: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke",
+  "sitemap_submit": "pending: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check ",
   "perf": {
    "clicks_28d": 0,
    "impressions_28d": 0,
@@ -597,6 +607,16 @@
     },
     {
      "d": "2026-10-17",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-18",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-19",
      "clicks": 0,
      "impr": 0
     }
@@ -629,6 +649,13 @@
     "of": 138,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-21",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -636,7 +663,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-20T16:19",
+    "last_submitted": "2026-10-21T16:52",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -647,9 +674,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 178,
+    "urls": 188,
     "other_host_urls": 0,
-    "live_pages_crawled": 178
+    "live_pages_crawled": 188
    },
    "permission": "siteOwner",
    "resubmitted": null,
@@ -661,8 +688,8 @@
  },
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
-  "Google ne 138 me se 137 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (137 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot dobara submit karke har 3 ghante check karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
+  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
