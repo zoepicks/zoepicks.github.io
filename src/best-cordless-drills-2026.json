@@ -33,7 +33,16 @@
    ],
    "best_for": "Contractors and serious DIYers who need power and endurance",
    "skip_if": "You only need a light, inexpensive drill for occasional use",
-   "link": "https://www.amazon.com/s?k=Milwaukee+M18+Fuel+1%2F2%22+Drill+Driver&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Milwaukee+M18+Fuel+1%2F2%22+Drill+Driver&tag=zoepicks00-20",
+   "asin": "B0BB854SJ8",
+   "image": "https://m.media-amazon.com/images/I/51Bl8lDvqCL.jpg",
+   "image_asin": "B0BB854SJ8",
+   "amazon_price": "$169.00",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "Milwaukee Electric - M18 Fuel. 1/2 Hammer Drill/Driver",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 1398,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "DeWalt 20V MAX XR Brushless 1-Inch Rotary Hammer",
@@ -61,7 +70,16 @@
    ],
    "best_for": "Users who need to drill through concrete or masonry",
    "skip_if": "You only need a standard drill for wood or metal",
-   "link": "https://www.amazon.com/s?k=DeWalt+20V+MAX+XR+Brushless+1-Inch+Rotary+Hammer&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DeWalt+20V+MAX+XR+Brushless+1-Inch+Rotary+Hammer&tag=zoepicks00-20",
+   "asin": "B01M4LXUD2",
+   "image": "https://m.media-amazon.com/images/I/61+p83p1tpL.jpg",
+   "image_asin": "B01M4LXUD2",
+   "amazon_price": "$283.48",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "DEWALT DCH133M2 20V Max XR Brushless 1” D-Handle Rotary Hammer Kit",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 587,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Bosch 18V Compact Brushless Drill",
@@ -71,7 +89,10 @@
     "TechGearLab highlights the Bosch 18V Compact Brushless as a good option for smaller projects, noting its impressive power for its size but shorter battery life compared to more expensive options."
    ],
    "desc": "The Bosch 18V Compact Brushless is a cordless drill with an 18V battery, 1/2\" chuck, and brushless motor. It is compact and lightweight, suitable for tight spaces.",
-   "link": "https://www.amazon.com/s?k=Bosch+18V+Compact+Brushless+Drill&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Bosch+18V+Compact+Brushless+Drill&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
