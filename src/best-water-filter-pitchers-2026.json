@@ -33,7 +33,10 @@
    ],
    "best_for": "Families prioritizing maximum contaminant removal",
    "skip_if": "You need quick filtering or a lower filter cost",
-   "link": "https://www.amazon.com/s?k=Culligan+ZeroWater+10-Cup+Pitcher&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Culligan+ZeroWater+10-Cup+Pitcher&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Clearly Filtered Water Pitcher",
@@ -61,7 +64,10 @@
    ],
    "best_for": "Homeowners needing comprehensive contaminant removal",
    "skip_if": "You need UV‑C cleaning or alkaline water",
-   "link": "https://www.amazon.com/s?k=Clearly+Filtered+Water+Pitcher&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Clearly+Filtered+Water+Pitcher&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Epic Pure Water Pitcher",
@@ -89,7 +95,13 @@
    ],
    "best_for": "Value seekers needing long filter life",
    "skip_if": "You need quick filtering or UV‑C cleaning",
-   "link": "https://www.amazon.com/s?k=Epic+Pure+Water+Pitcher&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Epic+Pure+Water+Pitcher&tag=zoepicks00-20",
+   "asin": "B0GFGSQ2M8",
+   "image": "https://m.media-amazon.com/images/I/41qy5imweYL.jpg",
+   "image_asin": "B0GFGSQ2M8",
+   "amazon_rating": "4",
+   "amazon_reviews": 4,
+   "amazon_rating_asof": "Oct 20, 2026"
   }
  ],
  "verdict": {
