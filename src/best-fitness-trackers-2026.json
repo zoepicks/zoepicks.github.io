@@ -35,7 +35,10 @@
    ],
    "best_for": "Active users who want a full‑featured band with a display",
    "skip_if": "You prefer a completely screenless tracker",
-   "link": "https://www.amazon.com/s?k=Fitbit+Charge+6&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Fitbit+Charge+6&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Oura Ring 5",
@@ -64,7 +67,16 @@
    ],
    "best_for": "Users who want detailed sleep and health data in a discreet ring",
    "skip_if": "You need a display or GPS",
-   "link": "https://www.amazon.com/s?k=Oura+Ring%C2%A05&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Oura+Ring%C2%A05&tag=zoepicks00-20",
+   "asin": "B0GRK1N94H",
+   "image": "https://m.media-amazon.com/images/I/61aeK-6v1zL.jpg",
+   "image_asin": "B0GRK1N94H",
+   "amazon_price": "$399.00",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "OURA Ring 5 Smart Ring - Silver - Size 8 - Fitness & Sleep Tracker | World’s Smallest Smar",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 2439,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Fitbit Air",
@@ -94,7 +106,13 @@
    ],
    "best_for": "Budget users who want basic tracking and AI coaching",
    "skip_if": "You need a display or GPS",
-   "link": "https://www.amazon.com/s?k=Fitbit+Air&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Fitbit+Air&tag=zoepicks00-20",
+   "asin": "B0GTMTZF3V",
+   "image": "https://m.media-amazon.com/images/I/71dV40OwhgL.jpg",
+   "image_asin": "B0GTMTZF3V",
+   "amazon_price": "$99.99",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "Google Fitbit Air - Screenless Activity Tracker, Obsidian | Fitness, heart rate, & sleep t"
   }
  ],
  "verdict": {
