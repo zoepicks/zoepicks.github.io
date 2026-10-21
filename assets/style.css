@@ -518,3 +518,16 @@ nav a.so:active{transform:scale(.96)}
 /* calm intro for evergreen guides */
 .intro.intro-plain p{font-size:14.5px;font-weight:500;line-height:1.55;margin:8px 0;padding:10px 12px;border-left:3px solid var(--a);background:rgba(108,92,231,.06);border-radius:10px}
 .intro.intro-plain p:first-child{font-size:15px;font-weight:600}
+
+/* pol9: clear separation between page sections (picks / tips / FAQ / method) */
+main.wrap>h2:not(.cmp){display:flex;align-items:center;gap:10px;margin:40px 0 14px;padding-top:24px;border-top:2px solid var(--line);font-size:20px;line-height:1.25;letter-spacing:-.02em}
+main.wrap>h2:not(.cmp):before{content:"";flex:0 0 6px;height:22px;border-radius:3px;background:linear-gradient(var(--a),var(--b))}
+main.wrap>h2.sec-picks{margin:26px 0 6px;padding-top:0;border-top:0}
+h2.cmp{margin:26px 0 8px;font-size:16px}
+.vr{margin-top:22px}
+.verdict{margin-bottom:18px}
+.card{margin:20px 0;padding:14px 16px;box-shadow:0 1px 2px rgba(15,18,34,.05),0 8px 20px rgba(15,18,34,.06)}
+.card .rank{font-size:12px;padding:4px 11px;margin-bottom:10px}
+.tips{margin-top:0}.tips li{margin:10px 0}
+.faq{margin:10px 0}
+main.wrap>h2:last-of-type+p.sum{margin-bottom:28px}
