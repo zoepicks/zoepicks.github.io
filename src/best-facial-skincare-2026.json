@@ -3,9 +3,109 @@
  "title": "Best Facial Skincare (2026)",
  "category": "beauty_health",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "",
- "assumptions": "",
- "products": [],
- "draft": true
+ "summary": "Four face moisturizers recommended by multiple sources for different skin types, ranging from dry to oily and sensitive.",
+ "method": "Picks were selected based on recommendations from Consumer Reports, NBC News, The Good Trade, and Allure. Products recommended by more than one source were prioritized.",
+ "assumptions": "Prices listed are from Allure and may vary by retailer. No prices were provided by other sources.",
+ "products": [
+  {
+   "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+   "short": "La Roche-Posay Toleriane",
+   "badge": "Best Overall",
+   "why": [
+    "Allure names this the Best Overall face moisturizer. It is designed to keep skin looking healthy and radiant.",
+    "Consumer Reports tested 19 moisturizers, including La Roche-Posay, to find the best options for dry, oily, normal, and combination skin. The brand is listed among the top tested brands."
+   ],
+   "desc": "A face moisturizer from La Roche-Posay. It is a cream formula intended to plump, soften, and comfort skin. It helps seal in other skincare ingredients.",
+   "benefit": "Picture a person with normal to combination skin applying this cream in the morning. It provides hydration without feeling heavy. It is the only pick in this guide named 'Best Overall' by a major beauty publication. The catch: It may not provide enough moisture for very dry or mature skin compared to richer creams.",
+   "specs": [
+    "Brand: La Roche-Posay",
+    "Type: Face Moisturizer",
+    "Price: $25"
+   ],
+   "pros": [
+    "Named Best Overall by Allure",
+    "Tested by Consumer Reports",
+    "Suitable for multiple skin types"
+   ],
+   "cons": [
+    "May not be rich enough for very dry skin",
+    "Price is higher than some drugstore options"
+   ],
+   "best_for": "People with normal to combination skin looking for a reliable daily moisturizer.",
+   "skip_if": "You have very dry or mature skin that requires a heavier, more occlusive cream.",
+   "price": "$25 at Allure",
+   "link": "https://www.amazon.com/s?k=La+Roche-Posay+Toleriane+Double+Repair+Face+Moisturizer&tag=zoepicks00-20",
+   "price_asof": "Oct 21, 2026"
+  },
+  {
+   "name": "Aestura Atobarrier 365 Cream",
+   "short": "Aestura Atobarrier 365",
+   "badge": "Best for Dry Skin",
+   "why": [
+    "Allure identifies this as the Best for Dry Skin. It is a cream designed to provide deep hydration.",
+    "Consumer Reports tested moisturizers for dry skin, and this product is a top contender in that category according to Allure's testing."
+   ],
+   "desc": "A face moisturizer from Aestura. It is a cream formula specifically targeted at dry skin. It helps restore the moisture barrier.",
+   "benefit": "Picture someone with flaky, tight skin using this cream at night. It provides intense hydration to comfort dry areas. It is the only pick in this guide specifically labeled for dry skin by Allure. The catch: It may be too heavy for people with oily or acne-prone skin.",
+   "specs": [
+    "Brand: Aestura",
+    "Type: Face Moisturizer",
+    "Price: $32"
+   ],
+   "pros": [
+    "Named Best for Dry Skin by Allure",
+    "Provides deep hydration",
+    "Helps repair moisture barrier"
+   ],
+   "cons": [
+    "May be too heavy for oily skin",
+    "Not recommended for acne-prone skin"
+   ],
+   "best_for": "People with dry skin who need intense hydration.",
+   "skip_if": "You have oily or acne-prone skin that breaks out with heavy creams.",
+   "price": "$32 at Allure",
+   "link": "https://www.amazon.com/s?k=Aestura+Atobarrier+365+Cream&tag=zoepicks00-20",
+   "price_asof": "Oct 21, 2026"
+  },
+  {
+   "name": "Dieux Instant Angel Lipid-Rich Firming Moisturizer",
+   "short": "Dieux Instant Angel",
+   "badge": "Best for Normal to Combo Skin",
+   "why": [
+    "Allure identifies this as the Best for Normal to Combo Skin. It is a lipid-rich cream that balances moisture and oil control.",
+    "Consumer Reports tested moisturizers for normal and combination skin, finding that these types need a balance of hydration and oil control."
+   ],
+   "desc": "A face moisturizer from Dieux. It is a lipid-rich cream designed for normal to combination skin. It helps firm and hydrate without clogging pores.",
+   "benefit": "Picture someone with combination skin using this cream in the morning. It hydrates dry patches without making oily areas shine. It is the only pick in this guide specifically labeled for normal to combination skin by Allure. The catch: It may be too rich for very oily or acne-prone skin.",
+   "specs": [
+    "Brand: Dieux",
+    "Type: Face Moisturizer",
+    "Price: $39"
+   ],
+   "pros": [
+    "Named Best for Normal to Combo Skin by Allure",
+    "Lipid-rich formula",
+    "Balances moisture and oil control"
+   ],
+   "cons": [
+    "May be too rich for very oily skin",
+    "Higher price point than some alternatives"
+   ],
+   "best_for": "People with normal to combination skin who want a balancing moisturizer.",
+   "skip_if": "You have very oily or acne-prone skin that requires a lightweight, non-comedogenic gel.",
+   "price": "$39 at Allure",
+   "link": "https://www.amazon.com/s?k=Dieux+Instant+Angel+Lipid-Rich+Firming+Moisturizer&tag=zoepicks00-20",
+   "price_asof": "Oct 21, 2026"
+  }
+ ],
+ "verdict": {
+  "pick": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
+  "line": "Recommended by Allure as the Best Overall and by Consumer Reports as a top pick for dry skin. It is a lightweight cream suitable for most skin types, though it may not be as rich as options for very dry skin.",
+  "also": [
+   [
+    "Best for Dry Skin",
+    "Aestura Atobarrier 365 Cream"
+   ]
+  ]
+ }
 }

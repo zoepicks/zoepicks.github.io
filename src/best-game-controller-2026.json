@@ -75,10 +75,82 @@
    "best_for": "Competitive PS5 players needing extra buttons",
    "skip_if": "You prefer a lightweight controller",
    "link": "https://www.amazon.com/s?k=PlayStation+DualSense+Edge&tag=zoepicks00-20"
+  },
+  {
+   "name": "8BitDo Ultimate Bluetooth Controller",
+   "short": "8BitDo Ultimate",
+   "badge": "Best Overall",
+   "why": [
+    "This controller works on Windows, macOS, Nintendo Switch, Android, and iOS. It features a lightweight and comfortable design with hall-effect thumbsticks for long-term reliability.",
+    "It includes full remapping and customization support via the 8BitDo app. The design borrows from both Xbox and Nintendo Switch Pro gamepads to create a durable unit."
+   ],
+   "desc": "A multi-platform controller with hall-effect thumbsticks and a lightweight design. It supports Windows, macOS, Android, iOS, and Nintendo Switch. It includes a charging dock with a 2.4GHz adapter.",
+   "benefit": "Picture a gamer switching from a Nintendo Switch session to a PC game without changing controllers. This device handles both platforms, plus mobile and Mac, making it the only pick here with such wide OS support. It beats other picks by offering hall-effect sticks and full app-based remapping across more devices. The catch: Bluetooth is buggy on Windows, and the Nintendo Switch button layout can be confusing.",
+   "specs": [
+    "Works on Windows, macOS, Nintendo Switch, Android, iOS",
+    "Hall-effect thumbsticks",
+    "Includes charging dock with 2.4GHz adapter",
+    "Full remapping and customization support in 8BitDo app"
+   ],
+   "pros": [
+    "Lightweight and comfortable design",
+    "Works on Windows, Android, iOS, and Nintendo Switch",
+    "Hall-effect thumbsticks for long-term reliability",
+    "Full remapping and customization support"
+   ],
+   "cons": [
+    "Nintendo Switch button layout can be confusing",
+    "Bluetooth is buggy on Windows",
+    "More expensive than Xbox controller"
+   ],
+   "best_for": "Switch owners who also want to game on a PC or mobile devices.",
+   "skip_if": "You primarily use Windows and cannot tolerate buggy Bluetooth connections.",
+   "link": "https://www.amazon.com/s?k=8BitDo+Ultimate+Bluetooth+Controller&tag=zoepicks00-20",
+   "tabs": [
+    "bluetooth"
+   ]
+  },
+  {
+   "name": "8BitDo Ultimate 2C",
+   "short": "8BitDo Ultimate 2C",
+   "badge": "Best Budget Premium",
+   "why": [
+    "This wireless controller is described as gorgeous and premium-feeling. It is considered very close to perfect for its budget cost.",
+    "It features premium-feeling buttons, Hall effect sticks, and Hall effect triggers."
+   ],
+   "desc": "A wireless controller with a premium feel and design. It includes Hall effect sticks and Hall effect triggers. It is positioned as a budget option with high-quality components.",
+   "benefit": "Picture a player wanting high-end stick technology without paying top-tier prices. This controller offers Hall effect sticks and triggers, which are rare in the budget segment. It beats the 8BitDo Ultimate by being a budget-focused option with similar premium components. The catch: The source text is cut off, so specific drawbacks are not fully detailed in the provided excerpt, though it is labeled a budget controller.",
+   "specs": [
+    "Wireless controller",
+    "Premium-feeling buttons",
+    "Hall effect sticks",
+    "Hall effect triggers"
+   ],
+   "pros": [
+    "Gorgeous and premium-feeling design",
+    "Premium-feeling buttons",
+    "Hall effect sticks",
+    "Hall effect triggers"
+   ],
+   "cons": [
+    "Budget cost positioning may imply fewer features than top-tier models"
+   ],
+   "best_for": "Buyers wanting premium stick technology at a lower price point.",
+   "skip_if": "You need specific multi-platform compatibility details not listed in the excerpt.",
+   "link": "https://www.amazon.com/s?k=8BitDo+Ultimate+2C&tag=zoepicks00-20",
+   "tabs": [
+    "bluetooth"
+   ]
   }
  ],
  "verdict": {
   "pick": "Xbox Series X controller",
   "line": "Picture a Windows gamer who wants instant, reliable play without extra setup. The Xbox Series X controller works natively with Steam and Microsoft Game Pass, giving smooth, lag‑free input. Its main catch is that it lacks the advanced haptic features of newer PlayStation options."
- }
+ },
+ "tabs": [
+  {
+   "key": "bluetooth",
+   "label": "Bluetooth"
+  }
+ ]
 }
