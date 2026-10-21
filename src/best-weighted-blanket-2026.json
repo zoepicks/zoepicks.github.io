@@ -95,9 +95,15 @@
    "best_for": "People who want a premium, luxurious weighted blanket",
    "skip_if": "You are on a tight budget",
    "link": "https://www.amazon.com/s?k=Bearaby&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0C1FDLVBQ",
+   "image": "https://m.media-amazon.com/images/I/61Vfq0+VvzL.jpg",
+   "image_asin": "B0C1FDLVBQ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 4,
+   "amazon_rating_asof": "Oct 21, 2026"
   },
   {
    "name": "YnM Weighted Blanket",
@@ -130,7 +136,10 @@
    "image_asin": "B0D9SQXS51",
    "amazon_price": "$269.99",
    "amazon_price_asof": "Oct 20, 2026",
-   "amazon_listing": "YnM Cotton Weighted Blanket, Handmade Chunky Knitted Design, Soft and Cozy, Temperature Re"
+   "amazon_listing": "YnM Cotton Weighted Blanket, Handmade Chunky Knitted Design, Soft and Cozy, Temperature Re",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 18,
+   "amazon_rating_asof": "Oct 21, 2026"
   }
  ],
  "verdict": {
