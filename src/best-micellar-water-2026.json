@@ -33,7 +33,10 @@
    "skip_if": "You need a heavy‑hydrating formula",
    "price": "$26.95 CAD /500ml at retailer",
    "link": "https://www.amazon.com/s?k=Bioderma+Sensibio+H2O+Micellar+Water&tag=zoepicks00-20",
-   "price_asof": "Oct 20, 2026"
+   "price_asof": "Oct 20, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "La Roche-Posay Micellar Water Ultra",
@@ -56,7 +59,10 @@
    ],
    "best_for": "Dry‑skin individuals needing gentle cleansing",
    "skip_if": "You have oily or very sensitive skin",
-   "link": "https://www.amazon.com/s?k=La+Roche-Posay+Micellar+Water+Ultra&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=La+Roche-Posay+Micellar+Water+Ultra&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Garnier SkinActive Micellar Cleansing Water",
@@ -79,7 +85,10 @@
    ],
    "best_for": "Budget‑conscious shoppers seeking reliable cleansing",
    "skip_if": "You prefer luxury or highly specialized formulas",
-   "link": "https://www.amazon.com/s?k=Garnier+SkinActive+Micellar+Cleansing+Water&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Garnier+SkinActive+Micellar+Cleansing+Water&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
