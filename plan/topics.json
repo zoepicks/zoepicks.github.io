@@ -235,7 +235,7 @@
   "slug": "best-robot-vacuums-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 79,
   "parent": "best-vacuums-2026",
   "tab": "robot",
@@ -246,7 +246,7 @@
   "slug": "best-cordless-stick-vacuums-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 80,
   "parent": "best-vacuums-2026",
   "tab": "stick",
@@ -320,7 +320,8 @@
   "priority": 81,
   "parent": "best-vacuums-2026",
   "tab": "pet-hair",
-  "tab_label": "Pet hair"
+  "tab_label": "Pet hair",
+  "last_try": "Oct 21, 2026"
  },
  {
   "title": "Top TVs: 4K & OLED for Every Budget (2026)",
@@ -348,7 +349,7 @@
   "high_ticket": true,
   "status": "todo",
   "priority": 100,
-  "last_try": "Oct 20, 2026"
+  "last_try": "Oct 21, 2026"
  },
  {
   "title": "Top Soundbars That Fix Weak TV Sound (2026)",
@@ -440,7 +441,7 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 90,
-  "last_try": "Oct 20, 2026"
+  "last_try": "Oct 21, 2026"
  },
  {
   "title": "Top Smartwatches for iPhone & Android (2026)",
@@ -1463,7 +1464,7 @@
   "slug": "best-monitors-for-mac-2026",
   "category": "monitors",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 69,
   "last_try": "Oct 21, 2026"
  },
@@ -1506,7 +1507,7 @@
   "slug": "best-wireless-earbuds-under-100-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 88,
   "parent": "best-wireless-earbuds-2026",
   "tab": "under-100",
@@ -1743,7 +1744,7 @@
   "slug": "best-lawn-mowers-2026",
   "category": "tools_auto",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 45,
   "last_try": "Oct 21, 2026"
  },
@@ -2014,7 +2015,7 @@
   "slug": "best-vacuums-2026",
   "category": "home_kitchen",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 79,
   "last_try": "Oct 21, 2026"
  },
@@ -2130,7 +2131,7 @@
   "slug": "best-iphone-camera-lens-2026",
   "category": "mobiles",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 21, 2026"
@@ -2213,7 +2214,7 @@
   "slug": "best-game-controller-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 21, 2026"
@@ -2320,7 +2321,8 @@
   "source": "buyer-leads",
   "parent": "best-game-controller-2026",
   "tab": "bluetooth",
-  "tab_label": "Bluetooth"
+  "tab_label": "Bluetooth",
+  "last_try": "Oct 21, 2026"
  },
  {
   "title": "Best Street Photography Camera (2026)",
@@ -2422,7 +2424,7 @@
   "slug": "best-used-laptop-2026",
   "category": "laptops",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-laptops-under-1000-2026",
@@ -2445,7 +2447,7 @@
   "slug": "best-switch-charger-2026",
   "category": "accessories",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-laptop-charger-2026",
@@ -2503,7 +2505,7 @@
   "slug": "best-sunscreen-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 21, 2026"

@@ -3,9 +3,104 @@
  "title": "Best Sunscreen (2026)",
  "category": "beauty_health",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selections were made from Consumer Reports, CNET, Treeline Review, Camille Styles, and Nontoxic Lab, prioritizing products cited by more than one source and noting their key attributes.",
+ "summary": "The guide highlights five face sunscreens that consistently appear across multiple reviews, with EltaMD UV Clear topping the list for its broad‑spectrum protection and lightweight feel.",
+ "method": "Selected products were chosen from Consumer Reports, CNET, Treeline Review, and Camille Styles, prioritizing those mentioned by more than one source and noting their highlighted strengths.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
- "products": [],
- "draft": true
+ "products": [
+  {
+   "name": "Supergoop! Unseen Sunscreen SPF 40",
+   "short": "Supergoop Unseen",
+   "badge": "Best for all skin tones",
+   "why": [
+    "CNET lists it as the best facial sunscreen for all skin tones.",
+    "It is fragrance‑free and has no white cast."
+   ],
+   "desc": "Supergoop Unseen Sunscreen is a fragrance‑free, no‑white‑cast formula that works for all skin tones.",
+   "benefit": "Picture a makeup artist who needs a sunscreen that won’t interfere with foundation. Supergoop Unseen provides a clear, invisible finish and broad‑spectrum protection, making it easier to layer under makeup. It is the only product in this guide that is specifically noted for working on all skin tones. The catch: it is not as hydrating as other formulas.",
+   "specs": [
+    "SPF 40",
+    "Broad‑spectrum",
+    "Fragrance‑free",
+    "No white cast",
+    "Works for all skin tones"
+   ],
+   "pros": [
+    "No white cast",
+    "Works for all skin tones",
+    "Fragrance‑free",
+    "Invisible finish"
+   ],
+   "cons": [
+    "Not as hydrating",
+    "No tint"
+   ],
+   "best_for": "All skin tones",
+   "skip_if": "Needs extra hydration",
+   "link": "https://www.amazon.com/s?k=Supergoop%21+Unseen+Sunscreen+SPF+40&tag=zoepicks00-20"
+  },
+  {
+   "name": "Neutrogena Ultra Sheer Face Liquid Mineral Sunscreen SPF 70",
+   "short": "Neutrogena Ultra Sheer",
+   "badge": "Best drugstore option",
+   "why": [
+    "CNET lists it as the best drugstore facial sunscreen under $20.",
+    "It contains vitamin E and is lightweight."
+   ],
+   "desc": "Neutrogena Ultra Sheer is a lightweight, vitamin‑E‑infused mineral sunscreen with SPF 70 and no white cast.",
+   "benefit": "Picture a college student on a budget who needs a high‑SPF sunscreen that feels light. Neutrogena Ultra Sheer offers SPF 70, is fragrance‑free, and stays lightweight, making it a practical choice for daily use. It stands out in this guide for its high SPF and affordability. The catch: it does not contain any hydrating ingredients.",
+   "specs": [
+    "SPF 70",
+    "Broad‑spectrum",
+    "Fragrance‑free",
+    "Lightweight",
+    "No white cast",
+    "Contains vitamin E"
+   ],
+   "pros": [
+    "High SPF",
+    "Affordable",
+    "Lightweight",
+    "Fragrance‑free",
+    "Vitamin E"
+   ],
+   "cons": [
+    "No hydration",
+    "Not tinted"
+   ],
+   "best_for": "Budget‑conscious users",
+   "skip_if": "Requires extra hydration",
+   "link": "https://www.amazon.com/s?k=Neutrogena+Ultra+Sheer+Face+Liquid+Mineral+Sunscreen+SPF+70&tag=zoepicks00-20"
+  },
+  {
+   "name": "Coola Classic Face Sunscreen SPF 50",
+   "short": "Coola Classic",
+   "badge": "Best mineral formula",
+   "why": [
+    "Treeline Review names it the top pick and best overall for face sunscreens.",
+    "It is lightweight and offers reliable performance."
+   ],
+   "desc": "Coola Classic Face Sunscreen is a lightweight mineral sunscreen with SPF 50 that provides reliable broad‑spectrum protection.",
+   "benefit": "Picture a traveler who needs a sunscreen that stays comfortable in hot climates. Coola Classic delivers SPF 50, is lightweight, and offers reliable performance across the year. It is the only mineral formula highlighted as best overall in this guide. The catch: it may leave a slight white cast on very dark skin tones.",
+   "specs": [
+    "SPF 50",
+    "Broad‑spectrum",
+    "Mineral (zinc oxide, titanium dioxide)",
+    "Lightweight",
+    "No fragrance"
+   ],
+   "pros": [
+    "Mineral formula",
+    "Lightweight",
+    "Broad‑spectrum",
+    "No fragrance"
+   ],
+   "cons": [
+    "May leave white cast on dark skin",
+    "Not tinted"
+   ],
+   "best_for": "Travelers and those preferring mineral sunscreens",
+   "skip_if": "Sensitive to mineral ingredients",
+   "link": "https://www.amazon.com/s?k=Coola+Classic+Face+Sunscreen+SPF+50&tag=zoepicks00-20"
+  }
+ ]
 }

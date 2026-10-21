@@ -3,9 +3,104 @@
  "title": "Top Lawn Mowers: Gas, Electric & Robotic (2026)",
  "category": "tools_auto",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were taken from the CNET, Consumer Reports, Yahoo, TechGearLab, GardenersWorld, and Popular Mechanics sources. Products that appeared in more than one source were prioritized.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
- "draft": true
+ "summary": "Top lawn mowers for 2026 include battery and gas options from brands like Toro, EGO, and Craftsman, selected based on expert testing for performance and value.",
+ "method": "Picks were made by cross-referencing recommendations from Bob Vila, Tested Gear Hub, CNET, and Consumer Reports, prioritizing products mentioned by multiple sources or holding top awards.",
+ "assumptions": "Prices are not included as they are not stated in the provided source excerpts.",
+ "products": [
+  {
+   "name": "Toro 21\" 60V MAX Super Recycler Battery Lawn Mower",
+   "short": "Toro 21\" 60V MAX",
+   "badge": "Best Overall",
+   "why": [
+    "Bob Vila tested over two dozen mowers and named this model the Best Overall. It was evaluated for cutting ability, finish quality, and operator comfort.",
+    "Tested Gear Hub also lists this model among the best lawn mowers of 2026, noting it covers electric and battery-powered options for various yard sizes."
+   ],
+   "desc": "This is a 21-inch 60V MAX battery lawn mower. It is a Super Recycler model. The sources do not specify its deck material or specific feature list beyond the name.",
+   "benefit": "Picture a homeowner with a standard yard who wants a reliable electric mower without gas maintenance. This pick wins because Bob Vila named it the Best Overall after testing cutting ability and comfort. It beats other picks by holding the top overall award in the Bob Vila review. The catch: The provided sources do not list specific cons or owner complaints for this model.",
+   "specs": [
+    "21-inch cutting width",
+    "60V MAX battery",
+    "Super Recycler"
+   ],
+   "pros": [
+    "Named Best Overall by Bob Vila",
+    "Evaluated for cutting ability and finish quality",
+    "Listed by multiple testing sites"
+   ],
+   "cons": [
+    "Specific drawbacks not detailed in provided excerpts"
+   ],
+   "best_for": "Homeowners seeking a top-rated battery mower for general use",
+   "skip_if": "You require specific technical specs not listed in these sources",
+   "link": "https://www.amazon.com/s?k=Toro+21%22+60V+MAX+Super+Recycler+Battery+Lawn+Mower&tag=zoepicks00-20"
+  },
+  {
+   "name": "Craftsman M220 21\" 150cc Self-Propelled Lawn Mower",
+   "short": "Craftsman M220",
+   "badge": "Best Bang for the Buck",
+   "why": [
+    "Bob Vila identified this gas-powered mower as the Best Bang for the Buck. It is a 150cc self-propelled model.",
+    "The review team tested more than two dozen mowers to determine value and performance for different yard types."
+   ],
+   "desc": "This is a 21-inch self-propelled gas lawn mower with a 150cc engine. It is designed for self-propelled operation. The sources do not mention battery options or specific collection features.",
+   "benefit": "Picture a buyer who wants a gas mower but needs to keep costs low. This pick suits those looking for value, as Bob Vila named it the Best Bang for the Buck. It beats the battery picks in this guide by offering a gas engine at a value-focused price point according to the source. The catch: It is a gas mower, so it requires fuel and maintenance unlike the electric options.",
+   "specs": [
+    "21-inch cutting width",
+    "150cc engine",
+    "Self-Propelled"
+   ],
+   "pros": [
+    "Named Best Bang for the Buck by Bob Vila",
+    "Gas-powered with 150cc engine",
+    "Self-propelled for easier operation"
+   ],
+   "cons": [
+    "Requires gas fuel",
+    "Not a battery or electric model"
+   ],
+   "best_for": "Buyers seeking a value-oriented gas mower",
+   "skip_if": "You prefer battery-powered or electric mowers",
+   "link": "https://www.amazon.com/s?k=Craftsman+M220+21%22+150cc+Self-Propelled+Lawn+Mower&tag=zoepicks00-20"
+  },
+  {
+   "name": "EGO Power+ 22-Inch Mower",
+   "short": "EGO Power+ 22\"",
+   "badge": "Top Battery Pick",
+   "why": [
+    "Tested Gear Hub lists this as one of the 10 best lawn mowers of 2026. It is a battery-powered model.",
+    "CNET and Consumer Reports also test EGO Power mowers, noting they perform as well as or better than gas mowers in some cases."
+   ],
+   "desc": "This is a 22-inch battery-powered lawn mower from EGO Power+. It is part of a lineup tested for cutting performance and ease of use. The sources do not specify the voltage or battery capacity for this specific 22-inch model in the list.",
+   "benefit": "Picture a user with a larger yard who needs a wide cutting deck. This pick suits them with its 22-inch width, which is wider than the 21-inch Toro and Craftsman picks. It beats other picks by offering a larger cutting area for faster mowing. The catch: The specific battery runtime and voltage are not detailed in the provided excerpts for this specific model.",
+   "specs": [
+    "22-inch cutting width",
+    "Battery-powered"
+   ],
+   "pros": [
+    "22-inch cutting width",
+    "Listed by Tested Gear Hub",
+    "Brand tested by CNET and Consumer Reports"
+   ],
+   "cons": [
+    "Specific voltage and runtime not stated in excerpts"
+   ],
+   "best_for": "Users with larger yards needing a wider cut",
+   "skip_if": "You need specific battery specs not provided here",
+   "link": "https://www.amazon.com/s?k=EGO+Power%2B+22-Inch+Mower&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Toro 21\" 60V MAX Super Recycler Battery Lawn Mower",
+  "line": "Recommended by Bob Vila as the Best Overall and listed by Tested Gear Hub, this mower suits buyers wanting a top-rated battery option. The main catch is that specific performance metrics are not detailed in the provided excerpts.",
+  "also": [
+   [
+    "Best Value",
+    "Craftsman M220 21\" 150cc Self-Propelled Lawn Mower"
+   ],
+   [
+    "Top Battery",
+    "EGO Power+ 22-Inch Mower"
+   ]
+  ]
+ }
 }

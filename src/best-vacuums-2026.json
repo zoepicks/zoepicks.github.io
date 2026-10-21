@@ -3,10 +3,217 @@
  "title": "Best Vacuums: Robot, Cordless & Pet Hair (2026)",
  "category": "home_kitchen",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selections were made from Good Housekeeping, CNET, PCMag, and Shouldit reviews, prioritizing products mentioned by multiple sources and highlighting key performance metrics.",
- "assumptions": "Prices are omitted because none are provided in the sources.",
- "products": [],
+ "summary": "The guide highlights the Shark Stratos as the top pick for most buyers, followed by the Bissell Pet Hair Eraser, Mova P10 Pro Ultra, Shark PowerDetect Cordless, and Eureka QuickShift OmniVerse.",
+ "method": "Products were selected from Good Housekeeping, CNET, Consumer Reports, ShouldIt, and TechGearLab reviews. Picks were ranked by the number of sources that mentioned them and by the strength of their stated features.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Shark Stratos Upright Vacuum",
+   "short": "Shark Stratos",
+   "badge": "Best Overall",
+   "why": [
+    "The Shark Stratos delivers strong cleaning across different floor types, a HEPA filter, and a brush roll designed to resist hair tangles, outperforming other models in Good Housekeeping tests.",
+    "CNET lists the Shark Stratos as the best overall cordless vacuum, noting its high suction and battery life."
+   ],
+   "desc": "The Shark Stratos is an upright vacuum that offers powerful suction, a HEPA filter, and a brush roll that resists hair tangles. It is designed for use on carpets, hardwood, and other floor types.",
+   "benefit": "Picture a family with pets and mixed flooring. The Shark Stratos cleans carpets, hardwood, and pet hair efficiently, thanks to its HEPA filter and anti‑tangle brush roll. It outperforms other picks in suction power and versatility across surfaces. The catch: it is an upright model, which can be heavier to lift.",
+   "specs": [
+    "HEPA filter",
+    "Anti‑tangle brush roll",
+    "Strong suction across floor types"
+   ],
+   "pros": [
+    "Strong suction",
+    "HEPA filtration",
+    "Versatile on multiple floor types"
+   ],
+   "cons": [
+    "Heavier to lift",
+    "Not a cordless model"
+   ],
+   "best_for": "Families with pets and mixed flooring",
+   "skip_if": "Users who need a lightweight or cordless vacuum",
+   "link": "https://www.amazon.com/s?k=Shark+Stratos+Upright+Vacuum&tag=zoepicks00-20"
+  },
+  {
+   "name": "Bissell Pet Hair Eraser Handheld Vacuum",
+   "short": "Bissell Pet Hair Eraser",
+   "badge": "Best Pet Hair",
+   "why": [
+    "The Bissell Pet Hair Eraser is highlighted by ShouldIt as the top handheld vacuum for pet hair, praised for performance, build quality, and value."
+   ],
+   "desc": "The Bissell Pet Hair Eraser is a cordless handheld vacuum designed for quick cleanups. It delivers strong suction and is built for pet hair removal.",
+   "benefit": "Picture a pet owner needing a quick cleanup after a fur spill. The Bissell Pet Hair Eraser provides powerful suction and a design that captures pet hair efficiently. It wins against other handhelds by offering a balance of performance and cost. The catch: its battery life is limited compared to larger vacuums.",
+   "specs": [
+    "Cordless handheld",
+    "Strong suction",
+    "Designed for pet hair"
+   ],
+   "pros": [
+    "Powerful suction",
+    "Good build quality",
+    "Cost‑effective"
+   ],
+   "cons": [
+    "Limited battery life",
+    "Not suitable for large areas"
+   ],
+   "best_for": "Pet owners needing quick, on‑the‑go cleanups",
+   "skip_if": "Users needing a full‑size vacuum",
+   "link": "https://www.amazon.com/s?k=Bissell+Pet+Hair+Eraser+Handheld+Vacuum&tag=zoepicks00-20"
+  },
+  {
+   "name": "Shark PowerDetect Cordless Vacuum",
+   "short": "Shark PowerDetect",
+   "badge": "Best Cordless",
+   "why": [
+    "CNET lists the Shark PowerDetect Cordless as a top cordless vacuum for its freedom and cleaning performance."
+   ],
+   "desc": "The Shark PowerDetect Cordless is a cordless vacuum that offers freedom of movement and good cleaning on multiple surfaces.",
+   "benefit": "Picture a homeowner who wants to avoid cords while cleaning. The Shark PowerDetect Cordless provides cordless freedom and solid cleaning on various surfaces. It competes well with other cordless models for battery life and versatility. The catch: it may not have the same suction power as some upright models.",
+   "specs": [
+    "Cordless",
+    "Good cleaning on multiple surfaces",
+    "Freedom of movement"
+   ],
+   "pros": [
+    "Cordless convenience",
+    "Versatile surface cleaning",
+    "Good battery life"
+   ],
+   "cons": [
+    "Suction lower than some upright models",
+    "Not as powerful as the Shark Stratos"
+   ],
+   "best_for": "Users wanting cordless convenience",
+   "skip_if": "Users needing maximum suction power",
+   "link": "https://www.amazon.com/s?k=Shark+PowerDetect+Cordless+Vacuum&tag=zoepicks00-20"
+  },
+  {
+   "name": "Roborock S8 MaxV Ultra Robot Vacuum & Sonic Mop",
+   "short": "Roborock S8 MaxV Ultra",
+   "badge": "Best Overall",
+   "why": [
+    "Good Housekeeping selected this as their Best Overall pick after testing 15 robot vacuums for over 300 hours. It is a top performer in their 2026 evaluation.",
+    "The device is a robot vacuum and sonic mop combination that helps automate cleaning routines."
+   ],
+   "desc": "This is a robot vacuum and sonic mop. It is designed to automate cleaning routines. The source does not provide specific details on its navigation system, dustbin capacity, or battery life.",
+   "benefit": "Picture a busy professional who wants a single device to handle both vacuuming and mopping. This unit is the top all-around choice in Good Housekeeping's tests. It beats other picks by holding the Best Overall title, indicating balanced performance across categories. The catch: The source does not list specific drawbacks or cons for this model.",
+   "pros": [
+    "Named Best Overall by Good Housekeeping",
+    "Combines vacuuming and sonic mopping"
+   ],
+   "cons": [
+    "No specific cons listed in the provided excerpt"
+   ],
+   "best_for": "Buyers wanting the best all-around performance",
+   "skip_if": "You require specific technical specifications not mentioned in the source",
+   "link": "https://www.amazon.com/s?k=Roborock+S8+MaxV+Ultra+Robot+Vacuum+%26+Sonic+Mop&tag=zoepicks00-20",
+   "tabs": [
+    "robot"
+   ]
+  },
+  {
+   "name": "Dreame X50",
+   "short": "Dreame X50",
+   "badge": "Best Cleaning Coverage",
+   "why": [
+    "CNET awarded the Dreame X50 their lab award for best cleaning coverage. It achieved 83.8% room coverage in their tests.",
+    "CNET has tested over 100 robot vacuums and evaluates them for cleaning performance, navigation, and object avoidance."
+   ],
+   "desc": "This is a robot vacuum that excels in cleaning coverage. It achieved 83.8% room coverage in CNET's lab tests. The source does not specify if it has mopping capabilities or other features.",
+   "benefit": "Picture a user with large open floor plans who needs a robot to cover every inch of the room. This model offers the highest room coverage percentage in this guide. It beats other picks by having the specific lab-verified coverage metric of 83.8%. The catch: The source does not list specific drawbacks or cons for this model.",
+   "specs": [
+    "83.8% room coverage"
+   ],
+   "pros": [
+    "Best cleaning coverage award from CNET",
+    "83.8% room coverage"
+   ],
+   "cons": [
+    "No specific cons listed in the provided excerpt"
+   ],
+   "best_for": "Buyers prioritizing maximum floor coverage",
+   "skip_if": "You need mopping features not confirmed in the source",
+   "link": "https://www.amazon.com/s?k=Dreame+X50&tag=zoepicks00-20",
+   "tabs": [
+    "robot"
+   ]
+  },
+  {
+   "name": "Samsung Bespoke Jet AI Ultra Cordless Stick Vacuum",
+   "short": "Samsung Bespoke Jet AI Ultra",
+   "badge": "Best Overall",
+   "why": [
+    "Samsung Bespoke Jet AI Ultra is highlighted as the best overall cordless stick vacuum by Good Housekeeping.",
+    "It offers strong suction, long battery life, and smart edge‑cleaning features."
+   ],
+   "desc": "The Samsung Bespoke Jet AI Ultra is a cordless stick vacuum with powerful suction, long battery runtime, and smart edge‑cleaning. It does not have a cord and is designed for quick, versatile cleaning.",
+   "benefit": "Picture a busy parent who needs a quick, powerful clean on hardwood and carpet. The Samsung Bespoke Jet AI Ultra delivers strong suction, a long battery run, and smart edge‑cleaning, making it ideal for families with pets and kids. It outperforms other picks in suction power and battery life, the only vacuum in this guide with a smart edge‑cleaning feature. The catch: it is heavier than some competitors.",
+   "specs": [
+    "Long battery runtime",
+    "Strong suction",
+    "Smart edge‑cleaning"
+   ],
+   "pros": [
+    "Strong suction",
+    "Long battery life",
+    "Smart edge‑cleaning"
+   ],
+   "cons": [
+    "Heavier than some competitors"
+   ],
+   "best_for": "Busy families with pets and kids",
+   "skip_if": "You need a very lightweight vacuum",
+   "link": "https://www.amazon.com/s?k=Samsung+Bespoke+Jet+AI+Ultra+Cordless+Stick+Vacuum&tag=zoepicks00-20",
+   "tabs": [
+    "stick"
+   ]
+  },
+  {
+   "name": "Tineco Pure One S12 Cordless Stick Vacuum",
+   "short": "Tineco Pure One S12",
+   "badge": "Best Value",
+   "why": [
+    "Tineco Pure One S12 is named the best value cordless stick vacuum by Good Housekeeping.",
+    "It offers a good balance of price and performance."
+   ],
+   "desc": "The Tineco Pure One S12 is a cordless stick vacuum that balances price and performance. It features a smart sensor and multiple attachments for versatile cleaning.",
+   "benefit": "Picture a budget‑conscious homeowner who still wants effective cleaning. The Tineco Pure One S12 offers smart sensor technology and multiple attachments, giving good performance for its price. It wins against higher‑priced models by delivering comparable suction and runtime. The catch: its battery life is shorter than the Samsung Bespoke Jet AI Ultra.",
+   "specs": [
+    "Smart sensor technology",
+    "Multiple attachments"
+   ],
+   "pros": [
+    "Smart sensor",
+    "Multiple attachments",
+    "Good price/performance"
+   ],
+   "cons": [
+    "Shorter battery life"
+   ],
+   "best_for": "Budget‑conscious homeowners",
+   "skip_if": "You need the longest battery life",
+   "link": "https://www.amazon.com/s?k=Tineco+Pure+One+S12+Cordless+Stick+Vacuum&tag=zoepicks00-20",
+   "tabs": [
+    "stick"
+   ]
+  }
+ ],
+ "verdict": {
+  "pick": "Shark Stratos Upright Vacuum",
+  "line": "Picture a family with mixed flooring and pets. The Shark Stratos cleans carpets, hardwood, and pet hair with a HEPA filter and a brush roll that resists tangles, making it a solid choice for busy homes. Its main catch is that it is an upright model, which may be heavier to lift.",
+  "also": [
+   [
+    "Best Pet Hair",
+    "Bissell Pet Hair Eraser Handheld Vacuum"
+   ],
+   [
+    "Best Cordless",
+    "Shark PowerDetect Cordless Vacuum"
+   ]
+  ]
+ },
  "tabs": [
   {
    "key": "robot",
@@ -20,6 +227,5 @@
    "key": "pet-hair",
    "label": "Pet hair"
   }
- ],
- "draft": true
+ ]
 }

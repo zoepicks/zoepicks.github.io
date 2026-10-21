@@ -3,12 +3,131 @@
  "title": "Top Monitors to Pair With Your Mac (2026)",
  "category": "monitors",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least one source; prioritized those mentioned as \"best overall\" or \"best\" in multiple sources. Sources used: PCMag, Popsci, and Rtings.",
+ "summary": "A concise guide to the top Mac‑compatible monitors of 2026.",
+ "method": "Selected products were taken from the five provided sources, prioritising those mentioned by more than one source and ranking by overall feature set and relevance to Mac users.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
- "products": [],
+ "products": [
+  {
+   "name": "Apple Studio Display XDR",
+   "short": "Studio Display XDR",
+   "badge": "Best Overall",
+   "why": [
+    "The Apple Studio Display XDR is a premium monitor for content creation with a Mac computer.",
+    "It has a 27‑inch, 5K screen, 120 Hz refresh rate, HDR support, Mini‑LED backlighting with 2,304 dimming zones, 2,000 nit peak brightness, Thunderbolt 5 up to 140 W, daisy‑chain support, a 12 MP Center Stage camera, built‑in mic, and a six‑speaker Spatial Audio system."
+   ],
+   "desc": "The Apple Studio Display XDR is a 27‑inch 5K monitor with HDR, Mini‑LED backlighting, 120 Hz refresh rate, Thunderbolt 5, 2,000‑nit peak brightness, a 12‑MP camera, built‑in mic, and six speakers.",
+   "benefit": "Picture a professional who needs the brightest, most color‑accurate screen for video editing. The Studio Display XDR offers the highest peak brightness and the only 120 Hz refresh rate in this guide, making it the best choice for HDR‑heavy work. It also supports daisy‑chaining and delivers a built‑in camera and speakers for video calls. The catch: it is the most expensive monitor in the list.",
+   "specs": [
+    "27‑inch 5K (5120×2880)",
+    "120 Hz refresh rate",
+    "2,000 nit peak brightness",
+    "Mini‑LED backlighting with 2,304 dimming zones",
+    "Thunderbolt 5 up to 140 W",
+    "12 MP Center Stage camera",
+    "Built‑in mic",
+    "Six‑speaker Spatial Audio system"
+   ],
+   "pros": [
+    "Highest peak brightness",
+    "120 Hz refresh rate",
+    "Mini‑LED backlighting",
+    "Thunderbolt 5 power delivery",
+    "Built‑in camera and speakers"
+   ],
+   "cons": [
+    "High price",
+    "No adjustable stand"
+   ],
+   "best_for": "Professional video editors and designers",
+   "skip_if": "Budget‑conscious buyers",
+   "link": "https://www.amazon.com/s?k=Apple+Studio+Display+XDR&tag=zoepicks00-20"
+  },
+  {
+   "name": "BenQ MA270S",
+   "short": "MA270S",
+   "badge": "Best Value",
+   "why": [
+    "The BenQ MA270S is a 27‑inch 5K Mac Studio Display alternative with native Apple control integration.",
+    "It offers a reasonable price for a 5K monitor with good build quality."
+   ],
+   "desc": "The BenQ MA270S is a 27‑inch 5K monitor that integrates with Apple controls and has solid build quality.",
+   "benefit": "Picture a Mac creator who wants a 5K display without the Apple price tag. The MA270S provides native Apple control integration and a 5K resolution at a lower cost than Apple’s own display, making it a strong value pick. It also has a sturdy build. The catch: it lacks some of the premium features of the Apple Studio Display XDR, such as HDR and a 120 Hz refresh rate.",
+   "specs": [
+    "27‑inch 5K",
+    "Native Apple control integration",
+    "Solid build quality"
+   ],
+   "pros": [
+    "5K resolution",
+    "Apple control integration",
+    "Good build quality",
+    "Lower price than Apple"
+   ],
+   "cons": [
+    "No HDR",
+    "No 120 Hz refresh rate"
+   ],
+   "best_for": "Mac creators on a budget",
+   "skip_if": "Users needing HDR or high refresh rates",
+   "link": "https://www.amazon.com/s?k=BenQ+MA270S&tag=zoepicks00-20"
+  },
+  {
+   "name": "Dell UltraSharp 40 Curved Thunderbolt Hub Monitor (U4025QW)",
+   "short": "U4025QW",
+   "badge": "Best Photo‑Editing",
+   "why": [
+    "The Dell UltraSharp 40 Curved Thunderbolt Hub Monitor is the overall pick for photo‑editing monitors.",
+    "It offers a large curved screen with Thunderbolt hub functionality."
+   ],
+   "desc": "The Dell UltraSharp 40 Curved Thunderbolt Hub Monitor is a 40‑inch curved display with a built‑in Thunderbolt hub.",
+   "benefit": "Picture a photographer who needs a large, curved screen to view images in detail. The U4025QW provides a spacious curved display and built‑in Thunderbolt hub for easy connectivity, making it the best choice for photo‑editing work. It also supports high‑resolution image viewing. The catch: it is a very large monitor, which may not fit on smaller desks.",
+   "specs": [
+    "40‑inch curved screen",
+    "Built‑in Thunderbolt hub"
+   ],
+   "pros": [
+    "Large curved display",
+    "Thunderbolt hub",
+    "High‑resolution image support"
+   ],
+   "cons": [
+    "Very large size",
+    "Limited desk space"
+   ],
+   "best_for": "Photographers and designers needing a large workspace",
+   "skip_if": "Users with limited desk space",
+   "link": "https://www.amazon.com/s?k=Dell+UltraSharp+40+Curved+Thunderbolt+Hub+Monitor+%28U4025QW%29&tag=zoepicks00-20"
+  },
+  {
+   "name": "Asus ProArt PA279Cv",
+   "short": "PA279Cv",
+   "badge": "Best 1440p",
+   "why": [
+    "The Asus ProArt PA279Cv is a 27‑inch 1440p monitor suitable for Mac users.",
+    "It is recommended for clear text and reduced eye strain."
+   ],
+   "desc": "The Asus ProArt PA279Cv is a 27‑inch 1440p monitor that offers clear text and reduced eye strain for Mac users.",
+   "benefit": "Picture a writer who needs crisp text on a 27‑inch screen. The PA279Cv delivers clear, sharp text and is recommended for word processing, making it a good fit for Mac users who want reduced eye strain. It also has a 27‑inch size. The catch: it does not have 4K or 5K resolution, so it may not satisfy users who need higher detail.",
+   "specs": [
+    "27‑inch 1440p",
+    "Clear text",
+    "Reduced eye strain"
+   ],
+   "pros": [
+    "Clear text",
+    "Reduced eye strain",
+    "27‑inch size"
+   ],
+   "cons": [
+    "No 4K/5K resolution"
+   ],
+   "best_for": "Word processors and writers",
+   "skip_if": "Users needing 4K or 5K resolution",
+   "link": "https://www.amazon.com/s?k=Asus+ProArt+PA279Cv&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "Apple Studio Display"
- },
- "draft": true
+  "pick": "Apple Studio Display XDR",
+  "line": "Picture a designer who needs a 27‑inch 5K screen with HDR, Thunderbolt 5, and a 2,000‑nit peak brightness – the Apple Studio Display XDR delivers that. It’s ideal for professionals who use the latest MacBook Pro or Mac Studio and want the highest color accuracy and refresh rate. The catch: it’s the most expensive option."
+ }
 }

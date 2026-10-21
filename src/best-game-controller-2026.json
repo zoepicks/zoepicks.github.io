@@ -3,9 +3,82 @@
  "title": "Best Game Controller (2026)",
  "category": "gaming",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No usable product information found.",
- "assumptions": "None",
- "products": [],
- "draft": true
+ "summary": "A concise guide to the best game controllers for 2026.",
+ "method": "Selected products were pulled from the PC Gamer, PC World, and IGN reviews. Products mentioned by more than one source were prioritized, with the Xbox Series X controller chosen for its cross‑platform support.",
+ "assumptions": "Prices are not provided in the sources, so no cost information is included.",
+ "products": [
+  {
+   "name": "Xbox Series X controller",
+   "short": "Xbox Series X",
+   "badge": "Best Overall",
+   "why": [
+    "The controller offers out‑of‑the‑box support on Windows PCs.",
+    "It is recognized natively by major game libraries such as Steam and Microsoft Game Pass."
+   ],
+   "desc": "The Xbox Series X controller is a wireless gamepad designed for Windows PCs. It connects via Bluetooth or a USB cable and is compatible with most PC games.",
+   "benefit": "Picture a PC gamer who wants a plug‑and‑play controller that works right away. The controller’s native support means no drivers or extra software are needed, giving instant, lag‑free input. It outperforms the DualSense in terms of plug‑and‑play ease and the Razer Raiju V3 Pro in terms of simplicity. The catch: it does not have the haptic feedback or adaptive triggers found on PlayStation controllers.",
+   "pros": [
+    "Plug‑and‑play Windows support",
+    "Native Steam and Game Pass compatibility",
+    "Wireless and wired options"
+   ],
+   "cons": [
+    "No haptic feedback",
+    "No adaptive triggers"
+   ],
+   "best_for": "PC gamers who want instant, reliable control",
+   "skip_if": "You prefer advanced haptic or trigger customization",
+   "link": "https://www.amazon.com/s?k=Xbox+Series+X+controller&tag=zoepicks00-20"
+  },
+  {
+   "name": "PlayStation DualSense",
+   "short": "DualSense",
+   "badge": "Best PS5",
+   "why": [
+    "Introduced new haptic feedback and adaptive triggers.",
+    "Retains the classic button layout."
+   ],
+   "desc": "The DualSense is Sony’s PS5 controller with haptic feedback and adaptive triggers. It does not have additional back buttons or extensive customization options.",
+   "benefit": "Picture a PS5 player who wants a controller that feels like the game world. The haptic feedback and adaptive triggers give deeper immersion than previous models. It beats the Xbox controller in tactile experience and the Razer Raiju V3 Pro in built‑in haptics. The catch: it lacks extra back buttons for advanced gameplay.",
+   "pros": [
+    "Haptic feedback",
+    "Adaptive triggers",
+    "Classic layout"
+   ],
+   "cons": [
+    "No extra back buttons",
+    "Limited customization"
+   ],
+   "best_for": "PS5 players seeking immersive controls",
+   "skip_if": "You need additional programmable buttons",
+   "link": "https://www.amazon.com/s?k=PlayStation+DualSense&tag=zoepicks00-20"
+  },
+  {
+   "name": "PlayStation DualSense Edge",
+   "short": "DualSense Edge",
+   "badge": "Best Pro",
+   "why": [
+    "Adds extra back buttons and a more ergonomic design.",
+    "Offers customizable button layout."
+   ],
+   "desc": "The DualSense Edge is a pro‑style PS5 controller with additional back buttons and a redesigned shape. It retains haptic feedback and adaptive triggers.",
+   "benefit": "Picture a competitive PS5 gamer who wants more button options. The extra back buttons and ergonomic grip give a tactical edge over the standard DualSense. It outperforms the DualSense in button count and the Razer Raiju V3 Pro in ergonomics. The catch: it is larger and heavier than the standard DualSense.",
+   "pros": [
+    "Extra back buttons",
+    "Ergonomic design",
+    "Haptic feedback"
+   ],
+   "cons": [
+    "Heavier than DualSense",
+    "Limited to PS5"
+   ],
+   "best_for": "Competitive PS5 players needing extra buttons",
+   "skip_if": "You prefer a lightweight controller",
+   "link": "https://www.amazon.com/s?k=PlayStation+DualSense+Edge&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Xbox Series X controller",
+  "line": "Picture a Windows gamer who wants instant, reliable play without extra setup. The Xbox Series X controller works natively with Steam and Microsoft Game Pass, giving smooth, lag‑free input. Its main catch is that it lacks the advanced haptic features of newer PlayStation options."
+ }
 }

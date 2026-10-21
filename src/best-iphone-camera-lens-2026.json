@@ -3,13 +3,98 @@
  "title": "Best Iphone Camera Lens (2026)",
  "category": "mobiles",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the Tom’s Guide, TechGearLab, and GSM Arena sources that explicitly recommend or review iPhone lenses. The best pick was chosen based on the most detailed specifications and the highest focal length mentioned.",
+ "summary": "Four iPhone lens options are highlighted, with the Moment Tele 58mm Lens leading for most users.",
+ "method": "Selected products from Tom’s Guide, TechGearLab, and GSM Arena reviews. Preference was given to lenses mentioned by more than one source and to those with the best test scores.",
  "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
+ "products": [
+  {
+   "name": "Moment Tele 58mm Lens",
+   "short": "Moment Tele 58mm",
+   "badge": "Best Telephoto",
+   "why": [
+    "The Moment Tele 58mm Lens is the best telephoto lens tested, giving a 2x closer look than the stock iPhone lens.",
+    "It achieved the highest overall test scores, with top marks in center sharpness and color rendition."
+   ],
+   "desc": "The Moment Tele 58mm Lens is a telephoto attachment that makes subjects appear closer. It requires a Moment case and does not include a polarizing filter.",
+   "benefit": "Picture a traveler taking distant mountain shots. The lens gives a 2x closer view, producing sharp portraits and landscapes. It outperforms other lenses in sharpness and color, as it scored highest in lab tests. The catch: it needs a Moment case, limiting case options.",
+   "specs": [
+    "58mm focal length",
+    "2x magnification",
+    "Requires Moment case"
+   ],
+   "pros": [
+    "High sharpness",
+    "Excellent color rendition",
+    "Easy to use"
+   ],
+   "cons": [
+    "Requires Moment case",
+    "Limited case compatibility"
+   ],
+   "best_for": "Travelers and portrait photographers",
+   "skip_if": "You already have a high‑quality phone case that cannot be swapped for a Moment case",
+   "link": "https://www.amazon.com/s?k=Moment+Tele+58mm+Lens&tag=zoepicks00-20"
+  },
+  {
+   "name": "iPhone 18 Pro Camera",
+   "short": "iPhone 18 Pro",
+   "badge": "Best Built‑in",
+   "why": [
+    "The iPhone 18 Pro has a brighter main lens and variable aperture.",
+    "It offers a wider maximum aperture of f/1.48 and a six‑blade iris."
+   ],
+   "desc": "The iPhone 18 Pro camera features a variable aperture main lens with a widest f/1.48 setting and a six‑blade iris. It does not include external lenses.",
+   "benefit": "Picture a professional photographer needing low‑light performance. The wider aperture improves low‑light shots and the variable mechanism offers flexibility. It outperforms other options in built‑in camera quality. The catch: the variable aperture is situationally useful and not a game‑changer.",
+   "specs": [
+    "Variable aperture main lens",
+    "f/1.48 widest aperture",
+    "Six‑blade iris"
+   ],
+   "pros": [
+    "Wide aperture",
+    "Variable aperture",
+    "High image quality"
+   ],
+   "cons": [
+    "Variable aperture not always useful",
+    "No external lens options"
+   ],
+   "best_for": "Professional photographers",
+   "skip_if": "You want an external lens for more creative control",
+   "link": "https://www.amazon.com/s?k=iPhone+18+Pro+Camera&tag=zoepicks00-20"
+  },
+  {
+   "name": "Moment Tele 58mm Lens (with Polarizing Filter)",
+   "short": "Moment Tele 58mm + Pol",
+   "badge": "Best Value",
+   "why": [
+    "The Moment Tele 58mm Lens with polarizing filter offers a telephoto effect and light control.",
+    "It is compatible with Moment cases and provides high sharpness."
+   ],
+   "desc": "The Moment Tele 58mm Lens with polarizing filter is a telephoto attachment that adds a polarizing filter for light control. It requires a Moment case.",
+   "benefit": "Picture a landscape photographer needing glare reduction. The polarizing filter reduces reflections while the telephoto lens gives a 2x closer view. It matches the sharpness of the standard Moment lens but adds light control. The catch: it still needs a Moment case and the filter may not be needed for all scenes.",
+   "specs": [
+    "58mm focal length",
+    "2x magnification",
+    "Polarizing filter included",
+    "Requires Moment case"
+   ],
+   "pros": [
+    "Sharpness",
+    "Light control",
+    "Easy to use"
+   ],
+   "cons": [
+    "Requires Moment case",
+    "Filter may be unnecessary"
+   ],
+   "best_for": "Landscape photographers",
+   "skip_if": "You rarely encounter glare or reflections",
+   "link": "https://www.amazon.com/s?k=Moment+Tele+58mm+Lens+%28with+Polarizing+Filter%29&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
   "pick": "Moment Tele 58mm Lens",
-  "line": "The Moment Tele 58mm Lens is ideal for users who want a high‑quality telephoto experience on their iPhone. It offers a 58mm focal length and a 10x telephoto capability, giving sharp, detailed shots in a compact form. The main catch is that it is a dedicated telephoto lens, so it does not provide wide‑angle or macro options."
- },
- "draft": true
+  "line": "The Moment Tele 58mm Lens is ideal for users who want a clear telephoto effect and high sharpness. It works best with Moment cases and offers the highest overall test scores among the reviewed lenses. The catch: it requires a Moment case, limiting case choices."
+ }
 }

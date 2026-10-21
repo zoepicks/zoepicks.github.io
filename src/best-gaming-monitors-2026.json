@@ -4,8 +4,18 @@
  "category": "monitors",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected from the reviews on pcworld.com, pcmag.com, pcguide.com, popularmechanics.com, and club386.com, prioritizing products mentioned by multiple sources and evaluating them on image quality, refresh rate, panel type, and console compatibility.",
- "assumptions": "Prices are not listed in the sources, so no price information is included.",
+ "method": "Picks were selected based on recommendations from Club386, PCWorld, PCMag, and TechRadar, prioritizing products listed in multiple sources or holding top 'Best Overall' titles.",
+ "assumptions": "No prices are listed in the provided sources. Availability and specific warranty terms are not detailed in the excerpts.",
  "products": [],
+ "verdict": {
+  "pick": "MSI MPG 271QR QD-OLED X50",
+  "line": "It is the best overall gaming monitor according to Club386, offering a 27-inch QD-OLED panel. The main catch is that it is a 1440p resolution, which may be less desirable for users strictly seeking 4K clarity.",
+  "also": [
+   [
+    "Best 4K OLED",
+    "MSI MPG 322UR QD-OLED X24"
+   ]
+  ]
+ },
  "draft": true
 }

@@ -2,7 +2,7 @@
  "slug": "best-laptop-charger-2026",
  "title": "Best Laptop Charger (2026)",
  "category": "accessories",
- "date": "Oct 18, 2026",
+ "date": "Oct 21, 2026",
  "summary": "The top laptop chargers of 2026 combine high wattage, compact GaN design, and multiple ports, with the Anker Nano Pro, Ugreen Nexode 200W, Ugreen Nexode 65W, Satechi 165W, and Anker Nano 45W standing out.",
  "method": "I selected chargers that appear in at least two of the provided sources, prioritizing those highlighted as best or best‑value. The sites used were CNET, Tom’s Guide, and PCMag.",
  "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
@@ -102,6 +102,73 @@
    "amazon_rating": "4.6",
    "amazon_reviews": 1464,
    "amazon_rating_asof": "Oct 20, 2026"
+  },
+  {
+   "name": "Anker Nano 2 65W GaN",
+   "short": "Nano 2",
+   "badge": "Best Overall",
+   "why": [
+    "The Anker Nano 2 65W GaN is highlighted as the best Switch 2 charger in Eurogamer’s 2026 list.",
+    "It offers 65W output, the highest power among the reviewed chargers."
+   ],
+   "desc": "The Anker Nano 2 65W GaN is a compact charger that delivers 65W output for the Switch 2. It uses GaN technology and does not include a built‑in kickstand.",
+   "benefit": "Picture a gamer on a long flight who needs to keep the Switch 2 charged. The 65W output means the console can be topped up quickly, keeping playtime uninterrupted. It outperforms other picks in this guide by providing the fastest charging speed, while the other chargers either have lower output or are bulkier. The catch: it is larger than some of the more portable options.",
+   "specs": [
+    "65W output",
+    "GaN technology",
+    "Compact size"
+   ],
+   "pros": [
+    "Fastest charging speed",
+    "Compact design",
+    "Reliable brand"
+   ],
+   "cons": [
+    "Larger than ultra‑portable models",
+    "No kickstand"
+   ],
+   "best_for": "Travelers and home users needing quick, high‑power charging",
+   "skip_if": "You need a very small, lightweight charger",
+   "link": "https://www.amazon.com/s?k=Anker+Nano+2+65W+GaN&tag=zoepicks00-20",
+   "tabs": [
+    "switch"
+   ]
+  },
+  {
+   "name": "Newdery Battery Charger Case for Nintendo Switch Lite",
+   "short": "Newdery Case",
+   "badge": "Best Case Charger",
+   "why": [
+    "Reviewed.com highlights its secure fit and 10,400 mAh battery.",
+    "It combines a case with a battery."
+   ],
+   "desc": "The Newdery Battery Charger Case for Nintendo Switch Lite is a protective case that includes a 10,400 mAh battery. It does not have a kickstand.",
+   "benefit": "Picture a traveler who wants protection and power in one. The case protects the console while the battery adds extra playtime. It wins over other picks by offering built‑in protection, but it is limited to the Switch Lite. The catch: its battery is smaller than dedicated power banks.",
+   "specs": [
+    "10,400 mAh battery",
+    "Protective case"
+   ],
+   "pros": [
+    "Built‑in protection",
+    "Adds battery life",
+    "Compact"
+   ],
+   "cons": [
+    "Limited to Switch Lite",
+    "Smaller battery"
+   ],
+   "best_for": "Switch Lite users who want protection and power",
+   "skip_if": "You own a full‑size Switch",
+   "link": "https://www.amazon.com/s?k=Newdery+Battery+Charger+Case+for+Nintendo+Switch+Lite&tag=zoepicks00-20",
+   "tabs": [
+    "switch"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "switch",
+   "label": "Switch"
   }
  ]
 }

@@ -4,12 +4,12 @@
  "category": "pets",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected based on mentions in the provided sources; World’s Best Cat Litter appears in three sources, while Fresh Step, PrettyLitter, and Tidy Cats appear in one each.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "method": "Selected products were taken directly from the supplied sources; only World’s Best Cat Litter was referenced.",
+ "assumptions": "No price information was available in the sources, so price fields are null.",
  "products": [],
  "verdict": {
   "pick": "World’s Best Cat Litter",
-  "line": "Picture a busy household with several cats: World’s Best Cat Litter offers excellent odor control, low dust, and a soft feel that keeps paws comfortable. It also is flushable and biodegradable, making it a good choice for eco‑friendly owners. The catch: it can be more expensive than some clumping options."
+  "line": "Picture a multi‑cat household that needs a dust‑free, odor‑controlling litter that is soft on paws. World’s Best Cat Litter delivers excellent moisture absorption, odor neutralization, and clumping, making it a solid choice for busy owners. The catch: it is not flushable."
  },
  "draft": true
 }

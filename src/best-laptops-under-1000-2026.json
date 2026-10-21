@@ -5,7 +5,7 @@
  "summary": "5 tested laptops you can find for under $1,000: a Mac, a Windows all-rounder, a gaming laptop, a Chromebook and a cheap Copilot+ PC.",
  "method": "Picks come from PCWorld's hands-on laptop testing (updated Oct 2026), plus the Lenovo IdeaPad Slim 3x from the 2026 reviews we summarize in our Black Friday guide. Specs and battery figures are for the configuration PCWorld tested; Amazon listings can differ, so check the exact configuration before buying. We don't show prices because they change daily, and some of these only dip under $1,000 at certain stores or during sales.",
  "assumptions": "\"under $1,000\" is based on the lowest prices reported in Oct 2026; list prices and some retailers (including Amazon at times) can be higher.",
- "date": "Oct 19, 2026",
+ "date": "Oct 21, 2026",
  "products": [
   {
    "name": "Apple MacBook Neo",
@@ -420,6 +420,104 @@
    "benefit": "Picture a sturdy everyday laptop for schoolwork that goes in a backpack every day. Fypower calls the Slim 3i 15.6 its best-value pick and says Lenovo puts these laptops through 12 military-grade durability tests. It is light for a 15.6-inch laptop. The catch: pick the configuration carefully, because 4GB or 128GB models are weak for daily use.",
    "fill_tries": 0,
    "fill_failed": false
+  },
+  {
+   "name": "MacBook Neo",
+   "short": "MacBook Neo",
+   "badge": "Best Budget",
+   "why": [
+    "MacBook Neo is the best budget laptop according to CNET and TechRadar."
+   ],
+   "desc": "MacBook Neo is a 13‑inch laptop with an A18 Pro chip, a premium MacBook look, stereo speakers and Touch ID. It has a 256GB SSD baseline and no MagSafe or fast charging.",
+   "benefit": "Picture a student who wants a Mac experience without the high price. MacBook Neo gives a powerful A18 Pro chip and good sound for a lower cost. It wins against the Dell XPS 13 by being cheaper and still powerful, but it has a smaller battery and shorter battery life. The catch: it lacks a headphone jack and a larger SSD.",
+   "specs": [
+    "13‑inch display",
+    "A18 Pro chip",
+    "Stereo speakers",
+    "Touch ID",
+    "256GB SSD"
+   ],
+   "pros": [
+    "Lower price",
+    "Powerful chip",
+    "Good sound",
+    "Touch ID"
+   ],
+   "cons": [
+    "No MagSafe",
+    "No fast charging",
+    "Smaller battery",
+    "No headphone jack"
+   ],
+   "best_for": "budget Mac users",
+   "skip_if": "need large storage",
+   "link": "https://www.amazon.com/s?k=MacBook+Neo&tag=zoepicks00-20",
+   "tabs": [
+    "used"
+   ]
+  },
+  {
+   "name": "Dell XPS 13 (2026)",
+   "short": "Dell XPS 13",
+   "badge": "Best Windows Student",
+   "why": [
+    "Dell XPS 13 is highlighted as the best Windows laptop for students by CNET."
+   ],
+   "desc": "Dell XPS 13 (2026) is a thin, light, all‑metal laptop with a 13.4‑inch high‑res display, quad speakers, two 10Gbps USB‑C ports and Wi‑Fi 7 networking.",
+   "benefit": "Picture a student who needs a lightweight, high‑resolution screen for note‑taking. Dell XPS 13 offers a roomy display and full sound, making it great for studying. It outperforms the MacBook Neo in display size and audio, but it has a budget‑feel touchpad and no headphone jack. The catch: it lacks a headphone jack.",
+   "specs": [
+    "13.4‑inch high‑res display",
+    "Quad speakers",
+    "Two 10Gbps USB‑C ports",
+    "Wi‑Fi 7"
+   ],
+   "pros": [
+    "Thin and light",
+    "All‑metal design",
+    "High‑res display",
+    "Full sound"
+   ],
+   "cons": [
+    "Touchpad feels budget",
+    "No headphone jack",
+    "Color choices uninspired"
+   ],
+   "best_for": "Windows students",
+   "skip_if": "need a headphone jack",
+   "link": "https://www.amazon.com/s?k=Dell+XPS+13+%282026%29&tag=zoepicks00-20",
+   "tabs": [
+    "used"
+   ]
+  },
+  {
+   "name": "MacBook Air M5",
+   "short": "MacBook Air M5",
+   "badge": "Best Mac",
+   "why": [
+    "MacBook Air M5 is listed as the best Mac by CNET."
+   ],
+   "desc": "MacBook Air M5 is a thin, light, rigid aluminum laptop with a 512GB minimum SSD, improved app and graphics performance from the M5 chip.",
+   "benefit": "Picture a creative professional who wants a lightweight Mac with strong performance. MacBook Air M5 delivers better graphics and AI performance than its predecessor, and its slim design is easy to carry. It beats the Dell XPS 13 in performance but has a higher price. The catch: it costs $500 more than the MacBook Neo.",
+   "specs": [
+    "512GB SSD minimum",
+    "M5 chip",
+    "Thin, light aluminum design"
+   ],
+   "pros": [
+    "Improved performance",
+    "Slim design",
+    "Lightweight"
+   ],
+   "cons": [
+    "Higher price",
+    "No mention of battery life"
+   ],
+   "best_for": "creative professionals",
+   "skip_if": "budget‑conscious buyers",
+   "link": "https://www.amazon.com/s?k=MacBook+Air+M5&tag=zoepicks00-20",
+   "tabs": [
+    "used"
+   ]
   }
  ],
  "tabs": [
@@ -436,6 +534,10 @@
   {
    "key": "small",
    "label": "Small"
+  },
+  {
+   "key": "used",
+   "label": "Used"
   }
  ],
  "intro": [
