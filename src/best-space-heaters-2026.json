@@ -40,11 +40,11 @@
    "image": "https://m.media-amazon.com/images/I/91BfDvRKGRL.jpg",
    "image_asin": "B002QZ11J6",
    "amazon_price": "$104.99",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Dr Infrared Heater DR-968 Portable Space Heater, 1500-Watt, Cherry",
    "amazon_rating": "4.5",
-   "amazon_reviews": 28354,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 28356,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "DREO Tower Heat 718 Space Heater",
@@ -72,7 +72,10 @@
    ],
    "best_for": "Bedrooms, offices and moderate rooms that need fast, quiet heat",
    "skip_if": "You want the cheapest option or an infrared heater",
-   "link": "https://www.amazon.com/s?k=DREO+Tower+Heat+718+Space+Heater&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DREO+Tower+Heat+718+Space+Heater&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "DREO Heater 320 Adjustable-Tilt",
@@ -141,12 +144,12 @@
    "asin": "B01NAQO4F1",
    "image": "https://m.media-amazon.com/images/I/71ii5AaHsPL.jpg",
    "image_asin": "B01NAQO4F1",
-   "amazon_price": "$42.96",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price": "$42.79",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Lasko 8\" Ceramic Bathroom Space Heater - ALCI Safety Plug - White - CD08200 | 1500W, Timer",
    "amazon_rating": "4.5",
-   "amazon_reviews": 6713,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 6714,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "De'Longhi SlimStyle Digital Convection Panel Heater",
