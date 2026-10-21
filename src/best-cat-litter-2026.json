@@ -37,7 +37,10 @@
    ],
    "best_for": "Multi-cat households and owners sensitive to dust or odor.",
    "skip_if": "You prefer clay litter textures or want an automated scooping system.",
-   "link": "https://www.amazon.com/s?k=World%27s+Best+Cat+Litter&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=World%27s+Best+Cat+Litter&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 21, 2026",
+   "fill_failed": false
   },
   {
    "name": "Whisker Litter-Robot 4",
@@ -70,7 +73,10 @@
    ],
    "best_for": "Owners who want to automate litter scooping and have cats over 3 pounds.",
    "skip_if": "You have a budget constraint, limited space, or a cat under 3 pounds.",
-   "link": "https://www.amazon.com/s?k=Whisker+Litter-Robot+4&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Whisker+Litter-Robot+4&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 21, 2026",
+   "fill_failed": false
   },
   {
    "name": "Fresh Step",
@@ -96,7 +102,10 @@
    ],
    "best_for": "Buyers who prioritize products tested by major consumer advocacy groups.",
    "skip_if": "You need specific feature details like dust levels or automation that are not provided in the source.",
-   "link": "https://www.amazon.com/s?k=Fresh+Step&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Fresh+Step&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 21, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
