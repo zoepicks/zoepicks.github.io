@@ -34,7 +34,10 @@
    ],
    "best_for": "Minimalists or those preferring a low‑profile rack",
    "skip_if": "You need expandable or high‑capacity storage",
-   "link": "https://www.amazon.com/s?k=Seville+Classics+3%E2%80%91Tier+Resin+Slatted+Shoe+Rack&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Seville+Classics+3%E2%80%91Tier+Resin+Slatted+Shoe+Rack&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Oceanstar 2‑Tier Bamboo Shoe Rack",
@@ -63,7 +66,10 @@
    ],
    "best_for": "Those preferring natural materials",
    "skip_if": "You need high capacity or expandable storage",
-   "link": "https://www.amazon.com/s?k=Oceanstar+2%E2%80%91Tier+Bamboo+Shoe+Rack&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Oceanstar+2%E2%80%91Tier+Bamboo+Shoe+Rack&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Yamazaki Home Tower Shoe Rack",
@@ -92,7 +98,16 @@
    ],
    "best_for": "Narrow entryways",
    "skip_if": "You need expandable or high capacity storage",
-   "link": "https://www.amazon.com/s?k=Yamazaki+Home+Tower+Shoe+Rack&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Yamazaki+Home+Tower+Shoe+Rack&tag=zoepicks00-20",
+   "asin": "B00T7CSNRE",
+   "image": "https://m.media-amazon.com/images/I/718stuKERWL.jpg",
+   "image_asin": "B00T7CSNRE",
+   "amazon_price": "$88.00",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "YAMAZAKI Home Tower Compact Modern Metal Shoe Rack - Tall, 31\" - Steel - Holds 5 Shoes",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 1471,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "IKEA Bissa",
@@ -121,7 +136,10 @@
    ],
    "best_for": "Very narrow entryways",
    "skip_if": "You need expandable or high capacity storage",
-   "link": "https://www.amazon.com/s?k=IKEA+Bissa&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=IKEA+Bissa&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
