@@ -21,11 +21,11 @@
    "image": "https://m.media-amazon.com/images/I/71Benl3MkJL.jpg",
    "image_asin": "B005ASY23I",
    "amazon_price": "$89.89",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "VIAIR 88P 00088 12V Portable Air Compressor Kit for Car and Truck Tires | Portable 12V Air",
    "amazon_rating": "4.7",
    "amazon_reviews": 8106,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "AstroAI Cordless Tire Inflator",
@@ -41,11 +41,11 @@
    "image": "https://m.media-amazon.com/images/I/41S-F5Q1EXL.jpg",
    "image_asin": "B0948WY5YX",
    "amazon_price": "$54.99",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "AstroAI Cordless Tire Inflator Portable Air Compressor 160PSI 12VDC Battery | Dual Power S",
    "amazon_rating": "4.6",
-   "amazon_reviews": 16849,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 16853,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Black & Decker Max Cordless Tire Inflator",
@@ -56,7 +56,10 @@
    ],
    "best_for": "Drivers who want a cordless inflator with a 20 V battery platform",
    "skip_if": "If you prefer a corded unit or need higher pressure capability",
-   "link": "https://www.amazon.com/s?k=Black+%26+Decker+Max+Cordless+Tire+Inflator&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Black+%26+Decker+Max+Cordless+Tire+Inflator&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
