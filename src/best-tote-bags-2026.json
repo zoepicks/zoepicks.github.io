@@ -34,7 +34,10 @@
    "skip_if": "You prefer a budget-friendly or purely functional bag",
    "price": "$150 at Cuyana",
    "link": "https://www.amazon.com/s?k=Cuyana+Easy+Tote&tag=zoepicks00-20",
-   "price_asof": "Oct 18, 2026"
+   "price_asof": "Oct 18, 2026",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Cuyana Paloma Tote",
@@ -60,7 +63,10 @@
    ],
    "best_for": "Office workers who want a sleek, spacious tote",
    "skip_if": "You need a secure zipper closure",
-   "link": "https://www.amazon.com/s?k=Cuyana+Paloma+Tote&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Cuyana+Paloma+Tote&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "L.L.Bean Boat and Tote",
@@ -86,7 +92,10 @@
    ],
    "best_for": "Professionals who appreciate a classic, durable tote",
    "skip_if": "You prefer a modern, lightweight design",
-   "link": "https://www.amazon.com/s?k=L.L.Bean+Boat+and+Tote&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=L.L.Bean+Boat+and+Tote&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
