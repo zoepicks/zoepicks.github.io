@@ -305,20 +305,20 @@
   },
   "gaming:playstation": {
    "label": "Playstation",
-   "tries": 5,
+   "tries": 6,
    "items": [
     {
      "asin": "B0H9Z71PJK",
      "name": "NBA 2K27 - PlayStation 5",
      "pct": 29,
      "rating": 4.8,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/81uApUmA8RL.jpg",
      "link": "https://www.amazon.com/dp/B0H9Z71PJK?tag=zoepicks00-20",
      "now": "49.94",
      "was": "69.99",
      "deal": "Limited time deal",
-     "reviews": 124,
+     "reviews": 126,
      "_title": "NBA 2K27 - PlayStation 5",
      "_price": 49.94
     },
@@ -327,18 +327,18 @@
      "name": "OKHAHA Controller 2 Pack",
      "pct": 10,
      "rating": 4.2,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61WsFLSL06L.jpg",
      "link": "https://www.amazon.com/dp/B0B9P4PT64?tag=zoepicks00-20",
      "now": "22.31",
      "was": "24.79",
      "deal": "Limited time deal",
-     "reviews": 6019,
+     "reviews": 6021,
      "_title": "OKHAHA Controller 2 Pack for PS3 Wireless Controller for Sony Playstation 3, Double Shock 3, Bluetooth, Rechargeable, Moti...",
      "_price": 22.31
     }
    ],
-   "scanned": "2026-10-20T13:45:16.234885+00:00",
+   "scanned": "2026-10-21T13:42:13.226526+00:00",
    "via": "sweep"
   },
   "hobby_music:usb-microphones": {
@@ -3118,67 +3118,66 @@
   },
   "gaming:gaming-controllers": {
    "label": "Gaming Controllers",
-   "tries": 4,
+   "tries": 5,
    "items": [
     {
      "asin": "B01H6GUCCQ",
      "name": "BENGOO G9000 Stereo Gaming Headset",
      "pct": 31,
      "rating": 4.3,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
      "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
      "now": "19.95",
      "was": "28.99",
      "deal": "Limited time deal",
-     "reviews": 122410,
+     "reviews": 122412,
      "_title": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED ...",
      "_price": 19.95
     }
    ],
-   "scanned": "2026-10-20T13:45:16.234885+00:00",
+   "scanned": "2026-10-21T13:42:13.226526+00:00",
    "via": "sweep"
   },
   "gaming:gaming-headsets": {
    "label": "Gaming Headsets",
-   "tries": 4,
+   "tries": 5,
    "items": [
-    {
-     "asin": "B0GV7M8FR6",
-     "name": "Ordtop 2.4GHz Wireless Gaming Headset",
-     "pct": 60,
-     "rating": 4.5,
-     "t": 1792503916,
-     "img": "https://m.media-amazon.com/images/I/71I5EggVcJL.jpg",
-     "link": "https://www.amazon.com/dp/B0GV7M8FR6?tag=zoepicks00-20",
-     "now": "39.99",
-     "was": "99.99",
-     "deal": "Limited time deal",
-     "reviews": 90,
-     "_title": "Ordtop 2.4GHz Wireless Gaming Headset for PS5/PS4/PC/Switch, 45H RGB Lights | Gaming Headphones with ENC Mic, 7.1 Surround...",
-     "_price": 39.99
-    },
     {
      "asin": "B0GD55C2VQ",
      "name": "Wireless Gaming Headset",
      "pct": 60,
      "rating": 4.4,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/71RKM8wJsTL.jpg",
      "link": "https://www.amazon.com/dp/B0GD55C2VQ?tag=zoepicks00-20",
      "now": "19.99",
      "was": "49.99",
      "deal": "Limited time deal",
-     "reviews": 535,
+     "reviews": 534,
      "_title": "Wireless Gaming Headset for PS5, PS4, PC, Switch, 20ms Low Latency with Mic | 2.4GHz 2-in-1 USB-A/USB-C Receiver & Bluetoo...",
      "_price": 19.99
+    },
+    {
+     "asin": "B0GV7M8FR6",
+     "name": "Ordtop 2.4GHz Wireless Gaming Headset",
+     "pct": 60,
+     "rating": 4.4,
+     "t": 1792590133,
+     "img": "https://m.media-amazon.com/images/I/71I5EggVcJL.jpg",
+     "link": "https://www.amazon.com/dp/B0GV7M8FR6?tag=zoepicks00-20",
+     "now": "39.99",
+     "was": "99.99",
+     "reviews": 92,
+     "_title": "Ordtop 2.4GHz Wireless Gaming Headset for PS5/PS4/PC/Switch, 45H RGB Lights | Gaming Headphones with ENC Mic, 7.1 Surround...",
+     "_price": 39.99
     },
     {
      "asin": "B0HDT3RMC9",
      "name": "Acer Wireless Gaming Headset",
      "pct": 45,
      "rating": 4.2,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/71WUxRjul4L.jpg",
      "link": "https://www.amazon.com/dp/B0HDT3RMC9?tag=zoepicks00-20",
      "now": "43.98",
@@ -3193,7 +3192,7 @@
      "name": "HyperX Cloud Flight",
      "pct": 38,
      "rating": 4.5,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/71JPttDoucL.jpg",
      "link": "https://www.amazon.com/dp/B098TVWSR8?tag=zoepicks00-20",
      "now": "74.93",
@@ -3208,13 +3207,13 @@
      "name": "BENGOO G9000 Stereo Gaming Headset",
      "pct": 31,
      "rating": 4.3,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
      "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
      "now": "19.95",
      "was": "28.99",
      "deal": "Limited time deal",
-     "reviews": 122410,
+     "reviews": 122412,
      "_title": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED ...",
      "_price": 19.95
     },
@@ -3223,13 +3222,13 @@
      "name": "SteelSeries Arctis Nova 3P Wireless Multi-Platform Gaming…",
      "pct": 27,
      "rating": 4.1,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61A9YpEBL1L.jpg",
      "link": "https://www.amazon.com/dp/B0F94Y5LXJ?tag=zoepicks00-20",
      "now": "79.99",
      "was": "109.99",
      "deal": "Limited time deal",
-     "reviews": 609,
+     "reviews": 610,
      "_title": "SteelSeries Arctis Nova 3P Wireless Multi-Platform Gaming Headset - Lavender",
      "_price": 79.99
     },
@@ -3238,18 +3237,18 @@
      "name": "Logitech G733 Lightspeed Wireless Gaming Headset",
      "pct": 15,
      "rating": 4.4,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/71zbEsVnAiL.jpg",
      "link": "https://www.amazon.com/dp/B084TFWTH5?tag=zoepicks00-20",
      "now": "109.99",
      "was": "129.99",
      "deal": "Limited time deal",
-     "reviews": 19872,
+     "reviews": 19878,
      "_title": "Logitech G733 Lightspeed Wireless Gaming Headset - Blue | Suspension Headband, LIGHTSYNC RGB, Blue VO!CE mic Technology, P...",
      "_price": 109.99
     }
    ],
-   "scanned": "2026-10-20T13:45:16.234885+00:00",
+   "scanned": "2026-10-21T13:42:13.226526+00:00",
    "via": "sweep"
   },
   "home_kitchen:blenders": {
@@ -6327,20 +6326,20 @@
   },
   "gaming:pc-controllers": {
    "label": "PC Controllers",
-   "tries": 4,
+   "tries": 5,
    "items": [
     {
      "asin": "B01H6GUCCQ",
      "name": "BENGOO G9000 Stereo Gaming Headset",
      "pct": 31,
      "rating": 4.3,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
      "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
      "now": "19.95",
      "was": "28.99",
      "deal": "Limited time deal",
-     "reviews": 122410,
+     "reviews": 122412,
      "_title": "BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED ...",
      "_price": 19.95
     },
@@ -6349,13 +6348,13 @@
      "name": "Wireless Pro Controller",
      "pct": 16,
      "rating": 4.3,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/71TcGJqc2TL.jpg",
      "link": "https://www.amazon.com/dp/B07TRQH45S?tag=zoepicks00-20",
      "now": "20.98",
      "was": "24.98",
      "deal": "Limited time deal",
-     "reviews": 20583,
+     "reviews": 20585,
      "_title": "Wireless Pro Controller for Nintendo Switch/Switch 2/Lite/OLED/PC, Switch controllers with Hall Effect Trigger&Joystick, A...",
      "_price": 20.98
     },
@@ -6364,18 +6363,18 @@
      "name": "GameSir Nova Lite 2 Wireless PC Controller Hall Effect…",
      "pct": 13,
      "rating": 4.4,
-     "t": 1792503916,
+     "t": 1792590133,
      "img": "https://m.media-amazon.com/images/I/61yHqDf0SqL.jpg",
      "link": "https://www.amazon.com/dp/B0F3D25PD3?tag=zoepicks00-20",
      "now": "25.99",
      "was": "29.99",
      "deal": "Limited time deal",
-     "reviews": 2953,
+     "reviews": 2960,
      "_title": "GameSir Nova Lite 2 Wireless PC Controller Hall Effect Sticks | Hall Effect Triggers,2.4G & Wired 1000Hz Polling Rate, Rem...",
      "_price": 25.99
     }
    ],
-   "scanned": "2026-10-20T13:45:16.234885+00:00",
+   "scanned": "2026-10-21T13:42:13.226526+00:00",
    "via": "sweep"
   },
   "smart_home:mesh-wi-fi-systems": {
@@ -8026,6 +8025,29 @@
    "tries": 1,
    "items": [],
    "scanned": "2026-10-20T23:29:52.479420+00:00"
+  },
+  "gaming:nintendo-switch-lite": {
+   "label": "Nintendo Switch Lite",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B07TRQH45S",
+     "name": "Wireless Pro Controller",
+     "pct": 16,
+     "rating": 4.3,
+     "t": 1792590133,
+     "img": "https://m.media-amazon.com/images/I/71TcGJqc2TL.jpg",
+     "link": "https://www.amazon.com/dp/B07TRQH45S?tag=zoepicks00-20",
+     "now": "20.98",
+     "was": "24.98",
+     "deal": "Limited time deal",
+     "reviews": 20585,
+     "_title": "Wireless Pro Controller for Nintendo Switch/Switch 2/Lite/OLED/PC, Switch controllers with Hall Effect Trigger&Joystick, A...",
+     "_price": 20.98
+    }
+   ],
+   "scanned": "2026-10-21T13:42:13.226526+00:00",
+   "via": "sweep"
   }
  },
  "sweeps": {
@@ -8062,12 +8084,12 @@
    "types": 6
   },
   "gaming": {
-   "at": "2026-10-20T13:45:16.234885+00:00",
+   "at": "2026-10-21T13:42:13.226526+00:00",
    "pages": 5,
    "cards": 80,
-   "offer_cards": 78,
-   "types_hit": 4,
-   "types": 8
+   "offer_cards": 79,
+   "types_hit": 5,
+   "types": 10
   },
   "hobby_music": {
    "at": "2026-10-20T13:46:29.783283+00:00",
