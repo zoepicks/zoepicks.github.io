@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-21T18:42:45Z",
+ "updated": "2026-10-21T19:13:08Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -986,6 +986,11 @@
     "items": []
    },
    {
+    "key": "laptop-stands",
+    "label": "Laptop Stands",
+    "items": []
+   },
+   {
     "key": "travel-adapters",
     "label": "Travel Adapters",
     "items": []
@@ -1481,6 +1486,11 @@
    {
     "key": "electric-toothbrushes",
     "label": "Electric Toothbrushes",
+    "items": []
+   },
+   {
+    "key": "perfumes",
+    "label": "Perfumes",
     "items": []
    }
   ],
