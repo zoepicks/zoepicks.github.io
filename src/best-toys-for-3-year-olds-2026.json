@@ -34,7 +34,10 @@
    "image_asin": "B0FP3RLDBB",
    "amazon_rating": "4.8",
    "amazon_reviews": 4,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating_asof": "Oct 20, 2026",
+   "amazon_price": "$279.00",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Nugget - The Original Play Couch for Kids - Modular Foam Children's Sofa | For Playroom, I"
   },
   {
    "name": "DUPLO Set",
@@ -58,9 +61,15 @@
    "best_for": "Children who enjoy building and imaginative play",
    "skip_if": "When you have limited play space",
    "link": "https://www.amazon.com/s?k=DUPLO+Set&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0DRW57CTN",
+   "image": "https://m.media-amazon.com/images/I/81iyncs+BlL.jpg",
+   "image_asin": "B0DRW57CTN",
+   "amazon_price": "$34.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "LEGO DUPLO Town First Time at the Airport Building Toy - Learning Play Set for Boys & Girl"
   },
   {
    "name": "Wooden Train Set",
@@ -89,7 +98,10 @@
    "image_asin": "B0FPR5WT6K",
    "amazon_rating": "4.5",
    "amazon_reviews": 4,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating_asof": "Oct 20, 2026",
+   "amazon_price": "$29.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "Hot Bee Pink Wooden Train Set, Girls Birthday Gift Unicorn Toy Age 3+ | Compatible with Mo"
   },
   {
    "name": "Baby Doll",
@@ -113,9 +125,18 @@
    "best_for": "Children who enjoy caring for a doll",
    "skip_if": "When you want a lightweight toy",
    "link": "https://www.amazon.com/s?k=Baby+Doll&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 20, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B002APDYV0",
+   "image": "https://m.media-amazon.com/images/I/61TXxjZwD8L.jpg",
+   "image_asin": "B002APDYV0",
+   "amazon_price": "$14.99",
+   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_listing": "JC Toys La Baby Caucasian Baby Doll Set – 11 Inch Soft Baby Doll | Washable |Removable Pin",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 21818,
+   "amazon_rating_asof": "Oct 21, 2026"
   }
  ],
  "verdict": {
