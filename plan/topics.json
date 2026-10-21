@@ -562,7 +562,7 @@
   "slug": "best-laptop-stands-2026",
   "category": "accessories",
   "high_ticket": true,
-  "status": "todo",
+  "status": "done",
   "priority": 114,
   "last_try": "Oct 21, 2026"
  },
@@ -1565,7 +1565,7 @@
   "slug": "best-perfumes-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 12,
   "last_try": "Oct 21, 2026"
  },
@@ -2569,7 +2569,15 @@
   "source": "buyer-leads",
   "parent": "best-usb-microphones-2026",
   "tab": "studio",
-  "tab_label": "Studio",
-  "last_try": "Oct 21, 2026"
+  "tab_label": "Studio"
+ },
+ {
+  "title": "Best Fishing Rod (2026)",
+  "slug": "best-fishing-rod-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
