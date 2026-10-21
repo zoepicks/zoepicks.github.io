@@ -3,19 +3,106 @@
  "title": "Best Imac (2026)",
  "category": "other",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by analyzing reviews from PCMag, CNET, Tom's Guide, and Consumer Reports, prioritizing products recommended by multiple sources.",
- "assumptions": "Prices may vary; PCMag notes a $200 price increase for the M4 model in June 2026.",
- "products": [],
+ "summary": "The 2024 Apple iMac with M4 chip stands out as the top all‑in‑one desktop for most users.",
+ "method": "Picks were based on mentions in PCMag (0), CNET (1), Tom’s Guide (2) and Consumer Reports (3). Products cited by multiple sources were prioritized.",
+ "assumptions": "No pricing details were included because sources only gave base prices for the iMac M4; other models lacked explicit price info.",
+ "products": [
+  {
+   "name": "Apple iMac (2024, M4)",
+   "short": "iMac M4",
+   "badge": "Best Overall",
+   "why": [
+    "PCMag notes the iMac gets a glow‑up with bold colors and a powerful M4 processor, adding AI‑infused upgrades. The 23.5‑inch 4.5K display includes an anti‑glare option.",
+    "CNET highlights the new 16 GB RAM minimum and six‑speaker sound system, while Consumer Reports rates its overall performance as very good and among the fastest for common tasks."
+   ],
+   "desc": "A 23.5‑inch all‑in‑one desktop with a 4.5K anti‑glare display, M4 chip, 16 GB RAM as standard, and six speakers. It lacks height adjustment and offers limited ports.",
+   "benefit": "Picture a freelance graphic designer working from a coffee shop, needing a bright, color‑accurate screen and enough power for Photoshop. The iMac M4 delivers fast app launches and smooth multitasking thanks to its M4 CPU and 16 GB RAM. It beats the iMac Pro in price and size, and it offers more storage than the base iMac model. The catch: the standard 256 GB SSD may fill quickly for large media files.",
+   "specs": [
+    "23.5‑inch 4.5K display",
+    "M4 processor",
+    "16 GB RAM",
+    "Six‑speaker audio",
+    "256 GB SSD"
+   ],
+   "pros": [
+    "Powerful M4 chip",
+    "Bright 4.5K display",
+    "Compact design",
+    "Six‑speaker sound"
+   ],
+   "cons": [
+    "Limited storage",
+    "No height adjustment",
+    "Few ports"
+   ],
+   "best_for": "Everyday creators and home office users",
+   "skip_if": "You need extensive internal storage or workstation‑grade graphics",
+   "link": "https://www.amazon.com/s?k=Apple+iMac+%282024%2C+M4%29&tag=zoepicks00-20"
+  },
+  {
+   "name": "Apple iMac Pro",
+   "short": "iMac Pro",
+   "badge": "Best for Power Users",
+   "why": [
+    "Tom’s Guide calls the iMac Pro a workstation‑grade machine with supercharged processing, professional graphics, and massive memory capacity.",
+    "It is positioned for the most demanding professionals who need top‑tier performance."
+   ],
+   "desc": "A high‑end all‑in‑one desktop with a powerful processor, workstation‑grade graphics and large memory options. It retains the iMac form factor but is aimed at professional workloads.",
+   "benefit": "Picture a video editor rendering 4K footage on a tight deadline. The iMac Pro’s supercharged CPU and graphics let render jobs finish faster than the standard iMac. It outperforms the iMac M4 in raw power, making it the choice for heavy‑duty tasks. The catch: it is larger, more expensive, and overkill for casual users.",
+   "specs": [
+    "Workstation‑grade processor",
+    "Professional graphics",
+    "Enormous memory capacity"
+   ],
+   "pros": [
+    "Extreme performance",
+    "Professional graphics",
+    "Large memory"
+   ],
+   "cons": [
+    "Higher price",
+    "Larger footprint"
+   ],
+   "best_for": "Professional creators needing maximum power",
+   "skip_if": "You only do light office work or media consumption",
+   "link": "https://www.amazon.com/s?k=Apple+iMac+Pro&tag=zoepicks00-20"
+  },
+  {
+   "name": "Apple iMac (M1, 2021)",
+   "short": "iMac M1",
+   "badge": "Best Budget All‑in‑One",
+   "why": [
+    "PopSci lists the iMac M1 as the best all‑in‑one Mac for general use, noting its reliability and design.",
+    "It provides solid performance for everyday tasks at a lower price point than newer models."
+   ],
+   "desc": "An all‑in‑one desktop with an M1 chip, 24‑inch 4.5K display and integrated speakers. It lacks the newer M4 processor and newer color options.",
+   "benefit": "Picture a small business owner needing a reliable desktop for email, spreadsheets and video calls. The iMac M1 offers dependable performance and a crisp display without the higher cost of the latest M4 model. It is the most affordable all‑in‑one in this guide. The catch: it does not have the latest M4 CPU or the newest color choices.",
+   "specs": [
+    "M1 processor",
+    "24‑inch 4.5K display"
+   ],
+   "pros": [
+    "Reliable performance",
+    "Premium design",
+    "Lower cost"
+   ],
+   "cons": [
+    "Older processor",
+    "Fewer color options"
+   ],
+   "best_for": "Budget‑conscious users and small offices",
+   "skip_if": "You need the latest M4 performance or extra RAM",
+   "link": "https://www.amazon.com/s?k=Apple+iMac+%28M1%2C+2021%29&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
   "pick": "Apple iMac (2024, M4)",
-  "line": "It suits most buyers because it offers a powerful M4 processor and a 16GB RAM minimum without a price increase over the previous generation. The main catch is that the standard 256GB SSD is insufficient for many users and upgrades are pricey.",
+  "line": "Ideal for everyday creators and home office users who want strong performance in a compact design. It offers the new M4 processor and a bright 23.5‑inch 4.5K display, but its storage is limited.",
   "also": [
    [
-    "Previous Gen",
-    "Apple iMac M3"
+    "Workstation Power",
+    "Apple iMac Pro"
    ]
   ]
- },
- "draft": true
+ }
 }
