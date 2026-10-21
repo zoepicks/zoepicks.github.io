@@ -106,11 +106,11 @@
    "link": "https://www.amazon.com/s?k=KitchenAid+Artisan+Series+5-Quart+Tilt-Head+Stand+Mixer&tag=zoepicks00-20",
    "asin": "B0000635XA",
    "amazon_price": "$499.95",
-   "amazon_price_asof": "Oct 19, 2026",
-   "amazon_listing": "KitchenAid Artisan, 5-Qt Tilt Head Stand Mixer, KSM150PS, Pistachio",
+   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_listing": "KitchenAid Artisan, 5-Qt Tilt Head Stand Mixer, KSM150PS, Pistachio | Includes Pouring Shi",
    "amazon_rating": "4.7",
-   "amazon_reviews": 23282,
-   "amazon_rating_asof": "Oct 19, 2026",
+   "amazon_reviews": 23291,
+   "amazon_rating_asof": "Oct 20, 2026",
    "image": "https://m.media-amazon.com/images/I/71dwD1MdoSL.jpg",
    "image_asin": "B0000635XA"
   },
@@ -149,11 +149,11 @@
    "image": "https://m.media-amazon.com/images/I/61ONOjkvMmL.jpg",
    "image_asin": "B01N6X20B1",
    "amazon_price": "$282.19",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "CUISINART SM-50R Precision Master 5.5 Qt (5.2L) Stand Mixer, Red",
    "amazon_rating": "4.6",
    "amazon_reviews": 803,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Bosch Universal Plus Stand Mixer",
@@ -191,11 +191,11 @@
    "image": "https://m.media-amazon.com/images/I/61bZke6ZsJL.jpg",
    "image_asin": "B0CJCKHQGK",
    "amazon_price": "$499.00",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "Bosch Universal Plus Stand Mixer 500 Watt, 6.5 Quarts with Wire Whips, Dough Hook & NutriM",
    "amazon_rating": "4.6",
-   "amazon_reviews": 483,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_reviews": 484,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Ankarsrum Original Kitchen Machine",
@@ -227,7 +227,10 @@
    ],
    "best_for": "Serious bread bakers who bake several times a week",
    "skip_if": "you bake only now and then, because it is more machine than you need",
-   "link": "https://www.amazon.com/s?k=Ankarsrum+Original+Kitchen+Machine&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ankarsrum+Original+Kitchen+Machine&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
