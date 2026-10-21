@@ -40,11 +40,11 @@
    "image": "https://m.media-amazon.com/images/I/61OzW5CYDDL.jpg",
    "image_asin": "B07RS4TPVW",
    "amazon_price": "$808.00",
-   "amazon_price_asof": "Oct 19, 2026",
+   "amazon_price_asof": "Oct 20, 2026",
    "amazon_listing": "UPLIFT DESK V3 2-Leg Walnut Laminate Wood Standing Desk – Adjustable Height, Advanced 1-To",
    "amazon_rating": "4.5",
    "amazon_reviews": 67,
-   "amazon_rating_asof": "Oct 19, 2026"
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "FlexiSpot E7 Standing Desk",
@@ -74,7 +74,10 @@
    ],
    "best_for": "Users of any height who need a sturdy, heavy-duty desk with safety features.",
    "skip_if": "You are looking for a budget option or prefer non-touch controls.",
-   "link": "https://www.amazon.com/s?k=FlexiSpot+E7+Standing+Desk&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=FlexiSpot+E7+Standing+Desk&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "SecretLab Magnus Pro XL",
@@ -97,7 +100,10 @@
    ],
    "best_for": "Gamers and users who prioritize cable management.",
    "skip_if": "You do not game or have minimal cable management needs.",
-   "link": "https://www.amazon.com/s?k=SecretLab+Magnus+Pro+XL&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SecretLab+Magnus+Pro+XL&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Branch Duo Standing Desk",
