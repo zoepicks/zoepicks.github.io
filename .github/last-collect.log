@@ -1,3 +1,6 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-palette-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-setting-spray-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-chair-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
@@ -114,32 +117,29 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-hair-straighteners-2026 4 products
-[collect] progress: guide 49 done (best-hair-straighteners-2026) | tried 49 | tavily keys alive 2/2
-[collect] topic: Top Foot Massagers for Tired Feet (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/advice/at-home-foot-spa
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/advice/at-home-foot-spa
-[collect] 3/4 source pages fetched
+[collect] done: best-beanie-baby-2026 draft
+[collect] progress: guide 13 done (best-beanie-baby-2026) | tried 13 | tavily keys alive 2/2
+[collect] topic: Best Flash Drive (2026)
+[collect] tavily -> 3 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/the-best-usb-3-0-thumb-drive
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/the-best-usb-3-0-thumb-drive
+[collect] 2/3 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 404 https://www.garagegymreviews.com/best-foot-massager
-[collect] browser fetch 609 chars: https://www.garagegymreviews.com/best-foot-massager
-[collect] extra sources: +1 readable page(s) -> 4 total (garagegymreviews.com)
-[collect] llm request: 4 sources x 1621 chars, ~2639 in + 4000 out tokens (budget 7000)
-[collect] llm key ...8SBW qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...4zVi qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...5tBZ qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...LQ4f qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...ITNE qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] rate-limited, waiting 31s then trying again
+[collect] browser fetch 9000 chars: https://www.everythingusb.com/flash-drives.html
+[collect] extra sources: +2 readable page(s) -> 4 total (everythingusb.com, custompcreview.com)
+[collect] llm request: 4 sources x 1626 chars, ~2976 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): PNY PRO Elite V3 256GB USB-C Flash Drive
+[collect] drop (only 1 sources): Kingston HyperX 64GB USB 3.0 Flash Drive
+[collect] drop (only 1 sources): Kingston DataTraveler 150 32GB USB 3.0 Flash Drive
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (walks4all.com, techgearlab.com)
+[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, tomshardware.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1067 chars, ~2811 in + 4000 out tokens (budget 7000)
-[collect] llm key ...4zVi qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...5tBZ qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] llm key ...LQ4f qwen/qwen3.8-27b per-minute limit  -> will wait
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2964 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Kingston DataTraveler 150
+[collect] drop (only 1 sources): Stealth MXP
+[collect] drop (only 1 sources): DiskOnKey Universal Cradle 3.5
+[collect] drop (only 1 sources): Verbatim 1GB Store‑n‑Go U3 Smart Drive 4.0
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-foot-massagers-2026 draft
-[collect] progress: guide 50 done (best-foot-massagers-2026) | tried 50 | tavily keys alive 2/2
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f']
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,432 requested 2,289", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,843 requested 3,547", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,852 requested 3,666", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,794 requested 2,436", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,460 requested 2,472", "5tBZ|openai/gpt-oss-20b": "limit 200,000 used 196,833 requested 3,408", "4zVi|openai/gpt-oss-20b": "limit 200,000 used 199,825 requested 3,346", "LQ4f|openai/gpt-oss-20b": "limit 200,000 used 199,103 requested 3,237", "8SBW|openai/gpt-oss-20b": "limit 200,000 used 199,435 requested 4,006", "ITNE|openai/gpt-oss-20b": "limit 200,000 used 198,222 requested 3,860"}, "toolarge": {}, "minute": {"8SBW|qwen/qwen3.8-27b": "", "4zVi|qwen/qwen3.8-27b": "", "LQ4f|qwen/qwen3.8-27b": "", "ITNE|qwen/qwen3.8-27b": "", "5tBZ|qwen/qwen3.8-27b": ""}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] done: best-flash-drive-2026 draft
+[collect] progress: guide 14 done (best-flash-drive-2026) | tried 14 | tavily keys alive 2/2
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,821 requested 2,452", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,745 requested 2,547", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,635 requested 2,568", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,749 requested 2,508", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,918 requested 2,779"}, "toolarge": {}, "minute": {}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 14 guide(s) built, 14 topic(s) tried
