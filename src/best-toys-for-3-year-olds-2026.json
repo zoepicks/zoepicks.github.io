@@ -28,7 +28,13 @@
    ],
    "best_for": "Toddlers who love indoor play and parents who want a versatile, screen‑free toy",
    "skip_if": "When you have limited floor space",
-   "link": "https://www.amazon.com/s?k=Play+Couch&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Play+Couch&tag=zoepicks00-20",
+   "asin": "B0FP3RLDBB",
+   "image": "https://m.media-amazon.com/images/I/41REyhUbASL.jpg",
+   "image_asin": "B0FP3RLDBB",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 4,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "DUPLO Set",
@@ -51,7 +57,10 @@
    ],
    "best_for": "Children who enjoy building and imaginative play",
    "skip_if": "When you have limited play space",
-   "link": "https://www.amazon.com/s?k=DUPLO+Set&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DUPLO+Set&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "Wooden Train Set",
@@ -74,7 +83,13 @@
    ],
    "best_for": "Children who enjoy classic wooden toys",
    "skip_if": "When you prefer electronic or larger sets",
-   "link": "https://www.amazon.com/s?k=Wooden+Train+Set&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Wooden+Train+Set&tag=zoepicks00-20",
+   "asin": "B0FPR5WT6K",
+   "image": "https://m.media-amazon.com/images/I/51AX+wjABHL.jpg",
+   "image_asin": "B0FPR5WT6K",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 4,
+   "amazon_rating_asof": "Oct 20, 2026"
   },
   {
    "name": "Baby Doll",
@@ -97,7 +112,10 @@
    ],
    "best_for": "Children who enjoy caring for a doll",
    "skip_if": "When you want a lightweight toy",
-   "link": "https://www.amazon.com/s?k=Baby+Doll&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Baby+Doll&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
