@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-21T04:25:17.244042+00:00",
+ "updated": "2026-10-21T07:26:43.191731+00:00",
  "boots_total": 15,
  "recent_boots_utc": [
   "2026-10-18T13:07:58",
@@ -14,23 +14,17 @@
   "2026-10-20T12:41:20",
   "2026-10-20T18:30:58"
  ],
- "last_run_ts": 1792556716.2502527,
- "last_report_ts": 1792524133.9620457,
+ "last_run_ts": 1792567581.9252372,
+ "last_report_ts": 1792567602.4731662,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 19
+  "low": 21
  },
  "recent_runs": [
-  {
-   "t": "2026-10-20T00:49:06",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-20T03:50:00",
    "score": 94,
@@ -84,29 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 15
+  },
+  {
+   "t": "2026-10-21T07:26:19",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 32
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-20T22:23:13",
-   "what": "SEO check: score 94 (+0), 158 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-20T22:23:13",
-   "what": "IndexNow: 29 URL Bing ko bheje",
-   "ok": true
-  },
-  {
-   "t": "2026-10-21T01:24:14",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-21T01:24:14",
-   "what": "SEO check: score 94 (+0), 165 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-21T01:24:14",
    "what": "IndexNow: 9 URL Bing ko bheje",
@@ -125,6 +105,26 @@
   {
    "t": "2026-10-21T04:25:16",
    "what": "IndexNow: 15 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-21T07:26:21",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-21T07:26:21",
+   "what": "SEO check: score 94 (+0), 178 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-21T07:26:21",
+   "what": "IndexNow: 32 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-21T07:26:42",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
