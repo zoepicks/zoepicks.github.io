@@ -3,9 +3,133 @@
  "title": "Top LEGO Sets for Adults: Display-Worthy Builds (2026)",
  "category": "toys_kids",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by analyzing recommendations from Good Housekeeping, Wargamer, and Retro Dodo, prioritizing sets explicitly labeled as top picks or favorites for adult display and building.",
- "assumptions": "Prices are not included as the provided source excerpts do not contain specific current pricing data for the selected sets, except for a partial mention in one source that was cut off.",
- "products": [],
- "draft": true
+ "summary": "Top display-worthy LEGO sets for adults include the Tranquil Garden, Lord of the Rings: Rivendell, Botanicals Orchid, Vincent van Gogh - The Starry Night, and The X-Files.",
+ "method": "Picks were selected based on recommendations from Good Housekeeping and Yahoo Shopping, which share identical top pick lists. Tom's Guide and Wicked Brick were reviewed but did not provide specific product recommendations for this category in the provided excerpts.",
+ "assumptions": "Prices are not included as they are not stated in the source excerpts. Sources note that big sets can be pricey and suggest using rewards points.",
+ "products": [
+  {
+   "name": "LEGO Icons Tranquil Garden",
+   "short": "Tranquil Garden",
+   "badge": "Best Overall",
+   "why": [
+    "This set is named the best overall adult LEGO set by both Good Housekeeping and Yahoo Shopping. It is part of the Icons line.",
+    "The sources describe LEGO building as a cozy hobby that is shown to be a boost for mental health. The set is suitable for adults who enjoy building and displaying."
+   ],
+   "desc": "This is an adult LEGO set from the Icons line. It is designed for building and display. The source does not list specific piece counts or dimensions.",
+   "benefit": "Picture an adult builder looking for a relaxing activity to improve mental health. This set is recommended as the top choice for that purpose. It wins against other picks by being the only one labeled 'Best Overall' in the sources. The catch: big sets can be pricey.",
+   "pros": [
+    "Named best overall adult LEGO set",
+    "Suitable for display",
+    "Building is a cozy hobby",
+    "Shown to boost mental health"
+   ],
+   "cons": [
+    "Big sets can be pricey"
+   ],
+   "best_for": "Adults seeking a cozy hobby and mental health boost",
+   "skip_if": "You are on a tight budget",
+   "link": "https://www.amazon.com/s?k=LEGO+Icons+Tranquil+Garden&tag=zoepicks00-20"
+  },
+  {
+   "name": "The Lord of the Rings: Rivendell",
+   "short": "Rivendell",
+   "badge": "Best Pop Culture",
+   "why": [
+    "Identified as the best pop culture set by Good Housekeeping and Yahoo Shopping. It features fan-favorite pop-culture characters.",
+    "It is part of the collection of sets that include franchises like Star Wars and Pokémon, appealing to fans of specific media."
+   ],
+   "desc": "This is a pop culture LEGO set featuring Lord of the Rings themes. It is recommended for adults who enjoy fan-favorite characters.",
+   "benefit": "Picture a fan of Lord of the Rings wanting a display piece that matches their interests. This set is the top pick for pop culture themes. It beats the Tranquil Garden for those who prefer franchise-based builds over abstract or botanical designs. The catch: big sets can be pricey.",
+   "pros": [
+    "Best pop culture set",
+    "Features fan-favorite characters",
+    "Suitable for display"
+   ],
+   "cons": [
+    "Big sets can be pricey"
+   ],
+   "best_for": "Fans of Lord of the Rings and pop culture",
+   "skip_if": "You prefer non-franchise themes",
+   "link": "https://www.amazon.com/s?k=The+Lord+of+the+Rings%3A+Rivendell&tag=zoepicks00-20"
+  },
+  {
+   "name": "LEGO Botanicals Orchid",
+   "short": "Orchid",
+   "badge": "Best Botanical",
+   "why": [
+    "Named the best botanical set by Good Housekeeping and Yahoo Shopping. It is from the Botanicals line.",
+    "This line allows builders to tap into their inner flower-arrangers, offering a different experience from standard building sets."
+   ],
+   "desc": "This is a LEGO set from the Botanicals line. It is designed for adults who enjoy flower-arranging themes.",
+   "benefit": "Picture an adult who enjoys gardening or floral design looking for a creative build. This set is the top choice for botanical themes. It offers a unique angle compared to the pop culture or artistic sets in this guide. The catch: big sets can be pricey.",
+   "pros": [
+    "Best botanical set",
+    "Part of the Botanicals line",
+    "Appeals to flower-arrangers"
+   ],
+   "cons": [
+    "Big sets can be pricey"
+   ],
+   "best_for": "Adults interested in botanical or floral themes",
+   "skip_if": "You prefer action or vehicle themes",
+   "link": "https://www.amazon.com/s?k=LEGO+Botanicals+Orchid&tag=zoepicks00-20"
+  },
+  {
+   "name": "Vincent van Gogh - The Starry Night",
+   "short": "Starry Night",
+   "badge": "Best Artistic",
+   "why": [
+    "Selected as the best artistic set by Good Housekeeping and Yahoo Shopping. It is based on the famous painting.",
+    "It appeals to adults who appreciate art and conceptual designs, distinct from the pop culture or botanical options."
+   ],
+   "desc": "This is an artistic LEGO set based on Vincent van Gogh's painting 'The Starry Night'. It is recommended for adults who like artistic builds.",
+   "benefit": "Picture an art lover wanting a display piece that reflects their taste in painting. This set is the top pick for artistic themes. It stands out from the other picks by focusing on fine art rather than movies or plants. The catch: big sets can be pricey.",
+   "pros": [
+    "Best artistic set",
+    "Based on a famous painting",
+    "Suitable for display"
+   ],
+   "cons": [
+    "Big sets can be pricey"
+   ],
+   "best_for": "Art enthusiasts and display collectors",
+   "skip_if": "You prefer realistic or mechanical builds",
+   "link": "https://www.amazon.com/s?k=Vincent+van+Gogh+-+The+Starry+Night&tag=zoepicks00-20"
+  },
+  {
+   "name": "LEGO The X-Files",
+   "short": "The X-Files",
+   "badge": "Best '90s Nostalgia",
+   "why": [
+    "Named the best set for '90s nostalgia by Good Housekeeping and Yahoo Shopping. It is from the Ideas line.",
+    "The Ideas line is conceptualized by fans, making it a crowd-pleaser for those who grew up with the show."
+   ],
+   "desc": "This is a LEGO set from the Ideas line, conceptualized by fans. It is themed around the TV show The X-Files.",
+   "pros": [
+    "Best set for '90s nostalgia",
+    "From the Ideas line",
+    "Conceptualized by fans"
+   ],
+   "cons": [
+    "Big sets can be pricey"
+   ],
+   "best_for": "Fans of The X-Files and 90s nostalgia",
+   "skip_if": "You are not a fan of the show",
+   "link": "https://www.amazon.com/s?k=LEGO+The+X-Files&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "LEGO Icons Tranquil Garden",
+  "line": "Recommended as the best overall adult LEGO set by Good Housekeeping and Yahoo Shopping. It suits adults looking for a cozy hobby that boosts mental health, though big sets can be pricey.",
+  "also": [
+   [
+    "Pop Culture",
+    "The Lord of the Rings: Rivendell"
+   ],
+   [
+    "Botanical",
+    "LEGO Botanicals Orchid"
+   ]
+  ]
+ }
 }

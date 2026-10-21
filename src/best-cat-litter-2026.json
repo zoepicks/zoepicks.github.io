@@ -3,19 +3,110 @@
  "title": "Best Cat Litter (2026)",
  "category": "pets",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected from Consumer Reports, Business Insider, SimplyCatCare, and Tuft & Paw reviews, prioritizing products mentioned by more than one source and noting their key strengths.",
- "assumptions": "Prices are not guaranteed; actual cost may vary by retailer.",
- "products": [],
+ "summary": "World's Best Cat Litter is the top pick for odor control and dust reduction, while the Whisker Litter-Robot 4 offers automated scooping for those willing to pay a premium.",
+ "method": "Picks were selected based on recommendations from Consumer Reports, CNET, Simply Cat Care, and Fluffy Tamer. Products recommended by multiple sources or with strong specific test results were prioritized.",
+ "assumptions": "Prices are not included as they were not provided in the source excerpts. Availability and specific model variants may vary by region.",
+ "products": [
+  {
+   "name": "World's Best Cat Litter",
+   "short": "World's Best",
+   "badge": "Best Overall",
+   "why": [
+    "This corn-based litter is highlighted for its excellent dust control and odor neutralization. Testing showed it never exceeded PM2.5 levels, making it a strong choice for air quality.",
+    "It is recommended for multi-cat households due to its strong clumping ability and moisture absorption. It is also noted as being eco-friendly and biodegradable, lasting longer than traditional clay litters."
+   ],
+   "desc": "A corn-based cat litter that clumps and is biodegradable. It features excellent dust control and odor neutralization. It is soft on paws and flushable. It does not have the automated scooping features of robotic boxes.",
+   "benefit": "Picture a multi-cat household where owners want to reduce the amount of dust in the air and manage strong odors without daily deep cleaning. This litter offers strong odor control and keeps dust levels low, which is a key advantage over standard clay litters in this guide. It beats other picks by being the only one explicitly tested for PM2.5 dust levels and recommended for multi-cat use. The catch: It is a corn-based litter, which may not be preferred by all cats compared to clay textures, and it is not a robotic solution.",
+   "specs": [
+    "Corn based",
+    "Flushable",
+    "Biodegradable",
+    "Dust control: Never exceeded PM2.5",
+    "Clumps well",
+    "Soft on paws"
+   ],
+   "pros": [
+    "Excellent dust control",
+    "Strong odor neutralization",
+    "Biodegradable and eco-friendly",
+    "Recommended for multi-cat households"
+   ],
+   "cons": [
+    "Corn-based texture may not suit all cats",
+    "Not an automated solution"
+   ],
+   "best_for": "Multi-cat households and owners sensitive to dust or odor.",
+   "skip_if": "You prefer clay litter textures or want an automated scooping system.",
+   "link": "https://www.amazon.com/s?k=World%27s+Best+Cat+Litter&tag=zoepicks00-20"
+  },
+  {
+   "name": "Whisker Litter-Robot 4",
+   "short": "Litter-Robot 4",
+   "badge": "Best Robotic",
+   "why": [
+    "This robotic litter box eliminates the need to scoop by using automatic sifting and cat sensing. CNET notes that the setup is easy and the design is whisper-quiet.",
+    "It includes a helpful app for tracking pets. However, it is considered expensive and bulky, and it cannot detect cats weighing less than 3 pounds."
+   ],
+   "desc": "A robotic litter box that automatically sifts waste and senses cats. It features a whisper-quiet design and a companion app for tracking. It is bulky and requires a power source. It does not work for cats under 3 pounds.",
+   "benefit": "Picture a busy owner who wants to stop scooping litter daily and is willing to invest in technology to automate the chore. The Litter-Robot 4 handles the sifting automatically, saving time and effort. It beats other picks in this guide by being the only automated option, offering a level of convenience that manual litters cannot match. The catch: It is expensive, bulky, and cannot detect cats smaller than 3 pounds, making it unsuitable for kittens or very small breeds.",
+   "specs": [
+    "Automatic sifting",
+    "Cat sensing",
+    "Whisper-quiet design",
+    "App tracking",
+    "Cannot detect cats less than 3 pounds",
+    "Bulky design"
+   ],
+   "pros": [
+    "Eliminates need to scoop",
+    "Easy setup",
+    "Whisper-quiet operation",
+    "Helpful app for pet tracking"
+   ],
+   "cons": [
+    "Expensive",
+    "Bulky design",
+    "Cannot detect cats under 3 pounds"
+   ],
+   "best_for": "Owners who want to automate litter scooping and have cats over 3 pounds.",
+   "skip_if": "You have a budget constraint, limited space, or a cat under 3 pounds.",
+   "link": "https://www.amazon.com/s?k=Whisker+Litter-Robot+4&tag=zoepicks00-20"
+  },
+  {
+   "name": "Fresh Step",
+   "short": "Fresh Step",
+   "badge": "Top Tested",
+   "why": [
+    "Consumer Reports evaluated Fresh Step as part of their test of 13 products. It is one of the major brands included in their comparative analysis.",
+    "While specific pros and cons are not detailed in the provided excerpt, its inclusion in the Consumer Reports test indicates it is a standard benchmark for cat litter performance."
+   ],
+   "desc": "A cat litter brand evaluated by Consumer Reports. It was one of 13 products tested. The source does not specify its material type or specific features beyond its participation in the test.",
+   "benefit": "Picture an owner who trusts third-party testing organizations to validate product performance. Fresh Step is a recognized brand that has undergone rigorous evaluation by Consumer Reports. It serves as a reliable baseline option compared to niche or newer brands. The catch: The provided source does not list specific advantages or disadvantages, so it lacks the detailed feature breakdown of the other picks.",
+   "specs": [
+    "Evaluated by Consumer Reports",
+    "Part of 13-product test"
+   ],
+   "pros": [
+    "Tested by Consumer Reports",
+    "Well-known brand"
+   ],
+   "cons": [
+    "Lack of detailed feature specs in source",
+    "No specific performance metrics provided"
+   ],
+   "best_for": "Buyers who prioritize products tested by major consumer advocacy groups.",
+   "skip_if": "You need specific feature details like dust levels or automation that are not provided in the source.",
+   "link": "https://www.amazon.com/s?k=Fresh+Step&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "Dr. Elsey's Cat Attract Multi-Cat Strength",
-  "line": "Picture a busy household with several cats: this litter keeps the box clean with minimal dust and strong clumping, making scooping quick. It also controls odor effectively, so the living area stays fresh. The main catch is that it can be pricier than some alternatives.",
+  "pick": "World's Best Cat Litter",
+  "line": "Recommended for multi-cat households and owners prioritizing low dust and strong odor control. It is biodegradable and clumps well, but it is a corn-based litter that may not suit cats who prefer clay textures.",
   "also": [
    [
-    "Odor control",
-    "World’s Best Cat Litter"
+    "Automated Scooping",
+    "Whisker Litter-Robot 4"
    ]
   ]
- },
- "draft": true
+ }
 }

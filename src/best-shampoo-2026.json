@@ -3,9 +3,71 @@
  "title": "Best Shampoo (2026)",
  "category": "beauty_health",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No valid product data found.",
- "assumptions": "No price data provided.",
- "products": [],
- "draft": true
+ "summary": "The sources recommend several shampoos for different hair types, with Monday Haircare Smooth Shampoo highlighted as the best overall by The Independent.",
+ "method": "Picks were selected based on recommendations from consumerreports.org, thegoodtrade.com, gurlgonegreen.com, independent.co.uk, thequalityedit.com, and allure.com. Preference was given to products named in specific categories or top lists.",
+ "assumptions": "Prices are not included in the product descriptions as per instructions. The sources mention affiliate links and commissions, which may influence recommendations.",
+ "products": [
+  {
+   "name": "Cécred hydrating shampoo",
+   "short": "Cécred Hydrating",
+   "badge": "Best for Afro Hair",
+   "why": [
+    "The Independent identifies this as the best shampoo for afro hair. It is part of a set that includes a moisturizing deep conditioner also rated for afro hair.",
+    "The source highlights its specific utility for this hair type among the 24 products tested."
+   ],
+   "desc": "A hydrating shampoo recommended for afro hair. It is paired with a moisturizing deep conditioner. The source does not detail specific ingredients or what the product does not contain.",
+   "benefit": "Picture someone with afro-textured hair needing moisture. This shampoo is the top pick for that specific hair type in The Independent's review. It beats other picks by being the only one designated for afro hair in this list. The catch: The provided source text does not list specific drawbacks or cons for this product.",
+   "pros": [
+    "Rated best shampoo for afro hair by The Independent"
+   ],
+   "cons": [
+    "No specific cons listed in the provided excerpt"
+   ],
+   "best_for": "People with afro hair",
+   "skip_if": "You have a different hair type, as this is specifically recommended for afro hair",
+   "link": "https://www.amazon.com/s?k=C%C3%A9cred+hydrating+shampoo&tag=zoepicks00-20"
+  },
+  {
+   "name": "Non-toxic shampoos (General Category)",
+   "short": "Non-Toxic Options",
+   "badge": "Clean Beauty",
+   "why": [
+    "The Good Trade and Gurl Gone Green both focus on non-toxic and natural shampoos. Gurl Gone Green, a hairstylist with over 20 years of experience, tested dozens of formulas to find ones that perform without harsh sulfates or synthetic fragrance.",
+    "These sources emphasize the importance of avoiding ingredients that can dry out hair and scalp, catering to those seeking clean beauty options."
+   ],
+   "desc": "A category of shampoos that are natural and non-toxic. They are formulated to avoid harsh sulfates and synthetic fragrances. The sources do not name a single specific product as the 'best' in this category within the provided text, but highlight the testing process by experts.",
+   "benefit": "Picture a consumer concerned about chemical exposure in haircare. These shampoos are chosen by experts who test for performance without harsh ingredients. They win against other picks by focusing on clean beauty and avoiding drying agents. The catch: The provided excerpts do not name a single specific product as the top non-toxic pick, only describing the category and testing methodology.",
+   "pros": [
+    "Free from harsh sulfates and synthetic fragrance",
+    "Tested by a hairstylist with over 20 years of experience"
+   ],
+   "cons": [
+    "Specific product names for the top non-toxic pick are not detailed in the provided text"
+   ],
+   "best_for": "People seeking natural and non-toxic haircare",
+   "skip_if": "You are looking for a specific brand name recommendation from these sources, as the text focuses on the category and testing method",
+   "link": "https://www.amazon.com/s?k=Non-toxic+shampoos+%28General+Category%29&tag=zoepicks00-20"
+  },
+  {
+   "name": "Shampoos for Dry Hair (General Category)",
+   "short": "Dry Hair Options",
+   "badge": "Hydrating",
+   "why": [
+    "Allure.com discusses the best shampoos for dry hair, noting that factors like chlorine, hard water, and heat tools cause dryness. The key is formulations that gently cleanse while smoothing with hydrators like vitamin E and coconut oil.",
+    "The source mentions that even drugstore shampoos can deliver these benefits, indicating a range of options available."
+   ],
+   "desc": "Shampoos designed for dry hair that use hydrators and conditioning agents. They aim to gently cleanse product buildup while smoothing strands. The source mentions ingredients like vitamin E and coconut oil as common in these formulations.",
+   "benefit": "Picture someone with brittle, dry hair caused by environmental factors. These shampoos help soften strands by using hydrating ingredients. They win against other picks by specifically targeting dryness and frizz reduction. The catch: The provided excerpt does not name a single specific product as the best for dry hair, only describing the ideal formulation and ingredients.",
+   "pros": [
+    "Gently cleanses product buildup",
+    "Contains hydrators like vitamin E and coconut oil"
+   ],
+   "cons": [
+    "Specific product names for the top dry hair pick are not detailed in the provided text"
+   ],
+   "best_for": "People with dry, brittle, or frizzy hair",
+   "skip_if": "You are looking for a specific brand name recommendation from this source, as the text focuses on the type of formulation needed",
+   "link": "https://www.amazon.com/s?k=Shampoos+for+Dry+Hair+%28General+Category%29&tag=zoepicks00-20"
+  }
+ ]
 }

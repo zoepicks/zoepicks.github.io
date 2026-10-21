@@ -4,18 +4,8 @@
  "category": "monitors",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected based on recommendations from PCWorld, Club386, and TechRadar, prioritizing products listed in multiple sources or top-tier categories.",
- "assumptions": "No prices are listed in the provided sources, so price data is omitted.",
+ "method": "Picks were selected from the 'TL;DR' and 'At a glance' lists in IGN, PCWorld, and PC Guide, prioritizing products mentioned in multiple sources where possible, though specific product details were unavailable.",
+ "assumptions": "No prices, specific specs, or user reviews were available in the provided excerpts, so all product-specific fields are omitted or null.",
  "products": [],
- "verdict": {
-  "pick": "MSI MPG 322UR QD-OLED",
-  "line": "This monitor is recommended for 4K OLED gaming due to its high refresh rate and QD-OLED panel technology. The main catch is that it is a 4K display, which requires a more powerful GPU than 1440p alternatives.",
-  "also": [
-   [
-    "Best 1440p Overall",
-    "MSI MPG 271QR QD-OLED"
-   ]
-  ]
- },
  "draft": true
 }
