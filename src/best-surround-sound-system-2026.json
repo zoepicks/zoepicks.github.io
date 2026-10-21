@@ -37,7 +37,10 @@
    ],
    "best_for": "Home theater enthusiasts who want a cinematic experience without a full speaker rack",
    "skip_if": "You need a fully wired surround setup",
-   "link": "https://www.amazon.com/s?k=JBL+Bar+9.1+Channel+Soundbar+System+with+Dolby+Atmos&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=JBL+Bar+9.1+Channel+Soundbar+System+with+Dolby+Atmos&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "VIZIO 5.1",
@@ -62,7 +65,10 @@
    ],
    "best_for": "Budget-conscious buyers who want a full surround experience",
    "skip_if": "You need Dolby Atmos or higher-end features",
-   "link": "https://www.amazon.com/s?k=VIZIO+5.1&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=VIZIO+5.1&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   },
   {
    "name": "VIZIO 2.1",
@@ -87,7 +93,10 @@
    ],
    "best_for": "Small rooms or budget buyers who need better TV sound",
    "skip_if": "You want full surround or advanced features",
-   "link": "https://www.amazon.com/s?k=VIZIO+2.1&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=VIZIO+2.1&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 20, 2026",
+   "fill_failed": false
   }
  ]
 }
