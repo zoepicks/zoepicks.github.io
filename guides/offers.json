@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-20T23:10:02Z",
+ "updated": "2026-10-21T00:33:27Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -556,17 +556,17 @@
   ],
   "other": [
    {
-    "asin": "B0GL1SF4GH",
-    "name": "[𝟑𝟓-𝐌𝐢𝐧 𝟏𝟕𝟎𝟎°𝐅] Fireproof Safe",
-    "pct": 17,
-    "rating": 4.4,
-    "t": 1792505260,
-    "img": "https://m.media-amazon.com/images/I/81555bLj3CL.jpg",
-    "link": "https://www.amazon.com/dp/B0GL1SF4GH?tag=zoepicks00-20",
-    "now": "98.98",
-    "was": "119.49",
+    "asin": "B086M1HVSD",
+    "name": "Mustela Certified Organic Micellar Cleansing Water…",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1792538757,
+    "img": "https://m.media-amazon.com/images/I/61OXLrnfJbL.jpg",
+    "link": "https://www.amazon.com/dp/B086M1HVSD?tag=zoepicks00-20",
+    "now": "15.00",
+    "was": "20.00",
     "deal": "Limited time deal",
-    "reviews": 943,
+    "reviews": 1424,
     "tier": "budget"
    },
    {
@@ -600,20 +600,6 @@
   ],
   "pets": [
    {
-    "asin": "B0GRFWGQHN",
-    "name": "YOTON 2K Indoor Camera",
-    "pct": 13,
-    "rating": 4.2,
-    "t": 1792505278,
-    "img": "https://m.media-amazon.com/images/I/61n4erHGcQL.jpg",
-    "link": "https://www.amazon.com/dp/B0GRFWGQHN?tag=zoepicks00-20",
-    "now": "19.94",
-    "was": "22.99",
-    "deal": "Limited time deal",
-    "reviews": 318,
-    "tier": "budget"
-   },
-   {
     "asin": "B0829KDY9X",
     "name": "Tapo 1080p Pan/Tilt Security Camera",
     "pct": 19,
@@ -625,6 +611,20 @@
     "was": "26.99",
     "deal": "Limited time deal",
     "reviews": 42654,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0BHMYKCJT",
+    "name": "WINGOIN Tactical Dog Harness",
+    "pct": 10,
+    "rating": 4.4,
+    "t": 1792538791,
+    "img": "https://m.media-amazon.com/images/I/71FfyMJCWEL.jpg",
+    "link": "https://www.amazon.com/dp/B0BHMYKCJT?tag=zoepicks00-20",
+    "now": "23.39",
+    "was": "25.99",
+    "deal": "Limited time deal",
+    "reviews": 9381,
     "tier": "mid"
    },
    {
@@ -685,20 +685,6 @@
   ],
   "tools_auto": [
    {
-    "asin": "B0CS3B7MD8",
-    "name": "AstroAI L7 Tire Inflator Portable Air Compressor,150 PSI…",
-    "pct": 43,
-    "rating": 4.3,
-    "t": 1792503180,
-    "img": "https://m.media-amazon.com/images/I/71E8Cc-0ctL.jpg",
-    "link": "https://www.amazon.com/dp/B0CS3B7MD8?tag=zoepicks00-20",
-    "now": "22.98",
-    "was": "39.99",
-    "deal": "Limited time deal",
-    "reviews": 19740,
-    "tier": "budget"
-   },
-   {
     "asin": "B0CS3K3T8T",
     "name": "AstroAI L4 Cordless Tire Inflator Portable Air Compressor",
     "pct": 43,
@@ -710,20 +696,34 @@
     "was": "66.99",
     "deal": "Limited time deal",
     "reviews": 1029,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0GJ2Q6SFN",
+    "name": "Eivikga 3 Channel Dash Cam",
+    "pct": 63,
+    "rating": 4.3,
+    "t": 1792538910,
+    "img": "https://m.media-amazon.com/images/I/71HNf+cM+PL.jpg",
+    "link": "https://www.amazon.com/dp/B0GJ2Q6SFN?tag=zoepicks00-20",
+    "now": "52.32",
+    "was": "139.99",
+    "deal": "Limited time deal",
+    "reviews": 109,
     "tier": "mid"
    },
    {
-    "asin": "B0GYS9WL5K",
-    "name": "Hafuloky Tire Inflator Portable Air Compressor",
-    "pct": 40,
+    "asin": "B074GYX6XG",
+    "name": "Bosch GSR12V-140FCB22 12V Max Drill/Driver",
+    "pct": 38,
     "rating": 4.7,
-    "t": 1792503180,
-    "img": "https://m.media-amazon.com/images/I/71Grs-4RufL.jpg",
-    "link": "https://www.amazon.com/dp/B0GYS9WL5K?tag=zoepicks00-20",
-    "now": "37.98",
-    "was": "63.31",
+    "t": 1792538899,
+    "img": "https://m.media-amazon.com/images/I/91dpuMY2ppL.jpg",
+    "link": "https://www.amazon.com/dp/B074GYX6XG?tag=zoepicks00-20",
+    "now": "141.54",
+    "was": "229.00",
     "deal": "Limited time deal",
-    "reviews": 796,
+    "reviews": 1765,
     "tier": "premium"
    }
   ],
@@ -3993,6 +3993,52 @@
   ],
   "other": [
    {
+    "key": "micellar-water",
+    "label": "Micellar Water",
+    "items": [
+     {
+      "asin": "B078WPCDV1",
+      "name": "Garnier Micellar Water For Waterproof Makeup 13.5 Fl Oz 2 Ct",
+      "pct": 23,
+      "rating": 4.7,
+      "t": 1792538757,
+      "img": "https://m.media-amazon.com/images/I/81p+-neThCL.jpg",
+      "link": "https://www.amazon.com/dp/B078WPCDV1?tag=zoepicks00-20",
+      "now": "13.55",
+      "was": "17.63",
+      "reviews": 52666,
+      "tier": "budget"
+     },
+     {
+      "asin": "B086M1HVSD",
+      "name": "Mustela Certified Organic Micellar Cleansing Water…",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1792538757,
+      "img": "https://m.media-amazon.com/images/I/61OXLrnfJbL.jpg",
+      "link": "https://www.amazon.com/dp/B086M1HVSD?tag=zoepicks00-20",
+      "now": "15.00",
+      "was": "20.00",
+      "deal": "Limited time deal",
+      "reviews": 1424,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FLKBP51P",
+      "name": "Garnier Micellar Water",
+      "pct": 7,
+      "rating": 4.7,
+      "t": 1792538757,
+      "img": "https://m.media-amazon.com/images/I/71xRaosUajL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLKBP51P?tag=zoepicks00-20",
+      "now": "16.33",
+      "was": "17.64",
+      "reviews": 1334,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "fireproof-safes",
     "label": "Fireproof Safes",
     "items": [
@@ -4089,11 +4135,6 @@
     ]
    },
    {
-    "key": "micellar-water",
-    "label": "Micellar Water",
-    "items": []
-   },
-   {
     "key": "nail-polish",
     "label": "Nail Polish",
     "items": []
@@ -4181,13 +4222,28 @@
     ]
    },
    {
-    "key": "self-cleaning-litter-boxes",
-    "label": "Self Cleaning Litter Boxes",
-    "items": []
-   },
-   {
     "key": "dog-harnesses",
     "label": "Dog Harnesses",
+    "items": [
+     {
+      "asin": "B0BHMYKCJT",
+      "name": "WINGOIN Tactical Dog Harness",
+      "pct": 10,
+      "rating": 4.4,
+      "t": 1792538791,
+      "img": "https://m.media-amazon.com/images/I/71FfyMJCWEL.jpg",
+      "link": "https://www.amazon.com/dp/B0BHMYKCJT?tag=zoepicks00-20",
+      "now": "23.39",
+      "was": "25.99",
+      "deal": "Limited time deal",
+      "reviews": 9381,
+      "tier": "mid"
+     }
+    ]
+   },
+   {
+    "key": "self-cleaning-litter-boxes",
+    "label": "Self Cleaning Litter Boxes",
     "items": []
    }
   ],
@@ -4453,6 +4509,102 @@
   ],
   "tools_auto": [
    {
+    "key": "dash-cams",
+    "label": "Dash Cams",
+    "items": [
+     {
+      "asin": "B0GJ2Q6SFN",
+      "name": "Eivikga 3 Channel Dash Cam",
+      "pct": 63,
+      "rating": 4.3,
+      "t": 1792538910,
+      "img": "https://m.media-amazon.com/images/I/71HNf+cM+PL.jpg",
+      "link": "https://www.amazon.com/dp/B0GJ2Q6SFN?tag=zoepicks00-20",
+      "now": "52.32",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 109,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H93T31W3",
+      "name": "4K+4K Dual Dash Cam Front and Rear",
+      "pct": 40,
+      "rating": 4.7,
+      "t": 1792538910,
+      "img": "https://m.media-amazon.com/images/I/81sED5fjPYL.jpg",
+      "link": "https://www.amazon.com/dp/B0H93T31W3?tag=zoepicks00-20",
+      "now": "109.97",
+      "was": "183.29",
+      "deal": "Limited time deal",
+      "reviews": 152,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FXWYWM8L",
+      "name": "Vantrue N4S 2.7K 3 Channel Dash Cam",
+      "pct": 27,
+      "rating": 4.3,
+      "t": 1792538910,
+      "img": "https://m.media-amazon.com/images/I/81vt9WaG1RL.jpg",
+      "link": "https://www.amazon.com/dp/B0FXWYWM8L?tag=zoepicks00-20",
+      "now": "219.99",
+      "was": "299.99",
+      "deal": "Limited time deal",
+      "reviews": 561,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cordless-drills",
+    "label": "Cordless Drills",
+    "items": [
+     {
+      "asin": "B006V6YAPI",
+      "name": "BLACK+DECKER 20V MAX POWERCONNECT Power Drill Cordless…",
+      "pct": 17,
+      "rating": 4.5,
+      "t": 1792538899,
+      "img": "https://m.media-amazon.com/images/I/71kJXQeeePL.jpg",
+      "link": "https://www.amazon.com/dp/B006V6YAPI?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 39068,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F916XPT8",
+      "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
+      "pct": 61,
+      "rating": 4.3,
+      "t": 1792538899,
+      "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
+      "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
+      "now": "54.99",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 71,
+      "tier": "mid"
+     },
+     {
+      "asin": "B074GYX6XG",
+      "name": "Bosch GSR12V-140FCB22 12V Max Drill/Driver",
+      "pct": 38,
+      "rating": 4.7,
+      "t": 1792538899,
+      "img": "https://m.media-amazon.com/images/I/91dpuMY2ppL.jpg",
+      "link": "https://www.amazon.com/dp/B074GYX6XG?tag=zoepicks00-20",
+      "now": "141.54",
+      "was": "229.00",
+      "deal": "Limited time deal",
+      "reviews": 1765,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "tire-inflators",
     "label": "Tire Inflators",
     "items": [
@@ -4501,6 +4653,54 @@
     ]
    },
    {
+    "key": "pressure-washers",
+    "label": "Pressure Washers",
+    "items": [
+     {
+      "asin": "B0BP9H5TQY",
+      "name": "Greenworks 1800 PSI",
+      "pct": 41,
+      "rating": 4.4,
+      "t": 1792538930,
+      "img": "https://m.media-amazon.com/images/I/71NjaFRn2NL.jpg",
+      "link": "https://www.amazon.com/dp/B0BP9H5TQY?tag=zoepicks00-20",
+      "now": "94.99",
+      "was": "159.99",
+      "deal": "Limited time deal",
+      "reviews": 518,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0989M4WJ1",
+      "name": "Greenworks 2000 PSI",
+      "pct": 22,
+      "rating": 4.4,
+      "t": 1792538930,
+      "img": "https://m.media-amazon.com/images/I/71MjdL1aavL.jpg",
+      "link": "https://www.amazon.com/dp/B0989M4WJ1?tag=zoepicks00-20",
+      "now": "179.99",
+      "was": "229.99",
+      "deal": "Limited time deal",
+      "reviews": 1688,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09ZKZLWDV",
+      "name": "Greenworks 3000 PSI",
+      "pct": 38,
+      "rating": 4.2,
+      "t": 1792538930,
+      "img": "https://m.media-amazon.com/images/I/71JcJs9EGwL.jpg",
+      "link": "https://www.amazon.com/dp/B09ZKZLWDV?tag=zoepicks00-20",
+      "now": "309.99",
+      "was": "499.99",
+      "deal": "Limited time deal",
+      "reviews": 1069,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "obd2-scanners",
     "label": "Obd2 Scanners",
     "items": [
@@ -4537,21 +4737,6 @@
       "reviews": 1774
      }
     ]
-   },
-   {
-    "key": "cordless-drills",
-    "label": "Cordless Drills",
-    "items": []
-   },
-   {
-    "key": "dash-cams",
-    "label": "Dash Cams",
-    "items": []
-   },
-   {
-    "key": "pressure-washers",
-    "label": "Pressure Washers",
-    "items": []
    }
   ],
   "toys_kids": [
