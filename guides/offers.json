@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-21T08:35:04Z",
+ "updated": "2026-10-21T10:35:28Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -90,17 +90,16 @@
   ],
   "electronics": [
    {
-    "asin": "B0HDT3RMC9",
-    "name": "Acer Wireless Gaming Headset",
-    "pct": 45,
-    "rating": 4.2,
-    "t": 1792503916,
-    "img": "https://m.media-amazon.com/images/I/71WUxRjul4L.jpg",
-    "link": "https://www.amazon.com/dp/B0HDT3RMC9?tag=zoepicks00-20",
-    "now": "43.98",
-    "was": "79.99",
-    "deal": "Limited time deal",
-    "reviews": 58,
+    "asin": "B0HL47W9B6",
+    "name": "Qecnato 75H Sports Wireless Earbuds Bluetooth 5.4…",
+    "pct": 50,
+    "rating": 4.3,
+    "t": 1792578771,
+    "img": "https://m.media-amazon.com/images/I/71rZqcm0-hL.jpg",
+    "link": "https://www.amazon.com/dp/B0HL47W9B6?tag=zoepicks00-20",
+    "now": "15.99",
+    "was": "31.99",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -156,15 +155,13 @@
     "tier": "mid"
    },
    {
-    "asin": "B08FSYXD32",
-    "name": "GEEK LIGHTING Men’s Fleece-Lined Zip Up Hoodie",
-    "pct": 53,
-    "rating": 4.4,
-    "t": 1792559038,
-    "img": "https://m.media-amazon.com/images/I/71cxQHoAN4L.jpg",
-    "link": "https://www.amazon.com/dp/B08FSYXD32?tag=zoepicks00-20",
-    "now": "32.98",
-    "was": "69.99",
+    "asin": "B09Z6DF78P",
+    "name": "Bedsure Wearable Blanket Hoodie",
+    "pct": 45,
+    "rating": 4.8,
+    "t": 1792558987,
+    "img": "https://m.media-amazon.com/images/I/81Pcw85xeJL.jpg",
+    "link": "https://www.amazon.com/dp/B09Z6DF78P?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -1386,6 +1383,19 @@
     "label": "Wireless Earbuds",
     "items": [
      {
+      "asin": "B0HL47W9B6",
+      "name": "Qecnato 75H Sports Wireless Earbuds Bluetooth 5.4…",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1792578771,
+      "img": "https://m.media-amazon.com/images/I/71rZqcm0-hL.jpg",
+      "link": "https://www.amazon.com/dp/B0HL47W9B6?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "31.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0CSXV3GK4",
       "name": "Wireless Earbuds 75H Bluetooth 5.4 Sport Headphones",
       "pct": 39,
@@ -1397,20 +1407,6 @@
       "was": "39.99",
       "deal": "Limited time deal",
       "reviews": 26547,
-      "tier": "budget"
-     },
-     {
-      "asin": "B07T6FNLQV",
-      "name": "LC-dolida Sleep Headphones",
-      "pct": 35,
-      "rating": 4.2,
-      "t": 1792543831,
-      "img": "https://m.media-amazon.com/images/I/71GGksIzY-L.jpg",
-      "link": "https://www.amazon.com/dp/B07T6FNLQV?tag=zoepicks00-20",
-      "now": "25.96",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 22224,
       "tier": "mid"
      },
      {
@@ -1583,50 +1579,6 @@
   ],
   "fashion": [
    {
-    "key": "hoodies",
-    "label": "Hoodies",
-    "items": [
-     {
-      "asin": "B0F93M7HTP",
-      "name": "Trendy Queen Womens Zip Up Cropped Hoodies Mock Neck…",
-      "pct": 50,
-      "rating": 4.2,
-      "t": 1792558984,
-      "img": "https://m.media-amazon.com/images/I/71ZL4H4jvgL.jpg",
-      "link": "https://www.amazon.com/dp/B0F93M7HTP?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08FSYXD32",
-      "name": "GEEK LIGHTING Men’s Fleece-Lined Zip Up Hoodie",
-      "pct": 53,
-      "rating": 4.4,
-      "t": 1792559038,
-      "img": "https://m.media-amazon.com/images/I/71cxQHoAN4L.jpg",
-      "link": "https://www.amazon.com/dp/B08FSYXD32?tag=zoepicks00-20",
-      "now": "32.98",
-      "was": "69.99",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F9FH9CBJ",
-      "name": "PRETTYGARDEN 2 Piece Lounge Sets",
-      "pct": 28,
-      "rating": 4.2,
-      "t": 1792543912,
-      "img": "https://m.media-amazon.com/images/I/61T7WbH4UvL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9FH9CBJ?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 1354,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "compression-socks",
     "label": "Compression Socks",
     "items": [
@@ -1674,48 +1626,43 @@
     ]
    },
    {
-    "key": "travel-backpacks",
-    "label": "Travel Backpacks",
+    "key": "hoodies",
+    "label": "Hoodies",
     "items": [
      {
-      "asin": "B07CPW148Z",
-      "name": "abshoo Classical Basic Womens Travel Backpack For College…",
+      "asin": "B0F93M7HTP",
+      "name": "Trendy Queen Womens Zip Up Cropped Hoodies Mock Neck…",
       "pct": 50,
-      "rating": 4.6,
-      "t": 1792559037,
-      "img": "https://m.media-amazon.com/images/I/812vsAFmvYL.jpg",
-      "link": "https://www.amazon.com/dp/B07CPW148Z?tag=zoepicks00-20",
-      "now": "15.00",
-      "was": "29.99",
-      "reviews": 18909,
+      "rating": 4.2,
+      "t": 1792558984,
+      "img": "https://m.media-amazon.com/images/I/71ZL4H4jvgL.jpg",
+      "link": "https://www.amazon.com/dp/B0F93M7HTP?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "budget"
      },
      {
-      "asin": "B071ZYHCM6",
-      "name": "YOREPEK Large Laptop Backpack",
-      "pct": 47,
-      "rating": 4.7,
-      "t": 1792543912,
-      "img": "https://m.media-amazon.com/images/I/71dSOfW5A0L.jpg",
-      "link": "https://www.amazon.com/dp/B071ZYHCM6?tag=zoepicks00-20",
-      "now": "22.07",
-      "was": "41.99",
-      "deal": "Limited time deal",
-      "reviews": 53191,
+      "asin": "B09Z6DF78P",
+      "name": "Bedsure Wearable Blanket Hoodie",
+      "pct": 45,
+      "rating": 4.8,
+      "t": 1792558987,
+      "img": "https://m.media-amazon.com/images/I/81Pcw85xeJL.jpg",
+      "link": "https://www.amazon.com/dp/B09Z6DF78P?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "mid"
      },
      {
-      "asin": "B07V4R4Z77",
-      "name": "SHRRADOO Extra Large Travel Laptop Backpack",
-      "pct": 15,
-      "rating": 4.7,
-      "t": 1792504299,
-      "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
-      "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "29.99",
+      "asin": "B0F9FH9CBJ",
+      "name": "PRETTYGARDEN 2 Piece Lounge Sets",
+      "pct": 28,
+      "rating": 4.2,
+      "t": 1792543912,
+      "img": "https://m.media-amazon.com/images/I/61T7WbH4UvL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9FH9CBJ?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "49.99",
       "deal": "Limited time deal",
-      "reviews": 43969,
+      "reviews": 1354,
       "tier": "premium"
      }
     ]
@@ -1764,6 +1711,54 @@
       "was": "49.99",
       "deal": "Limited time deal",
       "reviews": 3925,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "travel-backpacks",
+    "label": "Travel Backpacks",
+    "items": [
+     {
+      "asin": "B06XZTZ7GB",
+      "name": "MATEIN Travel Laptop Backpack",
+      "pct": 45,
+      "rating": 4.7,
+      "t": 1792504299,
+      "img": "https://m.media-amazon.com/images/I/71ocYTnmgeL.jpg",
+      "link": "https://www.amazon.com/dp/B06XZTZ7GB?tag=zoepicks00-20",
+      "now": "18.68",
+      "was": "33.99",
+      "deal": "Limited time deal",
+      "reviews": 115273,
+      "tier": "budget"
+     },
+     {
+      "asin": "B071ZYHCM6",
+      "name": "YOREPEK Large Laptop Backpack",
+      "pct": 47,
+      "rating": 4.7,
+      "t": 1792543912,
+      "img": "https://m.media-amazon.com/images/I/71dSOfW5A0L.jpg",
+      "link": "https://www.amazon.com/dp/B071ZYHCM6?tag=zoepicks00-20",
+      "now": "22.07",
+      "was": "41.99",
+      "deal": "Limited time deal",
+      "reviews": 53191,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07V4R4Z77",
+      "name": "SHRRADOO Extra Large Travel Laptop Backpack",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1792504299,
+      "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
+      "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 43969,
       "tier": "premium"
      }
     ]
