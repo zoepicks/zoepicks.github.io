@@ -343,20 +343,35 @@
   },
   "hobby_music:usb-microphones": {
    "label": "USB Microphones",
-   "tries": 5,
+   "tries": 6,
    "items": [
+    {
+     "asin": "B0H3Q19N47",
+     "name": "SONEVOX NeoMic Mini Wireless Microphone",
+     "pct": 40,
+     "rating": 4.8,
+     "t": 1792590208,
+     "img": "https://m.media-amazon.com/images/I/712qjEX4WJL.jpg",
+     "link": "https://www.amazon.com/dp/B0H3Q19N47?tag=zoepicks00-20",
+     "now": "29.98",
+     "was": "49.99",
+     "deal": "Limited time deal",
+     "reviews": 263,
+     "_title": "SONEVOX NeoMic Mini Wireless Microphone for iPhone&Android (2TX+USB-C RX) | Clear 48kHz/24-bit Audio, AI Noise Cancellatio...",
+     "_price": 29.98
+    },
     {
      "asin": "B01LY6Z2M6",
      "name": "Logitech Creators Blue Yeti USB Microphone",
      "pct": 29,
      "rating": 4.6,
-     "t": 1792503989,
+     "t": 1792590208,
      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
      "now": "99.99",
      "was": "139.99",
      "deal": "Limited time deal",
-     "reviews": 57172,
+     "reviews": 57174,
      "_title": "Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Streaming, Podcasting, Studio and Computer Condenser Mic w...",
      "_price": 99.99
     },
@@ -365,7 +380,7 @@
      "name": "BRIBAT USB Microphone",
      "pct": 24,
      "rating": 4.4,
-     "t": 1792503989,
+     "t": 1792590208,
      "img": "https://m.media-amazon.com/images/I/71sWJkQ8HmL.jpg",
      "link": "https://www.amazon.com/dp/B0GTZ865L3?tag=zoepicks00-20",
      "now": "15.29",
@@ -380,18 +395,18 @@
      "name": "Hollyland Lark M2 Wireless Microphone",
      "pct": 10,
      "rating": 4.7,
-     "t": 1792503989,
+     "t": 1792590208,
      "img": "https://m.media-amazon.com/images/I/71enGNvpFyL.jpg",
      "link": "https://www.amazon.com/dp/B0CP7P4RRQ?tag=zoepicks00-20",
      "now": "68.40",
      "was": "76.00",
      "deal": "Limited time deal",
-     "reviews": 14315,
+     "reviews": 14331,
      "_title": "Hollyland Lark M2 Wireless Microphone for iPhone15/16/17&Android, USB C Mini Lapel Microphone Wireless, 1000ft Range, Hi-F...",
      "_price": 68.4
     }
    ],
-   "scanned": "2026-10-20T13:46:29.783283+00:00",
+   "scanned": "2026-10-21T13:43:28.688090+00:00",
    "via": "sweep"
   },
   "home_kitchen:air-fryers": {
@@ -8092,7 +8107,7 @@
    "types": 10
   },
   "hobby_music": {
-   "at": "2026-10-20T13:46:29.783283+00:00",
+   "at": "2026-10-21T13:43:28.688090+00:00",
    "pages": 10,
    "cards": 240,
    "offer_cards": 238,
