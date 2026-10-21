@@ -4,8 +4,12 @@
  "category": "gaming",
  "date": "Oct 21, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No usable data",
- "assumptions": "None",
+ "method": "Selected products that appear in at least two of the cited sources (Rtings, TechGearLab, GamesRadar, Eurogamer).",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "Corsair HS80 RGB Wireless",
+  "line": "Picture a gamer who wants a wireless headset with solid sound and a comfortable fit for long sessions. The HS80 RGB Wireless delivers that, plus a clear mic and good battery life. Its main catch is that it lacks active noise cancellation."
+ },
  "draft": true
 }

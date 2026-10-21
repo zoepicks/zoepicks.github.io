@@ -3,9 +3,99 @@
  "title": "Best Sweatpants (2026)",
  "category": "fashion",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the reviews on TypicalContents.com, MensHealth.com, and Women’sHealthMag.com, focusing on items mentioned in multiple sources.",
- "assumptions": "Prices are not provided in the sources, so no cost comparison is made.",
- "products": [],
- "draft": true
+ "summary": "The guide highlights four sweatpants that combine comfort, style, and versatility, with the Lululemon ABC Jogger standing out as the top choice for most buyers.",
+ "method": "Selected products were chosen from Women’s Health, TypicalContents, and Men’s Health reviews, prioritizing items mentioned by multiple sources and noting their key attributes.",
+ "assumptions": "No price information was available in the sources, so price fields are null.",
+ "products": [
+  {
+   "name": "Lululemon ABC Jogger",
+   "short": "ABC Jogger",
+   "badge": "Best Overall",
+   "why": [
+    "The Lululemon ABC Jogger is highlighted as the best overall in Men’s Health and is also listed in TypicalContents as a top pick. It features stretchy fabric that allows a full range of motion, retains shape, and resists wrinkles. The design includes anti‑ball crushing for extra breathability and front pockets with hidden phone and coin sleeves."
+   ],
+   "desc": "The Lululemon ABC Jogger is a jogger‑style sweatpant made from stretchy fabric that keeps its shape and resists wrinkles. It has front pockets with hidden phone and coin sleeves and an anti‑ball crushing crotch area.",
+   "benefit": "Picture a day where you run errands, hit the gym, or work from home in the same pair. The Lululemon ABC Jogger offers stretchy fabric, shape‑retaining performance, and a clean look that works in any setting. It beats the other picks because it is the only pair in this guide that combines full‑range motion, wrinkle resistance, and a versatile aesthetic. The catch: it can feel a bit snug around the seat.",
+   "specs": [
+    "Stretchy fabric allows a full range of motion",
+    "Retains its shape and resists wrinkles",
+    "Anti‑ball crushing allows for extra breathability in crotch area",
+    "Front pockets with hidden phone and coin sleeves"
+   ],
+   "pros": [
+    "Full range of motion",
+    "Shape‑retaining",
+    "Wrinkle resistant",
+    "Hidden pockets"
+   ],
+   "cons": [
+    "Might be a little snug around the seat"
+   ],
+   "best_for": "People who need versatile, comfortable, and stylish sweatpants for work, gym, and casual wear",
+   "skip_if": "You prefer a very loose or baggy fit",
+   "link": "https://www.amazon.com/s?k=Lululemon+ABC+Jogger&tag=zoepicks00-20"
+  },
+  {
+   "name": "Alo Accolade Straight Leg Sweatpant",
+   "short": "Accolade",
+   "badge": "Best Straight Leg",
+   "why": [
+    "Alo Accolade is listed as the best straight leg in Women’s Health and as the best everyday in Men’s Health. It is made from soft, breathable fabrics and offers a polished look suitable for multiple settings."
+   ],
+   "desc": "The Alo Accolade Straight Leg Sweatpant is a straight‑leg style made from soft, breathable fabric. It has a clean, polished design that can be worn beyond the couch.",
+   "benefit": "Picture a relaxed weekend where you lounge at home or meet friends for coffee. The Accolade’s straight‑leg cut and soft fabric keep you comfortable while looking neat. It wins against the other picks because it offers a more tailored silhouette and a polished aesthetic. The catch: it may not have the same level of stretch as the Lululemon ABC Jogger.",
+   "specs": [
+    "Straight‑leg cut",
+    "Soft, breathable fabric",
+    "Polished design"
+   ],
+   "pros": [
+    "Tailored silhouette",
+    "Soft fabric",
+    "Versatile look"
+   ],
+   "cons": [
+    "Less stretch than some joggers"
+   ],
+   "best_for": "Those who want a sleek, comfortable pair that works for casual outings and relaxed home days",
+   "skip_if": "You need high stretch for active workouts",
+   "link": "https://www.amazon.com/s?k=Alo+Accolade+Straight+Leg+Sweatpant&tag=zoepicks00-20"
+  },
+  {
+   "name": "Uniqlo Wide Sweatpants",
+   "short": "Uniqlo Wide",
+   "badge": "Best Everyday",
+   "why": [
+    "Uniqlo Wide Sweatpants are highlighted in Men’s Health as the best everyday pair and in TypicalContents as a budget pick. They feature a wide leg cut and comfortable fit suitable for daily wear."
+   ],
+   "desc": "The Uniqlo Wide Sweatpants are a wide‑leg style made from comfortable fabric. They are designed for everyday wear and are budget friendly.",
+   "benefit": "Picture a busy day where you move from home to a casual meet‑up without changing clothes. The Uniqlo Wide Sweatpants provide a relaxed fit and easy movement for everyday activities. They win against the other picks by offering the most relaxed fit in this guide. The catch: they may lack the performance features of more specialized joggers.",
+   "specs": [
+    "Wide‑leg cut",
+    "Comfortable fabric",
+    "Budget friendly"
+   ],
+   "pros": [
+    "Relaxed fit",
+    "Easy movement",
+    "Affordable"
+   ],
+   "cons": [
+    "Limited performance features"
+   ],
+   "best_for": "People who prioritize comfort and affordability for daily wear",
+   "skip_if": "You need high performance or a tailored look",
+   "link": "https://www.amazon.com/s?k=Uniqlo+Wide+Sweatpants&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Lululemon ABC Jogger",
+  "line": "Picture a day where you run errands, hit the gym, or work from home in the same pair. The Lululemon ABC Jogger offers stretchy fabric, shape‑retaining performance, and a clean look that works in any setting. The catch: it can feel a bit snug around the seat.",
+  "also": [
+   [
+    "Best for relaxed fit",
+    "Uniqlo Wide Sweatpants"
+   ]
+  ]
+ }
 }

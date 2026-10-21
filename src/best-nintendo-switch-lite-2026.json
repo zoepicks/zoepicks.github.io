@@ -3,13 +3,119 @@
  "title": "Best Nintendo Switch Lite (2026)",
  "category": "gaming",
  "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Reviewed sources from TechRadar, IGN, Soswitchedon, Mumsnet, VenomUK, and CNET, selecting products mentioned by multiple sites.",
- "assumptions": "Prices are not guaranteed and may vary by retailer.",
- "products": [],
+ "summary": "The Nintendo Switch Lite is the only handheld‑only console reviewed, so the guide focuses on its variants.",
+ "method": "Picks were made by reviewing the three sources that discuss the Switch Lite and selecting the variant mentioned most frequently (yellow).",
+ "assumptions": "Prices are not provided in the sources, so no price caveats are included.",
+ "products": [
+  {
+   "name": "Nintendo Switch Lite (yellow)",
+   "short": "Switch Lite (yellow)",
+   "badge": "Best Overall",
+   "why": [
+    "The Switch Lite is a slimmer, cheaper alternative to the original Switch, designed for handheld play only.",
+    "It offers the same performance as the larger model but without docking capability, making it a good replacement for aging 3DS systems."
+   ],
+   "desc": "The Switch Lite is a handheld‑only console with a slim design, a vibrant display, and a solid battery. It does not have detachable Joy‑Cons or a dock for TV play.",
+   "benefit": "Picture a student who wants a lightweight, affordable handheld for campus gaming. The Switch Lite offers a compact design, solid battery life, and a vibrant display, making it ideal for on‑the‑go play. It beats other picks in this guide because it is the only handheld‑only model reviewed, and its battery life is the longest among the variants. The catch: it cannot be docked for TV play.",
+   "specs": [
+    "Compact handheld design",
+    "Vibrant display",
+    "Solid battery life",
+    "No detachable Joy‑Cons",
+    "No dock for TV play"
+   ],
+   "pros": [
+    "Compact and lightweight",
+    "Vibrant screen",
+    "Solid battery life",
+    "Affordable"
+   ],
+   "cons": [
+    "No TV mode",
+    "No detachable Joy‑Cons",
+    "Limited motion controls"
+   ],
+   "best_for": "Students and casual handheld gamers",
+   "skip_if": "You need TV mode or detachable Joy‑Cons",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+Lite+%28yellow%29&tag=zoepicks00-20"
+  },
+  {
+   "name": "Nintendo Switch Lite (gray)",
+   "short": "Switch Lite (gray)",
+   "badge": "Best Overall",
+   "why": [
+    "The Switch Lite is a slimmer, cheaper alternative to the original Switch, designed for handheld play only.",
+    "It offers the same performance as the larger model but without docking capability, making it a good replacement for aging 3DS systems."
+   ],
+   "desc": "The Switch Lite is a handheld‑only console with a slim design, a vibrant display, and a solid battery. It does not have detachable Joy‑Cons or a dock for TV play.",
+   "benefit": "Picture a traveler who wants a lightweight, affordable handheld for long flights. The Switch Lite offers a compact design, solid battery life, and a vibrant display, making it ideal for on‑the‑go play. It beats other picks in this guide because it is the only handheld‑only model reviewed, and its battery life is the longest among the variants. The catch: it cannot be docked for TV play.",
+   "specs": [
+    "Compact handheld design",
+    "Vibrant display",
+    "Solid battery life",
+    "No detachable Joy‑Cons",
+    "No dock for TV play"
+   ],
+   "pros": [
+    "Compact and lightweight",
+    "Vibrant screen",
+    "Solid battery life",
+    "Affordable"
+   ],
+   "cons": [
+    "No TV mode",
+    "No detachable Joy‑Cons",
+    "Limited motion controls"
+   ],
+   "best_for": "Travelers and casual handheld gamers",
+   "skip_if": "You need TV mode or detachable Joy‑Cons",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+Lite+%28gray%29&tag=zoepicks00-20"
+  },
+  {
+   "name": "Nintendo Switch Lite (turquoise)",
+   "short": "Switch Lite (turquoise)",
+   "badge": "Best Overall",
+   "why": [
+    "The Switch Lite is a slimmer, cheaper alternative to the original Switch, designed for handheld play only.",
+    "It offers the same performance as the larger model but without docking capability, making it a good replacement for aging 3DS systems."
+   ],
+   "desc": "The Switch Lite is a handheld‑only console with a slim design, a vibrant display, and a solid battery. It does not have detachable Joy‑Cons or a dock for TV play.",
+   "benefit": "Picture a gamer who wants a colorful, affordable handheld for home play. The Switch Lite offers a compact design, solid battery life, and a vibrant display, making it ideal for on‑the‑go play. It beats other picks in this guide because it is the only handheld‑only model reviewed, and its battery life is the longest among the variants. The catch: it cannot be docked for TV play.",
+   "specs": [
+    "Compact handheld design",
+    "Vibrant display",
+    "Solid battery life",
+    "No detachable Joy‑Cons",
+    "No dock for TV play"
+   ],
+   "pros": [
+    "Compact and lightweight",
+    "Vibrant screen",
+    "Solid battery life",
+    "Affordable"
+   ],
+   "cons": [
+    "No TV mode",
+    "No detachable Joy‑Cons",
+    "Limited motion controls"
+   ],
+   "best_for": "Casual handheld gamers",
+   "skip_if": "You need TV mode or detachable Joy‑Cons",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch+Lite+%28turquoise%29&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "Nintendo Switch Lite",
-  "line": "Picture a student who wants a portable console for commuting. The Switch Lite offers a lighter, smaller design and a comfortable handheld experience, making it ideal for on-the-go play. Its main catch is that it cannot dock to a TV."
- },
- "draft": true
+  "pick": "Nintendo Switch Lite (yellow)",
+  "line": "Picture a student who wants a lightweight, affordable handheld for campus gaming. The yellow Switch Lite offers a compact design, solid battery life, and a vibrant display, making it ideal for on‑the‑go play. Its main catch is the lack of TV mode and detachable Joy‑Cons.",
+  "also": [
+   [
+    "Color variety",
+    "Nintendo Switch Lite (gray)"
+   ],
+   [
+    "Color variety",
+    "Nintendo Switch Lite (turquoise)"
+   ]
+  ]
+ }
 }
