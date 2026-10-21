@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-20T19:21:54.648630+00:00",
+ "generated_at": "2026-10-21T07:26:25.088041+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 138,
+  "pages": 178,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 17
+   "low": 21
   },
-  "avg_guide_words": 938,
+  "avg_guide_words": 935,
   "todo": [
    {
     "sev": "high",
@@ -27,37 +27,48 @@
    {
     "sev": "low",
     "code": "title_length",
-    "count": 12,
+    "count": 14,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
+     "/g/best-self-cleaning-litter-boxes-2026/",
      "/g/best-makeup-primers-2026/",
-     "/g/best-playstation-5-2026/",
-     "/g/best-cameras-for-beginners-2026/"
+     "/g/best-playstation-5-2026/"
     ],
     "detail": "title 69 chars (best 25-65)"
    },
    {
     "sev": "low",
+    "code": "desc_length",
+    "count": 4,
+    "fix": "Descriptions 70-170 chars ke andar rakho.",
+    "example": [
+     "/g/best-monitors-for-mac-2026/",
+     "/g/best-game-controller-2026/",
+     "/g/best-stem-toys-2026/"
+    ],
+    "detail": "description 59 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
     "code": "slow_page",
-    "count": 5,
+    "count": 3,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-food-blender-2026/",
-     "/g/best-cookware-set-2026/",
-     "/g/best-laptop-charger-2026/"
+     "/g/best-camping-tents-2026/",
+     "/g/best-usb-microphones-2026/",
+     "/g/best-espresso-machines-2026/"
     ],
-    "detail": "load 3.31s"
+    "detail": "load 3.89s"
    }
   ],
-  "new_issue_types_since_last_brief": [],
-  "fixed_issue_types_since_last_brief": [
-   "fetch_failed",
-   "broken_link"
+  "new_issue_types_since_last_brief": [
+   "desc_length"
   ],
+  "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 132,
+   "guides_live": 172,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -65,41 +76,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-20T13:02:09.905459+00:00",
+    "t": "2026-10-21T01:24:11.148951+00:00",
     "indexnow": {
      "submitted": 9,
      "http": 200
     }
    },
    {
-    "t": "2026-10-20T16:19:54.701257+00:00",
+    "t": "2026-10-21T04:25:12.456292+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 15,
+     "http": 200
     }
    },
    {
-    "t": "2026-10-20T19:21:48.955605+00:00",
+    "t": "2026-10-21T07:26:19.254191+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 32,
+     "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 4,
-  "today_views": 13,
-  "total_visitors": 95,
-  "total_views": 760,
+  "today_visitors": 2,
+  "today_views": 2,
+  "total_visitors": 99,
+  "total_views": 771,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-14",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-10-15",
     "visitors": 0,
@@ -132,21 +137,27 @@
    },
    {
     "day": "2026-10-20",
-    "visitors": 4,
-    "views": 13,
+    "visitors": 6,
+    "views": 22,
+    "clicks": 0
+   },
+   {
+    "day": "2026-10-21",
+    "visitors": 2,
+    "views": 2,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 15,
-   "warn": 1,
+   "info": 93,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 219,
-   "warn": 48,
+   "info": 354,
+   "warn": 52,
    "error": 0
   },
   "modules_with_errors_7d": [
@@ -158,43 +169,24 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 11
+    "warnings": 15
    }
   ],
   "collector": {
    "today": {
-    "total": 16,
-    "ok": 4,
-    "failed": 3,
-    "cancelled": 8,
-    "running": 1,
-    "failed_runs": [
-     {
-      "run": 86,
-      "at": "2026-10-20T18:46:26Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39477672005"
-     },
-     {
-      "run": 85,
-      "at": "2026-10-20T18:33:00Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39475713442"
-     },
-     {
-      "run": 82,
-      "at": "2026-10-20T16:14:43Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39455712062"
-     }
-    ]
+    "total": 2,
+    "ok": 2,
+    "failed": 0,
+    "cancelled": 0,
+    "running": 0,
+    "failed_runs": []
    },
    "last7d": {
-    "total": 87,
-    "ok": 43,
+    "total": 95,
+    "ok": 52,
     "failed": 23,
     "cancelled": 20,
-    "running": 1,
+    "running": 0,
     "failed_runs": [
      {
       "run": 15,
@@ -261,24 +253,17 @@
   },
   "site_deploys": {
    "today": {
-    "total": 109,
-    "ok": 108,
-    "failed": 1,
+    "total": 73,
+    "ok": 73,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 768,
-      "at": "2026-10-20T10:01:03Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39404887748"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
-    "ok": 295,
-    "failed": 5,
+    "ok": 298,
+    "failed": 2,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -293,24 +278,6 @@
       "at": "2026-10-19T11:05:19Z",
       "event": "push",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39242077918"
-     },
-     {
-      "run": 554,
-      "at": "2026-10-19T08:17:11Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39221685356"
-     },
-     {
-      "run": 501,
-      "at": "2026-10-19T05:45:51Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39206225052"
-     },
-     {
-      "run": 500,
-      "at": "2026-10-19T05:45:44Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39206215960"
      }
     ]
    }
@@ -334,123 +301,123 @@
    {
     "module": "ZOESEO",
     "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
     "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 4 HIGH issue(s): fetch_failed, contact_email_placeholder, broken_link"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 132,
+  "live_guides": 172,
   "missing_topics_by_status": {
-   "open": 106,
-   "covered": 32,
+   "open": 114,
    "built": 46,
-   "queued": 16
+   "covered": 27,
+   "queued": 13
   },
   "missing_new": {
-   "today": 13,
+   "today": 0,
    "d7": 200,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "giant lego set",
+    "topic": "black hoodie",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792548303",
+    "last_at": "1792548303"
+   },
+   {
+    "topic": "sneakers",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792522738",
-    "last_at": "1792522895"
+    "first_at": "1792547568",
+    "last_at": "1792547857"
    },
    {
-    "topic": "bookshelf",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792281097",
-    "last_at": "1792522368"
-   },
-   {
-    "topic": "godzilla blu ray disc",
+    "topic": "electric scooter",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792521582",
-    "last_at": "1792521582"
+    "first_at": "1792546756",
+    "last_at": "1792546756"
    },
    {
-    "topic": "dog stroller",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792519719",
-    "last_at": "1792520068"
-   },
-   {
-    "topic": "heated massage pad",
+    "topic": "vrr monitor",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792519563",
-    "last_at": "1792519563"
+    "first_at": "1792541870",
+    "last_at": "1792541870"
    },
    {
-    "topic": "small lamp",
+    "topic": "north face puffer jacket",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792512743",
-    "last_at": "1792512743"
+    "first_at": "1792540910",
+    "last_at": "1792540910"
    },
    {
-    "topic": "bedroom furniture set",
+    "topic": "wedge sneakers",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792503492",
-    "last_at": "1792503492"
+    "first_at": "1792538992",
+    "last_at": "1792538992"
    },
    {
-    "topic": "small phone purse",
+    "topic": "video game controller",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792445851",
-    "last_at": "1792445851"
+    "first_at": "1792538911",
+    "last_at": "1792538911"
    },
    {
-    "topic": "men's perfume",
+    "topic": "knife set",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792444077",
-    "last_at": "1792444077"
+    "first_at": "1792536396",
+    "last_at": "1792536396"
    },
    {
-    "topic": "dreamcast console",
-    "leads": "1",
+    "topic": "over-bed desk",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792441622",
-    "last_at": "1792441622"
+    "first_at": "1792534529",
+    "last_at": "1792534665"
+   },
+   {
+    "topic": "office chair",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792369641",
+    "last_at": "1792534399"
    }
   ]
  },
@@ -680,9 +647,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 138,
+    "urls": 178,
     "other_host_urls": 0,
-    "live_pages_crawled": 138
+    "live_pages_crawled": 178
    },
    "permission": "siteOwner",
    "resubmitted": null,
