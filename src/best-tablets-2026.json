@@ -2,7 +2,7 @@
  "slug": "best-tablets-2026",
  "title": "Top Tablets Worth Buying This Holiday Season (2026)",
  "category": "electronics",
- "date": "Oct 16, 2026",
+ "date": "Oct 22, 2026",
  "summary": "The iPad and Samsung Galaxy Tab lines lead the tablet picks from the main review sites this year.",
  "method": "Picks come from Tom's Guide (via AOL), TechRadar, Tech Advisor and Consumer Reports' tablet testing. Only models covered by at least two of these sources are listed.",
  "assumptions": "We show no prices because tablet prices change often. Check the current price and storage size before you buy.",
@@ -137,6 +137,78 @@
    "amazon_rating": "4.7",
    "amazon_reviews": 835,
    "amazon_rating_asof": "Oct 20, 2026"
+  },
+  {
+   "name": "Apple iPad Mini (7th Gen)",
+   "short": "iPad Mini",
+   "badge": "Best Overall",
+   "why": [
+    "CNET lists the seventh-gen iPad Mini among the best tablets you can buy, noting that all iPads are top-tier options. It is highlighted as a quality choice for users who want a premium small tablet.",
+    "ZDNET includes it in their list of the best small tablets for 2026, suitable for reading, watching videos, or as a kid-friendly option. It offers rapid performance and access to favorite apps."
+   ],
+   "desc": "The iPad Mini is a small tablet with a display size ranging from around six to 10 inches. It offers rapid performance and access to apps. It is a premium device from Apple.",
+   "benefit": "Picture a commuter using it to read on the beach or watch videos during a long car trip. It provides a vibrant display and powerful performance that rivals larger tablets. It beats the Amazon Fire HD 10 in build quality and app ecosystem, and it is more versatile than the Ayaneo Pocket Micro for general use. The catch: It is an Apple device, so it may not be suitable for users who prefer Android or Windows.",
+   "specs": [
+    "Display size: around six to 10 inches",
+    "Rapid performance",
+    "Access to favorite apps",
+    "Vibrant display"
+   ],
+   "pros": [
+    "High-quality build",
+    "Rapid performance",
+    "Great for reading and video",
+    "Kid-friendly option"
+   ],
+   "cons": [
+    "Premium price point implied by 'best' status",
+    "Limited to Apple ecosystem"
+   ],
+   "best_for": "Users who want a premium, versatile small tablet for media and light productivity.",
+   "skip_if": "You are strictly on a budget or prefer Android.",
+   "link": "https://www.amazon.com/s?k=Apple+iPad+Mini+%287th+Gen%29&tag=zoepicks00-20",
+   "tabs": [
+    "pocket"
+   ]
+  },
+  {
+   "name": "Amazon Fire HD 10",
+   "short": "Fire HD 10",
+   "badge": "Best Budget",
+   "why": [
+    "PCMag names the Fire HD 10 as an Editors' Choice winner and the best cheap tablet for most people. It offers the best blend of performance, price, and size in the Fire lineup.",
+    "CNET includes it in their list of top tablets, noting that affordable budget tablets are good for consuming media or playing casual games."
+   ],
+   "desc": "The Fire HD 10 is a budget tablet designed for reading books, watching videos, and browsing the web. It is part of the Fire lineup and offers a good balance of performance and size.",
+   "benefit": "Picture a student using it to read textbooks or watch lectures without spending a lot of money. It provides exceptional value for basic entertainment tasks. It beats the iPad Mini on price and is more focused on media consumption than the Ayaneo Pocket Micro. The catch: You must be okay with the Fire OS ecosystem, which may limit app availability compared to iOS or Android.",
+   "specs": [
+    "Best blend of performance, price, and size",
+    "Ideal for reading books",
+    "Ideal for watching videos",
+    "Ideal for browsing the web"
+   ],
+   "pros": [
+    "Exceptional value",
+    "Good for media consumption",
+    "Editors' Choice winner",
+    "Affordable"
+   ],
+   "cons": [
+    "Limited app ecosystem compared to iOS/Android",
+    "Not a professional productivity tool"
+   ],
+   "best_for": "Budget-conscious buyers who primarily use tablets for media and web browsing.",
+   "skip_if": "You need a full Android or iOS experience for productivity apps.",
+   "link": "https://www.amazon.com/s?k=Amazon+Fire+HD+10&tag=zoepicks00-20",
+   "tabs": [
+    "pocket"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "pocket",
+   "label": "Pocket"
   }
  ]
 }
