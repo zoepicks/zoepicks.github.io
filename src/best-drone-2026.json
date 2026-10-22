@@ -28,7 +28,10 @@
    ],
    "best_for": "Professional videographers and advanced hobbyists",
    "skip_if": "You need a low‑cost or ultra‑compact drone",
-   "link": "https://www.amazon.com/s?k=DJI+Air+3S&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DJI+Air+3S&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "DJI Mini 4 Pro",
@@ -51,7 +54,16 @@
    ],
    "best_for": "Travelers and casual flyers who value portability",
    "skip_if": "You need professional‑grade video quality",
-   "link": "https://www.amazon.com/s?k=DJI+Mini+4+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DJI+Mini+4+Pro&tag=zoepicks00-20",
+   "asin": "B0CFF4RYDM",
+   "image": "https://m.media-amazon.com/images/I/61ED-SY-s9L.jpg",
+   "image_asin": "B0CFF4RYDM",
+   "amazon_price": "$1,399.00",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "DJI Mini 4 Pro Fly More Combo with DJI RC 2, Drones with Camera for Adults 4K, Under 0.549",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 3788,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "DJI Flip",
@@ -74,7 +86,13 @@
    ],
    "best_for": "New drone pilots looking for a simple, low‑cost start",
    "skip_if": "You require advanced safety or professional video specs",
-   "link": "https://www.amazon.com/s?k=DJI+Flip&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=DJI+Flip&tag=zoepicks00-20",
+   "asin": "B0DJ1H6KCP",
+   "image": "https://m.media-amazon.com/images/I/717eypARTkL.jpg",
+   "image_asin": "B0DJ1H6KCP",
+   "amazon_price": "$439.00",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "DJI Flip (RC-N3), Drone With 4K UHD Camera for Adults, Under 249 g, 3-Axis Gimbal Stabiliz"
   }
  ],
  "verdict": {
