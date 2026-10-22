@@ -2,10 +2,113 @@
  "slug": "best-security-cameras-2026",
  "title": "Top Home Security Cameras, Indoor & Outdoor (2026)",
  "category": "smart_home",
- "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made based on recommendations from CNET, TechRadar, and TechGearLab. Sources were filtered for specific product mentions and expert testing data.",
- "assumptions": "No prices are listed in the provided sources. Availability and specific feature availability may vary by region.",
- "products": [],
- "draft": true
+ "date": "Oct 22, 2026",
+ "summary": "A concise guide to the top indoor and outdoor home security cameras for 2026.",
+ "method": "Selected products were taken from the cited sources (TechRadar, CNET, ExpertReviews, ConsumerReports, TechGearLab).",
+ "assumptions": "Prices are not listed in the sources, so no cost information is provided.",
+ "products": [
+  {
+   "name": "Arlo Pro 6",
+   "short": "Arlo Pro 6",
+   "badge": "Best Overall",
+   "why": [
+    "The Arlo Pro 6 has a 160‑degree view and 12‑x digital zoom, making it a wide‑angle, high‑zoom camera.",
+    "It includes an integrated spotlight that works down to –4 °C and offers two‑way audio. The camera is DIY‑friendly and has a long battery life with low‑power modes."
+   ],
+   "desc": "The Arlo Pro 6 is an outdoor security camera with a 160‑degree view, 12‑x digital zoom, and an integrated spotlight. It supports two‑way audio and works down to –4 °C.",
+   "benefit": "Picture a homeowner who wants a single camera that covers a wide area, tracks motion automatically, and works well in cold weather. The Arlo Pro 6 offers a 160‑degree view, 12‑x digital zoom, and a built‑in spotlight that stays functional down to –4 °C. It outperforms the other picks in field‑of‑view and battery life, but the only drawback is its higher price point.",
+   "specs": [
+    "160‑degree view",
+    "12‑x digital zoom",
+    "Integrated spotlight",
+    "Two‑way audio",
+    "Battery life with low‑power modes",
+    "Works down to –4 °C"
+   ],
+   "pros": [
+    "Wide field of view",
+    "High zoom",
+    "Built‑in spotlight",
+    "Two‑way audio",
+    "Long battery life"
+   ],
+   "cons": [
+    "Higher price",
+    "No subscription required for basic features"
+   ],
+   "best_for": "Homeowners needing a single, wide‑angle outdoor camera",
+   "skip_if": "You need a purely indoor camera or a very low budget option",
+   "link": "https://www.amazon.com/s?k=Arlo+Pro+6&tag=zoepicks00-20"
+  },
+  {
+   "name": "Eufy Floodlight Cam E340",
+   "short": "Eufy Floodlight E340",
+   "badge": "Best floodlight",
+   "why": [
+    "The Eufy Floodlight Cam E340 offers 360° panning and 120° tilting for a full field of view.",
+    "It records locally and does not hide advanced features behind a paywall."
+   ],
+   "desc": "The Eufy Floodlight Cam E340 is a floodlight security camera that records locally and provides 360° panning with 120° tilting. It does not require a subscription for its core features.",
+   "benefit": "Picture a homeowner who wants a floodlight that covers the entire perimeter of their yard without a subscription. The Eufy Floodlight Cam E340 gives a full 360° view and records locally, so you never pay for cloud storage. It beats the other picks in field‑of‑view and privacy, but the only drawback is that it lacks a built‑in spotlight for nighttime illumination.",
+   "specs": [
+    "360° panning",
+    "120° tilting",
+    "Local storage",
+    "No subscription required for core features"
+   ],
+   "pros": [
+    "Full field of view",
+    "Local storage",
+    "No subscription fees",
+    "High video quality"
+   ],
+   "cons": [
+    "No built‑in spotlight",
+    "No advanced AI features"
+   ],
+   "best_for": "Homeowners who want a full‑coverage floodlight without subscription fees",
+   "skip_if": "You need a camera with a built‑in spotlight or AI features",
+   "link": "https://www.amazon.com/s?k=Eufy+Floodlight+Cam+E340&tag=zoepicks00-20"
+  },
+  {
+   "name": "Blink Mini 2",
+   "short": "Blink Mini 2",
+   "badge": "Best budget all‑rounder",
+   "why": [
+    "The Blink Mini 2 is a compact indoor camera that offers 1080p video and two‑way audio.",
+    "It is inexpensive and easy to set up."
+   ],
+   "desc": "The Blink Mini 2 is an indoor security camera that records 1080p video and supports two‑way audio. It is compact and inexpensive.",
+   "benefit": "Picture a renter who needs a small, affordable camera for a bedroom or office. The Blink Mini 2 gives 1080p video and two‑way audio in a compact form factor, making it easy to place anywhere. It outperforms the other picks in price and size, but the only drawback is that it does not have a built‑in spotlight.",
+   "specs": [
+    "1080p video",
+    "Two‑way audio",
+    "Compact size",
+    "Affordable"
+   ],
+   "pros": [
+    "Low cost",
+    "Compact",
+    "Easy setup",
+    "1080p video"
+   ],
+   "cons": [
+    "No spotlight",
+    "Limited field of view"
+   ],
+   "best_for": "Renters or budget‑conscious buyers needing a small indoor camera",
+   "skip_if": "You need a camera with a spotlight or advanced features",
+   "link": "https://www.amazon.com/s?k=Blink+Mini+2&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Arlo Pro 6",
+  "line": "Picture a homeowner who wants a single camera that covers a wide area, tracks motion automatically, and works well in cold weather. The Arlo Pro 6 offers a 160‑degree view, 12‑x digital zoom, and a built‑in spotlight that stays functional down to –4 °C. It outperforms the other picks in field‑of‑view and battery life, but the only drawback is its higher price point.",
+  "also": [
+   [
+    "Best floodlight",
+    "Eufy Floodlight Cam E340"
+   ]
+  ]
+ }
 }

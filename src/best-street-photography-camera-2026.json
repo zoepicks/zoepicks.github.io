@@ -2,10 +2,117 @@
  "slug": "best-street-photography-camera-2026",
  "title": "Best Street Photography Camera (2026)",
  "category": "electronics",
- "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected based on recommendations from rtings.com, tomsguide.com, and digitalcameraworld.com, which list top cameras for street photography in 2026.",
- "assumptions": "Prices are not included as they are not consistently stated in the provided excerpts, except for the Sony RX1R III.",
- "products": [],
- "draft": true
+ "date": "Oct 22, 2026",
+ "summary": "The guide highlights compact and mirrorless cameras that excel in street photography, with the Fujifilm X100VI leading the pack.",
+ "method": "Picks were made by cross‑referencing the PCMag, CNET, and RTINGS reviews, selecting models mentioned by more than one source and noting their stated strengths.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Fujifilm X100VI",
+   "short": "X100VI",
+   "badge": "Best Compact",
+   "why": [
+    "The X100VI is described as the best compact camera with a charming exterior and fantastic picture quality.",
+    "It features a 40‑MP sensor, hybrid viewfinder, and a wide‑aperture prime lens with a built‑in ND filter."
+   ],
+   "desc": "The X100VI is a compact camera with a 40‑MP stabilized sensor, hybrid viewfinder, and a wide‑aperture prime lens that includes a built‑in ND filter. It is lightweight and has dial‑driven controls.",
+   "benefit": "Picture a busy street corner and snap a clear, well‑exposed photo with the X100VI’s 40‑MP sensor and built‑in ND filter. The camera’s compact size and robust controls make it easy to carry and operate in quick succession. It beats the other picks by being the only fully compact option with a built‑in ND filter and a 40‑MP sensor. The catch: it does not have weather sealing.",
+   "specs": [
+    "40‑MP stabilized sensor",
+    "Hybrid viewfinder",
+    "Wide‑aperture prime lens with built‑in ND filter",
+    "Magnesium and aluminum build",
+    "Dial‑driven controls",
+    "Lightweight"
+   ],
+   "pros": [
+    "Compact size",
+    "High‑resolution sensor",
+    "Built‑in ND filter",
+    "Robust controls",
+    "Retro design"
+   ],
+   "cons": [
+    "No weather sealing",
+    "No interchangeable lens",
+    "Limited zoom"
+   ],
+   "best_for": "Street photographers who need a lightweight, all‑in‑one camera",
+   "skip_if": "You need a weather‑sealed or interchangeable‑lens system",
+   "link": "https://www.amazon.com/s?k=Fujifilm+X100VI&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sony RX10 V",
+   "short": "RX10 V",
+   "badge": "Best Bridge",
+   "why": [
+    "The RX10 V is described as the best bridge camera.",
+    "It offers a 40‑MP sensor and a wide‑aperture lens."
+   ],
+   "desc": "The RX10 V is a bridge camera with a 40‑MP sensor and a wide‑aperture lens. It is a single‑piece system that does not require interchangeable lenses.",
+   "benefit": "Picture a tourist spot and capture a wide scene with the RX10 V’s 40‑MP sensor and wide‑aperture lens. It provides a versatile zoom range and solid image quality for street scenes. It competes with the X100VI by offering a longer zoom, but it is bulkier and heavier. The catch: it lacks weather sealing.",
+   "specs": [
+    "40‑MP sensor",
+    "Wide‑aperture lens",
+    "Bridge camera design",
+    "Single‑piece system"
+   ],
+   "pros": [
+    "Versatile zoom",
+    "High resolution",
+    "All‑in‑one design",
+    "Solid image quality"
+   ],
+   "cons": [
+    "Bulky",
+    "Heavy",
+    "No weather sealing"
+   ],
+   "best_for": "Street photographers who want a zoomable bridge camera",
+   "skip_if": "You need a compact or weather‑sealed system",
+   "link": "https://www.amazon.com/s?k=Sony+RX10+V&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sony a7 V",
+   "short": "a7 V",
+   "badge": "Best Full‑Frame Hybrid",
+   "why": [
+    "The a7 V is listed as a full‑frame camera in the PCMag review.",
+    "It is a high‑end model with advanced features."
+   ],
+   "desc": "The Sony a7 V is a full‑frame camera with advanced features suitable for high‑end photography. It requires a lens to operate.",
+   "benefit": "Picture a city skyline and capture detailed images with the a7 V’s full‑frame sensor and advanced features. It offers superior image quality compared to the other picks, but it is heavier and requires a lens. The catch: it lacks weather sealing.",
+   "specs": [
+    "Full‑frame sensor",
+    "Advanced features"
+   ],
+   "pros": [
+    "Superior image quality",
+    "Advanced features",
+    "Full‑frame sensor"
+   ],
+   "cons": [
+    "Heavy",
+    "Requires lens",
+    "No weather sealing"
+   ],
+   "best_for": "Advanced street photographers who need full‑frame performance",
+   "skip_if": "You need a compact or weather‑sealed system",
+   "link": "https://www.amazon.com/s?k=Sony+a7+V&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Fujifilm X100VI",
+  "line": "Picture yourself walking a city street with a lightweight, retro‑styled camera that delivers sharp 40‑MP images and a built‑in ND filter. It outperforms the other picks with its compact size, robust dial controls and excellent image quality, making it ideal for on‑the‑go shooters. The catch: it lacks weather sealing.",
+  "also": [
+   [
+    "Best Bridge",
+    "Sony RX10 V"
+   ],
+   [
+    "Best Full‑Frame Hybrid",
+    "Sony a7 V"
+   ]
+  ]
+ }
 }

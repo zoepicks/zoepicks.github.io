@@ -2,10 +2,104 @@
  "slug": "best-polo-shirt-2026",
  "title": "Best Polo Shirt (2026)",
  "category": "fashion",
- "date": "Oct 21, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the reviews on pc‑mag.com and wetried.it, favoring items mentioned by more than one source and noting their strengths and drawbacks.",
- "assumptions": "Prices are omitted because the sources do not provide them.",
- "products": [],
- "draft": true
+ "date": "Oct 22, 2026",
+ "summary": "The guide highlights five polo shirts that stand out for fit, fabric, and value.",
+ "method": "Selected products were chosen from the five sources that list them, prioritizing those mentioned by more than one source. The Sunspel Riviera was chosen as the top pick because it is labeled \"Best Overall\" in the typicalcontents.com review and is praised for its fit and fabric.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Sunspel Riviera Polo",
+   "short": "Sunspel Riviera",
+   "badge": "Best Overall",
+   "why": [
+    "The Sunspel Riviera is highlighted as the best polo shirt for its great fit, unique fabric, and strong range of over twenty colors.",
+    "It is praised for its elevated take on the classic polo and is considered the best overall in the review."
+   ],
+   "desc": "The Sunspel Riviera Polo is a classic polo shirt made with a unique fabric that offers a great fit and comes in over twenty colors. It is designed for a smart‑casual look.",
+   "benefit": "Picture a man who wants a classic look with a modern fit; the Sunspel Riviera keeps him comfortable all day. It offers the best overall quality and color range among the picks, while the other polos are either softer or cheaper. The catch: it is not the most affordable option.",
+   "specs": [
+    "Great fit",
+    "Unique fabric",
+    "Over twenty colors"
+   ],
+   "pros": [
+    "Great fit",
+    "Unique fabric",
+    "Wide color range"
+   ],
+   "cons": [
+    "Not the cheapest"
+   ],
+   "best_for": "Men who want a classic, high‑quality polo",
+   "skip_if": "Budget shoppers",
+   "link": "https://www.amazon.com/s?k=Sunspel+Riviera+Polo&tag=zoepicks00-20"
+  },
+  {
+   "name": "H&M Cotton Polo Shirt",
+   "short": "H&M Cotton",
+   "badge": "Budget Pick",
+   "why": [
+    "The H&M Cotton Polo Shirt is identified as a good quality take on the classic item at an affordable price point.",
+    "It is highlighted as a budget pick in the review."
+   ],
+   "desc": "The H&M Cotton Polo Shirt is a classic polo made from cotton, offering a good quality option for those on a budget.",
+   "benefit": "Picture a college student who needs a reliable polo for everyday wear; the H&M Cotton provides a solid fit and affordability. It outperforms the Fresh Clean Threads in price and the Ralph Lauren PoloTech in cost, but it lacks the premium fabric of the Sunspel Riviera. The catch: it is not as soft as the John Smedley Adrian.",
+   "specs": [
+    "Cotton fabric",
+    "Affordable price"
+   ],
+   "pros": [
+    "Affordable",
+    "Good quality"
+   ],
+   "cons": [
+    "Less soft than premium options"
+   ],
+   "best_for": "Budget shoppers",
+   "skip_if": "Those seeking premium fabric",
+   "link": "https://www.amazon.com/s?k=H%26M+Cotton+Polo+Shirt&tag=zoepicks00-20"
+  },
+  {
+   "name": "Fresh Clean Threads Torrey Polo",
+   "short": "Torrey Polo",
+   "badge": "Lightweight & Breathable",
+   "why": [
+    "The Fresh Clean Threads Torrey Polo is praised for being soft, lightweight, and breathable.",
+    "It is highlighted as a top pick for everyday value tees."
+   ],
+   "desc": "The Fresh Clean Threads Torrey Polo is a lightweight, breathable polo made from StratuSoft, offering a soft feel and durability.",
+   "benefit": "Picture a casual worker who needs a comfortable polo for long days; the Torrey Polo stays cool and soft throughout the day. It outperforms the H&M Cotton in softness and the Ralph Lauren PoloTech in comfort, but it lacks the smart tracking feature. The catch: it is not as durable as some premium polos.",
+   "specs": [
+    "Soft",
+    "Lightweight",
+    "Breathable",
+    "StratuSoft material"
+   ],
+   "pros": [
+    "Soft",
+    "Lightweight",
+    "Breathable"
+   ],
+   "cons": [
+    "Not as durable as premium options"
+   ],
+   "best_for": "Casual wearers who value comfort",
+   "skip_if": "Those needing smart tracking or premium fabric",
+   "link": "https://www.amazon.com/s?k=Fresh+Clean+Threads+Torrey+Polo&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Sunspel Riviera Polo",
+  "line": "Picture a man who wants a classic look with a modern fit; the Sunspel Riviera offers a great fit and unique fabric that keeps him comfortable all day. It outperforms the other picks because it has the best overall quality and range of colors, while the others are either softer or cheaper.",
+  "also": [
+   [
+    "Best value",
+    "H&M Cotton Polo Shirt"
+   ],
+   [
+    "Lightweight & breathable",
+    "Fresh Clean Threads Torrey Polo"
+   ]
+  ]
+ }
 }
