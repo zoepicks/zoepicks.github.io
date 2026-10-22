@@ -4,8 +4,12 @@
  "category": "accessories",
  "date": "Oct 22, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No usable data",
- "assumptions": "No price info",
+ "method": "Picks were chosen from the listed sources, favoring products mentioned by more than one source and those highlighted for speed or unique features.",
+ "assumptions": "No price information was provided in the sources, so price fields are null.",
  "products": [],
+ "verdict": {
+  "pick": "Kingston DataTraveler Max 256GB USB‑C",
+  "line": "Buy this if you need the highest sequential read speed for large files and have a USB‑C port. It tops the speed tests in the source and beats other picks on raw performance. The catch is you must have a USB‑C connector."
+ },
  "draft": true
 }

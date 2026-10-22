@@ -1,24 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-setting-spray-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-chair-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/compact-wireless/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-micellar-water-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-midi-keyboards-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitor-deals-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-home-office-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-mac-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-under-200-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mouse-pad-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nail-polish-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-bundles-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-lite-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-skin-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-for-work-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-obd2-scanners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-office-chairs-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
@@ -55,6 +34,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shoe-racks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-skincare-product-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sleeping-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-slippers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-displays-2026/index.html
@@ -114,28 +94,47 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-wallets-2026 draft
-[collect] progress: guide 49 done (best-wallets-2026) | tried 49 | tavily keys alive 2/4
-[collect] topic: Top Work Boots for Comfort & Safety (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-rain-boots
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-rain-boots
-[collect] 3/4 source pages fetched
+[collect] done: best-massage-chair-2026 draft
+[collect] progress: guide 14 done (best-massage-chair-2026) | tried 14 | tavily keys alive 2/4
+[collect] topic: Best Floral Perfume (2026)
+[collect] tavily -> 5 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-smelling-laundry-products
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-smelling-laundry-products
+[collect] 4/5 source pages fetched
+[collect] llm request: 4 sources x 1625 chars, ~2973 in + 4000 out tokens (budget 7000)
+[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,495 requested 2,763 -> skipped for this run
+[collect] llm openai/gpt-oss-20b 400 {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.","type":"invalid_request_error","code":"json_
+[collect] llm qwen/qwen3.6-27b 404 {"error":{"message":"The model `qwen/qwen3.6-27b` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}} 
+[collect] drop (only 1 sources): Aera Smart Home Scenting System Starter Set
+[collect] drop (only 1 sources): Teleflora
+[collect] drop (only 1 sources): The Bouqs Co.
+[collect] drop (only 1 sources): 1-800-Flowers.com
+[collect] drop (only 1 sources): Laura Ashley
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (bobvila.com)
-[collect] llm request: 4 sources x 1621 chars, ~2970 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Brunt Marin 6" Unlined Comp Toe Work Boot
-[collect] drop (only 1 sources): CAT Invader Mid Vent Composite Toe Ankle Boot
-[collect] drop (only 1 sources): Wolverine Rancher Pro Pull-On Work Wellington
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (reviewed.com, bootspy.com)
+[collect] extra sources: +2 readable page(s) -> 6 total (marieclaire.com, refinery29.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1067 chars, ~2957 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Marin 6" Unlined Comp Toe Work Boot
-[collect] drop (only 1 sources): CAT Invader Mid Vent Composite Toe Ankle Boot
-[collect] drop (only 1 sources): EverBoots Tank 6-Inch Work Boots
-[collect] drop (only 1 sources): Chippewa 55025 Hador Steel Toe Boots
-[collect] drop (only 1 sources): Wolverine Raider Durashocks Waterproof 6-inch Carbonmax Work Boot
+[collect] llm request: 6 sources x 1070 chars, ~2962 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Floral Street Wild Vanilla Orchid Eau de Parfum 50ml
+[collect] drop (only 1 sources): Floral Street Sweet Almond Blossom Eau de Parfum 50ml
+[collect] drop (only 1 sources): Floral Street Sunflower Pop Eau de Parfum 50ml
+[collect] drop (only 1 sources): Floral Street Wonderland Peony Eau de Parfum 50ml
+[collect] only 0 well-sourced products for tab floral -> staying todo
+[collect] progress: guide 15 done (best-floral-perfume-2026) | tried 15 | tavily keys alive 2/4
+[collect] topic: Best Kindle Case (2026)
+[collect] tavily -> 4 pages
+[collect] 4/4 source pages fetched
+[collect] llm request: 4 sources x 1626 chars, ~2967 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): M‑Edge Guardian
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-amazon-kindle-paperwhite-case
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-amazon-kindle-paperwhite-case
+[collect] http 403 https://medium.com/@caesaranga1/the-best-kindle-scribe-cases-amazon-and-third-party-reviews-20532c32237b
+[collect] browser fetch 243 chars: https://medium.com/@caesaranga1/the-best-kindle-scribe-cases-amazon-and-third-party-reviews-20532c32237b
+[collect] extra sources: +2 readable page(s) -> 6 total (cntraveler.com, medium.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2682 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Guardian Waterproof Kindle Case
+[collect] drop (only 1 sources): Rechargeable Protective Case
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -334,6 +333,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shoe-racks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-skincare-product-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sleeping-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-slippers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-displays-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-work-boots-2026 draft
-[collect] progress: guide 50 done (best-work-boots-2026) | tried 50 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['4zVi']
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,609 requested 2,536", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,290 requested 2,418", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,753 requested 2,491", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,958 requested 2,589", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,484 requested 2,411"}, "toolarge": {}, "minute": {"4zVi|openai/gpt-oss-120b": "limit 8,000 used 6,812 requested 2,829"}, "noaccess": {"5tBZ|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] done: best-kindle-case-2026 draft
+[collect] progress: guide 16 done (best-kindle-case-2026) | tried 16 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 196,750 requested 3,905", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,330 requested 3,460", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,351 requested 3,491", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,968 requested 3,703", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,495 requested 2,763"}, "toolarge": {}, "minute": {}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 16 guide(s) built, 16 topic(s) tried

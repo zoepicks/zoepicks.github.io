@@ -4,8 +4,12 @@
  "category": "beauty_health",
  "date": "Oct 22, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were to be based on product mentions in consumerreports.org, techgearlab.com, and health.yahoo.com.",
- "assumptions": "No prices were provided in the excerpts, and no specific product names appeared, so no selections could be made.",
+ "method": "Picks were based on products explicitly mentioned in the provided sources (consumerreports.org, cnet.com, health.yahoo.com, healthydadhacks.com). The product with the most mentions was selected as the top pick.",
+ "assumptions": "No price information was included because the sources only gave a discounted price for Prime members without a regular retail price.",
  "products": [],
+ "verdict": {
+  "pick": "Sunbeam Heating Pad",
+  "line": "Buy it if you need fast‑warming relief for back or muscle aches; it heats up within seconds and offers a standard 22 × 14‑inch size. The catch is it lacks a larger size in the basic offer."
+ },
  "draft": true
 }
