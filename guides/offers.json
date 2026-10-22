@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-22T12:12:23Z",
+ "updated": "2026-10-22T13:31:48Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -132,28 +132,27 @@
     "tier": "budget"
    },
    {
-    "asin": "B0F93M7HTP",
-    "name": "Trendy Queen Womens Zip Up Cropped Hoodies Mock Neck…",
-    "pct": 50,
-    "rating": 4.2,
-    "t": 1792645746,
-    "img": "https://m.media-amazon.com/images/I/71ZL4H4jvgL.jpg",
-    "link": "https://www.amazon.com/dp/B0F93M7HTP?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "39.99",
-    "reviews": 0,
+    "asin": "B07P1SFHK3",
+    "name": "MATEIN Carry on Backpack",
+    "pct": 49,
+    "rating": 4.7,
+    "t": 1792591986,
+    "img": "https://m.media-amazon.com/images/I/7102m7fZj0L.jpg",
+    "link": "https://www.amazon.com/dp/B07P1SFHK3?tag=zoepicks00-20",
+    "now": "22.49",
+    "was": "43.97",
+    "deal": "Limited time deal",
+    "reviews": 14723,
     "tier": "mid"
    },
    {
-    "asin": "B0GG2CDL6J",
-    "name": "Women's Orthopedic Road Running Shoes",
-    "pct": 69,
-    "rating": 4.1,
-    "t": 1792645746,
-    "img": "https://m.media-amazon.com/images/I/71-VTTem1IL.jpg",
-    "link": "https://www.amazon.com/dp/B0GG2CDL6J?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "129.99",
+    "asin": "B098JNYQ1M",
+    "name": "SCODI Hoodies for Men Zip Up Heavyweight Fleece Sweatshirt…",
+    "pct": 57,
+    "rating": 4.5,
+    "t": 1792645467,
+    "img": "https://m.media-amazon.com/images/I/51ATh39LHgL.jpg",
+    "link": "https://www.amazon.com/dp/B098JNYQ1M?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -969,6 +968,53 @@
     ]
    },
    {
+    "key": "shampoo",
+    "label": "Shampoo",
+    "items": [
+     {
+      "asin": "B019XIPEZ0",
+      "name": "American Crew 3-in-1 Shampoo & Body Wash",
+      "pct": 42,
+      "rating": 4.6,
+      "t": 1792675810,
+      "img": "https://m.media-amazon.com/images/I/71sl7eQWyuL.jpg",
+      "link": "https://www.amazon.com/dp/B019XIPEZ0?tag=zoepicks00-20",
+      "now": "14.49",
+      "was": "25.00",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0D2S7KNC1",
+      "name": "MONDAY HAIRCARE Moisture Shampoo + Conditioner Bathroom Set",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1792591320,
+      "img": "https://m.media-amazon.com/images/I/61VbJ4thA-L.jpg",
+      "link": "https://www.amazon.com/dp/B0D2S7KNC1?tag=zoepicks00-20",
+      "now": "18.16",
+      "was": "26.99",
+      "deal": "Limited time deal",
+      "reviews": 848,
+      "tier": "mid"
+     },
+     {
+      "asin": "B00VVS9O6G",
+      "name": "Moroccanoil Dry Shampoo Dark Tones",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1792591320,
+      "img": "https://m.media-amazon.com/images/I/61cPmscbxbL.jpg",
+      "link": "https://www.amazon.com/dp/B00VVS9O6G?tag=zoepicks00-20",
+      "now": "22.50",
+      "was": "30.00",
+      "deal": "Limited time deal",
+      "reviews": 10952,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "water-flossers",
     "label": "Water Flossers",
     "items": [
@@ -1004,54 +1050,6 @@
       "was": "49.99",
       "deal": "Limited time deal",
       "reviews": 19055
-     }
-    ]
-   },
-   {
-    "key": "shampoo",
-    "label": "Shampoo",
-    "items": [
-     {
-      "asin": "B08BTMXSG6",
-      "name": "TRESemmé Rich Moisture Hydrating Shampoo",
-      "pct": 33,
-      "rating": 4.7,
-      "t": 1792591320,
-      "img": "https://m.media-amazon.com/images/I/81uj0KS8nBL.jpg",
-      "link": "https://www.amazon.com/dp/B08BTMXSG6?tag=zoepicks00-20",
-      "now": "11.98",
-      "was": "17.97",
-      "deal": "Limited time deal",
-      "reviews": 6028,
-      "tier": "budget"
-     },
-     {
-      "asin": "B00VXO5RPK",
-      "name": "Moroccanoil Dry Shampoo Light Tones",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1792591320,
-      "img": "https://m.media-amazon.com/images/I/61quCPFEVRL.jpg",
-      "link": "https://www.amazon.com/dp/B00VXO5RPK?tag=zoepicks00-20",
-      "now": "22.50",
-      "was": "30.00",
-      "deal": "Limited time deal",
-      "reviews": 13400,
-      "tier": "mid"
-     },
-     {
-      "asin": "B00C5AHTVQ",
-      "name": "Nexxus Therappe Humectress Shampoo + Conditioner Set 33.8…",
-      "pct": 12,
-      "rating": 4.6,
-      "t": 1792591320,
-      "img": "https://m.media-amazon.com/images/I/71qr4wqJ75L.jpg",
-      "link": "https://www.amazon.com/dp/B00C5AHTVQ?tag=zoepicks00-20",
-      "now": "40.48",
-      "was": "46.00",
-      "deal": "Limited time deal",
-      "reviews": 22829,
-      "tier": "premium"
      }
     ]
    },
@@ -1479,25 +1477,6 @@
     ]
    },
    {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0GG2CDL6J",
-      "name": "Women's Orthopedic Road Running Shoes",
-      "pct": 69,
-      "rating": 4.1,
-      "t": 1792645746,
-      "img": "https://m.media-amazon.com/images/I/71-VTTem1IL.jpg",
-      "link": "https://www.amazon.com/dp/B0GG2CDL6J?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "129.99",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -1546,28 +1525,15 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B0F93M7HTP",
-      "name": "Trendy Queen Womens Zip Up Cropped Hoodies Mock Neck…",
-      "pct": 50,
-      "rating": 4.2,
-      "t": 1792645746,
-      "img": "https://m.media-amazon.com/images/I/71ZL4H4jvgL.jpg",
-      "link": "https://www.amazon.com/dp/B0F93M7HTP?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "39.99",
+      "asin": "B0C7BF5SBF",
+      "name": "EFAN Women's Hoodies Oversized Sweatshirt Comfort Fleece…",
+      "pct": 47,
+      "rating": 4.5,
+      "t": 1792645552,
+      "img": "https://m.media-amazon.com/images/I/61ZnJHoM+EL.jpg",
+      "link": "https://www.amazon.com/dp/B0C7BF5SBF?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
-     },
-     {
-      "asin": "B09Z6DF78P",
-      "name": "Bedsure Wearable Blanket Hoodie",
-      "pct": 45,
-      "rating": 4.8,
-      "t": 1792645520,
-      "img": "https://m.media-amazon.com/images/I/81Pcw85xeJL.jpg",
-      "link": "https://www.amazon.com/dp/B09Z6DF78P?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
      },
      {
       "asin": "B098JNYQ1M",
@@ -1578,6 +1544,20 @@
       "img": "https://m.media-amazon.com/images/I/51ATh39LHgL.jpg",
       "link": "https://www.amazon.com/dp/B098JNYQ1M?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F9FH9CBJ",
+      "name": "PRETTYGARDEN 2 Piece Lounge Sets",
+      "pct": 28,
+      "rating": 4.2,
+      "t": 1792591986,
+      "img": "https://m.media-amazon.com/images/I/61T7WbH4UvL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9FH9CBJ?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 1359,
       "tier": "premium"
      }
     ]
@@ -1632,30 +1612,30 @@
     "label": "Travel Backpacks",
     "items": [
      {
-      "asin": "B07CPW148Z",
-      "name": "abshoo Classical Basic Womens Travel Backpack For College…",
+      "asin": "B0FDQB18P9",
+      "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
       "pct": 50,
-      "rating": 4.6,
-      "t": 1792645748,
-      "img": "https://m.media-amazon.com/images/I/812vsAFmvYL.jpg",
-      "link": "https://www.amazon.com/dp/B07CPW148Z?tag=zoepicks00-20",
-      "now": "15.00",
+      "rating": 4.4,
+      "t": 1792623935,
+      "img": "https://m.media-amazon.com/images/I/81CAgG7OdbL.jpg",
+      "link": "https://www.amazon.com/dp/B0FDQB18P9?tag=zoepicks00-20",
+      "now": "14.99",
       "was": "29.99",
-      "reviews": 18909,
+      "deal": "Limited time deal",
+      "reviews": 98,
       "tier": "budget"
      },
      {
-      "asin": "B06XZTZ7GB",
-      "name": "MATEIN Travel Laptop Backpack",
-      "pct": 45,
+      "asin": "B07S6N6G1G",
+      "name": "SHRRADOO Travel Laptop Backpack",
+      "pct": 31,
       "rating": 4.7,
-      "t": 1792590525,
-      "img": "https://m.media-amazon.com/images/I/71ocYTnmgeL.jpg",
-      "link": "https://www.amazon.com/dp/B06XZTZ7GB?tag=zoepicks00-20",
-      "now": "18.68",
-      "was": "33.99",
-      "deal": "Limited time deal",
-      "reviews": 115295,
+      "t": 1792591986,
+      "img": "https://m.media-amazon.com/images/I/71E4O25QXKL.jpg",
+      "link": "https://www.amazon.com/dp/B07S6N6G1G?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "28.99",
+      "reviews": 31843,
       "tier": "mid"
      },
      {
@@ -1841,19 +1821,6 @@
     "label": "Sweatpants",
     "items": [
      {
-      "asin": "B0F9FH9CBJ",
-      "name": "PRETTYGARDEN 2 Piece Lounge Sets",
-      "pct": 28,
-      "rating": 4.2,
-      "t": 1792591986,
-      "img": "https://m.media-amazon.com/images/I/61T7WbH4UvL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9FH9CBJ?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 1359
-     },
-     {
       "asin": "B08QCPRM79",
       "name": "SANTINY Women's Joggers Pants",
       "pct": 26,
@@ -1876,6 +1843,11 @@
    {
     "key": "polo-shirt",
     "label": "Polo Shirt",
+    "items": []
+   },
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
     "items": []
    }
   ],
@@ -1972,6 +1944,51 @@
     ]
    },
    {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B0D2W136D1",
+      "name": "Fijinhom Insulated Water Bottle",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1792587615,
+      "img": "https://m.media-amazon.com/images/I/61tx9LRbfeL.jpg",
+      "link": "https://www.amazon.com/dp/B0D2W136D1?tag=zoepicks00-20",
+      "now": "13.52",
+      "was": "16.99",
+      "reviews": 2033,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0G8LSRXDT",
+      "name": "bubba Dualsip Insulated Stainless Steel Water Bottle",
+      "pct": 47,
+      "rating": 4.4,
+      "t": 1792675810,
+      "img": "https://m.media-amazon.com/images/I/61wNnJY6aXL.jpg",
+      "link": "https://www.amazon.com/dp/B0G8LSRXDT?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "29.99",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H6N6WRHK",
+      "name": "WONSYGO 64oz Insulated Water Bottle Leak Proof",
+      "pct": 19,
+      "rating": 4.7,
+      "t": 1792586693,
+      "img": "https://m.media-amazon.com/images/I/71W+rv+yaxL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6N6WRHK?tag=zoepicks00-20",
+      "now": "21.97",
+      "was": "26.99",
+      "reviews": 235,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "hiking-boots",
     "label": "Hiking Boots",
     "items": [
@@ -2013,36 +2030,6 @@
       "now": "31.13",
       "was": "39.99",
       "reviews": 1729
-     }
-    ]
-   },
-   {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B0D2W136D1",
-      "name": "Fijinhom Insulated Water Bottle",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1792587615,
-      "img": "https://m.media-amazon.com/images/I/61tx9LRbfeL.jpg",
-      "link": "https://www.amazon.com/dp/B0D2W136D1?tag=zoepicks00-20",
-      "now": "13.52",
-      "was": "16.99",
-      "reviews": 2033
-     },
-     {
-      "asin": "B0H6N6WRHK",
-      "name": "WONSYGO 64oz Insulated Water Bottle Leak Proof",
-      "pct": 19,
-      "rating": 4.7,
-      "t": 1792586693,
-      "img": "https://m.media-amazon.com/images/I/71W+rv+yaxL.jpg",
-      "link": "https://www.amazon.com/dp/B0H6N6WRHK?tag=zoepicks00-20",
-      "now": "21.97",
-      "was": "26.99",
-      "reviews": 235
      }
     ]
    },
