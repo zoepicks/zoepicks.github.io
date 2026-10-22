@@ -5980,14 +5980,29 @@
   },
   "toys_kids:board-games-families": {
    "label": "Board Games Families",
-   "tries": 2,
+   "tries": 3,
    "items": [
+    {
+     "asin": "B0DZCSZWRF",
+     "name": "Word Game,Family Board Games",
+     "pct": 28,
+     "rating": 4.4,
+     "t": 1792680137,
+     "img": "https://m.media-amazon.com/images/I/81BXtX9Bt0L.jpg",
+     "link": "https://www.amazon.com/dp/B0DZCSZWRF?tag=zoepicks00-20",
+     "now": "11.51",
+     "was": "15.89",
+     "deal": "Limited time deal",
+     "reviews": 1276,
+     "_title": "Word Game,Family Board Games with 2 Modes,220 Topics,Fast-Paced Letter Game | Pressing Games for Kids Adults Families,2–8 ...",
+     "_price": 11.51
+    },
     {
      "asin": "B0CF28KQ2H",
      "name": "Juegoal Wooden Shut The Box Dice Game",
      "pct": 19,
      "rating": 4.4,
-     "t": 1792505449,
+     "t": 1792680137,
      "img": "https://m.media-amazon.com/images/I/71R2C3PUKBL.jpg",
      "link": "https://www.amazon.com/dp/B0CF28KQ2H?tag=zoepicks00-20",
      "now": "24.29",
@@ -5998,7 +6013,7 @@
      "_price": 24.29
     }
    ],
-   "scanned": "2026-10-20T14:10:49.295889+00:00"
+   "scanned": "2026-10-22T14:42:17.769644+00:00"
   },
   "toys_kids:kids-tablets": {
    "label": "Kids Tablets",
