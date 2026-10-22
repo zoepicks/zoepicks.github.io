@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-22T14:23:54.295480+00:00",
+ "updated": "2026-10-22T17:25:21.023489+00:00",
  "boots_total": 20,
  "recent_boots_utc": [
   "2026-10-19T16:05:46",
@@ -14,7 +14,7 @@
   "2026-10-22T04:09:01",
   "2026-10-22T13:30:17"
  ],
- "last_run_ts": 1792679033.5722797,
+ "last_run_ts": 1792689919.3447552,
  "last_report_ts": 1792656118.8204029,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 24
+  "low": 31
  },
  "recent_runs": [
-  {
-   "t": "2026-10-21T10:27:48",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 15
-  },
   {
    "t": "2026-10-21T13:30:46",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 1
+  },
+  {
+   "t": "2026-10-22T17:25:13",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 7
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-22T08:01:58",
-   "what": "Report + Claude brief repo me likhe",
-   "ok": true
-  },
-  {
-   "t": "2026-10-22T11:03:26",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-22T11:03:26",
-   "what": "SEO check: score 94 (+0), 196 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-22T11:03:26",
    "what": "IndexNow: 9 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-10-22T14:23:53",
    "what": "IndexNow: 1 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-22T17:25:19",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-22T17:25:19",
+   "what": "SEO check: score 94 (+0), 199 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-22T17:25:19",
+   "what": "IndexNow: 7 URL Bing ko bheje",
    "ok": true
   }
  ]
