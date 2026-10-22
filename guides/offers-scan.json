@@ -2347,9 +2347,39 @@
   },
   "accessories:computer-mouse": {
    "label": "Computer Mouse",
-   "tries": 4,
-   "items": [],
-   "scanned": "2026-10-21T14:23:08.746639+00:00",
+   "tries": 5,
+   "items": [
+    {
+     "asin": "B082V7PWD1",
+     "name": "TECKNET Bluetooth Mouse",
+     "pct": 46,
+     "rating": 4.4,
+     "t": 1792712485,
+     "img": "https://m.media-amazon.com/images/I/51dNOwNGEEL.jpg",
+     "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
+     "now": "11.98",
+     "was": "21.99",
+     "reviews": 11752,
+     "_title": "TECKNET Bluetooth Mouse, 4000DPI Wireless Mouse Bluetooth for Laptop 2-in-1(BT 5.0/3.0+2.4Ghz) Computer Mouse, Portable PC...",
+     "_price": 11.98
+    },
+    {
+     "asin": "B0BXZ48KSQ",
+     "name": "Lenovo 530 Wireless Mouse",
+     "pct": 25,
+     "rating": 4.5,
+     "t": 1792712485,
+     "img": "https://m.media-amazon.com/images/I/51mdRonO0YL.jpg",
+     "link": "https://www.amazon.com/dp/B0BXZ48KSQ?tag=zoepicks00-20",
+     "now": "11.99",
+     "was": "15.99",
+     "deal": "Limited time deal",
+     "reviews": 7850,
+     "_title": "Lenovo 530 Wireless Mouse – Full Size Computer Mouse for PC, Laptop, Windows Computer - 2.4 GHz Nano USB Receiver - Ambide...",
+     "_price": 11.99
+    }
+   ],
+   "scanned": "2026-10-22T23:41:25.809718+00:00",
    "via": "sweep"
   },
   "accessories:mechanical-keyboards": {
