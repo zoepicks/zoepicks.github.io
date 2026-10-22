@@ -10074,9 +10074,70 @@
   },
   "accessories:flash-drive": {
    "label": "Flash Drive",
-   "tries": 0,
-   "items": [],
-   "blocked_at": "2026-10-22T15:19:24.999377+00:00"
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B09LLWTMXQ",
+     "name": "Micro Center SuperSpeed 10 Pack 32GB USB 3.0 Flash Drive…",
+     "pct": 11,
+     "rating": 4.6,
+     "t": 1792710658,
+     "img": "https://m.media-amazon.com/images/I/81PTSsDIHZL.jpg",
+     "link": "https://www.amazon.com/dp/B09LLWTMXQ?tag=zoepicks00-20",
+     "now": "66.49",
+     "was": "74.99",
+     "deal": "Limited time deal",
+     "reviews": 24932,
+     "_title": "Micro Center SuperSpeed 10 Pack 32GB USB 3.0 Flash Drive Thumb Drive, Brown | High Transfer Speed, 10X Faster than USB 2.0...",
+     "_price": 66.49
+    },
+    {
+     "asin": "B09TK3WP2C",
+     "name": "10 Pack 16GB USB Flash Drives",
+     "pct": 10,
+     "rating": 4.6,
+     "t": 1792710658,
+     "img": "https://m.media-amazon.com/images/I/61-lx1wYivL.jpg",
+     "link": "https://www.amazon.com/dp/B09TK3WP2C?tag=zoepicks00-20",
+     "now": "32.39",
+     "was": "35.99",
+     "deal": "Limited time deal",
+     "reviews": 779,
+     "_title": "10 Pack 16GB USB Flash Drives, MAKACTUA 10 Colors USB 2.0 Thumb Drives with Swivel Cap Memory Stick Jump Drive Pen Drive Z...",
+     "_price": 32.39
+    },
+    {
+     "asin": "B0DH1MKVQV",
+     "name": "Lexar D40E 128GB Dual USB 3.2 Gen 1 Type-C Jump Drive",
+     "pct": 10,
+     "rating": 4.4,
+     "t": 1792710658,
+     "img": "https://m.media-amazon.com/images/I/5170woTzckL.jpg",
+     "link": "https://www.amazon.com/dp/B0DH1MKVQV?tag=zoepicks00-20",
+     "now": "26.99",
+     "was": "29.99",
+     "deal": "Limited time deal",
+     "reviews": 11457,
+     "_title": "Lexar D40E 128GB Dual USB 3.2 Gen 1 Type-C Jump Drive, Champagne Silver | USB-C Flash, Metal Housing, Swivel Design, Thumb...",
+     "_price": 26.99
+    },
+    {
+     "asin": "B0CSW6375K",
+     "name": "JOIOT 128GB USB C Flash Drive Dual USB 3.0 Flash Drive Type…",
+     "pct": 10,
+     "rating": 4.4,
+     "t": 1792710658,
+     "img": "https://m.media-amazon.com/images/I/51GkKZt1VlL.jpg",
+     "link": "https://www.amazon.com/dp/B0CSW6375K?tag=zoepicks00-20",
+     "now": "23.39",
+     "was": "25.99",
+     "deal": "Limited time deal",
+     "reviews": 2264,
+     "_title": "JOIOT 128GB USB C Flash Drive Dual USB 3.0 Flash Drive Type C + USB A Portable Type-C Flash Drive 2-in-1 USB-C Thumb Drive...",
+     "_price": 23.39
+    }
+   ],
+   "scanned": "2026-10-22T23:10:58.837290+00:00"
   },
   "accessories:drawing-stylus": {
    "label": "Drawing Stylus",
