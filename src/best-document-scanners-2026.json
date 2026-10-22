@@ -40,9 +40,9 @@
    "best_for": "High‑volume office users",
    "skip_if": "You need a portable or photo‑focused scanner",
    "link": "https://www.amazon.com/s?k=Ricoh+ScanSnap+iX2500&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 22, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Ricoh ScanSnap iX1300",
@@ -74,9 +74,9 @@
    "best_for": "Small office or home office users",
    "skip_if": "You need very high volume scanning",
    "link": "https://www.amazon.com/s?k=Ricoh+ScanSnap+iX1300&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 22, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Epson FastFoto FF‑680W",
