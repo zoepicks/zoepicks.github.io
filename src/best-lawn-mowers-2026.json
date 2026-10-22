@@ -32,7 +32,10 @@
    ],
    "best_for": "Homeowners seeking a top-rated battery mower for general use",
    "skip_if": "You require specific technical specs not listed in these sources",
-   "link": "https://www.amazon.com/s?k=Toro+21%22+60V+MAX+Super+Recycler+Battery+Lawn+Mower&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Toro+21%22+60V+MAX+Super+Recycler+Battery+Lawn+Mower&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Craftsman M220 21\" 150cc Self-Propelled Lawn Mower",
@@ -100,11 +103,11 @@
    "image": "https://m.media-amazon.com/images/I/71wFwiddlwL.jpg",
    "image_asin": "B0DSGHWH8X",
    "amazon_price": "$1,099.00",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "EGO POWER+ Electric Lawn Mower, Self-Propelled Cordless with 22\" Super Composite Deck, Inc",
    "amazon_rating": "4.1",
    "amazon_reviews": 32,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_rating_asof": "Oct 22, 2026"
   }
  ],
  "verdict": {
