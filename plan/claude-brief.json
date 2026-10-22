@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-21T19:56:02.352994+00:00",
+ "generated_at": "2026-10-22T08:01:37.711529+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 188,
+  "pages": 195,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 21
+   "low": 35
   },
-  "avg_guide_words": 957,
+  "avg_guide_words": 962,
   "todo": [
    {
     "sev": "high",
@@ -27,7 +27,7 @@
    {
     "sev": "low",
     "code": "title_length",
-    "count": 14,
+    "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -38,26 +38,27 @@
    },
    {
     "sev": "low",
-    "code": "desc_length",
-    "count": 5,
-    "fix": "Descriptions 70-170 chars ke andar rakho.",
+    "code": "slow_page",
+    "count": 14,
+    "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-hiking-backpacks-2026/",
-     "/g/best-monitors-for-mac-2026/",
-     "/g/best-game-controller-2026/"
+     "/g/best-car-vacuums-2026/",
+     "/g/best-lawn-mowers-2026/",
+     "/g/best-document-scanners-2026/"
     ],
-    "detail": "description 68 chars (best 70-170)"
+    "detail": "load 3.1s"
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 2,
-    "fix": "Slow pages ki images/HTML size kam karo.",
+    "code": "desc_length",
+    "count": 6,
+    "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
-     "/g/best-stove-top-pressure-cooker-2026/",
-     "/g/best-pillows-2026/neck/"
+     "/g/best-watches-under-200-2026/",
+     "/g/best-hiking-backpacks-2026/",
+     "/g/best-monitors-for-mac-2026/"
     ],
-    "detail": "load 3.1s"
+    "detail": "description 62 chars (best 70-170)"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -65,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 182,
+   "guides_live": 189,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -73,41 +74,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-21T13:30:46.088074+00:00",
-    "indexnow": {
-     "submitted": 40,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-21T16:52:09.528671+00:00",
+    "t": "2026-10-22T01:58:24.578351+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-21T19:55:55.171901+00:00",
+    "t": "2026-10-22T05:00:11.830083+00:00",
     "indexnow": {
-     "submitted": 16,
+     "submitted": 25,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-10-22T08:01:31.388481+00:00",
+    "indexnow": {
+     "submitted": 5,
      "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 4,
-  "today_views": 41,
-  "total_visitors": 101,
-  "total_views": 810,
+  "today_visitors": 2,
+  "today_views": 6,
+  "total_visitors": 103,
+  "total_views": 820,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-15",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-10-16",
     "visitors": 5,
@@ -141,20 +136,26 @@
    {
     "day": "2026-10-21",
     "visitors": 4,
-    "views": 41,
+    "views": 45,
+    "clicks": 0
+   },
+   {
+    "day": "2026-10-22",
+    "visitors": 2,
+    "views": 6,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 27,
-   "warn": 1,
+   "info": 63,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 288,
-   "warn": 51,
+   "info": 357,
+   "warn": 55,
    "error": 0
   },
   "modules_with_errors_7d": [
@@ -166,38 +167,55 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 14
+    "warnings": 18
    }
   ],
   "collector": {
    "today": {
-    "total": 13,
-    "ok": 11,
-    "failed": 2,
-    "cancelled": 0,
+    "total": 3,
+    "ok": 2,
+    "failed": 0,
+    "cancelled": 1,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 100,
-      "at": "2026-10-21T15:18:05Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39624371011"
-     },
-     {
-      "run": 99,
-      "at": "2026-10-21T14:48:05Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39620038609"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
-    "total": 106,
-    "ok": 61,
-    "failed": 25,
+    "total": 104,
+    "ok": 64,
+    "failed": 20,
     "cancelled": 20,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 26,
+      "at": "2026-10-17T21:18:20Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39070372026"
+     },
+     {
+      "run": 25,
+      "at": "2026-10-17T18:17:42Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39057459429"
+     },
+     {
+      "run": 22,
+      "at": "2026-10-17T16:05:11Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39047868905"
+     },
+     {
+      "run": 19,
+      "at": "2026-10-17T14:15:09Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39039946642"
+     },
+     {
+      "run": 17,
+      "at": "2026-10-17T09:58:48Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39023143343"
+     },
      {
       "run": 15,
       "at": "2026-10-17T06:17:56Z",
@@ -227,44 +245,14 @@
       "at": "2026-10-16T14:38:12Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38917363429"
-     },
-     {
-      "run": 6,
-      "at": "2026-10-16T02:31:02Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38840830017"
-     },
-     {
-      "run": 5,
-      "at": "2026-10-15T19:16:13Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38792508692"
-     },
-     {
-      "run": 4,
-      "at": "2026-10-15T18:33:53Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38786664800"
-     },
-     {
-      "run": 2,
-      "at": "2026-10-15T17:41:24Z",
-      "event": "workflow_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38779414591"
-     },
-     {
-      "run": 1,
-      "at": "2026-10-15T17:37:36Z",
-      "event": "workflow_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38778899628"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 97,
-    "ok": 97,
+    "total": 44,
+    "ok": 44,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -272,8 +260,8 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 298,
-    "failed": 2,
+    "ok": 299,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -282,12 +270,6 @@
       "at": "2026-10-20T10:01:03Z",
       "event": "push",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39404887748"
-     },
-     {
-      "run": 671,
-      "at": "2026-10-19T11:05:19Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39242077918"
      }
     ]
    }
@@ -336,19 +318,51 @@
   ]
  },
  "content": {
-  "live_guides": 182,
+  "live_guides": 189,
   "missing_topics_by_status": {
-   "open": 123,
-   "covered": 26,
-   "queued": 12,
-   "built": 39
+   "open": 122,
+   "covered": 27,
+   "built": 39,
+   "queued": 12
   },
   "missing_new": {
-   "today": 20,
+   "today": 4,
    "d7": 200,
    "d30": 200
   },
   "open_topics": [
+   {
+    "topic": "laptop bag",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792645370",
+    "last_at": "1792645370"
+   },
+   {
+    "topic": "pocket tablet",
+    "leads": "9",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792642382",
+    "last_at": "1792644625"
+   },
+   {
+    "topic": "gap cam mount",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792644356",
+    "last_at": "1792644356"
+   },
+   {
+    "topic": "unconventional perfume",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792642362",
+    "last_at": "1792642362"
+   },
    {
     "topic": "cute pillow",
     "leads": "1",
@@ -374,14 +388,6 @@
     "last_at": "1792610528"
    },
    {
-    "topic": "drone",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792357488",
-    "last_at": "1792603349"
-   },
-   {
     "topic": "flashlight",
     "leads": "1",
     "budget": null,
@@ -404,30 +410,6 @@
     "status": "open",
     "first_at": "1792599892",
     "last_at": "1792599892"
-   },
-   {
-    "topic": "entertainment center",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792599145",
-    "last_at": "1792599145"
-   },
-   {
-    "topic": "skincare product",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792598935",
-    "last_at": "1792599121"
-   },
-   {
-    "topic": "work boots",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792598597",
-    "last_at": "1792598755"
    }
   ]
  },
@@ -674,9 +656,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 188,
+    "urls": 195,
     "other_host_urls": 0,
-    "live_pages_crawled": 188
+    "live_pages_crawled": 195
    },
    "permission": "siteOwner",
    "resubmitted": null,
