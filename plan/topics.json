@@ -2623,5 +2623,26 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 22, 2026"
+ },
+ {
+  "title": "Best Pocket Tablet (2026)",
+  "slug": "best-pocket-tablet-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tablets-2026",
+  "tab": "pocket",
+  "tab_label": "Pocket"
+ },
+ {
+  "title": "Best Stereo System (2026)",
+  "slug": "best-stereo-system-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
