@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-22T08:09:09Z",
+ "updated": "2026-10-22T12:14:54Z",
  "hot": [
   {
    "asin": "B0HG8ZHBWN",
@@ -14,7 +14,7 @@
    "was": "129.99",
    "deal": "Limited time deal",
    "reviews": 25,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B0HDPTPFFP",
@@ -109,34 +109,6 @@
    "deal": "Limited time deal",
    "reviews": 535,
    "tier": "budget"
-  },
-  {
-   "asin": "B0F916XPT8",
-   "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
-   "pct": 61,
-   "rating": 4.3,
-   "t": 1792538899,
-   "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
-   "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
-   "now": "54.99",
-   "was": "139.99",
-   "deal": "Limited time deal",
-   "reviews": 71,
-   "tier": "mid"
-  },
-  {
-   "asin": "B0HFWB2B14",
-   "name": "MARUVI 20-Head Massage Gun Deep Tissue Percussion Massager",
-   "pct": 50,
-   "rating": 5.0,
-   "t": 1792537284,
-   "img": "https://m.media-amazon.com/images/I/81wK3jBTWXL.jpg",
-   "link": "https://www.amazon.com/dp/B0HFWB2B14?tag=zoepicks00-20",
-   "now": "69.99",
-   "was": "139.99",
-   "deal": "Limited time deal",
-   "reviews": 23,
-   "tier": "premium"
   },
   {
    "asin": "B0FFGBL72C",
@@ -234,20 +206,6 @@
    "tier": "premium"
   },
   {
-   "asin": "B08ZSDG7KX",
-   "name": "NEOGEN Dermalogy All-Day Makeup Setting Spray",
-   "pct": 50,
-   "rating": 4.4,
-   "t": 1792537267,
-   "img": "https://m.media-amazon.com/images/I/61fDya1sFfL.jpg",
-   "link": "https://www.amazon.com/dp/B08ZSDG7KX?tag=zoepicks00-20",
-   "now": "14.00",
-   "was": "28.00",
-   "deal": "Limited time deal",
-   "reviews": 274,
-   "tier": "budget"
-  },
-  {
    "asin": "B09JP2TRK4",
    "name": "EverFoams Women’s Soft Curly Slippers Memory Foam…",
    "pct": 50,
@@ -314,20 +272,6 @@
    "was": "39.99",
    "reviews": 0,
    "tier": "mid"
-  },
-  {
-   "asin": "B0GJ9389CQ",
-   "name": "FUDYNMALC Hiking Boots",
-   "pct": 50,
-   "rating": 4.2,
-   "t": 1792537328,
-   "img": "https://m.media-amazon.com/images/I/81LVqCJOSyL.jpg",
-   "link": "https://www.amazon.com/dp/B0GJ9389CQ?tag=zoepicks00-20",
-   "now": "17.99",
-   "was": "35.99",
-   "deal": "Limited time deal",
-   "reviews": 48,
-   "tier": "budget"
   },
   {
    "asin": "B0HB4F28VM",
@@ -411,6 +355,61 @@
    "deal": "Limited time deal",
    "reviews": 3671,
    "tier": "mid"
+  },
+  {
+   "asin": "B0CPLVLFK2",
+   "name": "Turelar Immersion Blender Handheld Corded",
+   "pct": 40,
+   "rating": 4.5,
+   "t": 1792590380,
+   "img": "https://m.media-amazon.com/images/I/61XRVcpkxxL.jpg",
+   "link": "https://www.amazon.com/dp/B0CPLVLFK2?tag=zoepicks00-20",
+   "now": "35.95",
+   "was": "59.99",
+   "deal": "Limited time deal",
+   "reviews": 8248,
+   "tier": "mid"
+  },
+  {
+   "asin": "B0CDW6J1W8",
+   "name": "KOIOS Smoothie Blender Kitchen",
+   "pct": 40,
+   "rating": 4.3,
+   "t": 1792590380,
+   "img": "https://m.media-amazon.com/images/I/71U4ijhY+LL.jpg",
+   "link": "https://www.amazon.com/dp/B0CDW6J1W8?tag=zoepicks00-20",
+   "now": "29.97",
+   "was": "49.99",
+   "deal": "Limited time deal",
+   "reviews": 4470,
+   "tier": "budget"
+  },
+  {
+   "asin": "B0FK4JNRB1",
+   "name": "COSLUS ADA Accepted C51 Water Dental Flosser",
+   "pct": 39,
+   "rating": 4.4,
+   "t": 1792591320,
+   "img": "https://m.media-amazon.com/images/I/71d6HzXkRJL.jpg",
+   "link": "https://www.amazon.com/dp/B0FK4JNRB1?tag=zoepicks00-20",
+   "now": "21.97",
+   "was": "35.99",
+   "deal": "Limited time deal",
+   "reviews": 2820,
+   "tier": "mid"
+  },
+  {
+   "asin": "B0DKJ3BX2F",
+   "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
+   "pct": 39,
+   "rating": 4.4,
+   "t": 1792591320,
+   "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
+   "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
+   "now": "16.99",
+   "was": "28.00",
+   "deal": "Limited time deal",
+   "reviews": 6204
   }
  ],
  "ess": [
