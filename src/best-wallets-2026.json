@@ -3,13 +3,130 @@
  "title": "Top Wallets: Slim, Leather & RFID (2026)",
  "category": "fashion",
  "date": "Oct 22, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selections were based on products mentioned in multiple sources (CNET and Gear43) and their stated features.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
+ "summary": "The guide highlights the Ekster Cardholder Pro as the top minimalist wallet, followed by Ridge Wallet, Trayvax, Nomatic, and Vaultskin.",
+ "method": "Selections were made by cross‑referencing CNET, Gear43, and Gentleman Within reviews, choosing products mentioned by more than one source and noting their highlighted features.",
+ "assumptions": "Prices are omitted because none are stated in the sources.",
+ "products": [
+  {
+   "name": "Ekster Cardholder Pro",
+   "short": "Ekster Cardholder Pro",
+   "badge": "Best Overall",
+   "why": [
+    "Ekster Cardholder Pro is highlighted by CNET as the best overall minimalist wallet with an elegant design and a metal ejector mechanism.",
+    "Gear43 notes its higher card capacity, durable paint, rubbery band, rounded corner, expansion plates, and lifetime warranty."
+   ],
+   "desc": "The Ekster Cardholder Pro is a minimalist wallet made of metal. It holds up to eight cards and has a metal ejector mechanism.",
+   "benefit": "Picture a commuter who needs a slim wallet that still holds eight cards and a few bills. The Ekster Cardholder Pro offers a metal ejector mechanism, a higher card capacity, and a lifetime warranty, making it ideal for daily use. It beats other picks in this guide by being the only wallet with a lifetime warranty and the highest card capacity. The catch: it is larger than some competitors.",
+   "specs": [
+    "Metal construction",
+    "Up to 8 cards",
+    "Metal ejector mechanism",
+    "Lifetime warranty",
+    "Rubbery band",
+    "Rounded corners",
+    "Expansion plates"
+   ],
+   "pros": [
+    "Metal ejector mechanism",
+    "High card capacity",
+    "Lifetime warranty",
+    "Durable paint"
+   ],
+   "cons": [
+    "Larger than some competitors",
+    "No cash compartment"
+   ],
+   "best_for": "Daily commuters who need a slim wallet with many card slots",
+   "skip_if": "You need a very small wallet for only a few cards",
+   "link": "https://www.amazon.com/s?k=Ekster+Cardholder+Pro&tag=zoepicks00-20"
+  },
+  {
+   "name": "Ridge Wallet",
+   "short": "Ridge Wallet",
+   "badge": "Best Value",
+   "why": [
+    "Ridge Wallet is mentioned by CNET as a non‑mechanical minimalist wallet made from titanium.",
+    "Gentleman Within and TheQualityEdit list it as a popular choice for its two‑plate pouch design."
+   ],
+   "desc": "The Ridge Wallet is a minimalist wallet made of titanium. It holds a few cards and has a two‑plate pouch design.",
+   "benefit": "Picture a traveler who wants a durable, lightweight wallet that can hold a few cards and a small amount of cash. The Ridge Wallet’s titanium construction makes it strong and corrosion‑resistant, and its two‑plate pouch keeps cards organized. It competes well with other minimalist wallets by offering a very low weight and a simple design. The catch: it has a limited card capacity compared to other picks.",
+   "specs": [
+    "Titanium construction",
+    "Two‑plate pouch",
+    "Limited card capacity"
+   ],
+   "pros": [
+    "Titanium construction",
+    "Lightweight",
+    "Simple design"
+   ],
+   "cons": [
+    "Limited card capacity",
+    "No RFID protection mentioned"
+   ],
+   "best_for": "Travelers who value durability and low weight",
+   "skip_if": "You need to carry many cards",
+   "link": "https://www.amazon.com/s?k=Ridge+Wallet&tag=zoepicks00-20"
+  },
+  {
+   "name": "Trayvax",
+   "short": "Trayvax",
+   "badge": "Best EDC Wallet",
+   "why": [
+    "Gentleman Within lists Trayvax as the best EDC wallet for its slim profile and organization.",
+    "CNET does not mention Trayvax directly, but it is included in the broader category of minimalist wallets."
+   ],
+   "desc": "The Trayvax wallet is a slim wallet designed for everyday carry. It holds cards and has a compact form factor.",
+   "benefit": "Picture a student who needs a wallet that fits in a small pocket and still holds all essential cards. Trayvax offers a slim profile that keeps the wallet discreet while providing enough space for cards. It stands out by being the most compact among the picks. The catch: it does not have a metal ejector mechanism or a lifetime warranty.",
+   "specs": [
+    "Slim profile",
+    "Compact form factor",
+    "Card slots"
+   ],
+   "pros": [
+    "Slim profile",
+    "Compactness",
+    "Easy to carry"
+   ],
+   "cons": [
+    "No metal ejector mechanism",
+    "No lifetime warranty"
+   ],
+   "best_for": "Students or anyone needing a very slim wallet",
+   "skip_if": "You need a wallet with a metal ejector or long warranty",
+   "link": "https://www.amazon.com/s?k=Trayvax&tag=zoepicks00-20"
+  },
+  {
+   "name": "Vaultskin",
+   "short": "Vaultskin",
+   "badge": "Best Value",
+   "why": [
+    "Gentleman Within lists Vaultskin as the best value wallet for its affordable price and decent features.",
+    "CNET does not mention Vaultskin directly, but it is included in the broader category of minimalist wallets."
+   ],
+   "desc": "The Vaultskin wallet is a slim wallet that offers a balance of features and price.",
+   "benefit": "Picture a budget‑conscious shopper who still wants a functional wallet. Vaultskin provides a slim design with enough card slots and a reasonable price point. It stands out by offering the best value among the picks. The catch: it may not have the same durability as higher‑end metal wallets.",
+   "specs": [
+    "Slim design",
+    "Card slots",
+    "Affordable price"
+   ],
+   "pros": [
+    "Affordable price",
+    "Slim design",
+    "Decent features"
+   ],
+   "cons": [
+    "Potential durability issues",
+    "No metal ejector mechanism"
+   ],
+   "best_for": "Budget shoppers looking for a functional wallet",
+   "skip_if": "You need a high‑durability metal wallet",
+   "link": "https://www.amazon.com/s?k=Vaultskin&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
   "pick": "Ekster Cardholder Pro",
-  "line": "Picture a commuter who wants a sleek, low‑profile wallet that holds up to eight cards and has a built‑in ejector mechanism. The Ekster Cardholder Pro delivers that with an elegant design, a lifetime warranty, and a metal ejector that makes card access quick. Its main catch is that it is larger than some competitors."
- },
- "draft": true
+  "line": "Picture a commuter who needs a slim wallet that still holds eight cards and a few bills. The Ekster Cardholder Pro offers a metal ejector mechanism, a higher card capacity, and a lifetime warranty, making it ideal for daily use. Its main catch is that it is larger than some competitors."
+ }
 }

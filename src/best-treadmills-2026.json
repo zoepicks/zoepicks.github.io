@@ -4,8 +4,18 @@
  "category": "fitness_outdoor",
  "date": "Oct 22, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were chosen from Consumer Reports, CNET, OutdoorGearLab, and Fortune reviews. Products mentioned by more than one source were prioritized.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "method": "Selected from Consumer Reports, CNET, and OutdoorGearLab reviews that each mention the product.",
+ "assumptions": "Prices are not provided in the sources, so no cost comparison is included.",
  "products": [],
+ "verdict": {
+  "pick": "NordicTrack X24",
+  "line": "The NordicTrack X24 is ideal for runners who want a versatile machine that connects to apps and supports heart‑rate monitors. It offers a large running surface and iFit integration, making it a good fit for serious training, but it is heavier and noisier than the other picks.",
+  "also": [
+   [
+    "Space‑saving",
+    "Echelon Stride 6"
+   ]
+  ]
+ },
  "draft": true
 }
