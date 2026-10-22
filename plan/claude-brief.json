@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-22T08:01:37.711529+00:00",
+ "generated_at": "2026-10-22T20:30:34.126829+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 195,
+  "pages": 200,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 35
+   "low": 54
   },
-  "avg_guide_words": 962,
+  "avg_guide_words": 960,
   "todo": [
    {
     "sev": "high",
@@ -26,6 +26,18 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 33,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-4k-monitors-2026/",
+     "/g/best-makeup-primers-2026/",
+     "/g/best-fish-tanks-2026/"
+    ],
+    "detail": "load 5.21s"
+   },
+   {
+    "sev": "low",
     "code": "title_length",
     "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -35,18 +47,6 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 14,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-car-vacuums-2026/",
-     "/g/best-lawn-mowers-2026/",
-     "/g/best-document-scanners-2026/"
-    ],
-    "detail": "load 3.1s"
    },
    {
     "sev": "low",
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 189,
+   "guides_live": 194,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,23 +74,23 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-22T01:58:24.578351+00:00",
+    "t": "2026-10-22T14:06:19.638633+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
-    }
-   },
-   {
-    "t": "2026-10-22T05:00:11.830083+00:00",
-    "indexnow": {
-     "submitted": 25,
+     "submitted": 1,
      "http": 200
     }
    },
    {
-    "t": "2026-10-22T08:01:31.388481+00:00",
+    "t": "2026-10-22T17:25:13.850551+00:00",
     "indexnow": {
-     "submitted": 5,
+     "submitted": 7,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-10-22T20:30:28.215355+00:00",
+    "indexnow": {
+     "submitted": 3,
      "http": 200
     }
    }
@@ -149,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 63,
-   "warn": 2,
+   "info": 18,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 357,
-   "warn": 55,
+   "info": 312,
+   "warn": 54,
    "error": 0
   },
   "modules_with_errors_7d": [
@@ -167,21 +167,21 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 18
+    "warnings": 17
    }
   ],
   "collector": {
    "today": {
-    "total": 3,
-    "ok": 2,
+    "total": 11,
+    "ok": 10,
     "failed": 0,
     "cancelled": 1,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 104,
-    "ok": 64,
+    "total": 112,
+    "ok": 72,
     "failed": 20,
     "cancelled": 20,
     "running": 0,
@@ -251,8 +251,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 44,
-    "ok": 44,
+    "total": 123,
+    "ok": 123,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -318,98 +318,98 @@
   ]
  },
  "content": {
-  "live_guides": 189,
+  "live_guides": 194,
   "missing_topics_by_status": {
-   "open": 122,
-   "covered": 27,
    "built": 39,
-   "queued": 12
+   "open": 121,
+   "covered": 27,
+   "queued": 13
   },
   "missing_new": {
-   "today": 4,
+   "today": 29,
    "d7": 200,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "laptop bag",
+    "topic": "jump rope",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792645370",
-    "last_at": "1792645370"
+    "first_at": "1792699208",
+    "last_at": "1792699208"
    },
    {
-    "topic": "pocket tablet",
-    "leads": "9",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792642382",
-    "last_at": "1792644625"
-   },
-   {
-    "topic": "gap cam mount",
+    "topic": "pull up bar",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792644356",
-    "last_at": "1792644356"
+    "first_at": "1792699181",
+    "last_at": "1792699181"
    },
    {
-    "topic": "unconventional perfume",
+    "topic": "college hoodie",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792642362",
-    "last_at": "1792642362"
+    "first_at": "1792698591",
+    "last_at": "1792698591"
    },
    {
-    "topic": "cute pillow",
+    "topic": "body oil",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792612315",
-    "last_at": "1792612315"
+    "first_at": "1792698074",
+    "last_at": "1792698074"
    },
    {
-    "topic": "pet pillow",
+    "topic": "gift ideas",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792610705",
-    "last_at": "1792610705"
+    "first_at": "1792697962",
+    "last_at": "1792697962"
    },
    {
-    "topic": "open back headphones",
+    "topic": "makeup set",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792610528",
-    "last_at": "1792610528"
+    "first_at": "1792697651",
+    "last_at": "1792697651"
    },
    {
-    "topic": "flashlight",
+    "topic": "phone case",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792602113",
-    "last_at": "1792602113"
+    "first_at": "1792697628",
+    "last_at": "1792697628"
    },
    {
-    "topic": "sling bag",
+    "topic": "cowboy cologne",
+    "leads": "5",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792696618",
+    "last_at": "1792697239"
+   },
+   {
+    "topic": "beanie hat",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792262021",
+    "last_at": "1792690265"
+   },
+   {
+    "topic": "mini immersion blender",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792602035",
-    "last_at": "1792602035"
-   },
-   {
-    "topic": "giant bean bag",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792599892",
-    "last_at": "1792599892"
+    "first_at": "1792689209",
+    "last_at": "1792689209"
    }
   ]
  },
@@ -456,6 +456,71 @@
     "crawled": ""
    },
    {
+    "u": "/g/best-mouse-pad-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-watches-under-200-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-running-shoes-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-security-cameras-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-street-photography-camera-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-polo-shirt-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-drone-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-facial-skincare-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-gaming-monitors-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-perfumes-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-laptop-stands-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-hiking-backpacks-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-imac-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
     "u": "/g/best-lego-sets-for-adults-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
@@ -489,87 +554,22 @@
     "u": "/g/best-vacuums-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-monitors-for-mac-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-lawn-mowers-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-sunscreen-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-game-controller-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-iphone-camera-lens-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-chewable-fidget-toy-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-slippers-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-stanley-lunch-box-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-sweatpants-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-nintendo-switch-lite-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-surround-sound-system-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-usb-c-charger-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-water-filter-pitchers-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
-   "https://zoepicks.github.io/g/best-lego-sets-for-adults-2026/",
-   "https://zoepicks.github.io/g/best-cat-litter-2026/",
-   "https://zoepicks.github.io/g/best-shampoo-2026/",
-   "https://zoepicks.github.io/g/best-hair-straighteners-2026/",
-   "https://zoepicks.github.io/g/best-car-vacuums-2026/",
-   "https://zoepicks.github.io/g/best-toaster-ovens-2026/",
-   "https://zoepicks.github.io/g/best-vacuums-2026/",
-   "https://zoepicks.github.io/g/best-monitors-for-mac-2026/",
-   "https://zoepicks.github.io/g/best-lawn-mowers-2026/",
-   "https://zoepicks.github.io/g/best-sunscreen-2026/"
+   "https://zoepicks.github.io/g/best-mouse-pad-2026/",
+   "https://zoepicks.github.io/g/best-watches-under-200-2026/",
+   "https://zoepicks.github.io/g/best-running-shoes-2026/",
+   "https://zoepicks.github.io/g/best-security-cameras-2026/",
+   "https://zoepicks.github.io/g/best-street-photography-camera-2026/",
+   "https://zoepicks.github.io/g/best-polo-shirt-2026/",
+   "https://zoepicks.github.io/g/best-drone-2026/",
+   "https://zoepicks.github.io/g/best-facial-skincare-2026/",
+   "https://zoepicks.github.io/g/best-gaming-monitors-2026/",
+   "https://zoepicks.github.io/g/best-perfumes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-20T16:19",
+   "last_submitted": "2026-10-21T16:52",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -599,6 +599,11 @@
     },
     {
      "d": "2026-10-19",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-20",
      "clicks": 0,
      "impr": 0
     }
@@ -638,6 +643,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-22",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -645,7 +657,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-21T16:52",
+    "last_submitted": "2026-10-22T17:25",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -656,9 +668,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 195,
+    "urls": 200,
     "other_host_urls": 0,
-    "live_pages_crawled": 195
+    "live_pages_crawled": 200
    },
    "permission": "siteOwner",
    "resubmitted": null,
