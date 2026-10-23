@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-23T08:38:06.588324+00:00",
+ "generated_at": "2026-10-23T21:05:07.865190+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 201,
+  "pages": 204,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 30
+   "low": 38
   },
-  "avg_guide_words": 964,
+  "avg_guide_words": 965,
   "todo": [
    {
     "sev": "high",
@@ -26,6 +26,18 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 17,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-drawing-stylus-2026/",
+     "/g/best-sunscreen-2026/",
+     "/g/best-slippers-2026/"
+    ],
+    "detail": "load 3.19s"
+   },
+   {
+    "sev": "low",
     "code": "title_length",
     "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -35,18 +47,6 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 9,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-floor-lamps-2026/",
-     "/g/best-black-water-bottle-2026/",
-     "/g/best-crockpot-2026/"
-    ],
-    "detail": "load 3.3s"
    },
    {
     "sev": "low",
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 195,
+   "guides_live": 198,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-23T02:35:23.372653+00:00",
+    "t": "2026-10-23T14:41:01.878806+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-23T05:36:37.527620+00:00",
+    "t": "2026-10-23T18:03:33.681541+00:00",
     "indexnow": {
-     "submitted": 8,
+     "submitted": 4,
      "http": 200
     }
    },
    {
-    "t": "2026-10-23T08:37:58.264593+00:00",
+    "t": "2026-10-23T21:05:00.672956+00:00",
     "indexnow": {
      "submitted": 6,
      "http": 200
@@ -97,10 +97,10 @@
   ]
  },
  "traffic": {
-  "today_visitors": 0,
-  "today_views": 0,
-  "total_visitors": 103,
-  "total_views": 820,
+  "today_visitors": 1,
+  "today_views": 6,
+  "total_visitors": 104,
+  "total_views": 826,
   "since": "2026-10-16",
   "last7": [
    {
@@ -141,29 +141,24 @@
    },
    {
     "day": "2026-10-23",
-    "visitors": 0,
-    "views": 0,
+    "visitors": 1,
+    "views": 6,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 86,
+   "info": 38,
    "warn": 2,
-   "error": 1
+   "error": 0
   },
   "last7d": {
-   "info": 372,
+   "info": 324,
    "warn": 31,
-   "error": 1
+   "error": 0
   },
   "modules_with_errors_7d": [
-   {
-    "module": "Offers (Top 3 discounts strip)",
-    "errors": 1,
-    "warnings": 0
-   },
    {
     "module": "Hot feed (home top discount)",
     "errors": 0,
@@ -177,16 +172,16 @@
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 2,
+    "total": 11,
+    "ok": 11,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 108,
-    "ok": 71,
+    "total": 117,
+    "ok": 80,
     "failed": 17,
     "cancelled": 20,
     "running": 0,
@@ -256,8 +251,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 72,
-    "ok": 72,
+    "total": 122,
+    "ok": 122,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -273,6 +268,26 @@
    }
   },
   "recent_problems": [
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
    {
     "module": "ZOEDEALS",
     "level": "e",
@@ -292,122 +307,102 @@
     "module": "ZOESEO",
     "level": "w",
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 195,
+  "live_guides": 198,
   "missing_topics_by_status": {
-   "open": 124,
-   "covered": 26,
-   "built": 38,
-   "queued": 12
+   "queued": 16,
+   "open": 122,
+   "covered": 23,
+   "built": 39
   },
   "missing_new": {
-   "today": 0,
-   "d7": 200,
+   "today": 22,
+   "d7": 190,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "cat toys",
+    "topic": "thick comforter",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792711034",
-    "last_at": "1792711034"
+    "first_at": "1792788162",
+    "last_at": "1792788162"
    },
    {
-    "topic": "vacuum cleaner",
+    "topic": "fleece jacket",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792784757",
+    "last_at": "1792784757"
+   },
+   {
+    "topic": "smartphone and laptop",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792784156",
+    "last_at": "1792784156"
+   },
+   {
+    "topic": "large screen smartphone",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792784130",
+    "last_at": "1792784130"
+   },
+   {
+    "topic": "wifi repeater",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792783009",
+    "last_at": "1792783009"
+   },
+   {
+    "topic": "shimmery eyeshadow",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792777825",
+    "last_at": "1792777825"
+   },
+   {
+    "topic": "custom pillow",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792777738",
+    "last_at": "1792777738"
+   },
+   {
+    "topic": "portable solar generator",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792775310",
+    "last_at": "1792775310"
+   },
+   {
+    "topic": "roll tarp",
     "leads": "2",
-    "budget": 400.0,
+    "budget": null,
     "status": "open",
-    "first_at": "1792278902",
-    "last_at": "1792710321"
+    "first_at": "1792775111",
+    "last_at": "1792775289"
    },
    {
-    "topic": "basic drone",
+    "topic": "women's perfume",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792708158",
-    "last_at": "1792708158"
-   },
-   {
-    "topic": "cooling comforter pillow",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792706839",
-    "last_at": "1792706839"
-   },
-   {
-    "topic": "sneakers",
-    "leads": "4",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792547568",
-    "last_at": "1792706351"
-   },
-   {
-    "topic": "vrr monitor",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792541870",
-    "last_at": "1792705776"
-   },
-   {
-    "topic": "vintage lunch box",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792704433",
-    "last_at": "1792704433"
-   },
-   {
-    "topic": "stuffed animal",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792277563",
-    "last_at": "1792704402"
-   },
-   {
-    "topic": "xs pants",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792704248",
-    "last_at": "1792704248"
-   },
-   {
-    "topic": "vhs tv",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792701072",
-    "last_at": "1792701372"
+    "first_at": "1792773221",
+    "last_at": "1792773221"
    }
   ]
  },
@@ -418,13 +413,19 @@
   "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 149
+   "URL is unknown to Google": 147,
+   "ERROR": 2
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 149,
+    "pages": 147,
     "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
+   },
+   {
+    "state": "ERROR",
+    "pages": 2,
+    "fix": "Google ka reason dekho: ERROR"
    }
   ],
   "not_indexed": [
@@ -450,6 +451,31 @@
    },
    {
     "u": "/disclosure.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-keyboards-for-typing-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-drawing-stylus-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-baby-monitors-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-wallets-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-flash-drive-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
@@ -527,47 +553,22 @@
     "u": "/g/best-cat-litter-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-shampoo-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-hair-straighteners-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-car-vacuums-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-toaster-ovens-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-vacuums-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
+   "https://zoepicks.github.io/g/best-keyboards-for-typing-2026/",
+   "https://zoepicks.github.io/g/best-drawing-stylus-2026/",
+   "https://zoepicks.github.io/g/best-baby-monitors-2026/",
+   "https://zoepicks.github.io/g/best-wallets-2026/",
+   "https://zoepicks.github.io/g/best-flash-drive-2026/",
    "https://zoepicks.github.io/g/best-mouse-pad-2026/",
    "https://zoepicks.github.io/g/best-watches-under-200-2026/",
    "https://zoepicks.github.io/g/best-running-shoes-2026/",
    "https://zoepicks.github.io/g/best-security-cameras-2026/",
-   "https://zoepicks.github.io/g/best-street-photography-camera-2026/",
-   "https://zoepicks.github.io/g/best-polo-shirt-2026/",
-   "https://zoepicks.github.io/g/best-drone-2026/",
-   "https://zoepicks.github.io/g/best-facial-skincare-2026/",
-   "https://zoepicks.github.io/g/best-gaming-monitors-2026/",
-   "https://zoepicks.github.io/g/best-perfumes-2026/"
+   "https://zoepicks.github.io/g/best-street-photography-camera-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-21T16:52",
+   "last_submitted": "2026-10-22T17:25",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -602,6 +603,11 @@
     },
     {
      "d": "2026-10-20",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-21",
      "clicks": 0,
      "impr": 0
     }
@@ -648,6 +654,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-23",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -655,7 +668,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-22T17:25",
+    "last_submitted": "2026-10-23T18:03",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -666,9 +679,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 201,
+    "urls": 204,
     "other_host_urls": 0,
-    "live_pages_crawled": 201
+    "live_pages_crawled": 204
    },
    "permission": "siteOwner",
    "resubmitted": null,
@@ -681,7 +694,8 @@
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'URL is unknown to Google' (147 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'ERROR' (2 pages): Google ka reason dekho: ERROR",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 2 - recent_problems dekho aur root cause fix karo.",
