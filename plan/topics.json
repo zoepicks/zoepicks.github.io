@@ -2728,14 +2728,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Oct 23, 2026"
  },
  {
   "title": "Best Stuffed Animal (2026)",
   "slug": "best-stuffed-animal-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  }
