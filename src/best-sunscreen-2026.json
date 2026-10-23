@@ -36,7 +36,16 @@
    ],
    "best_for": "All skin tones",
    "skip_if": "Needs extra hydration",
-   "link": "https://www.amazon.com/s?k=Supergoop%21+Unseen+Sunscreen+SPF+40&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Supergoop%21+Unseen+Sunscreen+SPF+40&tag=zoepicks00-20",
+   "asin": "B0DMWVG4G6",
+   "image": "https://m.media-amazon.com/images/I/61Z17MeYsaL.jpg",
+   "image_asin": "B0DMWVG4G6",
+   "amazon_price": "$32.00",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Supergoop! Unseen Sunscreen Face Stick SPF 40, Clear, Broad Spectrum 0.7 oz",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 443,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Neutrogena Ultra Sheer Face Liquid Mineral Sunscreen SPF 70",
@@ -69,7 +78,10 @@
    ],
    "best_for": "Budget‑conscious users",
    "skip_if": "Requires extra hydration",
-   "link": "https://www.amazon.com/s?k=Neutrogena+Ultra+Sheer+Face+Liquid+Mineral+Sunscreen+SPF+70&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Neutrogena+Ultra+Sheer+Face+Liquid+Mineral+Sunscreen+SPF+70&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Coola Classic Face Sunscreen SPF 50",
@@ -100,7 +112,10 @@
    ],
    "best_for": "Travelers and those preferring mineral sunscreens",
    "skip_if": "Sensitive to mineral ingredients",
-   "link": "https://www.amazon.com/s?k=Coola+Classic+Face+Sunscreen+SPF+50&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Coola+Classic+Face+Sunscreen+SPF+50&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   }
  ]
 }
