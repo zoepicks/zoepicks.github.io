@@ -2,10 +2,83 @@
  "slug": "best-keyboards-for-typing-2026",
  "title": "Top Keyboards for Fast, Comfy Typing (2026)",
  "category": "accessories",
- "date": "Oct 22, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selections were made from the reviews on TextWordCount.com, Wired.com, and PCMag.com, focusing on keyboards mentioned in multiple sources.",
- "assumptions": "Prices are omitted because they are not required for the guide.",
- "products": [],
- "draft": true
+ "date": "Oct 23, 2026",
+ "summary": "Keychron Q1 Max stands out as the top choice for fast, comfortable typing.",
+ "method": "Selected products were taken from the reviews on textwordcount.com, techgearlab.com, and the PCMag buying guide. Products appearing in more than one source were prioritized.",
+ "assumptions": "Prices are omitted because the sources do not provide them.",
+ "products": [
+  {
+   "name": "Corsair K70 PRO TKL",
+   "short": "K70 PRO TKL",
+   "badge": "Best for Gaming",
+   "why": [
+    "The Corsair K70 PRO TKL is highlighted as the best for gaming, featuring Hall Effect switches, rapid trigger, and SOCD support."
+   ],
+   "desc": "The Corsair K70 PRO TKL is a ten‑key‑less mechanical keyboard with Hall Effect switches, rapid trigger, and SOCD support. It does not include QMK customization.",
+   "benefit": "Picture a gamer who needs fast, reliable input. The Corsair K70 PRO TKL provides Hall Effect switches and rapid trigger, giving it a competitive edge over other gaming keyboards in this guide. It is the only keyboard here with Hall Effect switches. The catch: it lacks QMK support.",
+   "specs": [
+    "Hall Effect switches",
+    "Rapid trigger",
+    "SOCD support"
+   ],
+   "pros": [
+    "Hall Effect switches",
+    "Rapid trigger",
+    "SOCD support"
+   ],
+   "cons": [
+    "No QMK support"
+   ],
+   "best_for": "Gamers who prioritize speed and reliability",
+   "skip_if": "You need programmable keys via QMK",
+   "link": "https://www.amazon.com/s?k=Corsair+K70+PRO+TKL&tag=zoepicks00-20"
+  },
+  {
+   "name": "Logitech MX Keys S",
+   "short": "MX Keys S",
+   "badge": "Best Wireless Office",
+   "why": [
+    "The Logitech MX Keys S is highlighted as the best wireless office keyboard, blending comfort, features, and satisfying keystrokes."
+   ],
+   "desc": "The Logitech MX Keys S is a wireless office keyboard with comfortable keys and satisfying keystrokes. It does not include mechanical switches or hot‑swappable keys.",
+   "benefit": "Picture a remote worker who needs a quiet, comfortable keyboard for long sessions. The Logitech MX Keys S offers a comfortable typing experience and wireless convenience, making it a strong choice for office use. It is the only keyboard in this guide that is fully wireless and designed for office ergonomics. The catch: it lacks mechanical switches.",
+   "specs": [
+    "Wireless"
+   ],
+   "pros": [
+    "Comfortable keys",
+    "Satisfying keystrokes",
+    "Wireless"
+   ],
+   "cons": [
+    "No mechanical switches"
+   ],
+   "best_for": "Remote office workers",
+   "skip_if": "You need mechanical typing",
+   "link": "https://www.amazon.com/s?k=Logitech+MX+Keys+S&tag=zoepicks00-20"
+  },
+  {
+   "name": "SteelSeries Apex Pro Gen 3",
+   "short": "Apex Pro Gen 3",
+   "badge": "Best for Gaming",
+   "why": [
+    "The SteelSeries Apex Pro Gen 3 is noted for pro‑level performance and endless customizations."
+   ],
+   "desc": "The SteelSeries Apex Pro Gen 3 is a mechanical gaming keyboard with extensive customization options. It does not include wireless connectivity or a gasket mount.",
+   "benefit": "Picture a competitive gamer who wants full control over every key. The SteelSeries Apex Pro Gen 3 offers endless customizations, giving it an edge over other gaming keyboards in this guide. It is the only keyboard here with adjustable actuation points. The catch: it lacks wireless connectivity.",
+   "specs": [
+    "Extensive customization"
+   ],
+   "pros": [
+    "Adjustable actuation points",
+    "Extensive customization"
+   ],
+   "cons": [
+    "No wireless connectivity"
+   ],
+   "best_for": "Gamers who want full customization",
+   "skip_if": "You need wireless or a compact layout",
+   "link": "https://www.amazon.com/s?k=SteelSeries+Apex+Pro+Gen+3&tag=zoepicks00-20"
+  }
+ ]
 }

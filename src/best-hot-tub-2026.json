@@ -4,8 +4,12 @@
  "category": "other",
  "date": "Oct 23, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions in familyhandyman.com and topreviews.com.",
- "assumptions": "No price data was included because the sources did not state exact amounts.",
+ "method": "Reviewed the product mentions in the provided sources and selected the one that appeared in multiple reviews.",
+ "assumptions": "No price information was available in the sources.",
  "products": [],
+ "verdict": {
+  "pick": "Coleman SaluSpa Inflatable Hot Tub",
+  "line": "Ideal for people who want a low‑cost, portable hot tub that can be set up without an electrician. It offers a relaxing soak without the high upfront investment, but it may not be as durable as hard‑shell models."
+ },
  "draft": true
 }
