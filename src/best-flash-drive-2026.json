@@ -34,7 +34,10 @@
    ],
    "best_for": "Students and professionals needing fast file transfers",
    "skip_if": "You only have a USB‑A port",
-   "link": "https://www.amazon.com/s?k=Kingston+DataTraveler+Max+256GB+USB%E2%80%91C&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Kingston+DataTraveler+Max+256GB+USB%E2%80%91C&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Corsair Flash Voyager GTX",
@@ -62,7 +65,10 @@
    ],
    "best_for": "Travelers and users needing a rugged drive",
    "skip_if": "You need the fastest possible speed",
-   "link": "https://www.amazon.com/s?k=Corsair+Flash+Voyager+GTX&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Corsair+Flash+Voyager+GTX&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Verbatim Flash Drive",
@@ -90,7 +96,10 @@
    ],
    "best_for": "Budget‑conscious users",
    "skip_if": "You need high speed or high capacity",
-   "link": "https://www.amazon.com/s?k=Verbatim+Flash+Drive&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Verbatim+Flash+Drive&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
