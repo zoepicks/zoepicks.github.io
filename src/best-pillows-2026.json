@@ -79,11 +79,11 @@
    "image": "https://m.media-amazon.com/images/I/61neGtqdmEL.jpg",
    "image_asin": "B0CQDB4HHG",
    "amazon_price": "$165.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Saatva Latex Pillow, Hypoallergenic Pillow with Shredded Latex Core | Standard Loft (4\" - ",
-   "amazon_rating": "3.8",
-   "amazon_reviews": 120,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating": "3.9",
+   "amazon_reviews": 122,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Layla Kapok Pillow",
@@ -116,11 +116,11 @@
    "image": "https://m.media-amazon.com/images/I/61+oT6Y7pZL.jpg",
    "image_asin": "B07BBV1MPD",
    "amazon_price": "$114.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Layla Sleep, Adjustable Fill Kapok Pillow, Luxurious Cooling Pillow, Queen (Single), Suppo",
    "amazon_rating": "3.9",
    "amazon_reviews": 1082,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Purple Harmony Pillow",
@@ -156,11 +156,11 @@
     "neck"
    ],
    "amazon_price": "$229.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Purple Harmony Pillow - Low Loft, Standard Size - Cooling Gel Neck Pillow | Side Sleeper P",
    "amazon_rating": "4.2",
-   "amazon_reviews": 7314,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_reviews": 7320,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Beckham Hotel Collection Gel Pillow",
@@ -236,11 +236,11 @@
    "image": "https://m.media-amazon.com/images/I/71rTYUIoQ3L.jpg",
    "image_asin": "B07CMFSY97",
    "amazon_price": "$109.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Tempur-Pedic TEMPUR-Ergo Neck Pillow, Medium Profile, White",
    "amazon_rating": "4",
-   "amazon_reviews": 8068,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_reviews": 8069,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Coop Home Goods Original Adjustable Pillow",
@@ -274,11 +274,11 @@
    "image": "https://m.media-amazon.com/images/I/61hiruVCYbL.jpg",
    "image_asin": "B00EINBSEW",
    "amazon_price": "$89.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Coop Home Goods Original Adjustable Pillow, Queen Size Bed Pillow for Sleeping, Cross Cut ",
    "amazon_rating": "4.5",
-   "amazon_reviews": 64076,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_reviews": 64095,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Coop Home Goods Adjustable Body Pillow",
@@ -317,11 +317,11 @@
    "image": "https://m.media-amazon.com/images/I/51f0h2IjvjL.jpg",
    "image_asin": "B0DWC6ZNDJ",
    "amazon_price": "$138.00",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Coop Home Goods Original Adjustable Body Pillow (20x54) and Ultra-Tech Waterproof Pillow P",
    "amazon_rating": "4.2",
-   "amazon_reviews": 58,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_reviews": 60,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Snuggle-Pedic Body Pillow",
@@ -358,11 +358,11 @@
    "image": "https://m.media-amazon.com/images/I/71f+BFKlCnL.jpg",
    "image_asin": "B011U1LIK8",
    "amazon_price": "$49.97",
-   "amazon_price_asof": "Oct 20, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Snuggle-Pedic Body Pillow for Adults - Breathable, Full Body Pillow for Side Sleepers - Sh",
-   "amazon_rating": "4.3",
+   "amazon_rating": "4.4",
    "amazon_reviews": 23565,
-   "amazon_rating_asof": "Oct 20, 2026"
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "3‑Pack: 13\" Emoji Pillows",
@@ -394,7 +394,10 @@
    "link": "https://www.amazon.com/s?k=3%E2%80%91Pack%3A+13%22+Emoji+Pillows&tag=zoepicks00-20",
    "tabs": [
     "poop-emoji"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Poop Emoji Pillow",
@@ -408,7 +411,10 @@
    "link": "https://www.amazon.com/s?k=Poop+Emoji+Pillow&tag=zoepicks00-20",
    "tabs": [
     "poop-emoji"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   }
  ],
  "tips": {
