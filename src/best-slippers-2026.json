@@ -29,7 +29,10 @@
    ],
    "best_for": "Those who need maximum indoor warmth",
    "skip_if": "You need outdoor footwear",
-   "link": "https://www.amazon.com/s?k=L.L.Bean+Wicked+Good+booties&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=L.L.Bean+Wicked+Good+booties&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Olukai Moloa",
@@ -58,8 +61,11 @@
    "image": "https://m.media-amazon.com/images/I/41qBL0Lk4sL.jpg",
    "image_asin": "B01N2TZYTO",
    "amazon_rating": "4.7",
-   "amazon_reviews": 4,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_reviews": 3589,
+   "amazon_rating_asof": "Oct 22, 2026",
+   "amazon_price": "$140.00",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "OluKai Moloa Slipper, Men's Premium Leather Slip-On Shoes | Soft Genuine Shearling Lining "
   },
   {
    "name": "Olukai Ku'i",
@@ -88,8 +94,11 @@
    "image": "https://m.media-amazon.com/images/I/71P6PdfwULL.jpg",
    "image_asin": "B0CQMN3V1F",
    "amazon_price": "$140.00",
-   "amazon_price_asof": "Oct 21, 2026",
-   "amazon_listing": "OluKai Ku'i Women's Slipper, Soft Full-Grain Leather | Wool Blend Footbed, Wet Grip Soles "
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "OluKai Ku'i Women's Slipper, Soft Full-Grain Leather | Wool Blend Footbed, Wet Grip Soles ",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 489,
+   "amazon_rating_asof": "Oct 22, 2026"
   }
  ]
 }
