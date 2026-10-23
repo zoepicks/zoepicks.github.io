@@ -1,26 +1,25 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Heating Pad (2026)
+[collect] topic: Best Vhs Tv (2026)
 [collect] tavily key ...t3vu 432 (limit/invalid) -> skipped for this run, 3 key(s) left
 [collect] tavily key ...yLM7 432 (limit/invalid) -> skipped for this run, 2 key(s) left
 [collect] tavily -> 3 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-heating-pad
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-heating-pad
-[collect] 2/3 source pages fetched
+[collect] 3/3 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 404 https://www.garagegymreviews.com/best-heating-pads
-[collect] browser fetch 609 chars: https://www.garagegymreviews.com/best-heating-pads
-[collect] extra sources: +2 readable page(s) -> 4 total (techgearlab.com, garagegymreviews.com)
-[collect] llm request: 4 sources x 1626 chars, ~2639 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Pure Enrichment PureRelief XL King Size
+[collect] tavily -> 2 pages
+[collect] extra sources: +1 readable page(s) -> 4 total (pcmag.com)
+[collect] llm request: 4 sources x 1627 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 197,885 requested 2,748 -> skipped for this run
+[collect] drop (only 1 sources): TCL QM8L
 [collect] open web (tavily) -> 15 results
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-heating-pads
-[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-heating-pads
-[collect] extra sources: +2 readable page(s) -> 6 total (health.yahoo.com, thermophore.com)
+[collect] tavily -> 3 pages
+[collect] http 404 https://www.consumerreports.org/tv-antenna-review-top-picks-from-consumer-reports-latest-tests-a2799732155
+[collect] browser fetch 92 chars: https://www.consumerreports.org/tv-antenna-review-top-picks-from-consumer-reports-latest-tests-a2799732155
+[collect] extra sources: +2 readable page(s) -> 6 total (wired.com, consumerreports.org)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2812 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Thermophore MaxHEAT
-[collect] only 1 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1071 chars, ~2633 in + 4000 out tokens (budget 7000)
+[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,362 requested 3,669 -> skipped for this run
+[collect] drop (only 1 sources): TCL QM8L
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -270,6 +269,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-monitors
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/studio/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vacuums-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vhs-tv-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-video-doorbells-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-pads-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-shoes-2026/index.html
@@ -287,8 +287,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-heating-pad-2026 draft
-[collect] progress: guide 1 done (best-heating-pad-2026) | tried 1 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] done: best-vhs-tv-2026 draft
+[collect] progress: guide 1 done (best-vhs-tv-2026) | tried 1 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,885 requested 2,748", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,362 requested 3,669"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
