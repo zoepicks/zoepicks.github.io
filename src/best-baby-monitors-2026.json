@@ -41,7 +41,10 @@
    ],
    "best_for": "Parents who want a flexible, subscription‑free monitor",
    "skip_if": "If you need built‑in sleep analytics or a dedicated nightlight",
-   "link": "https://www.amazon.com/s?k=VTech+V%E2%80%91Care+Smart+Baby+Monitor+VC2105&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=VTech+V%E2%80%91Care+Smart+Baby+Monitor+VC2105&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Nanit Pro Camera",
@@ -77,7 +80,16 @@
    ],
    "best_for": "Parents who need remote monitoring and sleep analytics",
    "skip_if": "If you prefer a local, subscription‑free monitor",
-   "link": "https://www.amazon.com/s?k=Nanit+Pro+Camera&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Nanit+Pro+Camera&tag=zoepicks00-20",
+   "asin": "B0FTSJQPWT",
+   "image": "https://m.media-amazon.com/images/I/61Cfnp4e3qL.jpg",
+   "image_asin": "B0FTSJQPWT",
+   "amazon_price": "$289.99",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Nanit Smart Baby Video Monitor - Camera & Wall Mount - 1080p Wi-Fi Camera | Pro edition, 2",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 108,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Owlet Dream Duo 2",
@@ -110,7 +122,13 @@
    ],
    "best_for": "Parents who prioritize medical‑grade vital sign monitoring",
    "skip_if": "If you need a camera with a wide field of view",
-   "link": "https://www.amazon.com/s?k=Owlet+Dream+Duo+2&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Owlet+Dream+Duo+2&tag=zoepicks00-20",
+   "asin": "B0FDT7KQTH",
+   "image": "https://m.media-amazon.com/images/I/71s6e7yp-JL.jpg",
+   "image_asin": "B0FDT7KQTH",
+   "amazon_price": "$374.99",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Owlet Dream Duo 3 Smart Baby Monitor System, Dream Sock + 2K HD Camera | FDA-Cleared Monit"
   }
  ],
  "verdict": {
