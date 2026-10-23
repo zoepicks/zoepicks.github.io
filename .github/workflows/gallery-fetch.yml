@@ -44,7 +44,7 @@ jobs:
       - name: Fetch galleries
         env:
           JOB_ID: ${{ github.event.client_payload.job_id || github.run_id }}
-          ASINS: ${{ toJson(github.event.client_payload.asins) || github.event.inputs.asins }}
+          ASINS: ${{ github.event.client_payload.asins && toJson(github.event.client_payload.asins) || github.event.inputs.asins }}
         run: python -m x.gallery_ci
 
       - name: Push result (so Render can read it back)
