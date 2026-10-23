@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-23T08:38:27.910656+00:00",
+ "updated": "2026-10-23T11:39:42.659121+00:00",
  "boots_total": 22,
  "recent_boots_utc": [
   "2026-10-20T07:11:02",
@@ -14,7 +14,7 @@
   "2026-10-22T18:29:05",
   "2026-10-23T02:34:20"
  ],
- "last_run_ts": 1792744681.373072,
+ "last_run_ts": 1792755581.1464982,
  "last_report_ts": 1792744707.1889079,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 30
+  "low": 28
  },
  "recent_runs": [
-  {
-   "t": "2026-10-22T05:00:11",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 25
-  },
   {
    "t": "2026-10-22T08:01:31",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 6
+  },
+  {
+   "t": "2026-10-23T11:39:38",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 7
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-23T02:35:25",
-   "what": "SEO check: score 94 (+0), 200 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-23T05:36:40",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-23T05:36:40",
-   "what": "SEO check: score 94 (+0), 201 pages, 3 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-23T05:36:40",
    "what": "IndexNow: 8 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-10-23T08:38:27",
    "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-10-23T11:39:41",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-23T11:39:41",
+   "what": "SEO check: score 94 (+0), 201 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-23T11:39:41",
+   "what": "IndexNow: 7 URL Bing ko bheje",
    "ok": true
   }
  ]
