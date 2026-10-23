@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-22T20:30:34.126829+00:00",
+ "generated_at": "2026-10-23T08:38:06.588324+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 200,
+  "pages": 201,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 54
+   "low": 30
   },
-  "avg_guide_words": 960,
+  "avg_guide_words": 964,
   "todo": [
    {
     "sev": "high",
@@ -26,18 +26,6 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 33,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-4k-monitors-2026/",
-     "/g/best-makeup-primers-2026/",
-     "/g/best-fish-tanks-2026/"
-    ],
-    "detail": "load 5.21s"
-   },
-   {
-    "sev": "low",
     "code": "title_length",
     "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -47,6 +35,18 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 9,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-floor-lamps-2026/",
+     "/g/best-black-water-bottle-2026/",
+     "/g/best-crockpot-2026/"
+    ],
+    "detail": "load 3.3s"
    },
    {
     "sev": "low",
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 194,
+   "guides_live": 195,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,41 +74,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-22T14:06:19.638633+00:00",
+    "t": "2026-10-23T02:35:23.372653+00:00",
     "indexnow": {
-     "submitted": 1,
+     "submitted": 0,
+     "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-23T05:36:37.527620+00:00",
+    "indexnow": {
+     "submitted": 8,
      "http": 200
     }
    },
    {
-    "t": "2026-10-22T17:25:13.850551+00:00",
+    "t": "2026-10-23T08:37:58.264593+00:00",
     "indexnow": {
-     "submitted": 7,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-22T20:30:28.215355+00:00",
-    "indexnow": {
-     "submitted": 3,
+     "submitted": 6,
      "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 2,
-  "today_views": 6,
+  "today_visitors": 0,
+  "today_views": 0,
   "total_visitors": 103,
   "total_views": 820,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-16",
-    "visitors": 5,
-    "views": 99,
-    "clicks": 0
-   },
    {
     "day": "2026-10-17",
     "visitors": 18,
@@ -144,48 +138,77 @@
     "visitors": 2,
     "views": 6,
     "clicks": 0
+   },
+   {
+    "day": "2026-10-23",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 18,
-   "warn": 1,
-   "error": 0
+   "info": 86,
+   "warn": 2,
+   "error": 1
   },
   "last7d": {
-   "info": 312,
-   "warn": 54,
-   "error": 0
+   "info": 372,
+   "warn": 31,
+   "error": 1
   },
   "modules_with_errors_7d": [
    {
+    "module": "Offers (Top 3 discounts strip)",
+    "errors": 1,
+    "warnings": 0
+   },
+   {
     "module": "Hot feed (home top discount)",
     "errors": 0,
-    "warnings": 37
+    "warnings": 12
    },
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 17
+    "warnings": 19
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
-    "ok": 10,
+    "total": 2,
+    "ok": 2,
     "failed": 0,
-    "cancelled": 1,
+    "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 112,
-    "ok": 72,
-    "failed": 20,
+    "total": 108,
+    "ok": 71,
+    "failed": 17,
     "cancelled": 20,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 32,
+      "at": "2026-10-18T03:09:35Z",
+      "event": "workflow_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39092628733"
+     },
+     {
+      "run": 29,
+      "at": "2026-10-18T00:50:35Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39084259210"
+     },
+     {
+      "run": 28,
+      "at": "2026-10-18T00:19:36Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39082345761"
+     },
      {
       "run": 26,
       "at": "2026-10-17T21:18:20Z",
@@ -227,32 +250,14 @@
       "at": "2026-10-17T04:42:24Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39003569148"
-     },
-     {
-      "run": 10,
-      "at": "2026-10-16T15:52:24Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38927433845"
-     },
-     {
-      "run": 8,
-      "at": "2026-10-16T15:08:34Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38921501793"
-     },
-     {
-      "run": 7,
-      "at": "2026-10-16T14:38:12Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/38917363429"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 123,
-    "ok": 123,
+    "total": 72,
+    "ok": 72,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -260,25 +265,18 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 299,
-    "failed": 1,
+    "ok": 300,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 768,
-      "at": "2026-10-20T10:01:03Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39404887748"
-     }
-    ]
+    "failed_runs": []
    }
   },
   "recent_problems": [
    {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "module": "ZOEDEALS",
+    "level": "e",
+    "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 409: {\"message\":\"is at 188f7e8d7a04538955258c9e34fb0827a3fb2e4f but expected d9a74dacd585c509a4c"
    },
    {
     "module": "ZOESEO",
@@ -288,7 +286,7 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 3 HIGH issue(s): fetch_failed, contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -318,98 +316,98 @@
   ]
  },
  "content": {
-  "live_guides": 194,
+  "live_guides": 195,
   "missing_topics_by_status": {
-   "built": 39,
-   "open": 121,
-   "covered": 27,
-   "queued": 13
+   "open": 124,
+   "covered": 26,
+   "built": 38,
+   "queued": 12
   },
   "missing_new": {
-   "today": 29,
+   "today": 0,
    "d7": 200,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "jump rope",
+    "topic": "cat toys",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792699208",
-    "last_at": "1792699208"
+    "first_at": "1792711034",
+    "last_at": "1792711034"
    },
    {
-    "topic": "pull up bar",
+    "topic": "vacuum cleaner",
+    "leads": "2",
+    "budget": 400.0,
+    "status": "open",
+    "first_at": "1792278902",
+    "last_at": "1792710321"
+   },
+   {
+    "topic": "basic drone",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792699181",
-    "last_at": "1792699181"
+    "first_at": "1792708158",
+    "last_at": "1792708158"
    },
    {
-    "topic": "college hoodie",
+    "topic": "cooling comforter pillow",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792698591",
-    "last_at": "1792698591"
+    "first_at": "1792706839",
+    "last_at": "1792706839"
    },
    {
-    "topic": "body oil",
-    "leads": "1",
+    "topic": "sneakers",
+    "leads": "4",
     "budget": null,
     "status": "open",
-    "first_at": "1792698074",
-    "last_at": "1792698074"
+    "first_at": "1792547568",
+    "last_at": "1792706351"
    },
    {
-    "topic": "gift ideas",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792697962",
-    "last_at": "1792697962"
-   },
-   {
-    "topic": "makeup set",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792697651",
-    "last_at": "1792697651"
-   },
-   {
-    "topic": "phone case",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792697628",
-    "last_at": "1792697628"
-   },
-   {
-    "topic": "cowboy cologne",
-    "leads": "5",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792696618",
-    "last_at": "1792697239"
-   },
-   {
-    "topic": "beanie hat",
+    "topic": "vrr monitor",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792262021",
-    "last_at": "1792690265"
+    "first_at": "1792541870",
+    "last_at": "1792705776"
    },
    {
-    "topic": "mini immersion blender",
+    "topic": "vintage lunch box",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792689209",
-    "last_at": "1792689209"
+    "first_at": "1792704433",
+    "last_at": "1792704433"
+   },
+   {
+    "topic": "stuffed animal",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792277563",
+    "last_at": "1792704402"
+   },
+   {
+    "topic": "xs pants",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792704248",
+    "last_at": "1792704248"
+   },
+   {
+    "topic": "vhs tv",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792701072",
+    "last_at": "1792701372"
    }
   ]
  },
@@ -668,9 +666,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 200,
+    "urls": 201,
     "other_host_urls": 0,
-    "live_pages_crawled": 200
+    "live_pages_crawled": 201
    },
    "permission": "siteOwner",
    "resubmitted": null,
@@ -686,7 +684,7 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
+  "Bot errors (7 din): 2 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo."
  ]
 }
