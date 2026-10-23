@@ -1,0 +1,69 @@
+name: Amazon Gallery Fetch
+
+# Amazon product gallery photos via real headless Chromium (Render's plain `requests` get CAPTCHA'd).
+# Runs HERE (public repo = free Actions minutes). Logic lives in the private Naami repo (x/gallery_ci.py), checked out with ZOE_GH_TOKEN.
+# Triggered by the Naami discount-reel warm-up on Render (repository_dispatch: gallery_fetch, payload {job_id, asins}).
+# Result is pushed to .github/gallery-results/<job_id>.json in THIS repo so Render can read it back (Render deletes it after reading).
+# Needs secret ZOE_GH_TOKEN (same one zoe-deal-scan uses: write access to this repo, read access to Naami).
+
+on:
+  repository_dispatch:
+    types: [gallery_fetch]
+  workflow_dispatch:
+    inputs:
+      asins:
+        description: 'JSON list of ASINs, e.g. ["B0866S3D82"]'
+        default: '[]'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gallery-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: naami24x7/Naami
+          token: ${{ secrets.ZOE_GH_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Fetch galleries
+        env:
+          JOB_ID: ${{ github.event.client_payload.job_id || github.run_id }}
+          ASINS: ${{ toJson(github.event.client_payload.asins) || github.event.inputs.asins }}
+        run: python -m x.gallery_ci
+
+      - name: Push result (so Render can read it back)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JOB_ID: ${{ github.event.client_payload.job_id || github.run_id }}
+        run: |
+          python3 - <<'PYEOF'
+          import base64, json, os, urllib.request
+          token, repo, job = os.environ["GH_TOKEN"], "zoepicks/zoepicks.github.io", os.environ["JOB_ID"]
+          try:
+              data = json.load(open("gallery_result.json", encoding="utf-8"))
+          except Exception:
+              data = {"job_id": job, "results": {}, "error": "CI bina result ke khatam hua"}
+          path = f".github/gallery-results/{job}.json"
+          api = f"https://api.github.com/repos/{repo}/contents/{path}"
+          hdr = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+          body = {"message": "ci: gallery result (auto)", "content": base64.b64encode(json.dumps(data, ensure_ascii=False).encode()).decode()}
+          req = urllib.request.Request(api, data=json.dumps(body).encode(), headers={**hdr, "Content-Type": "application/json"}, method="PUT")
+          print(path, urllib.request.urlopen(req).status)
+          PYEOF
