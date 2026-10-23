@@ -38,7 +38,10 @@
    ],
    "best_for": "Daily commuters who need a slim wallet with many card slots",
    "skip_if": "You need a very small wallet for only a few cards",
-   "link": "https://www.amazon.com/s?k=Ekster+Cardholder+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ekster+Cardholder+Pro&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Ridge Wallet",
@@ -66,7 +69,13 @@
    ],
    "best_for": "Travelers who value durability and low weight",
    "skip_if": "You need to carry many cards",
-   "link": "https://www.amazon.com/s?k=Ridge+Wallet&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ridge+Wallet&tag=zoepicks00-20",
+   "asin": "B01M7XE441",
+   "image": "https://m.media-amazon.com/images/I/71q1W+5T5BL.jpg",
+   "image_asin": "B01M7XE441",
+   "amazon_price": "$76.00",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Ridge Wallet for Men - Slim Minimalist Compact Wallet and Card Holder, RFID Protected Fron"
   },
   {
    "name": "Trayvax",
@@ -94,7 +103,13 @@
    ],
    "best_for": "Students or anyone needing a very slim wallet",
    "skip_if": "You need a wallet with a metal ejector or long warranty",
-   "link": "https://www.amazon.com/s?k=Trayvax&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Trayvax&tag=zoepicks00-20",
+   "asin": "B071H8XMJ5",
+   "image": "https://m.media-amazon.com/images/I/816S1pT7p+L.jpg",
+   "image_asin": "B071H8XMJ5",
+   "amazon_price": "$124.99",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Trayvax Contour Wallet, RFID Front Pocket Money and Credit Card Holder, Minimalist Slim Le"
   },
   {
    "name": "Vaultskin",
@@ -122,7 +137,13 @@
    ],
    "best_for": "Budget shoppers looking for a functional wallet",
    "skip_if": "You need a high‑durability metal wallet",
-   "link": "https://www.amazon.com/s?k=Vaultskin&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Vaultskin&tag=zoepicks00-20",
+   "asin": "B076HP6Y8V",
+   "image": "https://m.media-amazon.com/images/I/81tLcILSJcL.jpg",
+   "image_asin": "B076HP6Y8V",
+   "amazon_price": "$49.99",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "Vaultskin NOTTING HILL Slim Leather Zip Around Wallet, RFID (Black) | Minimalist thin card"
   }
  ],
  "verdict": {
