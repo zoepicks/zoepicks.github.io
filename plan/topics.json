@@ -2739,5 +2739,17 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Second Monitor (2026)",
+  "slug": "best-second-monitor-2026",
+  "category": "monitors",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-monitors-under-200-2026",
+  "tab": "second",
+  "tab_label": "Second"
  }
 ]
