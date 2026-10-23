@@ -37,12 +37,12 @@
    "asin": "B0B2VTZ432",
    "image": "https://m.media-amazon.com/images/I/71SfhQ2wbOL.jpg",
    "image_asin": "B0B2VTZ432",
-   "amazon_price": "$485.27",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price": "$472.99",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Shark Stratos Upright Vacuum, Powered Lift-Away, HEPA Seal, Navy, AZ3002​ | DuoClean, Powe",
    "amazon_rating": "4.1",
-   "amazon_reviews": 2597,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_reviews": 2601,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Bissell Pet Hair Eraser Handheld Vacuum",
@@ -69,7 +69,10 @@
    ],
    "best_for": "Pet owners needing quick, on‑the‑go cleanups",
    "skip_if": "Users needing a full‑size vacuum",
-   "link": "https://www.amazon.com/s?k=Bissell+Pet+Hair+Eraser+Handheld+Vacuum&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Bissell+Pet+Hair+Eraser+Handheld+Vacuum&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Shark PowerDetect Cordless Vacuum",
@@ -129,7 +132,16 @@
    "link": "https://www.amazon.com/s?k=Roborock+S8+MaxV+Ultra+Robot+Vacuum+%26+Sonic+Mop&tag=zoepicks00-20",
    "tabs": [
     "robot"
-   ]
+   ],
+   "asin": "B0D2VN5PGQ",
+   "image": "https://m.media-amazon.com/images/I/91D8GxaavuL.jpg",
+   "image_asin": "B0D2VN5PGQ",
+   "amazon_price": "$21.99",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "12 Pack Mop Pads Refills for Roborock S8 MaxV/S8 Max Ultra Robot Vacuum | 6 Pack Mop Cloth",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 78,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Dreame X50",
@@ -161,11 +173,11 @@
    "image": "https://m.media-amazon.com/images/I/71uNosaASaL.jpg",
    "image_asin": "B0DM5J52GC",
    "amazon_price": "$849.99",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "DREAME X50 Ultra with Self-Cleaning All in One Robot Vacuum and Mop | 2.36 in(6cm) Obstacl",
    "amazon_rating": "4.2",
-   "amazon_reviews": 774,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_reviews": 776,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Samsung Bespoke Jet AI Ultra Cordless Stick Vacuum",
@@ -195,7 +207,10 @@
    "link": "https://www.amazon.com/s?k=Samsung+Bespoke+Jet+AI+Ultra+Cordless+Stick+Vacuum&tag=zoepicks00-20",
    "tabs": [
     "stick"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Tineco Pure One S12 Cordless Stick Vacuum",
@@ -224,7 +239,10 @@
    "link": "https://www.amazon.com/s?k=Tineco+Pure+One+S12+Cordless+Stick+Vacuum&tag=zoepicks00-20",
    "tabs": [
     "stick"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Bissell Pet Hair Eraser Turbo Plus Lightweight Vacuum",
@@ -262,11 +280,11 @@
    "image": "https://m.media-amazon.com/images/I/613oTf0+C2L.jpg",
    "image_asin": "B07QXTS4KH",
    "amazon_price": "$219.99",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "BISSELL 24613 Pet Hair Eraser Turbo Plus Lightweight Vacuum, Tangle-Free Brush Roll, Power",
    "amazon_rating": "4.3",
-   "amazon_reviews": 10439,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_reviews": 10440,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "Shark Cordless PowerDetect Clean & Empty",
@@ -304,11 +322,11 @@
    "image": "https://m.media-amazon.com/images/I/71y+CRyuA+L.jpg",
    "image_asin": "B0DBVW1RFW",
    "amazon_price": "$549.00",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Shark PowerDetect Clean & Empty Cordless Stick Vacuum, IP3251 | Auto-Empty System, Powerfu",
-   "amazon_rating": "3.9",
-   "amazon_reviews": 1299,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_rating": "4",
+   "amazon_reviews": 2059,
+   "amazon_rating_asof": "Oct 22, 2026"
   }
  ],
  "verdict": {
