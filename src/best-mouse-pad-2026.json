@@ -28,7 +28,16 @@
    ],
    "best_for": "Gamers who want reliable performance without extra features",
    "skip_if": "You need a mouse pad with built‑in charging",
-   "link": "https://www.amazon.com/s?k=SteelSeries+QcK&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SteelSeries+QcK&tag=zoepicks00-20",
+   "asin": "B004DCLJ6A",
+   "image": "https://m.media-amazon.com/images/I/31FymVZjXkL.jpg",
+   "image_asin": "B004DCLJ6A",
+   "amazon_price": "$12.47",
+   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_listing": "SteelSeries QcK+ Gaming Mouse Pad",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 261,
+   "amazon_rating_asof": "Oct 22, 2026"
   },
   {
    "name": "HyperX Wrist Rest (Full Size)",
@@ -51,7 +60,10 @@
    ],
    "best_for": "People seeking wrist comfort for long desk work",
    "skip_if": "You need a hard, fast‑glide gaming pad",
-   "link": "https://www.amazon.com/s?k=HyperX+Wrist+Rest+%28Full+Size%29&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=HyperX+Wrist+Rest+%28Full+Size%29&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "MROCO Ergonomic Mouse Pad with Gel Wrist Rest",
@@ -74,7 +86,13 @@
    ],
    "best_for": "Users who want a combined mouse pad and wrist rest",
    "skip_if": "You prefer separate wrist rests",
-   "link": "https://www.amazon.com/s?k=MROCO+Ergonomic+Mouse+Pad+with+Gel+Wrist+Rest&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=MROCO+Ergonomic+Mouse+Pad+with+Gel+Wrist+Rest&tag=zoepicks00-20",
+   "asin": "B07DVCGX7G",
+   "image": "https://m.media-amazon.com/images/I/81FdngRuH7L.jpg",
+   "image_asin": "B07DVCGX7G",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 34912,
+   "amazon_rating_asof": "Oct 22, 2026"
   }
  ],
  "verdict": {
