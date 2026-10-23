@@ -1,25 +1,14 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Vhs Tv (2026)
+[collect] topic: Best Iphone Vs Ipad Pro (2026)
 [collect] tavily key ...t3vu 432 (limit/invalid) -> skipped for this run, 3 key(s) left
 [collect] tavily key ...yLM7 432 (limit/invalid) -> skipped for this run, 2 key(s) left
 [collect] tavily -> 3 pages
 [collect] 3/3 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] tavily -> 2 pages
-[collect] extra sources: +1 readable page(s) -> 4 total (pcmag.com)
-[collect] llm request: 4 sources x 1627 chars, ~2971 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 197,885 requested 2,748 -> skipped for this run
-[collect] drop (only 1 sources): TCL QM8L
-[collect] open web (tavily) -> 15 results
-[collect] tavily -> 3 pages
-[collect] http 404 https://www.consumerreports.org/tv-antenna-review-top-picks-from-consumer-reports-latest-tests-a2799732155
-[collect] browser fetch 92 chars: https://www.consumerreports.org/tv-antenna-review-top-picks-from-consumer-reports-latest-tests-a2799732155
-[collect] extra sources: +2 readable page(s) -> 6 total (wired.com, consumerreports.org)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1071 chars, ~2633 in + 4000 out tokens (budget 7000)
-[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,362 requested 3,669 -> skipped for this run
-[collect] drop (only 1 sources): TCL QM8L
-[collect] only 0 well-sourced products -> staying draft
+[collect] extra sources: +1 readable page(s) -> 4 total (zdnet.com)
+[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
+[collect] llm request: 4 sources x 1624 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 197,886 requested 2,430 -> skipped for this run
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -138,6 +127,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-impact-drivers
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-in-ear-gaming-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-insulated-water-bottles-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-camera-lens-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-vs-ipad-pro-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-2026/index.html
@@ -287,8 +277,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-vhs-tv-2026 draft
-[collect] progress: guide 1 done (best-vhs-tv-2026) | tried 1 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,885 requested 2,748", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,362 requested 3,669"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] done: best-iphone-vs-ipad-pro-2026 4 products
+[collect] progress: guide 1 done (best-iphone-vs-ipad-pro-2026) | tried 1 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,886 requested 2,430"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
