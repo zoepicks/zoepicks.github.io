@@ -2,7 +2,7 @@
  "slug": "best-perfumes-2026",
  "title": "Top Perfumes to Gift & Wear (2026)",
  "category": "beauty_health",
- "date": "Oct 22, 2026",
+ "date": "Oct 23, 2026",
  "summary": "5 perfumes from editor-tested lists, each for a different taste: a sheer skin scent, a woody evening scent, a fresh citrus floral, a sweet gourmand and a long-lasting amber floral.",
  "method": "Picks come from Marie Claire UK's perfume guide (updated Sept 2026) and PureWow's guide to the best perfumes for women (updated Feb 2026). Scent notes, sizes and wear times are from those editors' reviews, and wear time varies by skin. We do not show prices in the text because they change. Both lists are editors' opinions, not lab tests, so smell a sample before you commit.",
  "assumptions": "the sources are women's perfume lists, but Marie Claire UK says scents should not be limited by gender, so any pick can be worn by anyone.",
@@ -181,6 +181,70 @@
    "fill_tries": 1,
    "fill_last": "Oct 22, 2026",
    "fill_failed": false
+  },
+  {
+   "name": "Gucci Flora Gorgeous Orchid Eau de Parfum",
+   "short": "Gucci Flora Gorgeous Orchid",
+   "badge": "Best Overall",
+   "why": [
+    "Gucci Flora Gorgeous Orchid is highlighted as a top floral perfume in Allure’s list of best floral perfumes.",
+    "It pairs classic orchid with vanilla, creating a sophisticated scent."
+   ],
+   "desc": "Gucci Flora Gorgeous Orchid Eau de Parfum is a floral perfume that blends orchid and vanilla notes. It is presented as a high‑quality fragrance with a 20% perfume oil concentration for better longevity.",
+   "benefit": "Picture a woman who enjoys classic floral scents with a modern twist; she will appreciate the balanced orchid and vanilla notes that last long, making it a reliable choice for everyday wear. The fragrance offers a sophisticated scent that stands out among other floral options. It beats other picks in this guide by providing a more refined orchid profile and a longer lasting projection. The catch: it is priced higher than many other floral perfumes.",
+   "specs": [
+    "20% perfume oil concentration",
+    "Eau de Parfum",
+    "1.6 oz"
+   ],
+   "pros": [
+    "Sophisticated orchid and vanilla blend",
+    "Longer lasting projection",
+    "High quality ingredients"
+   ],
+   "cons": [
+    "Higher price point",
+    "Not suitable for very light scent lovers"
+   ],
+   "best_for": "Women who prefer a refined, long‑lasting floral perfume",
+   "skip_if": "You are looking for a budget fragrance",
+   "price": "$150 (for 1.6 oz)",
+   "link": "https://www.amazon.com/s?k=Gucci+Flora+Gorgeous+Orchid+Eau+de+Parfum&tag=zoepicks00-20",
+   "price_asof": "Oct 23, 2026",
+   "tabs": [
+    "floral"
+   ]
+  },
+  {
+   "name": "Floral Street Wild Vanilla Orchid Eau de Parfum",
+   "short": "Floral Street Wild Vanilla Orchid",
+   "badge": "Best Vanilla",
+   "why": [
+    "Floral Street Wild Vanilla Orchid is mentioned in Refinery29 and Organic Beauty Lover reviews.",
+    "It is a sweet vanilla patchouli fragrance with a 20% perfume oil concentration."
+   ],
+   "desc": "Floral Street Wild Vanilla Orchid Eau de Parfum is a floral perfume that combines vanilla and patchouli. It is marketed as a sweet, vanilla‑heavy scent with a 20% perfume oil concentration for better longevity.",
+   "benefit": "Picture a young woman who loves sweet, vanilla‑heavy scents; she will enjoy the warm vanilla and patchouli blend that feels comforting. The fragrance offers a sweet, modern take on vanilla florals, making it stand out among other floral picks. It wins against other options by providing a stronger vanilla presence. The catch: it may be too sweet for those who prefer lighter floral scents.",
+   "specs": [
+    "20% perfume oil concentration",
+    "Eau de Parfum",
+    "50ml"
+   ],
+   "pros": [
+    "Sweet vanilla and patchouli blend",
+    "Longer lasting projection",
+    "Vegan and cruelty‑free"
+   ],
+   "cons": [
+    "Too sweet for some",
+    "Limited scent variety"
+   ],
+   "best_for": "Young women who enjoy sweet, vanilla‑heavy florals",
+   "skip_if": "You prefer a subtle, classic floral perfume",
+   "link": "https://www.amazon.com/s?k=Floral+Street+Wild+Vanilla+Orchid+Eau+de+Parfum&tag=zoepicks00-20",
+   "tabs": [
+    "floral"
+   ]
   }
  ],
  "intro": [
@@ -250,5 +314,11 @@
     "Parfums de Marly Athénaïs Eau de Parfum"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "floral",
+   "label": "Floral"
+  }
+ ]
 }

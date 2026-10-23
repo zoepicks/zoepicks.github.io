@@ -4,12 +4,12 @@
  "category": "beauty_health",
  "date": "Oct 23, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from Consumer Reports, CNET, HealthyDadHacks, and Thermophore.com. The best pick was chosen based on the most frequent recommendation and the most comprehensive feature set.",
- "assumptions": "Prices are not included because none of the sources provide them.",
+ "method": "Products were selected from the provided source excerpts that specifically mention model names.",
+ "assumptions": "No price information was given, so price fields are null.",
  "products": [],
  "verdict": {
   "pick": "Sunbeam XL Heating Pad",
-  "line": "The Sunbeam XL is ideal for people who need fast, deep heat for lower back or larger muscle groups. It heats quickly and stays warm, making it a good choice for regular use, but it is larger and heavier than the other options."
+  "line": "Ideal for anyone with lower‑back soreness who wants quick warmth before work or workouts; it heats fast and loosens muscles, though it may lack advanced features."
  },
  "draft": true
 }

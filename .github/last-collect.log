@@ -1,29 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-micellar-water-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-midi-keyboards-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitor-deals-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-home-office-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-for-mac-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-monitors-under-200-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mouse-pad-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-multimeter-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nail-polish-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-bundles-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-lite-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-skin-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-for-work-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-obd2-scanners-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-office-chairs-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pc-controllers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-cameras-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-grooming-vacuums-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-water-fountains-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-deals-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-gimbal-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-griptok-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-battery-life-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
@@ -113,22 +87,29 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-leather-belts-2026 draft
-[collect] progress: guide 49 done (best-leather-belts-2026) | tried 49 | tavily keys alive 2/4
-[collect] topic: Top Ride-On Toys for Toddlers & Kids (2026)
-[collect] tavily -> 3 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/beach-and-pool-gear
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/beach-and-pool-gear
-[collect] 2/3 source pages fetched
+[collect] done: best-gaming-monitor-32-inch-2026 draft
+[collect] progress: guide 15 done (best-gaming-monitor-32-inch-2026) | tried 15 | tavily keys alive 2/4
+[collect] topic: Best Fishing Gear (2026)
+[collect] tavily -> 1 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/outdoors/fishing
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/outdoors/fishing
+[collect] 0/1 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] browser fetch 9000 chars: https://www.mumsnet.com/swearsby/best-ride-on-toys
-[collect] extra sources: +2 readable page(s) -> 4 total (rydertoys.com, mumsnet.com)
-[collect] llm request: 4 sources x 1621 chars, ~2974 in + 4000 out tokens (budget 7000)
+[collect] extra sources: +3 readable page(s) -> 3 total (flyfilmtour.com, trueprepper.com, outdoorgearlab.com)
+[collect] llm request: 3 sources x 2181 chars, ~2983 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Abu Garcia Veritas PLX
+[collect] drop (only 1 sources): PLUSINNO Carbon Fiber Telescopic
+[collect] drop (only 1 sources): Ugly Stik GX2
+[collect] drop (only 1 sources): Glide Survival Fishing Kit
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (mommyhood101.com, mommypoppins.com)
+[collect] extra sources: +2 readable page(s) -> 5 total (fieldandstream.com, outdoorlife.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1067 chars, ~2963 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): McLaren 720S Ride‑On
+[collect] llm request: 5 sources x 1292 chars, ~2973 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Daiwa Ballistic MQ LT 2500D
+[collect] drop (only 1 sources): Okuma Hakai DT 101H-A
+[collect] drop (only 1 sources): Abu Garcia Veritas PLX
+[collect] drop (only 1 sources): Greys Tail Reel
+[collect] drop (only 1 sources): Ugly Stik GX2
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -393,8 +374,27 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-ride-on-toys-2026 draft
-[collect] progress: guide 50 done (best-ride-on-toys-2026) | tried 50 | tavily keys alive 2/4
+[collect] done: best-fishing-gear-2026 draft
+[collect] progress: guide 16 done (best-fishing-gear-2026) | tried 16 | tavily keys alive 2/4
+[collect] topic: Best Pumpkin Hoodie (2026)
+[collect] tavily -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/advice-hunting-down-viral-halloween-decor
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/advice-hunting-down-viral-halloween-decor
+[collect] 1/2 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] http 429 https://www.chewy.com/frisco-jack-o-lantern-pumpkin-dog-cat/dp/185622
+[collect] browser fetch 237 chars: https://www.chewy.com/frisco-jack-o-lantern-pumpkin-dog-cat/dp/185622
+[collect] extra sources: +3 readable page(s) -> 4 total (chewy.com, utzsnacks.com, adamspolishes.com)
+[collect] llm request: 4 sources x 1625 chars, ~2510 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Utz Halloween Pumpkin Hoodie
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://www.petco.com/product/petco-pumpkin-pet-hoodie
+[collect] browser fetch 249 chars: https://www.petco.com/product/petco-pumpkin-pet-hoodie
+[collect] extra sources: +2 readable page(s) -> 6 total (petco.com, devilwalking.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2409 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products for tab pumpkin -> staying todo
+[collect] progress: guide 17 done (best-pumpkin-hoodie-2026) | tried 17 | tavily keys alive 2/4
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,251 requested 2,481", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,545 requested 2,529", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,802 requested 2,485", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,176 requested 2,565", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,836 requested 2,460"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,171 requested 4,291", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,817 requested 3,063", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,476 requested 3,818", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,188 requested 3,364", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,616 requested 5,124"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 17 guide(s) built, 17 topic(s) tried
