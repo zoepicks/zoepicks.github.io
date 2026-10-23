@@ -38,7 +38,7 @@
    "image": "https://m.media-amazon.com/images/I/51ArCONM7BL.jpg",
    "image_asin": "B0GWZM6FHB",
    "amazon_price": "$179.99",
-   "amazon_price_asof": "Oct 21, 2026",
+   "amazon_price_asof": "Oct 22, 2026",
    "amazon_listing": "Lululemon ABC Warpstreme Jogger (Black, Mens, Size Large)"
   },
   {
@@ -65,7 +65,10 @@
    ],
    "best_for": "Those who want a sleek, comfortable pair that works for casual outings and relaxed home days",
    "skip_if": "You need high stretch for active workouts",
-   "link": "https://www.amazon.com/s?k=Alo+Accolade+Straight+Leg+Sweatpant&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Alo+Accolade+Straight+Leg+Sweatpant&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Uniqlo Wide Sweatpants",
@@ -91,7 +94,10 @@
    ],
    "best_for": "People who prioritize comfort and affordability for daily wear",
    "skip_if": "You need high performance or a tailored look",
-   "link": "https://www.amazon.com/s?k=Uniqlo+Wide+Sweatpants&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Uniqlo+Wide+Sweatpants&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 22, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
