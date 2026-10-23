@@ -1,14 +1,119 @@
-[collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Drawing Stylus (2026)
-[collect] tavily key ...t3vu 432 (limit/invalid) -> skipped for this run, 3 key(s) left
-[collect] tavily key ...yLM7 432 (limit/invalid) -> skipped for this run, 2 key(s) left
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.cnet.com/reviews/wacom-bamboo-stylus-duo-review
-[collect] browser fetch 4986 chars: https://www.cnet.com/reviews/wacom-bamboo-stylus-duo-review
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1625 chars, ~2973 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,634 requested 2,399 -> skipped for this run
-[collect] drop (only 1 sources): Wacom Intuos Creative Stylus 2
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-water-fountains-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-deals-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-gimbal-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-griptok-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-battery-life-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/under-300/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pillows-2026/neck/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-planners-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-playstation-5-2026/accessories/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-polo-shirt-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-portable-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-power-banks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pressure-washers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-printers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-pro-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-rain-jackets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-razor-blades-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-recliners-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ride-on-toys-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-running-shoes-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-security-cameras-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-litter-boxes-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shoe-racks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-skincare-product-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sleeping-bags-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-slippers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-displays-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smart-thermostats-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartphones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-smartwatches-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sofas-under-1000-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-soundbars-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-space-heaters-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stand-mixers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-standing-desks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stanley-lunch-box-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steam-mop-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stem-toys-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stereo-system-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stove-top-pressure-cooker-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-streaming-devices-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-strollers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-studio-headphones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sunglasses-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sunscreen-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-surround-sound-system-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sweatpants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tech-gifts-under-50-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tire-inflators-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-toaster-ovens-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tool-sets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tote-bags-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-toys-for-3-year-olds-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-trash-can-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-travel-adapters-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-travel-backpacks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-treadmills-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tvs-under-500-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ukuleles-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ultrawide-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-umbrellas-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-charger-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/studio/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vacuums-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-video-doorbells-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-pads-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-shoes-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wallets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-washing-machine-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-watches-under-200-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-filter-pitchers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-flossers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-webcams-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-gaming-monitor-32-inch-2026 draft
+[collect] progress: guide 15 done (best-gaming-monitor-32-inch-2026) | tried 15 | tavily keys alive 2/4
+[collect] topic: Best Fishing Gear (2026)
+[collect] tavily -> 1 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/outdoors/fishing
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/outdoors/fishing
+[collect] 0/1 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +3 readable page(s) -> 3 total (flyfilmtour.com, trueprepper.com, outdoorgearlab.com)
+[collect] llm request: 3 sources x 2181 chars, ~2983 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Abu Garcia Veritas PLX
+[collect] drop (only 1 sources): Greys Tail Reel
+[collect] drop (only 1 sources): PLUSINNO Carbon Fiber Telescopic
+[collect] drop (only 1 sources): Ugly Stik GX2
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 5 total (fieldandstream.com, outdoorlife.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 5 sources x 1292 chars, ~2973 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Abu Garcia Veritas PLX
+[collect] drop (only 1 sources): PLUSINNO Carbon Fiber Telescopic
+[collect] drop (only 1 sources): Ugly Stik GX2
+[collect] drop (only 1 sources): Daiwa Proteus
+[collect] drop (only 1 sources): St. Croix Seage
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
@@ -272,8 +377,24 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-drawing-stylus-2026 3 products
-[collect] progress: guide 1 done (best-drawing-stylus-2026) | tried 1 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,634 requested 2,399"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] done: best-fishing-gear-2026 draft
+[collect] progress: guide 16 done (best-fishing-gear-2026) | tried 16 | tavily keys alive 2/4
+[collect] topic: Best Pumpkin Hoodie (2026)
+[collect] tavily -> 4 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/advice-hunting-down-viral-halloween-decor
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/advice-hunting-down-viral-halloween-decor
+[collect] 3/4 source pages fetched
+[collect] open web (tavily) -> 8 results
+[collect] extra sources: +1 readable page(s) -> 4 total (delish.com)
+[collect] llm request: 4 sources x 1625 chars, ~2970 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] http 429 https://www.chewy.com/frisco-jack-o-lantern-pumpkin-dog-cat/dp/185622
+[collect] browser fetch 238 chars: https://www.chewy.com/frisco-jack-o-lantern-pumpkin-dog-cat/dp/185622
+[collect] extra sources: +2 readable page(s) -> 6 total (chewy.com, utzsnacks.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2679 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products for tab pumpkin -> staying todo
+[collect] progress: guide 17 done (best-pumpkin-hoodie-2026) | tried 17 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,031 requested 2,488", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,993 requested 2,324", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,138 requested 2,350", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,963 requested 3,191", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 196,808 requested 3,263"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 17 guide(s) built, 17 topic(s) tried
