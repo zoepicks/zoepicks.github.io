@@ -2836,5 +2836,32 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 23, 2026"
+ },
+ {
+  "title": "Best Dog Food (2026)",
+  "slug": "best-dog-food-2026",
+  "category": "pets",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Leggings (2026)",
+  "slug": "best-leggings-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Knife Set (2026)",
+  "slug": "best-knife-set-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
