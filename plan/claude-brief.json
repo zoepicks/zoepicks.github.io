@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-23T21:05:07.865190+00:00",
+ "generated_at": "2026-10-24T09:14:11.894919+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 204,
+  "pages": 206,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 38
+   "low": 29
   },
-  "avg_guide_words": 965,
+  "avg_guide_words": 959,
   "todo": [
    {
     "sev": "high",
@@ -26,18 +26,6 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 17,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-drawing-stylus-2026/",
-     "/g/best-sunscreen-2026/",
-     "/g/best-slippers-2026/"
-    ],
-    "detail": "load 3.19s"
-   },
-   {
-    "sev": "low",
     "code": "title_length",
     "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -47,6 +35,18 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 8,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-laptop-stands-2026/",
+     "/g/best-pet-water-fountains-2026/",
+     "/g/best-printers-2026/"
+    ],
+    "detail": "load 3.5s"
    },
    {
     "sev": "low",
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 198,
+   "guides_live": 200,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-23T14:41:01.878806+00:00",
+    "t": "2026-10-24T03:07:56.104226+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-23T18:03:33.681541+00:00",
+    "t": "2026-10-24T06:09:10.894972+00:00",
     "indexnow": {
-     "submitted": 4,
+     "submitted": 20,
      "http": 200
     }
    },
    {
-    "t": "2026-10-23T21:05:00.672956+00:00",
+    "t": "2026-10-24T09:14:05.499452+00:00",
     "indexnow": {
      "submitted": 6,
      "http": 200
@@ -98,17 +98,11 @@
  },
  "traffic": {
   "today_visitors": 1,
-  "today_views": 6,
-  "total_visitors": 104,
-  "total_views": 826,
+  "today_views": 1,
+  "total_visitors": 105,
+  "total_views": 822,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-17",
-    "visitors": 18,
-    "views": 314,
-    "clicks": 0
-   },
    {
     "day": "2026-10-18",
     "visitors": 11,
@@ -142,129 +136,126 @@
    {
     "day": "2026-10-23",
     "visitors": 1,
-    "views": 6,
+    "views": 1,
+    "clicks": 0
+   },
+   {
+    "day": "2026-10-24",
+    "visitors": 1,
+    "views": 1,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 38,
-   "warn": 2,
+   "info": 16,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 324,
-   "warn": 31,
+   "info": 225,
+   "warn": 15,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
-    "module": "Hot feed (home top discount)",
-    "errors": 0,
-    "warnings": 12
-   },
-   {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 19
+    "warnings": 15
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
-    "ok": 11,
+    "total": 2,
+    "ok": 2,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 117,
-    "ok": 80,
-    "failed": 17,
-    "cancelled": 20,
+    "total": 101,
+    "ok": 75,
+    "failed": 7,
+    "cancelled": 19,
     "running": 0,
     "failed_runs": [
      {
-      "run": 32,
-      "at": "2026-10-18T03:09:35Z",
-      "event": "workflow_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39092628733"
+      "run": 100,
+      "at": "2026-10-21T15:18:05Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39624371011"
      },
      {
-      "run": 29,
-      "at": "2026-10-18T00:50:35Z",
+      "run": 99,
+      "at": "2026-10-21T14:48:05Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39084259210"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39620038609"
      },
      {
-      "run": 28,
-      "at": "2026-10-18T00:19:36Z",
+      "run": 86,
+      "at": "2026-10-20T18:46:26Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39082345761"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39477672005"
      },
      {
-      "run": 26,
-      "at": "2026-10-17T21:18:20Z",
+      "run": 85,
+      "at": "2026-10-20T18:33:00Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39070372026"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39475713442"
      },
      {
-      "run": 25,
-      "at": "2026-10-17T18:17:42Z",
+      "run": 82,
+      "at": "2026-10-20T16:14:43Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39057459429"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39455712062"
      },
      {
-      "run": 22,
-      "at": "2026-10-17T16:05:11Z",
+      "run": 49,
+      "at": "2026-10-18T21:09:27Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39047868905"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39166571436"
      },
      {
-      "run": 19,
-      "at": "2026-10-17T14:15:09Z",
+      "run": 45,
+      "at": "2026-10-18T14:10:50Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39039946642"
-     },
-     {
-      "run": 17,
-      "at": "2026-10-17T09:58:48Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39023143343"
-     },
-     {
-      "run": 15,
-      "at": "2026-10-17T06:17:56Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39009386791"
-     },
-     {
-      "run": 14,
-      "at": "2026-10-17T04:42:24Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39003569148"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39134824921"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 122,
-    "ok": 122,
-    "failed": 0,
+    "total": 91,
+    "ok": 90,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 1286,
+      "at": "2026-10-24T09:14:00Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40081136915"
+     }
+    ]
    },
    "last7d": {
     "total": 300,
-    "ok": 300,
-    "failed": 0,
+    "ok": 299,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 1286,
+      "at": "2026-10-24T09:14:00Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40081136915"
+     }
+    ]
    }
   },
   "recent_problems": [
@@ -289,9 +280,9 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEDEALS",
-    "level": "e",
-    "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 409: {\"message\":\"is at 188f7e8d7a04538955258c9e34fb0827a3fb2e4f but expected d9a74dacd585c509a4c"
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -301,7 +292,7 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 3 HIGH issue(s): fetch_failed, contact_email_placeholder"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -311,98 +302,98 @@
   ]
  },
  "content": {
-  "live_guides": 198,
+  "live_guides": 200,
   "missing_topics_by_status": {
-   "queued": 16,
-   "open": 122,
-   "covered": 23,
-   "built": 39
+   "covered": 21,
+   "open": 124,
+   "built": 41,
+   "queued": 14
   },
   "missing_new": {
-   "today": 22,
-   "d7": 190,
+   "today": 1,
+   "d7": 189,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "thick comforter",
+    "topic": "peach yogurt perfume",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792788162",
-    "last_at": "1792788162"
+    "first_at": "1792814451",
+    "last_at": "1792814451"
    },
    {
-    "topic": "fleece jacket",
+    "topic": "jbl speaker",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792784757",
-    "last_at": "1792784757"
+    "first_at": "1792814308",
+    "last_at": "1792814308"
    },
    {
-    "topic": "smartphone and laptop",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792784156",
-    "last_at": "1792784156"
-   },
-   {
-    "topic": "large screen smartphone",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792784130",
-    "last_at": "1792784130"
-   },
-   {
-    "topic": "wifi repeater",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792783009",
-    "last_at": "1792783009"
-   },
-   {
-    "topic": "shimmery eyeshadow",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792777825",
-    "last_at": "1792777825"
-   },
-   {
-    "topic": "custom pillow",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792777738",
-    "last_at": "1792777738"
-   },
-   {
-    "topic": "portable solar generator",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792775310",
-    "last_at": "1792775310"
-   },
-   {
-    "topic": "roll tarp",
+    "topic": "moisturizer",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792775111",
-    "last_at": "1792775289"
+    "first_at": "1792414468",
+    "last_at": "1792810495"
    },
    {
-    "topic": "women's perfume",
+    "topic": "starlink kit",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792773221",
-    "last_at": "1792773221"
+    "first_at": "1792807743",
+    "last_at": "1792807743"
+   },
+   {
+    "topic": "facial serum",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792805695",
+    "last_at": "1792805827"
+   },
+   {
+    "topic": "skincare moisturizer",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792803261",
+    "last_at": "1792803261"
+   },
+   {
+    "topic": "leggings",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792796373",
+    "last_at": "1792800910"
+   },
+   {
+    "topic": "blender bottle gasket",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792797964",
+    "last_at": "1792797964"
+   },
+   {
+    "topic": "knife set",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792536396",
+    "last_at": "1792796532"
+   },
+   {
+    "topic": "phone charger",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792170659",
+    "last_at": "1792795343"
    }
   ]
  },
@@ -679,9 +670,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 204,
+    "urls": 206,
     "other_host_urls": 0,
-    "live_pages_crawled": 204
+    "live_pages_crawled": 206
    },
    "permission": "siteOwner",
    "resubmitted": null,
