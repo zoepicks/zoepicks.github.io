@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-24T23:28:41Z",
+ "updated": "2026-10-24T23:59:22Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -4220,12 +4220,11 @@
       "name": "Yescool Weighted Throw Blanket",
       "pct": 26,
       "rating": 4.4,
-      "t": 1792880471,
+      "t": 1792885518,
       "img": "https://m.media-amazon.com/images/I/71RXv2C7YGL.jpg",
       "link": "https://www.amazon.com/dp/B0C2HSTJBN?tag=zoepicks00-20",
       "now": "39.99",
       "was": "53.99",
-      "deal": "Limited time deal",
       "reviews": 11819,
       "tier": "mid"
      },
@@ -4234,12 +4233,11 @@
       "name": "Yescool King Size Weighted Throw Blanket",
       "pct": 27,
       "rating": 4.4,
-      "t": 1792880471,
+      "t": 1792885511,
       "img": "https://m.media-amazon.com/images/I/71MElcbXQ3L.jpg",
       "link": "https://www.amazon.com/dp/B0D9WD9R9C?tag=zoepicks00-20",
       "now": "44.09",
       "was": "59.99",
-      "deal": "Limited time deal",
       "reviews": 11819,
       "tier": "premium"
      }
@@ -4272,24 +4270,6 @@
       "now": "40.00",
       "was": "45.00",
       "reviews": 81
-     }
-    ]
-   },
-   {
-    "key": "stove-pressure-cooker",
-    "label": "Stove Pressure Cooker",
-    "items": [
-     {
-      "asin": "B0FX4C2BXT",
-      "name": "KOCH SYSTEME CS Stainless Steel Pressure Cooker 10.5 Quart",
-      "pct": 24,
-      "rating": 4.6,
-      "t": 1792880337,
-      "img": "https://m.media-amazon.com/images/I/718b3MBWUaL.jpg",
-      "link": "https://www.amazon.com/dp/B0FX4C2BXT?tag=zoepicks00-20",
-      "now": "106.99",
-      "was": "139.99",
-      "reviews": 82
      }
     ]
    },
@@ -4378,6 +4358,11 @@
       "reviews": 22
      }
     ]
+   },
+   {
+    "key": "stove-pressure-cooker",
+    "label": "Stove Pressure Cooker",
+    "items": []
    },
    {
     "key": "duvet-cover",
