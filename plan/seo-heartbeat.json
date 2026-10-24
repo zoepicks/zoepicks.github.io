@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-24T00:06:41.085851+00:00",
- "boots_total": 24,
+ "updated": "2026-10-24T03:07:59.468493+00:00",
+ "boots_total": 25,
  "recent_boots_utc": [
-  "2026-10-20T18:30:58",
   "2026-10-21T13:19:34",
   "2026-10-21T16:36:05",
   "2026-10-21T17:39:50",
@@ -12,9 +11,10 @@
   "2026-10-22T18:29:05",
   "2026-10-23T02:34:20",
   "2026-10-23T14:40:00",
-  "2026-10-23T15:27:09"
+  "2026-10-23T15:27:09",
+  "2026-10-24T02:36:41"
  ],
- "last_run_ts": 1792800399.5632446,
+ "last_run_ts": 1792811277.9766066,
  "last_report_ts": 1792789527.1391575,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 25
+  "low": 45
  },
  "recent_runs": [
-  {
-   "t": "2026-10-22T20:30:28",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 3
-  },
   {
    "t": "2026-10-22T23:32:03",
    "score": 94,
@@ -84,19 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-10-24T03:07:56",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-23T18:03:39",
-   "what": "SEO check: score 94 (+0), 202 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-23T18:03:39",
-   "what": "IndexNow: 4 URL Bing ko bheje",
-   "ok": true
-  },
   {
    "t": "2026-10-23T21:05:03",
    "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
@@ -124,6 +114,16 @@
   },
   {
    "t": "2026-10-24T00:06:39",
+   "what": "SEO check: score 94 (+0), 204 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-24T03:07:57",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-24T03:07:57",
    "what": "SEO check: score 94 (+0), 204 pages, 1 high issue",
    "ok": true
   }
