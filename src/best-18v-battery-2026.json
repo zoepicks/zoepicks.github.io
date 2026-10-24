@@ -34,9 +34,18 @@
    "best_for": "Homeowners needing longer runtime",
    "skip_if": "If you only need a short task or have a tight budget",
    "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+6.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Oct 24, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0F5WFT585",
+   "image": "https://m.media-amazon.com/images/I/618PhKZVR7L.jpg",
+   "image_asin": "B0F5WFT585",
+   "amazon_price": "$25.90",
+   "amazon_price_asof": "Oct 24, 2026",
+   "amazon_listing": "LUMMINA 6.0Ah Battery Replacement for Ryobi 18V Lithium Battery Compatible with Ryobi 18 V",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 193,
+   "amazon_rating_asof": "Oct 24, 2026"
   },
   {
    "name": "Ryobi 18V ONE+ 5.0 Ah Replacement Battery",
@@ -100,7 +109,7 @@
    "best_for": "Light‑task users",
    "skip_if": "If you need longer runtime",
    "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+4%E2%80%AFAh+Pack&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Oct 24, 2026",
    "fill_failed": false
   }
