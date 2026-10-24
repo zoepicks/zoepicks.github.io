@@ -33,7 +33,10 @@
    ],
    "best_for": "Homeowners needing longer runtime",
    "skip_if": "If you only need a short task or have a tight budget",
-   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+6.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+6.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 24, 2026",
+   "fill_failed": false
   },
   {
    "name": "Ryobi 18V ONE+ 5.0 Ah Replacement Battery",
@@ -60,7 +63,16 @@
    ],
    "best_for": "Budget‑conscious homeowners",
    "skip_if": "If you need maximum runtime",
-   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+5.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+5.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20",
+   "asin": "B0H1VRMCW5",
+   "image": "https://m.media-amazon.com/images/I/71NPLGP6CrL.jpg",
+   "image_asin": "B0H1VRMCW5",
+   "amazon_price": "$38.94",
+   "amazon_price_asof": "Oct 24, 2026",
+   "amazon_listing": "Cheerlark Replacement for Ryobi 18V Battery 5.0Ah, 2-Pack P108 Battery Compatible with Ryo",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 910,
+   "amazon_rating_asof": "Oct 24, 2026"
   },
   {
    "name": "Ryobi 18V ONE+ 4 Ah Pack",
@@ -87,7 +99,10 @@
    ],
    "best_for": "Light‑task users",
    "skip_if": "If you need longer runtime",
-   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+4%E2%80%AFAh+Pack&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+4%E2%80%AFAh+Pack&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Oct 24, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
