@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-24T17:53:15Z",
+ "updated": "2026-10-24T19:24:54Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -554,7 +554,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1792854204,
+    "t": 1792868984,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -1809,12 +1809,11 @@
       "name": "Portable Thermal Printer Wireless",
       "pct": 15,
       "rating": 4.3,
-      "t": 1792848764,
+      "t": 1792866855,
       "img": "https://m.media-amazon.com/images/I/71wYSaIhhkL.jpg",
       "link": "https://www.amazon.com/dp/B0CXPVH459?tag=zoepicks00-20",
       "now": "39.08",
       "was": "45.98",
-      "deal": "Limited time deal",
       "reviews": 268,
       "tier": "budget"
      },
@@ -2191,7 +2190,7 @@
       "name": "Hanes Men's Cool DRI Polo Shirt",
       "pct": 40,
       "rating": 4.4,
-      "t": 1792861321,
+      "t": 1792868987,
       "img": "https://m.media-amazon.com/images/I/71gA0QSSUdL.jpg",
       "link": "https://www.amazon.com/dp/B010C7M166?tag=zoepicks00-20",
       "now": "10.19",
@@ -2493,18 +2492,6 @@
       "link": "https://www.amazon.com/dp/B0F3X9LQQJ?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
-     },
-     {
-      "asin": "B0GF1CB7TQ",
-      "name": "Eunzel Hot Yoga Mat Towel",
-      "pct": 30,
-      "rating": 4.1,
-      "t": 1792854202,
-      "img": "https://m.media-amazon.com/images/I/61VmiNSPZVL.jpg",
-      "link": "https://www.amazon.com/dp/B0GF1CB7TQ?tag=zoepicks00-20",
-      "now": "17.24",
-      "was": "24.64",
-      "reviews": 0
      }
     ]
    },
@@ -2619,16 +2606,16 @@
     "label": "Adjustable Dumbbells",
     "items": [
      {
-      "asin": "B0FRMT4H15",
-      "name": "Cvonte Adjustable Dumbbell Set",
-      "pct": 31,
+      "asin": "B0HFVQGS7M",
+      "name": "OLIXIS Adjustable Dumbbell Set",
+      "pct": 25,
       "rating": 4.5,
-      "t": 1792854203,
-      "img": "https://m.media-amazon.com/images/I/71sTw6pAXeL.jpg",
-      "link": "https://www.amazon.com/dp/B0FRMT4H15?tag=zoepicks00-20",
-      "now": "54.98",
-      "was": "79.99",
-      "reviews": 0,
+      "t": 1792861065,
+      "img": "https://m.media-amazon.com/images/I/81FY-RsQ0wL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFVQGS7M?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "39.99",
+      "reviews": 269,
       "tier": "budget"
      },
      {
@@ -3569,38 +3556,6 @@
     ]
    },
    {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0FJM537XW",
-      "name": "CAROTE 21pcs Pots and Pans Set Non Stick",
-      "pct": 40,
-      "rating": 4.7,
-      "t": 1792846964,
-      "img": "https://m.media-amazon.com/images/I/71csFFAijsL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 2509
-     },
-     {
-      "asin": "B0F9WBM8H3",
-      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1792846964,
-      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 2177
-     }
-    ]
-   },
-   {
     "key": "espresso-machines",
     "label": "Espresso Machines",
     "items": [
@@ -3658,6 +3613,25 @@
       "deal": "Limited time deal",
       "reviews": 8274,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792846964,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2177
      }
     ]
    },
@@ -3812,11 +3786,12 @@
       "name": "TUUMIIST 3-in-1 Cold Press Juicer Machine",
       "pct": 28,
       "rating": 4.6,
-      "t": 1792740025,
+      "t": 1792846964,
       "img": "https://m.media-amazon.com/images/I/71UN+zMpu6L.jpg",
       "link": "https://www.amazon.com/dp/B0FPM66V9C?tag=zoepicks00-20",
       "now": "128.99",
       "was": "179.99",
+      "deal": "Limited time deal",
       "reviews": 469,
       "tier": "premium"
      }
@@ -4753,7 +4728,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1792854204,
+      "t": 1792868984,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
