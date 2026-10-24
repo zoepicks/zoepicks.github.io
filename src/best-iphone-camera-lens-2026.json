@@ -75,11 +75,11 @@
    "image": "https://m.media-amazon.com/images/I/71PZ+2SROnL.jpg",
    "image_asin": "B0H4YJDQW3",
    "amazon_price": "$8.99",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price_asof": "Oct 24, 2026",
    "amazon_listing": "TAURI 2 Pack for iPhone 18 Pro Camera Lens Protector, Black | Full Coverage Military-Grade",
    "amazon_rating": "4.5",
-   "amazon_reviews": 1433,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 1441,
+   "amazon_rating_asof": "Oct 24, 2026"
   },
   {
    "name": "Moment Tele 58mm Lens (with Polarizing Filter)",
@@ -109,9 +109,9 @@
    "best_for": "Landscape photographers",
    "skip_if": "You rarely encounter glare or reflections",
    "link": "https://www.amazon.com/s?k=Moment+Tele+58mm+Lens+%28with+Polarizing+Filter%29&tag=zoepicks00-20",
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Oct 24, 2026",
-   "fill_failed": false
+   "fill_failed": true
   }
  ],
  "verdict": {
