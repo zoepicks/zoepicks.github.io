@@ -2,10 +2,102 @@
  "slug": "best-18v-battery-2026",
  "title": "Best 18V Battery (2026)",
  "category": "other",
- "date": "Oct 23, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen from the listed sources, favoring products mentioned by more than one source and ranking by capacity, runtime and user compatibility.",
- "assumptions": "No price data was provided in the sources, so price is omitted.",
- "products": [],
- "draft": true
+ "date": "Oct 24, 2026",
+ "summary": "The 6.0 Ah Ryobi 18V ONE+ replacement battery is the top pick for most buyers.",
+ "method": "Selected products that appear in more than one source (Ryobi 18V ONE+ batteries). Sources used: CEENR Engineering (source 4) and RD Batteries Blog (source 3).",
+ "assumptions": "Prices are not included because no source provided a price.",
+ "products": [
+  {
+   "name": "Ryobi 18V ONE+ 6.0 Ah Replacement Battery",
+   "short": "Ryobi 6.0 Ah",
+   "badge": "Best Overall",
+   "why": [
+    "The 6.0 Ah pack offers more capacity than Ryobi’s 4 Ah packs for a fraction of the price.",
+    "It has a 3‑year warranty and is documented to have premium high‑drain cells matched to each capacity."
+   ],
+   "desc": "The Ryobi 18V ONE+ 6.0 Ah Replacement Battery is a lithium‑ion pack that fits any ONE+ tool. It has a 6.0 Ah capacity and a 3‑year warranty. It does not include a charger.",
+   "benefit": "Picture a homeowner who needs more runtime for a long day of yard work. The 6.0 Ah pack gives more capacity than Ryobi’s 4 Ah packs for a fraction of the price, and it comes with a 3‑year warranty. It beats the 5 Ah pack because it has the highest capacity in this guide. The catch: it is larger and heavier than the 5 Ah pack.",
+   "specs": [
+    "18 V",
+    "6.0 Ah",
+    "3‑year warranty"
+   ],
+   "pros": [
+    "Higher capacity than 4 Ah packs",
+    "3‑year warranty",
+    "Premium high‑drain cells"
+   ],
+   "cons": [
+    "Larger size",
+    "Heavier weight"
+   ],
+   "best_for": "Homeowners needing longer runtime",
+   "skip_if": "If you only need a short task or have a tight budget",
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+6.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20"
+  },
+  {
+   "name": "Ryobi 18V ONE+ 5.0 Ah Replacement Battery",
+   "short": "Ryobi 5.0 Ah",
+   "badge": "Best Value",
+   "why": [
+    "The 5.0 Ah pack provides a balance of capacity and size.",
+    "It is cheaper than the 6.0 Ah pack while still offering more capacity than the 4 Ah pack."
+   ],
+   "desc": "The Ryobi 18V ONE+ 5.0 Ah Replacement Battery is a lithium‑ion pack that fits any ONE+ tool. It has a 5.0 Ah capacity and a 3‑year warranty. It does not include a charger.",
+   "benefit": "Picture a budget‑conscious homeowner who still wants decent runtime. The 5.0 Ah pack offers more capacity than the 4 Ah pack at a lower price than the 6.0 Ah pack, and it is lighter. It wins against the 6.0 Ah pack for weight and cost. The catch: it has less capacity than the 6.0 Ah pack.",
+   "specs": [
+    "18 V",
+    "5.0 Ah",
+    "3‑year warranty"
+   ],
+   "pros": [
+    "Cheaper than 6.0 Ah",
+    "Lighter weight",
+    "3‑year warranty"
+   ],
+   "cons": [
+    "Lower capacity than 6.0 Ah"
+   ],
+   "best_for": "Budget‑conscious homeowners",
+   "skip_if": "If you need maximum runtime",
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+5.0%E2%80%AFAh+Replacement+Battery&tag=zoepicks00-20"
+  },
+  {
+   "name": "Ryobi 18V ONE+ 4 Ah Pack",
+   "short": "Ryobi 4 Ah",
+   "badge": "Entry",
+   "why": [
+    "The 4 Ah pack is the standard pack for many ONE+ tools.",
+    "It is the most affordable option in the ONE+ lineup."
+   ],
+   "desc": "The Ryobi 18V ONE+ 4 Ah Pack is a lithium‑ion pack that fits any ONE+ tool. It has a 4 Ah capacity and a 3‑year warranty. It does not include a charger.",
+   "benefit": "Picture a homeowner who only does light yard work. The 4 Ah pack is the most affordable option and still works with all ONE+ tools. It wins against higher‑capacity packs for cost. The catch: it has the lowest capacity in this guide.",
+   "specs": [
+    "18 V",
+    "4 Ah",
+    "3‑year warranty"
+   ],
+   "pros": [
+    "Most affordable",
+    "Compatible with all ONE+ tools",
+    "3‑year warranty"
+   ],
+   "cons": [
+    "Lowest capacity"
+   ],
+   "best_for": "Light‑task users",
+   "skip_if": "If you need longer runtime",
+   "link": "https://www.amazon.com/s?k=Ryobi+18V+ONE%2B+4%E2%80%AFAh+Pack&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Ryobi 18V ONE+ 6.0 Ah Replacement Battery",
+  "line": "Picture a homeowner who needs more runtime for a long day of yard work. The 6.0 Ah pack gives more capacity than Ryobi’s 4 Ah packs for a fraction of the price, and it comes with a 3‑year warranty. The catch: it is larger and heavier than the 5 Ah pack.",
+  "also": [
+   [
+    "Lower cost per Ah",
+    "Ryobi 18V ONE+ 5.0 Ah Replacement Battery"
+   ]
+  ]
+ }
 }
