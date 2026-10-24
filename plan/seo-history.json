@@ -1,41 +1,5 @@
 [
  {
-  "t": "2026-10-17T03:26:44.499547+00:00",
-  "score": 94,
-  "pages": 49,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 14
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx10",
-   "title_lengthx4"
-  ],
-  "avg_words": 1019,
-  "why": "manual",
-  "indexnow": 0
- },
- {
-  "t": "2026-10-17T06:29:53.043580+00:00",
-  "score": 93,
-  "pages": 59,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 21
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx17",
-   "title_lengthx4"
-  ],
-  "avg_words": 961,
-  "why": "schedule",
-  "indexnow": 59
- },
- {
   "t": "2026-10-17T09:31:18.838952+00:00",
   "score": 93,
   "pages": 61,
@@ -1069,5 +1033,82 @@
   "avg_words": 959,
   "why": "schedule",
   "indexnow": 6
+ },
+ {
+  "t": "2026-10-24T12:19:59.895693+00:00",
+  "score": 94,
+  "pages": 207,
+  "issues": {
+   "high": 2,
+   "med": 0,
+   "low": 27
+  },
+  "top": [
+   "fetch_failedx1",
+   "contact_email_placeholderx1",
+   "title_lengthx15",
+   "desc_lengthx6",
+   "slow_pagex6"
+  ],
+  "avg_words": 951,
+  "why": "schedule",
+  "indexnow": 10
+ },
+ {
+  "t": "2026-10-24T15:24:59.675609+00:00",
+  "score": 94,
+  "pages": 207,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 39
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "slow_pagex18",
+   "title_lengthx15",
+   "desc_lengthx6"
+  ],
+  "avg_words": 957,
+  "why": "schedule",
+  "indexnow": 0
+ },
+ {
+  "t": "2026-10-24T18:45:37.360661+00:00",
+  "score": 94,
+  "pages": 209,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 24
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "title_lengthx15",
+   "desc_lengthx6",
+   "slow_pagex3"
+  ],
+  "avg_words": 954,
+  "why": "schedule",
+  "indexnow": 12
+ },
+ {
+  "t": "2026-10-24T21:50:58.704574+00:00",
+  "score": 94,
+  "pages": 209,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 29
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "title_lengthx15",
+   "slow_pagex8",
+   "desc_lengthx6"
+  ],
+  "avg_words": 954,
+  "why": "schedule",
+  "indexnow": 0
  }
 ]
