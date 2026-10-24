@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-24T18:45:43.217487+00:00",
- "boots_total": 29,
+ "updated": "2026-10-24T21:51:20.717250+00:00",
+ "boots_total": 30,
  "recent_boots_utc": [
-  "2026-10-22T13:30:17",
   "2026-10-22T18:29:05",
   "2026-10-23T02:34:20",
   "2026-10-23T14:40:00",
@@ -12,25 +11,20 @@
   "2026-10-24T09:02:54",
   "2026-10-24T09:23:49",
   "2026-10-24T14:28:42",
-  "2026-10-24T18:09:31"
+  "2026-10-24T18:09:31",
+  "2026-10-24T21:24:42"
  ],
- "last_run_ts": 1792867542.4961154,
- "last_report_ts": 1792833267.3402557,
+ "last_run_ts": 1792878660.8220487,
+ "last_report_ts": 1792878679.9978266,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 24
+  "low": 29
  },
  "recent_runs": [
-  {
-   "t": "2026-10-23T14:41:01",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-23T18:03:33",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 12
+  },
+  {
+   "t": "2026-10-24T21:50:58",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-24T12:20:02",
-   "what": "SEO check: score 94 (+0), 207 pages, 2 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-24T12:20:02",
-   "what": "IndexNow: 10 URL Bing ko bheje",
-   "ok": true
-  },
-  {
-   "t": "2026-10-24T15:25:02",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
   {
    "t": "2026-10-24T15:42:45",
    "what": "Search Console: 1/150 pages Google me indexed, 28d clicks 0, sitemap pending",
@@ -125,6 +110,21 @@
   {
    "t": "2026-10-24T18:45:42",
    "what": "IndexNow: 12 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-24T21:51:00",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-24T21:51:00",
+   "what": "SEO check: score 94 (+0), 209 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-24T21:51:19",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
