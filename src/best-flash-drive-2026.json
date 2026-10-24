@@ -35,7 +35,7 @@
    "best_for": "Students and professionals needing fast file transfers",
    "skip_if": "You only have a USB‑A port",
    "link": "https://www.amazon.com/s?k=Kingston+DataTraveler+Max+256GB+USB%E2%80%91C&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Oct 24, 2026",
    "fill_failed": false
   },
@@ -66,7 +66,7 @@
    "best_for": "Travelers and users needing a rugged drive",
    "skip_if": "You need the fastest possible speed",
    "link": "https://www.amazon.com/s?k=Corsair+Flash+Voyager+GTX&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Oct 24, 2026",
    "fill_failed": false
   },
@@ -97,9 +97,18 @@
    "best_for": "Budget‑conscious users",
    "skip_if": "You need high speed or high capacity",
    "link": "https://www.amazon.com/s?k=Verbatim+Flash+Drive&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Oct 24, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B07RZ5Y7VJ",
+   "image": "https://m.media-amazon.com/images/I/71jOh2vNLyL.jpg",
+   "image_asin": "B07RZ5Y7VJ",
+   "amazon_price": "$39.99",
+   "amazon_price_asof": "Oct 24, 2026",
+   "amazon_listing": "Verbatim 16GB Pinstripe USB 2.0 Flash Drive Retractable Thumb Drive - 5 Pack Multicolor (G",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 1303,
+   "amazon_rating_asof": "Oct 24, 2026"
   }
  ],
  "verdict": {
