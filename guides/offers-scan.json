@@ -10010,53 +10010,68 @@
   },
   "fashion:polo-shirt": {
    "label": "Polo Shirt",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
-     "asin": "B010C7M7LA",
+     "asin": "B010C7M166",
      "name": "Hanes Men's Cool DRI Polo Shirt",
-     "pct": 35,
+     "pct": 40,
      "rating": 4.4,
-     "t": 1792679576,
-     "img": "https://m.media-amazon.com/images/I/71UyPnzhYbL.jpg",
-     "link": "https://www.amazon.com/dp/B010C7M7LA?tag=zoepicks00-20",
-     "now": "11.12",
+     "t": 1792848291,
+     "img": "https://m.media-amazon.com/images/I/71gA0QSSUdL.jpg",
+     "link": "https://www.amazon.com/dp/B010C7M166?tag=zoepicks00-20",
+     "now": "10.19",
      "was": "17.00",
      "deal": "Limited time deal",
-     "reviews": 18404,
+     "reviews": 18405,
      "_title": "Hanes Men's Cool DRI Polo Shirt, Quick-Drying Performance Polo for Men, UPF Protection",
-     "_price": 11.12
+     "_price": 10.19
+    },
+    {
+     "asin": "B01EA2SFT6",
+     "name": "Hanes womens Performance Polo",
+     "pct": 17,
+     "rating": 4.3,
+     "t": 1792848291,
+     "img": "https://m.media-amazon.com/images/I/711XbavtFIL.jpg",
+     "link": "https://www.amazon.com/dp/B01EA2SFT6?tag=zoepicks00-20",
+     "now": "11.63",
+     "was": "14.00",
+     "deal": "Limited time deal",
+     "reviews": 22092,
+     "_title": "Hanes womens Performance Polo, Single or 3-Pack, Sport Cool DRI Moisture-Wicking Polo Shirt, 40+ UPF Protection",
+     "_price": 11.63
     },
     {
      "asin": "B07HRK78BV",
      "name": "Nautica Men's Performance Pique Polo Shirt",
-     "pct": 14,
+     "pct": 13,
      "rating": 4.6,
-     "t": 1792679576,
+     "t": 1792848291,
      "img": "https://m.media-amazon.com/images/I/81cpwPVgP4L.jpg",
      "link": "https://www.amazon.com/dp/B07HRK78BV?tag=zoepicks00-20",
-     "now": "20.11",
-     "was": "23.29",
-     "reviews": 9912,
+     "now": "20.10",
+     "was": "23.03",
+     "reviews": 9913,
      "_title": "Nautica Men's Performance Pique Polo Shirt | Designed Exclusively for Big & Tall Men",
-     "_price": 20.11
+     "_price": 20.1
     },
     {
      "asin": "B01IXFQBOM",
      "name": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
-     "pct": 11,
+     "pct": 10,
      "rating": 4.3,
-     "t": 1792679576,
+     "t": 1792848291,
      "img": "https://m.media-amazon.com/images/I/91aVotHt1WL.jpg",
      "link": "https://www.amazon.com/dp/B01IXFQBOM?tag=zoepicks00-20",
-     "now": "13.60",
+     "now": "13.70",
      "was": "15.30",
-     "reviews": 53691,
+     "reviews": 53709,
      "_title": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
-     "_price": 13.6
+     "_price": 13.7
     }
    ],
-   "scanned": "2026-10-22T14:32:56.649737+00:00"
+   "scanned": "2026-10-24T13:24:51.478393+00:00"
   },
   "fashion:running-shoes": {
    "label": "Running Shoes",
