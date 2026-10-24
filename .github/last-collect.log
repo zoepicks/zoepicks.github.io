@@ -1,21 +1,23 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Wig (2026)
+[collect] topic: Best Phone Stand (2026)
 [collect] tavily key ...t3vu 432 (limit/invalid) -> skipped for this run, 3 key(s) left
 [collect] tavily key ...yLM7 432 (limit/invalid) -> skipped for this run, 2 key(s) left
 [collect] tavily key ...UJ3k 432 (limit/invalid) -> skipped for this run, 1 key(s) left
-[collect] tavily -> 3 pages
-[collect] http 403 https://www.nytimes.com/2009/05/10/sports/baseball/10dodgers.html
-[collect] browser fetch 0 chars: https://www.nytimes.com/2009/05/10/sports/baseball/10dodgers.html
-[collect] 2/3 source pages fetched
+[collect] tavily -> 4 pages
+[collect] http 403 https://www.androidauthority.com/anker-powerwave-stand-review-1177938
+[collect] browser fetch 271 chars: https://www.androidauthority.com/anker-powerwave-stand-review-1177938
+[collect] 4/4 source pages fetched
+[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
+[collect] llm request: 4 sources x 1626 chars, ~2524 in + 4000 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,447 requested 2,098 -> skipped for this run
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 4 total (wigs.com, newtimeshair.com)
-[collect] llm request: 4 sources x 1628 chars, ~2663 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,871 requested 2,252 -> skipped for this run
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (mindbodygreen.com, allure.com)
+[collect] http 403 https://gagadget.com/en/388385-phone-holder-for-video-recording
+[collect] browser fetch 247 chars: https://gagadget.com/en/388385-phone-holder-for-video-recording
+[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, gagadget.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1072 chars, ~2836 in + 4000 out tokens (budget 7000)
-[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,835 requested 2,310 -> skipped for this run
+[collect] llm request: 6 sources x 1070 chars, ~2422 in + 4000 out tokens (budget 7000)
+[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,081 requested 2,024 -> skipped for this run
+[collect] drop (only 1 sources): Omoton Adjustable Versatility Phone Stand
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -199,6 +201,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-water-foun
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-deals-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-gimbal-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-griptok-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phone-stand-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-for-battery-life-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-phones-under-500-2026/under-300/index.html
@@ -294,8 +297,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-wig-2026 draft
-[collect] progress: guide 1 done (best-wig-2026) | tried 1 | tavily keys alive 1/4
+[collect] done: best-phone-stand-2026 draft
+[collect] progress: guide 1 done (best-phone-stand-2026) | tried 1 | tavily keys alive 1/4
 [collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,871 requested 2,252", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,835 requested 2,310"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,447 requested 2,098", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,081 requested 2,024"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
