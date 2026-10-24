@@ -3,9 +3,85 @@
  "title": "Best In-Ear Gaming Headphones (2026)",
  "category": "gaming",
  "date": "Oct 24, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No usable data",
- "assumptions": "No price info",
- "products": [],
- "draft": true
+ "summary": "In‑ear gaming earbuds that balance comfort, sound and game‑specific EQs.",
+ "method": "Products were chosen from the IGN testing roundup and cross‑checked with other source lists where mentioned.",
+ "assumptions": "No price data was provided in the sources, so price fields are left null.",
+ "products": [
+  {
+   "name": "SteelSeries Arctis GameBuds",
+   "short": "Arctis GameBuds",
+   "badge": "Best Overall",
+   "why": [
+    "The IGN review highlights a comfortable fit and balanced audio.",
+    "It also offers a massive library of built‑in equalizers that adapt sound to specific games."
+   ],
+   "desc": "In‑ear gaming earbuds with a comfortable design, balanced sound profile, and multiple built‑in game EQ presets. They do not provide an open‑ear design or strong noise‑cancelling.",
+   "benefit": "Picture a gamer playing a fast‑paced shooter on a console, needing clear dialogue and precise sound cues. The GameBuds give balanced audio and game‑specific EQs, letting the player hear footsteps and explosions accurately. They are the only earbuds in this guide with a large built‑in EQ library, giving them an edge over the other picks. The catch: they lack strong noise‑cancelling for noisy environments.",
+   "specs": [
+    "Comfortable fit",
+    "Balanced audio",
+    "Built‑in game EQ library"
+   ],
+   "pros": [
+    "Comfortable for long sessions",
+    "Balanced sound",
+    "Game‑specific EQ presets"
+   ],
+   "cons": [
+    "No strong noise‑cancelling",
+    "Not open‑ear design"
+   ],
+   "best_for": "Gamers who value comfort and game‑tuned sound",
+   "skip_if": "You need heavy noise isolation for commuting",
+   "link": "https://www.amazon.com/s?k=SteelSeries+Arctis+GameBuds&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sony InZone Buds",
+   "short": "InZone Buds",
+   "badge": "Runner‑up",
+   "why": [
+    "Mentioned by IGN as a notable gaming earbud option.",
+    "No specific features were detailed in the source."
+   ],
+   "desc": "In‑ear gaming earbuds from Sony. The source does not list specific features or omissions.",
+   "benefit": "Picture a mobile gamer who wants a compact earbud for on‑the‑go play. The InZone Buds are a recognized gaming earbud, offering Sony’s brand reliability. They are included as an alternative to the top pick, though the guide lacks detailed specs to compare further. The catch: the source provides no detail on fit, sound quality or noise control.",
+   "pros": [
+    "Recognized brand",
+    "Listed as a gaming earbud"
+   ],
+   "cons": [
+    "No detailed specs in sources",
+    "Unclear noise performance"
+   ],
+   "best_for": "Users who prefer Sony’s ecosystem",
+   "skip_if": "You need detailed feature info before buying",
+   "link": "https://www.amazon.com/s?k=Sony+InZone+Buds&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sivga M260",
+   "short": "M260",
+   "badge": "Consideration",
+   "why": [
+    "Included in IGN’s list of best gaming earbuds.",
+    "No further details were given."
+   ],
+   "desc": "In‑ear gaming earbuds from Sivga. The source does not specify design or feature details.",
+   "benefit": "Picture a budget‑conscious gamer looking for a lesser‑known brand. The M260 appears in the IGN roundup, indicating it meets basic gaming earbud criteria. It offers an alternative to more mainstream picks. The catch: the source lacks any specific performance or feature information.",
+   "pros": [
+    "Featured in IGN list",
+    "Potential budget option"
+   ],
+   "cons": [
+    "No specs provided",
+    "Unclear sound quality"
+   ],
+   "best_for": "Gamers open to trying new brands",
+   "skip_if": "You require detailed specifications",
+   "link": "https://www.amazon.com/s?k=Sivga+M260&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "SteelSeries Arctis GameBuds",
+  "line": "Buyers who want a comfortable fit and balanced audio with game‑specific EQ presets should choose the Arctis GameBuds. They also include a large library of built‑in equalizers. The catch is they lack open‑ear design or strong noise‑cancelling for noisy commutes."
+ }
 }

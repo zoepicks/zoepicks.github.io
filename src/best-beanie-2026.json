@@ -4,8 +4,12 @@
  "category": "other",
  "date": "Oct 24, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No valid product data available.",
- "assumptions": "None",
+ "method": "Picks were based on product mentions and rankings in OutdoorGearLab, Men’s Health, Outdoor Life, and HiConsumption articles.",
+ "assumptions": "No price data was provided in the sources, so price fields are left null.",
  "products": [],
+ "verdict": {
+  "pick": "Carhartt Knit Cuffed Beanie",
+  "line": "Buyers who need a reliable, warm hat for everyday cold weather should choose this beanie; it’s praised for its style, comfort and warmth in multiple tests. The catch is it may feel a bit bulky for very tight fits."
+ },
  "draft": true
 }
