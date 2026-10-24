@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-24T20:15:22Z",
+ "updated": "2026-10-24T21:26:17Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -551,7 +551,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1792871521,
+    "t": 1792874164,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -1921,6 +1921,17 @@
       "tier": "budget"
      },
      {
+      "asin": "B0C7ZBLYJJ",
+      "name": "Aemicion Wearable Blanket Hoodie",
+      "pct": 50,
+      "rating": 4.8,
+      "t": 1792818209,
+      "img": "https://m.media-amazon.com/images/I/71SLeuk7AWL.jpg",
+      "link": "https://www.amazon.com/dp/B0C7ZBLYJJ?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
       "asin": "B098JNYQ1M",
       "name": "SCODI Hoodies for Men Zip Up Heavyweight Fleece Sweatshirt…",
       "pct": 57,
@@ -1928,19 +1939,6 @@
       "t": 1792818177,
       "img": "https://m.media-amazon.com/images/I/51ATh39LHgL.jpg",
       "link": "https://www.amazon.com/dp/B098JNYQ1M?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GYS3MTB2",
-      "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1792871520,
-      "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYS3MTB2?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2494,7 +2492,7 @@
       "name": "Eunzel Hot Yoga Mat Towel",
       "pct": 30,
       "rating": 4.1,
-      "t": 1792871520,
+      "t": 1792874162,
       "img": "https://m.media-amazon.com/images/I/61VmiNSPZVL.jpg",
       "link": "https://www.amazon.com/dp/B0GF1CB7TQ?tag=zoepicks00-20",
       "now": "17.24",
@@ -2617,7 +2615,7 @@
       "name": "Cvonte Adjustable Dumbbell Set",
       "pct": 31,
       "rating": 4.5,
-      "t": 1792871521,
+      "t": 1792874163,
       "img": "https://m.media-amazon.com/images/I/71sTw6pAXeL.jpg",
       "link": "https://www.amazon.com/dp/B0FRMT4H15?tag=zoepicks00-20",
       "now": "54.98",
@@ -3563,38 +3561,6 @@
     ]
    },
    {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0FJM537XW",
-      "name": "CAROTE 21pcs Pots and Pans Set Non Stick",
-      "pct": 40,
-      "rating": 4.7,
-      "t": 1792846964,
-      "img": "https://m.media-amazon.com/images/I/71csFFAijsL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 2509
-     },
-     {
-      "asin": "B0F9WBM8H3",
-      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1792846964,
-      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 2177
-     }
-    ]
-   },
-   {
     "key": "espresso-machines",
     "label": "Espresso Machines",
     "items": [
@@ -3652,6 +3618,25 @@
       "deal": "Limited time deal",
       "reviews": 8274,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792846964,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2177
      }
     ]
    },
@@ -4747,7 +4732,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1792871521,
+      "t": 1792874164,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
