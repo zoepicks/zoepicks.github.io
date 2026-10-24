@@ -1,20 +1,19 @@
 {
  "v": 3,
- "updated": "2026-10-24T19:24:54Z",
+ "updated": "2026-10-24T20:15:22Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
    {
-    "asin": "B0BXGFFSL1",
-    "name": "Logitech Brio 101 Full HD 1080p Webcam",
+    "asin": "B0BXGDT1LM",
+    "name": "Logitech Brio 100 Full HD 1080p Webcam",
     "pct": 38,
     "rating": 4.4,
-    "t": 1792850685,
-    "img": "https://m.media-amazon.com/images/I/71A0Pp767BL.jpg",
-    "link": "https://www.amazon.com/dp/B0BXGFFSL1?tag=zoepicks00-20",
+    "t": 1792870355,
+    "img": "https://m.media-amazon.com/images/I/51rxY1CG9OL.jpg",
+    "link": "https://www.amazon.com/dp/B0BXGDT1LM?tag=zoepicks00-20",
     "now": "24.99",
     "was": "39.99",
-    "deal": "Limited time deal",
     "reviews": 8065,
     "tier": "budget"
    },
@@ -34,12 +33,11 @@
     "name": "Logitech StreamCam Premium Webcam",
     "pct": 41,
     "rating": 4.4,
-    "t": 1792850685,
+    "t": 1792870577,
     "img": "https://m.media-amazon.com/images/I/71-fdSpTk5L.jpg",
     "link": "https://www.amazon.com/dp/B07TZT4Q89?tag=zoepicks00-20",
     "now": "99.99",
     "was": "169.99",
-    "deal": "Limited time deal",
     "reviews": 2980,
     "tier": "premium"
    }
@@ -194,12 +192,11 @@
     "name": "Recumbent Exercise Bike",
     "pct": 33,
     "rating": 4.6,
-    "t": 1792848800,
+    "t": 1792870569,
     "img": "https://m.media-amazon.com/images/I/71hz9yPBddL.jpg",
     "link": "https://www.amazon.com/dp/B0HJZ2HD7W?tag=zoepicks00-20",
     "now": "179.99",
     "was": "269.99",
-    "deal": "Limited time deal",
     "reviews": 1866,
     "tier": "premium"
    }
@@ -436,17 +433,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0F959JNF1",
-    "name": "SteelSeries Arctis Nova 3X Wireless Multi-Platform Gaming…",
-    "pct": 35,
-    "rating": 4.1,
-    "t": 1792846745,
-    "img": "https://m.media-amazon.com/images/I/71uyJR1wDEL.jpg",
-    "link": "https://www.amazon.com/dp/B0F959JNF1?tag=zoepicks00-20",
-    "now": "70.99",
-    "was": "109.99",
+    "asin": "B0HG8ZHBWN",
+    "name": "FANY Luna Smart Watch",
+    "pct": 62,
+    "rating": 5.0,
+    "t": 1792847219,
+    "img": "https://m.media-amazon.com/images/I/61XzHxm5qDL.jpg",
+    "link": "https://www.amazon.com/dp/B0HG8ZHBWN?tag=zoepicks00-20",
+    "now": "49.99",
+    "was": "129.99",
     "deal": "Limited time deal",
-    "reviews": 563,
+    "reviews": 24,
     "tier": "premium"
    }
   ],
@@ -554,7 +551,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1792868984,
+    "t": 1792871521,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -705,30 +702,28 @@
     "label": "Webcams",
     "items": [
      {
-      "asin": "B0BXGFFSL1",
-      "name": "Logitech Brio 101 Full HD 1080p Webcam",
-      "pct": 38,
-      "rating": 4.4,
-      "t": 1792850685,
-      "img": "https://m.media-amazon.com/images/I/71A0Pp767BL.jpg",
-      "link": "https://www.amazon.com/dp/B0BXGFFSL1?tag=zoepicks00-20",
-      "now": "24.99",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 8065,
-      "tier": "budget"
-     },
-     {
       "asin": "B0BXGDT1LM",
       "name": "Logitech Brio 100 Full HD 1080p Webcam",
       "pct": 38,
       "rating": 4.4,
-      "t": 1792850685,
+      "t": 1792870355,
       "img": "https://m.media-amazon.com/images/I/51rxY1CG9OL.jpg",
       "link": "https://www.amazon.com/dp/B0BXGDT1LM?tag=zoepicks00-20",
       "now": "24.99",
       "was": "39.99",
-      "deal": "Limited time deal",
+      "reviews": 8065,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BXGFFSL1",
+      "name": "Logitech Brio 101 Full HD 1080p Webcam",
+      "pct": 38,
+      "rating": 4.4,
+      "t": 1792871493,
+      "img": "https://m.media-amazon.com/images/I/71A0Pp767BL.jpg",
+      "link": "https://www.amazon.com/dp/B0BXGFFSL1?tag=zoepicks00-20",
+      "now": "24.99",
+      "was": "39.99",
       "reviews": 8065,
       "tier": "mid"
      },
@@ -737,12 +732,11 @@
       "name": "Logitech StreamCam Premium Webcam",
       "pct": 41,
       "rating": 4.4,
-      "t": 1792850685,
+      "t": 1792870577,
       "img": "https://m.media-amazon.com/images/I/71-fdSpTk5L.jpg",
       "link": "https://www.amazon.com/dp/B07TZT4Q89?tag=zoepicks00-20",
       "now": "99.99",
       "was": "169.99",
-      "deal": "Limited time deal",
       "reviews": 2980,
       "tier": "premium"
      }
@@ -1927,17 +1921,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0C7ZBLYJJ",
-      "name": "Aemicion Wearable Blanket Hoodie",
-      "pct": 50,
-      "rating": 4.8,
-      "t": 1792818209,
-      "img": "https://m.media-amazon.com/images/I/71SLeuk7AWL.jpg",
-      "link": "https://www.amazon.com/dp/B0C7ZBLYJJ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
       "asin": "B098JNYQ1M",
       "name": "SCODI Hoodies for Men Zip Up Heavyweight Fleece Sweatshirt…",
       "pct": 57,
@@ -1945,6 +1928,19 @@
       "t": 1792818177,
       "img": "https://m.media-amazon.com/images/I/51ATh39LHgL.jpg",
       "link": "https://www.amazon.com/dp/B098JNYQ1M?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GYS3MTB2",
+      "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1792871520,
+      "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
+      "link": "https://www.amazon.com/dp/B0GYS3MTB2?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "49.99",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2190,7 +2186,7 @@
       "name": "Hanes Men's Cool DRI Polo Shirt",
       "pct": 40,
       "rating": 4.4,
-      "t": 1792868987,
+      "t": 1792871524,
       "img": "https://m.media-amazon.com/images/I/71gA0QSSUdL.jpg",
       "link": "https://www.amazon.com/dp/B010C7M166?tag=zoepicks00-20",
       "now": "10.19",
@@ -2492,6 +2488,18 @@
       "link": "https://www.amazon.com/dp/B0F3X9LQQJ?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
+     },
+     {
+      "asin": "B0GF1CB7TQ",
+      "name": "Eunzel Hot Yoga Mat Towel",
+      "pct": 30,
+      "rating": 4.1,
+      "t": 1792871520,
+      "img": "https://m.media-amazon.com/images/I/61VmiNSPZVL.jpg",
+      "link": "https://www.amazon.com/dp/B0GF1CB7TQ?tag=zoepicks00-20",
+      "now": "17.24",
+      "was": "24.64",
+      "reviews": 0
      }
     ]
    },
@@ -2574,12 +2582,11 @@
       "name": "Recumbent Exercise Bike",
       "pct": 33,
       "rating": 4.6,
-      "t": 1792848800,
+      "t": 1792870569,
       "img": "https://m.media-amazon.com/images/I/71hz9yPBddL.jpg",
       "link": "https://www.amazon.com/dp/B0HJZ2HD7W?tag=zoepicks00-20",
       "now": "179.99",
       "was": "269.99",
-      "deal": "Limited time deal",
       "reviews": 1866,
       "tier": "premium"
      }
@@ -2606,16 +2613,16 @@
     "label": "Adjustable Dumbbells",
     "items": [
      {
-      "asin": "B0HFVQGS7M",
-      "name": "OLIXIS Adjustable Dumbbell Set",
-      "pct": 25,
+      "asin": "B0FRMT4H15",
+      "name": "Cvonte Adjustable Dumbbell Set",
+      "pct": 31,
       "rating": 4.5,
-      "t": 1792861065,
-      "img": "https://m.media-amazon.com/images/I/81FY-RsQ0wL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFVQGS7M?tag=zoepicks00-20",
-      "now": "29.95",
-      "was": "39.99",
-      "reviews": 269,
+      "t": 1792871521,
+      "img": "https://m.media-amazon.com/images/I/71sTw6pAXeL.jpg",
+      "link": "https://www.amazon.com/dp/B0FRMT4H15?tag=zoepicks00-20",
+      "now": "54.98",
+      "was": "79.99",
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -3556,6 +3563,38 @@
     ]
    },
    {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0FJM537XW",
+      "name": "CAROTE 21pcs Pots and Pans Set Non Stick",
+      "pct": 40,
+      "rating": 4.7,
+      "t": 1792846964,
+      "img": "https://m.media-amazon.com/images/I/71csFFAijsL.jpg",
+      "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
+      "now": "59.98",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 2509
+     },
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792846964,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2177
+     }
+    ]
+   },
+   {
     "key": "espresso-machines",
     "label": "Espresso Machines",
     "items": [
@@ -3613,25 +3652,6 @@
       "deal": "Limited time deal",
       "reviews": 8274,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0F9WBM8H3",
-      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1792846964,
-      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 2177
      }
     ]
    },
@@ -4101,17 +4121,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B0F959JNF1",
-      "name": "SteelSeries Arctis Nova 3X Wireless Multi-Platform Gaming…",
-      "pct": 35,
-      "rating": 4.1,
-      "t": 1792846745,
-      "img": "https://m.media-amazon.com/images/I/71uyJR1wDEL.jpg",
-      "link": "https://www.amazon.com/dp/B0F959JNF1?tag=zoepicks00-20",
-      "now": "70.99",
-      "was": "109.99",
-      "deal": "Limited time deal",
-      "reviews": 563,
+      "asin": "B0CKBPV5JD",
+      "name": "AOCHUAN Smart XE w/Focus/Object Track Gimbal Stabilizer",
+      "pct": 23,
+      "rating": 4.2,
+      "t": 1792764661,
+      "img": "https://m.media-amazon.com/images/I/619KFYGI+0L.jpg",
+      "link": "https://www.amazon.com/dp/B0CKBPV5JD?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "64.99",
+      "reviews": 1129,
       "tier": "mid"
      },
      {
@@ -4728,7 +4747,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1792868984,
+      "t": 1792871521,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
