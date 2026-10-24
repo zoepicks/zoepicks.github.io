@@ -4,12 +4,18 @@
  "category": "beauty_health",
  "date": "Oct 24, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products from consumerreports.org, cnet.com, and healthydadhacks.com.",
- "assumptions": "Prices are not listed in the sources, so no price information is provided.",
+ "method": "Selected products were taken from CNET and Healthydadhacks reviews, which both recommend Sunbeam models.",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
  "products": [],
  "verdict": {
-  "pick": "Sunbeam Heating Pad",
-  "line": "Picture a busy professional who needs quick relief after a long day. The Sunbeam heating pad heats within seconds, providing fast muscle relaxation. It outperforms other picks in heating speed and is the only model mentioned in multiple reviews. The catch: it does not offer adjustable temperature settings."
+  "pick": "Sunbeam Heating Pad (Standard 22 x 14-inch)",
+  "line": "Ideal for anyone needing fast relief from muscle tension or stress, it heats within seconds and offers a comfortable, even surface. The main catch is its limited size for larger areas.",
+  "also": [
+   [
+    "XL Size",
+    "Sunbeam XL Heating Pad"
+   ]
+  ]
  },
  "draft": true
 }
