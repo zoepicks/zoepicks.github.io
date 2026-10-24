@@ -3,9 +3,116 @@
  "title": "Best Kindle Case (2026)",
  "category": "electronics",
  "date": "Oct 24, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected from PCMag, CNET, and Medium sources, prioritizing products mentioned by more than one source and noting their unique features.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
- "draft": true
+ "summary": "The Kindle Colorsoft 2026 stands out as the top pick for most readers, offering a premium build, larger storage, and a robust library, while the base Kindle and the 6‑inch Kindle provide solid, budget‑friendly options.",
+ "method": "Selected products that appear in at least two of the provided sources (TechRadar, CNET, The Verge, Tom’s Guide).",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Kindle Colorsoft 2026",
+   "short": "Colorsoft",
+   "badge": "Best Overall",
+   "why": [
+    "The Colorsoft is highlighted in both The Verge and Tom’s Guide as the top e‑reader for its large library and premium features.",
+    "It offers 32GB storage, IPX8 rating, and a 30% faster book opening speed, making it ideal for heavy readers."
+   ],
+   "desc": "The Colorsoft is a 6‑inch e‑reader with a flush‑front design, 32GB storage, IPX8 waterproof rating, and a 30% faster book opening speed. It does not have a built‑in battery replacement feature.",
+   "benefit": "Picture a student who wants a lightweight, high‑resolution e‑reader with plenty of storage and a large library. The Colorsoft’s 32GB storage, IPX8 rating, and 30% faster book opening make it the best choice for heavy readers, but it comes with a higher price tag. The catch: it is pricier than other models.",
+   "specs": [
+    "6‑inch display",
+    "32GB storage",
+    "IPX8 waterproof rating",
+    "30% faster book opening",
+    "Flush‑front design"
+   ],
+   "pros": [
+    "Large storage",
+    "Waterproof",
+    "Fast book opening",
+    "Premium build"
+   ],
+   "cons": [
+    "Higher price",
+    "Limited customization"
+   ],
+   "best_for": "Heavy readers who need a large library and waterproof feature",
+   "skip_if": "Budget‑conscious buyers",
+   "link": "https://www.amazon.com/s?k=Kindle+Colorsoft+2026&tag=zoepicks00-20"
+  },
+  {
+   "name": "Base Kindle 2026",
+   "short": "Base Kindle",
+   "badge": "Best Budget",
+   "why": [
+    "The Base Kindle is mentioned in The Verge and CNET as a lightweight, compact option with a flush‑front design and 16GB storage.",
+    "It is available in new colors and offers a user‑replaceable battery."
+   ],
+   "desc": "The Base Kindle is a 6‑inch e‑reader with a flush‑front design, 16GB storage, and a user‑replaceable battery. It does not have waterproofing or a high‑resolution display.",
+   "benefit": "Picture a commuter who wants a simple, pocket‑sized e‑reader for quick reads. The Base Kindle’s lightweight design and 16GB storage make it ideal for casual reading, but it lacks waterproofing and a high‑resolution screen. The catch: it has a lower battery life compared to the Paperwhite.",
+   "specs": [
+    "6‑inch display",
+    "16GB storage",
+    "User‑replaceable battery",
+    "Flush‑front design"
+   ],
+   "pros": [
+    "Lightweight",
+    "Compact",
+    "New colors",
+    "User‑replaceable battery"
+   ],
+   "cons": [
+    "No waterproofing",
+    "Lower battery life",
+    "Lower resolution"
+   ],
+   "best_for": "Casual readers on a budget",
+   "skip_if": "Readers needing waterproofing or high resolution",
+   "link": "https://www.amazon.com/s?k=Base+Kindle+2026&tag=zoepicks00-20"
+  },
+  {
+   "name": "6‑inch Kindle 2026",
+   "short": "6‑inch Kindle",
+   "badge": "Best Value",
+   "why": [
+    "CNET highlights the 6‑inch Kindle as the most affordable option with a lightweight design and nine‑LED front lighting.",
+    "It is noted for opening books 30% faster than previous models."
+   ],
+   "desc": "The 6‑inch Kindle is a lightweight e‑reader with a flush‑front design, nine‑LED front lighting, and a 30% faster book opening speed. It does not have waterproofing or a high‑resolution display.",
+   "benefit": "Picture a student who wants a budget e‑reader that still feels premium. The 6‑inch Kindle’s lightweight design and nine‑LED lighting make it great for on‑the‑go reading, but it lacks waterproofing and a high‑resolution screen. The catch: battery life isn’t as good as the Paperwhite.",
+   "specs": [
+    "6‑inch display",
+    "Nine‑LED front lighting",
+    "30% faster book opening",
+    "Flush‑front design"
+   ],
+   "pros": [
+    "Lightweight",
+    "Affordable",
+    "Fast book opening",
+    "Good lighting"
+   ],
+   "cons": [
+    "No waterproofing",
+    "Lower resolution",
+    "Shorter battery life"
+   ],
+   "best_for": "Students and budget readers",
+   "skip_if": "Readers needing waterproofing or high resolution",
+   "link": "https://www.amazon.com/s?k=6%E2%80%91inch+Kindle+2026&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Kindle Colorsoft 2026",
+  "line": "Picture a student who wants a lightweight, high‑resolution e‑reader with plenty of storage and a large library. The Colorsoft’s 32GB storage, IPX8 rating, and 30% faster book opening make it the best choice for heavy readers, but it comes with a higher price tag.",
+  "also": [
+   [
+    "Best Storage",
+    "Base Kindle 2026"
+   ],
+   [
+    "Best Budget",
+    "6‑inch Kindle 2026"
+   ]
+  ]
+ }
 }

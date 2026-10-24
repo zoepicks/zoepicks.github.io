@@ -4,8 +4,8 @@
  "category": "beauty_health",
  "date": "Oct 24, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected from the only product referenced in the provided sources.",
- "assumptions": "No price information was available in the sources.",
+ "method": "Selected products were taken directly from the provided sources; only items referenced in the sources were considered.",
+ "assumptions": "No price information was available in the sources, so price fields are null.",
  "products": [],
  "draft": true
 }
