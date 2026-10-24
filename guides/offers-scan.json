@@ -6554,24 +6554,39 @@
   },
   "smart_home:smart-displays": {
    "label": "Smart Displays",
-   "tries": 5,
+   "tries": 6,
    "items": [
     {
-     "asin": "B0CFQC4DB3",
-     "name": "FRESMOL Compressed Air Duster",
-     "pct": 30,
-     "rating": 4.4,
-     "t": 1792677927,
-     "img": "https://m.media-amazon.com/images/I/716KiqJzxrL.jpg",
-     "link": "https://www.amazon.com/dp/B0CFQC4DB3?tag=zoepicks00-20",
-     "now": "27.98",
+     "asin": "B0DSBSSRTL",
+     "name": "COOLHOOD 65\" Smart Board",
+     "pct": 17,
+     "rating": 4.5,
+     "t": 1792848217,
+     "img": "https://m.media-amazon.com/images/I/71syEYD5NvL.jpg",
+     "link": "https://www.amazon.com/dp/B0DSBSSRTL?tag=zoepicks00-20",
+     "now": "1,499.98",
+     "was": "1,799.99",
+     "deal": "Limited time deal",
+     "reviews": 803,
+     "_title": "COOLHOOD 65\" Smart Board, 4K UHD Touchscreen Interactive Digital Whiteboard Display, Electronic All-in-One Computer for Cl...",
+     "_price": 1499.98
+    },
+    {
+     "asin": "B0DHRY7XZR",
+     "name": "HolaCube WiFi Holographic Crystal 3D Photo Display",
+     "pct": 5,
+     "rating": 3.6,
+     "t": 1792848217,
+     "img": "https://m.media-amazon.com/images/I/418SW+HhY1L.jpg",
+     "link": "https://www.amazon.com/dp/B0DHRY7XZR?tag=zoepicks00-20",
+     "now": "37.99",
      "was": "39.99",
-     "reviews": 6570,
-     "_title": "FRESMOL Compressed Air Duster, Rechargeable Cordless Electric Air Blower | 3-Gear Adjustable,100000RPM,Smart LED Display,L...",
-     "_price": 27.98
+     "reviews": 124,
+     "_title": "HolaCube WiFi Holographic Crystal 3D Photo Display, Smart Weather Station & Digital Clock with GIF Animations and Electron...",
+     "_price": 37.99
     }
    ],
-   "scanned": "2026-10-22T14:05:27.023446+00:00",
+   "scanned": "2026-10-24T13:23:37.368517+00:00",
    "via": "sweep"
   },
   "beauty_health:face-wash": {
