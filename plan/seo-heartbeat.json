@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-24T09:14:28.064331+00:00",
- "boots_total": 26,
+ "updated": "2026-10-24T12:20:04.171906+00:00",
+ "boots_total": 27,
  "recent_boots_utc": [
-  "2026-10-21T16:36:05",
   "2026-10-21T17:39:50",
   "2026-10-22T04:09:01",
   "2026-10-22T13:30:17",
@@ -12,25 +11,20 @@
   "2026-10-23T14:40:00",
   "2026-10-23T15:27:09",
   "2026-10-24T02:36:41",
-  "2026-10-24T09:02:54"
+  "2026-10-24T09:02:54",
+  "2026-10-24T09:23:49"
  ],
- "last_run_ts": 1792833248.280408,
+ "last_run_ts": 1792844402.5895114,
  "last_report_ts": 1792833267.3402557,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
-  "high": 1,
+  "high": 2,
   "med": 0,
-  "low": 29
+  "low": 27
  },
  "recent_runs": [
-  {
-   "t": "2026-10-23T05:36:37",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 8
-  },
   {
    "t": "2026-10-23T08:37:58",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 6
+  },
+  {
+   "t": "2026-10-24T12:19:59",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 10
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-24T03:07:57",
-   "what": "SEO check: score 94 (+0), 204 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-24T06:09:16",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-24T06:09:16",
-   "what": "SEO check: score 94 (+0), 206 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-24T06:09:16",
    "what": "IndexNow: 20 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-10-24T09:14:27",
    "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-10-24T12:20:02",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-24T12:20:02",
+   "what": "SEO check: score 94 (+0), 207 pages, 2 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-24T12:20:02",
+   "what": "IndexNow: 10 URL Bing ko bheje",
    "ok": true
   }
  ]
