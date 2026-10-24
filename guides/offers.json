@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-24T06:39:10Z",
+ "updated": "2026-10-24T08:22:44Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1549,18 +1549,6 @@
       "img": "https://m.media-amazon.com/images/I/61TIH19pf3L.jpg",
       "link": "https://www.amazon.com/dp/B0H3LW66X7?tag=zoepicks00-20",
       "reviews": 0
-     },
-     {
-      "asin": "B0GRJ18R77",
-      "name": "Drone with Camera for Adults LCD Screen FPV Live Video",
-      "pct": 40,
-      "rating": 4.0,
-      "t": 1792697170,
-      "img": "https://m.media-amazon.com/images/I/71FQHyHg5XL.jpg",
-      "link": "https://www.amazon.com/dp/B0GRJ18R77?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "99.89",
-      "reviews": 85
      }
     ]
    },
@@ -1718,6 +1706,11 @@
    {
     "key": "e-readers",
     "label": "E Readers",
+    "items": []
+   },
+   {
+    "key": "kindle-case",
+    "label": "Kindle Case",
     "items": []
    }
   ],
@@ -1995,24 +1988,6 @@
     ]
    },
    {
-    "key": "polo-shirt",
-    "label": "Polo Shirt",
-    "items": [
-     {
-      "asin": "B010C7M7LA",
-      "name": "Hanes Men's Cool DRI Polo Shirt",
-      "pct": 35,
-      "rating": 4.4,
-      "t": 1792696224,
-      "img": "https://m.media-amazon.com/images/I/71UyPnzhYbL.jpg",
-      "link": "https://www.amazon.com/dp/B010C7M7LA?tag=zoepicks00-20",
-      "now": "11.12",
-      "was": "17.00",
-      "reviews": 18404
-     }
-    ]
-   },
-   {
     "key": "tote-bags",
     "label": "Tote Bags",
     "items": [
@@ -2240,6 +2215,11 @@
       "reviews": 3725
      }
     ]
+   },
+   {
+    "key": "polo-shirt",
+    "label": "Polo Shirt",
+    "items": []
    }
   ],
   "fitness_outdoor": [
@@ -3133,6 +3113,38 @@
     ]
    },
    {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0FJM537XW",
+      "name": "CAROTE 21pcs Pots and Pans Set Non Stick",
+      "pct": 40,
+      "rating": 4.7,
+      "t": 1792803684,
+      "img": "https://m.media-amazon.com/images/I/71csFFAijsL.jpg",
+      "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
+      "now": "59.98",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 2506
+     },
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792803684,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2174
+     }
+    ]
+   },
+   {
     "key": "espresso-machines",
     "label": "Espresso Machines",
     "items": [
@@ -3216,25 +3228,6 @@
       "deal": "Limited time deal",
       "reviews": 8266,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0F9WBM8H3",
-      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1792803684,
-      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 2174
      }
     ]
    },
@@ -3815,7 +3808,7 @@
       "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
       "pct": 29,
       "rating": 4.4,
-      "t": 1792804091,
+      "t": 1792824707,
       "img": "https://m.media-amazon.com/images/I/71CY34T3-KL.jpg",
       "link": "https://www.amazon.com/dp/B0C372ZY1D?tag=zoepicks00-20",
       "now": "119.98",
@@ -4287,6 +4280,11 @@
     "items": []
    },
    {
+    "key": "18v-battery",
+    "label": "18v Battery",
+    "items": []
+   },
+   {
     "key": "fireproof-safes",
     "label": "Fireproof Safes",
     "items": []
@@ -4504,6 +4502,25 @@
     ]
    },
    {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
+    "items": [
+     {
+      "asin": "B0GF68F2H6",
+      "name": "Ring Wired Doorbell 2K Plus",
+      "pct": 44,
+      "rating": 4.4,
+      "t": 1792804285,
+      "img": "https://m.media-amazon.com/images/I/51iiyoUbUvL.jpg",
+      "link": "https://www.amazon.com/dp/B0GF68F2H6?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "179.99",
+      "deal": "Limited time deal",
+      "reviews": 515
+     }
+    ]
+   },
+   {
     "key": "4k-tvs",
     "label": "4K TVs",
     "items": [
@@ -4629,11 +4646,6 @@
    {
     "key": "streaming-devices",
     "label": "Streaming Devices",
-    "items": []
-   },
-   {
-    "key": "video-doorbells",
-    "label": "Video Doorbells",
     "items": []
    }
   ],
