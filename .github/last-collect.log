@@ -1,3 +1,6 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pc-controllers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-cameras-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-grooming-vacuums-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pet-water-fountains-2026/index.html
@@ -97,30 +100,24 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-trash-can-2026 draft
-[collect] progress: guide 22 done (best-trash-can-2026) | tried 22 | tavily keys alive 1/4
-[collect] topic: Best Curtains (2026)
+[collect] done: best-leggings-2026 3 products
+[collect] progress: guide 2 done (best-leggings-2026) | tried 2 | tavily keys alive 1/4
+[collect] topic: Best Knife Set (2026)
 [collect] tavily -> 3 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-window-curtains
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-window-curtains
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/the-best-knife-set
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/the-best-knife-set
 [collect] 2/3 source pages fetched
-[collect] open web (tavily) -> 0 results
-[collect] open web (ddg) -> 0 results
-[collect] open web (browser) -> 10 results
-[collect] tavily -> 3 pages
-[collect] http 403 https://www.macys.com/shop/home/home-decor/window-treatments/curtains-drapes?id=198065&msockid=21b6fc8ef9906ff112c0eb72f8dc6ea5
-[collect] browser fetch 34 chars: https://www.macys.com/shop/home/home-decor/window-treatments/curtains-drapes?id=198065&msockid=21b6fc8ef9906ff112c0eb72f8dc6ea5
-[collect] http 403 https://www.potterybarn.com/shop/window-treatments/curtains-drapes/?msockid=21b6fc8ef9906ff112c0eb72f8dc6ea5
-[collect] browser fetch 80 chars: https://www.potterybarn.com/shop/window-treatments/curtains-drapes/?msockid=21b6fc8ef9906ff112c0eb72f8dc6ea5
-[collect] extra sources: +2 readable page(s) -> 4 total (macys.com, potterybarn.com)
-[collect] llm request: 4 sources x 1626 chars, ~1927 in + 4000 out tokens (budget 7000)
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (bobvila.com, thegoodtrade.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1071 chars, ~2286 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Nicetown Triple-Weave Noise-Reducing Thermal Curtain
-[collect] drop (only 1 sources): Deconovo Thermal Insulated Blackout Curtain
-[collect] only 1 well-sourced products -> staying draft
+[collect] http 403 https://www.cookwarejunkies.com/best-kitchen-knife-set
+[collect] browser fail https://www.cookwarejunkies.com/best-kitchen-knife-set Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.cookwarejunkies.com/best-kitchen-knife-set
+Call log:
+  - navigating to "https://www.cookwarejunkies.com/best-kitchen-knife-set", waiting until "domcontentloaded"
+
+[collect] extra sources: +2 readable page(s) -> 4 total (cookwarejunkies.com, techgearlab.com)
+[collect] llm request: 4 sources x 1626 chars, ~2980 in + 4000 out tokens (budget 7000)
+[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,037 requested 2,384 -> skipped for this run
+[collect] drop (only 1 sources): Ninja Foodi NeverDull Premium 17-Piece Knife System
+[collect] drop (only 1 sources): Zwilling Professional S 7-Piece Set
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -181,6 +178,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-digital-pianos
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-document-scanners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-beds-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-crates-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-food-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-harnesses-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-stroller-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-dog-toys-for-chewers-2026/index.html
@@ -247,6 +245,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-keyboards-for-typing-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kids-tablets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kindle-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-knife-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-deals-black-friday-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-stands-2026/index.html
@@ -260,6 +259,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/used/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mowers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leather-belts-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leggings-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-adults-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-curtains-2026 draft
-[collect] progress: guide 23 done (best-curtains-2026) | tried 23 | tavily keys alive 1/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,266 requested 2,227", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,728 requested 2,345", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,668 requested 2,422", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,097 requested 2,433", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,765 requested 2,514"}, "toolarge": {}, "minute": {}, "noaccess": {"4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 23 guide(s) built, 23 topic(s) tried
+[collect] done: best-knife-set-2026 3 products
+[collect] progress: guide 3 done (best-knife-set-2026) | tried 3 | tavily keys alive 1/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,815 requested 2,480", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,087 requested 2,438", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,678 requested 2,379", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,037 requested 2,384"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 3 guide(s) built, 3 topic(s) tried
