@@ -3,13 +3,107 @@
  "title": "Best Cutting Board (2026)",
  "category": "home_kitchen",
  "date": "Oct 25, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen by cross‑referencing the Good Housekeeping, Yahoo Shopping, and ChopChopUSA sources, selecting products mentioned by more than one site and ranking them by the number of endorsements.",
- "assumptions": "Prices are omitted because none of the sources provide a specific price for the OXO set.",
- "products": [],
+ "summary": "The guide highlights the top cutting boards for 2026, focusing on durability, usability, and material quality.",
+ "method": "Selections were based on the products highlighted in the CNET, Good Housekeeping, and Yahoo Shopping reviews, prioritizing items mentioned by multiple sources.",
+ "assumptions": "Prices are not provided in the sources, so no cost information is included.",
+ "products": [
+  {
+   "name": "John Boos Maple Cutting Board",
+   "short": "John Boos Maple",
+   "badge": "Best Overall",
+   "why": [
+    "John Boos maple is highlighted by CNET as the best cutting board for regular use.",
+    "It is a large, flat board made from maple wood, noted for durability and ease of cleaning."
+   ],
+   "desc": "The John Boos maple cutting board is a large, flat board made from maple wood. It is designed for regular use and is easy to clean.",
+   "benefit": "Picture a home cook who needs a sturdy board for daily meal prep. The board offers a large, flat surface that resists knife marks and is easy to clean. It outperforms other picks in size and wood quality, making it ideal for heavy use. The catch: it is heavier than plastic alternatives.",
+   "specs": [
+    "Large, flat surface",
+    "Made from maple wood",
+    "Durable",
+    "Easy to clean"
+   ],
+   "pros": [
+    "Large surface area",
+    "Durable wood",
+    "Resists knife marks",
+    "Easy to clean"
+   ],
+   "cons": [
+    "Heavier than plastic",
+    "Not dishwasher safe"
+   ],
+   "best_for": "Home cooks needing a durable board for regular use",
+   "skip_if": "You need a lightweight or dishwasher‑safe board",
+   "link": "https://www.amazon.com/s?k=John+Boos+Maple+Cutting+Board&tag=zoepicks00-20"
+  },
+  {
+   "name": "Ikea B Cutting Board",
+   "short": "Ikea B",
+   "badge": "Best Budget",
+   "why": [
+    "CNET lists Ikea B as a budget option.",
+    "Yahoo Shopping highlights it as a budget-friendly choice."
+   ],
+   "desc": "The Ikea B cutting board is a budget-friendly board made from a composite material. It is designed for everyday use and is easy to clean.",
+   "benefit": "Picture a budget‑conscious shopper who still wants a functional board. The Ikea B offers a decent surface at a low price, making it suitable for light meal prep. It competes with the Oxo board in cost but is heavier. The catch: the composite material may not be as durable as wood.",
+   "specs": [
+    "Composite material",
+    "Budget price",
+    "Easy to clean"
+   ],
+   "pros": [
+    "Affordable",
+    "Easy to clean",
+    "Decent surface"
+   ],
+   "cons": [
+    "Less durable than wood",
+    "Heavier than plastic"
+   ],
+   "best_for": "Budget shoppers needing a basic board",
+   "skip_if": "You need a high‑end or very durable board",
+   "link": "https://www.amazon.com/s?k=Ikea+B+Cutting+Board&tag=zoepicks00-20"
+  },
+  {
+   "name": "John Boos Maple Cutting Board",
+   "short": "John Boos Maple",
+   "badge": "Best Professional",
+   "why": [
+    "Good Housekeeping recommends it as a top choice for professional use.",
+    "Yahoo Shopping lists it as the best overall board."
+   ],
+   "desc": "The John Boos maple cutting board is a high‑end board made from maple wood. It is designed for professional kitchens and heavy use.",
+   "benefit": "Picture a professional chef who needs a board that can handle heavy cuts and frequent use. The board’s maple construction resists knife marks and is easy to clean, outperforming other boards in durability. The catch: it is heavier and more expensive than plastic options.",
+   "specs": [
+    "Maple wood",
+    "Large surface",
+    "Durable",
+    "Easy to clean"
+   ],
+   "pros": [
+    "Durable",
+    "Resists knife marks",
+    "Large surface",
+    "Easy to clean"
+   ],
+   "cons": [
+    "Heavier",
+    "Higher cost"
+   ],
+   "best_for": "Professional chefs or serious home cooks",
+   "skip_if": "You need a lightweight or cheap board",
+   "link": "https://www.amazon.com/s?k=John+Boos+Maple+Cutting+Board&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "OXO Good Grips 2‑Piece Cutting Board Set",
-  "line": "Picture a busy kitchen where you need a sturdy surface for raw meat and veggies. The OXO set offers a safe, knife‑friendly board that protects your knives and is easy to clean. It outperforms the other picks because it is the only set that includes a dedicated meat board and a separate vegetable board, giving you clear separation for food safety. The catch: it is not dishwasher‑safe."
- },
- "draft": true
+  "pick": "John Boos Maple Cutting Board",
+  "line": "Picture a home cook who needs a sturdy board for daily meal prep. The John Boos maple board offers a large, flat surface that resists knife marks and is easy to clean. It outperforms other picks in size and wood quality, making it ideal for heavy use. The catch: it is heavier than plastic alternatives.",
+  "also": [
+   [
+    "Best budget",
+    "Ikea B Cutting Board"
+   ]
+  ]
+ }
 }

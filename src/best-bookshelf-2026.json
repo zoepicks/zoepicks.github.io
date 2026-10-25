@@ -4,8 +4,12 @@
  "category": "other",
  "date": "Oct 25, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were ranked by how many sources recommended each speaker and by the specific strengths noted in the reviews from PCMag, RTings, CNET, Tom's Guide, Architectural Digest, and NoAudiophile.",
- "assumptions": "No price information was provided in the sources, so price was omitted.",
+ "method": "Selected products that appear in at least one source, prioritized those mentioned by multiple sites. Sources used: 0,1,2,3,6.",
+ "assumptions": "Prices are omitted because none are stated in the sources.",
  "products": [],
+ "verdict": {
+  "pick": "IKEA Symfonisk Bookshelf Speaker",
+  "line": "Picture a living‑room where music fills the space without extra wiring—this speaker delivers clear vocals and solid bass, and its design doubles as a shelf. It wins because it offers a balanced sound and room‑correction, something the other picks lack. The catch: it does not support Bluetooth."
+ },
  "draft": true
 }

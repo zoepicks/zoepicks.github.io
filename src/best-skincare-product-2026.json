@@ -4,8 +4,8 @@
  "category": "beauty_health",
  "date": "Oct 25, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were chosen from the six source articles listed, selecting those highlighted as top or best‑selling in each piece.",
- "assumptions": "No price information was provided in the sources, so price fields are left null.",
+ "method": "Selected products were chosen from the provided sources that explicitly mention the product name and describe its benefits. Products appearing in more than one source were prioritized.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
  "draft": true
 }
