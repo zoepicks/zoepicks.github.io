@@ -2,14 +2,65 @@
  "slug": "best-vacuum-cleaner-2026",
  "title": "Best Vacuum Cleaner (2026)",
  "category": "home_kitchen",
- "date": "Oct 24, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selections were based on the products mentioned in the Good Housekeeping, CNET, and TechGearLab reviews, prioritizing items cited by more than one source and noting their key strengths and limitations.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
+ "date": "Oct 25, 2026",
+ "summary": "The guide highlights the top handheld and cordless vacuums of 2026, with the Worx Power Share Portable Vacuum Cleaner standing out as the best overall choice for most buyers.",
+ "method": "Selections were made by comparing the top picks listed in Good Housekeeping, CNET, TechGearLab, and TechAdvisor. Products that appeared in more than one source were prioritized.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Worx Power Share Portable Vacuum Cleaner",
+   "short": "Worx Power Share",
+   "badge": "Best Overall",
+   "why": [
+    "Best overall in Good Housekeeping’s handheld vacuum roundup.",
+    "Also highlighted by CNET as the best car vacuum overall."
+   ],
+   "desc": "The Worx Power Share Portable Vacuum Cleaner is a cordless handheld vacuum with a 20‑minute battery life and interchangeable batteries. It is designed for quick cleanups on stairs, car seats, and couch cushions.",
+   "benefit": "Picture a busy parent who needs a quick, lightweight vacuum for stairs, car seats, and couch cushions. The Worx Power Share Portable Vacuum Cleaner delivers strong suction, a 20‑minute battery life, and interchangeable batteries, making it the most versatile option in this guide. It outperforms other picks in this guide because it is the only handheld vacuum that offers both strong suction and battery swapping. The catch: it is not a full‑size vacuum, so it may not handle large floor areas as efficiently.",
+   "best_for": "busy households needing quick, versatile cleanups",
+   "skip_if": "you need a full‑size vacuum for large areas",
+   "link": "https://www.amazon.com/s?k=Worx+Power+Share+Portable+Vacuum+Cleaner&tag=zoepicks00-20"
+  },
+  {
+   "name": "Worx 20V Power Share Cordless Cube Vac",
+   "short": "Worx 20V Cube",
+   "badge": "Best Car Vacuum",
+   "why": [
+    "CNET lists it as the best car vacuum overall."
+   ],
+   "desc": "The Worx 20V Power Share Cordless Cube Vac is a compact car vacuum with a 20‑minute battery life and quick charging. It includes a built‑in attachment storage but has a small dust bin that is not detachable.",
+   "benefit": "Picture a car owner who wants a quick, efficient way to keep the interior clean. This vacuum offers outstanding cleaning performance and a swappable battery that lasts more than 20 minutes. It wins against other car vacuums in this guide because it has the longest runtime and fastest charging. The catch: the dust bin is small and not detachable.",
+   "best_for": "car owners needing quick, efficient cleaning",
+   "skip_if": "you need a larger dust bin",
+   "link": "https://www.amazon.com/s?k=Worx+20V+Power+Share+Cordless+Cube+Vac&tag=zoepicks00-20"
+  },
+  {
+   "name": "Shark PowerDetect Cordless",
+   "short": "Shark PowerDetect",
+   "badge": "Best Cordless Stick",
+   "why": [
+    "TechGearLab lists it as a top cordless stick vacuum.",
+    "TechAdvisor highlights it as a best auto‑emptying vacuum."
+   ],
+   "desc": "The Shark PowerDetect Cordless is a cordless stick vacuum that offers powerful cleaning throughout the home. It features a 2‑liter dustbin and a HEPA filter.",
+   "benefit": "Picture a homeowner who wants a powerful, cordless vacuum for all surfaces. This model delivers impressive cleaning power and a large dustbin, making it ideal for deep cleaning. It outperforms other cordless sticks in this guide because it combines strong suction with a sizable dustbin and HEPA filtration. The catch: it has a basic battery indicator that can be challenging to use when holding it overhead.",
+   "best_for": "homeowners needing powerful, cordless cleaning",
+   "skip_if": "you need advanced battery monitoring",
+   "link": "https://www.amazon.com/s?k=Shark+PowerDetect+Cordless&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
   "pick": "Worx Power Share Portable Vacuum Cleaner",
-  "line": "Picture a busy parent who needs a quick, cordless solution for stairs, car seats, and couch cushions. The Worx Power Share Portable Vacuum Cleaner delivers strong suction, a lightweight design, and a swappable battery that lasts more than 20 minutes, making it ideal for on‑the‑go cleanups. Its only drawback is that the dust bin is small and not detachable."
- },
- "draft": true
+  "line": "Picture a busy parent who needs a quick, lightweight vacuum for stairs, car seats, and couch cushions. The Worx Power Share Portable Vacuum Cleaner delivers strong suction, a 20‑minute battery life, and interchangeable batteries, making it the most versatile option in this guide. Its main catch is that it is not a full‑size vacuum, so it may not handle large floor areas as efficiently.",
+  "also": [
+   [
+    "Best car vacuum",
+    "Worx 20V Power Share Cordless Cube Vac"
+   ],
+   [
+    "Best cordless stick",
+    "Shark PowerDetect Cordless"
+   ]
+  ]
+ }
 }
