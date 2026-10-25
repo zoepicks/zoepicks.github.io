@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-25T06:58:59.181424+00:00",
- "boots_total": 31,
+ "updated": "2026-10-25T10:04:30.756884+00:00",
+ "boots_total": 32,
  "recent_boots_utc": [
-  "2026-10-23T02:34:20",
   "2026-10-23T14:40:00",
   "2026-10-23T15:27:09",
   "2026-10-24T02:36:41",
@@ -12,25 +11,20 @@
   "2026-10-24T14:28:42",
   "2026-10-24T18:09:31",
   "2026-10-24T21:24:42",
-  "2026-10-25T06:12:49"
+  "2026-10-25T06:12:49",
+  "2026-10-25T07:48:06"
  ],
- "last_run_ts": 1792911537.594337,
- "last_report_ts": 1792878679.9978266,
+ "last_run_ts": 1792922661.907612,
+ "last_report_ts": 1792922670.033577,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 20
+  "low": 26
  },
  "recent_runs": [
-  {
-   "t": "2026-10-24T03:07:56",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-24T06:09:10",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 6
+  },
+  {
+   "t": "2026-10-25T10:04:16",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-25T00:52:54",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-25T00:52:54",
-   "what": "SEO check: score 94 (+0), 211 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-10-25T00:52:54",
-   "what": "IndexNow: 7 URL Bing ko bheje",
-   "ok": true
-  },
   {
    "t": "2026-10-25T03:54:20",
    "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
@@ -125,6 +110,21 @@
   {
    "t": "2026-10-25T06:58:57",
    "what": "IndexNow: 6 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-10-25T10:04:21",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-25T10:04:21",
+   "what": "SEO check: score 94 (+0), 211 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-10-25T10:04:30",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
