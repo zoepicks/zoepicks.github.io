@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-24T21:51:04.305901+00:00",
+ "generated_at": "2026-10-25T10:04:24.764970+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 209,
+  "pages": 211,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 29
+   "low": 26
   },
-  "avg_guide_words": 954,
+  "avg_guide_words": 953,
   "todo": [
    {
     "sev": "high",
@@ -27,7 +27,7 @@
    {
     "sev": "low",
     "code": "title_length",
-    "count": 15,
+    "count": 14,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -35,18 +35,6 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 8,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-nail-polish-2026/",
-     "/g/best-playstation-5-2026/",
-     "/g/best-cameras-for-beginners-2026/"
-    ],
-    "detail": "load 3.1s"
    },
    {
     "sev": "low",
@@ -59,6 +47,18 @@
      "/g/best-monitors-for-mac-2026/"
     ],
     "detail": "description 62 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 6,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-coolers-2026/",
+     "/g/best-strollers-2026/",
+     "/g/best-compression-socks-2026/"
+    ],
+    "detail": "load 3.19s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 203,
+   "guides_live": 205,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-24T15:24:59.675609+00:00",
+    "t": "2026-10-25T03:54:18.521741+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-24T18:45:37.360661+00:00",
+    "t": "2026-10-25T06:58:54.955253+00:00",
     "indexnow": {
-     "submitted": 12,
+     "submitted": 6,
      "http": 200
     }
    },
    {
-    "t": "2026-10-24T21:50:58.704574+00:00",
+    "t": "2026-10-25T10:04:16.506249+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -97,18 +97,12 @@
   ]
  },
  "traffic": {
-  "today_visitors": 7,
-  "today_views": 16,
-  "total_visitors": 111,
-  "total_views": 837,
+  "today_visitors": 5,
+  "today_views": 5,
+  "total_visitors": 118,
+  "total_views": 844,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-18",
-    "visitors": 11,
-    "views": 204,
-    "clicks": 0
-   },
    {
     "day": "2026-10-19",
     "visitors": 57,
@@ -141,45 +135,51 @@
    },
    {
     "day": "2026-10-24",
-    "visitors": 7,
-    "views": 16,
+    "visitors": 9,
+    "views": 18,
+    "clicks": 0
+   },
+   {
+    "day": "2026-10-25",
+    "visitors": 5,
+    "views": 5,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 15,
+   "info": 38,
    "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 224,
-   "warn": 15,
+   "info": 275,
+   "warn": 16,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 15
+    "warnings": 16
    }
   ],
   "collector": {
    "today": {
-    "total": 7,
-    "ok": 6,
+    "total": 1,
+    "ok": 1,
     "failed": 0,
     "cancelled": 0,
-    "running": 1,
+    "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 106,
-    "ok": 79,
-    "failed": 7,
-    "cancelled": 19,
-    "running": 1,
+    "total": 97,
+    "ok": 75,
+    "failed": 5,
+    "cancelled": 17,
+    "running": 0,
     "failed_runs": [
      {
       "run": 100,
@@ -210,37 +210,18 @@
       "at": "2026-10-20T16:14:43Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39455712062"
-     },
-     {
-      "run": 49,
-      "at": "2026-10-18T21:09:27Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39166571436"
-     },
-     {
-      "run": 45,
-      "at": "2026-10-18T14:10:50Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39134824921"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 148,
-    "ok": 147,
-    "failed": 1,
+    "total": 97,
+    "ok": 97,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 1286,
-      "at": "2026-10-24T09:14:00Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40081136915"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
@@ -277,51 +258,107 @@
    {
     "module": "ZOESEO",
     "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
     "msg": "SEO: 2 HIGH issue(s): fetch_failed, contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 203,
+  "live_guides": 205,
   "missing_topics_by_status": {
-   "covered": 20,
-   "open": 128,
-   "built": 39,
-   "queued": 13
+   "built": 41,
+   "open": 125,
+   "queued": 15,
+   "covered": 19
   },
   "missing_new": {
-   "today": 26,
-   "d7": 186,
+   "today": 0,
+   "d7": 184,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "vacuum cleaner",
-    "leads": "3",
-    "budget": 400.0,
+    "topic": "toddler car seat",
+    "leads": "1",
+    "budget": null,
     "status": "open",
-    "first_at": "1792278902",
-    "last_at": "1792874520"
+    "first_at": "1792894263",
+    "last_at": "1792894263"
+   },
+   {
+    "topic": "32 inch 240hz monitor",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792889993",
+    "last_at": "1792889993"
+   },
+   {
+    "topic": "weezer hoodie",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792888052",
+    "last_at": "1792888052"
+   },
+   {
+    "topic": "outdoor fridge",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792887563",
+    "last_at": "1792887563"
+   },
+   {
+    "topic": "torque wrench",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792887377",
+    "last_at": "1792887377"
+   },
+   {
+    "topic": "portable microphone",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792880036",
+    "last_at": "1792880036"
+   },
+   {
+    "topic": "live streaming camera",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792879955",
+    "last_at": "1792879955"
+   },
+   {
+    "topic": "photo printer",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792879736",
+    "last_at": "1792879736"
    },
    {
     "topic": "leaf blower",
@@ -338,62 +375,6 @@
     "status": "open",
     "first_at": "1792871842",
     "last_at": "1792871842"
-   },
-   {
-    "topic": "external hard drive",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792871100",
-    "last_at": "1792871100"
-   },
-   {
-    "topic": "foundation makeup",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792868063",
-    "last_at": "1792868063"
-   },
-   {
-    "topic": "skincare products",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792868046",
-    "last_at": "1792868046"
-   },
-   {
-    "topic": "scented candle",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792867755",
-    "last_at": "1792867755"
-   },
-   {
-    "topic": "clothes dryer",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792865375",
-    "last_at": "1792865375"
-   },
-   {
-    "topic": "phone stand",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792864125",
-    "last_at": "1792864272"
-   },
-   {
-    "topic": "ring camera",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792864034",
-    "last_at": "1792864034"
    }
   ]
  },
@@ -676,9 +657,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 209,
+    "urls": 211,
     "other_host_urls": 0,
-    "live_pages_crawled": 209
+    "live_pages_crawled": 211
    },
    "permission": "siteOwner",
    "resubmitted": null,
