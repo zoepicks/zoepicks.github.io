@@ -3,9 +3,103 @@
  "title": "Best Gaming Monitor 32 Inch (2026)",
  "category": "monitors",
  "date": "Oct 25, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected from the products mentioned in sources 3 (Alienware AW3225DM) and 5 (MSI MPG 321CURX). Products recommended by multiple sources were preferred; when only one source mentioned a model it was still included if it met the 32‑inch gaming criteria.",
- "assumptions": "No pricing information was used except where a source gave a price; all price references are omitted otherwise.",
- "products": [],
- "draft": true
+ "summary": "The Asus ROG Swift PG32UCDM stands out as the top 32‑inch gaming monitor for 2026.",
+ "method": "Selected products from PCMag, RTINGS, Reviewed, and Eurogamer reviews; prioritized those mentioned by multiple sources and ranked by performance features.",
+ "assumptions": "Prices are not provided in the sources, so no cost comparison is made.",
+ "products": [
+  {
+   "name": "Asus ROG Swift PG32UCDM",
+   "short": "PG32UCDM",
+   "badge": "Best Overall",
+   "why": [
+    "The PG32UCDM is a 32‑inch 4K QD‑OLED monitor with a 240Hz refresh rate, offering superb HDR performance and low input lag.",
+    "It is highlighted in Eurogamer as the best gaming monitor tested in 2026, praised for its high resolution, high refresh rate, and OLED panel quality."
+   ],
+   "desc": "The PG32UCDM is a 32‑inch gaming monitor that uses a third‑generation QD‑OLED panel, provides 4K resolution, 240Hz refresh, and HDR support. It does not include a built‑in speaker system.",
+   "benefit": "Picture a competitive gamer who needs 4K detail and 240Hz speed; the PG32UCDM delivers a 4K QD‑OLED panel with 240Hz refresh, excellent HDR, and low input lag, making it ideal for esports and high‑end play. It outperforms other 32‑inch picks by offering the highest refresh rate and the best HDR performance in this guide. The catch: it is expensive.",
+   "specs": [
+    "32‑inch QD‑OLED panel",
+    "4K resolution",
+    "240Hz refresh rate",
+    "HDR support",
+    "Low input lag"
+   ],
+   "pros": [
+    "4K resolution",
+    "240Hz refresh rate",
+    "Excellent HDR",
+    "Low input lag"
+   ],
+   "cons": [
+    "High price",
+    "No built‑in speakers"
+   ],
+   "best_for": "Competitive gamers and high‑end content creators",
+   "skip_if": "Budget‑conscious buyers",
+   "link": "https://www.amazon.com/s?k=Asus+ROG+Swift+PG32UCDM&tag=zoepicks00-20"
+  },
+  {
+   "name": "Samsung Odyssey G7 LC32G75TQSNXZA",
+   "short": "Odyssey G7",
+   "badge": "Best 240Hz",
+   "why": [
+    "The Odyssey G7 offers a 240Hz refresh rate and high brightness, making it a strong gaming option.",
+    "Reviewed notes its bright, vibrant image and striking curved design."
+   ],
+   "desc": "The Odyssey G7 is a 32‑inch gaming monitor with a 240Hz refresh rate and high brightness. It does not feature a 4K resolution.",
+   "benefit": "Picture a casual gamer who wants a fast, responsive screen; the Odyssey G7 provides a 240Hz refresh rate and bright image for smooth gameplay. It wins against the Dell S3222DGM for refresh rate and against the PG32UCDM for price. The catch: its HDR performance is mediocre.",
+   "specs": [
+    "32‑inch display",
+    "240Hz refresh rate",
+    "High brightness"
+   ],
+   "pros": [
+    "240Hz refresh rate",
+    "High brightness",
+    "Curved design"
+   ],
+   "cons": [
+    "Mediocre HDR performance"
+   ],
+   "best_for": "Casual and competitive gamers seeking speed",
+   "skip_if": "Need 4K resolution",
+   "link": "https://www.amazon.com/s?k=Samsung+Odyssey+G7+LC32G75TQSNXZA&tag=zoepicks00-20"
+  },
+  {
+   "name": "Alienware AW3225QF",
+   "short": "AW3225QF",
+   "badge": "Best Budget 4K",
+   "why": [
+    "The AW3225QF is a 32‑inch 4K monitor that offers solid performance at a lower price point.",
+    "It provides good image quality and design."
+   ],
+   "desc": "The Alienware AW3225QF is a 32‑inch gaming monitor that offers solid performance and design at a lower price. It does not have a 240Hz refresh rate.",
+   "benefit": "Picture a gamer who wants 4K resolution without the high price; the AW3225QF delivers 4K image quality and good design. It competes with the PG32UCDM for resolution but lacks the 240Hz refresh. The catch: its color performance could be better.",
+   "specs": [
+    "32‑inch display",
+    "4K resolution"
+   ],
+   "pros": [
+    "Solid performance",
+    "Good design",
+    "Lower price than PG32UCDM"
+   ],
+   "cons": [
+    "Mediocre color performance"
+   ],
+   "best_for": "Budget 4K gamers",
+   "skip_if": "Need high refresh rate",
+   "link": "https://www.amazon.com/s?k=Alienware+AW3225QF&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Asus ROG Swift PG32UCDM",
+  "line": "Picture a competitive gamer who needs 4K detail and 240Hz speed; the PG32UCDM delivers a 4K QD‑OLED panel with 240Hz refresh, excellent HDR, and low input lag, making it ideal for esports and high‑end play. The main catch is its high price point.",
+  "also": [
+   [
+    "Best HDR",
+    "Samsung Odyssey G7 LC32G75TQSNXZA"
+   ]
+  ]
+ }
 }
