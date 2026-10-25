@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-25T15:51:31Z",
+ "updated": "2026-10-25T15:52:37Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -315,16 +315,16 @@
   ],
   "home_kitchen": [
    {
-    "asin": "B0GH8LR941",
-    "name": "Contigo DualSip Stainless Steel Vacuum-Insulated Water…",
-    "pct": 48,
-    "rating": 4.4,
-    "t": 1792924372,
-    "img": "https://m.media-amazon.com/images/I/61xuIQAwXzL.jpg",
-    "link": "https://www.amazon.com/dp/B0GH8LR941?tag=zoepicks00-20",
-    "now": "15.73",
-    "was": "29.99",
-    "reviews": 0,
+    "asin": "B08L5MNLCP",
+    "name": "Barenthal Cutting Boards",
+    "pct": 58,
+    "rating": 4.2,
+    "t": 1792924371,
+    "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
+    "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
+    "now": "19.31",
+    "was": "45.99",
+    "reviews": 469,
     "tier": "budget"
    },
    {
@@ -3590,6 +3590,25 @@
       "deal": "Limited time deal",
       "reviews": 20,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B08L5MNLCP",
+      "name": "Barenthal Cutting Boards",
+      "pct": 58,
+      "rating": 4.2,
+      "t": 1792924371,
+      "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
+      "now": "19.31",
+      "was": "45.99",
+      "reviews": 469,
+      "tier": "budget"
      }
     ]
    },
