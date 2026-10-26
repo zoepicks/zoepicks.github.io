@@ -2971,5 +2971,23 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Oct 25, 2026"
+ },
+ {
+  "title": "Best Baby Carrier (2026)",
+  "slug": "best-baby-carrier-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Robotic Arm (2026)",
+  "slug": "best-robotic-arm-2026",
+  "category": "toys_kids",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
