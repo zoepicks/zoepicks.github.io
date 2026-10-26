@@ -3,9 +3,85 @@
  "title": "Best Heating Pad (2026)",
  "category": "beauty_health",
  "date": "Oct 26, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by counting product mentions across consumerreports.org, cnet.com and goodhousekeeping.com and favoring those cited by multiple sites.",
- "assumptions": "No price information was added unless a source gave a specific number; all other details come directly from the excerpts.",
- "products": [],
- "draft": true
+ "summary": "A guide to the top heating pads for soothing sore muscles and back pain.",
+ "method": "Picks were based on product mentions in consumerreports.org, cnet.com, techgearlab.com, and healthydadhacks.com.",
+ "assumptions": "No price information was provided in the sources, so price fields are null.",
+ "products": [
+  {
+   "name": "Sunbeam XL Heating Pad",
+   "short": "Sunbeam XL",
+   "badge": "Best Overall",
+   "why": [
+    "The reviewer says it heats fast and loosens the lower back each morning, helping start the day.",
+    "It is highlighted in both CNET and HealthyDadHacks as a top choice for lower‑back pain."
+   ],
+   "desc": "An electric heating pad designed for the lower back that provides quick heat and muscle relaxation.",
+   "benefit": "Picture a person stretching after waking up, placing the pad on their lower back while getting ready for work. The fast heating loosens muscles and jumpstarts the day, according to the reviewer. It is the only pad specifically praised for speed and lower‑back focus among the picks. The catch: it is only sized for lower‑back use.",
+   "pros": [
+    "Heats quickly",
+    "Effective for lower‑back",
+    "Easy to use"
+   ],
+   "cons": [
+    "Only fits lower‑back area"
+   ],
+   "best_for": "People with lower‑back soreness who want rapid heat",
+   "skip_if": "You need a full‑body or neck/shoulder pad",
+   "link": "https://www.amazon.com/s?k=Sunbeam+XL+Heating+Pad&tag=zoepicks00-20"
+  },
+  {
+   "name": "Pure Enrichment Heating Pad",
+   "short": "Pure Enrichment",
+   "badge": "Most Washable",
+   "why": [
+    "CNET lists it as easily washable, making cleanup simple.",
+    "It is included among the staff‑recommended picks for overall comfort."
+   ],
+   "desc": "A heating pad that can be washed, offering convenient maintenance and steady heat.",
+   "benefit": "Picture a busy parent who spills coffee on the pad after a workout; they can toss it in the wash without hassle. Its washable design keeps it fresh, and it provides reliable heat for general use. It is the only pad noted for washability in this guide. The catch: no specific temperature or timer details are given.",
+   "pros": [
+    "Machine washable",
+    "Reliable heat",
+    "Simple operation"
+   ],
+   "cons": [
+    "Lacks detailed specs"
+   ],
+   "best_for": "Users who value easy cleaning",
+   "skip_if": "You need advanced temperature controls",
+   "link": "https://www.amazon.com/s?k=Pure+Enrichment+Heating+Pad&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sunbeam Heating Pad for Neck and Shoulder",
+   "short": "Sunbeam Neck/Shoulder",
+   "badge": "Best for Neck/Shoulder",
+   "why": [
+    "CNET lists it as a budget‑friendly option for neck and shoulder relief.",
+    "It targets upper‑body tension."
+   ],
+   "desc": "A heating pad shaped for the neck and shoulder area, offered at a lower price point.",
+   "benefit": "Picture a gamer who feels tension after long sessions, wrapping the pad around their neck and shoulders before bedtime. It delivers heat to the upper back, helping relax muscles. It is the only pad aimed at neck/shoulder relief in this guide. The catch: it may not provide enough coverage for larger back areas.",
+   "pros": [
+    "Budget‑friendly",
+    "Targets neck/shoulder",
+    "Easy to wrap"
+   ],
+   "cons": [
+    "Limited coverage"
+   ],
+   "best_for": "People with neck or shoulder soreness",
+   "skip_if": "You need full‑back heating",
+   "link": "https://www.amazon.com/s?k=Sunbeam+Heating+Pad+for+Neck+and+Shoulder&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Sunbeam XL Heating Pad",
+  "line": "Buy it if you need fast heat for lower‑back relief and want a pad that gets you moving quickly; it heats fast and loosens muscles, but it is limited to lower‑back use.",
+  "also": [
+   [
+    "Washability",
+    "Pure Enrichment Heating Pad"
+   ]
+  ]
+ }
 }
