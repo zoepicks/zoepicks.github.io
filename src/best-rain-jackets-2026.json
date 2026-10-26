@@ -2,7 +2,7 @@
  "slug": "best-rain-jackets-2026",
  "title": "Top Rain Jackets That Stay Dry (2026)",
  "category": "fashion",
- "date": "Oct 18, 2026",
+ "date": "Oct 26, 2026",
  "summary": "The top rain jackets that keep you dry in 2026 combine proven waterproof tech, practical features, and solid value, with The North Face Alta Vista and Outdoor Research Helium UL among the sourced picks.",
  "method": "I selected jackets that appear in at least two of the provided sources, ranking them by the number of mentions and the depth of positive coverage. The list includes the Black Diamond Fineline, North Face Alta Vista, and Outdoor Research Helium UL. Added from Amazon listing details (not from the review sources above): Marmot PreCip Eco.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null. No external price data or speculation is used.",
@@ -124,6 +124,77 @@
    "image": "https://m.media-amazon.com/images/I/71k-QiQ1lOL.jpg",
    "image_asin": "B0CMS33YXX",
    "desc": "A lightweight, packable rain jacket with a hood. It is not insulated, so it is for mild weather."
+  },
+  {
+   "name": "REI Co-op Magma 850 Hoodie",
+   "short": "REI Magma 850",
+   "badge": "Best Value",
+   "why": [
+    "Outdoor Gear Lab highlights this jacket for proving that you do not have to spend a lot to get comfortable, lightweight warmth.",
+    "It is positioned as a value option that offers good warmth without a high cost."
+   ],
+   "desc": "A down jacket described as comfortable and lightweight. It is noted for offering good value. It is not described as the warmest option for extreme cold.",
+   "benefit": "Picture a hiker needing a warm layer without a high price tag. The REI Magma 850 offers comfortable, lightweight warmth at a lower cost. It beats the Stio Hometown in terms of value and lightness according to the source description. The catch: it is not described as the warmest option for the strictest cold.",
+   "specs": [
+    "Down Jacket",
+    "Hooded",
+    "Lightweight",
+    "Comfortable warmth"
+   ],
+   "pros": [
+    "Good value",
+    "Lightweight",
+    "Comfortable warmth",
+    "Does not require a high budget"
+   ],
+   "cons": [
+    "Not described as the warmest option",
+    "Less premium than the top pick"
+   ],
+   "best_for": "Buyers who want lightweight warmth without a high cost",
+   "skip_if": "You need the absolute maximum warmth for extreme cold",
+   "link": "https://www.amazon.com/s?k=REI+Co-op+Magma+850+Hoodie&tag=zoepicks00-20",
+   "tabs": [
+    "fall"
+   ]
+  },
+  {
+   "name": "Decathlon Simond MT100 Hooded Puffer",
+   "short": "Decathlon Simond MT100",
+   "badge": "Best Value Midweight",
+   "why": [
+    "Outdoor Gear Lab describes this as a midweight layer that offers incredible value.",
+    "It is noted as not being the warmest but providing good value for money."
+   ],
+   "desc": "A midweight puffer jacket. It is described as offering incredible value. It is not the warmest option in the guide.",
+   "benefit": "Picture a user needing a versatile midweight layer. The Decathlon Simond MT100 offers incredible value for a midweight jacket. It beats the Eddie Bauer CirrusLite in warmth while maintaining a low cost profile. The catch: it is not the warmest jacket in this guide.",
+   "specs": [
+    "Down Jacket",
+    "Hooded",
+    "Midweight",
+    "Puffer"
+   ],
+   "pros": [
+    "Incredible value",
+    "Midweight layer",
+    "Good for general use"
+   ],
+   "cons": [
+    "Not the warmest option",
+    "Less specialized than top picks"
+   ],
+   "best_for": "Buyers looking for a value midweight layer",
+   "skip_if": "You need maximum warmth for extreme cold",
+   "link": "https://www.amazon.com/s?k=Decathlon+Simond+MT100+Hooded+Puffer&tag=zoepicks00-20",
+   "tabs": [
+    "fall"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "fall",
+   "label": "Fall"
   }
  ]
 }

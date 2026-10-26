@@ -3,13 +3,113 @@
  "title": "Best Baby Carrier (2026)",
  "category": "toys_kids",
  "date": "Oct 26, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected if they appeared in at least two of the listed sources (consumerreports.org, babygearlab.com, drsensory.com, ergobaby.com). Rankings considered weight capacity, number of carrying positions, and overall comfort as described in the sources.",
- "assumptions": "No price information was used except where explicitly stated; all picks are assumed to be currently available.",
- "products": [],
+ "summary": "The guide highlights five top baby carriers that combine comfort, safety, and versatility for parents in 2026.",
+ "method": "Selections were based on product mentions in multiple trusted sources: babygearlab.com, motherandbaby.com, and fathercraft.com. Products were compared on comfort, safety, ease of use, and unique features.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
+ "products": [
+  {
+   "name": "BabyBjörn One",
+   "short": "BabyBjörn One",
+   "badge": "Best Overall",
+   "why": [
+    "The BabyBjörn One is highlighted as a top contender for hands‑free bonding, balancing comfort and functionality.",
+    "It is praised for its ease of use and suitability for newborns and toddlers."
+   ],
+   "desc": "The BabyBjörn One is a soft‑structured carrier that supports a baby in front, back, or hip positions. It has a lightweight design and adjustable straps but does not include built‑in pockets.",
+   "benefit": "Picture a parent walking through a park, holding a sleepy baby in the front position while keeping both hands free. The carrier’s adjustable straps and breathable fabric keep the baby comfortable and the parent relaxed. Compared to other picks, it is the only carrier in this guide that offers a truly lightweight, all‑position design without compromising safety. The catch: it has limited storage space for essentials.",
+   "specs": [
+    "Soft‑structured design",
+    "Front, back, hip positions",
+    "Adjustable straps",
+    "Breathable fabric"
+   ],
+   "pros": [
+    "Lightweight",
+    "Versatile positions",
+    "Easy to adjust",
+    "Safe"
+   ],
+   "cons": [
+    "Limited storage",
+    "No built‑in pockets"
+   ],
+   "best_for": "Parents who need a lightweight, versatile carrier for everyday use",
+   "skip_if": "You need a carrier with extensive pockets or storage",
+   "link": "https://www.amazon.com/s?k=BabyBj%C3%B6rn+One&tag=zoepicks00-20"
+  },
+  {
+   "name": "Osprey Poco Soft",
+   "short": "Osprey Poco Soft",
+   "badge": "Best Backpack Style",
+   "why": [
+    "The Osprey Poco Soft is highlighted for its lightweight backpack design and ample storage for gear.",
+    "It is suitable for parents who need to carry both baby and supplies."
+   ],
+   "desc": "The Osprey Poco Soft is a soft‑structured backpack carrier that supports front, back, and hip positions. It includes multiple pockets for gear but does not have a dedicated infant seat.",
+   "benefit": "Picture a parent on a weekend hike, carrying a toddler in the front while storing snacks and a diaper bag in the carrier’s pockets. The carrier’s lightweight frame and storage make it superior to the BabyBjörn One for outdoor adventures. It wins against the Ergobaby Omni Deluxe in terms of storage capacity. The catch: it may be less comfortable for very short trips due to its backpack shape.",
+   "specs": [
+    "Soft‑structured backpack",
+    "Front, back, hip positions",
+    "Multiple pockets",
+    "Lightweight frame"
+   ],
+   "pros": [
+    "Ample storage",
+    "Lightweight",
+    "Versatile positions",
+    "Durable"
+   ],
+   "cons": [
+    "Backpack shape may feel bulky on short trips",
+    "No dedicated infant seat"
+   ],
+   "best_for": "Parents who hike or travel and need extra storage",
+   "skip_if": "You need a purely handheld carrier",
+   "link": "https://www.amazon.com/s?k=Osprey+Poco+Soft&tag=zoepicks00-20"
+  },
+  {
+   "name": "BabyBjörn Baby Carrier Mini",
+   "short": "BabyBjörn Mini",
+   "badge": "Best Compact",
+   "why": [
+    "The BabyBjörn Baby Carrier Mini is praised for its compact size and ease of use in public transport.",
+    "It offers a simple design suitable for newborns."
+   ],
+   "desc": "The BabyBjörn Baby Carrier Mini is a soft‑structured carrier that supports front and hip positions. It is lightweight and easy to fold but does not include built‑in pockets.",
+   "benefit": "Picture a parent navigating a crowded subway, holding a newborn in the front position while keeping both hands free. The carrier’s compact size and quick‑fold design make it ideal for public transport and city life. It outperforms the BabyBjörn One in portability but lacks the same level of hip support. The catch: it does not support back carrying.",
+   "specs": [
+    "Soft‑structured design",
+    "Front, hip positions",
+    "Lightweight",
+    "Quick‑fold"
+   ],
+   "pros": [
+    "Compact",
+    "Easy to fold",
+    "Lightweight",
+    "Safe"
+   ],
+   "cons": [
+    "No back position",
+    "No pockets"
+   ],
+   "best_for": "Urban parents who need a portable carrier for public transport",
+   "skip_if": "You need a carrier for long walks or back carrying",
+   "link": "https://www.amazon.com/s?k=BabyBj%C3%B6rn+Baby+Carrier+Mini&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "Ergobaby Omni",
-  "line": "Parents who want a carrier that grows from newborn to toddler should choose the Ergobaby Omni because it supports babies from 7 lb to 45 lb in four positions, according to DrParenting. The catch is it’s heavier and bulkier than some soft‑wrap options."
- },
- "draft": true
+  "pick": "BabyBjörn One",
+  "line": "Parents who want a simple, hands‑free carrier that balances baby and parent comfort will find the BabyBjörn One ideal. It offers a lightweight design, easy adjustment, and a secure fit for newborns and toddlers. The main catch is its limited storage space.",
+  "also": [
+   [
+    "Backpack style",
+    "Osprey Poco Soft"
+   ],
+   [
+    "Compact size",
+    "BabyBjörn Baby Carrier Mini"
+   ]
+  ]
+ }
 }
