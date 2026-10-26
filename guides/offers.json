@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-26T06:24:17Z",
+ "updated": "2026-10-26T06:55:16Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1584,24 +1584,6 @@
     ]
    },
    {
-    "key": "printers",
-    "label": "Printers",
-    "items": [
-     {
-      "asin": "B0CXPVH459",
-      "name": "Portable Thermal Printer Wireless",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1792866855,
-      "img": "https://m.media-amazon.com/images/I/71wYSaIhhkL.jpg",
-      "link": "https://www.amazon.com/dp/B0CXPVH459?tag=zoepicks00-20",
-      "now": "39.08",
-      "was": "45.98",
-      "reviews": 268
-     }
-    ]
-   },
-   {
     "key": "e-readers",
     "label": "E Readers",
     "items": [
@@ -1637,6 +1619,11 @@
    {
     "key": "drone",
     "label": "Drone",
+    "items": []
+   },
+   {
+    "key": "printers",
+    "label": "Printers",
     "items": []
    }
   ],
