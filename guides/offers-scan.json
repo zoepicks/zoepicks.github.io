@@ -5299,25 +5299,25 @@
   },
   "pets:pet-cameras": {
    "label": "Pet Cameras",
-   "tries": 7,
+   "tries": 8,
    "items": [
     {
      "asin": "B08GHX9G5L",
      "name": "Kasa 1080p Indoor Pan/Tilt Wired Security Camera",
      "pct": 30,
      "rating": 4.4,
-     "t": 1792934474,
+     "t": 1792975353,
      "img": "https://m.media-amazon.com/images/I/51oao7xTT8L.jpg",
      "link": "https://www.amazon.com/dp/B08GHX9G5L?tag=zoepicks00-20",
      "now": "20.98",
      "was": "29.99",
      "deal": "Limited time deal",
-     "reviews": 34352,
+     "reviews": 34353,
      "_title": "Kasa 1080p Indoor Pan/Tilt Wired Security Camera, Baby & Pet Monitor, EC70 | Motion Detection & Tracking, 2-Way Audio, Nig...",
      "_price": 20.98
     }
    ],
-   "scanned": "2026-10-25T13:21:14.116284+00:00",
+   "scanned": "2026-10-26T00:42:33.400506+00:00",
    "via": "sweep"
   },
   "smart_home:smart-thermostats": {
@@ -8207,14 +8207,14 @@
   },
   "pets:cat-litter": {
    "label": "Cat Litter",
-   "tries": 6,
+   "tries": 7,
    "items": [
     {
      "asin": "B0HHRLD7SJ",
      "name": "Cat Litter Deodorizer",
      "pct": 33,
      "rating": 4.6,
-     "t": 1792934474,
+     "t": 1792975353,
      "img": "https://m.media-amazon.com/images/I/61c9BfGsJOL.jpg",
      "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
      "now": "28.99",
@@ -8225,11 +8225,26 @@
      "_price": 28.99
     },
     {
+     "asin": "B0CVZRYCPW",
+     "name": "IRIS USA XX-Large High Sided Cat Litter Box",
+     "pct": 25,
+     "rating": 4.6,
+     "t": 1792975353,
+     "img": "https://m.media-amazon.com/images/I/61luE2E-ogL.jpg",
+     "link": "https://www.amazon.com/dp/B0CVZRYCPW?tag=zoepicks00-20",
+     "now": "29.97",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 2599,
+     "_title": "IRIS USA XX-Large High Sided Cat Litter Box, Scatter Shield, Black | Huge 30\" x 20\" x 14\", Multi-Cat Use, Jumbo Capacity P...",
+     "_price": 29.97
+    },
+    {
      "asin": "B078TFVWPY",
      "name": "LittleTiger Cat Litter Mat",
      "pct": 15,
      "rating": 4.6,
-     "t": 1792934474,
+     "t": 1792975353,
      "img": "https://m.media-amazon.com/images/I/81reO+ZW2UL.jpg",
      "link": "https://www.amazon.com/dp/B078TFVWPY?tag=zoepicks00-20",
      "now": "20.39",
@@ -8244,13 +8259,13 @@
      "name": "Garoopion Silicone Cat Litter Mat Large 40\" X 28\"",
      "pct": 10,
      "rating": 4.6,
-     "t": 1792934474,
+     "t": 1792975353,
      "img": "https://m.media-amazon.com/images/I/71sk0qETNmL.jpg",
      "link": "https://www.amazon.com/dp/B0FLP1BV8K?tag=zoepicks00-20",
      "now": "26.99",
      "was": "29.99",
      "deal": "Limited time deal",
-     "reviews": 2962,
+     "reviews": 2961,
      "_title": "Garoopion Silicone Cat Litter Mat Large 40\" X 28\", Easy to Clean, Gray | Large Size Waterproof Silicone Mat with Raised Ed...",
      "_price": 26.99
     },
@@ -8259,7 +8274,7 @@
      "name": "Vivifying XL Stainless Steel Cat Litter Box",
      "pct": 10,
      "rating": 4.6,
-     "t": 1792934474,
+     "t": 1792975353,
      "img": "https://m.media-amazon.com/images/I/71hklxAx6cL.jpg",
      "link": "https://www.amazon.com/dp/B0DCP88Z3K?tag=zoepicks00-20",
      "now": "39.59",
@@ -8270,7 +8285,7 @@
      "_price": 39.59
     }
    ],
-   "scanned": "2026-10-25T13:21:14.116284+00:00",
+   "scanned": "2026-10-26T00:42:33.400506+00:00",
    "via": "sweep"
   },
   "pets:pet-water-fountains": {
@@ -11003,10 +11018,10 @@
    "types": 16
   },
   "pets": {
-   "at": "2026-10-25T13:21:14.116284+00:00",
+   "at": "2026-10-26T00:42:33.400506+00:00",
    "pages": 5,
    "cards": 120,
-   "offer_cards": 119,
+   "offer_cards": 120,
    "types_hit": 2,
    "types": 7
   },
