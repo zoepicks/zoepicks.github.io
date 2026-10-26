@@ -9420,9 +9420,24 @@
   },
   "other:imac": {
    "label": "Imac",
-   "tries": 4,
-   "items": [],
-   "scanned": "2026-10-24T22:52:14.297764+00:00"
+   "tries": 5,
+   "items": [
+    {
+     "asin": "B0DL6SHMFH",
+     "name": "Apple 2024 iMac All-in-One Desktop Computer",
+     "pct": 5,
+     "rating": 4.7,
+     "t": 1792975946,
+     "img": "https://m.media-amazon.com/images/I/71KCBVOSvzL.jpg",
+     "link": "https://www.amazon.com/dp/B0DL6SHMFH?tag=zoepicks00-20",
+     "now": "1,614.00",
+     "was": "1,699.00",
+     "reviews": 247,
+     "_title": "Apple 2024 iMac All-in-One Desktop Computer with M4 chip with 10-core CPU and 10-core GPU: Built for Apple Intelligence, 2...",
+     "_price": 1614.0
+    }
+   ],
+   "scanned": "2026-10-26T00:52:26.132914+00:00"
   },
   "smart_home:security-cameras": {
    "label": "Security Cameras",
