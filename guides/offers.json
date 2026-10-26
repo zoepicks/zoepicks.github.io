@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-26T02:34:38Z",
+ "updated": "2026-10-26T03:09:45Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -124,17 +124,16 @@
   ],
   "fashion": [
    {
-    "asin": "B07CLXD2V4",
-    "name": "VeraCosy Men's Two-Tone House Slippers Memory Foam Indoor…",
-    "pct": 58,
-    "rating": 4.5,
-    "t": 1792934953,
-    "img": "https://m.media-amazon.com/images/I/81EEfuhlShL.jpg",
-    "link": "https://www.amazon.com/dp/B07CLXD2V4?tag=zoepicks00-20",
-    "now": "14.84",
-    "was": "35.00",
-    "deal": "Limited time deal",
-    "reviews": 41312,
+    "asin": "B0FVKGBGC9",
+    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
+    "pct": 65,
+    "rating": 4.3,
+    "t": 1792982568,
+    "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
+    "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
+    "now": "17.30",
+    "was": "49.99",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -415,17 +414,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0HDPTPFFP",
-    "name": "Smart Watch for Women",
-    "pct": 64,
-    "rating": 4.6,
+    "asin": "B0HG8ZHBWN",
+    "name": "FANY Luna Smart Watch",
+    "pct": 62,
+    "rating": 4.9,
     "t": 1792935754,
-    "img": "https://m.media-amazon.com/images/I/81JYK8OzmWL.jpg",
-    "link": "https://www.amazon.com/dp/B0HDPTPFFP?tag=zoepicks00-20",
-    "now": "35.99",
-    "was": "99.99",
+    "img": "https://m.media-amazon.com/images/I/61XzHxm5qDL.jpg",
+    "link": "https://www.amazon.com/dp/B0HG8ZHBWN?tag=zoepicks00-20",
+    "now": "49.99",
+    "was": "129.99",
     "deal": "Limited time deal",
-    "reviews": 36,
+    "reviews": 25,
     "tier": "mid"
    },
    {
@@ -1312,36 +1311,6 @@
     ]
    },
    {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B001BQXPBS",
-      "name": "Hugo Boss Bottled Deodorant Stick",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1792976033,
-      "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
-      "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
-      "now": "22.40",
-      "was": "32.00",
-      "reviews": 0
-     },
-     {
-      "asin": "B0DBVW4SFC",
-      "name": "Armani Beauty Acqua di Giò Deodorant",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1792862306,
-      "img": "https://m.media-amazon.com/images/I/61fASLaE3ML.jpg",
-      "link": "https://www.amazon.com/dp/B0DBVW4SFC?tag=zoepicks00-20",
-      "now": "27.20",
-      "was": "32.00",
-      "reviews": 1983
-     }
-    ]
-   },
-   {
     "key": "face-wash",
     "label": "Face Wash",
     "items": [
@@ -1357,6 +1326,24 @@
       "was": "34.00",
       "deal": "Limited time deal",
       "reviews": 7116
+     }
+    ]
+   },
+   {
+    "key": "deodorants",
+    "label": "Deodorants",
+    "items": [
+     {
+      "asin": "B0DBVW4SFC",
+      "name": "Armani Beauty Acqua di Giò Deodorant",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1792862306,
+      "img": "https://m.media-amazon.com/images/I/61fASLaE3ML.jpg",
+      "link": "https://www.amazon.com/dp/B0DBVW4SFC?tag=zoepicks00-20",
+      "now": "27.20",
+      "was": "32.00",
+      "reviews": 1983
      }
     ]
    },
@@ -1528,12 +1515,11 @@
       "name": "JBL Vibe Beam - True Wireless Earbuds",
       "pct": 40,
       "rating": 4.2,
-      "t": 1792975745,
+      "t": 1792983512,
       "img": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg",
       "link": "https://www.amazon.com/dp/B0BQPNMXQV?tag=zoepicks00-20",
       "now": "29.95",
       "was": "49.95",
-      "deal": "Limited time deal",
       "reviews": 41218,
       "tier": "premium"
      }
@@ -1703,6 +1689,51 @@
    }
   ],
   "fashion": [
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0FVKGBGC9",
+      "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
+      "pct": 65,
+      "rating": 4.3,
+      "t": 1792982568,
+      "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
+      "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
+      "now": "17.30",
+      "was": "49.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H7BRPB84",
+      "name": "NORTIV 8 Men's Trail Running Walking Shoes",
+      "pct": 29,
+      "rating": 4.6,
+      "t": 1792906940,
+      "img": "https://m.media-amazon.com/images/I/71B8S9HeFgL.jpg",
+      "link": "https://www.amazon.com/dp/B0H7BRPB84?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "69.99",
+      "reviews": 71,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FG84PFWS",
+      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
+      "pct": 28,
+      "rating": 4.5,
+      "t": 1792980506,
+      "img": "https://m.media-amazon.com/images/I/7157cK3TIsL.jpg",
+      "link": "https://www.amazon.com/dp/B0FG84PFWS?tag=zoepicks00-20",
+      "now": "50.53",
+      "was": "69.99",
+      "reviews": 1504,
+      "tier": "premium"
+     }
+    ]
+   },
    {
     "key": "slippers",
     "label": "Slippers",
@@ -1924,49 +1955,6 @@
       "now": "45.88",
       "was": "55.99",
       "reviews": 4701,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0BJ6HDYL5",
-      "name": "LCGJR Men's Running Shoes Ultra Lightweight Breathable…",
-      "pct": 50,
-      "rating": 4.2,
-      "t": 1792904857,
-      "img": "https://m.media-amazon.com/images/I/71O3-WAt1jL.jpg",
-      "link": "https://www.amazon.com/dp/B0BJ6HDYL5?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H7BRPB84",
-      "name": "NORTIV 8 Men's Trail Running Walking Shoes",
-      "pct": 29,
-      "rating": 4.6,
-      "t": 1792906940,
-      "img": "https://m.media-amazon.com/images/I/71B8S9HeFgL.jpg",
-      "link": "https://www.amazon.com/dp/B0H7BRPB84?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "69.99",
-      "reviews": 71,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FG84PFWS",
-      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
-      "pct": 28,
-      "rating": 4.5,
-      "t": 1792980506,
-      "img": "https://m.media-amazon.com/images/I/7157cK3TIsL.jpg",
-      "link": "https://www.amazon.com/dp/B0FG84PFWS?tag=zoepicks00-20",
-      "now": "50.53",
-      "was": "69.99",
-      "reviews": 1504,
       "tier": "premium"
      }
     ]
@@ -3145,7 +3133,7 @@
       "name": "304 Stainless Steel Cutting Board",
       "pct": 37,
       "rating": 4.5,
-      "t": 1792976032,
+      "t": 1792982569,
       "img": "https://m.media-amazon.com/images/I/719vsdgedSL.jpg",
       "link": "https://www.amazon.com/dp/B0H2JRCBNC?tag=zoepicks00-20",
       "now": "18.99",
@@ -3395,38 +3383,6 @@
     ]
    },
    {
-    "key": "cookware-set",
-    "label": "Cookware Set",
-    "items": [
-     {
-      "asin": "B0FJM537XW",
-      "name": "CAROTE 21pcs Pots and Pans Set Non Stick",
-      "pct": 40,
-      "rating": 4.7,
-      "t": 1792935516,
-      "img": "https://m.media-amazon.com/images/I/71csFFAijsL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 2514
-     },
-     {
-      "asin": "B0F9WBM8H3",
-      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1792935516,
-      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
-      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 2179
-     }
-    ]
-   },
-   {
     "key": "espresso-machines",
     "label": "Espresso Machines",
     "items": [
@@ -3471,6 +3427,25 @@
       "deal": "Limited time deal",
       "reviews": 386,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cookware-set",
+    "label": "Cookware Set",
+    "items": [
+     {
+      "asin": "B0F9WBM8H3",
+      "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1792935516,
+      "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
+      "now": "139.98",
+      "was": "219.99",
+      "deal": "Limited time deal",
+      "reviews": 2179
      }
     ]
    },
@@ -3537,24 +3512,6 @@
       "deal": "Limited time deal",
       "reviews": 27,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "humidifiers",
-    "label": "Humidifiers",
-    "items": [
-     {
-      "asin": "B0DBV343K9",
-      "name": "DREO Humidifiers for Bedroom",
-      "pct": 30,
-      "rating": 4.3,
-      "t": 1792854326,
-      "img": "https://m.media-amazon.com/images/I/71rgItCglOL.jpg",
-      "link": "https://www.amazon.com/dp/B0DBV343K9?tag=zoepicks00-20",
-      "now": "49.02",
-      "was": "69.99",
-      "reviews": 420
      }
     ]
    },
@@ -3861,6 +3818,11 @@
     "key": "crockpot",
     "label": "Crockpot",
     "items": []
+   },
+   {
+    "key": "humidifiers",
+    "label": "Humidifiers",
+    "items": []
    }
   ],
   "laptops": [
@@ -3966,19 +3928,6 @@
     "label": "Fitness Trackers",
     "items": [
      {
-      "asin": "B0H94F8F48",
-      "name": "Smart Watch for Men Women(Answer/Make Call),2.01\" AMOLED…",
-      "pct": 46,
-      "rating": 5.0,
-      "t": 1792935754,
-      "img": "https://m.media-amazon.com/images/I/611qoRy6sWL.jpg",
-      "link": "https://www.amazon.com/dp/B0H94F8F48?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "49.99",
-      "reviews": 33,
-      "tier": "budget"
-     },
-     {
       "asin": "B0HG97N6WC",
       "name": "Smart Watch with Alexa Built-in,1.91\"HD Fitness Tracker",
       "pct": 70,
@@ -3990,6 +3939,20 @@
       "was": "109.99",
       "deal": "Limited time deal",
       "reviews": 48,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HDPTPFFP",
+      "name": "Smart Watch for Women",
+      "pct": 64,
+      "rating": 4.6,
+      "t": 1792935754,
+      "img": "https://m.media-amazon.com/images/I/81JYK8OzmWL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDPTPFFP?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 36,
       "tier": "mid"
      },
      {
@@ -4013,14 +3976,17 @@
     "label": "iPhones",
     "items": [
      {
-      "asin": "B0H5QRSPML",
-      "name": "Smart Watch for Men Women Android & iPhone",
-      "pct": 26,
-      "rating": 4.4,
-      "t": 1792904818,
-      "img": "https://m.media-amazon.com/images/I/61Wk1Y6s02L.jpg",
-      "link": "https://www.amazon.com/dp/B0H5QRSPML?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B0C8CJ6VD9",
+      "name": "RUIMEN Smart Watches",
+      "pct": 33,
+      "rating": 4.1,
+      "t": 1792935754,
+      "img": "https://m.media-amazon.com/images/I/61C8s7xLLwL.jpg",
+      "link": "https://www.amazon.com/dp/B0C8CJ6VD9?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "37.99",
+      "deal": "Limited time deal",
+      "reviews": 18072,
       "tier": "budget"
      },
      {
@@ -4512,24 +4478,6 @@
     ]
    },
    {
-    "key": "washing-machine",
-    "label": "Washing Machine",
-    "items": [
-     {
-      "asin": "B0D6VPQJ96",
-      "name": "COSTWAY Portable Washing Machine",
-      "pct": 16,
-      "rating": 4.2,
-      "t": 1792854305,
-      "img": "https://m.media-amazon.com/images/I/61wNnVwwBfL.jpg",
-      "link": "https://www.amazon.com/dp/B0D6VPQJ96?tag=zoepicks00-20",
-      "now": "134.99",
-      "was": "159.99",
-      "reviews": 2403
-     }
-    ]
-   },
-   {
     "key": "stuffed-animal",
     "label": "Stuffed Animal",
     "items": [
@@ -4611,6 +4559,11 @@
    {
     "key": "nail-polish",
     "label": "Nail Polish",
+    "items": []
+   },
+   {
+    "key": "washing-machine",
+    "label": "Washing Machine",
     "items": []
    }
   ],
