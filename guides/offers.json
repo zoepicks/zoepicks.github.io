@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-26T12:11:19Z",
+ "updated": "2026-10-26T13:25:36Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2133,18 +2133,6 @@
       "link": "https://www.amazon.com/dp/B0F3X9LQQJ?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
-     },
-     {
-      "asin": "B0CQL8W631",
-      "name": "HAPBEAR Extra Large Yoga Mat",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1792888276,
-      "img": "https://m.media-amazon.com/images/I/71h9eqNX6vL.jpg",
-      "link": "https://www.amazon.com/dp/B0CQL8W631?tag=zoepicks00-20",
-      "now": "47.99",
-      "was": "59.99",
-      "reviews": 1460
      }
     ]
    },
@@ -2769,8 +2757,7 @@
       "link": "https://www.amazon.com/dp/B08DXN4RR4?tag=zoepicks00-20",
       "now": "13.29",
       "was": "24.99",
-      "reviews": 14289,
-      "tier": "budget"
+      "reviews": 14289
      },
      {
       "asin": "B092QWYYQ9",
@@ -2784,19 +2771,6 @@
       "was": "31.19",
       "deal": "Limited time deal",
       "reviews": 61909,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H2W9S63P",
-      "name": "Ultra Pain Relief Cervical Neck Pillow",
-      "pct": 40,
-      "rating": 4.6,
-      "t": 1792887343,
-      "img": "https://m.media-amazon.com/images/I/71q4dMF1oEL.jpg",
-      "link": "https://www.amazon.com/dp/B0H2W9S63P?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "59.99",
-      "reviews": 129,
       "tier": "premium"
      }
     ]
@@ -4117,26 +4091,13 @@
     ]
    },
    {
-    "key": "pet-water-fountains",
-    "label": "Pet Water Fountains",
-    "items": [
-     {
-      "asin": "B0C8TG35BF",
-      "name": "DownyPaws Cat Water Fountain Cordless",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1792887790,
-      "img": "https://m.media-amazon.com/images/I/71-O3yuZqWL.jpg",
-      "link": "https://www.amazon.com/dp/B0C8TG35BF?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "29.99",
-      "reviews": 2139
-     }
-    ]
-   },
-   {
     "key": "self-cleaning-litter-boxes",
     "label": "Self Cleaning Litter Boxes",
+    "items": []
+   },
+   {
+    "key": "pet-water-fountains",
+    "label": "Pet Water Fountains",
     "items": []
    },
    {
