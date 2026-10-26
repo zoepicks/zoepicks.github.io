@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-25T22:28:23.486144+00:00",
+ "generated_at": "2026-10-26T10:41:00.550252+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 214,
+  "pages": 218,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 23
+   "low": 43
   },
-  "avg_guide_words": 950,
+  "avg_guide_words": 949,
   "todo": [
    {
     "sev": "high",
@@ -23,6 +23,18 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 22,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-floor-lamps-2026/",
+     "/g/best-fireproof-safes-2026/",
+     "/g/best-humidifiers-2026/"
+    ],
+    "detail": "load 3.5s"
    },
    {
     "sev": "low",
@@ -39,26 +51,14 @@
    {
     "sev": "low",
     "code": "desc_length",
-    "count": 6,
+    "count": 7,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
+     "/g/best-beanie-baby-2026/",
      "/g/best-watches-under-200-2026/",
-     "/g/best-hiking-backpacks-2026/",
-     "/g/best-monitors-for-mac-2026/"
+     "/g/best-hiking-backpacks-2026/"
     ],
-    "detail": "description 62 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 3,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-water-flossers-2026/",
-     "/g/best-cameras-for-beginners-2026/",
-     "/g/best-comforter-sets-2026/"
-    ],
-    "detail": "load 3.09s"
+    "detail": "description 40 chars (best 70-170)"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 208,
+   "guides_live": 212,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,41 +74,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-25T16:07:32.803847+00:00",
-    "indexnow": {
-     "submitted": 5,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-25T19:26:56.511857+00:00",
-    "indexnow": {
-     "submitted": 3,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-25T22:28:18.204254+00:00",
+    "t": "2026-10-26T04:34:29.632542+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-26T07:38:49.560504+00:00",
+    "indexnow": {
+     "submitted": 7,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-10-26T10:40:51.690285+00:00",
+    "indexnow": {
+     "submitted": 2,
+     "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 7,
-  "today_views": 7,
-  "total_visitors": 120,
-  "total_views": 846,
+  "today_visitors": 0,
+  "today_views": 0,
+  "total_visitors": 122,
+  "total_views": 854,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-19",
-    "visitors": 57,
-    "views": 130,
-    "clicks": 0
-   },
    {
     "day": "2026-10-20",
     "visitors": 6,
@@ -141,44 +135,50 @@
    },
    {
     "day": "2026-10-25",
-    "visitors": 7,
-    "views": 7,
+    "visitors": 9,
+    "views": 15,
+    "clicks": 1
+   },
+   {
+    "day": "2026-10-26",
+    "visitors": 0,
+    "views": 0,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 110,
-   "warn": 5,
+   "info": 22,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 347,
-   "warn": 20,
+   "info": 212,
+   "warn": 12,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 20
+    "warnings": 12
    }
   ],
   "collector": {
    "today": {
-    "total": 4,
-    "ok": 4,
+    "total": 2,
+    "ok": 2,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 100,
-    "ok": 78,
+    "total": 84,
+    "ok": 70,
     "failed": 5,
-    "cancelled": 17,
+    "cancelled": 9,
     "running": 0,
     "failed_runs": [
      {
@@ -216,8 +216,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 156,
-    "ok": 156,
+    "total": 116,
+    "ok": 116,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -225,18 +225,11 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 299,
-    "failed": 1,
+    "ok": 300,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 1286,
-      "at": "2026-10-24T09:14:00Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40081136915"
-     }
-    ]
+    "failed_runs": []
    }
   },
   "recent_problems": [
@@ -283,19 +276,91 @@
   ]
  },
  "content": {
-  "live_guides": 208,
+  "live_guides": 212,
   "missing_topics_by_status": {
-   "open": 133,
-   "built": 37,
+   "open": 130,
+   "built": 40,
    "covered": 18,
    "queued": 12
   },
   "missing_new": {
-   "today": 32,
-   "d7": 179,
+   "today": 0,
+   "d7": 174,
    "d30": 200
   },
   "open_topics": [
+   {
+    "topic": "white refrigerator",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792983797",
+    "last_at": "1792983797"
+   },
+   {
+    "topic": "110cc bike",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792982018",
+    "last_at": "1792982018"
+   },
+   {
+    "topic": "automatic chicken coop door",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792981546",
+    "last_at": "1792981546"
+   },
+   {
+    "topic": "infant car seat stroller",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792976137",
+    "last_at": "1792976137"
+   },
+   {
+    "topic": "wrist brace",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792976100",
+    "last_at": "1792976100"
+   },
+   {
+    "topic": "2 seater sofa",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792971531",
+    "last_at": "1792971531"
+   },
+   {
+    "topic": "colorful bath towels",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792968686",
+    "last_at": "1792968686"
+   },
+   {
+    "topic": "full length mirror",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792942716",
+    "last_at": "1792968667"
+   },
+   {
+    "topic": "observatory dome motor",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792967882",
+    "last_at": "1792967882"
+   },
    {
     "topic": "studio tv",
     "leads": "1",
@@ -303,78 +368,6 @@
     "status": "open",
     "first_at": "1792965112",
     "last_at": "1792965112"
-   },
-   {
-    "topic": "gold watch brown leather strap",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792964850",
-    "last_at": "1792964998"
-   },
-   {
-    "topic": "wall mounted shoe rack",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792964693",
-    "last_at": "1792964693"
-   },
-   {
-    "topic": "non-smart tv",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792964503",
-    "last_at": "1792964503"
-   },
-   {
-    "topic": "robotic arm",
-    "leads": "3",
-    "budget": 500.0,
-    "status": "open",
-    "first_at": "1792963352",
-    "last_at": "1792963930"
-   },
-   {
-    "topic": "baby carrier",
-    "leads": "4",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792428403",
-    "last_at": "1792963333"
-   },
-   {
-    "topic": "portable power station",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792960094",
-    "last_at": "1792960094"
-   },
-   {
-    "topic": "protein powder",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792959339",
-    "last_at": "1792959339"
-   },
-   {
-    "topic": "makeup products",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792956718",
-    "last_at": "1792956718"
-   },
-   {
-    "topic": "basic tv",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792954412",
-    "last_at": "1792954412"
    }
   ]
  },
@@ -670,9 +663,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 214,
+    "urls": 218,
     "other_host_urls": 0,
-    "live_pages_crawled": 214
+    "live_pages_crawled": 218
    },
    "permission": "siteOwner",
    "resubmitted": null,
