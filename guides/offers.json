@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-27T13:21:59Z",
+ "updated": "2026-10-27T15:22:12Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1474,52 +1474,6 @@
     ]
    },
    {
-    "key": "wireless-earbuds",
-    "label": "Wireless Earbuds",
-    "items": [
-     {
-      "asin": "B0CSXV3GK4",
-      "name": "Wireless Earbuds 75H Bluetooth 5.4 Sport Headphones",
-      "pct": 39,
-      "rating": 4.3,
-      "t": 1793029187,
-      "img": "https://m.media-amazon.com/images/I/71NMUHszF4L.jpg",
-      "link": "https://www.amazon.com/dp/B0CSXV3GK4?tag=zoepicks00-20",
-      "now": "24.34",
-      "was": "39.99",
-      "reviews": 26660,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0BQPNMXQV",
-      "name": "JBL Vibe Beam - True Wireless Earbuds",
-      "pct": 40,
-      "rating": 4.2,
-      "t": 1792983512,
-      "img": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg",
-      "link": "https://www.amazon.com/dp/B0BQPNMXQV?tag=zoepicks00-20",
-      "now": "29.95",
-      "was": "49.95",
-      "reviews": 41218,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HGXTDJF8",
-      "name": "Hybrid Active Noise Cancelling Wireless Ear Buds 80 Hrs…",
-      "pct": 50,
-      "rating": 4.8,
-      "t": 1793029187,
-      "img": "https://m.media-amazon.com/images/I/71A-GJ3iNWL.jpg",
-      "link": "https://www.amazon.com/dp/B0HGXTDJF8?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "199.99",
-      "deal": "Limited time deal",
-      "reviews": 57,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "drone",
     "label": "Drone",
     "items": [
@@ -1568,21 +1522,49 @@
     ]
    },
    {
-    "key": "printers",
-    "label": "Printers",
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
     "items": [
      {
-      "asin": "B0CHJR142G",
-      "name": "Nelko P21 Label Maker Machine",
-      "pct": 35,
-      "rating": 4.4,
+      "asin": "B0CSXV3GK4",
+      "name": "Wireless Earbuds 75H Bluetooth 5.4 Sport Headphones",
+      "pct": 39,
+      "rating": 4.3,
       "t": 1793029187,
-      "img": "https://m.media-amazon.com/images/I/71cBfxUjyYL.jpg",
-      "link": "https://www.amazon.com/dp/B0CHJR142G?tag=zoepicks00-20",
-      "now": "16.98",
-      "was": "25.99",
+      "img": "https://m.media-amazon.com/images/I/71NMUHszF4L.jpg",
+      "link": "https://www.amazon.com/dp/B0CSXV3GK4?tag=zoepicks00-20",
+      "now": "24.34",
+      "was": "39.99",
+      "reviews": 26660,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BQPNMXQV",
+      "name": "JBL Vibe Beam - True Wireless Earbuds",
+      "pct": 40,
+      "rating": 4.2,
+      "t": 1793029187,
+      "img": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg",
+      "link": "https://www.amazon.com/dp/B0BQPNMXQV?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "49.95",
       "deal": "Limited time deal",
-      "reviews": 24938
+      "reviews": 41237,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H8YKLSF6",
+      "name": "AOC 2.4GHz Wireless Gaming Headsets",
+      "pct": 33,
+      "rating": 4.2,
+      "t": 1793027318,
+      "img": "https://m.media-amazon.com/images/I/71iF3iXT3lL.jpg",
+      "link": "https://www.amazon.com/dp/B0H8YKLSF6?tag=zoepicks00-20",
+      "now": "39.98",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 37,
+      "tier": "premium"
      }
     ]
    },
@@ -1657,6 +1639,11 @@
    {
     "key": "kindle-case",
     "label": "Kindle Case",
+    "items": []
+   },
+   {
+    "key": "printers",
+    "label": "Printers",
     "items": []
    }
   ],
@@ -2087,16 +2074,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0FG84PFWS",
-      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
-      "pct": 28,
-      "rating": 4.5,
-      "t": 1792980506,
-      "img": "https://m.media-amazon.com/images/I/7157cK3TIsL.jpg",
-      "link": "https://www.amazon.com/dp/B0FG84PFWS?tag=zoepicks00-20",
-      "now": "50.53",
-      "was": "69.99",
-      "reviews": 1504,
+      "asin": "B0FZK9CM37",
+      "name": "ALLSWIFIT Men's Road Running Shoes Cushioned Sneakers",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793029457,
+      "img": "https://m.media-amazon.com/images/I/71WENkoe3qL.jpg",
+      "link": "https://www.amazon.com/dp/B0FZK9CM37?tag=zoepicks00-20",
+      "now": "59.98",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 480,
       "tier": "premium"
      }
     ]
