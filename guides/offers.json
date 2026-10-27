@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-27T15:22:12Z",
+ "updated": "2026-10-27T19:03:59Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -57,7 +57,7 @@
     "name": "Hugo Boss Bottled Deodorant Stick",
     "pct": 30,
     "rating": 4.4,
-    "t": 1793097176,
+    "t": 1793123897,
     "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
     "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
     "now": "22.40",
@@ -123,13 +123,15 @@
   ],
   "fashion": [
    {
-    "asin": "B0BYNYWKC7",
-    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
-    "pct": 61,
-    "rating": 4.5,
-    "t": 1793080584,
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
-    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
+    "asin": "B0FVKGBGC9",
+    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
+    "pct": 65,
+    "rating": 4.3,
+    "t": 1793123895,
+    "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
+    "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
+    "now": "17.30",
+    "was": "49.99",
     "reviews": 0,
     "tier": "budget"
    },
@@ -530,16 +532,14 @@
     "tier": "budget"
    },
    {
-    "asin": "B0DSVX8ZP1",
-    "name": "Rosamo 5 Piece Expandable Luggage Set",
-    "pct": 29,
-    "rating": 4.6,
-    "t": 1792993840,
-    "img": "https://m.media-amazon.com/images/I/71X4fBZMiAL.jpg",
-    "link": "https://www.amazon.com/dp/B0DSVX8ZP1?tag=zoepicks00-20",
-    "now": "99.98",
-    "was": "139.99",
-    "reviews": 1405,
+    "asin": "B0GL1SF4GH",
+    "name": "[𝟑𝟓-𝐌𝐢𝐧 𝟏𝟕𝟎𝟎°𝐅] Fireproof Safe",
+    "pct": 17,
+    "rating": 4.3,
+    "t": 1793081171,
+    "img": "https://m.media-amazon.com/images/I/81555bLj3CL.jpg",
+    "link": "https://www.amazon.com/dp/B0GL1SF4GH?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -577,7 +577,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1793097176,
+    "t": 1793123897,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -736,12 +736,11 @@
       "name": "USB Flash Drive for iPhone/iPad",
       "pct": 19,
       "rating": 4.4,
-      "t": 1793031693,
+      "t": 1793122998,
       "img": "https://m.media-amazon.com/images/I/71Nnh3MIMGL.jpg",
       "link": "https://www.amazon.com/dp/B0GS97CJBH?tag=zoepicks00-20",
       "now": "29.98",
       "was": "36.99",
-      "deal": "Limited time deal",
       "reviews": 2970,
       "tier": "mid"
      },
@@ -935,7 +934,7 @@
       "name": "Australian Gold Body Lotion Sunscreen SPF 15",
       "pct": 29,
       "rating": 4.7,
-      "t": 1793097175,
+      "t": 1793123896,
       "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
       "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
       "now": "15.40",
@@ -1183,7 +1182,7 @@
       "name": "Hugo Boss Bottled Deodorant Stick",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793097176,
+      "t": 1793123897,
       "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
       "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
       "now": "22.40",
@@ -1383,6 +1382,18 @@
     "label": "Noise Cancelling Headphones",
     "items": [
      {
+      "asin": "B0DY8TS92J",
+      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
+      "pct": 51,
+      "rating": 4.3,
+      "t": 1793122049,
+      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
+      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
+      "now": "88.00",
+      "was": "179.99",
+      "reviews": 17188
+     },
+     {
       "asin": "B01H6GUCCQ",
       "name": "BENGOO G9000 Stereo Gaming Headset",
       "pct": 31,
@@ -1393,36 +1404,7 @@
       "now": "19.95",
       "was": "28.99",
       "deal": "Limited time deal",
-      "reviews": 122421,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FNWCYLZN",
-      "name": "soundcore P31i by Anker Translation Earbuds",
-      "pct": 45,
-      "rating": 4.4,
-      "t": 1793029187,
-      "img": "https://m.media-amazon.com/images/I/71fEWG6n4aL.jpg",
-      "link": "https://www.amazon.com/dp/B0FNWCYLZN?tag=zoepicks00-20",
-      "now": "32.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 10757,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DY8TS92J",
-      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
-      "pct": 51,
-      "rating": 4.3,
-      "t": 1793029187,
-      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
-      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
-      "now": "88.00",
-      "was": "179.99",
-      "deal": "Limited time deal",
-      "reviews": 17188,
-      "tier": "premium"
+      "reviews": 122421
      }
     ]
    },
@@ -1649,6 +1631,51 @@
   ],
   "fashion": [
    {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0FVKGBGC9",
+      "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
+      "pct": 65,
+      "rating": 4.3,
+      "t": 1793123895,
+      "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
+      "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
+      "now": "17.30",
+      "was": "49.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DT1JKSJ1",
+      "name": "Under Armour Kids Charged Assert 11",
+      "pct": 41,
+      "rating": 4.7,
+      "t": 1793125165,
+      "img": "https://m.media-amazon.com/images/I/514kvM6OPfL.jpg",
+      "link": "https://www.amazon.com/dp/B0DT1JKSJ1?tag=zoepicks00-20",
+      "now": "31.94",
+      "was": "60.00",
+      "reviews": 431,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BRXCX97S",
+      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793079919,
+      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
+      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "59.99",
+      "reviews": 3388,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -1706,6 +1733,17 @@
       "tier": "budget"
      },
      {
+      "asin": "B00JUM2VAQ",
+      "name": "Hanes Men's Hoodie",
+      "pct": 52,
+      "rating": 4.5,
+      "t": 1793081131,
+      "img": "https://m.media-amazon.com/images/I/71ZMHOmk2WL.jpg",
+      "link": "https://www.amazon.com/dp/B00JUM2VAQ?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
       "asin": "B0C7ZBLYJJ",
       "name": "Aemicion Wearable Blanket Hoodie",
       "pct": 50,
@@ -1713,19 +1751,6 @@
       "t": 1793081149,
       "img": "https://m.media-amazon.com/images/I/71SLeuk7AWL.jpg",
       "link": "https://www.amazon.com/dp/B0C7ZBLYJJ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GYSB14KT",
-      "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1793097178,
-      "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYSB14KT?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
       "reviews": 0,
       "tier": "premium"
      }
@@ -1819,53 +1844,6 @@
       "now": "19.99",
       "was": "24.99",
       "reviews": 14897,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
-    "items": [
-     {
-      "asin": "B0GFW8NHPJ",
-      "name": "Zorfe Womens Walking Shoes Comfortable: Breathable Mesh…",
-      "pct": 50,
-      "rating": 4.2,
-      "t": 1792993351,
-      "img": "https://m.media-amazon.com/images/I/51W3BqGdELL.jpg",
-      "link": "https://www.amazon.com/dp/B0GFW8NHPJ?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "29.99",
-      "reviews": 65,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DNYVP8R8",
-      "name": "Womens Walking Shoes Comfortable Wide Diabetic Shoes…",
-      "pct": 41,
-      "rating": 4.2,
-      "t": 1793033362,
-      "img": "https://m.media-amazon.com/images/I/7117wPkgW2L.jpg",
-      "link": "https://www.amazon.com/dp/B0DNYVP8R8?tag=zoepicks00-20",
-      "now": "21.71",
-      "was": "36.99",
-      "deal": "Limited time deal",
-      "reviews": 4199,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FX8BKGKX",
-      "name": "ALLSWIFIT Women's Slip On Walking Shoes Running Sneakers",
-      "pct": 22,
-      "rating": 4.5,
-      "t": 1793029457,
-      "img": "https://m.media-amazon.com/images/I/7124Cd2CZcL.jpg",
-      "link": "https://www.amazon.com/dp/B0FX8BKGKX?tag=zoepicks00-20",
-      "now": "54.28",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 1356,
       "tier": "premium"
      }
     ]
@@ -1997,6 +1975,53 @@
     ]
    },
    {
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
+    "items": [
+     {
+      "asin": "B0GBTSRD6G",
+      "name": "WYGRQBN Boys Tennis Sneakers Running Sports Shoes Kids'…",
+      "pct": 37,
+      "rating": 4.0,
+      "t": 1793097179,
+      "img": "https://m.media-amazon.com/images/I/61fKgJEpN+L.jpg",
+      "link": "https://www.amazon.com/dp/B0GBTSRD6G?tag=zoepicks00-20",
+      "now": "16.99",
+      "was": "26.99",
+      "reviews": 63,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DNYVP8R8",
+      "name": "Womens Walking Shoes Comfortable Wide Diabetic Shoes…",
+      "pct": 41,
+      "rating": 4.2,
+      "t": 1793033362,
+      "img": "https://m.media-amazon.com/images/I/7117wPkgW2L.jpg",
+      "link": "https://www.amazon.com/dp/B0DNYVP8R8?tag=zoepicks00-20",
+      "now": "21.71",
+      "was": "36.99",
+      "deal": "Limited time deal",
+      "reviews": 4199,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FX8BKGKX",
+      "name": "ALLSWIFIT Women's Slip On Walking Shoes Running Sneakers",
+      "pct": 22,
+      "rating": 4.5,
+      "t": 1793029457,
+      "img": "https://m.media-amazon.com/images/I/7124Cd2CZcL.jpg",
+      "link": "https://www.amazon.com/dp/B0FX8BKGKX?tag=zoepicks00-20",
+      "now": "54.28",
+      "was": "69.99",
+      "deal": "Limited time deal",
+      "reviews": 1356,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "polo-shirt",
     "label": "Polo Shirt",
     "items": [
@@ -2039,52 +2064,6 @@
       "was": "35.99",
       "deal": "Limited time deal",
       "reviews": 22092,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0GBTSRD6G",
-      "name": "WYGRQBN Boys Tennis Sneakers Running Sports Shoes Kids'…",
-      "pct": 37,
-      "rating": 4.0,
-      "t": 1793097179,
-      "img": "https://m.media-amazon.com/images/I/61fKgJEpN+L.jpg",
-      "link": "https://www.amazon.com/dp/B0GBTSRD6G?tag=zoepicks00-20",
-      "now": "16.99",
-      "was": "26.99",
-      "reviews": 63,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0BRXCX97S",
-      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1793079919,
-      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
-      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
-      "now": "41.99",
-      "was": "59.99",
-      "reviews": 3388,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FZK9CM37",
-      "name": "ALLSWIFIT Men's Road Running Shoes Cushioned Sneakers",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1793029457,
-      "img": "https://m.media-amazon.com/images/I/71WENkoe3qL.jpg",
-      "link": "https://www.amazon.com/dp/B0FZK9CM37?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 480,
       "tier": "premium"
      }
     ]
@@ -2386,16 +2365,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B0C3C546ND",
-      "name": "BJPKPK 57oz Insulated Water Bottle",
-      "pct": 27,
-      "rating": 4.3,
-      "t": 1793102136,
-      "img": "https://m.media-amazon.com/images/I/714smBa9TuL.jpg",
-      "link": "https://www.amazon.com/dp/B0C3C546ND?tag=zoepicks00-20",
-      "now": "15.29",
-      "was": "20.99",
-      "reviews": 2712,
+      "asin": "B0G4CB4LLH",
+      "name": "18 oz Insulated Water Bottle",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1793124899,
+      "img": "https://m.media-amazon.com/images/I/61Gthe-38oL.jpg",
+      "link": "https://www.amazon.com/dp/B0G4CB4LLH?tag=zoepicks00-20",
+      "now": "13.99",
+      "was": "19.99",
+      "reviews": 259,
       "tier": "mid"
      },
      {
@@ -2880,8 +2859,7 @@
       "now": "19.95",
       "was": "28.99",
       "deal": "Limited time deal",
-      "reviews": 122421,
-      "tier": "budget"
+      "reviews": 122421
      },
      {
       "asin": "B0CJH8PSBS",
@@ -4358,25 +4336,6 @@
   ],
   "other": [
    {
-    "key": "luggage-sets",
-    "label": "Luggage Sets",
-    "items": [
-     {
-      "asin": "B0DSVX8ZP1",
-      "name": "Rosamo 5 Piece Expandable Luggage Set",
-      "pct": 29,
-      "rating": 4.6,
-      "t": 1792993840,
-      "img": "https://m.media-amazon.com/images/I/71X4fBZMiAL.jpg",
-      "link": "https://www.amazon.com/dp/B0DSVX8ZP1?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
-      "reviews": 1405,
-      "tier": "mid"
-     }
-    ]
-   },
-   {
     "key": "micellar-water",
     "label": "Micellar Water",
     "items": [
@@ -4531,6 +4490,11 @@
     "items": []
    },
    {
+    "key": "luggage-sets",
+    "label": "Luggage Sets",
+    "items": []
+   },
+   {
     "key": "nail-polish",
     "label": "Nail Polish",
     "items": []
@@ -4570,7 +4534,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793097176,
+      "t": 1793123897,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
