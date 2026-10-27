@@ -3097,5 +3097,80 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Facial Serum (2026)",
+  "slug": "best-facial-serum-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Makeup Brush Set (2026)",
+  "slug": "best-makeup-brush-set-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Vrr Monitor (2026)",
+  "slug": "best-vrr-monitor-2026",
+  "category": "monitors",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-monitors-under-200-2026",
+  "tab": "vrr",
+  "tab_label": "Vrr"
+ },
+ {
+  "title": "Best Beanie Hat (2026)",
+  "slug": "best-beanie-hat-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Waterproof Tv (2026)",
+  "slug": "best-waterproof-tv-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vhs-tv-2026",
+  "tab": "waterproof",
+  "tab_label": "Waterproof"
+ },
+ {
+  "title": "Best Over-Bed Desk (2026)",
+  "slug": "best-over-bed-desk-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-standing-desks-2026",
+  "tab": "over-bed",
+  "tab_label": "Over Bed"
+ },
+ {
+  "title": "Best Launch Monitor (2026)",
+  "slug": "best-launch-monitor-2026",
+  "category": "monitors",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-monitors-under-200-2026",
+  "tab": "launch",
+  "tab_label": "Launch"
  }
 ]
