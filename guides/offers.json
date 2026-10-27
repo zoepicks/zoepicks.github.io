@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-27T02:33:38Z",
+ "updated": "2026-10-27T03:32:12Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -55,7 +55,7 @@
     "name": "Hugo Boss Bottled Deodorant Stick",
     "pct": 30,
     "rating": 4.4,
-    "t": 1793068181,
+    "t": 1793070768,
     "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
     "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
     "now": "22.40",
@@ -588,7 +588,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1793068180,
+    "t": 1793070767,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -1039,6 +1039,19 @@
     "label": "Sunscreen",
     "items": [
      {
+      "asin": "B088PR7PBK",
+      "name": "Australian Gold Body Lotion Sunscreen SPF 15",
+      "pct": 29,
+      "rating": 4.7,
+      "t": 1793070766,
+      "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
+      "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
+      "now": "15.40",
+      "was": "21.54",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0DKJ3BX2F",
       "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
       "pct": 39,
@@ -1049,7 +1062,8 @@
       "now": "16.99",
       "was": "28.00",
       "deal": "Limited time deal",
-      "reviews": 6240
+      "reviews": 6240,
+      "tier": "mid"
      },
      {
       "asin": "B0CVJ8M4ZQ",
@@ -1062,7 +1076,8 @@
       "now": "33.75",
       "was": "45.00",
       "deal": "Limited time deal",
-      "reviews": 1720
+      "reviews": 1720,
+      "tier": "premium"
      }
     ]
    },
@@ -1295,7 +1310,7 @@
       "name": "Hugo Boss Bottled Deodorant Stick",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793068181,
+      "t": 1793070768,
       "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
       "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
       "now": "22.40",
@@ -2084,12 +2099,13 @@
       "name": "Hanes Men's EcoSmart Sweatpants",
       "pct": 46,
       "rating": 4.4,
-      "t": 1792941024,
+      "t": 1793026961,
       "img": "https://m.media-amazon.com/images/I/61trccDbwQL.jpg",
       "link": "https://www.amazon.com/dp/B06XCQSPKL?tag=zoepicks00-20",
       "now": "11.88",
       "was": "22.00",
-      "reviews": 64726,
+      "deal": "Limited time deal",
+      "reviews": 64731,
       "tier": "budget"
      },
      {
@@ -4196,17 +4212,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HG8ZHBWN",
-      "name": "FANY Luna Smart Watch",
-      "pct": 62,
-      "rating": 4.9,
+      "asin": "B0HDPTPFFP",
+      "name": "Smart Watch for Women",
+      "pct": 64,
+      "rating": 4.6,
       "t": 1793027821,
-      "img": "https://m.media-amazon.com/images/I/61XzHxm5qDL.jpg",
-      "link": "https://www.amazon.com/dp/B0HG8ZHBWN?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "129.99",
+      "img": "https://m.media-amazon.com/images/I/81JYK8OzmWL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDPTPFFP?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 25,
+      "reviews": 37,
       "tier": "premium"
      }
     ]
@@ -4936,7 +4952,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793068180,
+      "t": 1793070767,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
