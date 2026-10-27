@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-27T11:21:37Z",
+ "updated": "2026-10-27T13:21:59Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1635,24 +1635,6 @@
     ]
    },
    {
-    "key": "e-readers",
-    "label": "E Readers",
-    "items": [
-     {
-      "asin": "B0H8SZ945Y",
-      "name": "XTEINK X4 Classic Pocket eReader",
-      "pct": 11,
-      "rating": 4.0,
-      "t": 1792976103,
-      "img": "https://m.media-amazon.com/images/I/61XA5ESbDrL.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
-      "now": "79.00",
-      "was": "89.00",
-      "reviews": 74
-     }
-    ]
-   },
-   {
     "key": "street-photography-camera",
     "label": "Street Photography Camera",
     "items": []
@@ -1665,6 +1647,11 @@
    {
     "key": "cameras-beginners",
     "label": "Cameras Beginners",
+    "items": []
+   },
+   {
+    "key": "e-readers",
+    "label": "E Readers",
     "items": []
    },
    {
@@ -1839,12 +1826,11 @@
       "name": "fenglaoda 8 Pairs Compression Socks",
       "pct": 20,
       "rating": 4.5,
-      "t": 1793026961,
+      "t": 1793103532,
       "img": "https://m.media-amazon.com/images/I/91kUo1I8jGL.jpg",
       "link": "https://www.amazon.com/dp/B0BC3F17K8?tag=zoepicks00-20",
       "now": "19.99",
       "was": "24.99",
-      "deal": "Limited time deal",
       "reviews": 14897,
       "tier": "premium"
      }
@@ -1882,17 +1868,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0FG2JRQJQ",
-      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
-      "pct": 24,
+      "asin": "B0FX8BKGKX",
+      "name": "ALLSWIFIT Women's Slip On Walking Shoes Running Sneakers",
+      "pct": 22,
       "rating": 4.5,
       "t": 1793029457,
-      "img": "https://m.media-amazon.com/images/I/71ty8NUWlaL.jpg",
-      "link": "https://www.amazon.com/dp/B0FG2JRQJQ?tag=zoepicks00-20",
-      "now": "53.19",
+      "img": "https://m.media-amazon.com/images/I/7124Cd2CZcL.jpg",
+      "link": "https://www.amazon.com/dp/B0FX8BKGKX?tag=zoepicks00-20",
+      "now": "54.28",
       "was": "69.99",
       "deal": "Limited time deal",
-      "reviews": 1517,
+      "reviews": 1356,
       "tier": "premium"
      }
     ]
@@ -2000,12 +1986,11 @@
       "name": "Taygeer Travel Backpack",
       "pct": 36,
       "rating": 4.7,
-      "t": 1793027731,
+      "t": 1793103520,
       "img": "https://m.media-amazon.com/images/I/71K30PIVQmL.jpg",
       "link": "https://www.amazon.com/dp/B09MQWWP87?tag=zoepicks00-20",
       "now": "18.99",
       "was": "29.87",
-      "deal": "Limited time deal",
       "reviews": 31263,
       "tier": "mid"
      },
@@ -2014,33 +1999,13 @@
       "name": "Taygeer Travel Laptop Backpack",
       "pct": 40,
       "rating": 4.7,
-      "t": 1793026961,
+      "t": 1793103514,
       "img": "https://m.media-amazon.com/images/I/61mBPzS4IeL.jpg",
       "link": "https://www.amazon.com/dp/B0CR9JFD7S?tag=zoepicks00-20",
       "now": "23.98",
       "was": "39.99",
-      "deal": "Limited time deal",
       "reviews": 31263,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "winter-coats",
-    "label": "Winter Coats",
-    "items": [
-     {
-      "asin": "B0BMG2FW2H",
-      "name": "MAGCOMSEN Men's Corduroy Jacket Winter Sherpa Lined Warm…",
-      "pct": 44,
-      "rating": 4.6,
-      "t": 1793026961,
-      "img": "https://m.media-amazon.com/images/I/91BE2zANDBL.jpg",
-      "link": "https://www.amazon.com/dp/B0BMG2FW2H?tag=zoepicks00-20",
-      "now": "55.97",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 1103
      }
     ]
    },
@@ -2231,6 +2196,11 @@
     "key": "rain-jackets",
     "label": "Rain Jackets",
     "items": []
+   },
+   {
+    "key": "winter-coats",
+    "label": "Winter Coats",
+    "items": []
    }
   ],
   "fitness_outdoor": [
@@ -2268,12 +2238,11 @@
       "name": "FanttikOutdoor Alpha C4 Ultra Camping Tent 4 Person Pop Up…",
       "pct": 30,
       "rating": 4.6,
-      "t": 1793031660,
+      "t": 1793103062,
       "img": "https://m.media-amazon.com/images/I/61AUqDgCBmL.jpg",
       "link": "https://www.amazon.com/dp/B0D2W12RYZ?tag=zoepicks00-20",
       "now": "195.98",
       "was": "279.99",
-      "deal": "Limited time deal",
       "reviews": 524,
       "tier": "premium"
      }
@@ -2310,12 +2279,11 @@
       "name": "NORTIV 8 Men's Wide Toe Box Hiking Boots",
       "pct": 25,
       "rating": 4.3,
-      "t": 1793033515,
+      "t": 1793103050,
       "img": "https://m.media-amazon.com/images/I/81aV-eQlq2L.jpg",
       "link": "https://www.amazon.com/dp/B0FGCG54XZ?tag=zoepicks00-20",
       "now": "59.98",
       "was": "79.99",
-      "deal": "Limited time deal",
       "reviews": 789,
       "tier": "premium"
      }
@@ -2377,12 +2345,11 @@
       "name": "TONBUX Kids Scooter",
       "pct": 20,
       "rating": 4.6,
-      "t": 1793029326,
+      "t": 1793102123,
       "img": "https://m.media-amazon.com/images/I/51iDYJJ1JvL.jpg",
       "link": "https://www.amazon.com/dp/B08T8RY9VK?tag=zoepicks00-20",
       "now": "63.99",
       "was": "79.99",
-      "deal": "Limited time deal",
       "reviews": 2518,
       "tier": "budget"
      },
@@ -2435,7 +2402,7 @@
       "name": "BJPKPK 57oz Insulated Water Bottle",
       "pct": 27,
       "rating": 4.3,
-      "t": 1793029660,
+      "t": 1793102136,
       "img": "https://m.media-amazon.com/images/I/714smBa9TuL.jpg",
       "link": "https://www.amazon.com/dp/B0C3C546ND?tag=zoepicks00-20",
       "now": "15.29",
@@ -2448,12 +2415,11 @@
       "name": "64 oz Insulated Water Bottle",
       "pct": 25,
       "rating": 4.5,
-      "t": 1793029660,
+      "t": 1793102129,
       "img": "https://m.media-amazon.com/images/I/7193-z52ZxL.jpg",
       "link": "https://www.amazon.com/dp/B0DJ72VTXT?tag=zoepicks00-20",
       "now": "29.98",
       "was": "39.99",
-      "deal": "Limited time deal",
       "reviews": 1088,
       "tier": "premium"
      }
@@ -2530,12 +2496,11 @@
       "name": "Goimu Exercise Bike",
       "pct": 21,
       "rating": 4.4,
-      "t": 1793029604,
+      "t": 1793102112,
       "img": "https://m.media-amazon.com/images/I/71uvECItqgL.jpg",
       "link": "https://www.amazon.com/dp/B0DPX2C681?tag=zoepicks00-20",
       "now": "125.98",
       "was": "159.99",
-      "deal": "Limited time deal",
       "reviews": 1500,
       "tier": "mid"
      },
@@ -3607,12 +3572,13 @@
       "name": "SNOWCLAD Stainless Steel Cutting Board,Non Toxic chopping",
       "pct": 33,
       "rating": 4.4,
-      "t": 1792975259,
+      "t": 1793027565,
       "img": "https://m.media-amazon.com/images/I/71HUymfqQJL.jpg",
       "link": "https://www.amazon.com/dp/B0D7CZ9Y7D?tag=zoepicks00-20",
       "now": "19.98",
       "was": "29.99",
-      "reviews": 4957,
+      "deal": "Limited time deal",
+      "reviews": 4961,
       "tier": "premium"
      }
     ]
@@ -3680,51 +3646,6 @@
       "was": "109.99",
       "deal": "Limited time deal",
       "reviews": 45397,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "waffle-maker",
-    "label": "Waffle Maker",
-    "items": [
-     {
-      "asin": "B09YKYQKCL",
-      "name": "Dash Multi Mini Waffle Maker",
-      "pct": 20,
-      "rating": 4.6,
-      "t": 1792974338,
-      "img": "https://m.media-amazon.com/images/I/81rVOnM7B+L.jpg",
-      "link": "https://www.amazon.com/dp/B09YKYQKCL?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "49.99",
-      "reviews": 8571,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08ML7J5SG",
-      "name": "Dash No-Drip Waffle Maker",
-      "pct": 16,
-      "rating": 4.6,
-      "t": 1792974331,
-      "img": "https://m.media-amazon.com/images/I/71nnqZZLLfL.jpg",
-      "link": "https://www.amazon.com/dp/B08ML7J5SG?tag=zoepicks00-20",
-      "now": "41.99",
-      "was": "49.99",
-      "reviews": 8298,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H6BHRSJL",
-      "name": "Waffle Maker, 8 Browning Levels Smart LED Digital Timer",
-      "pct": 29,
-      "rating": 4.2,
-      "t": 1792974323,
-      "img": "https://m.media-amazon.com/images/I/71aX8yqiRFL.jpg",
-      "link": "https://www.amazon.com/dp/B0H6BHRSJL?tag=zoepicks00-20",
-      "now": "49.69",
-      "was": "69.99",
-      "reviews": 53,
       "tier": "premium"
      }
     ]
@@ -3899,6 +3820,11 @@
    {
     "key": "steam-mop",
     "label": "Steam Mop",
+    "items": []
+   },
+   {
+    "key": "waffle-maker",
+    "label": "Waffle Maker",
     "items": []
    },
    {
@@ -4602,24 +4528,6 @@
     ]
    },
    {
-    "key": "imac",
-    "label": "Imac",
-    "items": [
-     {
-      "asin": "B0DL6SHMFH",
-      "name": "Apple 2024 iMac All-in-One Desktop Computer",
-      "pct": 5,
-      "rating": 4.7,
-      "t": 1792975946,
-      "img": "https://m.media-amazon.com/images/I/71KCBVOSvzL.jpg",
-      "link": "https://www.amazon.com/dp/B0DL6SHMFH?tag=zoepicks00-20",
-      "now": "1,614.00",
-      "was": "1,699.00",
-      "reviews": 247
-     }
-    ]
-   },
-   {
     "key": "usb-c-charger",
     "label": "USB C Charger",
     "items": []
@@ -4642,6 +4550,11 @@
    {
     "key": "stuffed-animal",
     "label": "Stuffed Animal",
+    "items": []
+   },
+   {
+    "key": "imac",
+    "label": "Imac",
     "items": []
    }
   ],
