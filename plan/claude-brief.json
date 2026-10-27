@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-27T00:30:48.643956+00:00",
+ "generated_at": "2026-10-27T12:47:27.315818+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,9 +10,9 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 26
+   "low": 28
   },
-  "avg_guide_words": 948,
+  "avg_guide_words": 946,
   "todo": [
    {
     "sev": "high",
@@ -51,14 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 5,
+    "count": 7,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-iphone-vs-ipad-pro-2026/",
-     "/g/best-cat-litter-2026/",
-     "/g/best-pc-controllers-2026/"
+     "/g/best-laptop-stands-2026/",
+     "/g/best-webcams-2026/",
+     "/g/best-ultrawide-monitors-2026/"
     ],
-    "detail": "load 3.2s"
+    "detail": "load 3.8s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-26T10:40:51.690285+00:00",
+    "t": "2026-10-27T06:41:36.200385+00:00",
     "indexnow": {
-     "submitted": 2,
+     "submitted": 9,
      "http": 200
     }
    },
    {
-    "t": "2026-10-26T13:44:36.161538+00:00",
-    "indexnow": {
-     "submitted": 1,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-27T00:12:06.350106+00:00",
+    "t": "2026-10-27T09:45:53.418193+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-27T12:47:20.711709+00:00",
+    "indexnow": {
+     "submitted": 2,
+     "http": 200
     }
    }
   ]
@@ -103,12 +103,6 @@
   "total_views": 854,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-20",
-    "visitors": 6,
-    "views": 22,
-    "clicks": 0
-   },
    {
     "day": "2026-10-21",
     "visitors": 4,
@@ -144,56 +138,86 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-10-27",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 20,
-   "warn": 1,
+   "info": 72,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 210,
-   "warn": 12,
+   "info": 219,
+   "warn": 11,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 12
+    "warnings": 11
    }
   ],
   "collector": {
    "today": {
-    "total": 6,
-    "ok": 4,
+    "total": 2,
+    "ok": 0,
     "failed": 2,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 159,
-      "at": "2026-10-27T00:13:50Z",
+      "run": 166,
+      "at": "2026-10-27T09:27:14Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40425050331"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40480887045"
      },
      {
-      "run": 158,
-      "at": "2026-10-27T00:13:23Z",
+      "run": 165,
+      "at": "2026-10-27T05:00:54Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40425002301"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40452899130"
      }
     ]
    },
    "last7d": {
-    "total": 88,
-    "ok": 72,
-    "failed": 7,
-    "cancelled": 9,
+    "total": 73,
+    "ok": 64,
+    "failed": 8,
+    "cancelled": 1,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 166,
+      "at": "2026-10-27T09:27:14Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40480887045"
+     },
+     {
+      "run": 165,
+      "at": "2026-10-27T05:00:54Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40452899130"
+     },
+     {
+      "run": 161,
+      "at": "2026-10-27T01:14:14Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40431369843"
+     },
+     {
+      "run": 160,
+      "at": "2026-10-27T00:43:59Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40428254795"
+     },
      {
       "run": 159,
       "at": "2026-10-27T00:13:50Z",
@@ -217,43 +241,18 @@
       "at": "2026-10-21T14:48:05Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39620038609"
-     },
-     {
-      "run": 86,
-      "at": "2026-10-20T18:46:26Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39477672005"
-     },
-     {
-      "run": 85,
-      "at": "2026-10-20T18:33:00Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39475713442"
-     },
-     {
-      "run": 82,
-      "at": "2026-10-20T16:14:43Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/39455712062"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 129,
-    "ok": 128,
-    "failed": 1,
+    "total": 85,
+    "ok": 85,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 1622,
-      "at": "2026-10-26T10:58:03Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40311477756"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
@@ -317,48 +316,88 @@
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "open": 120,
-   "queued": 22,
-   "built": 40,
-   "covered": 18
+   "queued": 34,
+   "open": 114,
+   "covered": 16,
+   "built": 36
   },
   "missing_new": {
-   "today": 3,
-   "d7": 167,
+   "today": 4,
+   "d7": 169,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "mugler perfume",
+    "topic": "tennis racket",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793023383",
-    "last_at": "1793023383"
+    "first_at": "1793100256",
+    "last_at": "1793100256"
    },
    {
-    "topic": "kobo case",
+    "topic": "large television",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793014016",
-    "last_at": "1793014016"
+    "first_at": "1793099027",
+    "last_at": "1793099027"
    },
    {
-    "topic": "white refrigerator",
+    "topic": "air tag",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792983797",
-    "last_at": "1792983797"
+    "first_at": "1793077553",
+    "last_at": "1793077553"
    },
    {
-    "topic": "110cc bike",
+    "topic": "small aquarium",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1792982018",
-    "last_at": "1792982018"
+    "first_at": "1793075618",
+    "last_at": "1793075618"
+   },
+   {
+    "topic": "portable charger",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793068979",
+    "last_at": "1793071873"
+   },
+   {
+    "topic": "high quality router",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793070896",
+    "last_at": "1793071193"
+   },
+   {
+    "topic": "bottega voyager bag",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793070250",
+    "last_at": "1793070250"
+   },
+   {
+    "topic": "laptop stickers",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793065870",
+    "last_at": "1793065870"
+   },
+   {
+    "topic": "tea kettle",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793065773",
+    "last_at": "1793065773"
    },
    {
     "topic": "automatic chicken coop door",
@@ -367,46 +406,6 @@
     "status": "open",
     "first_at": "1792981546",
     "last_at": "1792981546"
-   },
-   {
-    "topic": "infant car seat stroller",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792976137",
-    "last_at": "1792976137"
-   },
-   {
-    "topic": "wrist brace",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792976100",
-    "last_at": "1792976100"
-   },
-   {
-    "topic": "2 seater sofa",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792971531",
-    "last_at": "1792971531"
-   },
-   {
-    "topic": "colorful bath towels",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792968686",
-    "last_at": "1792968686"
-   },
-   {
-    "topic": "observatory dome motor",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792967882",
-    "last_at": "1792967882"
    }
   ]
  },
@@ -708,8 +707,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
