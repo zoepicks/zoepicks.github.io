@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-27T09:21:27Z",
+ "updated": "2026-10-27T11:21:37Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -53,17 +53,16 @@
     "tier": "budget"
    },
    {
-    "asin": "B09B2Q7KRB",
-    "name": "REVLON One-Step Root Booster Round Brush Hair Dryer and…",
+    "asin": "B001BQXPBS",
+    "name": "Hugo Boss Bottled Deodorant Stick",
     "pct": 30,
-    "rating": 4.2,
-    "t": 1793028606,
-    "img": "https://m.media-amazon.com/images/I/61BBeoP1+wL.jpg",
-    "link": "https://www.amazon.com/dp/B09B2Q7KRB?tag=zoepicks00-20",
-    "now": "38.49",
-    "was": "54.99",
-    "deal": "Limited time deal",
-    "reviews": 12334,
+    "rating": 4.4,
+    "t": 1793097176,
+    "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
+    "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
+    "now": "22.40",
+    "was": "32.00",
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -124,15 +123,13 @@
   ],
   "fashion": [
    {
-    "asin": "B0FVKGBGC9",
-    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-    "pct": 65,
-    "rating": 4.3,
-    "t": 1793081183,
-    "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-    "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-    "now": "17.30",
-    "was": "49.99",
+    "asin": "B0BYNYWKC7",
+    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
+    "pct": 61,
+    "rating": 4.5,
+    "t": 1793080584,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
+    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
    },
@@ -580,7 +577,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1793081185,
+    "t": 1793097176,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -934,6 +931,19 @@
     "label": "Sunscreen",
     "items": [
      {
+      "asin": "B088PR7PBK",
+      "name": "Australian Gold Body Lotion Sunscreen SPF 15",
+      "pct": 29,
+      "rating": 4.7,
+      "t": 1793097175,
+      "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
+      "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
+      "now": "15.40",
+      "was": "21.54",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0DKJ3BX2F",
       "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
       "pct": 39,
@@ -941,7 +951,8 @@
       "t": 1793080235,
       "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
       "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
      },
      {
       "asin": "B0CVJ8M4ZQ",
@@ -954,7 +965,8 @@
       "now": "33.75",
       "was": "45.00",
       "deal": "Limited time deal",
-      "reviews": 1720
+      "reviews": 1720,
+      "tier": "premium"
      }
     ]
    },
@@ -1066,8 +1078,7 @@
       "now": "38.49",
       "was": "54.99",
       "deal": "Limited time deal",
-      "reviews": 12334,
-      "tier": "mid"
+      "reviews": 12334
      },
      {
       "asin": "B003FBG88E",
@@ -1172,7 +1183,7 @@
       "name": "Hugo Boss Bottled Deodorant Stick",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793081186,
+      "t": 1793097176,
       "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
       "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
       "now": "22.40",
@@ -1664,51 +1675,6 @@
   ],
   "fashion": [
    {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0FVKGBGC9",
-      "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-      "pct": 65,
-      "rating": 4.3,
-      "t": 1793081183,
-      "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-      "now": "17.30",
-      "was": "49.99",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F4GRQ3WW",
-      "name": "New Balance Kid's 468 Slip On Running Shoe",
-      "pct": 28,
-      "rating": 4.5,
-      "t": 1793005727,
-      "img": "https://m.media-amazon.com/images/I/51ME7gqyXdL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4GRQ3WW?tag=zoepicks00-20",
-      "now": "39.81",
-      "was": "54.99",
-      "reviews": 313,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0BRXCX97S",
-      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1793079919,
-      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
-      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
-      "now": "41.99",
-      "was": "59.99",
-      "reviews": 3388,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -1766,17 +1732,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B00JUM2VAQ",
-      "name": "Hanes Men's Hoodie",
-      "pct": 52,
-      "rating": 4.5,
-      "t": 1793081131,
-      "img": "https://m.media-amazon.com/images/I/71ZMHOmk2WL.jpg",
-      "link": "https://www.amazon.com/dp/B00JUM2VAQ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
       "asin": "B0C7ZBLYJJ",
       "name": "Aemicion Wearable Blanket Hoodie",
       "pct": 50,
@@ -1784,6 +1739,19 @@
       "t": 1793081149,
       "img": "https://m.media-amazon.com/images/I/71SLeuk7AWL.jpg",
       "link": "https://www.amazon.com/dp/B0C7ZBLYJJ?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GYSB14KT",
+      "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793097178,
+      "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
+      "link": "https://www.amazon.com/dp/B0GYSB14KT?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "49.99",
       "reviews": 0,
       "tier": "premium"
      }
@@ -1843,12 +1811,13 @@
       "name": "FITRELL 3 Pairs Compression Socks",
       "pct": 52,
       "rating": 4.4,
-      "t": 1793081184,
+      "t": 1793026961,
       "img": "https://m.media-amazon.com/images/I/71CUmyhYe2L.jpg",
       "link": "https://www.amazon.com/dp/B07VWT4XRG?tag=zoepicks00-20",
       "now": "12.99",
       "was": "26.99",
-      "reviews": 40300,
+      "deal": "Limited time deal",
+      "reviews": 40446,
       "tier": "budget"
      },
      {
@@ -2118,6 +2087,51 @@
       "was": "35.99",
       "deal": "Limited time deal",
       "reviews": 22092,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0GBTSRD6G",
+      "name": "WYGRQBN Boys Tennis Sneakers Running Sports Shoes Kids'…",
+      "pct": 37,
+      "rating": 4.0,
+      "t": 1793097179,
+      "img": "https://m.media-amazon.com/images/I/61fKgJEpN+L.jpg",
+      "link": "https://www.amazon.com/dp/B0GBTSRD6G?tag=zoepicks00-20",
+      "now": "16.99",
+      "was": "26.99",
+      "reviews": 63,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BRXCX97S",
+      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793079919,
+      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
+      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "59.99",
+      "reviews": 3388,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FG84PFWS",
+      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
+      "pct": 28,
+      "rating": 4.5,
+      "t": 1792980506,
+      "img": "https://m.media-amazon.com/images/I/7157cK3TIsL.jpg",
+      "link": "https://www.amazon.com/dp/B0FG84PFWS?tag=zoepicks00-20",
+      "now": "50.53",
+      "was": "69.99",
+      "reviews": 1504,
       "tier": "premium"
      }
     ]
@@ -2863,12 +2877,11 @@
       "name": "SONGMICS Gaming Chair",
       "pct": 25,
       "rating": 4.1,
-      "t": 1793029701,
+      "t": 1793096166,
       "img": "https://m.media-amazon.com/images/I/71gxhz5Mk0L.jpg",
       "link": "https://www.amazon.com/dp/B0H2BR3M6M?tag=zoepicks00-20",
       "now": "89.99",
       "was": "119.99",
-      "deal": "Limited time deal",
       "reviews": 138,
       "tier": "budget"
      },
@@ -3208,7 +3221,7 @@
       "name": "CozyLux Queen Comforter Set",
       "pct": 35,
       "rating": 4.4,
-      "t": 1793033343,
+      "t": 1793096155,
       "img": "https://m.media-amazon.com/images/I/71YmqntoATL.jpg",
       "link": "https://www.amazon.com/dp/B0C5398TC4?tag=zoepicks00-20",
       "now": "21.98",
@@ -3338,12 +3351,11 @@
       "name": "Ninja Nutri-Blender Pro",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793027565,
+      "t": 1793095688,
       "img": "https://m.media-amazon.com/images/I/81zqZV+WSbL.jpg",
       "link": "https://www.amazon.com/dp/B08QXJ31WR?tag=zoepicks00-20",
       "now": "73.99",
       "was": "109.99",
-      "deal": "Limited time deal",
       "reviews": 11893,
       "tier": "premium"
      }
@@ -3402,6 +3414,20 @@
     "label": "Coffee Makers",
     "items": [
      {
+      "asin": "B01N78X92P",
+      "name": "Utopia Kitchen Borosilicate Glass French Press Coffee Maker…",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793027565,
+      "img": "https://m.media-amazon.com/images/I/7106wsUiMQL.jpg",
+      "link": "https://www.amazon.com/dp/B01N78X92P?tag=zoepicks00-20",
+      "now": "14.23",
+      "was": "18.99",
+      "deal": "Limited time deal",
+      "reviews": 11841,
+      "tier": "budget"
+     },
+     {
       "asin": "B0F18JRPKC",
       "name": "Tastyle Single Serve Coffee Maker",
       "pct": 33,
@@ -3413,20 +3439,6 @@
       "was": "89.99",
       "deal": "Limited time deal",
       "reviews": 1762,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GY74JMX3",
-      "name": "AERCANA Espresso Machine 20 Bar",
-      "pct": 38,
-      "rating": 4.5,
-      "t": 1793033380,
-      "img": "https://m.media-amazon.com/images/I/712in44KnCL.jpg",
-      "link": "https://www.amazon.com/dp/B0GY74JMX3?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 146,
       "tier": "mid"
      },
      {
@@ -3530,12 +3542,11 @@
       "name": "CosBed Cervical Neck Pillow",
       "pct": 39,
       "rating": 4.9,
-      "t": 1793033396,
+      "t": 1793095671,
       "img": "https://m.media-amazon.com/images/I/61U6zZQFgiL.jpg",
       "link": "https://www.amazon.com/dp/B0GTCLN8JB?tag=zoepicks00-20",
       "now": "34.99",
       "was": "56.99",
-      "deal": "Limited time deal",
       "reviews": 206,
       "tier": "premium"
      }
@@ -3550,12 +3561,11 @@
       "name": "Ganiza Food Processors",
       "pct": 38,
       "rating": 4.4,
-      "t": 1793027565,
+      "t": 1793095667,
       "img": "https://m.media-amazon.com/images/I/71Au1I+wI6L.jpg",
       "link": "https://www.amazon.com/dp/B0BRMM85HG?tag=zoepicks00-20",
       "now": "34.98",
       "was": "55.99",
-      "deal": "Limited time deal",
       "reviews": 7717
      }
     ]
@@ -4069,17 +4079,17 @@
     "label": "iPhones",
     "items": [
      {
-      "asin": "B0HBPZGLKT",
-      "name": "wedaniya Wireless Mini Microphone",
-      "pct": 29,
-      "rating": 4.3,
-      "t": 1793027407,
-      "img": "https://m.media-amazon.com/images/I/71jTw5DLzNL.jpg",
-      "link": "https://www.amazon.com/dp/B0HBPZGLKT?tag=zoepicks00-20",
-      "now": "21.24",
-      "was": "29.99",
+      "asin": "B0C8CHJLH1",
+      "name": "RUIMEN Smart Watches",
+      "pct": 28,
+      "rating": 4.1,
+      "t": 1793027821,
+      "img": "https://m.media-amazon.com/images/I/61PajHLMflL.jpg",
+      "link": "https://www.amazon.com/dp/B0C8CHJLH1?tag=zoepicks00-20",
+      "now": "25.93",
+      "was": "35.99",
       "deal": "Limited time deal",
-      "reviews": 539,
+      "reviews": 18082,
       "tier": "budget"
      },
      {
@@ -4659,7 +4669,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793081185,
+      "t": 1793097176,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
