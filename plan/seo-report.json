@@ -1,46 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-10-26T10:40:51.690285+00:00",
+ "generated_at": "2026-10-27T00:12:06.350106+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-10-25T13:06:01.364293+00:00",
-   "score": 94,
-   "pages": 211,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 49
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "slow_pagex29",
-    "title_lengthx14",
-    "desc_lengthx6"
-   ],
-   "avg_words": 952,
-   "why": "schedule",
-   "indexnow": 2
-  },
-  {
-   "t": "2026-10-25T16:07:32.803847+00:00",
-   "score": 94,
-   "pages": 213,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 29
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "title_lengthx14",
-    "slow_pagex9",
-    "desc_lengthx6"
-   ],
-   "avg_words": 951,
-   "why": "schedule",
-   "indexnow": 5
-  },
   {
    "t": "2026-10-25T19:26:56.511857+00:00",
    "score": 94,
@@ -154,6 +116,44 @@
    "avg_words": 949,
    "why": "schedule",
    "indexnow": 2
+  },
+  {
+   "t": "2026-10-26T13:44:36.161538+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 58
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "slow_pagex37",
+    "title_lengthx14",
+    "desc_lengthx7"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 1
+  },
+  {
+   "t": "2026-10-27T00:12:06.350106+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 26
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx14",
+    "desc_lengthx7",
+    "slow_pagex5"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
@@ -166,18 +166,6 @@
     "(site)"
    ],
    "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
-  },
-  {
-   "sev": "low",
-   "code": "slow_page",
-   "count": 22,
-   "fix": "Slow pages ki images/HTML size kam karo.",
-   "example": [
-    "/g/best-floor-lamps-2026/",
-    "/g/best-fireproof-safes-2026/",
-    "/g/best-humidifiers-2026/"
-   ],
-   "detail": "load 3.5s"
   },
   {
    "sev": "low",
@@ -202,6 +190,18 @@
     "/g/best-hiking-backpacks-2026/"
    ],
    "detail": "description 40 chars (best 70-170)"
+  },
+  {
+   "sev": "low",
+   "code": "slow_page",
+   "count": 5,
+   "fix": "Slow pages ki images/HTML size kam karo.",
+   "example": [
+    "/g/best-iphone-vs-ipad-pro-2026/",
+    "/g/best-cat-litter-2026/",
+    "/g/best-pc-controllers-2026/"
+   ],
+   "detail": "load 3.2s"
   }
  ],
  "adsense_checklist": {
@@ -216,21 +216,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 43
+  "low": 26
  },
- "avg_guide_words": 949,
+ "avg_guide_words": 948,
  "slowest": [
   {
-   "url": "/g/best-obd2-scanners-2026/",
-   "secs": 4.9
+   "url": "/g/best-nintendo-switch-skin-2026/",
+   "secs": 3.5
   },
   {
-   "url": "/g/best-printers-2026/",
-   "secs": 4.9
+   "url": "/g/best-oled-monitors-2026/",
+   "secs": 3.5
   },
   {
-   "url": "/g/best-laptops-under-1000-2026/",
-   "secs": 4.9
+   "url": "/g/best-iphone-vs-ipad-pro-2026/",
+   "secs": 3.2
   }
  ],
  "broken_links": [],
@@ -294,7 +294,7 @@
    "s": 200,
    "t": 35,
    "d": 72,
-   "w": 714,
+   "w": 718,
    "i": 0,
    "h": "b7941b09fd"
   },
@@ -430,7 +430,7 @@
    "t": 42,
    "d": 139,
    "w": 939,
-   "i": 0,
+   "i": 1,
    "h": "682f984c43"
   },
   {
@@ -619,7 +619,7 @@
    "t": 34,
    "d": 154,
    "w": 1014,
-   "i": 0,
+   "i": 1,
    "h": "6ade23c548"
   },
   {
@@ -672,9 +672,9 @@
    "s": 200,
    "t": 53,
    "d": 59,
-   "w": 995,
+   "w": 754,
    "i": 1,
-   "h": "6530a9a4c8"
+   "h": "158a5a746d"
   },
   {
    "u": "/g/best-lawn-mowers-2026/",
@@ -808,7 +808,7 @@
    "t": 52,
    "d": 91,
    "w": 681,
-   "i": 1,
+   "i": 0,
    "h": "3ea95c87b9"
   },
   {
@@ -1078,7 +1078,7 @@
    "t": 48,
    "d": 154,
    "w": 680,
-   "i": 0,
+   "i": 1,
    "h": "36048c43d3"
   },
   {
@@ -1123,7 +1123,7 @@
    "t": 44,
    "d": 157,
    "w": 796,
-   "i": 0,
+   "i": 1,
    "h": "2f1dd91b8d"
   },
   {
@@ -1132,7 +1132,7 @@
    "t": 56,
    "d": 157,
    "w": 709,
-   "i": 0,
+   "i": 1,
    "h": "044d0df90c"
   },
   {
@@ -1312,7 +1312,7 @@
    "t": 52,
    "d": 156,
    "w": 617,
-   "i": 1,
+   "i": 0,
    "h": "aa5e5b4903"
   },
   {
@@ -1428,7 +1428,7 @@
    "s": 200,
    "t": 53,
    "d": 155,
-   "w": 608,
+   "w": 609,
    "i": 0,
    "h": "b638b9e9f0"
   },
@@ -1456,7 +1456,7 @@
    "t": 54,
    "d": 157,
    "w": 1660,
-   "i": 1,
+   "i": 0,
    "h": "65b92e16e3"
   },
   {
@@ -1492,7 +1492,7 @@
    "t": 61,
    "d": 75,
    "w": 613,
-   "i": 1,
+   "i": 0,
    "h": "3371ec073e"
   },
   {
@@ -1519,7 +1519,7 @@
    "t": 58,
    "d": 155,
    "w": 587,
-   "i": 1,
+   "i": 0,
    "h": "9fe6c8a499"
   },
   {
@@ -1537,7 +1537,7 @@
    "t": 60,
    "d": 74,
    "w": 630,
-   "i": 1,
+   "i": 0,
    "h": "c4f62b59d9"
   },
   {
@@ -1546,7 +1546,7 @@
    "t": 58,
    "d": 155,
    "w": 790,
-   "i": 1,
+   "i": 0,
    "h": "5680d748b0"
   },
   {
@@ -1555,7 +1555,7 @@
    "t": 62,
    "d": 107,
    "w": 572,
-   "i": 1,
+   "i": 0,
    "h": "bddd3cb231"
   },
   {
@@ -1735,7 +1735,7 @@
    "t": 58,
    "d": 155,
    "w": 863,
-   "i": 1,
+   "i": 0,
    "h": "38a09bbc45"
   },
   {
@@ -1753,7 +1753,7 @@
    "t": 54,
    "d": 153,
    "w": 1233,
-   "i": 1,
+   "i": 0,
    "h": "ecefaf0460"
   },
   {
@@ -1780,7 +1780,7 @@
    "t": 53,
    "d": 148,
    "w": 1396,
-   "i": 1,
+   "i": 0,
    "h": "8e815f4aab"
   },
   {
@@ -2032,7 +2032,7 @@
    "t": 50,
    "d": 112,
    "w": 1574,
-   "i": 1,
+   "i": 0,
    "h": "54e210db57"
   },
   {
@@ -2041,7 +2041,7 @@
    "t": 68,
    "d": 132,
    "w": 3179,
-   "i": 2,
+   "i": 1,
    "h": "c2f99175d5"
   },
   {
@@ -2050,7 +2050,7 @@
    "t": 49,
    "d": 104,
    "w": 2213,
-   "i": 1,
+   "i": 0,
    "h": "bb6dbef9db"
   },
   {
@@ -2059,7 +2059,7 @@
    "t": 52,
    "d": 100,
    "w": 1589,
-   "i": 1,
+   "i": 0,
    "h": "23242bc63e"
   },
   {
@@ -2068,7 +2068,7 @@
    "t": 59,
    "d": 155,
    "w": 868,
-   "i": 1,
+   "i": 0,
    "h": "ce8374769c"
   },
   {
@@ -2077,7 +2077,7 @@
    "t": 46,
    "d": 157,
    "w": 541,
-   "i": 1,
+   "i": 0,
    "h": "ee9dfed939"
   },
   {
@@ -2086,7 +2086,7 @@
    "t": 83,
    "d": 151,
    "w": 550,
-   "i": 2,
+   "i": 1,
    "h": "828e06b196"
   },
   {
@@ -2140,7 +2140,7 @@
    "t": 71,
    "d": 157,
    "w": 1235,
-   "i": 2,
+   "i": 1,
    "h": "3501f1afb0"
   },
   {
@@ -2149,7 +2149,7 @@
    "t": 79,
    "d": 157,
    "w": 850,
-   "i": 2,
+   "i": 1,
    "h": "2a0ae56a7b"
   },
   {
@@ -2167,7 +2167,7 @@
    "t": 51,
    "d": 152,
    "w": 1463,
-   "i": 1,
+   "i": 0,
    "h": "6d3ae938f0"
   },
   {
@@ -2176,7 +2176,7 @@
    "t": 45,
    "d": 146,
    "w": 1459,
-   "i": 1,
+   "i": 0,
    "h": "fe577dcea4"
   },
   {
@@ -2199,20 +2199,6 @@
   }
  ],
  "actions": [
-  {
-   "t": "2026-10-25T06:58:54.955253+00:00",
-   "indexnow": {
-    "submitted": 6,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-10-25T10:04:16.506249+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
   {
    "t": "2026-10-25T13:06:01.364293+00:00",
    "indexnow": {
@@ -2267,6 +2253,20 @@
    "indexnow": {
     "submitted": 2,
     "http": 200
+   }
+  },
+  {
+   "t": "2026-10-26T13:44:36.161538+00:00",
+   "indexnow": {
+    "submitted": 1,
+    "http": 200
+   }
+  },
+  {
+   "t": "2026-10-27T00:12:06.350106+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
    }
   }
  ]
