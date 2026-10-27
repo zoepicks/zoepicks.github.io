@@ -3172,5 +3172,74 @@
   "parent": "best-monitors-under-200-2026",
   "tab": "launch",
   "tab_label": "Launch"
+ },
+ {
+  "title": "Best Bape Hoodie (2026)",
+  "slug": "best-bape-hoodie-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-hoodies-2026",
+  "tab": "bape",
+  "tab_label": "Bape"
+ },
+ {
+  "title": "Best Sneaker Sealant (2026)",
+  "slug": "best-sneaker-sealant-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Noise Reducing Headphones (2026)",
+  "slug": "best-noise-reducing-headphones-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Giant Lego Set (2026)",
+  "slug": "best-giant-lego-set-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Mugler Perfume (2026)",
+  "slug": "best-mugler-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "mugler",
+  "tab_label": "Mugler"
+ },
+ {
+  "title": "Best Kobo Case (2026)",
+  "slug": "best-kobo-case-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best White Refrigerator (2026)",
+  "slug": "best-white-refrigerator-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
