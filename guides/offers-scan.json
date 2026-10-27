@@ -9293,84 +9293,26 @@
   },
   "fitness_outdoor:hiking-backpacks": {
    "label": "Hiking Backpacks",
-   "tries": 3,
+   "tries": 4,
    "items": [
     {
-     "asin": "B07C1TQ7DD",
-     "name": "Unigear Hydration Pack Backpack",
-     "pct": 19,
-     "rating": 4.5,
-     "t": 1792937128,
-     "img": "https://m.media-amazon.com/images/I/71FljMM+NkL.jpg",
-     "link": "https://www.amazon.com/dp/B07C1TQ7DD?tag=zoepicks00-20",
-     "now": "18.62",
-     "was": "22.99",
-     "deal": "Limited time deal",
-     "reviews": 6269,
-     "_title": "Unigear Hydration Pack Backpack with 2L Water Bladder for Hiking & Cycling | Lightweight Water Backpack For Running, Bikin...",
-     "_price": 18.62
-    },
-    {
-     "asin": "B07Z5YH1B7",
-     "name": "WATERFLY Small Lightweight Packable Backpack: 20l Hiking…",
-     "pct": 15,
-     "rating": 4.6,
-     "t": 1792937128,
-     "img": "https://m.media-amazon.com/images/I/810m8zwiuVL.jpg",
-     "link": "https://www.amazon.com/dp/B07Z5YH1B7?tag=zoepicks00-20",
-     "now": "22.09",
-     "was": "25.99",
-     "deal": "Limited time deal",
-     "reviews": 3949,
-     "_title": "WATERFLY Small Lightweight Packable Backpack: 20l Hiking Daypack Man Woman | 20L,Recycled nylon material,Multi-compartment...",
-     "_price": 22.09
-    },
-    {
-     "asin": "B0B76Q78FQ",
-     "name": "Everfun Hydration Backpack 18L",
-     "pct": 15,
-     "rating": 4.5,
-     "t": 1792937128,
-     "img": "https://m.media-amazon.com/images/I/81suV-vk-dL.jpg",
-     "link": "https://www.amazon.com/dp/B0B76Q78FQ?tag=zoepicks00-20",
-     "now": "33.99",
-     "was": "39.99",
-     "deal": "Limited time deal",
-     "reviews": 2753,
-     "_title": "Everfun Hydration Backpack 18L with Water Bladder 2L/3L Hiking Water Backpack Women Men Hydration Pack Insulated Lightweig...",
-     "_price": 33.99
-    },
-    {
-     "asin": "B0D6G1X43P",
-     "name": "BECOJADDE 15L Small Hiking Backpack",
-     "pct": 15,
-     "rating": 4.4,
-     "t": 1792937128,
-     "img": "https://m.media-amazon.com/images/I/81Vm9Hhq-fL.jpg",
-     "link": "https://www.amazon.com/dp/B0D6G1X43P?tag=zoepicks00-20",
-     "now": "23.75",
-     "was": "27.99",
-     "reviews": 1062,
-     "_title": "BECOJADDE 15L Small Hiking Backpack for Men Women Foldable Packable Back Pack Ultralight Hiking Daypack for Travel Camping...",
-     "_price": 23.75
-    },
-    {
-     "asin": "B0GHN9K6FY",
-     "name": "RealCool 20L Lightweight Hiking Backpack",
+     "asin": "B09TR9LPKN",
+     "name": "Lightweight Hydration Backpack",
      "pct": 10,
      "rating": 4.5,
-     "t": 1792937128,
-     "img": "https://m.media-amazon.com/images/I/716bchjg1kL.jpg",
-     "link": "https://www.amazon.com/dp/B0GHN9K6FY?tag=zoepicks00-20",
-     "now": "26.92",
-     "was": "29.99",
+     "t": 1793145098,
+     "img": "https://m.media-amazon.com/images/I/81PzR0zY5bL.jpg",
+     "link": "https://www.amazon.com/dp/B09TR9LPKN?tag=zoepicks00-20",
+     "now": "23.39",
+     "was": "25.99",
      "deal": "Limited time deal",
-     "reviews": 160,
-     "_title": "RealCool 20L Lightweight Hiking Backpack, Small Travel Daypack for Camping | 210D tear-resistant nylon, water-resistant,br...",
-     "_price": 26.92
+     "reviews": 4067,
+     "_title": "Lightweight Hydration Backpack, Running Backpack with 2L Water Bladder | Hydro Water Daypack, Small Hiking Backpack for Cy...",
+     "_price": 23.39
     }
    ],
-   "scanned": "2026-10-25T14:05:28.279395+00:00"
+   "scanned": "2026-10-27T23:51:38.446193+00:00",
+   "via": "sweep"
   },
   "monitors:gaming-monitors": {
    "label": "Gaming Monitors",
@@ -11084,11 +11026,11 @@
    "types": 16
   },
   "fitness_outdoor": {
-   "at": "2026-10-26T15:04:02.919112+00:00",
+   "at": "2026-10-27T23:51:38.446193+00:00",
    "pages": 5,
    "cards": 120,
    "offer_cards": 116,
-   "types_hit": 0,
+   "types_hit": 1,
    "types": 11
   },
   "furniture_decor": {
