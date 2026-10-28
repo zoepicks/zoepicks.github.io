@@ -3295,5 +3295,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Waterproof Laptop (2026)",
+  "slug": "best-waterproof-laptop-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "waterproof",
+  "tab_label": "Waterproof"
+ },
+ {
+  "title": "Best Protein Powder (2026)",
+  "slug": "best-protein-powder-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
