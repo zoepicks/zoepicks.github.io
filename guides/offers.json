@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-28T11:40:46Z",
+ "updated": "2026-10-28T14:12:15Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -803,19 +803,6 @@
       "was": "42.99",
       "deal": "Limited time deal",
       "reviews": 73
-     },
-     {
-      "asin": "B0GS5ZHY87",
-      "name": "Acer Wireless Mouse",
-      "pct": 13,
-      "rating": 4.3,
-      "t": 1793062836,
-      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
-      "now": "12.98",
-      "was": "14.99",
-      "deal": "Limited time deal",
-      "reviews": 884
      }
     ]
    },
@@ -1724,16 +1711,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B0FQMTGCY7",
-      "name": "Nike Unisex Kids' Cosmic Runner Running Shoes",
-      "pct": 33,
-      "rating": 4.4,
-      "t": 1793169207,
-      "img": "https://m.media-amazon.com/images/I/71XcD9ZZSXL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQMTGCY7?tag=zoepicks00-20",
-      "now": "37.97",
-      "was": "57.00",
-      "reviews": 2572,
+      "asin": "B0BRXCX97S",
+      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793079919,
+      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
+      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "59.99",
+      "reviews": 3388,
       "tier": "mid"
      },
      {
@@ -1982,51 +1969,6 @@
     ]
    },
    {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
-    "items": [
-     {
-      "asin": "B01E6WWGRW",
-      "name": "DUOYANGJIASHA Lightweight Walking Shoes",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1793157771,
-      "img": "https://m.media-amazon.com/images/I/81+aRgMI-wL.jpg",
-      "link": "https://www.amazon.com/dp/B01E6WWGRW?tag=zoepicks00-20",
-      "now": "16.51",
-      "was": "21.99",
-      "reviews": 17799,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GBTSRD6G",
-      "name": "WYGRQBN Boys Tennis Sneakers Running Sports Shoes Kids'…",
-      "pct": 37,
-      "rating": 4.0,
-      "t": 1793066570,
-      "img": "https://m.media-amazon.com/images/I/61fKgJEpN+L.jpg",
-      "link": "https://www.amazon.com/dp/B0GBTSRD6G?tag=zoepicks00-20",
-      "now": "16.99",
-      "was": "26.99",
-      "reviews": 63,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FX7Z1BD8",
-      "name": "ALLSWIFIT Women's Slip On Walking Shoes Running Sneakers",
-      "pct": 22,
-      "rating": 4.5,
-      "t": 1793161515,
-      "img": "https://m.media-amazon.com/images/I/7124Cd2CZcL.jpg",
-      "link": "https://www.amazon.com/dp/B0FX7Z1BD8?tag=zoepicks00-20",
-      "now": "54.28",
-      "was": "69.99",
-      "reviews": 1356,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "carry-on-bags",
     "label": "Carry On Bags",
     "items": [
@@ -2109,6 +2051,36 @@
       "deal": "Limited time deal",
       "reviews": 13905,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
+    "items": [
+     {
+      "asin": "B01E6WWGRW",
+      "name": "DUOYANGJIASHA Lightweight Walking Shoes",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793157771,
+      "img": "https://m.media-amazon.com/images/I/81+aRgMI-wL.jpg",
+      "link": "https://www.amazon.com/dp/B01E6WWGRW?tag=zoepicks00-20",
+      "now": "16.51",
+      "was": "21.99",
+      "reviews": 17799
+     },
+     {
+      "asin": "B0FX7Z1BD8",
+      "name": "ALLSWIFIT Women's Slip On Walking Shoes Running Sneakers",
+      "pct": 22,
+      "rating": 4.5,
+      "t": 1793161515,
+      "img": "https://m.media-amazon.com/images/I/7124Cd2CZcL.jpg",
+      "link": "https://www.amazon.com/dp/B0FX7Z1BD8?tag=zoepicks00-20",
+      "now": "54.28",
+      "was": "69.99",
+      "reviews": 1356
      }
     ]
    },
@@ -4225,7 +4197,7 @@
       "name": "Zoosky Large Dog Stroller",
       "pct": 17,
       "rating": 4.5,
-      "t": 1793147255,
+      "t": 1793191192,
       "img": "https://m.media-amazon.com/images/I/81JbKZgEmiL.jpg",
       "link": "https://www.amazon.com/dp/B0F6LGYXQ9?tag=zoepicks00-20",
       "now": "199.93",
@@ -4405,11 +4377,12 @@
       "name": "Boldever 3000 ANSI Google TV Outdoor-4K-Projector",
       "pct": 40,
       "rating": 4.8,
-      "t": 1793157767,
+      "t": 1793146166,
       "img": "https://m.media-amazon.com/images/I/71qaLpPKEiL.jpg",
       "link": "https://www.amazon.com/dp/B0HJZDYGCZ?tag=zoepicks00-20",
       "now": "239.99",
       "was": "399.99",
+      "deal": "Limited time deal",
       "reviews": 154,
       "tier": "budget"
      },
@@ -4431,11 +4404,12 @@
       "name": "【Google TV & High Brightness】4K Outdoor Projector",
       "pct": 40,
       "rating": 4.3,
-      "t": 1793149970,
+      "t": 1793146166,
       "img": "https://m.media-amazon.com/images/I/71qZmucObkL.jpg",
       "link": "https://www.amazon.com/dp/B0H719VQGF?tag=zoepicks00-20",
       "now": "299.99",
       "was": "499.99",
+      "deal": "Limited time deal",
       "reviews": 2711,
       "tier": "premium"
      }
@@ -4668,12 +4642,13 @@
       "name": "OBD2 Scanner Diagnostic Tool",
       "pct": 30,
       "rating": 4.3,
-      "t": 1793062307,
+      "t": 1793146863,
       "img": "https://m.media-amazon.com/images/I/61B+PecrVQL.jpg",
       "link": "https://www.amazon.com/dp/B0D44C1F7Y?tag=zoepicks00-20",
       "now": "20.99",
       "was": "29.99",
-      "reviews": 3324
+      "deal": "Limited time deal",
+      "reviews": 3327
      }
     ]
    },
@@ -4910,12 +4885,13 @@
       "name": "Bebila Baby Beanie Toddler Infant Winter Hats Knit Warm Caps",
       "pct": 15,
       "rating": 4.7,
-      "t": 1793062282,
+      "t": 1793147020,
       "img": "https://m.media-amazon.com/images/I/919vFUNDuRL.jpg",
       "link": "https://www.amazon.com/dp/B0D6R3FN1M?tag=zoepicks00-20",
       "now": "11.89",
       "was": "13.99",
-      "reviews": 1236
+      "deal": "Limited time deal",
+      "reviews": 1239
      }
     ]
    },
