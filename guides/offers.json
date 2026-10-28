@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-28T07:22:29Z",
+ "updated": "2026-10-28T11:40:46Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -57,13 +57,15 @@
     "tier": "budget"
    },
    {
-    "asin": "B0009V1YR8",
-    "name": "CHI Original 1\" Ceramic Hair Straightener Flat Iron",
-    "pct": 62,
-    "rating": 4.4,
-    "t": 1793163918,
-    "img": "https://m.media-amazon.com/images/I/51GM9aEfo8L.jpg",
-    "link": "https://www.amazon.com/dp/B0009V1YR8?tag=zoepicks00-20",
+    "asin": "B0H1RKNK34",
+    "name": "Electric Foil Shavers",
+    "pct": 64,
+    "rating": 4.5,
+    "t": 1793183524,
+    "img": "https://m.media-amazon.com/images/I/71INbt63kPL.jpg",
+    "link": "https://www.amazon.com/dp/B0H1RKNK34?tag=zoepicks00-20",
+    "now": "36.99",
+    "was": "102.99",
     "reviews": 0,
     "tier": "mid"
    },
@@ -136,15 +138,13 @@
     "tier": "budget"
    },
    {
-    "asin": "B0FVKGBGC9",
-    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-    "pct": 65,
-    "rating": 4.3,
-    "t": 1793163954,
-    "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-    "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-    "now": "17.30",
-    "was": "49.99",
+    "asin": "B0FBF72DQW",
+    "name": "Sanorum Smart Watches",
+    "pct": 51,
+    "rating": 4.1,
+    "t": 1793163965,
+    "img": "https://m.media-amazon.com/images/I/61BQyfoLLpL.jpg",
+    "link": "https://www.amazon.com/dp/B0FBF72DQW?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -188,7 +188,7 @@
     "name": "Adjustable Dumbbell Set",
     "pct": 36,
     "rating": 4.5,
-    "t": 1793163958,
+    "t": 1793183525,
     "img": "https://m.media-amazon.com/images/I/51p1r3aEEzL.jpg",
     "link": "https://www.amazon.com/dp/B0GVDC3VL5?tag=zoepicks00-20",
     "now": "69.96",
@@ -488,20 +488,6 @@
   ],
   "other": [
    {
-    "asin": "B086M1HVSD",
-    "name": "Mustela Certified Organic Micellar Cleansing Water…",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1793057832,
-    "img": "https://m.media-amazon.com/images/I/61OXLrnfJbL.jpg",
-    "link": "https://www.amazon.com/dp/B086M1HVSD?tag=zoepicks00-20",
-    "now": "14.99",
-    "was": "20.00",
-    "deal": "Limited time deal",
-    "reviews": 1426,
-    "tier": "budget"
-   },
-   {
     "asin": "B0DBKS5C3K",
     "name": "Eeeza Carry On Luggage Set Suitcase 3 Piece,Beige",
     "pct": 29,
@@ -513,7 +499,7 @@
     "was": "89.99",
     "deal": "Limited time deal",
     "reviews": 885,
-    "tier": "mid"
+    "tier": "budget"
    },
    {
     "asin": "B0DSVZPWKS",
@@ -527,35 +513,48 @@
     "was": "139.99",
     "deal": "Limited time deal",
     "reviews": 1410,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0DWWSBR26",
+    "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
+    "pct": 21,
+    "rating": 4.3,
+    "t": 1793147435,
+    "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
+    "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
+    "now": "109.99",
+    "was": "139.99",
+    "reviews": 1168,
     "tier": "premium"
    }
   ],
   "pets": [
    {
-    "asin": "B08GHX9G5L",
-    "name": "Kasa 1080p Indoor Pan/Tilt Wired Security Camera",
-    "pct": 30,
-    "rating": 4.4,
-    "t": 1793146782,
-    "img": "https://m.media-amazon.com/images/I/51oao7xTT8L.jpg",
-    "link": "https://www.amazon.com/dp/B08GHX9G5L?tag=zoepicks00-20",
-    "now": "20.98",
-    "was": "29.99",
-    "deal": "Limited time deal",
-    "reviews": 34371,
-    "tier": "budget"
-   },
-   {
     "asin": "B0HHRLD7SJ",
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1793163955,
+    "t": 1793183525,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
     "was": "42.99",
     "reviews": 4789,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0CVZRYCPW",
+    "name": "IRIS USA XX-Large High Sided Cat Litter Box",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1793146782,
+    "img": "https://m.media-amazon.com/images/I/61luE2E-ogL.jpg",
+    "link": "https://www.amazon.com/dp/B0CVZRYCPW?tag=zoepicks00-20",
+    "now": "29.97",
+    "was": "39.99",
+    "deal": "Limited time deal",
+    "reviews": 4043,
     "tier": "mid"
    },
    {
@@ -618,17 +617,14 @@
   ],
   "tools_auto": [
    {
-    "asin": "B0F916XPT8",
-    "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
-    "pct": 61,
-    "rating": 4.3,
-    "t": 1793057913,
-    "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
-    "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
-    "now": "54.99",
-    "was": "139.99",
-    "deal": "Limited time deal",
-    "reviews": 75,
+    "asin": "B0GBXGJF7H",
+    "name": "Tire Inflator Portable Air Compressor",
+    "pct": 41,
+    "rating": 4.6,
+    "t": 1793163959,
+    "img": "https://m.media-amazon.com/images/I/51GAXToq9sL.jpg",
+    "link": "https://www.amazon.com/dp/B0GBXGJF7H?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -971,6 +967,25 @@
   ],
   "beauty_health": [
    {
+    "key": "electric-shavers",
+    "label": "Electric Shavers",
+    "items": [
+     {
+      "asin": "B0H1RKNK34",
+      "name": "Electric Foil Shavers",
+      "pct": 64,
+      "rating": 4.5,
+      "t": 1793183524,
+      "img": "https://m.media-amazon.com/images/I/71INbt63kPL.jpg",
+      "link": "https://www.amazon.com/dp/B0H1RKNK34?tag=zoepicks00-20",
+      "now": "36.99",
+      "was": "102.99",
+      "reviews": 0,
+      "tier": "mid"
+     }
+    ]
+   },
+   {
     "key": "hair-straighteners",
     "label": "Hair Straighteners",
     "items": [
@@ -1040,6 +1055,19 @@
     "label": "Sunscreen",
     "items": [
      {
+      "asin": "B088PR7PBK",
+      "name": "Australian Gold Body Lotion Sunscreen SPF 15",
+      "pct": 29,
+      "rating": 4.7,
+      "t": 1793183524,
+      "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
+      "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
+      "now": "15.40",
+      "was": "21.54",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0DKJ3BX2F",
       "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
       "pct": 39,
@@ -1050,7 +1078,8 @@
       "now": "16.99",
       "was": "28.00",
       "deal": "Limited time deal",
-      "reviews": 6247
+      "reviews": 6247,
+      "tier": "mid"
      },
      {
       "asin": "B0CVJ8M4ZQ",
@@ -1063,7 +1092,8 @@
       "now": "33.75",
       "was": "45.00",
       "deal": "Limited time deal",
-      "reviews": 1722
+      "reviews": 1722,
+      "tier": "premium"
      }
     ]
    },
@@ -1236,7 +1266,7 @@
       "name": "Hugo Boss Bottled Deodorant Stick",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793163956,
+      "t": 1793183526,
       "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
       "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
       "now": "22.40",
@@ -1286,11 +1316,6 @@
    {
     "key": "makeup-setting-spray",
     "label": "Makeup Setting Spray",
-    "items": []
-   },
-   {
-    "key": "electric-shavers",
-    "label": "Electric Shavers",
     "items": []
    },
    {
@@ -1399,12 +1424,11 @@
       "name": "Portable Bluetooth Speaker Stocking Stuffers: Outdoor…",
       "pct": 33,
       "rating": 4.5,
-      "t": 1793147162,
+      "t": 1793182764,
       "img": "https://m.media-amazon.com/images/I/91chDri2ibL.jpg",
       "link": "https://www.amazon.com/dp/B0CX1FRR27?tag=zoepicks00-20",
       "now": "19.96",
       "was": "29.99",
-      "deal": "Limited time deal",
       "reviews": 8540,
       "tier": "budget"
      },
@@ -1596,49 +1620,6 @@
   ],
   "fashion": [
    {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0FVKGBGC9",
-      "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-      "pct": 65,
-      "rating": 4.3,
-      "t": 1793163954,
-      "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-      "now": "17.30",
-      "was": "49.99",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FQMTGCY7",
-      "name": "Nike Unisex Kids' Cosmic Runner Running Shoes",
-      "pct": 33,
-      "rating": 4.4,
-      "t": 1793169207,
-      "img": "https://m.media-amazon.com/images/I/71XcD9ZZSXL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQMTGCY7?tag=zoepicks00-20",
-      "now": "37.97",
-      "was": "57.00",
-      "reviews": 2572,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07RFW1YSX",
-      "name": "New Balance Women's Fresh Foam Roav Running Shoe",
-      "pct": 53,
-      "rating": 4.4,
-      "t": 1793163980,
-      "img": "https://m.media-amazon.com/images/I/61l5b6l9WlL.jpg",
-      "link": "https://www.amazon.com/dp/B07RFW1YSX?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -1713,15 +1694,56 @@
       "tier": "mid"
      },
      {
-      "asin": "B0GYS72BXH",
-      "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1793163958,
-      "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYS72BXH?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
+      "asin": "B0C7ZCD6F2",
+      "name": "Aemicion Strawberry Blanket Hoodie Gifts",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1793163988,
+      "img": "https://m.media-amazon.com/images/I/61lFDZ17IEL.jpg",
+      "link": "https://www.amazon.com/dp/B0C7ZCD6F2?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0DT1JKSJ1",
+      "name": "Under Armour Kids Charged Assert 11",
+      "pct": 41,
+      "rating": 4.7,
+      "t": 1793125165,
+      "img": "https://m.media-amazon.com/images/I/514kvM6OPfL.jpg",
+      "link": "https://www.amazon.com/dp/B0DT1JKSJ1?tag=zoepicks00-20",
+      "now": "31.94",
+      "was": "60.00",
+      "reviews": 431,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FQMTGCY7",
+      "name": "Nike Unisex Kids' Cosmic Runner Running Shoes",
+      "pct": 33,
+      "rating": 4.4,
+      "t": 1793169207,
+      "img": "https://m.media-amazon.com/images/I/71XcD9ZZSXL.jpg",
+      "link": "https://www.amazon.com/dp/B0FQMTGCY7?tag=zoepicks00-20",
+      "now": "37.97",
+      "was": "57.00",
+      "reviews": 2572,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07RFW1YSX",
+      "name": "New Balance Women's Fresh Foam Roav Running Shoe",
+      "pct": 53,
+      "rating": 4.4,
+      "t": 1793163980,
+      "img": "https://m.media-amazon.com/images/I/61l5b6l9WlL.jpg",
+      "link": "https://www.amazon.com/dp/B07RFW1YSX?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2164,7 +2186,7 @@
       "name": "NINGO Men's Waterproof Hiking Boots",
       "pct": 50,
       "rating": 4.3,
-      "t": 1793163958,
+      "t": 1793103055,
       "img": "https://m.media-amazon.com/images/I/71qeBHD82ML.jpg",
       "link": "https://www.amazon.com/dp/B0DY1MCXQY?tag=zoepicks00-20",
       "now": "24.99",
@@ -2211,7 +2233,7 @@
       "name": "BJPKPK 12oz Insulated Water Bottle",
       "pct": 38,
       "rating": 4.4,
-      "t": 1793163955,
+      "t": 1793183525,
       "img": "https://m.media-amazon.com/images/I/61UF8MnYynL.jpg",
       "link": "https://www.amazon.com/dp/B0CYSN9T22?tag=zoepicks00-20",
       "now": "11.14",
@@ -2254,7 +2276,7 @@
       "name": "Adjustable Dumbbell Set",
       "pct": 36,
       "rating": 4.5,
-      "t": 1793163958,
+      "t": 1793183525,
       "img": "https://m.media-amazon.com/images/I/51p1r3aEEzL.jpg",
       "link": "https://www.amazon.com/dp/B0GVDC3VL5?tag=zoepicks00-20",
       "now": "69.96",
@@ -2934,6 +2956,36 @@
     ]
    },
    {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
+    "items": [
+     {
+      "asin": "B0CMTT1WPV",
+      "name": "Bedsure Sage Green Comforter Set Queen Size",
+      "pct": 43,
+      "rating": 4.5,
+      "t": 1793183524,
+      "img": "https://m.media-amazon.com/images/I/91N1er5M6QL.jpg",
+      "link": "https://www.amazon.com/dp/B0CMTT1WPV?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "69.99",
+      "reviews": 0
+     },
+     {
+      "asin": "B0C5398TC4",
+      "name": "CozyLux Queen Comforter Set",
+      "pct": 35,
+      "rating": 4.4,
+      "t": 1793096155,
+      "img": "https://m.media-amazon.com/images/I/71YmqntoATL.jpg",
+      "link": "https://www.amazon.com/dp/B0C5398TC4?tag=zoepicks00-20",
+      "now": "21.98",
+      "was": "33.99",
+      "reviews": 6086
+     }
+    ]
+   },
+   {
     "key": "blenders",
     "label": "Blenders",
     "items": [
@@ -3079,7 +3131,7 @@
       "name": "CosBed Cervical Neck Pillow",
       "pct": 39,
       "rating": 4.9,
-      "t": 1793163957,
+      "t": 1793183528,
       "img": "https://m.media-amazon.com/images/I/61U6zZQFgiL.jpg",
       "link": "https://www.amazon.com/dp/B0GTCLN8JB?tag=zoepicks00-20",
       "now": "34.99",
@@ -3181,24 +3233,6 @@
     ]
    },
    {
-    "key": "comforter-sets",
-    "label": "Comforter Sets",
-    "items": [
-     {
-      "asin": "B0C5398TC4",
-      "name": "CozyLux Queen Comforter Set",
-      "pct": 35,
-      "rating": 4.4,
-      "t": 1793096155,
-      "img": "https://m.media-amazon.com/images/I/71YmqntoATL.jpg",
-      "link": "https://www.amazon.com/dp/B0C5398TC4?tag=zoepicks00-20",
-      "now": "21.98",
-      "was": "33.99",
-      "reviews": 6086
-     }
-    ]
-   },
-   {
     "key": "knife-set",
     "label": "Knife Set",
     "items": [
@@ -3226,12 +3260,11 @@
       "name": "Space Heater, 1500W Electric Heaters Indoor Portable",
       "pct": 18,
       "rating": 4.3,
-      "t": 1793148132,
+      "t": 1793182757,
       "img": "https://m.media-amazon.com/images/I/61ybRiR3ukL.jpg",
       "link": "https://www.amazon.com/dp/B0895QVCYC?tag=zoepicks00-20",
       "now": "26.98",
       "was": "32.99",
-      "deal": "Limited time deal",
       "reviews": 30193,
       "tier": "budget"
      },
@@ -3898,25 +3931,6 @@
     ]
    },
    {
-    "key": "monitors-home-office",
-    "label": "Monitors Home Office",
-    "items": [
-     {
-      "asin": "B0GJZK591V",
-      "name": "KTC 32 Inch 4K UHD White Computer Monitor",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1793057950,
-      "img": "https://m.media-amazon.com/images/I/71GWpH0AGeL.jpg",
-      "link": "https://www.amazon.com/dp/B0GJZK591V?tag=zoepicks00-20",
-      "now": "246.48",
-      "was": "289.99",
-      "deal": "Limited time deal",
-      "reviews": 2180
-     }
-    ]
-   },
-   {
     "key": "monitors-mac",
     "label": "Monitors Mac",
     "items": [
@@ -3946,6 +3960,11 @@
       "reviews": 47
      }
     ]
+   },
+   {
+    "key": "monitors-home-office",
+    "label": "Monitors Home Office",
+    "items": []
    },
    {
     "key": "oled-monitors",
@@ -4019,52 +4038,6 @@
     ]
    },
    {
-    "key": "micellar-water",
-    "label": "Micellar Water",
-    "items": [
-     {
-      "asin": "B0GQWCK89S",
-      "name": "CeraVe Hydrating Micellar Water",
-      "pct": 13,
-      "rating": 4.7,
-      "t": 1793057832,
-      "img": "https://m.media-amazon.com/images/I/713Cz1J88AL.jpg",
-      "link": "https://www.amazon.com/dp/B0GQWCK89S?tag=zoepicks00-20",
-      "now": "13.01",
-      "was": "14.99",
-      "reviews": 186,
-      "tier": "budget"
-     },
-     {
-      "asin": "B078WPCDV1",
-      "name": "Garnier Micellar Water For Waterproof Makeup 13.5 Fl Oz 2 Ct",
-      "pct": 21,
-      "rating": 4.7,
-      "t": 1793057832,
-      "img": "https://m.media-amazon.com/images/I/81p+-neThCL.jpg",
-      "link": "https://www.amazon.com/dp/B078WPCDV1?tag=zoepicks00-20",
-      "now": "13.55",
-      "was": "17.11",
-      "reviews": 52715,
-      "tier": "mid"
-     },
-     {
-      "asin": "B086M1HVSD",
-      "name": "Mustela Certified Organic Micellar Cleansing Water…",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1793057832,
-      "img": "https://m.media-amazon.com/images/I/61OXLrnfJbL.jpg",
-      "link": "https://www.amazon.com/dp/B086M1HVSD?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "20.00",
-      "deal": "Limited time deal",
-      "reviews": 1426,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "fireproof-safes",
     "label": "Fireproof Safes",
     "items": [
@@ -4133,6 +4106,11 @@
     "items": []
    },
    {
+    "key": "micellar-water",
+    "label": "Micellar Water",
+    "items": []
+   },
+   {
     "key": "nail-polish",
     "label": "Nail Polish",
     "items": []
@@ -4167,7 +4145,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793163955,
+      "t": 1793183525,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
@@ -4274,74 +4252,18 @@
     ]
    },
    {
+    "key": "self-cleaning-litter-boxes",
+    "label": "Self Cleaning Litter Boxes",
+    "items": []
+   },
+   {
     "key": "pet-water-fountains",
     "label": "Pet Water Fountains",
-    "items": [
-     {
-      "asin": "B0BGL2GTTM",
-      "name": "Cat Water Fountain: Dog Bowl Fountains",
-      "pct": 11,
-      "rating": 4.1,
-      "t": 1793057991,
-      "img": "https://m.media-amazon.com/images/I/71v9BnwpL+L.jpg",
-      "link": "https://www.amazon.com/dp/B0BGL2GTTM?tag=zoepicks00-20",
-      "now": "16.99",
-      "was": "18.99",
-      "deal": "Limited time deal",
-      "reviews": 32106,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GQ3LMMPT",
-      "name": "SohoTeco 3.2L/108oz Stainless Steel Cat Water Fountain Pet…",
-      "pct": 10,
-      "rating": 4.5,
-      "t": 1793057991,
-      "img": "https://m.media-amazon.com/images/I/71p-+Io9OnL.jpg",
-      "link": "https://www.amazon.com/dp/B0GQ3LMMPT?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 481,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H9WYN1RC",
-      "name": "PETLIBRO Cat Water Fountain",
-      "pct": 16,
-      "rating": 4.5,
-      "t": 1793057991,
-      "img": "https://m.media-amazon.com/images/I/61UK2hPNvgL.jpg",
-      "link": "https://www.amazon.com/dp/B0H9WYN1RC?tag=zoepicks00-20",
-      "now": "58.58",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 384,
-      "tier": "premium"
-     }
-    ]
+    "items": []
    },
    {
     "key": "dog-harnesses",
     "label": "Dog Harnesses",
-    "items": [
-     {
-      "asin": "B0CMHM46ZP",
-      "name": "Beebiepet Tactical No Pull Dog Harness",
-      "pct": 7,
-      "rating": 4.6,
-      "t": 1793057866,
-      "img": "https://m.media-amazon.com/images/I/81eme8x97QL.jpg",
-      "link": "https://www.amazon.com/dp/B0CMHM46ZP?tag=zoepicks00-20",
-      "now": "24.99",
-      "was": "26.99",
-      "reviews": 4989
-     }
-    ]
-   },
-   {
-    "key": "self-cleaning-litter-boxes",
-    "label": "Self Cleaning Litter Boxes",
     "items": []
    }
   ],
@@ -4588,54 +4510,6 @@
   ],
   "tools_auto": [
    {
-    "key": "cordless-drills",
-    "label": "Cordless Drills",
-    "items": [
-     {
-      "asin": "B0DFXLWYQ9",
-      "name": "PULITUO'S 20V Cordless Drill/Driver",
-      "pct": 28,
-      "rating": 4.5,
-      "t": 1793057913,
-      "img": "https://m.media-amazon.com/images/I/71z5BWWiTKL.jpg",
-      "link": "https://www.amazon.com/dp/B0DFXLWYQ9?tag=zoepicks00-20",
-      "now": "35.97",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 1929,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CKZ53T2W",
-      "name": "Litheli 20V Cordless Drill Driver",
-      "pct": 52,
-      "rating": 4.5,
-      "t": 1793057913,
-      "img": "https://m.media-amazon.com/images/I/611ywWp5f+L.jpg",
-      "link": "https://www.amazon.com/dp/B0CKZ53T2W?tag=zoepicks00-20",
-      "now": "37.55",
-      "was": "77.99",
-      "deal": "Limited time deal",
-      "reviews": 86,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F916XPT8",
-      "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
-      "pct": 61,
-      "rating": 4.3,
-      "t": 1793057913,
-      "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
-      "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
-      "now": "54.99",
-      "was": "139.99",
-      "deal": "Limited time deal",
-      "reviews": 75,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "dash-cams",
     "label": "Dash Cams",
     "items": [
@@ -4676,54 +4550,6 @@
       "was": "349.99",
       "deal": "Limited time deal",
       "reviews": 591,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "pressure-washers",
-    "label": "Pressure Washers",
-    "items": [
-     {
-      "asin": "B0BP9H5TQY",
-      "name": "Greenworks 1800 PSI",
-      "pct": 41,
-      "rating": 4.4,
-      "t": 1793057928,
-      "img": "https://m.media-amazon.com/images/I/71NjaFRn2NL.jpg",
-      "link": "https://www.amazon.com/dp/B0BP9H5TQY?tag=zoepicks00-20",
-      "now": "94.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 523,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0989M4WJ1",
-      "name": "Greenworks 2000 PSI",
-      "pct": 22,
-      "rating": 4.4,
-      "t": 1793057928,
-      "img": "https://m.media-amazon.com/images/I/71MjdL1aavL.jpg",
-      "link": "https://www.amazon.com/dp/B0989M4WJ1?tag=zoepicks00-20",
-      "now": "179.99",
-      "was": "229.99",
-      "deal": "Limited time deal",
-      "reviews": 1692,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09ZKZLWDV",
-      "name": "Greenworks 3000 PSI",
-      "pct": 38,
-      "rating": 4.2,
-      "t": 1793057928,
-      "img": "https://m.media-amazon.com/images/I/71JcJs9EGwL.jpg",
-      "link": "https://www.amazon.com/dp/B09ZKZLWDV?tag=zoepicks00-20",
-      "now": "309.99",
-      "was": "499.99",
-      "deal": "Limited time deal",
-      "reviews": 1076,
       "tier": "premium"
      }
     ]
@@ -4896,6 +4722,24 @@
     ]
    },
    {
+    "key": "cordless-drills",
+    "label": "Cordless Drills",
+    "items": [
+     {
+      "asin": "B0DFXLWYQ9",
+      "name": "PULITUO'S 20V Cordless Drill/Driver",
+      "pct": 28,
+      "rating": 4.5,
+      "t": 1793181832,
+      "img": "https://m.media-amazon.com/images/I/71z5BWWiTKL.jpg",
+      "link": "https://www.amazon.com/dp/B0DFXLWYQ9?tag=zoepicks00-20",
+      "now": "35.97",
+      "was": "49.99",
+      "reviews": 1929
+     }
+    ]
+   },
+   {
     "key": "lawn-mowers",
     "label": "Lawn Mowers",
     "items": [
@@ -4942,6 +4786,11 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "pressure-washers",
+    "label": "Pressure Washers",
+    "items": []
    }
   ],
   "toys_kids": [
