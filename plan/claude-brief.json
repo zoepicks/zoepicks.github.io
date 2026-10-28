@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-27T12:47:27.315818+00:00",
+ "generated_at": "2026-10-28T01:16:55.994433+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 28
+   "low": 26
   },
   "avg_guide_words": 946,
   "todo": [
@@ -51,14 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 7,
+    "count": 5,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-laptop-stands-2026/",
-     "/g/best-webcams-2026/",
-     "/g/best-ultrawide-monitors-2026/"
+     "/g/best-hiking-backpacks-2026/",
+     "/g/best-cookware-set-2026/",
+     "/g/best-tire-inflators-2026/"
     ],
-    "detail": "load 3.8s"
+    "detail": "load 3.09s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-27T06:41:36.200385+00:00",
-    "indexnow": {
-     "submitted": 9,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-10-27T09:45:53.418193+00:00",
+    "t": "2026-10-27T18:53:34.628885+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-27T12:47:20.711709+00:00",
+    "t": "2026-10-27T21:54:55.522047+00:00",
     "indexnow": {
-     "submitted": 2,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-10-28T00:56:15.328416+00:00",
+    "indexnow": {
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,30 +149,42 @@
  },
  "bots": {
   "today": {
-   "info": 72,
-   "warn": 2,
+   "info": 24,
+   "warn": 3,
    "error": 0
   },
   "last7d": {
-   "info": 219,
-   "warn": 11,
+   "info": 171,
+   "warn": 12,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 11
+    "warnings": 12
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 0,
-    "failed": 2,
+    "total": 6,
+    "ok": 2,
+    "failed": 4,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 170,
+      "at": "2026-10-28T01:05:49Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40612935820"
+     },
+     {
+      "run": 169,
+      "at": "2026-10-27T20:35:02Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40579343213"
+     },
      {
       "run": 166,
       "at": "2026-10-27T09:27:14Z",
@@ -188,12 +200,24 @@
     ]
    },
    "last7d": {
-    "total": 73,
-    "ok": 64,
-    "failed": 8,
+    "total": 77,
+    "ok": 66,
+    "failed": 10,
     "cancelled": 1,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 170,
+      "at": "2026-10-28T01:05:49Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40612935820"
+     },
+     {
+      "run": 169,
+      "at": "2026-10-27T20:35:02Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40579343213"
+     },
      {
       "run": 166,
       "at": "2026-10-27T09:27:14Z",
@@ -316,96 +340,96 @@
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
+   "open": 124,
    "queued": 34,
-   "open": 114,
-   "covered": 16,
-   "built": 36
+   "covered": 15,
+   "built": 27
   },
   "missing_new": {
-   "today": 4,
-   "d7": 169,
+   "today": 38,
+   "d7": 170,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "tennis racket",
+    "topic": "mesh router",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793100256",
-    "last_at": "1793100256"
+    "first_at": "1793147526",
+    "last_at": "1793147526"
    },
    {
-    "topic": "large television",
+    "topic": "woodsy perfume",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793099027",
-    "last_at": "1793099027"
+    "first_at": "1793141945",
+    "last_at": "1793141945"
    },
    {
-    "topic": "air tag",
+    "topic": "reclining desk",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793077553",
-    "last_at": "1793077553"
+    "first_at": "1793141754",
+    "last_at": "1793141754"
    },
    {
-    "topic": "small aquarium",
+    "topic": "unisex perfume",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793075618",
-    "last_at": "1793075618"
+    "first_at": "1793141735",
+    "last_at": "1793141735"
    },
    {
-    "topic": "portable charger",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793068979",
-    "last_at": "1793071873"
-   },
-   {
-    "topic": "high quality router",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793070896",
-    "last_at": "1793071193"
-   },
-   {
-    "topic": "bottega voyager bag",
+    "topic": "smartphone with large storage",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793070250",
-    "last_at": "1793070250"
+    "first_at": "1793141648",
+    "last_at": "1793141648"
    },
    {
-    "topic": "laptop stickers",
+    "topic": "laptop battery",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793141199",
+    "last_at": "1793141626"
+   },
+   {
+    "topic": "oscillating heater",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793138051",
+    "last_at": "1793140592"
+   },
+   {
+    "topic": "jordan sneakers",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793137255",
+    "last_at": "1793139837"
+   },
+   {
+    "topic": "electronic components",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793065870",
-    "last_at": "1793065870"
+    "first_at": "1793139743",
+    "last_at": "1793139743"
    },
    {
-    "topic": "tea kettle",
+    "topic": "16 inch macbook air",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793065773",
-    "last_at": "1793065773"
-   },
-   {
-    "topic": "automatic chicken coop door",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792981546",
-    "last_at": "1792981546"
+    "first_at": "1793139016",
+    "last_at": "1793139016"
    }
   ]
  },
@@ -416,13 +440,19 @@
   "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 149
+   "URL is unknown to Google": 142,
+   "ERROR": 7
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 149,
+    "pages": 142,
     "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
+   },
+   {
+    "state": "ERROR",
+    "pages": 7,
+    "fix": "Google ka reason dekho: ERROR"
    }
   ],
   "not_indexed": [
@@ -565,7 +595,7 @@
    "https://zoepicks.github.io/g/best-walking-shoes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-27T00:12",
+   "last_submitted": "2026-10-28T00:56",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -578,11 +608,6 @@
    "clicks_28d": 0,
    "impressions_28d": 0,
    "last_days": [
-    {
-     "d": "2026-10-18",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-19",
      "clicks": 0,
@@ -610,6 +635,11 @@
     },
     {
      "d": "2026-10-24",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-25",
      "clicks": 0,
      "impr": 0
     }
@@ -684,6 +714,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-28",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -691,7 +728,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-27T00:12",
+    "last_submitted": "2026-10-28T00:56",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -707,8 +744,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -717,7 +754,8 @@
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'URL is unknown to Google' (142 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'ERROR' (7 pages): Google ka reason dekho: ERROR",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
