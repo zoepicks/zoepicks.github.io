@@ -3373,5 +3373,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Green Tote Bag (2026)",
+  "slug": "best-green-tote-bag-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tote-bags-2026",
+  "tab": "green",
+  "tab_label": "Green"
+ },
+ {
+  "title": "Best Candles For Wax Play (2026)",
+  "slug": "best-candles-for-wax-play-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
