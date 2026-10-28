@@ -1,84 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-10-27T12:47:20.711709+00:00",
+ "generated_at": "2026-10-28T00:56:15.328416+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-10-26T07:38:49.560504+00:00",
-   "score": 94,
-   "pages": 217,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 49
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "slow_pagex28",
-    "title_lengthx14",
-    "desc_lengthx7"
-   ],
-   "avg_words": 951,
-   "why": "schedule",
-   "indexnow": 7
-  },
-  {
-   "t": "2026-10-26T10:40:51.690285+00:00",
-   "score": 94,
-   "pages": 218,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 43
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "slow_pagex22",
-    "title_lengthx14",
-    "desc_lengthx7"
-   ],
-   "avg_words": 949,
-   "why": "schedule",
-   "indexnow": 2
-  },
-  {
-   "t": "2026-10-26T13:44:36.161538+00:00",
-   "score": 94,
-   "pages": 218,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 58
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "slow_pagex37",
-    "title_lengthx14",
-    "desc_lengthx7"
-   ],
-   "avg_words": 948,
-   "why": "schedule",
-   "indexnow": 1
-  },
-  {
-   "t": "2026-10-27T00:12:06.350106+00:00",
-   "score": 94,
-   "pages": 218,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 26
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "title_lengthx14",
-    "desc_lengthx7",
-    "slow_pagex5"
-   ],
-   "avg_words": 948,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-27T03:36:55.913626+00:00",
    "score": 94,
@@ -154,6 +78,82 @@
    "avg_words": 946,
    "why": "schedule",
    "indexnow": 2
+  },
+  {
+   "t": "2026-10-27T15:49:13.108954+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 30
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx14",
+    "slow_pagex9",
+    "desc_lengthx7"
+   ],
+   "avg_words": 946,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-27T18:53:34.628885+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 45
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "slow_pagex24",
+    "title_lengthx14",
+    "desc_lengthx7"
+   ],
+   "avg_words": 946,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-27T21:54:55.522047+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 32
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx14",
+    "slow_pagex11",
+    "desc_lengthx7"
+   ],
+   "avg_words": 946,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-10-28T00:56:15.328416+00:00",
+   "score": 94,
+   "pages": 218,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 26
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "title_lengthx14",
+    "desc_lengthx7",
+    "slow_pagex5"
+   ],
+   "avg_words": 946,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
@@ -194,14 +194,14 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 7,
+   "count": 5,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-laptop-stands-2026/",
-    "/g/best-webcams-2026/",
-    "/g/best-ultrawide-monitors-2026/"
+    "/g/best-hiking-backpacks-2026/",
+    "/g/best-cookware-set-2026/",
+    "/g/best-tire-inflators-2026/"
    ],
-   "detail": "load 3.8s"
+   "detail": "load 3.09s"
   }
  ],
  "adsense_checklist": {
@@ -216,21 +216,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 28
+  "low": 26
  },
  "avg_guide_words": 946,
  "slowest": [
   {
-   "url": "/g/best-laptop-stands-2026/",
-   "secs": 3.8
+   "url": "/g/best-cookware-set-2026/",
+   "secs": 3.5
   },
   {
-   "url": "/g/best-phone-deals-2026/",
+   "url": "/g/best-comforter-sets-2026/",
    "secs": 3.4
   },
   {
-   "url": "/g/best-ultrawide-monitors-2026/",
-   "secs": 3.21
+   "url": "/g/best-laptops-for-programmers-2026/",
+   "secs": 3.2
   }
  ],
  "broken_links": [],
@@ -583,7 +583,7 @@
    "t": 55,
    "d": 132,
    "w": 1981,
-   "i": 1,
+   "i": 0,
    "h": "385ac13f84"
   },
   {
@@ -592,7 +592,7 @@
    "t": 66,
    "d": 68,
    "w": 868,
-   "i": 2,
+   "i": 3,
    "h": "0b6d740f35"
   },
   {
@@ -1096,7 +1096,7 @@
    "t": 52,
    "d": 156,
    "w": 580,
-   "i": 1,
+   "i": 0,
    "h": "5df2e23884"
   },
   {
@@ -1141,7 +1141,7 @@
    "t": 58,
    "d": 146,
    "w": 683,
-   "i": 1,
+   "i": 0,
    "h": "9e3affd795"
   },
   {
@@ -1240,7 +1240,7 @@
    "t": 55,
    "d": 152,
    "w": 738,
-   "i": 1,
+   "i": 0,
    "h": "50856241f1"
   },
   {
@@ -1294,7 +1294,7 @@
    "t": 57,
    "d": 154,
    "w": 1243,
-   "i": 0,
+   "i": 1,
    "h": "fcbcfe5a66"
   },
   {
@@ -1321,7 +1321,7 @@
    "t": 59,
    "d": 148,
    "w": 781,
-   "i": 1,
+   "i": 0,
    "h": "6f32063fd3"
   },
   {
@@ -1501,7 +1501,7 @@
    "t": 46,
    "d": 129,
    "w": 626,
-   "i": 0,
+   "i": 1,
    "h": "b402b74ac2"
   },
   {
@@ -1573,7 +1573,7 @@
    "t": 50,
    "d": 145,
    "w": 549,
-   "i": 1,
+   "i": 0,
    "h": "6452dac7e6"
   },
   {
@@ -1663,7 +1663,7 @@
    "t": 45,
    "d": 153,
    "w": 1496,
-   "i": 0,
+   "i": 1,
    "h": "a44dee3ddb"
   },
   {
@@ -1978,7 +1978,7 @@
    "t": 54,
    "d": 143,
    "w": 1244,
-   "i": 0,
+   "i": 1,
    "h": "e16c48ed02"
   },
   {
@@ -2023,7 +2023,7 @@
    "t": 48,
    "d": 110,
    "w": 1528,
-   "i": 1,
+   "i": 0,
    "h": "e2e18a0321"
   },
   {
@@ -2200,34 +2200,6 @@
  ],
  "actions": [
   {
-   "t": "2026-10-26T01:29:55.623074+00:00",
-   "indexnow": {
-    "submitted": 3,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-10-26T04:34:29.632542+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-10-26T07:38:49.560504+00:00",
-   "indexnow": {
-    "submitted": 7,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-10-26T10:40:51.690285+00:00",
-   "indexnow": {
-    "submitted": 2,
-    "http": 200
-   }
-  },
-  {
    "t": "2026-10-26T13:44:36.161538+00:00",
    "indexnow": {
     "submitted": 1,
@@ -2267,6 +2239,34 @@
    "indexnow": {
     "submitted": 2,
     "http": 200
+   }
+  },
+  {
+   "t": "2026-10-27T15:49:13.108954+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-10-27T18:53:34.628885+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-10-27T21:54:55.522047+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-10-28T00:56:15.328416+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
    }
   }
  ]
