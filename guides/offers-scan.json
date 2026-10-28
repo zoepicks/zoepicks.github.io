@@ -2570,14 +2570,14 @@
   },
   "hobby_music:sewing-machines": {
    "label": "Sewing Machines",
-   "tries": 5,
+   "tries": 6,
    "items": [
     {
      "asin": "B0GFSBQVRG",
      "name": "PANTASY Vintage Sewing Machine Building Set",
      "pct": 25,
      "rating": 4.6,
-     "t": 1792937112,
+     "t": 1793148245,
      "img": "https://m.media-amazon.com/images/I/71eWBcrTd3L.jpg",
      "link": "https://www.amazon.com/dp/B0GFSBQVRG?tag=zoepicks00-20",
      "now": "59.99",
@@ -2588,26 +2588,11 @@
      "_price": 59.99
     },
     {
-     "asin": "B0GXSB3PN9",
-     "name": "Lastempa Mini Sewing Machine",
-     "pct": 10,
-     "rating": 4.2,
-     "t": 1792937112,
-     "img": "https://m.media-amazon.com/images/I/71RdDRpb8qL.jpg",
-     "link": "https://www.amazon.com/dp/B0GXSB3PN9?tag=zoepicks00-20",
-     "now": "71.98",
-     "was": "79.98",
-     "deal": "Limited time deal",
-     "reviews": 36,
-     "_title": "Lastempa Mini Sewing Machine for Beginners, 12 Stitches, White | Two speeds and foot pedal or button control for sewing pr...",
-     "_price": 71.98
-    },
-    {
      "asin": "B0CNX1J678",
      "name": "TIGARI Sewing Rolled Hemmer Foot",
      "pct": 10,
      "rating": 4.1,
-     "t": 1792937112,
+     "t": 1793148245,
      "img": "https://m.media-amazon.com/images/I/71rg5KSEcGL.jpg",
      "link": "https://www.amazon.com/dp/B0CNX1J678?tag=zoepicks00-20",
      "now": "19.79",
@@ -2622,7 +2607,7 @@
      "name": "TIGARI Rolled Hem Presser Foot",
      "pct": 10,
      "rating": 4.0,
-     "t": 1792937112,
+     "t": 1793148245,
      "img": "https://m.media-amazon.com/images/I/71ibaUk0J2L.jpg",
      "link": "https://www.amazon.com/dp/B0CNX1PVGX?tag=zoepicks00-20",
      "now": "13.49",
@@ -2631,9 +2616,24 @@
      "reviews": 367,
      "_title": "TIGARI Rolled Hem Presser Foot, Sewing Rolled Hemmer Foot, 7/8/9/10mm Size Rolled Hem Pressure Foot Sewing Machine Feet He...",
      "_price": 13.49
+    },
+    {
+     "asin": "B0GXSB3PN9",
+     "name": "Lastempa Mini Sewing Machine",
+     "pct": 10,
+     "rating": 4.0,
+     "t": 1793148245,
+     "img": "https://m.media-amazon.com/images/I/71RdDRpb8qL.jpg",
+     "link": "https://www.amazon.com/dp/B0GXSB3PN9?tag=zoepicks00-20",
+     "now": "71.98",
+     "was": "79.98",
+     "deal": "Limited time deal",
+     "reviews": 40,
+     "_title": "Lastempa Mini Sewing Machine for Beginners, 12 Stitches, White | Two speeds and foot pedal or button control for sewing pr...",
+     "_price": 71.98
     }
    ],
-   "scanned": "2026-10-25T14:05:12.968385+00:00"
+   "scanned": "2026-10-28T00:44:05.679073+00:00"
   },
   "beauty_health:hair-dryers": {
    "label": "Hair Dryers",
