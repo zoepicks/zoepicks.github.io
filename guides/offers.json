@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-29T07:28:39Z",
+ "updated": "2026-10-29T11:34:22Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -133,15 +133,13 @@
     "tier": "budget"
    },
    {
-    "asin": "B0FVKGBGC9",
-    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-    "pct": 65,
-    "rating": 4.3,
-    "t": 1793251143,
-    "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-    "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-    "now": "17.30",
-    "was": "49.99",
+    "asin": "B0FBF72DQW",
+    "name": "Sanorum Smart Watches",
+    "pct": 51,
+    "rating": 4.1,
+    "t": 1793251182,
+    "img": "https://m.media-amazon.com/images/I/61BQyfoLLpL.jpg",
+    "link": "https://www.amazon.com/dp/B0FBF72DQW?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -187,7 +185,7 @@
     "name": "Adjustable Dumbbell Set",
     "pct": 36,
     "rating": 4.5,
-    "t": 1793251144,
+    "t": 1793269839,
     "img": "https://m.media-amazon.com/images/I/51p1r3aEEzL.jpg",
     "link": "https://www.amazon.com/dp/B0GVDC3VL5?tag=zoepicks00-20",
     "now": "69.96",
@@ -992,7 +990,7 @@
       "name": "Australian Gold Body Lotion Sunscreen SPF 15",
       "pct": 29,
       "rating": 4.7,
-      "t": 1793251143,
+      "t": 1793269838,
       "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
       "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
       "now": "15.40",
@@ -1180,7 +1178,7 @@
       "name": "Hugo Boss Bottled Deodorant Stick",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793251145,
+      "t": 1793269841,
       "img": "https://m.media-amazon.com/images/I/51gwm+jeVsL.jpg",
       "link": "https://www.amazon.com/dp/B001BQXPBS?tag=zoepicks00-20",
       "now": "22.40",
@@ -1310,12 +1308,13 @@
       "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
       "pct": 51,
       "rating": 4.3,
-      "t": 1793251147,
+      "t": 1793147162,
       "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
       "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
       "now": "88.00",
       "was": "179.99",
-      "reviews": 17188
+      "deal": "Limited time deal",
+      "reviews": 17203
      },
      {
       "asin": "B0FNWCYLZN",
@@ -1521,51 +1520,6 @@
   ],
   "fashion": [
    {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0FVKGBGC9",
-      "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
-      "pct": 65,
-      "rating": 4.3,
-      "t": 1793251143,
-      "img": "https://m.media-amazon.com/images/I/61gUWctI1VL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVKGBGC9?tag=zoepicks00-20",
-      "now": "17.30",
-      "was": "49.99",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D1JGJ3LR",
-      "name": "Under Armour Kids Assert 10",
-      "pct": 50,
-      "rating": 4.6,
-      "t": 1793208988,
-      "img": "https://m.media-amazon.com/images/I/815UCkbCILL.jpg",
-      "link": "https://www.amazon.com/dp/B0D1JGJ3LR?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "60.00",
-      "reviews": 2494,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DHVH5VK3",
-      "name": "WHITIN Little/Big Kids Wide Toe Box Running Shoes",
-      "pct": 23,
-      "rating": 4.5,
-      "t": 1793162451,
-      "img": "https://m.media-amazon.com/images/I/81JgWLUs0IL.jpg",
-      "link": "https://www.amazon.com/dp/B0DHVH5VK3?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "51.99",
-      "reviews": 321,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -1638,7 +1592,7 @@
       "name": "OKP STUDIO 6 Packs Fishing Lightweight Hoodies",
       "pct": 30,
       "rating": 4.2,
-      "t": 1793251147,
+      "t": 1793269843,
       "img": "https://m.media-amazon.com/images/I/61Ytc-tGhSL.jpg",
       "link": "https://www.amazon.com/dp/B0GYS72BXH?tag=zoepicks00-20",
       "now": "34.99",
@@ -1735,6 +1689,51 @@
       "now": "71.98",
       "was": "99.99",
       "reviews": 117,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0D1JGJ3LR",
+      "name": "Under Armour Kids Assert 10",
+      "pct": 50,
+      "rating": 4.6,
+      "t": 1793208988,
+      "img": "https://m.media-amazon.com/images/I/815UCkbCILL.jpg",
+      "link": "https://www.amazon.com/dp/B0D1JGJ3LR?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "60.00",
+      "reviews": 2494,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FQMTGCY7",
+      "name": "Nike Unisex Kids' Cosmic Runner Running Shoes",
+      "pct": 33,
+      "rating": 4.4,
+      "t": 1793169207,
+      "img": "https://m.media-amazon.com/images/I/71XcD9ZZSXL.jpg",
+      "link": "https://www.amazon.com/dp/B0FQMTGCY7?tag=zoepicks00-20",
+      "now": "37.97",
+      "was": "57.00",
+      "reviews": 2572,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DHVH5VK3",
+      "name": "WHITIN Little/Big Kids Wide Toe Box Running Shoes",
+      "pct": 23,
+      "rating": 4.5,
+      "t": 1793162451,
+      "img": "https://m.media-amazon.com/images/I/81JgWLUs0IL.jpg",
+      "link": "https://www.amazon.com/dp/B0DHVH5VK3?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "51.99",
+      "reviews": 321,
       "tier": "premium"
      }
     ]
@@ -1890,7 +1889,7 @@
       "name": "COOFANDY Mens Packable Rain Jacket Lightweight Waterproof…",
       "pct": 41,
       "rating": 4.4,
-      "t": 1793251144,
+      "t": 1793269839,
       "img": "https://m.media-amazon.com/images/I/71QVFsSmiuL.jpg",
       "link": "https://www.amazon.com/dp/B07KW6STT8?tag=zoepicks00-20",
       "now": "18.98",
@@ -2071,7 +2070,7 @@
       "name": "Adjustable Dumbbell Set",
       "pct": 36,
       "rating": 4.5,
-      "t": 1793251144,
+      "t": 1793269839,
       "img": "https://m.media-amazon.com/images/I/51p1r3aEEzL.jpg",
       "link": "https://www.amazon.com/dp/B0GVDC3VL5?tag=zoepicks00-20",
       "now": "69.96",
@@ -3504,17 +3503,16 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HGLPJDLS",
-      "name": "Laptop Screen Extender",
-      "pct": 25,
-      "rating": 4.8,
-      "t": 1793145978,
-      "img": "https://m.media-amazon.com/images/I/71TO2z4wzyL.jpg",
-      "link": "https://www.amazon.com/dp/B0HGLPJDLS?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "119.99",
-      "deal": "Limited time deal",
-      "reviews": 40,
+      "asin": "B08L5SRCZJ",
+      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
+      "pct": 26,
+      "rating": 4.4,
+      "t": 1793270066,
+      "img": "https://m.media-amazon.com/images/I/81THPWFj1aL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
+      "now": "124.97",
+      "was": "169.99",
+      "reviews": 2669,
       "tier": "premium"
      }
     ]
@@ -3862,7 +3860,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793251144,
+      "t": 1793269840,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
