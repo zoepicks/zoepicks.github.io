@@ -5541,24 +5541,25 @@
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
-   "tries": 10,
+   "tries": 11,
    "items": [
     {
-     "asin": "B09BZZ3MM7",
-     "name": "Amazon Fire TV Cube",
-     "pct": 21,
-     "rating": 4.4,
-     "t": 1793028181,
-     "img": "https://m.media-amazon.com/images/I/61CvilMENWL.jpg",
-     "link": "https://www.amazon.com/dp/B09BZZ3MM7?tag=zoepicks00-20",
-     "now": "109.99",
-     "was": "139.99",
-     "reviews": 16113,
-     "_title": "Amazon Fire TV Cube, with AI-powered Fire TV Search, Hands-free streaming device, find shows faster with Alexa+, Wi-Fi 6E,...",
-     "_price": 109.99
+     "asin": "B0H87W9P2D",
+     "name": "BENFEI 4K@60Hz HDMI to USB-C Video Capture Card",
+     "pct": 15,
+     "rating": 4.7,
+     "t": 1793289674,
+     "img": "https://m.media-amazon.com/images/I/714+6J1khJL.jpg",
+     "link": "https://www.amazon.com/dp/B0H87W9P2D?tag=zoepicks00-20",
+     "now": "25.49",
+     "was": "29.99",
+     "deal": "Limited time deal",
+     "reviews": 238,
+     "_title": "BENFEI 4K@60Hz HDMI to USB-C Video Capture Card with Loop Out, 1080P 60FPS Low Latency Game Capture Device for Streaming, ...",
+     "_price": 25.49
     }
    ],
-   "scanned": "2026-10-26T15:23:01.796776+00:00",
+   "scanned": "2026-10-29T16:01:14.624557+00:00",
    "via": "sweep"
   },
   "tools_auto:obd2-scanners": {
