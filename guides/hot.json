@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-29T19:27:18Z",
+ "updated": "2026-10-29T21:27:29Z",
  "hot": [
   {
    "asin": "B0HMHNFS9B",
@@ -320,7 +320,8 @@
    "now": "17.99",
    "was": "39.99",
    "deal": "Limited time deal",
-   "reviews": 1528
+   "reviews": 1528,
+   "tier": "mid"
   },
   {
    "asin": "B07P1SFHK3",
@@ -1568,20 +1569,6 @@
    "icon": "🍂"
   },
   {
-   "asin": "B071JZ6NQM",
-   "name": "Melissa & Doug Fire Chief Role Play Costume Dress-Up Set",
-   "pct": 37,
-   "rating": 4.8,
-   "t": 1793177144,
-   "img": "https://m.media-amazon.com/images/I/71tRYHfio9L.jpg",
-   "link": "https://www.amazon.com/dp/B071JZ6NQM?tag=zoepicks00-20",
-   "now": "26.52",
-   "was": "41.99",
-   "theme": "halloween",
-   "label": "Halloween",
-   "icon": "🎃"
-  },
-  {
    "asin": "B0HMVTN843",
    "name": "Hearvo USB 3.0 HDMI KVM Switch",
    "pct": 37,
@@ -1637,6 +1624,20 @@
    "theme": "fall",
    "label": "Fall cozy",
    "icon": "🍂"
+  },
+  {
+   "asin": "B0HKMWHYY5",
+   "name": "4K@120Hz USB-C KVM Switch 2 Monitors 2 Computers…",
+   "pct": 33,
+   "rating": 4.5,
+   "t": 1793308109,
+   "img": "https://m.media-amazon.com/images/I/61DXsAGw5+L.jpg",
+   "link": "https://www.amazon.com/dp/B0HKMWHYY5?tag=zoepicks00-20",
+   "now": "99.98",
+   "was": "149.99",
+   "theme": "halloween",
+   "label": "Halloween",
+   "icon": "🎃"
   },
   {
    "asin": "B0CX1FRR27",
