@@ -40,11 +40,11 @@
    "image": "https://m.media-amazon.com/images/I/61kP8F-mdgL.jpg",
    "image_asin": "B0G62KNNXM",
    "amazon_price": "$340.00",
-   "amazon_price_asof": "Oct 28, 2026",
+   "amazon_price_asof": "Oct 29, 2026",
    "amazon_listing": "YETI Roadie 48 Wheeled Cooler with Retractable Periscope Handle",
    "amazon_rating": "4.8",
    "amazon_reviews": 728,
-   "amazon_rating_asof": "Oct 28, 2026"
+   "amazon_rating_asof": "Oct 29, 2026"
   },
   {
    "name": "RTIC 42 QT Ultra‑Light Wheeled",
@@ -74,8 +74,8 @@
    "best_for": "Rafting and activities requiring quick movement",
    "skip_if": "You need a large capacity cooler",
    "link": "https://www.amazon.com/s?k=RTIC+42+QT+Ultra%E2%80%91Light+Wheeled&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 22, 2026",
+   "fill_tries": 5,
+   "fill_last": "Oct 29, 2026",
    "fill_failed": true
   },
   {
@@ -106,8 +106,8 @@
    "best_for": "Lake and beach day trips",
    "skip_if": "You need a multi‑day cooler",
    "link": "https://www.amazon.com/s?k=Coleman+Classic+Series+65+Wheeled&tag=zoepicks00-20",
-   "fill_tries": 4,
-   "fill_last": "Oct 22, 2026",
+   "fill_tries": 5,
+   "fill_last": "Oct 29, 2026",
    "fill_failed": true
   }
  ],
