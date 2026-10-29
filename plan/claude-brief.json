@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-28T13:37:19.448467+00:00",
+ "generated_at": "2026-10-29T02:01:45.576165+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 48
+   "low": 23
   },
   "avg_guide_words": 943,
   "todo": [
@@ -23,18 +23,6 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 27,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-18v-battery-2026/",
-     "/g/best-perfumes-2026/",
-     "/g/best-toys-for-3-year-olds-2026/"
-    ],
-    "detail": "load 3.5s"
    },
    {
     "sev": "low",
@@ -59,6 +47,17 @@
      "/g/best-hiking-backpacks-2026/"
     ],
     "detail": "description 40 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 2,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-gaming-headsets-2026/",
+     "/g/best-record-players-2026/"
+    ],
+    "detail": "load 3.49s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,24 +73,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-28T07:29:50.342319+00:00",
+    "t": "2026-10-28T19:41:21.497457+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-28T10:35:10.320859+00:00",
+    "t": "2026-10-28T22:42:52.084785+00:00",
     "indexnow": {
-     "submitted": 2,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-28T13:37:09.982385+00:00",
+    "t": "2026-10-29T01:44:09.480402+00:00",
     "indexnow": {
-     "submitted": 1,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,30 +148,42 @@
  },
  "bots": {
   "today": {
-   "info": 26,
-   "warn": 1,
+   "info": 58,
+   "warn": 5,
    "error": 0
   },
   "last7d": {
-   "info": 149,
-   "warn": 7,
+   "info": 181,
+   "warn": 11,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 7
+    "warnings": 11
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 0,
-    "failed": 2,
+    "total": 10,
+    "ok": 6,
+    "failed": 4,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 185,
+      "at": "2026-10-28T22:45:09Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40782343016"
+     },
+     {
+      "run": 180,
+      "at": "2026-10-28T16:13:44Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40723875186"
+     },
      {
       "run": 177,
       "at": "2026-10-28T09:41:14Z",
@@ -188,9 +199,9 @@
     ]
    },
    "last7d": {
-    "total": 70,
-    "ok": 58,
-    "failed": 11,
+    "total": 78,
+    "ok": 64,
+    "failed": 13,
     "cancelled": 1,
     "running": 0,
     "failed_runs": [
@@ -328,96 +339,96 @@
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "built": 26,
-   "open": 121,
-   "covered": 16,
-   "queued": 37
+   "built": 21,
+   "open": 119,
+   "queued": 44,
+   "covered": 16
   },
   "missing_new": {
-   "today": 3,
-   "d7": 171,
+   "today": 21,
+   "d7": 169,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "network switch",
-    "leads": "6",
+    "topic": "ice maker",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1793191510",
-    "last_at": "1793192292"
+    "first_at": "1793221217",
+    "last_at": "1793221808"
    },
    {
-    "topic": "iphone 15",
+    "topic": "macbook case",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793221591",
+    "last_at": "1793221591"
+   },
+   {
+    "topic": "eczema skincare",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793220725",
+    "last_at": "1793221226"
+   },
+   {
+    "topic": "nintendo switch games",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793187631",
-    "last_at": "1793188109"
+    "first_at": "1793220234",
+    "last_at": "1793220391"
    },
    {
-    "topic": "hot water bottle",
+    "topic": "curling iron",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793187600",
-    "last_at": "1793187600"
+    "first_at": "1793217499",
+    "last_at": "1793217499"
    },
    {
-    "topic": "forward facing stroller",
+    "topic": "tactical backpack",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793157135",
-    "last_at": "1793157135"
+    "first_at": "1793211635",
+    "last_at": "1793211635"
    },
    {
-    "topic": "mesh router",
+    "topic": "electric waffle maker",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793147526",
-    "last_at": "1793147526"
+    "first_at": "1793211485",
+    "last_at": "1793211485"
    },
    {
-    "topic": "woodsy perfume",
+    "topic": "mouse trap",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793141945",
-    "last_at": "1793141945"
+    "first_at": "1793209590",
+    "last_at": "1793209590"
    },
    {
-    "topic": "reclining desk",
+    "topic": "vanity table",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793141754",
-    "last_at": "1793141754"
+    "first_at": "1793209517",
+    "last_at": "1793209517"
    },
    {
-    "topic": "unisex perfume",
-    "leads": "1",
+    "topic": "mac mini",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793141735",
-    "last_at": "1793141735"
-   },
-   {
-    "topic": "smartphone with large storage",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793141648",
-    "last_at": "1793141648"
-   },
-   {
-    "topic": "electronic components",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793139743",
-    "last_at": "1793139743"
+    "first_at": "1792856940",
+    "last_at": "1793206530"
    }
   ]
  },
@@ -428,19 +439,13 @@
   "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 142,
-   "ERROR": 7
+   "URL is unknown to Google": 149
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 142,
+    "pages": 149,
     "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
-   },
-   {
-    "state": "ERROR",
-    "pages": 7,
-    "fix": "Google ka reason dekho: ERROR"
    }
   ],
   "not_indexed": [
@@ -583,7 +588,7 @@
    "https://zoepicks.github.io/g/best-walking-shoes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-28T00:56",
+   "last_submitted": "2026-10-29T01:44",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -596,11 +601,6 @@
    "clicks_28d": 0,
    "impressions_28d": 0,
    "last_days": [
-    {
-     "d": "2026-10-19",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-20",
      "clicks": 0,
@@ -628,6 +628,11 @@
     },
     {
      "d": "2026-10-25",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-26",
      "clicks": 0,
      "impr": 0
     }
@@ -709,6 +714,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-29",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -716,7 +728,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-28T00:56",
+    "last_submitted": "2026-10-29T01:44",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -732,8 +744,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -742,8 +754,7 @@
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (142 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
-  "Google reason 'ERROR' (7 pages): Google ka reason dekho: ERROR",
+  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
