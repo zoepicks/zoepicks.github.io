@@ -3484,5 +3484,23 @@
   "parent": "best-hoodies-2026",
   "tab": "printing",
   "tab_label": "Printing"
+ },
+ {
+  "title": "Best Plush Toy (2026)",
+  "slug": "best-plush-toy-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Mini Fridge (2026)",
+  "slug": "best-mini-fridge-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
