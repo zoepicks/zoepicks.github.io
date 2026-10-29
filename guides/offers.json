@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-29T02:14:23Z",
+ "updated": "2026-10-29T04:14:41Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -108,14 +108,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0DY8TS92J",
-    "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
-    "pct": 51,
-    "rating": 4.3,
-    "t": 1793163925,
-    "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
-    "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0HGXTDJF8",
+    "name": "Hybrid Active Noise Cancelling Wireless Ear Buds 80 Hrs…",
+    "pct": 50,
+    "rating": 4.7,
+    "t": 1793147162,
+    "img": "https://m.media-amazon.com/images/I/71A-GJ3iNWL.jpg",
+    "link": "https://www.amazon.com/dp/B0HGXTDJF8?tag=zoepicks00-20",
+    "now": "99.98",
+    "was": "199.99",
+    "deal": "Limited time deal",
+    "reviews": 60,
     "tier": "premium"
    }
   ],
@@ -1349,17 +1352,6 @@
     "label": "Noise Cancelling Headphones",
     "items": [
      {
-      "asin": "B0DY8TS92J",
-      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
-      "pct": 51,
-      "rating": 4.3,
-      "t": 1793163925,
-      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
-      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
-     },
-     {
       "asin": "B01H6GUCCQ",
       "name": "BENGOO G9000 Stereo Gaming Headset",
       "pct": 31,
@@ -1372,6 +1364,31 @@
       "deal": "Limited time deal",
       "reviews": 122424,
       "tier": "budget"
+     },
+     {
+      "asin": "B0DY8TS92J",
+      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
+      "pct": 51,
+      "rating": 4.3,
+      "t": 1793163925,
+      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
+      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HGXTDJF8",
+      "name": "Hybrid Active Noise Cancelling Wireless Ear Buds 80 Hrs…",
+      "pct": 50,
+      "rating": 4.7,
+      "t": 1793147162,
+      "img": "https://m.media-amazon.com/images/I/71A-GJ3iNWL.jpg",
+      "link": "https://www.amazon.com/dp/B0HGXTDJF8?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "199.99",
+      "deal": "Limited time deal",
+      "reviews": 60,
+      "tier": "premium"
      }
     ]
    },
