@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-10-29T02:02:08.333657+00:00",
- "boots_total": 45,
+ "updated": "2026-10-29T05:08:27.064276+00:00",
+ "boots_total": 46,
  "recent_boots_utc": [
-  "2026-10-26T13:32:55",
   "2026-10-27T00:10:49",
   "2026-10-27T03:30:40",
   "2026-10-27T05:04:51",
@@ -12,9 +11,10 @@
   "2026-10-28T04:00:18",
   "2026-10-28T07:28:32",
   "2026-10-28T09:38:41",
-  "2026-10-28T12:10:27"
+  "2026-10-28T12:10:27",
+  "2026-10-29T04:56:40"
  ],
- "last_run_ts": 1793239301.6292958,
+ "last_run_ts": 1793250506.457302,
  "last_report_ts": 1793239327.7240398,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 23
+  "low": 61
  },
  "recent_runs": [
-  {
-   "t": "2026-10-27T21:54:55",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-10-28T00:56:15",
    "score": 94,
@@ -84,19 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-10-29T05:08:22",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-10-28T19:41:24",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-10-28T19:41:24",
-   "what": "SEO check: score 93 (-1), 218 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-10-28T22:42:54",
    "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
@@ -125,6 +115,16 @@
   {
    "t": "2026-10-29T02:02:07",
    "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-10-29T05:08:26",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-10-29T05:08:26",
+   "what": "SEO check: score 94 (+0), 218 pages, 1 high issue",
    "ok": true
   }
  ]
