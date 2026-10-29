@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-29T17:35:05Z",
+ "updated": "2026-10-29T19:35:21Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -135,14 +135,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0FBF72DQW",
-    "name": "Sanorum Smart Watches",
-    "pct": 51,
-    "rating": 4.1,
-    "t": 1793251182,
-    "img": "https://m.media-amazon.com/images/I/61BQyfoLLpL.jpg",
-    "link": "https://www.amazon.com/dp/B0FBF72DQW?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0DBLQ7ZTK",
+    "name": "Trendy Queen Womens Wide Leg Fleece Lined Sweatpants",
+    "pct": 55,
+    "rating": 4.2,
+    "t": 1793287292,
+    "img": "https://m.media-amazon.com/images/I/61GTtcwOxXL.jpg",
+    "link": "https://www.amazon.com/dp/B0DBLQ7ZTK?tag=zoepicks00-20",
+    "now": "17.99",
+    "was": "39.99",
+    "deal": "Limited time deal",
+    "reviews": 1528,
     "tier": "mid"
    },
    {
@@ -1746,7 +1749,8 @@
       "now": "17.99",
       "was": "39.99",
       "deal": "Limited time deal",
-      "reviews": 1528
+      "reviews": 1528,
+      "tier": "mid"
      },
      {
       "asin": "B0D56DKYJ5",
@@ -1915,16 +1919,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0FQMTGCY7",
-      "name": "Nike Unisex Kids' Cosmic Runner Running Shoes",
-      "pct": 33,
-      "rating": 4.4,
-      "t": 1793169207,
-      "img": "https://m.media-amazon.com/images/I/71XcD9ZZSXL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQMTGCY7?tag=zoepicks00-20",
-      "now": "37.97",
-      "was": "57.00",
-      "reviews": 2572,
+      "asin": "B0BRXCX97S",
+      "name": "WHITIN Men's Wide Toe Box Zero Drop Road Running Shoes S81",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793289783,
+      "img": "https://m.media-amazon.com/images/I/91Th0Ipew0L.jpg",
+      "link": "https://www.amazon.com/dp/B0BRXCX97S?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 3389,
       "tier": "mid"
      },
      {
@@ -4803,25 +4808,6 @@
     ]
    },
    {
-    "key": "streaming-devices",
-    "label": "Streaming Devices",
-    "items": [
-     {
-      "asin": "B0H87W9P2D",
-      "name": "BENFEI 4K@60Hz HDMI to USB-C Video Capture Card",
-      "pct": 15,
-      "rating": 4.7,
-      "t": 1793289674,
-      "img": "https://m.media-amazon.com/images/I/714+6J1khJL.jpg",
-      "link": "https://www.amazon.com/dp/B0H87W9P2D?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 238
-     }
-    ]
-   },
-   {
     "key": "smart-displays",
     "label": "Smart Displays",
     "items": [
@@ -4842,6 +4828,11 @@
    {
     "key": "mesh-wi-fi-systems",
     "label": "Mesh Wi Fi Systems",
+    "items": []
+   },
+   {
+    "key": "streaming-devices",
+    "label": "Streaming Devices",
     "items": []
    }
   ],
@@ -4883,12 +4874,11 @@
       "name": "4K+4K+1080P 3 Channel Dash Cam",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793289055,
+      "t": 1793300737,
       "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
       "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
       "now": "116.96",
       "was": "193.99",
-      "deal": "Limited time deal",
       "reviews": 334,
       "tier": "premium"
      }
@@ -4998,25 +4988,6 @@
     ]
    },
    {
-    "key": "impact-drivers",
-    "label": "Impact Drivers",
-    "items": [
-     {
-      "asin": "B0DK2H7G5G",
-      "name": "Klein Tools 32516HD KNECT 16-in-1 Impact-Rated Hybrid…",
-      "pct": 31,
-      "rating": 4.6,
-      "t": 1793289055,
-      "img": "https://m.media-amazon.com/images/I/71jdecuJjVL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK2H7G5G?tag=zoepicks00-20",
-      "now": "19.98",
-      "was": "28.98",
-      "deal": "Limited time deal",
-      "reviews": 851
-     }
-    ]
-   },
-   {
     "key": "cordless-drills",
     "label": "Cordless Drills",
     "items": [
@@ -5033,6 +5004,11 @@
       "reviews": 1929
      }
     ]
+   },
+   {
+    "key": "impact-drivers",
+    "label": "Impact Drivers",
+    "items": []
    },
    {
     "key": "lawn-mowers",
