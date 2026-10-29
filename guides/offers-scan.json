@@ -9338,25 +9338,24 @@
   },
   "fitness_outdoor:hiking-backpacks": {
    "label": "Hiking Backpacks",
-   "tries": 4,
+   "tries": 5,
    "items": [
     {
      "asin": "B09TR9LPKN",
      "name": "Lightweight Hydration Backpack",
      "pct": 10,
      "rating": 4.5,
-     "t": 1793145098,
+     "t": 1793287385,
      "img": "https://m.media-amazon.com/images/I/81PzR0zY5bL.jpg",
      "link": "https://www.amazon.com/dp/B09TR9LPKN?tag=zoepicks00-20",
      "now": "23.39",
      "was": "25.99",
-     "deal": "Limited time deal",
-     "reviews": 4067,
+     "reviews": 4071,
      "_title": "Lightweight Hydration Backpack, Running Backpack with 2L Water Bladder | Hydro Water Daypack, Small Hiking Backpack for Cy...",
      "_price": 23.39
     }
    ],
-   "scanned": "2026-10-27T23:51:38.446193+00:00",
+   "scanned": "2026-10-29T15:23:05.870801+00:00",
    "via": "sweep"
   },
   "monitors:gaming-monitors": {
@@ -11014,7 +11013,7 @@
    "types": 16
   },
   "fitness_outdoor": {
-   "at": "2026-10-27T23:51:38.446193+00:00",
+   "at": "2026-10-29T15:23:05.870801+00:00",
    "pages": 5,
    "cards": 120,
    "offer_cards": 116,
