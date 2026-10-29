@@ -3460,5 +3460,17 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Eczema Skincare (2026)",
+  "slug": "best-eczema-skincare-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-facial-skincare-2026",
+  "tab": "eczema",
+  "tab_label": "Eczema"
  }
 ]
