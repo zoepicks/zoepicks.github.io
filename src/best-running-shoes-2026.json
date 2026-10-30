@@ -38,11 +38,11 @@
    "image": "https://m.media-amazon.com/images/I/71wwgMpRNOL.jpg",
    "image_asin": "B0FZMF5K6Y",
    "amazon_price": "$150.00",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price_asof": "Oct 30, 2026",
    "amazon_listing": "Mizuno Men's Wave Rider 30 Running Shoe",
    "amazon_rating": "3.9",
-   "amazon_reviews": 48,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 50,
+   "amazon_rating_asof": "Oct 30, 2026"
   },
   {
    "name": "Brooks Ghost 15",
@@ -75,11 +75,11 @@
    "image": "https://m.media-amazon.com/images/I/81QNR5r0l1L.jpg",
    "image_asin": "B0CBQSP1RZ",
    "amazon_price": "$159.95",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price_asof": "Oct 30, 2026",
    "amazon_listing": "Brooks Men's Ghost 15 Neutral Running Shoe",
    "amazon_rating": "4.7",
-   "amazon_reviews": 9210,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 9214,
+   "amazon_rating_asof": "Oct 30, 2026"
   },
   {
    "name": "New Balance Fresh Foam X 1080v12",
@@ -108,9 +108,9 @@
    "best_for": "Women who want a smooth, cushioned shoe for daily runs",
    "skip_if": "You need maximum speed or cushioning",
    "link": "https://www.amazon.com/s?k=New+Balance+Fresh+Foam+X+1080v12&tag=zoepicks00-20",
-   "fill_tries": 3,
-   "fill_last": "Oct 29, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 30, 2026",
+   "fill_failed": true
   }
  ]
 }
