@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-29T14:15:56.693806+00:00",
+ "generated_at": "2026-10-30T02:40:01.264581+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -8,23 +8,12 @@
   "score_change_24h": 0,
   "pages": 218,
   "issue_counts": {
-   "high": 3,
+   "high": 1,
    "med": 0,
-   "low": 27
+   "low": 26
   },
-  "avg_guide_words": 934,
+  "avg_guide_words": 943,
   "todo": [
-   {
-    "sev": "high",
-    "code": "http_error",
-    "count": 2,
-    "fix": "Jin pages pe HTTP error hai unhe fix ya sitemap se hatao.",
-    "example": [
-     "/g/best-lawn-mowers-2026/",
-     "/g/best-black-water-bottle-2026/"
-    ],
-    "detail": "HTTP 503"
-   },
    {
     "sev": "high",
     "code": "contact_email_placeholder",
@@ -62,49 +51,49 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 6,
+    "count": 5,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-18v-battery-2026/",
-     "/g/best-kindle-case-2026/",
-     "/g/best-nintendo-switch-lite-2026/"
+     "/g/best-nintendo-switch-skin-2026/",
+     "/g/best-printers-2026/",
+     "/g/best-comforter-sets-2026/"
     ],
-    "detail": "load 3.8s"
+    "detail": "load 3.7s"
    }
   ],
-  "new_issue_types_since_last_brief": [
+  "new_issue_types_since_last_brief": [],
+  "fixed_issue_types_since_last_brief": [
    "http_error"
   ],
-  "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
    "guides_live": 212,
    "guides_enough_20plus": true,
-   "thin_guides": 2,
+   "thin_guides": 0,
    "own_domain": false,
    "no_broken_links": true
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-29T08:13:00.667363+00:00",
+    "t": "2026-10-29T20:19:07.409772+00:00",
     "indexnow": {
-     "submitted": 1,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-29T11:14:27.399568+00:00",
+    "t": "2026-10-29T23:21:02.000051+00:00",
     "indexnow": {
-     "submitted": 4,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-29T14:15:50.560742+00:00",
+    "t": "2026-10-30T02:22:21.201999+00:00",
     "indexnow": {
-     "submitted": 2,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -162,30 +151,42 @@
  },
  "bots": {
   "today": {
-   "info": 79,
-   "warn": 3,
+   "info": 101,
+   "warn": 7,
    "error": 0
   },
   "last7d": {
-   "info": 238,
-   "warn": 13,
+   "info": 260,
+   "warn": 17,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 13
+    "warnings": 17
    }
   ],
   "collector": {
    "today": {
-    "total": 5,
-    "ok": 2,
-    "failed": 3,
+    "total": 8,
+    "ok": 3,
+    "failed": 5,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 193,
+      "at": "2026-10-29T21:01:28Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40954157056"
+     },
+     {
+      "run": 191,
+      "at": "2026-10-29T20:01:15Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40945262032"
+     },
      {
       "run": 188,
       "at": "2026-10-29T10:59:46Z",
@@ -207,9 +208,9 @@
     ]
    },
    "last7d": {
-    "total": 71,
-    "ok": 55,
-    "failed": 16,
+    "total": 74,
+    "ok": 56,
+    "failed": 18,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -298,6 +299,26 @@
    {
     "module": "ZOESEO",
     "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
     "msg": "SEO: 3 HIGH issue(s): http_error, contact_email_placeholder"
    },
    {
@@ -314,122 +335,102 @@
     "module": "ZOESEO",
     "level": "w",
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "open": 117,
-   "built": 21,
-   "queued": 46,
-   "covered": 16
+   "open": 125,
+   "built": 18,
+   "covered": 15,
+   "queued": 42
   },
   "missing_new": {
-   "today": 2,
-   "d7": 168,
+   "today": 24,
+   "d7": 167,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "sd card",
+    "topic": "workout clothes",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1792529972",
-    "last_at": "1793283229"
+    "first_at": "1793315171",
+    "last_at": "1793315312"
    },
    {
-    "topic": "printing hoodie",
-    "leads": "5",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793282167",
-    "last_at": "1793282834"
-   },
-   {
-    "topic": "desk organizer",
+    "topic": "film camera",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793272131",
-    "last_at": "1793272305"
+    "first_at": "1792260446",
+    "last_at": "1793313481"
    },
    {
-    "topic": "macbook case",
-    "leads": "1",
+    "topic": "capture card",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1793221591",
-    "last_at": "1793221591"
+    "first_at": "1792183749",
+    "last_at": "1793311324"
    },
    {
-    "topic": "nintendo switch games",
+    "topic": "phone with keyboard",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793220234",
-    "last_at": "1793220391"
+    "first_at": "1793307616",
+    "last_at": "1793308014"
    },
    {
-    "topic": "curling iron",
+    "topic": "mascara",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793306978",
+    "last_at": "1793307607"
+   },
+   {
+    "topic": "wisconsin sports hoodie",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793300310",
+    "last_at": "1793300601"
+   },
+   {
+    "topic": "mac mini desktop",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793298835",
+    "last_at": "1793299519"
+   },
+   {
+    "topic": "camera cover",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793217499",
-    "last_at": "1793217499"
+    "first_at": "1793299412",
+    "last_at": "1793299412"
    },
    {
-    "topic": "tactical backpack",
-    "leads": "1",
+    "topic": "winter perfume",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1793211635",
-    "last_at": "1793211635"
+    "first_at": "1793296952",
+    "last_at": "1793297777"
    },
    {
-    "topic": "electric waffle maker",
-    "leads": "1",
+    "topic": "pentax camera",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1793211485",
-    "last_at": "1793211485"
-   },
-   {
-    "topic": "mouse trap",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793209590",
-    "last_at": "1793209590"
-   },
-   {
-    "topic": "vanity table",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793209517",
-    "last_at": "1793209517"
+    "first_at": "1793296665",
+    "last_at": "1793297693"
    }
   ]
  },
@@ -589,7 +590,7 @@
    "https://zoepicks.github.io/g/best-walking-shoes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-29T01:44",
+   "last_submitted": "2026-10-30T02:22",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -602,11 +603,6 @@
    "clicks_28d": 0,
    "impressions_28d": 0,
    "last_days": [
-    {
-     "d": "2026-10-20",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-21",
      "clicks": 0,
@@ -634,6 +630,11 @@
     },
     {
      "d": "2026-10-26",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-27",
      "clicks": 0,
      "impr": 0
     }
@@ -722,6 +723,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-30",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -729,7 +737,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-29T01:44",
+    "last_submitted": "2026-10-30T02:22",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -742,11 +750,11 @@
     "valid_xml": true,
     "urls": 218,
     "other_host_urls": 0,
-    "live_pages_crawled": 216
+    "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -758,8 +766,8 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "HIGH SEO: Jin pages pe HTTP error hai unhe fix ya sitemap se hatao. (2 page)",
   "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
-  "Collector runs fail hue - GitHub Actions logs check karo."
+  "Collector runs fail hue - GitHub Actions logs check karo.",
+  "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
 }
