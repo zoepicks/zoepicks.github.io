@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-30T05:37:00Z",
+ "updated": "2026-10-30T07:37:09Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -671,14 +671,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0GV4XWRT7",
-    "name": "4K+4K+1080P 3 Channel Dash Cam",
+    "asin": "B0H93T31W3",
+    "name": "4K+4K Dual Dash Cam Front and Rear",
     "pct": 40,
-    "rating": 4.5,
-    "t": 1793336923,
-    "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
-    "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
-    "reviews": 0,
+    "rating": 4.7,
+    "t": 1793289055,
+    "img": "https://m.media-amazon.com/images/I/81sED5fjPYL.jpg",
+    "link": "https://www.amazon.com/dp/B0H93T31W3?tag=zoepicks00-20",
+    "now": "109.97",
+    "was": "183.29",
+    "deal": "Limited time deal",
+    "reviews": 173,
     "tier": "premium"
    }
   ],
@@ -1788,12 +1791,11 @@
       "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
       "pct": 55,
       "rating": 4.5,
-      "t": 1793287292,
+      "t": 1793340013,
       "img": "https://m.media-amazon.com/images/I/71yhTG8TNrL.jpg",
       "link": "https://www.amazon.com/dp/B0BYNYSHZD?tag=zoepicks00-20",
       "now": "16.12",
       "was": "35.99",
-      "deal": "Limited time deal",
       "reviews": 10733,
       "tier": "mid"
      },
@@ -1997,6 +1999,19 @@
       "tier": "budget"
      },
      {
+      "asin": "B0HK8CSXGY",
+      "name": "DIVOAZBVO Smart Watches",
+      "pct": 5,
+      "rating": 4.0,
+      "t": 1793289798,
+      "img": "https://m.media-amazon.com/images/I/71fiWhgF5mL.jpg",
+      "link": "https://www.amazon.com/dp/B0HK8CSXGY?tag=zoepicks00-20",
+      "now": "19.94",
+      "was": "20.99",
+      "reviews": 182,
+      "tier": "mid"
+     },
+     {
       "asin": "B0H8SDLPSY",
       "name": "Smart Watches for Women",
       "pct": 32,
@@ -2005,19 +2020,6 @@
       "img": "https://m.media-amazon.com/images/I/81IsFi38IeL.jpg",
       "link": "https://www.amazon.com/dp/B0H8SDLPSY?tag=zoepicks00-20",
       "now": "47.38",
-      "was": "69.99",
-      "reviews": 1205,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H8SCCW6W",
-      "name": "Smart Watches for Women Men",
-      "pct": 29,
-      "rating": 4.3,
-      "t": 1793315363,
-      "img": "https://m.media-amazon.com/images/I/71jG4iIXCkL.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SCCW6W?tag=zoepicks00-20",
-      "now": "49.79",
       "was": "69.99",
       "reviews": 1205,
       "tier": "premium"
@@ -2115,36 +2117,6 @@
       "was": "41.99",
       "reviews": 53250,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B07KW6STT8",
-      "name": "COOFANDY Mens Packable Rain Jacket Lightweight Waterproof…",
-      "pct": 41,
-      "rating": 4.4,
-      "t": 1793213267,
-      "img": "https://m.media-amazon.com/images/I/71QVFsSmiuL.jpg",
-      "link": "https://www.amazon.com/dp/B07KW6STT8?tag=zoepicks00-20",
-      "now": "18.98",
-      "was": "31.99",
-      "reviews": 6718
-     },
-     {
-      "asin": "B0DR2BSKYK",
-      "name": "Zando Long Packable Rain Jacket Women Waterproof Raincoat",
-      "pct": 18,
-      "rating": 4.3,
-      "t": 1793216667,
-      "img": "https://m.media-amazon.com/images/I/71Ab2Coq3kL.jpg",
-      "link": "https://www.amazon.com/dp/B0DR2BSKYK?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "43.99",
-      "reviews": 525
      }
     ]
    },
@@ -2249,13 +2221,32 @@
       "name": "IUGA Compression Leggings",
       "pct": 27,
       "rating": 4.4,
-      "t": 1793211843,
+      "t": 1793287292,
       "img": "https://m.media-amazon.com/images/I/61zE+aYVWyL.jpg",
       "link": "https://www.amazon.com/dp/B0DBHGRDCH?tag=zoepicks00-20",
       "now": "26.99",
       "was": "36.99",
-      "reviews": 13905,
+      "deal": "Limited time deal",
+      "reviews": 13917,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
+    "items": [
+     {
+      "asin": "B0DR2BSKYK",
+      "name": "Zando Long Packable Rain Jacket Women Waterproof Raincoat",
+      "pct": 18,
+      "rating": 4.3,
+      "t": 1793216667,
+      "img": "https://m.media-amazon.com/images/I/71Ab2Coq3kL.jpg",
+      "link": "https://www.amazon.com/dp/B0DR2BSKYK?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "43.99",
+      "reviews": 525
      }
     ]
    },
@@ -2565,7 +2556,7 @@
       "name": "24 oz Insulated Water Bottle",
       "pct": 30,
       "rating": 4.6,
-      "t": 1793291050,
+      "t": 1793340001,
       "img": "https://m.media-amazon.com/images/I/51zQNRfbMlL.jpg",
       "link": "https://www.amazon.com/dp/B0DTQ5CVXX?tag=zoepicks00-20",
       "now": "13.97",
@@ -2825,38 +2816,13 @@
     ]
    },
    {
-    "key": "floor-lamps",
-    "label": "Floor Lamps",
-    "items": [
-     {
-      "asin": "B0FDFH61KW",
-      "name": "75\" Tall Dimmable Arc Floor Lamp",
-      "pct": 26,
-      "rating": 4.1,
-      "t": 1793211826,
-      "img": "https://m.media-amazon.com/images/I/7176UxTcbgL.jpg",
-      "link": "https://www.amazon.com/dp/B0FDFH61KW?tag=zoepicks00-20",
-      "now": "39.98",
-      "was": "53.99",
-      "reviews": 405
-     },
-     {
-      "asin": "B095NXXP8C",
-      "name": "Nintiue 【Upgraded】 Dimmable Floor Lamp",
-      "pct": 21,
-      "rating": 4.3,
-      "t": 1793211831,
-      "img": "https://m.media-amazon.com/images/I/61MtYoTeUHL.jpg",
-      "link": "https://www.amazon.com/dp/B095NXXP8C?tag=zoepicks00-20",
-      "now": "31.49",
-      "was": "39.99",
-      "reviews": 7126
-     }
-    ]
-   },
-   {
     "key": "desks-small-spaces",
     "label": "Desks Small Spaces",
+    "items": []
+   },
+   {
+    "key": "floor-lamps",
+    "label": "Floor Lamps",
     "items": []
    },
    {
@@ -2942,12 +2908,11 @@
       "name": "Logitech G PRO X Wired Gaming Headset",
       "pct": 29,
       "rating": 4.3,
-      "t": 1793287605,
+      "t": 1793339995,
       "img": "https://m.media-amazon.com/images/I/51j6CXF9DYL.jpg",
       "link": "https://www.amazon.com/dp/B07PDFBJZD?tag=zoepicks00-20",
       "now": "92.06",
       "was": "129.99",
-      "deal": "Limited time deal",
       "reviews": 6908,
       "tier": "premium"
      }
@@ -3002,6 +2967,38 @@
     ]
    },
    {
+    "key": "nintendo-switch-lite",
+    "label": "Nintendo Switch Lite",
+    "items": [
+     {
+      "asin": "B0GVXJFN8G",
+      "name": "Nonbliep 2 Pack Wireless Controller",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793287605,
+      "img": "https://m.media-amazon.com/images/I/71prtMS8H8L.jpg",
+      "link": "https://www.amazon.com/dp/B0GVXJFN8G?tag=zoepicks00-20",
+      "now": "23.89",
+      "was": "31.99",
+      "deal": "Limited time deal",
+      "reviews": 1279
+     },
+     {
+      "asin": "B07TRQH45S",
+      "name": "Wireless Pro Controller",
+      "pct": 16,
+      "rating": 4.3,
+      "t": 1793287605,
+      "img": "https://m.media-amazon.com/images/I/71TcGJqc2TL.jpg",
+      "link": "https://www.amazon.com/dp/B07TRQH45S?tag=zoepicks00-20",
+      "now": "20.98",
+      "was": "24.98",
+      "deal": "Limited time deal",
+      "reviews": 20590
+     }
+    ]
+   },
+   {
     "key": "gaming-desks",
     "label": "Gaming Desks",
     "items": [
@@ -3045,25 +3042,6 @@
       "deal": "Limited time deal",
       "reviews": 363,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "nintendo-switch-lite",
-    "label": "Nintendo Switch Lite",
-    "items": [
-     {
-      "asin": "B07TRQH45S",
-      "name": "Wireless Pro Controller",
-      "pct": 16,
-      "rating": 4.3,
-      "t": 1793287605,
-      "img": "https://m.media-amazon.com/images/I/71TcGJqc2TL.jpg",
-      "link": "https://www.amazon.com/dp/B07TRQH45S?tag=zoepicks00-20",
-      "now": "20.98",
-      "was": "24.98",
-      "deal": "Limited time deal",
-      "reviews": 20590
      }
     ]
    },
@@ -3537,12 +3515,13 @@
       "name": "Ninja Blast Max Portable Blender",
       "pct": 41,
       "rating": 4.2,
-      "t": 1793210902,
+      "t": 1793287820,
       "img": "https://m.media-amazon.com/images/I/71Gll2KaQfL.jpg",
       "link": "https://www.amazon.com/dp/B0DB6KW9SQ?tag=zoepicks00-20",
       "now": "59.49",
       "was": "99.99",
-      "reviews": 3275,
+      "deal": "Limited time deal",
+      "reviews": 3282,
       "tier": "mid"
      },
      {
@@ -3784,24 +3763,6 @@
     ]
    },
    {
-    "key": "steam-mop",
-    "label": "Steam Mop",
-    "items": [
-     {
-      "asin": "B082YPRJV3",
-      "name": "BISSELL PowerSteamer Heavy Duty 3-in-1 Steam Mop",
-      "pct": 23,
-      "rating": 4.2,
-      "t": 1793210882,
-      "img": "https://m.media-amazon.com/images/I/81AAroYEuaL.jpg",
-      "link": "https://www.amazon.com/dp/B082YPRJV3?tag=zoepicks00-20",
-      "now": "149.99",
-      "was": "194.99",
-      "reviews": 9383
-     }
-    ]
-   },
-   {
     "key": "space-heaters",
     "label": "Space Heaters",
     "items": [
@@ -3867,6 +3828,11 @@
    {
     "key": "stand-mixers",
     "label": "Stand Mixers",
+    "items": []
+   },
+   {
+    "key": "steam-mop",
+    "label": "Steam Mop",
     "items": []
    },
    {
@@ -5058,7 +5024,8 @@
       "link": "https://www.amazon.com/dp/B0HK8CSXGY?tag=zoepicks00-20",
       "now": "19.94",
       "was": "20.99",
-      "reviews": 182
+      "reviews": 182,
+      "tier": "mid"
      }
     ]
    },
@@ -5176,8 +5143,7 @@
       "now": "19.99",
       "was": "39.99",
       "deal": "Limited time deal",
-      "reviews": 47,
-      "tier": "budget"
+      "reviews": 47
      },
      {
       "asin": "B0HH8V7NNH",
@@ -5190,22 +5156,7 @@
       "now": "69.99",
       "was": "109.99",
       "deal": "Limited time deal",
-      "reviews": 25,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09KT9XNML",
-      "name": "XTOOL A30M Bidirectional Scan Tool",
-      "pct": 25,
-      "rating": 4.3,
-      "t": 1793289055,
-      "img": "https://m.media-amazon.com/images/I/6187fx9xDML.jpg",
-      "link": "https://www.amazon.com/dp/B09KT9XNML?tag=zoepicks00-20",
-      "now": "135.12",
-      "was": "179.00",
-      "deal": "Limited time deal",
-      "reviews": 1720,
-      "tier": "premium"
+      "reviews": 25
      }
     ]
    },
