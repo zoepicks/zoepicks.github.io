@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-30T01:27:55Z",
+ "updated": "2026-10-30T03:28:10Z",
  "hot": [
   {
    "asin": "B0HMHNFS9B",
@@ -14,7 +14,7 @@
    "was": "169.99",
    "deal": "Limited time deal",
    "reviews": 145,
-   "tier": "mid"
+   "tier": "budget"
   },
   {
    "asin": "B0FSQJBLPH",
@@ -170,6 +170,20 @@
    "tier": "premium"
   },
   {
+   "asin": "B0GKN9TXHH",
+   "name": "Super Mini Massage Gun",
+   "pct": 63,
+   "rating": 4.4,
+   "t": 1793317820,
+   "img": "https://m.media-amazon.com/images/I/714Tl7oa2zL.jpg",
+   "link": "https://www.amazon.com/dp/B0GKN9TXHH?tag=zoepicks00-20",
+   "now": "47.48",
+   "was": "129.98",
+   "deal": "Limited time deal",
+   "reviews": 99,
+   "tier": "premium"
+  },
+  {
    "asin": "B0HL8R37TY",
    "name": "Monster Sound Bar for Smart TV",
    "pct": 67,
@@ -212,6 +226,20 @@
    "tier": "mid"
   },
   {
+   "asin": "B0F916XPT8",
+   "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
+   "pct": 61,
+   "rating": 4.3,
+   "t": 1793318008,
+   "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
+   "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
+   "now": "54.99",
+   "was": "139.99",
+   "deal": "Limited time deal",
+   "reviews": 77,
+   "tier": "mid"
+  },
+  {
    "asin": "B0FF22678P",
    "name": "JMIERR Men's Henley Hoodie Fleece Quarter Button Pullove",
    "pct": 58,
@@ -250,7 +278,7 @@
    "was": "149.99",
    "deal": "Limited time deal",
    "reviews": 46,
-   "tier": "mid"
+   "tier": "budget"
   },
   {
    "asin": "B0FL554TG9",
@@ -281,20 +309,6 @@
    "tier": "budget"
   },
   {
-   "asin": "B0HNWMZSTG",
-   "name": "Smart Watch Fitness Tracker",
-   "pct": 49,
-   "rating": 5.0,
-   "t": 1793288066,
-   "img": "https://m.media-amazon.com/images/I/61xf+Solg0L.jpg",
-   "link": "https://www.amazon.com/dp/B0HNWMZSTG?tag=zoepicks00-20",
-   "now": "45.99",
-   "was": "89.99",
-   "deal": "Limited time deal",
-   "reviews": 88,
-   "tier": "premium"
-  },
-  {
    "asin": "B0FVL1N5P6",
    "name": "KOLILI Women's Walking Shoes Cushion Running Tennis…",
    "pct": 55,
@@ -320,6 +334,20 @@
    "deal": "Limited time deal",
    "reviews": 24,
    "tier": "premium"
+  },
+  {
+   "asin": "B0CKZ53T2W",
+   "name": "Litheli 20V Cordless Drill Driver",
+   "pct": 52,
+   "rating": 4.5,
+   "t": 1793318008,
+   "img": "https://m.media-amazon.com/images/I/611ywWp5f+L.jpg",
+   "link": "https://www.amazon.com/dp/B0CKZ53T2W?tag=zoepicks00-20",
+   "now": "37.55",
+   "was": "77.99",
+   "deal": "Limited time deal",
+   "reviews": 86,
+   "tier": "budget"
   },
   {
    "asin": "B0HBQB292F",
@@ -388,34 +416,6 @@
    "deal": "Limited time deal",
    "reviews": 5953,
    "tier": "mid"
-  },
-  {
-   "asin": "B0D38HHCG9",
-   "name": "Amazon Fire HD 8 Kids tablet",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1793291227,
-   "img": "https://m.media-amazon.com/images/I/61xAS-vEB5L.jpg",
-   "link": "https://www.amazon.com/dp/B0D38HHCG9?tag=zoepicks00-20",
-   "now": "74.99",
-   "was": "149.99",
-   "deal": "Limited time deal",
-   "reviews": 5205,
-   "tier": "premium"
-  },
-  {
-   "asin": "B0G4GT3Q9R",
-   "name": "fishkeeper Strong Aquarium Air Pump 3W/6W/10W",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1793291214,
-   "img": "https://m.media-amazon.com/images/I/71o+5L26-zL.jpg",
-   "link": "https://www.amazon.com/dp/B0G4GT3Q9R?tag=zoepicks00-20",
-   "now": "15.99",
-   "was": "31.99",
-   "deal": "Limited time deal",
-   "reviews": 42,
-   "tier": "budget"
   }
  ],
  "ess": [
@@ -1412,16 +1412,15 @@
    "icon": "👟"
   },
   {
-   "asin": "B0DSB6QB5D",
-   "name": "NORTIV 8 Men's Tactical Hiking Boots Lightweight Cushion",
-   "pct": 24,
-   "rating": 4.6,
-   "t": 1793286365,
-   "img": "https://m.media-amazon.com/images/I/81cS0d0xnqL.jpg",
-   "link": "https://www.amazon.com/dp/B0DSB6QB5D?tag=zoepicks00-20",
-   "now": "52.41",
-   "was": "68.99",
-   "deal": "Limited time deal",
+   "asin": "B0DQSFVW2G",
+   "name": "NORTIV 8 Men's Waterproof Leather Hiking Boots",
+   "pct": 25,
+   "rating": 4.3,
+   "t": 1793325696,
+   "img": "https://m.media-amazon.com/images/I/71SORg3u05L.jpg",
+   "link": "https://www.amazon.com/dp/B0DQSFVW2G?tag=zoepicks00-20",
+   "now": "49.98",
+   "was": "66.99",
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
@@ -1565,6 +1564,20 @@
    "theme": "halloween",
    "label": "Halloween",
    "icon": "🎃"
+  },
+  {
+   "asin": "B0D6Y7KTRX",
+   "name": "NORTIV 8 Men's Hiking Winter Insulated Snow Boots",
+   "pct": 34,
+   "rating": 4.4,
+   "t": 1793326609,
+   "img": "https://m.media-amazon.com/images/I/81cXt7fYuYL.jpg",
+   "link": "https://www.amazon.com/dp/B0D6Y7KTRX?tag=zoepicks00-20",
+   "now": "41.99",
+   "was": "63.99",
+   "theme": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
   },
   {
    "asin": "B0D1Q8SMMQ",
@@ -1811,21 +1824,6 @@
    "link": "https://www.amazon.com/dp/B08JTH5W7Z?tag=zoepicks00-20",
    "now": "31.96",
    "was": "39.96",
-   "deal": "Limited time deal",
-   "theme": "winter",
-   "label": "Winter ready",
-   "icon": "🧣"
-  },
-  {
-   "asin": "B0DM1PHDDW",
-   "name": "MAGCOMSEN Men's Sherpa Hoodie Heavyweight Fleece Lined…",
-   "pct": 20,
-   "rating": 4.6,
-   "t": 1793286365,
-   "img": "https://m.media-amazon.com/images/I/81WI-Ap-O8L.jpg",
-   "link": "https://www.amazon.com/dp/B0DM1PHDDW?tag=zoepicks00-20",
-   "now": "37.57",
-   "was": "46.97",
    "deal": "Limited time deal",
    "theme": "winter",
    "label": "Winter ready",
