@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-30T21:39:06Z",
+ "updated": "2026-10-30T23:39:23Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -589,7 +589,7 @@
     "name": "Cat Litter Deodorizer",
     "pct": 33,
     "rating": 4.6,
-    "t": 1793378881,
+    "t": 1793402018,
     "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
     "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
     "now": "28.99",
@@ -1037,7 +1037,7 @@
       "name": "Australian Gold Body Lotion Sunscreen SPF 15",
       "pct": 29,
       "rating": 4.7,
-      "t": 1793378879,
+      "t": 1793402017,
       "img": "https://m.media-amazon.com/images/I/61mzXwo7AWL.jpg",
       "link": "https://www.amazon.com/dp/B088PR7PBK?tag=zoepicks00-20",
       "now": "15.40",
@@ -2053,6 +2053,54 @@
     ]
    },
    {
+    "key": "tote-bags",
+    "label": "Tote Bags",
+    "items": [
+     {
+      "asin": "B093STG6TV",
+      "name": "Reusable Grocery Shopping Bags 10 Pack Large Foldable Tote…",
+      "pct": 37,
+      "rating": 4.4,
+      "t": 1793403528,
+      "img": "https://m.media-amazon.com/images/I/81hcZqkFoTL.jpg",
+      "link": "https://www.amazon.com/dp/B093STG6TV?tag=zoepicks00-20",
+      "now": "14.39",
+      "was": "22.99",
+      "deal": "Limited time deal",
+      "reviews": 10752,
+      "tier": "budget"
+     },
+     {
+      "asin": "B082XR8HVB",
+      "name": "Reusable Grocery Bags 3 Pack",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1793403528,
+      "img": "https://m.media-amazon.com/images/I/81lgubcsfnL.jpg",
+      "link": "https://www.amazon.com/dp/B082XR8HVB?tag=zoepicks00-20",
+      "now": "16.13",
+      "was": "23.99",
+      "deal": "Limited time deal",
+      "reviews": 9953,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H2V3D4VC",
+      "name": "LOVEVOOK Laptop Bag",
+      "pct": 20,
+      "rating": 4.7,
+      "t": 1793403528,
+      "img": "https://m.media-amazon.com/images/I/71RhdmCDw9L.jpg",
+      "link": "https://www.amazon.com/dp/B0H2V3D4VC?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "43.99",
+      "deal": "Limited time deal",
+      "reviews": 105,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "travel-backpacks",
     "label": "Travel Backpacks",
     "items": [
@@ -2068,18 +2116,6 @@
       "was": "29.87",
       "deal": "Limited time deal",
       "reviews": 31354
-     },
-     {
-      "asin": "B07S6N6G1G",
-      "name": "SHRRADOO Travel Laptop Backpack",
-      "pct": 17,
-      "rating": 4.7,
-      "t": 1793269147,
-      "img": "https://m.media-amazon.com/images/I/71E4O25QXKL.jpg",
-      "link": "https://www.amazon.com/dp/B07S6N6G1G?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "28.99",
-      "reviews": 31843
      }
     ]
    },
@@ -2162,6 +2198,19 @@
       "was": "36.99",
       "deal": "Limited time deal",
       "reviews": 4172
+     },
+     {
+      "asin": "B0DK9DCC9J",
+      "name": "HOTOR Travel Duffel Bag",
+      "pct": 17,
+      "rating": 4.6,
+      "t": 1793403528,
+      "img": "https://m.media-amazon.com/images/I/71+fHOpi8ML.jpg",
+      "link": "https://www.amazon.com/dp/B0DK9DCC9J?tag=zoepicks00-20",
+      "now": "14.97",
+      "was": "17.99",
+      "deal": "Limited time deal",
+      "reviews": 2321
      }
     ]
    },
@@ -2221,11 +2270,6 @@
    {
     "key": "rain-jackets",
     "label": "Rain Jackets",
-    "items": []
-   },
-   {
-    "key": "tote-bags",
-    "label": "Tote Bags",
     "items": []
    },
    {
@@ -4601,7 +4645,7 @@
       "name": "Cat Litter Deodorizer",
       "pct": 33,
       "rating": 4.6,
-      "t": 1793378881,
+      "t": 1793402018,
       "img": "https://images-na.ssl-images-amazon.com/images/I/61c9BfGsJOL.jpg",
       "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
       "now": "28.99",
@@ -5413,7 +5457,21 @@
    {
     "key": "board-games-families",
     "label": "Board Games Families",
-    "items": []
+    "items": [
+     {
+      "asin": "B0CR1K4X47",
+      "name": "Family Board Games",
+      "pct": 10,
+      "rating": 4.7,
+      "t": 1793403192,
+      "img": "https://m.media-amazon.com/images/I/71I0ul5Q4aL.jpg",
+      "link": "https://www.amazon.com/dp/B0CR1K4X47?tag=zoepicks00-20",
+      "now": "15.29",
+      "was": "16.99",
+      "deal": "Limited time deal",
+      "reviews": 995
+     }
+    ]
    },
    {
     "key": "chewable-fidget-toy",
