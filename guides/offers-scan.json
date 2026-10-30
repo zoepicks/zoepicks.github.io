@@ -673,48 +673,20 @@
   },
   "laptops:laptops": {
    "label": "Laptops",
-   "tries": 15,
+   "tries": 16,
    "items": [
-    {
-     "asin": "B071ZYHCM6",
-     "name": "YOREPEK Large Laptop Backpack",
-     "pct": 47,
-     "rating": 4.7,
-     "t": 1793287987,
-     "img": "https://m.media-amazon.com/images/I/71dSOfW5A0L.jpg",
-     "link": "https://www.amazon.com/dp/B071ZYHCM6?tag=zoepicks00-20",
-     "now": "22.07",
-     "was": "41.99",
-     "reviews": 53250,
-     "_title": "YOREPEK Large Laptop Backpack for Men, Heavy Duty Travel Backpack | Carry On Flight Approved, 17 Inch College Work Bookba...",
-     "_price": 22.07
-    },
-    {
-     "asin": "B06XZTZ7GB",
-     "name": "MATEIN Travel Laptop Backpack",
-     "pct": 45,
-     "rating": 4.7,
-     "t": 1793287987,
-     "img": "https://m.media-amazon.com/images/I/71ocYTnmgeL.jpg",
-     "link": "https://www.amazon.com/dp/B06XZTZ7GB?tag=zoepicks00-20",
-     "now": "18.68",
-     "was": "33.99",
-     "reviews": 115394,
-     "_title": "MATEIN Travel Laptop Backpack, 15.6 Inch College School Computer Bag, Grey | Slim Sturdy Business Daypack, Anti Theft Book...",
-     "_price": 18.68
-    },
     {
      "asin": "B09MQWWP87",
      "name": "Taygeer Travel Backpack",
      "pct": 36,
      "rating": 4.7,
-     "t": 1793287987,
+     "t": 1793373888,
      "img": "https://m.media-amazon.com/images/I/71K30PIVQmL.jpg",
      "link": "https://www.amazon.com/dp/B09MQWWP87?tag=zoepicks00-20",
      "now": "18.99",
      "was": "29.87",
      "deal": "Limited time deal",
-     "reviews": 31329,
+     "reviews": 31354,
      "_title": "Taygeer Travel Backpack for Women, TSA Carry On Backpack Flight Approved | 15.6inch Laptop Mochila with Water Bottle Pocke...",
      "_price": 18.99
     },
@@ -723,7 +695,7 @@
      "name": "DZVW Laptop Screen Extender 15.6\"",
      "pct": 10,
      "rating": 4.6,
-     "t": 1793287987,
+     "t": 1793373888,
      "img": "https://m.media-amazon.com/images/I/714BF8Zc3eL.jpg",
      "link": "https://www.amazon.com/dp/B0GT4JHQ9Q?tag=zoepicks00-20",
      "now": "188.99",
@@ -738,7 +710,7 @@
      "name": "ForHelp 15.6inch Portable Monitor,1080P USB-C HDMI Second…",
      "pct": 10,
      "rating": 4.4,
-     "t": 1793287987,
+     "t": 1793373888,
      "img": "https://m.media-amazon.com/images/I/71WdRXWl8fL.jpg",
      "link": "https://www.amazon.com/dp/B0BNWWF32B?tag=zoepicks00-20",
      "now": "44.97",
@@ -753,41 +725,41 @@
      "name": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub",
      "pct": 10,
      "rating": 4.3,
-     "t": 1793287987,
+     "t": 1793373888,
      "img": "https://m.media-amazon.com/images/I/71Mh2J8Hk7L.jpg",
      "link": "https://www.amazon.com/dp/B0BNTHWWMY?tag=zoepicks00-20",
      "now": "44.79",
      "was": "49.99",
      "deal": "Limited time deal",
-     "reviews": 13417,
+     "reviews": 13419,
      "_title": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub for Laptop MacBook | LIONWEI Triple 4K, Dual HDMI+DP, 10Gbps, 100W ...",
      "_price": 44.79
     }
    ],
-   "scanned": "2026-10-29T15:33:07.321632+00:00",
+   "scanned": "2026-10-30T15:24:48.685242+00:00",
    "via": "sweep"
   },
   "laptops:macbooks": {
    "label": "MacBooks",
-   "tries": 14,
+   "tries": 15,
    "items": [
     {
      "asin": "B0BNTHWWMY",
      "name": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub",
      "pct": 10,
      "rating": 4.3,
-     "t": 1793287987,
+     "t": 1793373888,
      "img": "https://m.media-amazon.com/images/I/71Mh2J8Hk7L.jpg",
      "link": "https://www.amazon.com/dp/B0BNTHWWMY?tag=zoepicks00-20",
      "now": "44.79",
      "was": "49.99",
      "deal": "Limited time deal",
-     "reviews": 13417,
+     "reviews": 13419,
      "_title": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub for Laptop MacBook | LIONWEI Triple 4K, Dual HDMI+DP, 10Gbps, 100W ...",
      "_price": 44.79
     }
    ],
-   "scanned": "2026-10-29T15:33:07.321632+00:00",
+   "scanned": "2026-10-30T15:24:48.685242+00:00",
    "via": "sweep"
   },
   "mobiles:iphones": {
@@ -10675,7 +10647,7 @@
    "types": 24
   },
   "laptops": {
-   "at": "2026-10-29T15:33:07.321632+00:00",
+   "at": "2026-10-30T15:24:48.685242+00:00",
    "pages": 5,
    "cards": 120,
    "offer_cards": 120,
