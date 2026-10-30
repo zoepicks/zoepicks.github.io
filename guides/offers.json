@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-30T17:38:39Z",
+ "updated": "2026-10-30T19:38:50Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1127,19 +1127,6 @@
     "label": "Hair Dryers",
     "items": [
      {
-      "asin": "B09B2Q7KRB",
-      "name": "REVLON One-Step Root Booster Round Brush Hair Dryer and…",
-      "pct": 30,
-      "rating": 4.2,
-      "t": 1793374723,
-      "img": "https://m.media-amazon.com/images/I/61BBeoP1+wL.jpg",
-      "link": "https://www.amazon.com/dp/B09B2Q7KRB?tag=zoepicks00-20",
-      "now": "38.49",
-      "was": "54.99",
-      "deal": "Limited time deal",
-      "reviews": 12355
-     },
-     {
       "asin": "B003FBG88E",
       "name": "Conair Ionic Hair Dryer",
       "pct": 10,
@@ -1150,7 +1137,35 @@
       "now": "22.91",
       "was": "25.47",
       "deal": "Limited time deal",
-      "reviews": 28190
+      "reviews": 28190,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0041QZOF0",
+      "name": "BaBylissPRO Nano Titanium Travel Hair Dryer",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793388214,
+      "img": "https://m.media-amazon.com/images/I/61xm38NB71L.jpg",
+      "link": "https://www.amazon.com/dp/B0041QZOF0?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "reviews": 7891,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09B2Q7KRB",
+      "name": "REVLON One-Step Root Booster Round Brush Hair Dryer and…",
+      "pct": 30,
+      "rating": 4.2,
+      "t": 1793374723,
+      "img": "https://m.media-amazon.com/images/I/61BBeoP1+wL.jpg",
+      "link": "https://www.amazon.com/dp/B09B2Q7KRB?tag=zoepicks00-20",
+      "now": "38.49",
+      "was": "54.99",
+      "deal": "Limited time deal",
+      "reviews": 12355,
+      "tier": "premium"
      }
     ]
    },
@@ -1486,51 +1501,6 @@
     ]
    },
    {
-    "key": "wireless-earbuds",
-    "label": "Wireless Earbuds",
-    "items": [
-     {
-      "asin": "B07T6FNLQV",
-      "name": "LC-dolida Sleep Headphones",
-      "pct": 35,
-      "rating": 4.2,
-      "t": 1793375300,
-      "img": "https://m.media-amazon.com/images/I/71GGksIzY-L.jpg",
-      "link": "https://www.amazon.com/dp/B07T6FNLQV?tag=zoepicks00-20",
-      "now": "25.95",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 22250,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DY8TS92J",
-      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
-      "pct": 51,
-      "rating": 4.3,
-      "t": 1793336866,
-      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
-      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0CCZ1SQ8G",
-      "name": "Bose QuietComfort Bluetooth Headphones",
-      "pct": 53,
-      "rating": 4.5,
-      "t": 1793375300,
-      "img": "https://m.media-amazon.com/images/I/51y5xR-XcfL.jpg",
-      "link": "https://www.amazon.com/dp/B0CCZ1SQ8G?tag=zoepicks00-20",
-      "now": "169.00",
-      "was": "359.00",
-      "deal": "Limited time deal",
-      "reviews": 22514,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "tablets",
     "label": "Tablets",
     "items": [
@@ -1553,12 +1523,11 @@
       "name": "Android 16 Tablet 10 Inch",
       "pct": 40,
       "rating": 4.7,
-      "t": 1793375300,
+      "t": 1793383919,
       "img": "https://m.media-amazon.com/images/I/71bv3j7wXTL.jpg",
       "link": "https://www.amazon.com/dp/B0HN1ZXSWH?tag=zoepicks00-20",
       "now": "79.98",
       "was": "133.99",
-      "deal": "Limited time deal",
       "reviews": 241,
       "tier": "mid"
      },
@@ -1574,6 +1543,51 @@
       "was": "269.00",
       "deal": "Limited time deal",
       "reviews": 870,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
+    "items": [
+     {
+      "asin": "B07T6FNLQV",
+      "name": "LC-dolida Sleep Headphones",
+      "pct": 35,
+      "rating": 4.2,
+      "t": 1793375300,
+      "img": "https://m.media-amazon.com/images/I/71GGksIzY-L.jpg",
+      "link": "https://www.amazon.com/dp/B07T6FNLQV?tag=zoepicks00-20",
+      "now": "25.95",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 22250,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BQPNMXQV",
+      "name": "JBL Vibe Beam - True Wireless Earbuds",
+      "pct": 40,
+      "rating": 4.2,
+      "t": 1793375300,
+      "img": "https://m.media-amazon.com/images/I/41+1Csr1pSL.jpg",
+      "link": "https://www.amazon.com/dp/B0BQPNMXQV?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "49.95",
+      "deal": "Limited time deal",
+      "reviews": 41299,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DY8TS92J",
+      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
+      "pct": 51,
+      "rating": 4.3,
+      "t": 1793336866,
+      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
+      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -5067,27 +5081,26 @@
       "name": "GJOSYOI Tire Inflator Portable Air Compressor",
       "pct": 40,
       "rating": 4.8,
-      "t": 1793374966,
+      "t": 1793383913,
       "img": "https://m.media-amazon.com/images/I/71rDUWnyB6L.jpg",
       "link": "https://www.amazon.com/dp/B0GXTQP6PG?tag=zoepicks00-20",
       "now": "37.99",
       "was": "63.32",
-      "deal": "Limited time deal",
       "reviews": 184,
       "tier": "mid"
      },
      {
-      "asin": "B0GV3LWRW5",
-      "name": "Giroago 6000A Jump Starter",
-      "pct": 40,
-      "rating": 5.0,
+      "asin": "B0DBLNV4K4",
+      "name": "[2026NEW Model] 5000A Jump Starter",
+      "pct": 36,
+      "rating": 4.5,
       "t": 1793374966,
-      "img": "https://m.media-amazon.com/images/I/71Lt-qu5x1L.jpg",
-      "link": "https://www.amazon.com/dp/B0GV3LWRW5?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "99.99",
+      "img": "https://m.media-amazon.com/images/I/71oG4PFNsmL.jpg",
+      "link": "https://www.amazon.com/dp/B0DBLNV4K4?tag=zoepicks00-20",
+      "now": "69.96",
+      "was": "109.99",
       "deal": "Limited time deal",
-      "reviews": 117,
+      "reviews": 1291,
       "tier": "premium"
      }
     ]
@@ -5108,7 +5121,7 @@
       "was": "183.29",
       "deal": "Limited time deal",
       "reviews": 175,
-      "tier": "budget"
+      "tier": "premium"
      },
      {
       "asin": "B0GV4XWRT7",
@@ -5118,22 +5131,7 @@
       "t": 1793336923,
       "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
       "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0BRLYT8M1",
-      "name": "WOLFBOX G930 10'' 4K Rear View Mirror Camera",
-      "pct": 26,
-      "rating": 4.3,
-      "t": 1793374966,
-      "img": "https://m.media-amazon.com/images/I/71gpq0glTtL.jpg",
-      "link": "https://www.amazon.com/dp/B0BRLYT8M1?tag=zoepicks00-20",
-      "now": "139.98",
-      "was": "189.99",
-      "deal": "Limited time deal",
-      "reviews": 2507,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
