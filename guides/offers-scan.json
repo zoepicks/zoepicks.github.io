@@ -4164,39 +4164,26 @@
   },
   "fitness_outdoor:home-gym-equipment": {
    "label": "Home Gym Equipment",
-   "tries": 6,
+   "tries": 7,
    "items": [
     {
-     "asin": "B0GSV7DD5M",
-     "name": "HA1 2-in-1 Hip Abductor and Adductor Machine",
-     "pct": 10,
-     "rating": 4.2,
-     "t": 1793291002,
-     "img": "https://m.media-amazon.com/images/I/71FGDL9rNdL.jpg",
-     "link": "https://www.amazon.com/dp/B0GSV7DD5M?tag=zoepicks00-20",
-     "now": "233.98",
-     "was": "259.99",
+     "asin": "B0DRSVXM1S",
+     "name": "12 Pack 48 sqft Home Gym Mat",
+     "pct": 13,
+     "rating": 4.6,
+     "t": 1793373252,
+     "img": "https://m.media-amazon.com/images/I/71hEVa+DEDL.jpg",
+     "link": "https://www.amazon.com/dp/B0DRSVXM1S?tag=zoepicks00-20",
+     "now": "39.95",
+     "was": "45.95",
      "deal": "Limited time deal",
-     "reviews": 75,
-     "_title": "HA1 2-in-1 Hip Abductor and Adductor Machine, Glute & Inner Thigh Workout Equipment for Home Gym, Leg Workout and Booty Bu...",
-     "_price": 233.98
-    },
-    {
-     "asin": "B0DYMVWDPW",
-     "name": "JELENS Home Gym, Multifunctional H11 Home Gym Equipment",
-     "pct": 5,
-     "rating": 4.0,
-     "t": 1793291002,
-     "img": "https://m.media-amazon.com/images/I/713S+iUGTgL.jpg",
-     "link": "https://www.amazon.com/dp/B0DYMVWDPW?tag=zoepicks00-20",
-     "now": "484.49",
-     "was": "509.99",
-     "reviews": 122,
-     "_title": "JELENS Home Gym, Multifunctional H11 Home Gym Equipment, Workout Station with 150LBS Weight Stack, Exercise Equipment with...",
-     "_price": 484.49
+     "reviews": 1817,
+     "_title": "12 Pack 48 sqft Home Gym Mat, Puzzle Exercise Mat, EVA Interlocking Foam Floor Tiles for Home Workout Equipment Black, 24 ...",
+     "_price": 39.95
     }
    ],
-   "scanned": "2026-10-29T16:23:22.900363+00:00"
+   "scanned": "2026-10-30T15:14:12.104956+00:00",
+   "via": "sweep"
   },
   "accessories:wireless-mouse": {
    "label": "Wireless Mouse",
@@ -10666,10 +10653,10 @@
    "types": 16
   },
   "fitness_outdoor": {
-   "at": "2026-10-29T15:23:05.870801+00:00",
+   "at": "2026-10-30T15:14:12.104956+00:00",
    "pages": 5,
    "cards": 120,
-   "offer_cards": 116,
+   "offer_cards": 117,
    "types_hit": 1,
    "types": 11
   },
