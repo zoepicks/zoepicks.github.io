@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-30T02:40:01.264581+00:00",
+ "generated_at": "2026-10-30T14:46:25.905296+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,9 +10,9 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 26
+   "low": 57
   },
-  "avg_guide_words": 943,
+  "avg_guide_words": 942,
   "todo": [
    {
     "sev": "high",
@@ -23,6 +23,18 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 36,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-dog-stroller-2026/",
+     "/g/best-leggings-2026/",
+     "/g/best-in-ear-gaming-headphones-2026/"
+    ],
+    "detail": "load 3.11s"
    },
    {
     "sev": "low",
@@ -47,24 +59,10 @@
      "/g/best-hiking-backpacks-2026/"
     ],
     "detail": "description 40 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 5,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-nintendo-switch-skin-2026/",
-     "/g/best-printers-2026/",
-     "/g/best-comforter-sets-2026/"
-    ],
-    "detail": "load 3.7s"
    }
   ],
   "new_issue_types_since_last_brief": [],
-  "fixed_issue_types_since_last_brief": [
-   "http_error"
-  ],
+  "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
@@ -76,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-29T20:19:07.409772+00:00",
+    "t": "2026-10-30T08:43:10.286625+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-29T23:21:02.000051+00:00",
+    "t": "2026-10-30T11:44:35.251283+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 2,
+     "http": 200
     }
    },
    {
-    "t": "2026-10-30T02:22:21.201999+00:00",
+    "t": "2026-10-30T14:46:19.201222+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 1,
+     "http": 200
     }
    }
   ]
@@ -105,12 +103,6 @@
   "total_views": 854,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-23",
-    "visitors": 1,
-    "views": 1,
-    "clicks": 0
-   },
    {
     "day": "2026-10-24",
     "visitors": 9,
@@ -146,71 +138,59 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-10-30",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 101,
-   "warn": 7,
+   "info": 56,
+   "warn": 4,
    "error": 0
   },
   "last7d": {
-   "info": 260,
-   "warn": 17,
+   "info": 306,
+   "warn": 20,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 17
+    "warnings": 20
    }
   ],
   "collector": {
    "today": {
-    "total": 8,
-    "ok": 3,
-    "failed": 5,
+    "total": 2,
+    "ok": 0,
+    "failed": 2,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 193,
-      "at": "2026-10-29T21:01:28Z",
+      "run": 196,
+      "at": "2026-10-30T09:03:13Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40954157056"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41030612109"
      },
      {
-      "run": 191,
-      "at": "2026-10-29T20:01:15Z",
+      "run": 195,
+      "at": "2026-10-30T05:00:51Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40945262032"
-     },
-     {
-      "run": 188,
-      "at": "2026-10-29T10:59:46Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40861893551"
-     },
-     {
-      "run": 187,
-      "at": "2026-10-29T05:00:13Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40820857703"
-     },
-     {
-      "run": 186,
-      "at": "2026-10-29T04:46:28Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40819614741"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41006030432"
      }
     ]
    },
    "last7d": {
-    "total": 74,
-    "ok": 56,
-    "failed": 18,
+    "total": 64,
+    "ok": 43,
+    "failed": 21,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -279,8 +259,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 128,
-    "ok": 128,
+    "total": 153,
+    "ok": 153,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -319,12 +299,12 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 3 HIGH issue(s): http_error, contact_email_placeholder"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -341,17 +321,57 @@
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "open": 125,
-   "built": 18,
-   "covered": 15,
-   "queued": 42
+   "built": 17,
+   "open": 127,
+   "queued": 42,
+   "covered": 14
   },
   "missing_new": {
-   "today": 24,
-   "d7": 167,
+   "today": 4,
+   "d7": 166,
    "d30": 200
   },
   "open_topics": [
+   {
+    "topic": "monitor stand",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793370927",
+    "last_at": "1793371480"
+   },
+   {
+    "topic": "ps5 or gaming pc",
+    "leads": "9",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793368780",
+    "last_at": "1793370232"
+   },
+   {
+    "topic": "sleep mask",
+    "leads": "7",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792332776",
+    "last_at": "1793370223"
+   },
+   {
+    "topic": "medium luggage",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793367358",
+    "last_at": "1793367903"
+   },
+   {
+    "topic": "pink laptop",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793361310",
+    "last_at": "1793361310"
+   },
    {
     "topic": "workout clothes",
     "leads": "2",
@@ -391,46 +411,6 @@
     "status": "open",
     "first_at": "1793306978",
     "last_at": "1793307607"
-   },
-   {
-    "topic": "wisconsin sports hoodie",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793300310",
-    "last_at": "1793300601"
-   },
-   {
-    "topic": "mac mini desktop",
-    "leads": "4",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793298835",
-    "last_at": "1793299519"
-   },
-   {
-    "topic": "camera cover",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793299412",
-    "last_at": "1793299412"
-   },
-   {
-    "topic": "winter perfume",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793296952",
-    "last_at": "1793297777"
-   },
-   {
-    "topic": "pentax camera",
-    "leads": "6",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793296665",
-    "last_at": "1793297693"
    }
   ]
  },
@@ -753,8 +733,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -766,7 +746,6 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
