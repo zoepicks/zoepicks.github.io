@@ -37,11 +37,11 @@
    "image": "https://m.media-amazon.com/images/I/61PaDbfoHjL.jpg",
    "image_asin": "B078T168L2",
    "amazon_price": "$135.00",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price_asof": "Oct 30, 2026",
    "amazon_listing": "Navy Riviera Polo for Men by Sunspel",
    "amazon_rating": "3.9",
    "amazon_reviews": 7,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_rating_asof": "Oct 30, 2026"
   },
   {
    "name": "H&M Cotton Polo Shirt",
@@ -67,9 +67,9 @@
    "best_for": "Budget shoppers",
    "skip_if": "Those seeking premium fabric",
    "link": "https://www.amazon.com/s?k=H%26M+Cotton+Polo+Shirt&tag=zoepicks00-20",
-   "fill_tries": 3,
-   "fill_last": "Oct 29, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 30, 2026",
+   "fill_failed": true
   },
   {
    "name": "Fresh Clean Threads Torrey Polo",
@@ -98,9 +98,9 @@
    "best_for": "Casual wearers who value comfort",
    "skip_if": "Those needing smart tracking or premium fabric",
    "link": "https://www.amazon.com/s?k=Fresh+Clean+Threads+Torrey+Polo&tag=zoepicks00-20",
-   "fill_tries": 3,
-   "fill_last": "Oct 29, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Oct 30, 2026",
+   "fill_failed": true
   }
  ],
  "verdict": {
