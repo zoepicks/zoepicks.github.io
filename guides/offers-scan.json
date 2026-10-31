@@ -9332,24 +9332,55 @@
   },
   "fitness_outdoor:hiking-backpacks": {
    "label": "Hiking Backpacks",
-   "tries": 5,
+   "tries": 6,
    "items": [
     {
-     "asin": "B09TR9LPKN",
-     "name": "Lightweight Hydration Backpack",
+     "asin": "B087R37LZ2",
+     "name": "WATERFLY Small Lightweight Packable Backpack: 20l Hiking…",
+     "pct": 17,
+     "rating": 4.5,
+     "t": 1793460279,
+     "img": "https://m.media-amazon.com/images/I/81E9qkAgDvL.jpg",
+     "link": "https://www.amazon.com/dp/B087R37LZ2?tag=zoepicks00-20",
+     "now": "21.58",
+     "was": "25.98",
+     "deal": "Limited time deal",
+     "reviews": 3962,
+     "_title": "WATERFLY Small Lightweight Packable Backpack: 20l Hiking Daypack Man Woman | 20L,Recycled nylon material,Multi-compartment...",
+     "_price": 21.58
+    },
+    {
+     "asin": "B087RF22S8",
+     "name": "QT&QY 45L Military Tactical Backpacks Molle Army Assault…",
+     "pct": 10,
+     "rating": 4.7,
+     "t": 1793460279,
+     "img": "https://m.media-amazon.com/images/I/71w8D+7nUDL.jpg",
+     "link": "https://www.amazon.com/dp/B087RF22S8?tag=zoepicks00-20",
+     "now": "32.39",
+     "was": "35.99",
+     "deal": "Limited time deal",
+     "reviews": 16379,
+     "_title": "QT&QY 45L Military Tactical Backpacks Molle Army Assault Pack 3 Day Bug Out Bag Hiking Treeking Rucksack…",
+     "_price": 32.39
+    },
+    {
+     "asin": "B0GHN9K6FY",
+     "name": "RealCool 20L Lightweight Hiking Backpack",
      "pct": 10,
      "rating": 4.5,
-     "t": 1793287385,
-     "img": "https://m.media-amazon.com/images/I/81PzR0zY5bL.jpg",
-     "link": "https://www.amazon.com/dp/B09TR9LPKN?tag=zoepicks00-20",
-     "now": "23.39",
-     "was": "25.99",
-     "reviews": 4071,
-     "_title": "Lightweight Hydration Backpack, Running Backpack with 2L Water Bladder | Hydro Water Daypack, Small Hiking Backpack for Cy...",
-     "_price": 23.39
+     "t": 1793460279,
+     "img": "https://m.media-amazon.com/images/I/716bchjg1kL.jpg",
+     "link": "https://www.amazon.com/dp/B0GHN9K6FY?tag=zoepicks00-20",
+     "now": "26.92",
+     "was": "29.99",
+     "deal": "Limited time deal",
+     "reviews": 166,
+     "_title": "RealCool 20L Lightweight Hiking Backpack, Small Travel Daypack for Camping | 210D tear-resistant nylon, water-resistant,br...",
+     "_price": 26.92
     }
    ],
-   "scanned": "2026-10-29T15:23:05.870801+00:00",
+   "scanned": "2026-10-31T15:24:39.998338+00:00",
    "via": "sweep"
   },
   "monitors:gaming-monitors": {
