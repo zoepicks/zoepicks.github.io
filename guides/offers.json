@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-31T17:17:26Z",
+ "updated": "2026-10-31T21:17:56Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -3428,11 +3428,12 @@
       "name": "AHNR 20000PA Handheld Car Vacuum Portable Cordless",
       "pct": 40,
       "rating": 4.0,
-      "t": 1793420547,
+      "t": 1793410821,
       "img": "https://m.media-amazon.com/images/I/71rEGQJC1TL.jpg",
       "link": "https://www.amazon.com/dp/B0CRNK6SSP?tag=zoepicks00-20",
       "now": "18.04",
       "was": "29.83",
+      "deal": "Limited time deal",
       "reviews": 1482,
       "tier": "budget"
      },
@@ -3520,11 +3521,12 @@
       "name": "Knife Set, Kitchen Knives Set",
       "pct": 38,
       "rating": 4.8,
-      "t": 1793412022,
+      "t": 1793405329,
       "img": "https://m.media-amazon.com/images/I/71zul+KzoRL.jpg",
       "link": "https://www.amazon.com/dp/B0GG9D9CLY?tag=zoepicks00-20",
       "now": "49.96",
       "was": "79.98",
+      "deal": "Limited time deal",
       "reviews": 122,
       "tier": "budget"
      },
@@ -3920,11 +3922,12 @@
       "name": "OLIXIS 24\" Space Heater",
       "pct": 17,
       "rating": 4.4,
-      "t": 1793420540,
+      "t": 1793410906,
       "img": "https://m.media-amazon.com/images/I/61D+ufAZ92L.jpg",
       "link": "https://www.amazon.com/dp/B0HGDTZ8HB?tag=zoepicks00-20",
       "now": "39.95",
       "was": "47.99",
+      "deal": "Limited time deal",
       "reviews": 134,
       "tier": "premium"
      }
@@ -4114,6 +4117,25 @@
     ]
    },
    {
+    "key": "black-water-bottle",
+    "label": "Black Water Bottle",
+    "items": [
+     {
+      "asin": "B0CGV7GLFL",
+      "name": "WaterH BOOST Smart Water Bottle Tracker",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1793405274,
+      "img": "https://m.media-amazon.com/images/I/71mmVS1Fx6L.jpg",
+      "link": "https://www.amazon.com/dp/B0CGV7GLFL?tag=zoepicks00-20",
+      "now": "46.71",
+      "was": "54.99",
+      "deal": "Limited time deal",
+      "reviews": 2679
+     }
+    ]
+   },
+   {
     "key": "waffle-maker",
     "label": "Waffle Maker",
     "items": [
@@ -4131,11 +4153,6 @@
       "reviews": 553
      }
     ]
-   },
-   {
-    "key": "black-water-bottle",
-    "label": "Black Water Bottle",
-    "items": []
    },
    {
     "key": "stove-pressure-cooker",
@@ -5401,11 +5418,12 @@
       "name": "AHNR 20000PA Handheld Car Vacuum Portable Cordless",
       "pct": 40,
       "rating": 4.0,
-      "t": 1793420547,
+      "t": 1793410821,
       "img": "https://m.media-amazon.com/images/I/71rEGQJC1TL.jpg",
       "link": "https://www.amazon.com/dp/B0CRNK6SSP?tag=zoepicks00-20",
       "now": "18.04",
       "was": "29.83",
+      "deal": "Limited time deal",
       "reviews": 1482,
       "tier": "budget"
      },
