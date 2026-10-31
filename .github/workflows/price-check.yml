@@ -1,0 +1,54 @@
+name: Price Check
+
+# Opens the given ASINs on amazon.com with real headless Chromium (Playwright) and records the price / list price / discount Amazon shows,
+# to compare against a Deal Reel. Manual: Actions tab -> Price Check -> Run workflow (asins = comma separated).
+# Result is pushed to .github/price-check-results/latest.json (+ a screenshot of each price block).
+
+on:
+  workflow_dispatch:
+    inputs:
+      asins:
+        description: 'comma separated ASINs'
+        default: 'B09W9G8WCC,B09DPKMYHT,B0F3X9LQQJ'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: price-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Check prices
+        env:
+          ASINS: ${{ github.event.inputs.asins }}
+        run: python tools/price_check_ci.py
+
+      - name: Push result
+        if: always()
+        run: |
+          mkdir -p .github/price-check-results
+          cp price_check_result.json .github/price-check-results/latest.json 2>/dev/null || echo '{"fatal":"no result file"}' > .github/price-check-results/latest.json
+          rm -f .github/price-check-results/*.png
+          cp price_check_shots/*.png .github/price-check-results/ 2>/dev/null || true
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .github/price-check-results
+          git commit -m "ci: price-check result (auto)" || echo "nothing to commit"
+          git pull --rebase -q || true
+          git push || true
