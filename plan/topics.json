@@ -3592,5 +3592,38 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Ergonomic Office Chair (2026)",
+  "slug": "best-ergonomic-office-chair-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-office-chairs-2026",
+  "tab": "ergonomic",
+  "tab_label": "Ergonomic"
+ },
+ {
+  "title": "Best Halloween Makeup (2026)",
+  "slug": "best-halloween-makeup-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-eye-makeup-2026",
+  "tab": "halloween",
+  "tab_label": "Halloween"
+ },
+ {
+  "title": "Best Dog Leash (2026)",
+  "slug": "best-dog-leash-2026",
+  "category": "pets",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
