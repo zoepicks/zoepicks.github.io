@@ -5621,25 +5621,39 @@
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
-   "tries": 11,
+   "tries": 12,
    "items": [
     {
      "asin": "B0H87W9P2D",
      "name": "BENFEI 4K@60Hz HDMI to USB-C Video Capture Card",
      "pct": 15,
      "rating": 4.7,
-     "t": 1793289674,
+     "t": 1793460577,
      "img": "https://m.media-amazon.com/images/I/714+6J1khJL.jpg",
      "link": "https://www.amazon.com/dp/B0H87W9P2D?tag=zoepicks00-20",
      "now": "25.49",
      "was": "29.99",
      "deal": "Limited time deal",
-     "reviews": 238,
+     "reviews": 239,
      "_title": "BENFEI 4K@60Hz HDMI to USB-C Video Capture Card with Loop Out, 1080P 60FPS Low Latency Game Capture Device for Streaming, ...",
      "_price": 25.49
+    },
+    {
+     "asin": "B0DF44RTTP",
+     "name": "Roku Ultra, Ultimate Streaming Player",
+     "pct": 7,
+     "rating": 4.4,
+     "t": 1793460577,
+     "img": "https://m.media-amazon.com/images/I/71+N77h+qZL.jpg",
+     "link": "https://www.amazon.com/dp/B0DF44RTTP?tag=zoepicks00-20",
+     "now": "139.95",
+     "was": "149.99",
+     "reviews": 9090,
+     "_title": "Roku Ultra, Ultimate Streaming Player - 4K Streaming Device for TV | HDR10+, Dolby Vision & Atmos - Bluetooth & Wi-Fi 6 - ...",
+     "_price": 139.95
     }
    ],
-   "scanned": "2026-10-29T16:01:14.624557+00:00",
+   "scanned": "2026-10-31T15:29:37.059071+00:00",
    "via": "sweep"
   },
   "tools_auto:obd2-scanners": {
