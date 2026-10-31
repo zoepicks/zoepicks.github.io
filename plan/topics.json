@@ -3667,5 +3667,17 @@
   "parent": "best-perfumes-2026",
   "tab": "women-s",
   "tab_label": "Women S"
+ },
+ {
+  "title": "Best Tinted Moisturizer (2026)",
+  "slug": "best-tinted-moisturizer-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-moisturizer-2026",
+  "tab": "tinted",
+  "tab_label": "Tinted"
  }
 ]
