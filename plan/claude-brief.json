@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-31T03:10:44.981764+00:00",
+ "generated_at": "2026-10-31T15:24:02.107473+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 27
+   "low": 29
   },
   "avg_guide_words": 942,
   "todo": [
@@ -38,6 +38,18 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 8,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-ultrawide-monitors-2026/",
+     "/g/best-fireproof-safes-2026/",
+     "/g/best-streaming-devices-2026/"
+    ],
+    "detail": "load 3.2s"
+   },
+   {
+    "sev": "low",
     "code": "desc_length",
     "count": 7,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
@@ -47,18 +59,6 @@
      "/g/best-hiking-backpacks-2026/"
     ],
     "detail": "description 40 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 6,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-car-vacuums-2026/",
-     "/g/best-usb-c-charger-2026/",
-     "/g/best-shoe-racks-2026/"
-    ],
-    "detail": "load 3.29s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-30T20:50:02.001014+00:00",
+    "t": "2026-10-31T09:20:39.124823+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-30T23:51:47.805283+00:00",
+    "t": "2026-10-31T12:22:25.123824+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-31T02:53:09.610058+00:00",
+    "t": "2026-10-31T15:23:54.836532+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -103,12 +103,6 @@
   "total_views": 854,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-24",
-    "visitors": 9,
-    "views": 18,
-    "clicks": 0
-   },
    {
     "day": "2026-10-25",
     "visitors": 9,
@@ -144,70 +138,76 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-10-31",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 91,
-   "warn": 8,
+   "info": 40,
+   "warn": 6,
    "error": 1
   },
   "last7d": {
-   "info": 341,
-   "warn": 24,
+   "info": 253,
+   "warn": 19,
    "error": 1
   },
   "modules_with_errors_7d": [
    {
-    "module": "Missing topics queue",
+    "module": "Images / Link fill",
     "errors": 1,
     "warnings": 0
    },
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 24
+    "warnings": 16
    }
   ],
   "collector": {
    "today": {
-    "total": 10,
-    "ok": 6,
+    "total": 6,
+    "ok": 2,
     "failed": 4,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 198,
-      "at": "2026-10-30T15:34:32Z",
+      "run": 209,
+      "at": "2026-10-31T14:47:57Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41081969597"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41211795276"
      },
      {
-      "run": 197,
-      "at": "2026-10-30T15:04:15Z",
+      "run": 207,
+      "at": "2026-10-31T11:47:33Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41077284162"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41198315830"
      },
      {
-      "run": 196,
-      "at": "2026-10-30T09:03:13Z",
+      "run": 206,
+      "at": "2026-10-31T05:45:55Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41030612109"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41173882534"
      },
      {
-      "run": 195,
-      "at": "2026-10-30T05:00:51Z",
+      "run": 205,
+      "at": "2026-10-31T05:00:19Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41006030432"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41170806866"
      }
     ]
    },
    "last7d": {
-    "total": 72,
-    "ok": 49,
-    "failed": 23,
+    "total": 64,
+    "ok": 37,
+    "failed": 27,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -276,8 +276,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 153,
-    "ok": 153,
+    "total": 15,
+    "ok": 15,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -299,56 +299,88 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOEIMG",
+    "level": "e",
+    "msg": "zoe image run failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/src (Caus"
+   },
+   {
+    "module": "ZOEHOT",
+    "level": "w",
+    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
+   },
+   {
+    "module": "ZOEHOT",
+    "level": "w",
+    "msg": "zoe hot: CI essentials rows unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io"
+   },
+   {
+    "module": "ZOEHOT",
+    "level": "w",
+    "msg": "zoe hot: essentials scan kick failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/ac"
+   },
+   {
     "module": "ZOEMISSING",
     "level": "e",
-    "msg": "zoe missing tick error: GitHub PUT contents/plan/topics.json -> 409: {\"message\":\"is at 5282048b99cc526fa9487e312658f3f5cb22d7d6 but expected 8df20efe5fa1d2152e0"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe missing tick error: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/plan/to"
    }
   ]
  },
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "covered": 14,
-   "open": 125,
-   "queued": 48,
-   "built": 13
+   "open": 123,
+   "queued": 52,
+   "built": 11,
+   "covered": 14
   },
   "missing_new": {
-   "today": 28,
-   "d7": 165,
+   "today": 6,
+   "d7": 164,
    "d30": 200
   },
   "open_topics": [
+   {
+    "topic": "makeup and skincare",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793459358",
+    "last_at": "1793459776"
+   },
+   {
+    "topic": "smartwatch",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793459366",
+    "last_at": "1793459506"
+   },
+   {
+    "topic": "fluffy slippers",
+    "leads": "3",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793447458",
+    "last_at": "1793447722"
+   },
+   {
+    "topic": "women's perfume",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792773221",
+    "last_at": "1793445353"
+   },
    {
     "topic": "giant bean bag",
     "leads": "3",
@@ -396,38 +428,6 @@
     "status": "open",
     "first_at": "1793401833",
     "last_at": "1793401972"
-   },
-   {
-    "topic": "camper sneakers",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793399705",
-    "last_at": "1793399705"
-   },
-   {
-    "topic": "kayak",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793397640",
-    "last_at": "1793397804"
-   },
-   {
-    "topic": "fidget spinner",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793395993",
-    "last_at": "1793395993"
-   },
-   {
-    "topic": "remote lanyard",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793395444",
-    "last_at": "1793395444"
    }
   ]
  },
@@ -757,8 +757,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -770,7 +770,7 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
+  "Bot errors (7 din): 5 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
