@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-30T14:46:25.905296+00:00",
+ "generated_at": "2026-10-31T03:10:44.981764+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 57
+   "low": 27
   },
   "avg_guide_words": 942,
   "todo": [
@@ -23,18 +23,6 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 36,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-dog-stroller-2026/",
-     "/g/best-leggings-2026/",
-     "/g/best-in-ear-gaming-headphones-2026/"
-    ],
-    "detail": "load 3.11s"
    },
    {
     "sev": "low",
@@ -59,6 +47,18 @@
      "/g/best-hiking-backpacks-2026/"
     ],
     "detail": "description 40 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 6,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-car-vacuums-2026/",
+     "/g/best-usb-c-charger-2026/",
+     "/g/best-shoe-racks-2026/"
+    ],
+    "detail": "load 3.29s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-30T08:43:10.286625+00:00",
+    "t": "2026-10-30T20:50:02.001014+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-30T11:44:35.251283+00:00",
+    "t": "2026-10-30T23:51:47.805283+00:00",
     "indexnow": {
-     "submitted": 2,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-30T14:46:19.201222+00:00",
+    "t": "2026-10-31T02:53:09.610058+00:00",
     "indexnow": {
-     "submitted": 1,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,30 +149,47 @@
  },
  "bots": {
   "today": {
-   "info": 56,
-   "warn": 4,
-   "error": 0
+   "info": 91,
+   "warn": 8,
+   "error": 1
   },
   "last7d": {
-   "info": 306,
-   "warn": 20,
-   "error": 0
+   "info": 341,
+   "warn": 24,
+   "error": 1
   },
   "modules_with_errors_7d": [
    {
+    "module": "Missing topics queue",
+    "errors": 1,
+    "warnings": 0
+   },
+   {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 20
+    "warnings": 24
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 0,
-    "failed": 2,
+    "total": 10,
+    "ok": 6,
+    "failed": 4,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 198,
+      "at": "2026-10-30T15:34:32Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41081969597"
+     },
+     {
+      "run": 197,
+      "at": "2026-10-30T15:04:15Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41077284162"
+     },
      {
       "run": 196,
       "at": "2026-10-30T09:03:13Z",
@@ -188,9 +205,9 @@
     ]
    },
    "last7d": {
-    "total": 64,
-    "ok": 43,
-    "failed": 21,
+    "total": 72,
+    "ok": 49,
+    "failed": 23,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -282,9 +299,9 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "module": "ZOEMISSING",
+    "level": "e",
+    "msg": "zoe missing tick error: GitHub PUT contents/plan/topics.json -> 409: {\"message\":\"is at 5282048b99cc526fa9487e312658f3f5cb22d7d6 but expected 8df20efe5fa1d2152e0"
    },
    {
     "module": "ZOESEO",
@@ -299,7 +316,7 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -321,96 +338,96 @@
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "built": 17,
-   "open": 127,
-   "queued": 42,
-   "covered": 14
+   "covered": 14,
+   "open": 125,
+   "queued": 48,
+   "built": 13
   },
   "missing_new": {
-   "today": 4,
-   "d7": 166,
+   "today": 28,
+   "d7": 165,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "monitor stand",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793370927",
-    "last_at": "1793371480"
-   },
-   {
-    "topic": "ps5 or gaming pc",
-    "leads": "9",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793368780",
-    "last_at": "1793370232"
-   },
-   {
-    "topic": "sleep mask",
-    "leads": "7",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792332776",
-    "last_at": "1793370223"
-   },
-   {
-    "topic": "medium luggage",
-    "leads": "4",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793367358",
-    "last_at": "1793367903"
-   },
-   {
-    "topic": "pink laptop",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793361310",
-    "last_at": "1793361310"
-   },
-   {
-    "topic": "workout clothes",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793315171",
-    "last_at": "1793315312"
-   },
-   {
-    "topic": "film camera",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792260446",
-    "last_at": "1793313481"
-   },
-   {
-    "topic": "capture card",
+    "topic": "giant bean bag",
     "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1792183749",
-    "last_at": "1793311324"
+    "first_at": "1792599892",
+    "last_at": "1793409007"
    },
    {
-    "topic": "phone with keyboard",
+    "topic": "cooking pot",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793408107",
+    "last_at": "1793408107"
+   },
+   {
+    "topic": "usb charger cable",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793407983",
+    "last_at": "1793407983"
+   },
+   {
+    "topic": "webcam microphone",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793404680",
+    "last_at": "1793404680"
+   },
+   {
+    "topic": "shock collar",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793404655",
+    "last_at": "1793404655"
+   },
+   {
+    "topic": "clayface hoodie",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793307616",
-    "last_at": "1793308014"
+    "first_at": "1793401833",
+    "last_at": "1793401972"
    },
    {
-    "topic": "mascara",
-    "leads": "4",
+    "topic": "camper sneakers",
+    "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793306978",
-    "last_at": "1793307607"
+    "first_at": "1793399705",
+    "last_at": "1793399705"
+   },
+   {
+    "topic": "kayak",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793397640",
+    "last_at": "1793397804"
+   },
+   {
+    "topic": "fidget spinner",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793395993",
+    "last_at": "1793395993"
+   },
+   {
+    "topic": "remote lanyard",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793395444",
+    "last_at": "1793395444"
    }
   ]
  },
@@ -570,7 +587,7 @@
    "https://zoepicks.github.io/g/best-walking-shoes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-30T02:22",
+   "last_submitted": "2026-10-31T02:53",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -583,11 +600,6 @@
    "clicks_28d": 0,
    "impressions_28d": 0,
    "last_days": [
-    {
-     "d": "2026-10-21",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-22",
      "clicks": 0,
@@ -615,6 +627,11 @@
     },
     {
      "d": "2026-10-27",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-28",
      "clicks": 0,
      "impr": 0
     }
@@ -710,6 +727,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-10-31",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -717,7 +741,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-30T02:22",
+    "last_submitted": "2026-10-31T02:53",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -733,8 +757,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -746,6 +770,7 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
+  "Bot errors (7 din): 1 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
