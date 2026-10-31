@@ -3646,5 +3646,26 @@
   "parent": "best-facial-skincare-2026",
   "tab": "makeup",
   "tab_label": "Makeup"
+ },
+ {
+  "title": "Best Smartwatch (2026)",
+  "slug": "best-smartwatch-2026",
+  "category": "mobiles",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Women'S Perfume (2026)",
+  "slug": "best-women-s-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "women-s",
+  "tab_label": "Women S"
  }
 ]
