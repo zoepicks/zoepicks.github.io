@@ -196,7 +196,10 @@
    "amazon_listing": "La Roche-Posay Cicaplast Balm B5 SPF 50 with Centella Asiatica 1.35oz | Multi-purpose crea",
    "amazon_rating": "4.6",
    "amazon_reviews": 1769,
-   "amazon_rating_asof": "Nov 1, 2026"
+   "amazon_rating_asof": "Nov 1, 2026",
+   "fill_tries": 1,
+   "fill_last": "Nov 1, 2026",
+   "fill_failed": false
   },
   {
    "name": "First Aid Beauty Ultra Repair Cream",
@@ -228,10 +231,10 @@
    "tabs": [
     "eczema"
    ],
-   "asin": "B0G4NPWB8L",
-   "image": "https://m.media-amazon.com/images/I/71btN5-U3QL.jpg",
-   "image_asin": "B0G4NPWB8L",
-   "amazon_price": "$30.63",
+   "asin": "B0FYJG8FLT",
+   "image": "https://m.media-amazon.com/images/I/71eLojzJ+EL.jpg",
+   "image_asin": "B0FYJG8FLT",
+   "amazon_price": "$24.50",
    "amazon_price_asof": "Nov 1, 2026",
    "amazon_listing": "First Aid Beauty Ultra Repair Cream, Face Body Barrier Repair Moisturizer | Clinically Tes",
    "amazon_rating": "4.6",
