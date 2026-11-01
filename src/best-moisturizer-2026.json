@@ -27,7 +27,16 @@
    ],
    "best_for": "All skin types needing a light, hydrating gel",
    "skip_if": "You prefer a cream or need SPF built‑in",
-   "link": "https://www.amazon.com/s?k=Neutrogena+Hydro+Boost+Water+Gel&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Neutrogena+Hydro+Boost+Water+Gel&tag=zoepicks00-20",
+   "asin": "B07GRBQXTV",
+   "image": "https://m.media-amazon.com/images/I/71lW9QbuEXL.jpg",
+   "image_asin": "B07GRBQXTV",
+   "amazon_price": "$19.97",
+   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_listing": "Neutrogena Hydro Boost City Shield Water Gel Face Moisturizer SPF 25 1.7 oz | Broad Spectr",
+   "amazon_rating": "4.7",
+   "amazon_reviews": 10544,
+   "amazon_rating_asof": "Nov 1, 2026"
   },
   {
    "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
@@ -49,7 +58,16 @@
    ],
    "best_for": "Sensitive or reactive skin",
    "skip_if": "You need built‑in sun protection",
-   "link": "https://www.amazon.com/s?k=La+Roche-Posay+Toleriane+Double+Repair+Face+Moisturizer&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=La+Roche-Posay+Toleriane+Double+Repair+Face+Moisturizer&tag=zoepicks00-20",
+   "asin": "B01N9SPQHQ",
+   "image": "https://m.media-amazon.com/images/I/51SXpf82R2L.jpg",
+   "image_asin": "B01N9SPQHQ",
+   "amazon_price": "$24.99",
+   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_listing": "La Roche-Posay Toleriane Double Repair Face Moisturizer | Daily face cream with glycerin, ",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 52641,
+   "amazon_rating_asof": "Nov 1, 2026"
   },
   {
    "name": "CeraVe Moisturizing Cream",
@@ -71,7 +89,10 @@
    ],
    "best_for": "Dry or compromised skin",
    "skip_if": "You prefer a lightweight gel",
-   "link": "https://www.amazon.com/s?k=CeraVe+Moisturizing+Cream&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=CeraVe+Moisturizing+Cream&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 1, 2026",
+   "fill_failed": false
   },
   {
    "name": "ILIA Super Serum Skin Tint SPF 40",
