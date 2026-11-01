@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-01T03:48:10.097809+00:00",
+ "generated_at": "2026-11-01T03:50:07.285408+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 62
+   "low": 28
   },
   "avg_guide_words": 942,
   "todo": [
@@ -23,18 +23,6 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 41,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-gaming-monitor-32-inch-2026/",
-     "/g/best-iphone-vs-ipad-pro-2026/",
-     "/g/best-iphone-camera-lens-2026/"
-    ],
-    "detail": "load 3.19s"
    },
    {
     "sev": "low",
@@ -59,6 +47,18 @@
      "/g/best-hiking-backpacks-2026/"
     ],
     "detail": "description 40 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 7,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-kindle-case-2026/",
+     "/g/best-bluetooth-speakers-2026/",
+     "/g/best-iphones-2026/"
+    ],
+    "detail": "load 3.7s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -88,7 +88,7 @@
     }
    },
    {
-    "t": "2026-11-01T03:30:25.731004+00:00",
+    "t": "2026-11-01T03:32:19.194632+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -149,25 +149,20 @@
  },
  "bots": {
   "today": {
-   "info": 61,
-   "warn": 10,
-   "error": 1
+   "info": 14,
+   "warn": 1,
+   "error": 0
   },
   "last7d": {
-   "info": 274,
-   "warn": 23,
-   "error": 1
+   "info": 227,
+   "warn": 14,
+   "error": 0
   },
   "modules_with_errors_7d": [
    {
-    "module": "Images / Link fill",
-    "errors": 1,
-    "warnings": 0
-   },
-   {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 20
+    "warnings": 14
    }
   ],
   "collector": {
@@ -363,19 +358,19 @@
   "open_topics": [
    {
     "topic": "home theater system",
-    "leads": "11",
+    "leads": "12",
     "budget": null,
     "status": "open",
     "first_at": "1793503846",
-    "last_at": "1793504904"
+    "last_at": "1793504976"
    },
    {
     "topic": "xbox travel case",
-    "leads": "2",
+    "leads": "3",
     "budget": null,
     "status": "open",
     "first_at": "1793504834",
-    "last_at": "1793504895"
+    "last_at": "1793504968"
    },
    {
     "topic": "hair raising headband",
@@ -450,13 +445,19 @@
   "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 149
+   "URL is unknown to Google": 148,
+   "ERROR": 1
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 149,
+    "pages": 148,
     "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
+   },
+   {
+    "state": "ERROR",
+    "pages": 1,
+    "fix": "Google ka reason dekho: ERROR"
    }
   ],
   "not_indexed": [
@@ -776,8 +777,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -786,11 +787,11 @@
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'URL is unknown to Google' (148 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
+  "Google reason 'ERROR' (1 pages): Google ka reason dekho: ERROR",
   "Google search me abhi 0 impressions - indexing/content/links pe kaam karo.",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 5 - recent_problems dekho aur root cause fix karo.",
-  "Collector runs fail hue - GitHub Actions logs check karo.",
-  "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
+  "Collector runs fail hue - GitHub Actions logs check karo."
  ]
 }
