@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-01T12:33:14Z",
+ "updated": "2026-11-01T12:34:58Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1933,6 +1933,11 @@
    {
     "key": "kindle-case",
     "label": "Kindle Case",
+    "items": []
+   },
+   {
+    "key": "stereo-system",
+    "label": "Stereo System",
     "items": []
    }
   ],
@@ -4436,6 +4441,24 @@
     ]
    },
    {
+    "key": "smartwatch",
+    "label": "Smartwatch",
+    "items": [
+     {
+      "asin": "B0HK8CSXGY",
+      "name": "DIVOAZBVO Smart Watches",
+      "pct": 5,
+      "rating": 4.0,
+      "t": 1793460741,
+      "img": "https://m.media-amazon.com/images/I/71fiWhgF5mL.jpg",
+      "link": "https://www.amazon.com/dp/B0HK8CSXGY?tag=zoepicks00-20",
+      "now": "19.94",
+      "was": "20.99",
+      "reviews": 182
+     }
+    ]
+   },
+   {
     "key": "smartwatches",
     "label": "Smartwatches",
     "items": []
@@ -5157,6 +5180,11 @@
    {
     "key": "self-cleaning-litter-boxes",
     "label": "Self Cleaning Litter Boxes",
+    "items": []
+   },
+   {
+    "key": "dog-leash",
+    "label": "Dog Leash",
     "items": []
    },
    {
