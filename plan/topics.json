@@ -3727,7 +3727,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 1, 2026"
  },
  {
   "title": "Best Home Theater System (2026)",
@@ -3739,7 +3740,8 @@
   "source": "buyer-leads",
   "parent": "best-mesh-wi-fi-systems-2026",
   "tab": "home-theater",
-  "tab_label": "Home Theater"
+  "tab_label": "Home Theater",
+  "last_try": "Nov 1, 2026"
  },
  {
   "title": "Best Large Tv (2026)",
