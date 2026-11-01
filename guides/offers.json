@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-01T21:20:24Z",
+ "updated": "2026-11-01T21:48:46Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -4385,19 +4385,6 @@
     "label": "Cookware Set",
     "items": [
      {
-      "asin": "B0DGLVW188",
-      "name": "CAROTE Pots and Pans Set Nonstick Cookware Sets 21 Pieces…",
-      "pct": 36,
-      "rating": 4.6,
-      "t": 1793546306,
-      "img": "https://m.media-amazon.com/images/I/71LmApZEJQL.jpg",
-      "link": "https://www.amazon.com/dp/B0DGLVW188?tag=zoepicks00-20",
-      "now": "89.96",
-      "was": "139.99",
-      "deal": "Limited time deal",
-      "reviews": 4000
-     },
-     {
       "asin": "B0DS1YTQM9",
       "name": "CAROTE Non Stick Frying Pan",
       "pct": 28,
@@ -4408,7 +4395,35 @@
       "now": "42.98",
       "was": "59.99",
       "deal": "Limited time deal",
-      "reviews": 962
+      "reviews": 962,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DGLVW188",
+      "name": "CAROTE Pots and Pans Set Nonstick Cookware Sets 21 Pieces…",
+      "pct": 36,
+      "rating": 4.6,
+      "t": 1793546306,
+      "img": "https://m.media-amazon.com/images/I/71LmApZEJQL.jpg",
+      "link": "https://www.amazon.com/dp/B0DGLVW188?tag=zoepicks00-20",
+      "now": "89.96",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 4000,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GYYH39NY",
+      "name": "CAROTE 27pcs Pots and Pans Set Non Stick",
+      "pct": 35,
+      "rating": 4.7,
+      "t": 1793569601,
+      "img": "https://m.media-amazon.com/images/I/81mTwrdDbaL.jpg",
+      "link": "https://www.amazon.com/dp/B0GYYH39NY?tag=zoepicks00-20",
+      "now": "129.99",
+      "was": "199.99",
+      "reviews": 2259,
+      "tier": "premium"
      }
     ]
    },
