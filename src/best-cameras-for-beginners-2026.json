@@ -391,7 +391,13 @@
    "link": "https://www.amazon.com/s?k=Sigma+35mm+F1.4+DG+II+Art&tag=zoepicks00-20",
    "tabs": [
     "35mm"
-   ]
+   ],
+   "asin": "B0GQJ8JMMN",
+   "image": "https://m.media-amazon.com/images/I/51FgnxpDESL.jpg",
+   "image_asin": "B0GQJ8JMMN",
+   "amazon_price": "$1,059.00",
+   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_listing": "Sigma 35mm F1.4 DG II | Art for Sony E Mount | (304965)"
   },
   {
    "name": "Flashback One35 V2",
@@ -422,7 +428,10 @@
    "link": "https://www.amazon.com/s?k=Flashback+One35+V2&tag=zoepicks00-20",
    "tabs": [
     "35mm"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 1, 2026",
+   "fill_failed": false
   }
  ],
  "tabs": [
