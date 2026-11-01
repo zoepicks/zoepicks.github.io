@@ -1,21 +1,59 @@
-[collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Steamdeck Dock (2026)
-[collect] tavily -> 3 pages
-[collect] 3/3 source pages fetched
-[collect] open web (tavily) -> 15 results
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-umbrellas-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-charger-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-microphones-2026/studio/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vacuum-cleaner-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vacuums-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-vhs-tv-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-video-doorbells-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-waffle-maker-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-pads-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-shoes-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wallets-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-washing-machine-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-watches-under-200-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-filter-pitchers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-flossers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wearable-blanket-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-webcams-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wedding-dress-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/durable/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-white-refrigerator-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-whiteboard-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wig-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-ios-keyboard-2026 -> tab 'ios' of best-mechanical-keyboards-2026 (+4 new, 0 already there)
+[collect] progress: guide 1 done (best-ios-keyboard-2026) | tried 1 | tavily keys alive 4/4
+[collect] topic: Best 3D Printer Kit (2026)
 [collect] tavily -> 4 pages
-[collect] extra sources: +1 readable page(s) -> 4 total (pcmag.com)
-[collect] reddit fail laptopdeals Expecting value: line 1 column 1 (char 0)
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 4 sources x 1625 chars, ~2975 in + 4000 out tokens (budget 7000)
+[collect] 4/4 source pages fetched
+[collect] llm request: 4 sources x 1625 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Prusa MK4S
+[collect] drop (only 1 sources): Creality Sparkx i7
 [collect] open web (tavily) -> 15 results
-[collect] tavily -> 3 pages
-[collect] extra sources: +2 readable page(s) -> 6 total (engadget.com, theverge.com)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-home-3d-printer
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-home-3d-printer
+[collect] http 403 https://3dwithus.com/best-cheap-budget-fdm-3d-printers
+[collect] browser fetch 9000 chars: https://3dwithus.com/best-cheap-budget-fdm-3d-printers
+[collect] extra sources: +2 readable page(s) -> 6 total (nytimes.com, 3dwithus.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2962 in + 4000 out tokens (budget 7000)
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
+[collect] only 2 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
@@ -192,6 +230,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/compact-wireless/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/ios/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-micellar-water-2026/index.html
@@ -354,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-steamdeck-dock-2026 draft
-[collect] progress: guide 1 done (best-steamdeck-dock-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-3d-printer-kit-2026 draft
+[collect] progress: guide 2 done (best-3d-printer-kit-2026) | tried 2 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried
