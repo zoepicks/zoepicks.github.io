@@ -1,14 +1,38 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Real Time Translation Device (2026)
-[collect] tavily -> 4 pages
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1621 chars, ~2744 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Google Gemini 3.5 Live Translate
+[collect] topic: Best Photo Printer (2026)
+[collect] tavily -> 5 pages
+[collect] browser fetch 9000 chars: https://www.rtings.com/printer/tests/printing/color-accuracy
+[collect] 5/5 source pages fetched
+[collect] llm request: 5 sources x 1292 chars, ~2964 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): HP Sprocket Photo Printer (2nd Edition)
+[collect] drop (only 1 sources): HP LaserJet M209d
+[collect] drop (only 1 sources): Canon Pixma G3260
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (retekess.com, softwaretestinghelp.com)
+[collect] extra sources: +2 readable page(s) -> 7 total (trustedreviews.com, digitalcameraworld.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1067 chars, ~2919 in + 4000 out tokens (budget 7000)
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 7 sources x 911 chars, ~2955 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products for tab photo -> staying todo
+[collect] progress: guide 1 done (best-photo-printer-2026) | tried 1 | tavily keys alive 4/4
+[collect] topic: Best Everyday Shoes (2026)
+[collect] tavily -> 4 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-running-shoes
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-running-shoes
+[collect] 3/4 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +1 readable page(s) -> 4 total (outdoorgearlab.com)
+[collect] llm request: 4 sources x 1625 chars, ~2975 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Altra Experience Flow 3
+[collect] drop (only 1 sources): New Balance Fresh Foam Roav V1
+[collect] drop (only 1 sources): Brooks Adrenaline GTS 22
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (health.yahoo.com, outsideonline.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2965 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): On Cloudrunner 3 Max
+[collect] drop (only 1 sources): Allbirds Women's Tree Runner
+[collect] drop (only 1 sources): Mizuno Wave Rider 30
+[collect] drop (only 1 sources): Under Armour Charged+ Assert 11
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -94,6 +118,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-electric-shave
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-electric-toothbrushes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-epilators-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-espresso-machines-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-everyday-shoes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-exercise-bikes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-eye-makeup-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-face-wash-2026/index.html
@@ -347,8 +372,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-real-time-translation-device-2026 draft
-[collect] progress: guide 1 done (best-real-time-translation-device-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-everyday-shoes-2026 draft
+[collect] progress: guide 2 done (best-everyday-shoes-2026) | tried 2 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried

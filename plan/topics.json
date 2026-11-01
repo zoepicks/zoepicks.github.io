@@ -3805,7 +3805,8 @@
   "source": "buyer-leads",
   "parent": "best-printers-2026",
   "tab": "photo",
-  "tab_label": "Photo"
+  "tab_label": "Photo",
+  "last_try": "Nov 1, 2026"
  },
  {
   "title": "Best Everyday Shoes (2026)",
@@ -3814,6 +3815,7 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 1, 2026"
  }
 ]
