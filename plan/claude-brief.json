@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-10-31T15:24:02.107473+00:00",
+ "generated_at": "2026-11-01T03:48:10.097809+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 29
+   "low": 62
   },
   "avg_guide_words": 942,
   "todo": [
@@ -26,6 +26,18 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 41,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-gaming-monitor-32-inch-2026/",
+     "/g/best-iphone-vs-ipad-pro-2026/",
+     "/g/best-iphone-camera-lens-2026/"
+    ],
+    "detail": "load 3.19s"
+   },
+   {
+    "sev": "low",
     "code": "title_length",
     "count": 14,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -35,18 +47,6 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 8,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-ultrawide-monitors-2026/",
-     "/g/best-fireproof-safes-2026/",
-     "/g/best-streaming-devices-2026/"
-    ],
-    "detail": "load 3.2s"
    },
    {
     "sev": "low",
@@ -74,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-31T09:20:39.124823+00:00",
+    "t": "2026-10-31T21:27:15.876893+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-31T12:22:25.123824+00:00",
+    "t": "2026-11-01T00:28:40.728117+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-10-31T15:23:54.836532+00:00",
+    "t": "2026-11-01T03:30:25.731004+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -149,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 40,
-   "warn": 6,
+   "info": 61,
+   "warn": 10,
    "error": 1
   },
   "last7d": {
-   "info": 253,
-   "warn": 19,
+   "info": 274,
+   "warn": 23,
    "error": 1
   },
   "modules_with_errors_7d": [
@@ -167,17 +167,29 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 16
+    "warnings": 20
    }
   ],
   "collector": {
    "today": {
-    "total": 6,
-    "ok": 2,
-    "failed": 4,
+    "total": 10,
+    "ok": 4,
+    "failed": 6,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 213,
+      "at": "2026-10-31T22:18:51Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41247612633"
+     },
+     {
+      "run": 212,
+      "at": "2026-10-31T16:18:16Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41219025285"
+     },
      {
       "run": 209,
       "at": "2026-10-31T14:47:57Z",
@@ -205,9 +217,9 @@
     ]
    },
    "last7d": {
-    "total": 64,
-    "ok": 37,
-    "failed": 27,
+    "total": 68,
+    "ok": 39,
+    "failed": 29,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -309,125 +321,125 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
     "module": "ZOEIMG",
     "level": "e",
     "msg": "zoe image run failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/src (Caus"
-   },
-   {
-    "module": "ZOEHOT",
-    "level": "w",
-    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
-   },
-   {
-    "module": "ZOEHOT",
-    "level": "w",
-    "msg": "zoe hot: CI essentials rows unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io"
-   },
-   {
-    "module": "ZOEHOT",
-    "level": "w",
-    "msg": "zoe hot: essentials scan kick failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/ac"
-   },
-   {
-    "module": "ZOEMISSING",
-    "level": "e",
-    "msg": "zoe missing tick error: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/plan/to"
    }
   ]
  },
  "content": {
   "live_guides": 212,
   "missing_topics_by_status": {
-   "open": 123,
-   "queued": 52,
-   "built": 11,
-   "covered": 14
+   "open": 125,
+   "built": 8,
+   "queued": 55,
+   "covered": 12
   },
   "missing_new": {
-   "today": 6,
+   "today": 26,
    "d7": 164,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "makeup and skincare",
-    "leads": "3",
+    "topic": "home theater system",
+    "leads": "11",
     "budget": null,
     "status": "open",
-    "first_at": "1793459358",
-    "last_at": "1793459776"
+    "first_at": "1793503846",
+    "last_at": "1793504904"
    },
    {
-    "topic": "smartwatch",
+    "topic": "xbox travel case",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793459366",
-    "last_at": "1793459506"
+    "first_at": "1793504834",
+    "last_at": "1793504895"
    },
    {
-    "topic": "fluffy slippers",
+    "topic": "hair raising headband",
     "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1793447458",
-    "last_at": "1793447722"
+    "first_at": "1793504685",
+    "last_at": "1793504817"
    },
    {
-    "topic": "women's perfume",
-    "leads": "4",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792773221",
-    "last_at": "1793445353"
-   },
-   {
-    "topic": "giant bean bag",
-    "leads": "3",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792599892",
-    "last_at": "1793409007"
-   },
-   {
-    "topic": "cooking pot",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793408107",
-    "last_at": "1793408107"
-   },
-   {
-    "topic": "usb charger cable",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793407983",
-    "last_at": "1793407983"
-   },
-   {
-    "topic": "webcam microphone",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793404680",
-    "last_at": "1793404680"
-   },
-   {
-    "topic": "shock collar",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793404655",
-    "last_at": "1793404655"
-   },
-   {
-    "topic": "clayface hoodie",
+    "topic": "iphone duo",
     "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793401833",
-    "last_at": "1793401972"
+    "first_at": "1793498562",
+    "last_at": "1793498696"
+   },
+   {
+    "topic": "32 inch computer monitor",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793496774",
+    "last_at": "1793496774"
+   },
+   {
+    "topic": "photo printer",
+    "leads": "6",
+    "budget": null,
+    "status": "open",
+    "first_at": "1792879736",
+    "last_at": "1793491206"
+   },
+   {
+    "topic": "shelf display accessories",
+    "leads": "9",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793488569",
+    "last_at": "1793490060"
+   },
+   {
+    "topic": "large tv",
+    "leads": "10",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793486096",
+    "last_at": "1793487850"
+   },
+   {
+    "topic": "everyday shoes",
+    "leads": "6",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793484382",
+    "last_at": "1793485718"
+   },
+   {
+    "topic": "ios keyboard",
+    "leads": "5",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793481478",
+    "last_at": "1793482258"
    }
   ]
  },
@@ -587,7 +599,7 @@
    "https://zoepicks.github.io/g/best-walking-shoes-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-10-31T02:53",
+   "last_submitted": "2026-11-01T03:30",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -600,11 +612,6 @@
    "clicks_28d": 0,
    "impressions_28d": 0,
    "last_days": [
-    {
-     "d": "2026-10-22",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-23",
      "clicks": 0,
@@ -632,6 +639,11 @@
     },
     {
      "d": "2026-10-28",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-10-29",
      "clicks": 0,
      "impr": 0
     }
@@ -734,6 +746,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 0
+   },
+   {
+    "d": "2026-11-01",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 0
    }
   ],
   "sitemap_check": {
@@ -741,7 +760,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-10-31T02:53",
+    "last_submitted": "2026-11-01T03:30",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -757,8 +776,8 @@
     "live_pages_crawled": 218
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
