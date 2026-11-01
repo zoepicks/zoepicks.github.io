@@ -11251,6 +11251,28 @@
    ],
    "scanned": "2026-11-01T15:22:16.958710+00:00",
    "via": "sweep"
+  },
+  "office_books:whiteboard": {
+   "label": "Whiteboard",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B093GCYWRS",
+     "name": "Weekly Calendar Whiteboard",
+     "pct": 10,
+     "rating": 4.6,
+     "t": 1793547112,
+     "img": "https://m.media-amazon.com/images/I/71sJY8hWNDL.jpg",
+     "link": "https://www.amazon.com/dp/B093GCYWRS?tag=zoepicks00-20",
+     "now": "17.99",
+     "was": "19.99",
+     "reviews": 5654,
+     "_title": "Weekly Calendar Whiteboard for Wall, Dry Erase Board, Magnetic White Board | 16\"x12\" Double-Sided Hanging Board for Office...",
+     "_price": 17.99
+    }
+   ],
+   "scanned": "2026-11-01T15:31:52.973434+00:00",
+   "via": "sweep"
   }
  },
  "sweeps": {
@@ -11383,12 +11405,12 @@
    "types": 10
   },
   "office_books": {
-   "at": "2026-10-31T14:50:44.147378+00:00",
-   "pages": 10,
-   "cards": 200,
-   "offer_cards": 195,
-   "types_hit": 0,
-   "types": 2
+   "at": "2026-11-01T15:31:52.973434+00:00",
+   "pages": 8,
+   "cards": 168,
+   "offer_cards": 165,
+   "types_hit": 1,
+   "types": 3
   }
  },
  "essentials": {
