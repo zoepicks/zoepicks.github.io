@@ -1,23 +1,21 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Ring Light (2026)
-[collect] tavily -> 4 pages
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1626 chars, ~2971 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Neewer Basics BR60 5" Ring Light
-[collect] drop (only 1 sources): Photojojo Oh! Wow. Ring Light
+[collect] topic: Best Camera Tripod (2026)
+[collect] tavily -> 5 pages
+[collect] browser fetch 2990 chars: https://www.rtings.com/camera
+[collect] 5/5 source pages fetched
+[collect] llm request: 5 sources x 1292 chars, ~2964 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Heipi 3‑in‑1 Travel Tripod W28S
+[collect] drop (only 1 sources): Benro Rhino Carbon‑Fiber Tripod with VX20 Ball Head
+[collect] drop (only 1 sources): Manfrotto Element II
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-ring-lights
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-ring-lights
-[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-ring-lights
-[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-ring-lights
-[collect] extra sources: +2 readable page(s) -> 6 total (cnn.com, streamtechreviews.com)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-tripod
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-tripod
+[collect] extra sources: +2 readable page(s) -> 7 total (nytimes.com, theschoolofphotography.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Westcott 18" Bi-Color LED Ring Light
-[collect] drop (only 1 sources): Neewer Basics BR60 5" Ring Light
-[collect] drop (only 1 sources): Photojojo Oh! Wow. Ring Light
-[collect] drop (only 1 sources): Xinbaohong Clip-On Ring Light
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 7 sources x 911 chars, ~2956 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Vanguard Alta Pro 2+ 263CB 100 Carbon Fiber
+[collect] drop (only 1 sources): Amazon Basics 50‑Inch Lightweight Tripod
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
@@ -48,6 +46,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bookshelf-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bookshelves-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-bra-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camera-phones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camera-tripod-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cameras-for-beginners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cameras-for-beginners-2026/action/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camping-tents-2026/index.html
@@ -354,8 +353,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-ring-light-2026 draft
-[collect] progress: guide 1 done (best-ring-light-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-camera-tripod-2026 draft
+[collect] progress: guide 1 done (best-camera-tripod-2026) | tried 1 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
 [collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
