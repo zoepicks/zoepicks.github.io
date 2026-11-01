@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-01T03:50:07.285408+00:00",
+ "generated_at": "2026-11-01T15:59:31.499997+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 218,
+  "pages": 239,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 28
+   "low": 48
   },
-  "avg_guide_words": 942,
+  "avg_guide_words": 946,
   "todo": [
    {
     "sev": "high",
@@ -26,8 +26,20 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 23,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-micellar-water-2026/",
+     "/g/best-ultrawide-monitors-2026/",
+     "/g/best-nintendo-switch-bundles-2026/"
+    ],
+    "detail": "load 3.19s"
+   },
+   {
+    "sev": "low",
     "code": "title_length",
-    "count": 14,
+    "count": 15,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -39,26 +51,14 @@
    {
     "sev": "low",
     "code": "desc_length",
-    "count": 7,
+    "count": 10,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
-     "/g/best-beanie-baby-2026/",
-     "/g/best-watches-under-200-2026/",
-     "/g/best-hiking-backpacks-2026/"
+     "/g/best-smartwatch-2026/",
+     "/g/best-whiteboard-2026/",
+     "/g/best-makeup-brush-set-2026/"
     ],
-    "detail": "description 40 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 7,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-kindle-case-2026/",
-     "/g/best-bluetooth-speakers-2026/",
-     "/g/best-iphones-2026/"
-    ],
-    "detail": "load 3.7s"
+    "detail": "description 54 chars (best 70-170)"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 212,
+   "guides_live": 233,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,41 +74,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-10-31T21:27:15.876893+00:00",
+    "t": "2026-11-01T09:53:49.857940+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 7,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-01T00:28:40.728117+00:00",
+    "t": "2026-11-01T12:55:47.910682+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 42,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-01T03:32:19.194632+00:00",
+    "t": "2026-11-01T15:59:20.713747+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 1,
+     "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 0,
-  "today_views": 0,
-  "total_visitors": 122,
-  "total_views": 854,
+  "today_visitors": 1,
+  "today_views": 4,
+  "total_visitors": 123,
+  "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-25",
-    "visitors": 9,
-    "views": 15,
-    "clicks": 1
-   },
    {
     "day": "2026-10-26",
     "visitors": 0,
@@ -144,77 +138,70 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-01",
+    "visitors": 1,
+    "views": 4,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 14,
+   "info": 32,
    "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 227,
-   "warn": 14,
-   "error": 0
+   "info": 295,
+   "warn": 24,
+   "error": 1
   },
   "modules_with_errors_7d": [
    {
+    "module": "Images / Link fill",
+    "errors": 1,
+    "warnings": 0
+   },
+   {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 14
+    "warnings": 21
    }
   ],
   "collector": {
    "today": {
-    "total": 10,
-    "ok": 4,
-    "failed": 6,
+    "total": 8,
+    "ok": 5,
+    "failed": 3,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 213,
-      "at": "2026-10-31T22:18:51Z",
+      "run": 217,
+      "at": "2026-11-01T05:14:43Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41247612633"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41276184153"
      },
      {
-      "run": 212,
-      "at": "2026-10-31T16:18:16Z",
+      "run": 216,
+      "at": "2026-11-01T04:41:53Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41219025285"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41274087787"
      },
      {
-      "run": 209,
-      "at": "2026-10-31T14:47:57Z",
+      "run": 215,
+      "at": "2026-11-01T04:41:36Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41211795276"
-     },
-     {
-      "run": 207,
-      "at": "2026-10-31T11:47:33Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41198315830"
-     },
-     {
-      "run": 206,
-      "at": "2026-10-31T05:45:55Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41173882534"
-     },
-     {
-      "run": 205,
-      "at": "2026-10-31T05:00:19Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41170806866"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41274070042"
      }
     ]
    },
    "last7d": {
-    "total": 68,
-    "ok": 39,
-    "failed": 29,
+    "total": 69,
+    "ok": 37,
+    "failed": 32,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -283,8 +270,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 15,
-    "ok": 15,
+    "total": 149,
+    "ok": 149,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -336,41 +323,49 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEIMG",
-    "level": "e",
-    "msg": "zoe image run failed: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/src (Caus"
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 212,
+  "live_guides": 233,
   "missing_topics_by_status": {
-   "open": 125,
-   "built": 8,
-   "queued": 55,
-   "covered": 12
+   "open": 121,
+   "covered": 12,
+   "built": 42,
+   "queued": 25
   },
   "missing_new": {
-   "today": 26,
-   "d7": 164,
+   "today": 3,
+   "d7": 162,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "home theater system",
-    "leads": "12",
+    "topic": "walking pad treadmill",
+    "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793503846",
-    "last_at": "1793504976"
+    "first_at": "1793548788",
+    "last_at": "1793548788"
    },
    {
-    "topic": "xbox travel case",
-    "leads": "3",
+    "topic": "shower head",
+    "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793504834",
-    "last_at": "1793504968"
+    "first_at": "1793544454",
+    "last_at": "1793544454"
+   },
+   {
+    "topic": "walking shoes",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793539473",
+    "last_at": "1793539473"
    },
    {
     "topic": "hair raising headband",
@@ -405,22 +400,6 @@
     "last_at": "1793491206"
    },
    {
-    "topic": "shelf display accessories",
-    "leads": "9",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793488569",
-    "last_at": "1793490060"
-   },
-   {
-    "topic": "large tv",
-    "leads": "10",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793486096",
-    "last_at": "1793487850"
-   },
-   {
     "topic": "everyday shoes",
     "leads": "6",
     "budget": null,
@@ -435,6 +414,14 @@
     "status": "open",
     "first_at": "1793481478",
     "last_at": "1793482258"
+   },
+   {
+    "topic": "camera tripod",
+    "leads": "7",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793480281",
+    "last_at": "1793481658"
    }
   ]
  },
@@ -772,9 +759,9 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 218,
+    "urls": 239,
     "other_host_urls": 0,
-    "live_pages_crawled": 218
+    "live_pages_crawled": 239
    },
    "permission": "siteOwner",
    "resubmitted": null,
