@@ -1,3 +1,7 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-treadmills-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tvs-under-500-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ukuleles-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ultrawide-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-umbrellas-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-charger-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-usb-c-monitors-2026/index.html
@@ -34,23 +38,16 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-ios-keyboard-2026 -> tab 'ios' of best-mechanical-keyboards-2026 (+4 new, 0 already there)
-[collect] progress: guide 1 done (best-ios-keyboard-2026) | tried 1 | tavily keys alive 4/4
-[collect] topic: Best 3D Printer Kit (2026)
-[collect] tavily -> 4 pages
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1625 chars, ~2971 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Prusa MK4S
-[collect] drop (only 1 sources): Creality Sparkx i7
+[collect] done: best-medium-luggage-2026 3 products
+[collect] progress: guide 2 done (best-medium-luggage-2026) | tried 2 | tavily keys alive 4/4
+[collect] topic: Best Mascara (2026)
+[collect] tavily -> 1 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-accessible-makeup
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-accessible-makeup
+[collect] 0/1 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-home-3d-printer
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-home-3d-printer
-[collect] http 403 https://3dwithus.com/best-cheap-budget-fdm-3d-printers
-[collect] browser fetch 9000 chars: https://3dwithus.com/best-cheap-budget-fdm-3d-printers
-[collect] extra sources: +2 readable page(s) -> 6 total (nytimes.com, 3dwithus.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
-[collect] only 2 well-sourced products -> staying draft
+[collect] extra sources: +3 readable page(s) -> 3 total (elle.com.au, the-independent.com, independent.co.uk)
+[collect] llm request: 3 sources x 2182 chars, ~2982 in + 4000 out tokens (budget 7000)
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -212,6 +209,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-for-wo
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/under-500/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/under-600/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mower-light-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mowers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leather-belts-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leggings-2026/index.html
@@ -225,12 +223,14 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-palette
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-primers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-setting-spray-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-vanity-bag-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mascara-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-chair-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-massage-guns-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mattresses-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/compact-wireless/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mechanical-keyboards-2026/ios/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-medium-luggage-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mens-colognes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mesh-wi-fi-systems-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-micellar-water-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-3d-printer-kit-2026 draft
-[collect] progress: guide 2 done (best-3d-printer-kit-2026) | tried 2 | tavily keys alive 4/4
+[collect] done: best-mascara-2026 4 products
+[collect] progress: guide 3 done (best-mascara-2026) | tried 3 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 2 guide(s) built, 2 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 3 guide(s) built, 3 topic(s) tried
