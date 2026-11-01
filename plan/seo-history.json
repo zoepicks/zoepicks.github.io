@@ -1124,19 +1124,19 @@
   "indexnow": 0
  },
  {
-  "t": "2026-11-01T03:30:25.731004+00:00",
+  "t": "2026-11-01T03:32:19.194632+00:00",
   "score": 94,
   "pages": 218,
   "issues": {
    "high": 1,
    "med": 0,
-   "low": 62
+   "low": 28
   },
   "top": [
    "contact_email_placeholderx1",
-   "slow_pagex41",
    "title_lengthx14",
-   "desc_lengthx7"
+   "desc_lengthx7",
+   "slow_pagex7"
   ],
   "avg_words": 942,
   "why": "schedule",
