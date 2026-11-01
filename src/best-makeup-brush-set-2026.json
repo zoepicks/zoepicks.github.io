@@ -28,7 +28,16 @@
    ],
    "best_for": "Budget‑conscious beginners",
    "skip_if": "You prefer premium brush materials",
-   "link": "https://www.amazon.com/s?k=Real+Techniques+Everyday+Essentials+Makeup+Brush+%26+Sponge+Set&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Real+Techniques+Everyday+Essentials+Makeup+Brush+%26+Sponge+Set&tag=zoepicks00-20",
+   "asin": "B07FTXBNVL",
+   "image": "https://m.media-amazon.com/images/I/81byWsc0lYL.jpg",
+   "image_asin": "B07FTXBNVL",
+   "amazon_price": "$18.90",
+   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_listing": "Real Techniques Everyday Essentials 5 Piece Makeup Brush & Sponge Set | Complete face and ",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 41107,
+   "amazon_rating_asof": "Nov 1, 2026"
   },
   {
    "name": "Sigma Beauty Essential Travel Brush Set",
@@ -50,7 +59,10 @@
    ],
    "best_for": "Travelers and on‑the‑go users",
    "skip_if": "You need a full‑size home kit",
-   "link": "https://www.amazon.com/s?k=Sigma+Beauty+Essential+Travel+Brush+Set&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Sigma+Beauty+Essential+Travel+Brush+Set&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 1, 2026",
+   "fill_failed": false
   },
   {
    "name": "BK Beauty Core Line Extension Brush Collection",
@@ -73,7 +85,10 @@
    ],
    "best_for": "Mid‑range shoppers",
    "skip_if": "You need a travel‑ready kit",
-   "link": "https://www.amazon.com/s?k=BK+Beauty+Core+Line+Extension+Brush+Collection&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=BK+Beauty+Core+Line+Extension+Brush+Collection&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 1, 2026",
+   "fill_failed": false
   }
  ]
 }
