@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-10-31T23:18:11Z",
+ "updated": "2026-11-01T01:18:28Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -989,7 +989,21 @@
    {
     "key": "computer-mouse",
     "label": "Computer Mouse",
-    "items": []
+    "items": [
+     {
+      "asin": "B0GS5ZHY87",
+      "name": "Acer Wireless Mouse",
+      "pct": 13,
+      "rating": 4.3,
+      "t": 1793492993,
+      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
+      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
+      "now": "12.98",
+      "was": "14.99",
+      "deal": "Limited time deal",
+      "reviews": 918
+     }
+    ]
    },
    {
     "key": "drawing-stylus",
@@ -2953,12 +2967,11 @@
       "name": "MIYCOO Cooler Backpack",
       "pct": 23,
       "rating": 4.5,
-      "t": 1793488334,
+      "t": 1793494628,
       "img": "https://m.media-amazon.com/images/I/71IuLQIT-UL.jpg",
       "link": "https://www.amazon.com/dp/B0D5MGDJ2R?tag=zoepicks00-20",
       "now": "26.98",
       "was": "34.99",
-      "deal": "Limited time deal",
       "reviews": 2455,
       "tier": "premium"
      }
