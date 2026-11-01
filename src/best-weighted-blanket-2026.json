@@ -2,7 +2,7 @@
  "slug": "best-weighted-blanket-2026",
  "title": "Best Weighted Blanket (2026)",
  "category": "home_kitchen",
- "date": "Oct 20, 2026",
+ "date": "Nov 1, 2026",
  "summary": "The guide highlights four weighted blankets that appear in multiple reviews, with Luna Weighted Blanket leading for most buyers.",
  "method": "Selected products that are mentioned in at least two of the provided sources (Tom’s Guide, CNET, Good Housekeeping, WPsychService, Yahoo).",
  "assumptions": "Prices are not included because none of the sources provide them.",
@@ -139,7 +139,70 @@
    "amazon_listing": "YnM Cotton Weighted Blanket, Handmade Chunky Knitted Design, Soft and Cozy, Temperature Re",
    "amazon_rating": "4.5",
    "amazon_reviews": 18,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_rating_asof": "Oct 21, 2026",
+   "tabs": [
+    "durable"
+   ]
+  },
+  {
+   "name": "Bearaby Cotton Hand‑Knit Blanket",
+   "short": "Bearaby Cotton",
+   "badge": "Best Luxury",
+   "why": [
+    "Good Housekeeping names it Best for Hot Sleepers, highlighting its breathable, cool‑touch open knit design.",
+    "WPsychService calls it the ultimate luxury option with hand‑knitted organic cotton yarn and zero noisy glass beads."
+   ],
+   "desc": "A hand‑knitted cotton weighted blanket with an open knit design for breathability. It offers airflow and a designer aesthetic. It does not include a removable cover.",
+   "benefit": "Picture a hot‑sleeper who wants a luxurious feel without overheating. The Bearaby stays cooler than other weighted blankets and offers a premium look, making it the only breathable luxury option here. The catch: it is priced higher than the other picks.",
+   "specs": [
+    "hand‑knitted organic cotton",
+    "open knit design",
+    "cool‑touch feel"
+   ],
+   "pros": [
+    "breathable",
+    "luxury aesthetic",
+    "no noisy beads"
+   ],
+   "cons": [
+    "higher price",
+    "no removable cover"
+   ],
+   "best_for": "hot sleepers seeking luxury",
+   "skip_if": "budget is a primary concern",
+   "link": "https://www.amazon.com/s?k=Bearaby+Cotton+Hand%E2%80%91Knit+Blanket&tag=zoepicks00-20",
+   "tabs": [
+    "durable"
+   ]
+  },
+  {
+   "name": "Lola Blankets Weighted Blanket",
+   "short": "Lola Weighted",
+   "badge": "Softest",
+   "why": [
+    "Good Housekeeping calls it the Softest pick, describing it as a super fuzzy faux‑fur blanket available in many colors."
+   ],
+   "desc": "A faux‑fur weighted blanket that is super fuzzy and comes in many colors. It provides a soft surface but does not have a removable cover.",
+   "benefit": "Picture a child or adult who loves a plush, ultra‑soft feel. The Lola blanket offers the most fuzzy texture among the picks, making it the softest option here. The catch: the faux‑fur material may not suit those who prefer breathable fabrics.",
+   "specs": [
+    "faux‑fur material",
+    "many color options"
+   ],
+   "pros": [
+    "very soft",
+    "color variety",
+    "cozy feel"
+   ],
+   "cons": [
+    "not breathable",
+    "no removable cover"
+   ],
+   "best_for": "those seeking maximum softness",
+   "skip_if": "you need a breathable or cooling blanket",
+   "link": "https://www.amazon.com/s?k=Lola+Blankets+Weighted+Blanket&tag=zoepicks00-20",
+   "tabs": [
+    "durable"
+   ]
   }
  ],
  "verdict": {
@@ -159,5 +222,11 @@
     "YnM Weighted Blanket"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "durable",
+   "label": "Durable"
+  }
+ ]
 }
