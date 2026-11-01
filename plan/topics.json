@@ -3794,5 +3794,26 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Nov 1, 2026"
+ },
+ {
+  "title": "Best Photo Printer (2026)",
+  "slug": "best-photo-printer-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-printers-2026",
+  "tab": "photo",
+  "tab_label": "Photo"
+ },
+ {
+  "title": "Best Everyday Shoes (2026)",
+  "slug": "best-everyday-shoes-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
