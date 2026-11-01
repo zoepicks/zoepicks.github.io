@@ -2,7 +2,7 @@
  "slug": "best-tablets-2026",
  "title": "Top Tablets Worth Buying This Holiday Season (2026)",
  "category": "electronics",
- "date": "Oct 22, 2026",
+ "date": "Nov 1, 2026",
  "summary": "The iPad and Samsung Galaxy Tab lines lead the tablet picks from the main review sites this year.",
  "method": "Picks come from Tom's Guide (via AOL), TechRadar, Tech Advisor and Consumer Reports' tablet testing. Only models covered by at least two of these sources are listed.",
  "assumptions": "We show no prices because tablet prices change often. Check the current price and storage size before you buy.",
@@ -215,12 +215,148 @@
    "amazon_rating": "4.5",
    "amazon_reviews": 44974,
    "amazon_rating_asof": "Oct 22, 2026"
+  },
+  {
+   "name": "iPad Air (M4, 2026)",
+   "short": "iPad Air",
+   "badge": "Best Overall",
+   "why": [
+    "CNET calls it the “Best overall iPad for now” and notes its fantastic performance and well‑designed look.",
+    "PCMag lists the iPad Air as a step up for creators and students, highlighting its higher‑end chip and better capabilities than the base model."
+   ],
+   "desc": "The iPad Air uses Apple’s M4 chip, offers strong performance and a familiar Apple design. It runs iPadOS and supports accessories like the Pencil Pro, though those accessories add cost.",
+   "benefit": "Picture a college student editing videos in a coffee shop. The M4 chip lets the iPad Air handle editing smoothly, outpacing the base iPad’s A16. It also beats the iPad Pro in price while delivering comparable speed for most tasks. The catch: accessories such as the Pencil Pro are expensive.",
+   "specs": [
+    "M4 chip",
+    "Well‑designed chassis",
+    "Supports Pencil Pro",
+    "Runs iPadOS"
+   ],
+   "pros": [
+    "Fantastic performance",
+    "Well‑designed",
+    "Supports Apple Pencil Pro"
+   ],
+   "cons": [
+    "Accessories are pricey",
+    "No Apple Intelligence"
+   ],
+   "best_for": "Students and creators who need power without a Pro‑level price",
+   "skip_if": "You need the absolute highest specs for professional workloads",
+   "price": "$599 at Apple Store",
+   "link": "https://www.amazon.com/s?k=iPad+Air+%28M4%2C+2026%29&tag=zoepicks00-20",
+   "price_asof": "Nov 1, 2026",
+   "tabs": [
+    "ipad"
+   ]
+  },
+  {
+   "name": "iPad (11th‑Gen, 2025)",
+   "short": "iPad 11th‑Gen",
+   "badge": "Best Budget",
+   "why": [
+    "PCMag calls it the most affordable iPad and notes its A16 processor, 128 GB storage and $349 price.",
+    "CNET lists it as the best budget iPad, highlighting the low price and solid front‑facing camera."
+   ],
+   "desc": "The 11th‑Gen iPad keeps the classic design, upgrades to an A16 processor, and includes 128 GB of storage. It lacks Apple Intelligence and does not work with the newer Pencil Pro.",
+   "specs": [
+    "A16 processor",
+    "128 GB storage",
+    "Solid front video camera",
+    "$349 price"
+   ],
+   "pros": [
+    "Low price",
+    "Good everyday performance",
+    "High‑quality hardware"
+   ],
+   "cons": [
+    "No Apple Intelligence",
+    "Incompatible with newer Pencil Pro"
+   ],
+   "best_for": "Budget‑conscious buyers who need a solid everyday tablet",
+   "skip_if": "You require the latest stylus support or professional‑grade performance",
+   "price": "$349 at Apple Store",
+   "link": "https://www.amazon.com/s?k=iPad+%2811th%E2%80%91Gen%2C+2025%29&tag=zoepicks00-20",
+   "price_asof": "Nov 1, 2026",
+   "tabs": [
+    "ipad"
+   ]
+  },
+  {
+   "name": "iPad Pro (2025)",
+   "short": "iPad Pro",
+   "badge": "Best Premium",
+   "why": [
+    "PCMag recommends the iPad Pro for professionals, noting its advanced processing power and a starting price of $999.",
+    "TechRadar’s “Best premium” category points to the iPad Pro as the top choice for power users."
+   ],
+   "desc": "The iPad Pro features Apple’s most powerful chip, a large high‑resolution display and supports the full range of Apple accessories. It runs iPadOS and is priced from $999.",
+   "benefit": "Picture a graphic designer running demanding apps on the go. The Pro’s advanced processor outperforms the Air and base iPad, making it the only choice for heavy workloads. It also offers the best display quality in the guide. The catch: it starts at $999, making it the most expensive option.",
+   "specs": [
+    "Advanced processing power",
+    "Large high‑resolution display",
+    "Supports full Apple accessory line",
+    "Starting at $999"
+   ],
+   "pros": [
+    "Highest performance",
+    "Best display",
+    "Full accessory support"
+   ],
+   "cons": [
+    "High price",
+    "Accessories add to cost"
+   ],
+   "best_for": "Professionals who need top‑tier performance and display quality",
+   "skip_if": "You are looking for a low‑cost tablet",
+   "price": "$999 at Apple Store",
+   "link": "https://www.amazon.com/s?k=iPad+Pro+%282025%29&tag=zoepicks00-20",
+   "price_asof": "Nov 1, 2026",
+   "tabs": [
+    "ipad"
+   ]
+  },
+  {
+   "name": "iPad (2025) – Base Model",
+   "short": "iPad Base",
+   "badge": "Best for Most People",
+   "why": [
+    "TechRadar lists the base iPad as the “Best for most people” and notes its unchanged design and solid performance.",
+    "PCMag mentions it as an affordable, well‑rounded tablet for simple entertainment."
+   ],
+   "desc": "The base iPad retains the classic Apple tablet design, uses the A16 processor and offers a reliable experience for web browsing, games and media streaming. It does not include Apple Intelligence.",
+   "benefit": "Picture a retiree using the tablet for video calls and reading. The A16 provides smooth everyday use, and its familiar design is comfortable for all ages. It is the only model that combines affordability with a familiar form factor, beating the Air on price and the Pro on simplicity. The catch: it lacks Apple Intelligence and newer stylus support.",
+   "specs": [
+    "A16 processor",
+    "Classic design",
+    "Handles browsing, games, streaming"
+   ],
+   "pros": [
+    "Reliable everyday performance",
+    "Familiar design",
+    "Affordable"
+   ],
+   "cons": [
+    "No Apple Intelligence",
+    "No support for newer Pencil"
+   ],
+   "best_for": "General users who want a dependable tablet without extra features",
+   "skip_if": "You need the latest AI features or professional‑grade power",
+   "link": "https://www.amazon.com/s?k=iPad+%282025%29+%E2%80%93+Base+Model&tag=zoepicks00-20",
+   "tabs": [
+    "ipad"
+   ]
   }
  ],
  "tabs": [
   {
    "key": "pocket",
    "label": "Pocket"
+  },
+  {
+   "key": "ipad",
+   "label": "Ipad"
   }
  ]
 }

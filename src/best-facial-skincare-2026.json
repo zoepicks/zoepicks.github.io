@@ -2,7 +2,7 @@
  "slug": "best-facial-skincare-2026",
  "title": "Best Facial Skincare (2026)",
  "category": "beauty_health",
- "date": "Oct 21, 2026",
+ "date": "Nov 1, 2026",
  "summary": "Four face moisturizers recommended by multiple sources for different skin types, ranging from dry to oily and sensitive.",
  "method": "Picks were selected based on recommendations from Consumer Reports, NBC News, The Good Trade, and Allure. Products recommended by more than one source were prioritized.",
  "assumptions": "Prices listed are from Allure and may vary by retailer. No prices were provided by other sources.",
@@ -123,6 +123,99 @@
    "amazon_price": "$90.25",
    "amazon_price_asof": "Nov 1, 2026",
    "amazon_listing": "DIEUX Hydration | Instant Angel Lipid Rich Firming Moisturizer, 50 & 25 mL | Firming Care,"
+  },
+  {
+   "name": "CeraVe Daily Moisturizing Lotion",
+   "short": "CeraVe Lotion",
+   "badge": "Best Overall",
+   "why": [
+    "CeraVe Daily Moisturizing Lotion is highlighted as the best overall eczema lotion by NBC News.",
+    "It contains ceramides and hyaluronic acid to help restore the skin barrier."
+   ],
+   "desc": "A fragrance‑free lotion that includes ceramides and hyaluronic acid to moisturize and support the skin barrier. It does not contain prescription steroids.",
+   "benefit": "Picture a person with eczema who wants a daily moisturizer that won’t irritate their skin. This lotion provides a simple, non‑prescription option that helps keep the skin hydrated and reduces itching. It is the only product in this guide that is specifically labeled as the best overall, making it a solid first choice. The catch: it may not fully stop severe flare‑ups.",
+   "specs": [
+    "Ceramides",
+    "Hyaluronic acid",
+    "Fragrance‑free"
+   ],
+   "pros": [
+    "Ceramide formula",
+    "Hyaluronic acid",
+    "Fragrance‑free"
+   ],
+   "cons": [
+    "Not a prescription cream",
+    "May not stop severe flare‑ups"
+   ],
+   "best_for": "people with eczema looking for a daily, non‑prescription moisturizer",
+   "skip_if": "severe, persistent eczema requiring prescription treatment",
+   "link": "https://www.amazon.com/s?k=CeraVe+Daily+Moisturizing+Lotion&tag=zoepicks00-20",
+   "tabs": [
+    "eczema"
+   ]
+  },
+  {
+   "name": "La‑Roche Posay Cicaplast Balm B5",
+   "short": "La‑Roche Balm",
+   "badge": "Best balm",
+   "why": [
+    "La‑Roche Posay Cicaplast Balm B5 is highlighted as the best balm by NBC News.",
+    "It helps repair the skin barrier and soothe irritation."
+   ],
+   "desc": "A balm that repairs the skin barrier and soothes irritation. It does not contain prescription steroids.",
+   "benefit": "Picture a person with eczema who wants a thick, protective balm to keep moisture in. This balm repairs the skin barrier and soothes irritation, making it the only balm in this guide. The catch: it may feel heavy for those who prefer lighter lotions.",
+   "specs": [
+    "Repair skin barrier",
+    "Soothes irritation",
+    "Fragrance‑free"
+   ],
+   "pros": [
+    "Repair skin barrier",
+    "Soothes irritation",
+    "Fragrance‑free"
+   ],
+   "cons": [
+    "Feels heavy",
+    "Not a prescription cream"
+   ],
+   "best_for": "people needing a protective, barrier‑repair balm",
+   "skip_if": "prefers lightweight lotion",
+   "link": "https://www.amazon.com/s?k=La%E2%80%91Roche+Posay+Cicaplast+Balm+B5&tag=zoepicks00-20",
+   "tabs": [
+    "eczema"
+   ]
+  },
+  {
+   "name": "First Aid Beauty Ultra Repair Cream",
+   "short": "First Aid Ultra Repair",
+   "badge": "Best for barrier care",
+   "why": [
+    "First Aid Beauty Ultra Repair Cream is listed as best for skin barrier care by NBC News.",
+    "It contains ceramides and colloidal oatmeal to soothe and repair."
+   ],
+   "desc": "A cream that contains ceramides and colloidal oatmeal to soothe and repair the skin barrier. It does not contain prescription steroids.",
+   "benefit": "Picture someone with eczema who wants a cream that deeply repairs the skin barrier. This product offers ceramides and colloidal oatmeal, making it the only cream in this guide focused on barrier repair. The catch: it can be a bit pricey compared to other options.",
+   "specs": [
+    "Ceramides",
+    "Colloidal oatmeal",
+    "Fragrance‑free"
+   ],
+   "pros": [
+    "Ceramides",
+    "Colloidal oatmeal",
+    "Fragrance‑free"
+   ],
+   "cons": [
+    "Higher price point",
+    "Not a prescription cream"
+   ],
+   "best_for": "people needing deep barrier repair",
+   "skip_if": "budget conscious",
+   "link": "https://www.amazon.com/s?k=First+Aid+Beauty+Ultra+Repair+Cream&tag=zoepicks00-20",
+   "tabs": [
+    "eczema"
+   ]
   }
  ],
  "verdict": {
@@ -134,5 +227,11 @@
     "Aestura Atobarrier 365 Cream"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "eczema",
+   "label": "Eczema"
+  }
+ ]
 }

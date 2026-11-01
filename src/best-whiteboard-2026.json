@@ -1,0 +1,94 @@
+{
+ "slug": "best-whiteboard-2026",
+ "title": "Best Whiteboard (2026)",
+ "category": "office_books",
+ "date": "Nov 1, 2026",
+ "summary": "A guide to the top whiteboard tools for 2026.",
+ "method": "Picks were based on mentions in source 0 (Microsoft Whiteboard), source 3 (Storyflow, Miro AI, FigJam) and source 5 (online whiteboard category).",
+ "assumptions": "No price information was provided in the sources, so price fields are null.",
+ "products": [
+  {
+   "name": "Miro AI",
+   "short": "Miro AI",
+   "badge": "Best for Enterprise Workshops",
+   "why": [
+    "Miro AI is highlighted for enterprise workshops in the AI whiteboard comparison.",
+    "It is a larger, more established general whiteboard platform."
+   ],
+   "desc": "Miro AI adds artificial‑intelligence features to the well‑known Miro collaborative whiteboard platform.",
+   "benefit": "Picture a facilitator running a large corporate workshop with many participants. Miro AI offers AI tools within a familiar, widely adopted whiteboard, helping large groups stay organized. It wins over Storyflow for scale and brand recognition in enterprise settings. The catch: its AI depth is less than Storyflow’s, focusing on selections rather than the whole board.",
+   "specs": [
+    "Enterprise workshop focus",
+    "Established platform"
+   ],
+   "pros": [
+    "Widely used",
+    "Strong collaboration tools",
+    "Scalable"
+   ],
+   "cons": [
+    "AI reads only selected areas",
+    "May be more complex to set up"
+   ],
+   "best_for": "Large enterprises and workshops",
+   "skip_if": "You need AI that reads the entire canvas",
+   "link": "https://www.amazon.com/s?k=Miro+AI&tag=zoepicks00-20"
+  },
+  {
+   "name": "FigJam",
+   "short": "FigJam",
+   "badge": "Best for Figma Teams",
+   "why": [
+    "FigJam is recommended for teams already using Figma.",
+    "It integrates tightly with the Figma design ecosystem."
+   ],
+   "desc": "FigJam is an online whiteboard that integrates directly with Figma, allowing design teams to collaborate visually.",
+   "benefit": "Picture a design team that lives inside Figma and wants a quick way to sketch ideas together. FigJam’s tight Figma integration lets them stay in one workflow, beating Storyflow for designers who don’t need deep AI. The catch: its AI features are less advanced than the dedicated AI tools.",
+   "specs": [
+    "Figma integration",
+    "Collaboration features"
+   ],
+   "pros": [
+    "Seamless with Figma",
+    "Easy for designers",
+    "Real‑time collaboration"
+   ],
+   "cons": [
+    "Limited AI capabilities",
+    "May feel basic for non‑design users"
+   ],
+   "best_for": "Design teams using Figma",
+   "skip_if": "You need advanced AI assistance",
+   "link": "https://www.amazon.com/s?k=FigJam&tag=zoepicks00-20"
+  },
+  {
+   "name": "Microsoft Whiteboard",
+   "short": "MS Whiteboard",
+   "badge": "Best Free Option",
+   "why": [
+    "Microsoft Whiteboard is completely free and offers infinite space for collaboration.",
+    "It provides plentiful templates but lacks integrations beyond Teams."
+   ],
+   "desc": "Microsoft Whiteboard is a free online whiteboard with unlimited canvas space, templates, and basic collaboration features.",
+   "benefit": "Picture a small team that wants a no‑cost solution for brainstorming. Microsoft Whiteboard gives unlimited canvas and templates without any fee, beating paid options on price. It lacks integrations except with Teams, which can limit workflow flexibility. The catch: you need a Microsoft account just to view boards.",
+   "specs": [
+    "Totally free",
+    "Infinite space for collaboration",
+    "Plentiful templates",
+    "No integrations except Teams"
+   ],
+   "pros": [
+    "Free",
+    "Unlimited canvas",
+    "Templates included"
+   ],
+   "cons": [
+    "No integrations beyond Teams",
+    "Requires Microsoft account to view"
+   ],
+   "best_for": "Budget‑conscious teams",
+   "skip_if": "You need deep integrations or advanced AI",
+   "link": "https://www.amazon.com/s?k=Microsoft+Whiteboard&tag=zoepicks00-20"
+  }
+ ]
+}

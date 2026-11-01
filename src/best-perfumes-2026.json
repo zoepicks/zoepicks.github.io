@@ -2,7 +2,7 @@
  "slug": "best-perfumes-2026",
  "title": "Top Perfumes to Gift & Wear (2026)",
  "category": "beauty_health",
- "date": "Oct 23, 2026",
+ "date": "Nov 1, 2026",
  "summary": "5 perfumes from editor-tested lists, each for a different taste: a sheer skin scent, a woody evening scent, a fresh citrus floral, a sweet gourmand and a long-lasting amber floral.",
  "method": "Picks come from Marie Claire UK's perfume guide (updated Sept 2026) and PureWow's guide to the best perfumes for women (updated Feb 2026). Scent notes, sizes and wear times are from those editors' reviews, and wear time varies by skin. We do not show prices in the text because they change. Both lists are editors' opinions, not lab tests, so smell a sample before you commit.",
  "assumptions": "the sources are women's perfume lists, but Marie Claire UK says scents should not be limited by gender, so any pick can be worn by anyone.",
@@ -257,6 +257,97 @@
    "fill_tries": 4,
    "fill_last": "Oct 29, 2026",
    "fill_failed": true
+  },
+  {
+   "name": "Thierry Mugler Angel",
+   "short": "Angel",
+   "badge": "Best Classic",
+   "why": [
+    "Angel was created for Thierry Mugler in 1992 and became a classic after three years of support, according to Boisdejasmin.",
+    "Boisdejasmin gives it a 5‑star rating and describes it as polarising, memorable and dramatic."
+   ],
+   "desc": "Angel is a 1992 launch fragrance praised for its bold scent and lasting presence. It does not have a modern reformulation mentioned.",
+   "benefit": "Picture a night out where you want to be unforgettable; Angel’s strong, dramatic aroma makes you stand out. It offers a classic, long‑tested scent that many still rate five stars. It is the only fragrance here with a five‑star rating and a historic launch story, beating Alien’s newer profile and A* MEN’s lighter feel. The catch: its polarising nature can be off‑putting to some noses.",
+   "specs": [
+    "Launched 1992",
+    "5‑star rating"
+   ],
+   "pros": [
+    "Iconic legacy",
+    "Strong character",
+    "Highly rated"
+   ],
+   "cons": [
+    "Polarising scent",
+    "May be too bold for some"
+   ],
+   "best_for": "Fans of classic, bold fragrances",
+   "skip_if": "You prefer subtle or modern scents",
+   "link": "https://www.amazon.com/s?k=Thierry+Mugler+Angel&tag=zoepicks00-20",
+   "tabs": [
+    "mugler"
+   ]
+  },
+  {
+   "name": "Thierry Mugler Alien",
+   "short": "Alien",
+   "badge": "Most Modern Twist",
+   "why": [
+    "Alien is the second major Mugler fragrance after Angel, created by Dominique Ropion & Laurent Bruve, per MyPerfumeShop.",
+    "The review calls it a “perfect perfume” in 2022, highlighting its scent character."
+   ],
+   "desc": "Alien is a newer Mugler fragrance noted for its distinctive scent and design, created by noted perfumers. No mention of a specific bottle type.",
+   "benefit": "Picture a daytime event where you want a fresh, contemporary vibe; Alien gives a modern scent that feels current. It wins over Angel for those seeking a newer profile and over A* MEN for its feminine appeal. The catch: the source does not list longevity details.",
+   "specs": [
+    "Created by Dominique Ropion & Laurent Bruve",
+    "Second major Mugler fragrance"
+   ],
+   "pros": [
+    "Modern scent",
+    "Highly praised in 2022 review",
+    "Distinctive design"
+   ],
+   "cons": [
+    "Longevity not specified",
+    "May not suit those preferring classic scents"
+   ],
+   "best_for": "People wanting a contemporary Mugler fragrance",
+   "skip_if": "You only like vintage classics",
+   "link": "https://www.amazon.com/s?k=Thierry+Mugler+Alien&tag=zoepicks00-20",
+   "tabs": [
+    "mugler"
+   ]
+  },
+  {
+   "name": "Mugler A* MEN",
+   "short": "A* MEN",
+   "badge": "Best Budget Men’s Scent",
+   "why": [
+    "Michael84 describes A* MEN as a scent many like and notes its rubberised plastic 50 ml bottle that is lightweight.",
+    "The review mentions the bottle looks good on the shelf."
+   ],
+   "desc": "A* MEN is a men’s fragrance in a 50 ml rubberised plastic bottle that is lightweight and easy to hold. No mention of scent notes.",
+   "benefit": "Picture a daily office routine where you need an easy‑to‑carry scent; A* MEN’s lightweight bottle fits the bill. It offers a simple, affordable option compared with Angel’s high‑profile legacy and Alien’s modern niche. The catch: the reviewer did not like the bottle feel despite its light weight.",
+   "specs": [
+    "50 ml bottle",
+    "Rubberised plastic",
+    "Lightweight"
+   ],
+   "pros": [
+    "Affordable",
+    "Lightweight bottle",
+    "Shelf‑appealing design"
+   ],
+   "cons": [
+    "Bottle feel not favored by reviewer",
+    "Limited scent detail"
+   ],
+   "best_for": "Budget‑conscious men seeking a simple fragrance",
+   "skip_if": "You want a high‑end or classic scent",
+   "link": "https://www.amazon.com/s?k=Mugler+A%2A%E2%80%AFMEN&tag=zoepicks00-20",
+   "tabs": [
+    "mugler"
+   ]
   }
  ],
  "intro": [
@@ -331,6 +422,10 @@
   {
    "key": "floral",
    "label": "Floral"
+  },
+  {
+   "key": "mugler",
+   "label": "Mugler"
   }
  ]
 }
