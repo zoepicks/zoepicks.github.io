@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-01T17:14:35Z",
+ "updated": "2026-11-01T17:19:46Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -19,20 +19,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B0HMVTN843",
-    "name": "Hearvo USB 3.0 HDMI KVM Switch",
-    "pct": 37,
-    "rating": 4.8,
-    "t": 1793546704,
-    "img": "https://m.media-amazon.com/images/I/71gI3EhIueL.jpg",
-    "link": "https://www.amazon.com/dp/B0HMVTN843?tag=zoepicks00-20",
-    "now": "26.99",
-    "was": "42.99",
-    "deal": "Limited time deal",
-    "reviews": 73,
-    "tier": "mid"
-   },
-   {
     "asin": "B0FNRJNHW8",
     "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
     "pct": 50,
@@ -40,6 +26,17 @@
     "t": 1793509960,
     "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
     "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B07TZT4Q89",
+    "name": "Logitech StreamCam Premium Webcam",
+    "pct": 41,
+    "rating": 4.4,
+    "t": 1793509961,
+    "img": "https://m.media-amazon.com/images/I/71-fdSpTk5L.jpg",
+    "link": "https://www.amazon.com/dp/B07TZT4Q89?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -287,17 +284,6 @@
   ],
   "hobby_music": [
    {
-    "asin": "B086ZSNFQ9",
-    "name": "USB Headset with Microphone Noise Cancelling and Volume…",
-    "pct": 50,
-    "rating": 4.2,
-    "t": 1793509977,
-    "img": "https://m.media-amazon.com/images/I/61c2QhrrQVL.jpg",
-    "link": "https://www.amazon.com/dp/B086ZSNFQ9?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
-   {
     "asin": "B0BCXF3T1W",
     "name": "JLab Go Talk USB-C Microphone",
     "pct": 56,
@@ -306,6 +292,20 @@
     "img": "https://m.media-amazon.com/images/I/8170N5qtf5L.jpg",
     "link": "https://www.amazon.com/dp/B0BCXF3T1W?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0GVSC9LZS",
+    "name": "TENLAMP USB Gaming Microphone",
+    "pct": 40,
+    "rating": 4.6,
+    "t": 1793546148,
+    "img": "https://m.media-amazon.com/images/I/71s8DyMrBIL.jpg",
+    "link": "https://www.amazon.com/dp/B0GVSC9LZS?tag=zoepicks00-20",
+    "now": "29.98",
+    "was": "49.99",
+    "deal": "Limited time deal",
+    "reviews": 48,
     "tier": "mid"
    },
    {
@@ -423,20 +423,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B0HMHVVSX8",
-    "name": "Smart Watch, Fitness Watch",
-    "pct": 79,
-    "rating": 4.9,
-    "t": 1793546536,
-    "img": "https://m.media-amazon.com/images/I/715Pm4IIRRL.jpg",
-    "link": "https://www.amazon.com/dp/B0HMHVVSX8?tag=zoepicks00-20",
-    "now": "34.99",
-    "was": "169.99",
-    "deal": "Limited time deal",
-    "reviews": 146,
-    "tier": "mid"
-   },
-   {
     "asin": "B0HC5ZYJTK",
     "name": "taopodo Smart Watches",
     "pct": 69,
@@ -448,6 +434,20 @@
     "was": "159.99",
     "deal": "Limited time deal",
     "reviews": 95,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0HJ281MN4",
+    "name": "EGQINR GPS Smart Watch",
+    "pct": 45,
+    "rating": 4.2,
+    "t": 1793546536,
+    "img": "https://m.media-amazon.com/images/I/611b7JqGw-L.jpg",
+    "link": "https://www.amazon.com/dp/B0HJ281MN4?tag=zoepicks00-20",
+    "now": "109.98",
+    "was": "199.99",
+    "deal": "Limited time deal",
+    "reviews": 23,
     "tier": "premium"
    }
   ],
@@ -658,20 +658,6 @@
   ],
   "tools_auto": [
    {
-    "asin": "B0GJ5GCJMY",
-    "name": "OBD2 Scanner and Battery Tester",
-    "pct": 55,
-    "rating": 4.5,
-    "t": 1793547526,
-    "img": "https://m.media-amazon.com/images/I/81ENU8kXmwL.jpg",
-    "link": "https://www.amazon.com/dp/B0GJ5GCJMY?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "43.99",
-    "deal": "Limited time deal",
-    "reviews": 47,
-    "tier": "budget"
-   },
-   {
     "asin": "B0H82LC1DN",
     "name": "BSRCO Car Vacuum Portable Cordless",
     "pct": 73,
@@ -683,36 +669,46 @@
     "was": "149.99",
     "deal": "Limited time deal",
     "reviews": 102,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0F916XPT8",
+    "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
+    "pct": 61,
+    "rating": 4.3,
+    "t": 1793488524,
+    "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
+    "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
+    "now": "54.99",
+    "was": "139.99",
+    "deal": "Limited time deal",
+    "reviews": 79,
     "tier": "mid"
    },
    {
-    "asin": "B0H93T31W3",
-    "name": "4K+4K Dual Dash Cam Front and Rear",
+    "asin": "B0GV4XWRT7",
+    "name": "4K+4K+1080P 3 Channel Dash Cam",
     "pct": 40,
-    "rating": 4.6,
-    "t": 1793547526,
-    "img": "https://m.media-amazon.com/images/I/81sED5fjPYL.jpg",
-    "link": "https://www.amazon.com/dp/B0H93T31W3?tag=zoepicks00-20",
-    "now": "109.97",
-    "was": "183.29",
-    "deal": "Limited time deal",
-    "reviews": 180,
+    "rating": 4.5,
+    "t": 1793509933,
+    "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
+    "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
   "toys_kids": [
    {
-    "asin": "B0G1YP1JDT",
-    "name": "Alepo 3 Pack Baby Beanie Hats",
-    "pct": 33,
-    "rating": 4.7,
-    "t": 1793547682,
-    "img": "https://m.media-amazon.com/images/I/81Gjm8Uhf9L.jpg",
-    "link": "https://www.amazon.com/dp/B0G1YP1JDT?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "29.99",
-    "deal": "Limited time deal",
-    "reviews": 1800,
+    "asin": "B09Q4GWMZQ",
+    "name": "LEGO Botanicals Succulents 10309",
+    "pct": 34,
+    "rating": 4.9,
+    "t": 1793551842,
+    "img": "https://m.media-amazon.com/images/I/71OywSYVdzL.jpg",
+    "link": "https://www.amazon.com/dp/B09Q4GWMZQ?tag=zoepicks00-20",
+    "now": "32.99",
+    "was": "49.99",
+    "reviews": 14626,
     "tier": "budget"
    },
    {
@@ -748,6 +744,17 @@
     "label": "Mechanical Keyboards",
     "items": [
      {
+      "asin": "B0H4FCHN3C",
+      "name": "ProtoArc K310 Pro Backlit Bluetooth Mechanical Keyboard",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1793509962,
+      "img": "https://m.media-amazon.com/images/I/817a8MnWsrL.jpg",
+      "link": "https://www.amazon.com/dp/B0H4FCHN3C?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0FNRJNHW8",
       "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
       "pct": 50,
@@ -756,17 +763,20 @@
       "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
+      "tier": "mid"
      },
      {
-      "asin": "B0H4FCHN3C",
-      "name": "ProtoArc K310 Pro Backlit Bluetooth Mechanical Keyboard",
-      "pct": 40,
-      "rating": 4.8,
-      "t": 1793509962,
-      "img": "https://m.media-amazon.com/images/I/817a8MnWsrL.jpg",
-      "link": "https://www.amazon.com/dp/B0H4FCHN3C?tag=zoepicks00-20",
-      "reviews": 0
+      "asin": "B0GVSDD6V8",
+      "name": "Logitech G316 X 98 MechanicalGaming Keyboard",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793551931,
+      "img": "https://m.media-amazon.com/images/I/617HcQtWKrL.jpg",
+      "link": "https://www.amazon.com/dp/B0GVSDD6V8?tag=zoepicks00-20",
+      "now": "90.23",
+      "was": "119.99",
+      "reviews": 55,
+      "tier": "premium"
      }
     ]
    },
@@ -874,7 +884,80 @@
       "t": 1793509961,
       "img": "https://m.media-amazon.com/images/I/61MkHuTzfLL.jpg",
       "link": "https://www.amazon.com/dp/B0DR1K3DM1?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B01JPOLKDW",
+      "name": "Logitech M330 Silent Plus Full Size 2.4 GHz Wireless Mouse",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1793551903,
+      "img": "https://m.media-amazon.com/images/I/61qm452yy-L.jpg",
+      "link": "https://www.amazon.com/dp/B01JPOLKDW?tag=zoepicks00-20",
+      "now": "16.14",
+      "was": "22.99",
+      "deal": "Limited time deal",
+      "reviews": 25223,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BPY4ZQXG",
+      "name": "Logitech MX Anywhere 3S Compact Wireless Mouse Fast…",
+      "pct": 22,
+      "rating": 4.5,
+      "t": 1793551903,
+      "img": "https://m.media-amazon.com/images/I/51PZmLp6u+L.jpg",
+      "link": "https://www.amazon.com/dp/B0BPY4ZQXG?tag=zoepicks00-20",
+      "now": "69.99",
+      "was": "89.99",
+      "reviews": 2347,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "phone-gimbal",
+    "label": "Phone Gimbal",
+    "items": [
+     {
+      "asin": "B0C89T698J",
+      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793551946,
+      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
+      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
+      "now": "51.99",
+      "was": "64.99",
+      "reviews": 3834,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BP2VZ6K9",
+      "name": "DJI Osmo Mobile 6 Smartphone Gimbal Stabilizer",
+      "pct": 8,
+      "rating": 4.5,
+      "t": 1793551946,
+      "img": "https://m.media-amazon.com/images/I/61Zj6kAw-9L.jpg",
+      "link": "https://www.amazon.com/dp/B0BP2VZ6K9?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "109.00",
+      "reviews": 20163,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0G6K2DRM5",
+      "name": "Insta360 Flow 2 Pro Phone Gimbal Stabilizer",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1793551946,
+      "img": "https://m.media-amazon.com/images/I/61fXCzGYL+L.jpg",
+      "link": "https://www.amazon.com/dp/B0G6K2DRM5?tag=zoepicks00-20",
+      "now": "169.99",
+      "was": "199.99",
+      "reviews": 429,
+      "tier": "premium"
      }
     ]
    },
@@ -974,11 +1057,6 @@
    {
     "key": "phone-case",
     "label": "Phone Case",
-    "items": []
-   },
-   {
-    "key": "phone-gimbal",
-    "label": "Phone Gimbal",
     "items": []
    },
    {
@@ -1953,6 +2031,24 @@
     ]
    },
    {
+    "key": "cameras-beginners",
+    "label": "Cameras Beginners",
+    "items": [
+     {
+      "asin": "B0DH28GGNZ",
+      "name": "4K Digital Camera for Beginners & Teens",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793551971,
+      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
+      "now": "59.99",
+      "was": "79.99",
+      "reviews": 1560
+     }
+    ]
+   },
+   {
     "key": "printers",
     "label": "Printers",
     "items": [
@@ -2050,11 +2146,6 @@
    {
     "key": "street-photography-camera",
     "label": "Street Photography Camera",
-    "items": []
-   },
-   {
-    "key": "cameras-beginners",
-    "label": "Cameras Beginners",
     "items": []
    },
    {
@@ -2515,6 +2606,34 @@
     "label": "Rain Jackets",
     "items": [
      {
+      "asin": "B0H6KDRVJ8",
+      "name": "Uposiut Womens Raincoat Rain Jacket Waterproof Windbreaker",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793551882,
+      "img": "https://m.media-amazon.com/images/I/61mqXDWBZTL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6KDRVJ8?tag=zoepicks00-20",
+      "now": "14.98",
+      "was": "19.99",
+      "deal": "Limited time deal",
+      "reviews": 43,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07KW6STT8",
+      "name": "COOFANDY Mens Packable Rain Jacket Lightweight Waterproof…",
+      "pct": 41,
+      "rating": 4.4,
+      "t": 1793551882,
+      "img": "https://m.media-amazon.com/images/I/71QVFsSmiuL.jpg",
+      "link": "https://www.amazon.com/dp/B07KW6STT8?tag=zoepicks00-20",
+      "now": "18.98",
+      "was": "31.99",
+      "deal": "Limited time deal",
+      "reviews": 6736,
+      "tier": "mid"
+     },
+     {
       "asin": "B0CLR8QXKW",
       "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
       "pct": 40,
@@ -2524,7 +2643,8 @@
       "link": "https://www.amazon.com/dp/B0CLR8QXKW?tag=zoepicks00-20",
       "now": "46.86",
       "was": "70.00",
-      "reviews": 4767
+      "reviews": 4767,
+      "tier": "premium"
      }
     ]
    },
@@ -3721,7 +3841,48 @@
    {
     "key": "sewing-machines",
     "label": "Sewing Machines",
-    "items": []
+    "items": [
+     {
+      "asin": "B0HFNHBHKT",
+      "name": "Stoigeld Portable Sewing Machine",
+      "pct": 10,
+      "rating": 4.2,
+      "t": 1793552025,
+      "img": "https://m.media-amazon.com/images/I/7145UPqEOdL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFNHBHKT?tag=zoepicks00-20",
+      "now": "79.19",
+      "was": "87.99",
+      "deal": "Limited time deal",
+      "reviews": 59,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CRMDKBGB",
+      "name": "Brother XM3700 Sewing Machine 37 Built-in Stitches",
+      "pct": 13,
+      "rating": 4.6,
+      "t": 1793552025,
+      "img": "https://m.media-amazon.com/images/I/71dr4r3l0VL.jpg",
+      "link": "https://www.amazon.com/dp/B0CRMDKBGB?tag=zoepicks00-20",
+      "now": "129.88",
+      "was": "149.99",
+      "reviews": 1018,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GXX5LNVQ",
+      "name": "Brother XM2701 27-Stitch Sewing Machine",
+      "pct": 28,
+      "rating": 4.7,
+      "t": 1793552025,
+      "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
+      "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
+      "now": "129.99",
+      "was": "179.99",
+      "reviews": 100,
+      "tier": "premium"
+     }
+    ]
    }
   ],
   "home_kitchen": [
@@ -4156,6 +4317,54 @@
     ]
    },
    {
+    "key": "space-heaters",
+    "label": "Space Heaters",
+    "items": [
+     {
+      "asin": "B0FFRR3FTC",
+      "name": "Space Heater for Indoor Use",
+      "pct": 38,
+      "rating": 4.3,
+      "t": 1793551918,
+      "img": "https://m.media-amazon.com/images/I/61mdEo1MlCL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFRR3FTC?tag=zoepicks00-20",
+      "now": "24.98",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 1143,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HGDZP7ZC",
+      "name": "NEWBULIG 24\" Indoor Space Heater",
+      "pct": 26,
+      "rating": 4.2,
+      "t": 1793551918,
+      "img": "https://m.media-amazon.com/images/I/617DFG+9zcL.jpg",
+      "link": "https://www.amazon.com/dp/B0HGDZP7ZC?tag=zoepicks00-20",
+      "now": "36.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 47,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HK79ZXT4",
+      "name": "Uthfy Space Heaters",
+      "pct": 17,
+      "rating": 5.0,
+      "t": 1793551918,
+      "img": "https://m.media-amazon.com/images/I/81b5VjXWYfL.jpg",
+      "link": "https://www.amazon.com/dp/B0HK79ZXT4?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "119.99",
+      "deal": "Limited time deal",
+      "reviews": 27,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "dishwasher",
     "label": "Dishwasher",
     "items": [
@@ -4502,11 +4711,6 @@
     "items": []
    },
    {
-    "key": "space-heaters",
-    "label": "Space Heaters",
-    "items": []
-   },
-   {
     "key": "stand-mixers",
     "label": "Stand Mixers",
     "items": []
@@ -4629,17 +4833,16 @@
       "tier": "mid"
      },
      {
-      "asin": "B0H7WZMPZ5",
-      "name": "Smart Watch for Women",
-      "pct": 39,
-      "rating": 4.5,
+      "asin": "B0GZ2JPGH8",
+      "name": "Gydom Smart Watch for Women Men",
+      "pct": 29,
+      "rating": 4.3,
       "t": 1793546536,
-      "img": "https://m.media-amazon.com/images/I/81TDGtIHSJL.jpg",
-      "link": "https://www.amazon.com/dp/B0H7WZMPZ5?tag=zoepicks00-20",
-      "now": "48.99",
-      "was": "79.98",
-      "deal": "Limited time deal",
-      "reviews": 223,
+      "img": "https://m.media-amazon.com/images/I/71bJPrvg8CL.jpg",
+      "link": "https://www.amazon.com/dp/B0GZ2JPGH8?tag=zoepicks00-20",
+      "now": "49.87",
+      "was": "69.99",
+      "reviews": 1094,
       "tier": "premium"
      }
     ]
@@ -6256,7 +6459,50 @@
    {
     "key": "lawn-mowers",
     "label": "Lawn Mowers",
-    "items": []
+    "items": [
+     {
+      "asin": "B08GK4CQST",
+      "name": "LawnMaster MEB1216K Electric Lawn Mower 16-Inch 12AMP",
+      "pct": 15,
+      "rating": 4.0,
+      "t": 1793551818,
+      "img": "https://m.media-amazon.com/images/I/61LaictMkgL.jpg",
+      "link": "https://www.amazon.com/dp/B08GK4CQST?tag=zoepicks00-20",
+      "now": "118.98",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 2502,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HDSP69D4",
+      "name": "17\" Cordless Lawn Mower",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793551818,
+      "img": "https://m.media-amazon.com/images/I/71OLvNh1sOL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDSP69D4?tag=zoepicks00-20",
+      "now": "149.99",
+      "was": "199.99",
+      "deal": "Limited time deal",
+      "reviews": 85,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CWP4QH1Z",
+      "name": "LawnMaster 48V MAX 19'' Brushless Cordless Electric Lawn…",
+      "pct": 11,
+      "rating": 4.0,
+      "t": 1793551818,
+      "img": "https://m.media-amazon.com/images/I/71mj2vvyLOL.jpg",
+      "link": "https://www.amazon.com/dp/B0CWP4QH1Z?tag=zoepicks00-20",
+      "now": "239.99",
+      "was": "269.99",
+      "deal": "Limited time deal",
+      "reviews": 3549,
+      "tier": "premium"
+     }
+    ]
    }
   ],
   "toys_kids": [
@@ -6394,6 +6640,51 @@
     ]
    },
    {
+    "key": "lego-sets-adults",
+    "label": "Lego Sets Adults",
+    "items": [
+     {
+      "asin": "B09Q4GWMZQ",
+      "name": "LEGO Botanicals Succulents 10309",
+      "pct": 34,
+      "rating": 4.9,
+      "t": 1793551842,
+      "img": "https://m.media-amazon.com/images/I/71OywSYVdzL.jpg",
+      "link": "https://www.amazon.com/dp/B09Q4GWMZQ?tag=zoepicks00-20",
+      "now": "32.99",
+      "was": "49.99",
+      "reviews": 14626,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FMS7HMNN",
+      "name": "LEGO Technic 1966 Ford GT40 MKII Race Car 42223",
+      "pct": 20,
+      "rating": 4.9,
+      "t": 1793551842,
+      "img": "https://m.media-amazon.com/images/I/81wiWthkwKL.jpg",
+      "link": "https://www.amazon.com/dp/B0FMS7HMNN?tag=zoepicks00-20",
+      "now": "59.99",
+      "was": "74.99",
+      "reviews": 400,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BXQ6NRRN",
+      "name": "LEGO Harry Potter Hogwarts Castle and Grounds 76419…",
+      "pct": 19,
+      "rating": 4.8,
+      "t": 1793551842,
+      "img": "https://m.media-amazon.com/images/I/813B5OrhLSL.jpg",
+      "link": "https://www.amazon.com/dp/B0BXQ6NRRN?tag=zoepicks00-20",
+      "now": "136.99",
+      "was": "169.99",
+      "reviews": 2687,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "beanie-baby",
     "label": "Beanie Baby",
     "items": [
@@ -6494,11 +6785,6 @@
    {
     "key": "chewable-fidget-toy",
     "label": "Chewable Fidget Toy",
-    "items": []
-   },
-   {
-    "key": "lego-sets-adults",
-    "label": "Lego Sets Adults",
     "items": []
    },
    {
