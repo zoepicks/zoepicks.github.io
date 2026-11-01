@@ -2,7 +2,7 @@
  "slug": "best-3d-printers-2026",
  "title": "Top 3D Printers for Beginners & Hobbyists (2026)",
  "category": "electronics",
- "date": "Oct 16, 2026",
+ "date": "Nov 1, 2026",
  "summary": "The Bambu Lab X2D is the best all-round pick, the A1 Mini and Anycubic Kobra X are the best budget starts, and the Prusa Core One is the premium choice.",
  "method": "Picks come from Tom's Hardware (updated Oct 6, 2026) and TechRadar (updated Sep 16, 2026), and every model listed is named by both. All3DP's roundup also names the A1 Mini and the Prusa Core One.",
  "assumptions": "Prices move a lot, especially Bambu Lab sales, so we quote list or launch prices only where a source states one and tell you who said it. We left out TechRadar's overall pick, the Bambu Lab H2D, because it costs well over $1,500 and this guide targets beginners and hobbyists. Resin printers (for miniatures) are a separate category and are not covered here.",
@@ -122,42 +122,34 @@
    "amazon_rating_asof": "Oct 31, 2026"
   },
   {
-   "name": "Elegoo Centauri Carbon",
-   "short": "Centauri Carbon",
+   "name": "Bambu Lab P2S",
+   "short": "Bambu P2S",
    "badge": "Best fast enclosed printer",
    "why": [
-    "Tom's Hardware calls the Centauri Carbon the fastest budget 3D printer: a fully enclosed, pre-assembled CoreXY with a 500 mm/s top speed, and it printed a perfect Benchy in 18 minutes 19 seconds. It handled PLA, PETG, TPU, ABS and ASA without trouble and does not need cloud access.",
-    "TechRadar lists it among its favorites as one of the best single-filament CoreXY printers it has tested. If you want multicolor, TechRadar's budget multicolor pick is the newer Centauri Carbon 2 Combo with Elegoo's CANVAS system, which is limited to four filaments."
+    "TechRadar says the Bambu Lab P2S was in the running for best overall in its 3D printer guide and calls it a strong contender. It is an enclosed CoreXY printer with a 256 x 256 x 256 mm build volume, a 500 mm/s top print speed, a 5-inch touchscreen and an AI camera that watches for failed prints.",
+    "It is the cheaper enclosed Bambu next to the X2D: Tom's Hardware says the X2D costs only a little more than the P2S, and the X2D adds active chamber heating, which the P2S does not have. For multicolor you need the Combo, which adds the AMS 2 Pro."
    ],
    "specs": [
-    "256 x 256 x 256 mm build volume (Tom's Hardware)",
-    "500 mm/s top speed, 20,000 mm/s² acceleration",
-    "Fully enclosed, no heated chamber",
-    "Tom's Hardware cites a $299.99 launch price; check the current price"
+    "256 x 256 x 256 mm build volume",
+    "Enclosed CoreXY, 500 mm/s top print speed, 20,000 mm/s² acceleration",
+    "Hardened-steel nozzle, quick swap, up to 300 °C",
+    "5-inch touchscreen and a 1080p AI camera",
+    "Enclosed, but no active chamber heating",
+    "Reviewers cite $549 alone and $799 as a Combo with AMS 2 Pro at launch; check the current price"
    ],
    "pros": [
-    "Fast and enclosed at a budget price",
-    "Prints ABS and ASA",
-    "Preassembled, easy to use",
-    "Runs without the cloud"
+    "Fast, enclosed CoreXY from Bambu Lab",
+    "Quick-swap hardened-steel nozzle",
+    "AI camera watches for failed prints",
+    "The Combo adds AMS 2 Pro for multicolor"
    ],
    "cons": [
-    "Single color only (the Carbon 2 adds multicolor)",
-    "No heated chamber; it could not quite handle tricky PC blends in Tom's Hardware's test",
-    "The lid must come off for cooler filaments (Tom's Hardware)"
+    "No active chamber heating (the X2D has it)",
+    "Single nozzle: multicolor needs the more expensive Combo"
    ],
-   "best_for": "Buyers who want speed and an enclosure on a budget",
-   "skip_if": "You want multicolor from the start",
-   "link": "https://www.amazon.com/s?k=Elegoo+Centauri+Carbon&tag=zoepicks00-20",
-   "asin": "B0FDQP54X8",
-   "image": "https://m.media-amazon.com/images/I/710ZDbLvCYL.jpg",
-   "image_asin": "B0FDQP54X8",
-   "amazon_rating": "4.1",
-   "amazon_reviews": 3724,
-   "amazon_rating_asof": "Oct 31, 2026",
-   "amazon_price": "$19.99",
-   "amazon_price_asof": "Oct 28, 2026",
-   "amazon_listing": "Energy-Saving Centauri Carbon/CC2 Cold Build Plate 260*271mm,Double Sided Glossy+Matte Low"
+   "best_for": "Buyers who want an enclosed, fast printer with Bambu's easy setup",
+   "skip_if": "You want to print tough filaments that need a heated chamber (the X2D has one), or you want the cheapest start (the A1 Mini)",
+   "link": "https://www.amazon.com/s?k=Bambu+Lab+P2S&tag=zoepicks00-20"
   },
   {
    "name": "Bambu Lab A1",
@@ -257,7 +249,7 @@
  "faq": [
   [
    "Do I need an enclosed printer?",
-   "Only if you plan to print ABS, ASA or nylon. TechRadar notes that an open frame like the Kobra X limits material choice, while enclosed machines such as the X2D, Centauri Carbon and Core One handle tougher filaments."
+   "Only if you plan to print ABS, ASA or nylon. TechRadar notes that an open frame like the Kobra X limits material choice, while enclosed machines such as the X2D and Core One handle tougher filaments. The Bambu Lab P2S is enclosed too, but it has no active chamber heating."
   ],
   [
    "Is multicolor printing worth it?",
