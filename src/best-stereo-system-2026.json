@@ -2,10 +2,93 @@
  "slug": "best-stereo-system-2026",
  "title": "Best Stereo System (2026)",
  "category": "electronics",
- "date": "Oct 26, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the sources that explicitly mention them. The Onkyo TX‑8270 was chosen because it is the only product with detailed specifications in the provided excerpts.",
- "assumptions": "Prices are not included because the sources do not provide current pricing information.",
- "products": [],
- "draft": true
+ "date": "Nov 1, 2026",
+ "summary": "Four stereo systems are highlighted across the sources, with Vizio’s 5.1‑Channel M‑Series leading the pack.",
+ "method": "Selected products were taken from the CNET and ZDNET reviews, which both list Vizio 5.1‑Channel M‑Series and Vizio 2.1 Soundbar. ZDNET lists Sonos Arc as the premium choice. Tom’s Guide mentions Pro‑ject as a high‑end stereo system. The picks are ordered by the number of sources that recommend them.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Vizio 5.1‑Channel M‑Series",
+   "short": "Vizio 5.1",
+   "badge": "Best overall",
+   "why": [
+    "The Vizio 5.1‑Channel M‑Series is highlighted as the best sound system overall in ZDNET. It offers powerful and immersive sound with easy installation. The design is low‑key and it supports a 5.1‑channel setup."
+   ],
+   "desc": "The Vizio 5.1‑Channel M‑Series is a 5.1‑channel sound system that installs easily and has a low‑key appearance. It delivers powerful, immersive sound.",
+   "benefit": "Picture a family movie night: the Vizio 5.1‑Channel M‑Series delivers powerful, immersive sound with easy installation, making it ideal for home theater setups. It wins because it offers the best overall sound quality and low‑key appearance among the picks. The catch: its connectivity can be finicky.",
+   "specs": [
+    "5.1‑channel"
+   ],
+   "pros": [
+    "Powerful sound",
+    "Easy installation",
+    "Low‑key appearance"
+   ],
+   "cons": [
+    "Finicky connectivity"
+   ],
+   "best_for": "Home theater enthusiasts",
+   "skip_if": "You need a simple single‑channel stereo",
+   "link": "https://www.amazon.com/s?k=Vizio+5.1%E2%80%91Channel+M%E2%80%91Series&tag=zoepicks00-20"
+  },
+  {
+   "name": "Sonos Arc",
+   "short": "Sonos Arc",
+   "badge": "Best premium soundbar",
+   "why": [
+    "ZDNET lists Sonos Arc as the best premium soundbar. It is compatible with other Sonos devices and offers great surround‑sound."
+   ],
+   "desc": "The Sonos Arc is a premium soundbar that is compatible with other Sonos devices and provides great surround‑sound. It is expensive and large.",
+   "benefit": "Picture a high‑end home theater: the Sonos Arc delivers great surround‑sound and integrates with other Sonos devices for a seamless experience. It wins because it offers the best premium surround‑sound among the picks. The catch: it is expensive and large.",
+   "specs": [
+    "Compatible with other Sonos devices",
+    "Great surround‑sound"
+   ],
+   "pros": [
+    "Great surround‑sound",
+    "Seamless integration with Sonos"
+   ],
+   "cons": [
+    "Expensive",
+    "Large size"
+   ],
+   "best_for": "Audiophiles with a Sonos ecosystem",
+   "skip_if": "You have limited space or budget",
+   "link": "https://www.amazon.com/s?k=Sonos+Arc&tag=zoepicks00-20"
+  },
+  {
+   "name": "Pro‑ject",
+   "short": "Pro‑ject",
+   "badge": "High‑end stereo",
+   "why": [
+    "Tom’s Guide mentions Pro‑ject as a stunning stereo system that blew the reviewer away."
+   ],
+   "desc": "Pro‑ject is a high‑end stereo system that offers stunning audio performance. The review notes it replaced a $3,000 speaker setup.",
+   "benefit": "Picture a serious audiophile: Pro‑ject delivers stunning audio that can replace a high‑end speaker setup. It wins because it offers exceptional sound quality for those who already invest heavily in audio. The catch: it is likely expensive and requires a significant investment.",
+   "specs": [
+    "High‑end audio performance"
+   ],
+   "pros": [
+    "Exceptional sound quality",
+    "Replaces high‑end speaker setups"
+   ],
+   "cons": [
+    "Likely expensive",
+    "Requires significant investment"
+   ],
+   "best_for": "Audiophiles with a high budget",
+   "skip_if": "You are price‑sensitive",
+   "link": "https://www.amazon.com/s?k=Pro%E2%80%91ject&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Vizio 5.1‑Channel M‑Series",
+  "line": "Picture a family movie night: the Vizio 5.1‑Channel M‑Series delivers powerful, immersive sound with easy installation, making it ideal for home theater setups. It wins because it offers the best overall sound quality and low‑key appearance among the picks. The catch: its connectivity can be finicky.",
+  "also": [
+   [
+    "Best premium soundbar",
+    "Sonos Arc"
+   ]
+  ]
+ }
 }

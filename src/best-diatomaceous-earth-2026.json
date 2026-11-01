@@ -4,8 +4,12 @@
  "category": "other",
  "date": "Nov 1, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions across the supplied sources, but none listed concrete product names.",
- "assumptions": "No price information was available, so none is included.",
+ "method": "Selected products that appear in at least one source and are explicitly described. Sources used: 7 and 5.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "Diatomaceous Earth 10 Lbs Food Grade",
+  "line": "Picture a homeowner who wants a pure, additive‑free insecticide for the garden. This 10‑lb bag is food‑grade, OMRI listed, and free from contaminants, making it ideal for household use. The catch: it is a bulk quantity, so it may be overkill for small spaces."
+ },
  "draft": true
 }
