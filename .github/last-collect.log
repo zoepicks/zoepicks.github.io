@@ -1,18 +1,20 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Xbox Travel Case (2026)
+[collect] topic: Best Shelf Display Accessories (2026)
 [collect] tavily -> 4 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/headphones/reviews/best/by-usage/commute-travel
-[collect] 4/4 source pages fetched
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] reddit fail GameDeals Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 4 sources x 1624 chars, ~2970 in + 4000 out tokens (budget 7000)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/small-space-organizers
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/small-space-organizers
+[collect] 3/4 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://gertlushgaming.co.uk/jsaux-carry-case-for-switch-2-review-travel-tested-protection
-[collect] browser fetch 5263 chars: https://gertlushgaming.co.uk/jsaux-carry-case-for-switch-2-review-travel-tested-protection
-[collect] extra sources: +2 readable page(s) -> 6 total (windowscentral.com, gertlushgaming.co.uk)
+[collect] extra sources: +1 readable page(s) -> 4 total (architecturaldigest.com)
+[collect] llm request: 4 sources x 1622 chars, ~2978 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, caranddriver.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1069 chars, ~2961 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Tomtoc Xbox Travel Case
+[collect] llm request: 6 sources x 1068 chars, ~2967 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Amazon Basics 4‑Shelf Adjustable Metal Wire Shelving
+[collect] drop (only 1 sources): CX 4‑Tier Plastic Shelving
+[collect] drop (only 1 sources): KINCMAX Basket Shelf Shower Caddy
+[collect] drop (only 0 sources): Wall‑Mounted Picture Light Kit
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -261,6 +263,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-security-camer
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-litter-boxes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shelf-display-accessories-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shoe-racks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-skincare-product-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sleep-mask-2026/index.html
@@ -348,28 +351,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-xbox-travel-case-2026 draft
-[collect] progress: guide 1 done (best-xbox-travel-case-2026) | tried 1 | tavily keys alive 4/4
-[collect] topic: Best Home Theater System (2026)
-[collect] tavily -> 3 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/soundbar/learn/how-we-test
-[collect] 3/3 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.nytimes.com/wirecutter/electronics/home-theater
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/electronics/home-theater
-[collect] extra sources: +1 readable page(s) -> 4 total (trustedreviews.com)
-[collect] llm request: 4 sources x 1624 chars, ~2973 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Onkyo TX‑NR6100
-[collect] drop (only 1 sources): Vizio 2.1 Soundbar (SV210M)
-[collect] drop (only 1 sources): Elac Debut 2.0 B6.2
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (whathifi.com, businessinsider.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1069 chars, ~2962 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Klipsch Reference Premiere series
-[collect] drop (only 1 sources): Vizio 2.1 Soundbar (SV210M)
-[collect] only 1 well-sourced products for tab home-theater -> staying todo
-[collect] progress: guide 2 done (best-home-theater-system-2026) | tried 2 | tavily keys alive 4/4
+[collect] done: best-shelf-display-accessories-2026 draft
+[collect] progress: guide 1 done (best-shelf-display-accessories-2026) | tried 1 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 2 guide(s) built, 2 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
