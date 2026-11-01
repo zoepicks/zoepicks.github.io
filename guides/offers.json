@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-01T23:19:32Z",
+ "updated": "2026-11-01T23:25:40Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -178,7 +178,7 @@
     "name": "nuveti Handmade Cotton Yoga Mat Non Slip Woven Meditation…",
     "pct": 50,
     "rating": 4.5,
-    "t": 1793558363,
+    "t": 1793575489,
     "img": "https://m.media-amazon.com/images/I/61zEBD27riL.jpg",
     "link": "https://www.amazon.com/dp/B0F3X9LQQJ?tag=zoepicks00-20",
     "now": "17.49",
@@ -1231,6 +1231,51 @@
     ]
    },
    {
+    "key": "shampoo",
+    "label": "Shampoo",
+    "items": [
+     {
+      "asin": "B019XIPEZ0",
+      "name": "American Crew 3-in-1 Shampoo & Body Wash",
+      "pct": 42,
+      "rating": 4.6,
+      "t": 1793575489,
+      "img": "https://m.media-amazon.com/images/I/71sl7eQWyuL.jpg",
+      "link": "https://www.amazon.com/dp/B019XIPEZ0?tag=zoepicks00-20",
+      "now": "14.49",
+      "was": "25.00",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B00VXO5RPK",
+      "name": "Moroccanoil Dry Shampoo Light Tones",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1793547290,
+      "img": "https://m.media-amazon.com/images/I/61quCPFEVRL.jpg",
+      "link": "https://www.amazon.com/dp/B00VXO5RPK?tag=zoepicks00-20",
+      "now": "22.50",
+      "was": "30.00",
+      "reviews": 13420,
+      "tier": "mid"
+     },
+     {
+      "asin": "B00VVS9O6G",
+      "name": "Moroccanoil Dry Shampoo Dark Tones",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793547290,
+      "img": "https://m.media-amazon.com/images/I/61cPmscbxbL.jpg",
+      "link": "https://www.amazon.com/dp/B00VVS9O6G?tag=zoepicks00-20",
+      "now": "22.50",
+      "was": "30.00",
+      "reviews": 10969,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "moisturizer",
     "label": "Moisturizer",
     "items": [
@@ -1480,51 +1525,6 @@
       "now": "25.50",
       "was": "34.00",
       "reviews": 7129
-     }
-    ]
-   },
-   {
-    "key": "shampoo",
-    "label": "Shampoo",
-    "items": [
-     {
-      "asin": "B00VXO5RPK",
-      "name": "Moroccanoil Dry Shampoo Light Tones",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1793547290,
-      "img": "https://m.media-amazon.com/images/I/61quCPFEVRL.jpg",
-      "link": "https://www.amazon.com/dp/B00VXO5RPK?tag=zoepicks00-20",
-      "now": "22.50",
-      "was": "30.00",
-      "reviews": 13420,
-      "tier": "budget"
-     },
-     {
-      "asin": "B00VVS9O6G",
-      "name": "Moroccanoil Dry Shampoo Dark Tones",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793547290,
-      "img": "https://m.media-amazon.com/images/I/61cPmscbxbL.jpg",
-      "link": "https://www.amazon.com/dp/B00VVS9O6G?tag=zoepicks00-20",
-      "now": "22.50",
-      "was": "30.00",
-      "reviews": 10969,
-      "tier": "mid"
-     },
-     {
-      "asin": "B00C5AHTVQ",
-      "name": "Nexxus Therappe Humectress Shampoo + Conditioner Set 33.8…",
-      "pct": 12,
-      "rating": 4.6,
-      "t": 1793547290,
-      "img": "https://m.media-amazon.com/images/I/71qr4wqJ75L.jpg",
-      "link": "https://www.amazon.com/dp/B00C5AHTVQ?tag=zoepicks00-20",
-      "now": "40.48",
-      "was": "46.00",
-      "reviews": 22896,
-      "tier": "premium"
      }
     ]
    },
@@ -2636,7 +2636,7 @@
       "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793558367,
+      "t": 1793575493,
       "img": "https://m.media-amazon.com/images/I/61PNtGqqNoL.jpg",
       "link": "https://www.amazon.com/dp/B0CLR8QXKW?tag=zoepicks00-20",
       "now": "46.86",
@@ -2834,7 +2834,7 @@
       "name": "nuveti Handmade Cotton Yoga Mat Non Slip Woven Meditation…",
       "pct": 50,
       "rating": 4.5,
-      "t": 1793558363,
+      "t": 1793575489,
       "img": "https://m.media-amazon.com/images/I/61zEBD27riL.jpg",
       "link": "https://www.amazon.com/dp/B0F3X9LQQJ?tag=zoepicks00-20",
       "now": "17.49",
@@ -3955,7 +3955,7 @@
       "name": "Emojoy 3-Piece Japanese Damascus Steel Knife Set",
       "pct": 40,
       "rating": 4.6,
-      "t": 1793553146,
+      "t": 1793575493,
       "img": "https://m.media-amazon.com/images/I/81F1xGGHCWL.jpg",
       "link": "https://www.amazon.com/dp/B0DXPYV1JR?tag=zoepicks00-20",
       "now": "54.13",
