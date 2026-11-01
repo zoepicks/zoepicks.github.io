@@ -348,6 +348,81 @@
    "tabs": [
     "mugler"
    ]
+  },
+  {
+   "name": "Lattafa",
+   "short": "Lattafa",
+   "badge": "Best Overall",
+   "why": [
+    "Lattafa is listed among the favorite Arabic perfumes in the source.",
+    "It is described as rich and long‑lasting."
+   ],
+   "desc": "Lattafa is an Arabic perfume that offers a rich, long‑lasting scent.",
+   "benefit": "Picture a woman who wants a fragrance that smells divine and gets compliments. Lattafa provides a rich, long‑lasting scent that suits daily wear and special nights. It wins against other picks because it is highlighted as a favorite and is noted for its richness. The catch: it may not have the same depth as high‑end luxury brands.",
+   "pros": [
+    "Rich scent",
+    "Long‑lasting",
+    "Affordable"
+   ],
+   "cons": [
+    "May lack depth of luxury brands"
+   ],
+   "best_for": "Daily wear and special occasions",
+   "skip_if": "None",
+   "link": "https://www.amazon.com/s?k=Lattafa&tag=zoepicks00-20",
+   "tabs": [
+    "arabic"
+   ]
+  },
+  {
+   "name": "Al Haramain",
+   "short": "Al Haramain",
+   "badge": "Best Overall",
+   "why": [
+    "Al Haramain is listed among the favorite Arabic perfumes in the source.",
+    "It is described as rich and long‑lasting."
+   ],
+   "desc": "Al Haramain is an Arabic perfume that offers a rich, long‑lasting scent.",
+   "benefit": "Picture a woman who wants a fragrance that smells divine and gets compliments. Al Haramain provides a rich, long‑lasting scent that suits daily wear and special nights. It wins against other picks because it is highlighted as a favorite and is noted for its richness. The catch: it may not have the same depth of luxury brands.",
+   "pros": [
+    "Rich scent",
+    "Long‑lasting",
+    "Affordable"
+   ],
+   "cons": [
+    "May lack depth of luxury brands"
+   ],
+   "best_for": "Daily wear and special occasions",
+   "skip_if": "None",
+   "link": "https://www.amazon.com/s?k=Al+Haramain&tag=zoepicks00-20",
+   "tabs": [
+    "arabic"
+   ]
+  },
+  {
+   "name": "Rasasi",
+   "short": "Rasasi",
+   "badge": "Best Overall",
+   "why": [
+    "Rasasi is listed among the favorite Arabic perfumes in the source.",
+    "It is described as rich and long‑lasting."
+   ],
+   "desc": "Rasasi is an Arabic perfume that offers a rich, long‑lasting scent.",
+   "benefit": "Picture a man who wants a fragrance that stays on his skin all day in humid Manila weather. Rasasi provides a rich, long‑lasting scent that suits daily wear and special nights. It wins against other picks because it is highlighted as a favorite and is noted for its richness. The catch: it may not have the same depth of luxury brands.",
+   "pros": [
+    "Rich scent",
+    "Long‑lasting",
+    "Affordable"
+   ],
+   "cons": [
+    "May lack depth of luxury brands"
+   ],
+   "best_for": "Daily wear and special occasions",
+   "skip_if": "None",
+   "link": "https://www.amazon.com/s?k=Rasasi&tag=zoepicks00-20",
+   "tabs": [
+    "arabic"
+   ]
   }
  ],
  "intro": [
@@ -426,6 +501,10 @@
   {
    "key": "mugler",
    "label": "Mugler"
+  },
+  {
+   "key": "arabic",
+   "label": "Arabic"
   }
  ]
 }

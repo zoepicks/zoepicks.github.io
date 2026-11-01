@@ -72,6 +72,71 @@
    "best_for": "Dry or compromised skin",
    "skip_if": "You prefer a lightweight gel",
    "link": "https://www.amazon.com/s?k=CeraVe+Moisturizing+Cream&tag=zoepicks00-20"
+  },
+  {
+   "name": "ILIA Super Serum Skin Tint SPF 40",
+   "short": "ILIA Super Serum",
+   "badge": "Best Overall",
+   "why": [
+    "ILIA offers light‑to‑medium coverage with skincare benefits like hyaluronic acid and niacinamide.",
+    "It includes SPF 40 for sun protection and is highlighted in both BrightenandBloom and CatsandCoffee reviews."
+   ],
+   "desc": "ILIA Super Serum Skin Tint SPF 40 is a clean beauty tinted moisturizer that provides light‑to‑medium coverage, hydration, and SPF 40 protection.",
+   "benefit": "Picture a busy professional who wants a quick, hydrating base that also protects skin from sun damage. ILIA delivers light‑to‑medium coverage, hyaluronic acid and niacinamide for a smooth finish, and SPF 40 for daily protection. It outperforms other picks in this guide by combining skincare ingredients with sun protection in a single step. The catch: it may feel slightly oily on very dry skin.",
+   "specs": [
+    "SPF 40",
+    "Light‑to‑medium coverage",
+    "Hyaluronic acid",
+    "Niacinamide",
+    "Clean beauty formula"
+   ],
+   "pros": [
+    "Light‑to‑medium coverage",
+    "Hydrating",
+    "Sun protection",
+    "Clean ingredients"
+   ],
+   "cons": [
+    "May feel oily on dry skin",
+    "Limited shade range for very dark tones"
+   ],
+   "best_for": "Busy professionals and anyone seeking a quick, hydrating base with sun protection",
+   "skip_if": "Very dry skin that prefers a matte finish",
+   "link": "https://www.amazon.com/s?k=ILIA+Super+Serum+Skin+Tint+SPF%E2%80%AF40&tag=zoepicks00-20",
+   "tabs": [
+    "tinted"
+   ]
+  },
+  {
+   "name": "Tower 28 Beauty SunnyDays Tinted Sunscreen",
+   "short": "Tower 28 SunnyDays",
+   "badge": "Best for Sensitive Skin",
+   "why": [
+    "Designed for sensitive skin with a gentle formula.",
+    "Provides sun protection while offering subtle coverage."
+   ],
+   "desc": "Tower 28 Beauty SunnyDays Tinted Sunscreen is a tinted moisturizer with SPF that targets sensitive skin.",
+   "benefit": "Picture someone with sensitive skin who needs a gentle, protective base. This product offers subtle coverage and sun protection without harsh ingredients, making it a good option for those who want a light base. It competes with other picks by focusing on sensitivity, but it offers less coverage than ILIA. The catch: it may not provide enough coverage for uneven skin tones.",
+   "specs": [
+    "SPF",
+    "Gentle formula",
+    "Subtle coverage"
+   ],
+   "pros": [
+    "Gentle for sensitive skin",
+    "Sun protection",
+    "Light coverage"
+   ],
+   "cons": [
+    "Limited coverage for uneven tones",
+    "No detailed SPF rating"
+   ],
+   "best_for": "Sensitive skin needing gentle sun protection",
+   "skip_if": "Skin that requires medium to full coverage",
+   "link": "https://www.amazon.com/s?k=Tower%E2%80%AF28%E2%80%AFBeauty+SunnyDays+Tinted+Sunscreen&tag=zoepicks00-20",
+   "tabs": [
+    "tinted"
+   ]
   }
  ],
  "verdict": {
@@ -83,5 +148,11 @@
     "La Roche-Posay Toleriane Double Repair Face Moisturizer"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "tinted",
+   "label": "Tinted"
+  }
+ ]
 }

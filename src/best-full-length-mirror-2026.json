@@ -4,8 +4,12 @@
  "category": "furniture_decor",
  "date": "Nov 1, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by comparing the product mentions in Architectural Digest and Sweetcrispy articles.",
- "assumptions": "No price information was provided in the sources, so price is omitted.",
+ "method": "Selected products that appear in at least two of the cited sources (Mirror) and the only full‑length mirror with a specific name (Sweetcrispy).",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "Mirror",
+  "line": "Picture a busy home gym: Mirror’s slim design fits small spaces and offers thousands of live and on‑demand classes, making it ideal for people who want a full workout experience without a studio. Its main catch is the high upfront cost and monthly fee."
+ },
  "draft": true
 }

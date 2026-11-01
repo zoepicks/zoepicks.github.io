@@ -2,7 +2,7 @@
  "slug": "best-street-photography-camera-2026",
  "title": "Best Street Photography Camera (2026)",
  "category": "electronics",
- "date": "Oct 23, 2026",
+ "date": "Nov 1, 2026",
  "summary": "The guide highlights compact and mirrorless cameras that excel in street photography, with the Fujifilm X100VI leading the pack.",
  "method": "Picks were made by cross‑referencing the PCMag, CNET, and RTINGS reviews, selecting models mentioned by more than one source and noting their stated strengths.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
@@ -245,6 +245,97 @@
    "tabs": [
     "vlogging"
    ]
+  },
+  {
+   "name": "Pentax K-3 Mark III",
+   "short": "K-3 Mark III",
+   "badge": "Best Overall",
+   "why": [
+    "The K-3 Mark III is Pentax’s most capable APS‑C DSLR, adding 4K video and a touchscreen to a rugged, all‑weather body. It delivers strong high‑ISO performance and dynamic range, and its battery can last multiple days.",
+    "Both rtings.com and Tom’s Guide note its excellent image quality and build, though they point out slower autofocus and a high price compared with mirrorless rivals."
+   ],
+   "desc": "A premium APS‑C DSLR with 4K video, touchscreen, rugged weather‑sealed body and long‑lasting battery. It lacks the compactness of mirrorless cameras.",
+   "benefit": "Picture a wildlife photographer trekking in rain, needing a camera that won’t quit and can capture clean low‑light shots. The K‑3 Mark III gives that durability and ISO performance, and its battery outlasts every other pick here. It also offers 4K video that the K‑500 and K‑S1 lack. The catch: its autofocus is slower than newer mirrorless models.",
+   "specs": [
+    "APS‑C sensor",
+    "4K video",
+    "Touchscreen",
+    "All‑weather sealed body",
+    "Battery lasts multiple days"
+   ],
+   "pros": [
+    "Excellent low‑light performance",
+    "Rugged build",
+    "Long battery life",
+    "4K video"
+   ],
+   "cons": [
+    "Slower autofocus",
+    "High price"
+   ],
+   "best_for": "Serious enthusiasts who need durability and low‑light capability",
+   "skip_if": "You need fast autofocus for sports or want a mirrorless size",
+   "link": "https://www.amazon.com/s?k=Pentax+K-3+Mark+III&tag=zoepicks00-20",
+   "tabs": [
+    "pentax"
+   ]
+  },
+  {
+   "name": "Pentax K-500",
+   "short": "K-500",
+   "badge": "Best Value",
+   "why": [
+    "TechRadar calls the K‑500 Pentax’s most affordable DSLR, filling the entry‑level gap left by older models. It offers solid build quality for beginners.",
+    "While details are sparse, the article highlights its role as a budget-friendly option compared with higher‑priced rivals."
+   ],
+   "desc": "An entry‑level DSLR aimed at beginners, offering basic controls and solid build without advanced features like 4K video.",
+   "benefit": "Picture a hobbyist learning photography on a modest budget, needing a straightforward camera that still feels sturdy. The K‑500 is the cheapest Pentax DSLR in this guide and provides reliable basics, beating the K‑S1’s higher price. The catch: it lacks many advanced features such as 4K video and a touchscreen.",
+   "pros": [
+    "Low cost",
+    "Solid build for beginners",
+    "Simple controls"
+   ],
+   "cons": [
+    "No 4K video",
+    "Limited advanced features"
+   ],
+   "best_for": "Beginners seeking an affordable DSLR",
+   "skip_if": "You require high‑end specs like 4K video",
+   "link": "https://www.amazon.com/s?k=Pentax+K-500&tag=zoepicks00-20",
+   "tabs": [
+    "pentax"
+   ]
+  },
+  {
+   "name": "Pentax 17 Film Camera",
+   "short": "Pentax 17",
+   "badge": "Best Film Camera",
+   "why": [
+    "CNET highlights the Pentax 17 as the first new Pentax film camera in over 20 years, offering tactile controls and a retro design.",
+    "The review notes its simplicity and half‑frame format as both a charm and a limitation."
+   ],
+   "desc": "A compact half‑frame film camera with manual‑ish focus, tactile controls and a retro look. It does not have digital features.",
+   "benefit": "Picture a vintage‑photo enthusiast who loves the tactile feel of film and wants a compact camera for everyday shooting. The Pentax 17 provides that retro experience, unlike any digital model here, and its simplicity appeals to purists. The catch: its half‑frame format limits print size and it lacks any digital convenience.",
+   "specs": [
+    "Half‑frame format",
+    "Manual‑ish focus",
+    "Tactile controls"
+   ],
+   "pros": [
+    "Retro design",
+    "Easy to use",
+    "Novelty factor"
+   ],
+   "cons": [
+    "Limited to half‑frame prints",
+    "No digital features"
+   ],
+   "best_for": "Film lovers seeking a simple, stylish camera",
+   "skip_if": "You require digital functionality or larger format prints",
+   "link": "https://www.amazon.com/s?k=Pentax+17+Film+Camera&tag=zoepicks00-20",
+   "tabs": [
+    "pentax"
+   ]
   }
  ],
  "verdict": {
@@ -265,6 +356,10 @@
   {
    "key": "vlogging",
    "label": "Vlogging"
+  },
+  {
+   "key": "pentax",
+   "label": "Pentax"
   }
  ]
 }

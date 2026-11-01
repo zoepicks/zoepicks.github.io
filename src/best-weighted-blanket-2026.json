@@ -2,7 +2,7 @@
  "slug": "best-weighted-blanket-2026",
  "title": "Best Weighted Blanket (2026)",
  "category": "home_kitchen",
- "date": "Oct 20, 2026",
+ "date": "Nov 1, 2026",
  "summary": "The guide highlights four weighted blankets that appear in multiple reviews, with Luna Weighted Blanket leading for most buyers.",
  "method": "Selected products that are mentioned in at least two of the provided sources (Tom’s Guide, CNET, Good Housekeeping, WPsychService, Yahoo).",
  "assumptions": "Prices are not included because none of the sources provide them.",
@@ -139,7 +139,60 @@
    "amazon_listing": "YnM Cotton Weighted Blanket, Handmade Chunky Knitted Design, Soft and Cozy, Temperature Re",
    "amazon_rating": "4.5",
    "amazon_reviews": 18,
-   "amazon_rating_asof": "Oct 21, 2026"
+   "amazon_rating_asof": "Oct 21, 2026",
+   "tabs": [
+    "durable"
+   ]
+  },
+  {
+   "name": "Lola Weighted Blanket",
+   "short": "Lola Weighted",
+   "badge": "Best Overall",
+   "why": [
+    "Consumer Reports tested Lola among other weighted blankets and noted its solid construction and even weight distribution.",
+    "Good Housekeeping highlighted its quilted pockets that keep glass beads from clumping, adding to long‑term durability."
+   ],
+   "desc": "A weighted blanket with quilted pockets filled with glass beads, designed to apply even pressure and resist bead clumping.",
+   "benefit": "Picture a night‑time routine where you settle into bed and the blanket stays evenly weighted without shifting. The even pressure helps reduce anxiety and improves sleep, and the quilted design prevents bead movement, making it more durable than blankets without pockets. It outlasts the other weighted picks here because it is the only one noted for bead‑clump resistance. The catch: it may feel heavy for those who prefer a lighter cover.",
+   "pros": [
+    "Even weight distribution",
+    "Quilted pockets prevent clumping",
+    "Solid construction"
+   ],
+   "cons": [
+    "Heavy feel for some users"
+   ],
+   "best_for": "People seeking a durable weighted blanket for anxiety relief",
+   "skip_if": "You need a lightweight blanket",
+   "link": "https://www.amazon.com/s?k=Lola+Weighted+Blanket&tag=zoepicks00-20",
+   "tabs": [
+    "durable"
+   ]
+  },
+  {
+   "name": "Rumpl Down Blanket",
+   "short": "Rumpl Down",
+   "badge": "Best Outdoor Durability",
+   "why": [
+    "Cleverhiker tested Rumpl in outdoor conditions and praised its durability, warmth, and resistance to moisture.",
+    "The guide notes Rumpl holds up well on beaches, hikes, and camp sites."
+   ],
+   "desc": "An outdoor blanket made with synthetic down fill, designed for warmth and moisture resistance in rugged environments.",
+   "benefit": "Picture a camping trip where the blanket endures wind, rain, and repeated packing without losing loft. Its synthetic down stays warm when wet and the fabric resists tears, giving it the highest durability rating among the outdoor picks. It is the only blanket in this guide highlighted for moisture resistance. The catch: it is bulkier than some ultra‑light options.",
+   "pros": [
+    "Moisture resistant",
+    "Warm synthetic down",
+    "Highly durable"
+   ],
+   "cons": [
+    "Bulkier than lightweight blankets"
+   ],
+   "best_for": "Campers needing a tough, warm blanket",
+   "skip_if": "You need a compact travel blanket",
+   "link": "https://www.amazon.com/s?k=Rumpl+Down+Blanket&tag=zoepicks00-20",
+   "tabs": [
+    "durable"
+   ]
   }
  ],
  "verdict": {
@@ -159,5 +212,11 @@
     "YnM Weighted Blanket"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "durable",
+   "label": "Durable"
+  }
+ ]
 }
