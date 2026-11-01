@@ -1,20 +1,22 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Shelf Display Accessories (2026)
+[collect] topic: Best Ring Light (2026)
 [collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/small-space-organizers
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/small-space-organizers
-[collect] 3/4 source pages fetched
+[collect] 4/4 source pages fetched
+[collect] llm request: 4 sources x 1626 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Neewer Basics BR60 5" Ring Light
+[collect] drop (only 1 sources): Photojojo Oh! Wow. Ring Light
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (architecturaldigest.com)
-[collect] llm request: 4 sources x 1622 chars, ~2978 in + 4000 out tokens (budget 7000)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, caranddriver.com)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-ring-lights
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-ring-lights
+[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-ring-lights
+[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-ring-lights
+[collect] extra sources: +2 readable page(s) -> 6 total (cnn.com, streamtechreviews.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1068 chars, ~2967 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Amazon Basics 4‑Shelf Adjustable Metal Wire Shelving
-[collect] drop (only 1 sources): CX 4‑Tier Plastic Shelving
-[collect] drop (only 1 sources): KINCMAX Basket Shelf Shower Caddy
-[collect] drop (only 0 sources): Wall‑Mounted Picture Light Kit
+[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Westcott 18" Bi-Color LED Ring Light
+[collect] drop (only 1 sources): Neewer Basics BR60 5" Ring Light
+[collect] drop (only 1 sources): Photojojo Oh! Wow. Ring Light
+[collect] drop (only 1 sources): Xinbaohong Clip-On Ring Light
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -254,6 +256,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-razor-blades-2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-recliners-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-record-players-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ride-on-toys-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ring-light-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-robotic-arm-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-roll-tarp-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-running-shoes-2026/index.html
@@ -351,8 +354,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-shelf-display-accessories-2026 draft
-[collect] progress: guide 1 done (best-shelf-display-accessories-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-ring-light-2026 draft
+[collect] progress: guide 1 done (best-ring-light-2026) | tried 1 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
 [collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
