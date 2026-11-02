@@ -3923,7 +3923,7 @@
   "slug": "best-dior-perfume-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-perfumes-2026",
@@ -3937,7 +3937,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 2, 2026"
  },
  {
   "title": "Best Laptop Docking Station (2026)",
@@ -3946,6 +3947,7 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 2, 2026"
  }
 ]
