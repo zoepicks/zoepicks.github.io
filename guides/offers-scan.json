@@ -6598,14 +6598,28 @@
   },
   "other:washing-machine": {
    "label": "Washing Machine",
-   "tries": 6,
+   "tries": 7,
    "items": [
+    {
+     "asin": "B0DVPW2TF3",
+     "name": "ROVSUN 17.8LBS Fully Automatic Portable Washing Machine",
+     "pct": 16,
+     "rating": 4.2,
+     "t": 1793651146,
+     "img": "https://m.media-amazon.com/images/I/51LhKSGhQpL.jpg",
+     "link": "https://www.amazon.com/dp/B0DVPW2TF3?tag=zoepicks00-20",
+     "now": "209.99",
+     "was": "249.99",
+     "reviews": 966,
+     "_title": "ROVSUN 17.8LBS Fully Automatic Portable Washing Machine with Drain Pump | 1.5Cu.Ft, 8 Wash Modes, 5 Water Levels, Stainles...",
+     "_price": 209.99
+    },
     {
      "asin": "B01ALBMIEI",
      "name": "Giantex Portable Mini Compact Twin Tub Washing Machine…",
      "pct": 10,
      "rating": 4.2,
-     "t": 1793460950,
+     "t": 1793651146,
      "img": "https://m.media-amazon.com/images/I/61ydHx1s19L.jpg",
      "link": "https://www.amazon.com/dp/B01ALBMIEI?tag=zoepicks00-20",
      "now": "134.99",
@@ -6620,7 +6634,7 @@
      "name": "Giantex Portable Washing Machine",
      "pct": 10,
      "rating": 4.2,
-     "t": 1793460950,
+     "t": 1793651146,
      "img": "https://m.media-amazon.com/images/I/61Z7oP1UStL.jpg",
      "link": "https://www.amazon.com/dp/B0D6WK5P6C?tag=zoepicks00-20",
      "now": "134.99",
@@ -6631,22 +6645,21 @@
      "_price": 134.99
     },
     {
-     "asin": "B087CBFKGD",
-     "name": "Eastman 1/2 Inch Universal Dual Drain Washing Machine…",
-     "pct": 8,
-     "rating": 4.5,
-     "t": 1793460950,
-     "img": "https://m.media-amazon.com/images/I/41I6WHEpZGL.jpg",
-     "link": "https://www.amazon.com/dp/B087CBFKGD?tag=zoepicks00-20",
-     "now": "14.52",
-     "was": "15.74",
-     "deal": "Limited time deal",
-     "reviews": 99,
-     "_title": "Eastman 1/2 Inch Universal Dual Drain Washing Machine Outlet Box, No Valve, 60251",
-     "_price": 14.52
+     "asin": "B09YLKMHLH",
+     "name": "Auertech Portable Washing Machine",
+     "pct": 5,
+     "rating": 4.2,
+     "t": 1793651146,
+     "img": "https://m.media-amazon.com/images/I/61CoDohL3wL.jpg",
+     "link": "https://www.amazon.com/dp/B09YLKMHLH?tag=zoepicks00-20",
+     "now": "179.99",
+     "was": "189.99",
+     "reviews": 4230,
+     "_title": "Auertech Portable Washing Machine, 28lbs Twin Tub Washer Mini Compact Laundry Machine with Drain Pump, Semi-automatic 18lb...",
+     "_price": 179.99
     }
    ],
-   "scanned": "2026-10-31T15:35:50.376104+00:00"
+   "scanned": "2026-11-02T20:25:46.216564+00:00"
   },
   "beauty_health:electric-shavers": {
    "label": "Electric Shavers",
