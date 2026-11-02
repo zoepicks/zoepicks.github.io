@@ -4,8 +4,12 @@
  "category": "furniture_decor",
  "date": "Nov 2, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions in the provided sources. Source 3 supplied a detailed review and rating; other sources discussed mirror aesthetics but did not name specific models.",
- "assumptions": "No pricing information was given in the sources, so price fields are left null.",
+ "method": "Selected products that appear in more than one source: Mirror (CNET, PCMag, Tom’s Guide) and full‑length mirrors from OneClearWinner (Delma) and Sweetcrispy. Sources were cross‑checked for repeated mentions.",
+ "assumptions": "Prices are omitted unless explicitly stated in the sources; no external pricing added.",
  "products": [],
+ "verdict": {
+  "pick": "Mirror",
+  "line": "Picture a busy homeowner who wants a gym in the living room. The Mirror’s thousands of live and on‑demand classes and sleek design fit small spaces, but its $1,495 upfront cost and $39 monthly fee are the main catch."
+ },
  "draft": true
 }

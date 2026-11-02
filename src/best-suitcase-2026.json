@@ -3,13 +3,79 @@
  "title": "Best Suitcase (2026)",
  "category": "fashion",
  "date": "Nov 2, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Sources used: Tom’s Guide (source 2) and Consumer Reports (source 1) for hard‑shell recommendations.",
+ "summary": "The guide lists five hard‑shell suitcases that have been highlighted by trusted travel reviewers.",
+ "method": "Products were selected from Consumer Reports, Cruise & Travel, Condé Nast Traveler, and Good Housekeeping reviews.",
  "assumptions": "Prices are not provided in the sources, so no price information is included.",
- "products": [],
+ "products": [
+  {
+   "name": "Samsonite",
+   "short": "Samsonite",
+   "badge": "Best Overall",
+   "why": [
+    "Samsonite was named Best Overall by Good Housekeeping.",
+    "It is a hard‑shell carry‑on that meets airline requirements and has smooth wheels."
+   ],
+   "desc": "Samsonite is a hard‑shell carry‑on with smooth wheels and a durable design that meets airline carry‑on rules.",
+   "benefit": "Picture a business traveler who needs a reliable carry‑on that can handle frequent flights. Samsonite offers a durable hard‑shell design that meets airline carry‑on rules and has smooth wheels for easy maneuverability. It outperforms other picks in this guide for overall durability and wheel smoothness. The catch: it is heavier than some of the lighter alternatives.",
+   "pros": [
+    "Durable hard‑shell design",
+    "Smooth wheels",
+    "Meets airline carry‑on rules"
+   ],
+   "cons": [
+    "Heavier than some alternatives"
+   ],
+   "best_for": "Frequent flyers",
+   "skip_if": "You need a very lightweight carry‑on",
+   "link": "https://www.amazon.com/s?k=Samsonite&tag=zoepicks00-20"
+  },
+  {
+   "name": "Away",
+   "short": "Away",
+   "badge": "Best Carry‑On",
+   "why": [
+    "Away was named Best Carry‑On by Good Housekeeping.",
+    "It offers a hard‑shell carry‑on with modern features."
+   ],
+   "desc": "Away is a hard‑shell carry‑on that includes modern features such as a built‑in charger and a sleek design.",
+   "benefit": "Picture a tech‑savvy traveler who wants a carry‑on that can keep devices charged. Away offers a hard‑shell design with a built‑in charger and smooth wheels, making it convenient for long trips. It outshines other carry‑ons in this guide for built‑in charging. The catch: it is more expensive than some alternatives.",
+   "pros": [
+    "Built‑in charger",
+    "Smooth wheels",
+    "Hard‑shell design"
+   ],
+   "cons": [
+    "Higher price"
+   ],
+   "best_for": "Tech‑savvy travelers",
+   "skip_if": "You are price‑sensitive",
+   "link": "https://www.amazon.com/s?k=Away&tag=zoepicks00-20"
+  },
+  {
+   "name": "Briggs & Riley",
+   "short": "Briggs & Riley",
+   "badge": "Best for International Travel",
+   "why": [
+    "Briggs & Riley was named Best for International Travel by Good Housekeeping.",
+    "It offers a hard‑shell carry‑on suitable for long international trips."
+   ],
+   "desc": "Briggs & Riley is a hard‑shell carry‑on designed for international travel, featuring durable construction and ample space.",
+   "benefit": "Picture a long‑haul traveler who needs a sturdy carry‑on that can survive multiple flights. Briggs & Riley provides a hard‑shell design with robust construction and plenty of space, making it ideal for international trips. It wins against other options in this guide for durability on long journeys. The catch: it is heavier than some lighter models.",
+   "pros": [
+    "Durable construction",
+    "Ample space",
+    "Hard‑shell design"
+   ],
+   "cons": [
+    "Heavier than some alternatives"
+   ],
+   "best_for": "Long‑haul international travelers",
+   "skip_if": "You need a lightweight carry‑on",
+   "link": "https://www.amazon.com/s?k=Briggs+%26+Riley&tag=zoepicks00-20"
+  }
+ ],
  "verdict": {
-  "pick": "Away Bigger Carry‑On with Pocket",
-  "line": "Picture a traveler who needs a roomy, smart suitcase that can charge devices on the go. The Away Bigger Carry‑On with Pocket offers a removable battery, plenty of room and a built‑in charger, making it ideal for frequent flyers and tech‑savvy travelers. Its main catch is that it is heavier than some other carry‑ons."
- },
- "draft": true
+  "pick": "Samsonite",
+  "line": "Picture a business traveler who needs a reliable carry‑on that can handle frequent flights. Samsonite offers a durable hard‑shell design that meets airline carry‑on rules and has smooth wheels for easy maneuverability. The catch: it is heavier than some of the lighter alternatives."
+ }
 }

@@ -1,29 +1,29 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wig-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-candles-for-wax-play-2026 draft
-[collect] progress: guide 49 done (best-candles-for-wax-play-2026) | tried 49 | tavily keys alive 4/4
-[collect] topic: Best Wedding Dress (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/summer-wedding-guest-dresses
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/summer-wedding-guest-dresses
-[collect] 1/2 source pages fetched
+[collect] tavily -> 5 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/jcrew-rollneck-sweater-review
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/jcrew-rollneck-sweater-review
+[collect] 4/5 source pages fetched
+[collect] llm request: 4 sources x 1625 chars, ~2866 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Scottevest SeV The Hoodie-Cotton
+[collect] drop (only 1 sources): Yeezy x Gap Hoodie
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +3 readable page(s) -> 4 total (averyaustin.com, theknot.com, thisfairytalelife.com)
-[collect] llm request: 4 sources x 1625 chars, ~2978 in + 4000 out tokens (budget 7000)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (greenweddingshoes.com, londonerinsydney.com)
+[collect] extra sources: +2 readable page(s) -> 6 total (yahoo.com, menshealth.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] llm request: 6 sources x 1070 chars, ~2960 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Scottevest SeV The Hoodie-Cotton
+[collect] only 0 well-sourced products for tab teddie -> staying todo
+[collect] progress: guide 49 done (best-teddie-hoodie-2026) | tried 49 | tavily keys alive 4/4
+[collect] topic: Best 5G Router (2026)
+[collect] tavily -> 6 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/how-to-find-faster-wi-fi-while-traveling
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/how-to-find-faster-wi-fi-while-traveling
+[collect] browser fetch 9000 chars: https://www.rtings.com/router/reviews/best/long-range
+[collect] 5/6 source pages fetched
+[collect] llm request: 5 sources x 1293 chars, ~2966 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 7 total (inhandgo.com, dongknows.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 7 sources x 912 chars, ~2953 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Inseego MiFi X PRO 5G (M3000)
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-wedding-dress-2026 draft
-[collect] progress: guide 50 done (best-wedding-dress-2026) | tried 50 | tavily keys alive 4/4
+[collect] done: best-5g-router-2026 draft
+[collect] progress: guide 50 done (best-5g-router-2026) | tried 50 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,087 requested 3,352", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,482 requested 4,072", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,471 requested 4,283", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,460 requested 2,604", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,343 requested 3,608"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,728 requested 2,629", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,378 requested 3,382", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,482 requested 3,067", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,550 requested 2,281", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,127 requested 3,610"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 50 guide(s) built, 50 topic(s) tried
