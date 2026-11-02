@@ -5624,14 +5624,29 @@
   },
   "pets:fish-tanks": {
    "label": "Fish Tanks",
-   "tries": 7,
+   "tries": 8,
    "items": [
+    {
+     "asin": "B0F8TTS9K6",
+     "name": "VEVOR Fish Tank Aquarium",
+     "pct": 28,
+     "rating": 4.1,
+     "t": 1793651192,
+     "img": "https://m.media-amazon.com/images/I/71GJQPLaT0L.jpg",
+     "link": "https://www.amazon.com/dp/B0F8TTS9K6?tag=zoepicks00-20",
+     "now": "38.09",
+     "was": "52.90",
+     "deal": "Limited time deal",
+     "reviews": 176,
+     "_title": "VEVOR Fish Tank Aquarium, 2 Gallon LED Square Ultra-Clear Glass Tank Temperature Monitoring Adjustable 7 Color Lighting, S...",
+     "_price": 38.09
+    },
     {
      "asin": "B0G8FMRHN2",
      "name": "10 Gallon Hot-Bent Black-Back Fish Tank",
      "pct": 11,
      "rating": 4.1,
-     "t": 1793461571,
+     "t": 1793651192,
      "img": "https://m.media-amazon.com/images/I/816ShqtjoZL.jpg",
      "link": "https://www.amazon.com/dp/B0G8FMRHN2?tag=zoepicks00-20",
      "now": "79.99",
@@ -5646,7 +5661,7 @@
      "name": "5 Gallon Rimless Glass Fish Tank",
      "pct": 10,
      "rating": 4.4,
-     "t": 1793461571,
+     "t": 1793651192,
      "img": "https://m.media-amazon.com/images/I/71azLEMVjZL.jpg",
      "link": "https://www.amazon.com/dp/B0H7CGG1YM?tag=zoepicks00-20",
      "now": "49.49",
@@ -5657,7 +5672,7 @@
      "_price": 49.49
     }
    ],
-   "scanned": "2026-10-31T15:46:11.049845+00:00"
+   "scanned": "2026-11-02T20:26:32.811947+00:00"
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
