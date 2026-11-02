@@ -2,7 +2,7 @@
  "slug": "best-exercise-bikes-2026",
  "title": "Top Exercise Bikes for Home Cardio (2026)",
  "category": "fitness_outdoor",
- "date": "Oct 18, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The top home cardio bikes of 2026 combine smooth magnetic resistance, smart features, and immersive classes, with Peloton Bike+ and Peloton Cross‑Training Bike+ leading the pack, followed by NordicTrack’s S24 and X24, and Yosuda’s budget‑friendly option.",
  "method": "I selected products that appear in at least two of the provided sources (Peloton Bike+, Peloton Cross‑Training Bike+, NordicTrack S24, NordicTrack X24, Yosuda Indoor Cycling Bike).",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
@@ -125,6 +125,70 @@
    "amazon_rating": "4.3",
    "amazon_reviews": 4,
    "amazon_rating_asof": "Nov 2, 2026"
+  },
+  {
+   "name": "Mod Easy 3 with Sidecar",
+   "short": "Easy 3",
+   "badge": "Unique sidecar option",
+   "why": [
+    "CNET lists the Mod Easy 3 with Sidecar as one of its e‑bike picks."
+   ],
+   "desc": "The Mod Easy 3 with Sidecar is an electric bike that includes a sidecar attachment, according to CNET.",
+   "benefit": "Picture a family outing where a child can ride safely in a sidecar while you pedal. The Easy 3 offers that unique sidecar capability, which none of the other picks provide. The catch: the sidecar adds extra weight and may reduce handling agility.",
+   "specs": [
+    "Electric assist",
+    "Sidecar attachment"
+   ],
+   "pros": [
+    "Sidecar for extra passenger",
+    "Electric boost",
+    "CNET‑listed"
+   ],
+   "cons": [
+    "Added weight",
+    "Potential handling impact"
+   ],
+   "best_for": "Families or riders who want to carry a passenger safely",
+   "skip_if": "You need a lightweight, performance‑focused bike",
+   "link": "https://www.amazon.com/s?k=Mod+Easy+3+with+Sidecar&tag=zoepicks00-20",
+   "tabs": [
+    "road"
+   ]
+  },
+  {
+   "name": "BMC Teammachine R 01",
+   "short": "Teammachine R 01",
+   "badge": "Benchmark aero road bike",
+   "why": [
+    "Granfondo‑cycling uses the BMC Teammachine R 01 as its benchmark for aero road bikes in 2026."
+   ],
+   "desc": "The BMC Teammachine R 01 is an aero road bike used as a benchmark model in Granfondo‑cycling’s 2026 aero bike review.",
+   "benefit": "Picture a serious racer who wants to compare new aero models against a proven standard. The Teammachine R 01 serves as that reference point, making it the only true benchmark in this guide. The catch: it is a reference bike, not necessarily the most affordable option for casual riders.",
+   "specs": [
+    "Aero frame design",
+    "Used as benchmark model"
+   ],
+   "pros": [
+    "Proven performance",
+    "Aero efficiency",
+    "Reference standard"
+   ],
+   "cons": [
+    "Potentially high cost",
+    "Not positioned as a budget option"
+   ],
+   "best_for": "Serious racers and those evaluating aero performance",
+   "skip_if": "You are looking for a budget‑friendly road bike",
+   "link": "https://www.amazon.com/s?k=BMC+Teammachine+R+01&tag=zoepicks00-20",
+   "tabs": [
+    "road"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "road",
+   "label": "Road"
   }
  ]
 }

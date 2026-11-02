@@ -4,8 +4,8 @@
  "category": "beauty_health",
  "date": "Nov 2, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products from Consumer Reports, Yahoo Shopping, BlueRockLiving, Glamour, Allure, and Good Housekeeping. Products were ranked by the number of sources that mentioned them and by the depth of testing reported.",
- "assumptions": "Prices are only shown when a source lists them; otherwise the price field is null.",
+ "method": "Selected products that appear in at least one source; ranked by source prominence and breadth of benefit claims.",
+ "assumptions": "Prices are omitted unless stated in a source; only the price from source 5 is included.",
  "products": [],
  "draft": true
 }

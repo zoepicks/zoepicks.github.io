@@ -4,8 +4,8 @@
  "category": "furniture_decor",
  "date": "Nov 2, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were selected based on expert reviews and ratings from CNET, PCMag, Tom's Guide, OneClearWinner, Architectural Digest, and Sweetcrispy. Products recommended by multiple sources or with high specific ratings were prioritized.",
- "assumptions": "Prices are not included in the product descriptions as per instructions. Availability and specific stock levels may vary.",
+ "method": "Picks were based on product mentions in the provided sources. Source 3 supplied a detailed review and rating; other sources discussed mirror aesthetics but did not name specific models.",
+ "assumptions": "No pricing information was given in the sources, so price fields are left null.",
  "products": [],
  "draft": true
 }

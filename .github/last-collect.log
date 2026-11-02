@@ -1,3 +1,35 @@
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wig-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-candles-for-wax-play-2026 draft
+[collect] progress: guide 49 done (best-candles-for-wax-play-2026) | tried 49 | tavily keys alive 4/4
+[collect] topic: Best Wedding Dress (2026)
+[collect] tavily -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/summer-wedding-guest-dresses
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/summer-wedding-guest-dresses
+[collect] 1/2 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +3 readable page(s) -> 4 total (averyaustin.com, theknot.com, thisfairytalelife.com)
+[collect] llm request: 4 sources x 1625 chars, ~2978 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (greenweddingshoes.com, londonerinsydney.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products -> staying draft
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/oled/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-5g-router-2026/index.html
@@ -361,40 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-suitcase-2026 draft
-[collect] progress: guide 48 done (best-suitcase-2026) | tried 48 | tavily keys alive 4/4
-[collect] topic: Best Portable Charger (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-portable-solar-battery-pack
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-portable-solar-battery-pack
-[collect] 3/4 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (cntraveler.com)
-[collect] llm request: 4 sources x 1624 chars, ~2974 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Baseus PicoGo Air AM71
-[collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-portable-charger
-[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-portable-charger
-[collect] extra sources: +2 readable page(s) -> 6 total (cnn.com, outdoorgearlab.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1069 chars, ~2965 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Baseus PicoGo Air AM71
-[collect] only 0 well-sourced products for tab portable -> staying todo
-[collect] progress: guide 49 done (best-portable-charger-2026) | tried 49 | tavily keys alive 4/4
-[collect] topic: Best Waterproof Laptop (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://forums.tomshardware.com/threads/gigabyte-p57w-v6-gaming-laptop-review.2941638
-[collect] browser fetch 13 chars: https://forums.tomshardware.com/threads/gigabyte-p57w-v6-gaming-laptop-review.2941638
-[collect] 5/5 source pages fetched
-[collect] reddit fail laptopdeals Expecting value: line 1 column 1 (char 0)
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1291 chars, ~2543 in + 4000 out tokens (budget 7000)
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 7 total (gizmosum.com, outdoorgearlab.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 7 sources x 911 chars, ~2660 in + 4000 out tokens (budget 7000)
-[collect] only 0 well-sourced products for tab waterproof -> staying todo
-[collect] progress: guide 50 done (best-waterproof-laptop-2026) | tried 50 | tavily keys alive 4/4
+[collect] done: best-wedding-dress-2026 draft
+[collect] progress: guide 50 done (best-wedding-dress-2026) | tried 50 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,900 requested 2,413", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,567 requested 2,655", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 197,365 requested 3,291", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,882 requested 2,996", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,757 requested 3,142"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,087 requested 3,352", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,482 requested 4,072", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,471 requested 4,283", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,460 requested 2,604", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,343 requested 3,608"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 50 guide(s) built, 50 topic(s) tried

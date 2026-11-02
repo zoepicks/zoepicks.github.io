@@ -3,9 +3,151 @@
  "title": "Best Mouse Skates (2026)",
  "category": "accessories",
  "date": "Nov 2, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the source excerpts that explicitly mention mouse skates. The Artisan MIZUGUMO FUTAE P8 was chosen first because it is the only product described with full details. The RAWM PTFE Mouse Feet were grouped as secondary picks.",
- "assumptions": "No price information was available in the sources, so price is omitted.",
- "products": [],
- "draft": true
+ "summary": "Mouse skates improve glide and reduce friction on mousepads.",
+ "method": "Products were chosen from the RAWM shop listings (source 1) that specifically name mouse skates. Preference was given to items mentioned in multiple listings.",
+ "assumptions": "No price comparisons were made beyond the listed sale prices; all picks are assumed to be in stock.",
+ "products": [
+  {
+   "name": "PTFE Mouse Feet for Leviathan V4 White",
+   "short": "Leviathan V4 Skates",
+   "badge": "Best Overall",
+   "why": [
+    "The RAWM listing shows this kit as a direct replacement for the Leviathan V4 mouse. It is made of PTFE, a low‑friction material that improves glide.",
+    "The sale price is $3.99, down from a regular $9.99, indicating a strong discount."
+   ],
+   "desc": "A set of PTFE mouse feet designed for the Leviathan V4. They replace the stock pads and provide smoother movement. No other materials are included.",
+   "benefit": "Picture a gamer swapping out the stock pads on a Leviathan V4 and feeling the mouse glide effortlessly across the pad. The PTFE surface reduces friction and noise, giving a smoother feel than the original pads. It is the only Leviathan‑specific kit in this guide, so it wins on exact fit. The catch: only a white color option is offered.",
+   "specs": [
+    "Material: PTFE",
+    "Compatible mouse: Leviathan V4",
+    "Color: White",
+    "Sale price: $3.99",
+    "Regular price: $9.99"
+   ],
+   "pros": [
+    "Low friction glide",
+    "Exact fit for Leviathan V4",
+    "Very low price"
+   ],
+   "cons": [
+    "Only white color",
+    "May wear faster than metal pads"
+   ],
+   "best_for": "Leviathan V4 owners seeking smoother glide",
+   "skip_if": "You already have high‑quality glass pads",
+   "price": "$3.99 at RAWM",
+   "deal_note": "Sale price $3.99 USD",
+   "link": "https://www.amazon.com/s?k=PTFE+Mouse+Feet+for+Leviathan+V4+White&tag=zoepicks00-20",
+   "price_asof": "Nov 2, 2026"
+  },
+  {
+   "name": "PTFE Mouse Feet for ES21PRO White",
+   "short": "ES21PRO Skates",
+   "badge": "Best Value",
+   "why": [
+    "Listed on RAWM as a replacement kit for the ES21PRO mouse. It uses the same PTFE material for low friction.",
+    "The sale price matches the Leviathan kit at $3.99, also reduced from $9.99."
+   ],
+   "desc": "PTFE mouse feet made for the ES21PRO model. They replace the original pads and improve glide. No additional accessories are included.",
+   "benefit": "Picture a user of an ES21PRO swapping the stock pads for these PTFE feet and noticing quieter, smoother movement. The low‑friction PTFE gives better glide than the stock pads and costs the same as the Leviathan kit. It is the cheapest PTFE option for this specific mouse in the guide. The catch: only available in white.",
+   "specs": [
+    "Material: PTFE",
+    "Compatible mouse: ES21PRO",
+    "Color: White",
+    "Sale price: $3.99",
+    "Regular price: $9.99"
+   ],
+   "pros": [
+    "Improves glide",
+    "Exact model fit",
+    "Low price"
+   ],
+   "cons": [
+    "Only white color",
+    "Limited to one mouse model"
+   ],
+   "best_for": "ES21PRO owners wanting smoother movement",
+   "skip_if": "You prefer colored skates",
+   "price": "$3.99 at RAWM",
+   "deal_note": "Sale price $3.99 USD",
+   "link": "https://www.amazon.com/s?k=PTFE+Mouse+Feet+for+ES21PRO+White&tag=zoepicks00-20",
+   "price_asof": "Nov 2, 2026"
+  },
+  {
+   "name": "PTFE Mouse Feet for SH01 SH01PRO SH01S Black",
+   "short": "SH01 Series Skates",
+   "badge": "Best for Multiple Models",
+   "why": [
+    "RAWM lists this kit as compatible with three SH01 series mice, offering versatility.",
+    "It shares the same PTFE material and $3.99 sale price as the other kits."
+   ],
+   "desc": "A PTFE mouse feet set that fits SH01, SH01PRO, and SH01S models. It replaces the original pads and provides smoother glide. No extra colors are supplied.",
+   "benefit": "Picture a user with any SH01 series mouse installing these black PTFE feet and getting quieter, smoother tracking across any pad. The kit works for three models, making it the most versatile PTFE option here. It matches the low price of the other kits. The catch: only black color is offered.",
+   "specs": [
+    "Material: PTFE",
+    "Compatible mice: SH01, SH01PRO, SH01S",
+    "Color: Black",
+    "Sale price: $3.99",
+    "Regular price: $9.99"
+   ],
+   "pros": [
+    "Fits three models",
+    "Low friction glide",
+    "Cheap price"
+   ],
+   "cons": [
+    "Only black color",
+    "May not fit other mice"
+   ],
+   "best_for": "Owners of SH01 series mice seeking a budget upgrade",
+   "skip_if": "You need a different color",
+   "price": "$3.99 at RAWM",
+   "deal_note": "Sale price $3.99 USD",
+   "link": "https://www.amazon.com/s?k=PTFE+Mouse+Feet+for+SH01+SH01PRO+SH01S+Black&tag=zoepicks00-20",
+   "price_asof": "Nov 2, 2026"
+  },
+  {
+   "name": "PTFE Mouse Feet for ES21PRO White (Second Listing)",
+   "short": "ES21PRO Skates Duplicate",
+   "badge": "Duplicate Listing",
+   "why": [
+    "The RAWM shop shows the same ES21PRO kit twice, indicating high availability.",
+    "Both entries list the same $3.99 sale price."
+   ],
+   "desc": "Same PTFE mouse feet for the ES21PRO as the earlier entry. Replaces stock pads for smoother glide. No extra items included.",
+   "benefit": "Picture a buyer seeing two identical listings and choosing the one with better shipping. The PTFE material gives the same glide benefit as the first ES21PRO entry, and the price remains $3.99. The catch: it is a duplicate, offering no new features.",
+   "specs": [
+    "Material: PTFE",
+    "Compatible mouse: ES21PRO",
+    "Color: White",
+    "Sale price: $3.99",
+    "Regular price: $9.99"
+   ],
+   "pros": [
+    "Same low friction as other PTFE kits",
+    "Very cheap",
+    "Multiple listings for convenience"
+   ],
+   "cons": [
+    "Duplicate entry",
+    "Only white color"
+   ],
+   "best_for": "ES21PRO owners who want any cheap PTFE upgrade",
+   "skip_if": "You already have the first ES21PRO kit",
+   "price": "$3.99 at RAWM",
+   "deal_note": "Sale price $3.99 USD",
+   "link": "https://www.amazon.com/s?k=PTFE+Mouse+Feet+for+ES21PRO+White+%28Second+Listing%29&tag=zoepicks00-20",
+   "price_asof": "Nov 2, 2026"
+  }
+ ],
+ "verdict": {
+  "pick": "PTFE Mouse Feet for Leviathan V4 White",
+  "line": "Ideal for Leviathan V4 owners who want smoother, quieter movement. It uses PTFE for low friction and is cheap, but the only downside is limited color choice.",
+  "also": [
+   [
+    "Lowest price",
+    "PTFE Mouse Feet for ES21PRO White"
+   ]
+  ]
+ }
 }

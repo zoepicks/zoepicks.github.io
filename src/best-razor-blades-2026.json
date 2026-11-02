@@ -3,9 +3,87 @@
  "title": "Best Razor Blades (2026)",
  "category": "beauty_health",
  "date": "Nov 2, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were identified from the provided sources, prioritizing those mentioned in multiple reviews and noting their key features.",
- "assumptions": "Prices are not included because none of the sources provide them.",
- "products": [],
- "draft": true
+ "summary": "A guide to the top razor blades for 2026, covering both cartridge and double‑edge options.",
+ "method": "Picks were based on mentions in the provided sources: Gillette ProGlide Shield and Schick Quattro Titanium from techgearlab.com; Feather, Astra, and Derby blades from gentlemansgazette.com and sites.google.com.",
+ "assumptions": "No price data was given in the sources, so price is omitted.",
+ "products": [
+  {
+   "name": "Feather Double‑Edge Razor Blades",
+   "short": "Feather DE",
+   "badge": "Best Sharpness",
+   "why": [
+    "Gentleman's Gazette lists Feather as a top double‑edge blade for sharpness and consistency.",
+    "The guide emphasizes its classic design and reputation among wet‑shaving enthusiasts."
+   ],
+   "desc": "A double‑edge safety razor blade known for exceptional sharpness. It does not include a holder or packaging beyond standard paper wraps.",
+   "benefit": "Picture a wet‑shaving hobbyist who values a razor‑sharp edge for a close shave. Feather’s superior sharpness gives the cleanest cut, making it the sharpest blade in this guide. It beats other DE blades by offering the highest edge quality, though the sharpness can be harsh on sensitive skin. The catch: it may cause irritation for beginners or those with delicate skin.",
+   "specs": [
+    "Double‑edge design",
+    "Extremely sharp edge"
+   ],
+   "pros": [
+    "Very sharp",
+    "Consistent performance"
+   ],
+   "cons": [
+    "Can irritate sensitive skin",
+    "Requires careful handling"
+   ],
+   "best_for": "Experienced wet shavers seeking a razor‑sharp edge",
+   "skip_if": "If you have very sensitive skin",
+   "link": "https://www.amazon.com/s?k=Feather+Double%E2%80%91Edge+Razor+Blades&tag=zoepicks00-20"
+  },
+  {
+   "name": "Astra Double‑Edge Razor Blades",
+   "short": "Astra DE",
+   "badge": "Best Value DE",
+   "why": [
+    "Sites.google.com notes Astra blades have mixed reviews, with some resistance but overall good value.",
+    "Gentleman's Gazette also includes Astra in its DE blade rankings."
+   ],
+   "desc": "A double‑edge safety razor blade offering decent sharpness at a low cost. It does not claim the extreme sharpness of Feather.",
+   "benefit": "Picture a beginner wet‑shaver who wants a reliable blade without breaking the bank. Astra provides acceptable sharpness with a lower price, making it the best‑value DE blade in the guide. It stands out as the only budget‑friendly DE option, though users report a bit more resistance on the first shave. The catch: initial resistance may require a learning curve.",
+   "specs": [
+    "Double‑edge design",
+    "Budget‑friendly"
+   ],
+   "pros": [
+    "Affordable",
+    "Decent performance"
+   ],
+   "cons": [
+    "Slight resistance on first use",
+    "Not as sharp as premium blades"
+   ],
+   "best_for": "New wet shavers looking for cost‑effective blades",
+   "skip_if": "If you demand top‑tier sharpness",
+   "link": "https://www.amazon.com/s?k=Astra+Double%E2%80%91Edge+Razor+Blades&tag=zoepicks00-20"
+  },
+  {
+   "name": "Derby Double‑Edge Razor Blades",
+   "short": "Derby DE",
+   "badge": "Best Classic DE",
+   "why": [
+    "Gentleman's Gazette lists Derby among the top classic DE blades for reliable performance.",
+    "It is noted for its traditional design and consistent results."
+   ],
+   "desc": "A classic double‑edge safety razor blade with reliable cutting performance. It does not feature any special coatings or premium packaging.",
+   "benefit": "Picture a traditional shaver who prefers a time‑tested blade that works well across skin types. Derby offers reliable, consistent cuts, making it the most classic DE blade in this guide. It wins on consistency, being the only blade highlighted for its classic reliability, though it lacks the extreme sharpness of Feather. The catch: it may not provide the ultra‑close shave some users seek.",
+   "specs": [
+    "Double‑edge design",
+    "Consistent performance"
+   ],
+   "pros": [
+    "Reliable",
+    "Works for most skin types"
+   ],
+   "cons": [
+    "Not as sharp as Feather",
+    "No premium coating"
+   ],
+   "best_for": "Shavers who value consistency and classic performance",
+   "skip_if": "If you need the sharpest edge available",
+   "link": "https://www.amazon.com/s?k=Derby+Double%E2%80%91Edge+Razor+Blades&tag=zoepicks00-20"
+  }
+ ]
 }
