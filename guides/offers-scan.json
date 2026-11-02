@@ -875,24 +875,53 @@
   },
   "laptops:macbooks": {
    "label": "MacBooks",
-   "tries": 16,
+   "tries": 17,
    "items": [
     {
-     "asin": "B0BNTHWWMY",
-     "name": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub",
-     "pct": 10,
+     "asin": "B0GPWK7THQ",
+     "name": "TobenONE 16-in-2 MacBook Docking Station Dual 4K@60Hz",
+     "pct": 28,
      "rating": 4.3,
-     "t": 1793457561,
-     "img": "https://m.media-amazon.com/images/I/71Mh2J8Hk7L.jpg",
-     "link": "https://www.amazon.com/dp/B0BNTHWWMY?tag=zoepicks00-20",
-     "now": "44.79",
-     "was": "49.99",
-     "reviews": 13420,
-     "_title": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub for Laptop MacBook | LIONWEI Triple 4K, Dual HDMI+DP, 10Gbps, 100W ...",
-     "_price": 44.79
+     "t": 1793646500,
+     "img": "https://m.media-amazon.com/images/I/61XNbulzVHL.jpg",
+     "link": "https://www.amazon.com/dp/B0GPWK7THQ?tag=zoepicks00-20",
+     "now": "93.59",
+     "was": "129.99",
+     "deal": "Limited time deal",
+     "reviews": 151,
+     "_title": "TobenONE 16-in-2 MacBook Docking Station Dual 4K@60Hz, 7 USB, 2 HDMI | 100W PD Fast Charging, Gigabit Ethernet,Plug-and-Pl...",
+     "_price": 93.59
+    },
+    {
+     "asin": "B0GR1493ZV",
+     "name": "Apple 2026 MacBook Air 13-inch Laptop",
+     "pct": 15,
+     "rating": 4.7,
+     "t": 1793646500,
+     "img": "https://m.media-amazon.com/images/I/71igu9e9hFL.jpg",
+     "link": "https://www.amazon.com/dp/B0GR1493ZV?tag=zoepicks00-20",
+     "now": "1,099.99",
+     "was": "1,299.00",
+     "reviews": 1332,
+     "_title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 51...",
+     "_price": 1099.99
+    },
+    {
+     "asin": "B0GR1N82GJ",
+     "name": "Apple 2026 MacBook Air 15-inch Laptop",
+     "pct": 13,
+     "rating": 4.7,
+     "t": 1793646500,
+     "img": "https://m.media-amazon.com/images/I/71KDwOe39jL.jpg",
+     "link": "https://www.amazon.com/dp/B0GR1N82GJ?tag=zoepicks00-20",
+     "now": "1,299.99",
+     "was": "1,499.00",
+     "reviews": 768,
+     "_title": "Apple 2026 MacBook Air 15-inch Laptop with M5 chip: Built for AI, 15.3-inch Liquid Retina Display, 16GB Unified Memory, 51...",
+     "_price": 1299.99
     }
    ],
-   "scanned": "2026-10-31T14:39:21.624967+00:00",
+   "scanned": "2026-11-02T19:08:20.172943+00:00",
    "via": "sweep"
   },
   "mobiles:iphones": {
