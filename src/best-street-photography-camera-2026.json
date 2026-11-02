@@ -2,7 +2,7 @@
  "slug": "best-street-photography-camera-2026",
  "title": "Best Street Photography Camera (2026)",
  "category": "electronics",
- "date": "Nov 1, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The guide highlights compact and mirrorless cameras that excel in street photography, with the Fujifilm X100VI leading the pack.",
  "method": "Picks were made by cross‑referencing the PCMag, CNET, and RTINGS reviews, selecting models mentioned by more than one source and noting their stated strengths.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
@@ -336,6 +336,101 @@
    "tabs": [
     "pentax"
    ]
+  },
+  {
+   "name": "Garmin Dash Cam Live",
+   "short": "Garmin Live",
+   "badge": "Best Live Monitoring",
+   "why": [
+    "The Garmin Dash Cam Live records excellent quality video and offers live monitoring.",
+    "It pairs with an intuitive mobile app and includes driver‑assist features."
+   ],
+   "desc": "The Garmin Dash Cam Live is a front‑mounted camera that records high‑quality video and provides live monitoring through a mobile app. It does not include a built‑in emergency button or Alexa integration.",
+   "benefit": "Picture a driver who wants real‑time monitoring of their trip. The live feed lets you check the road from your phone, and driver‑assist features help avoid incidents. It outperforms the Viofo A329S in live monitoring, but it lacks the 4K resolution of the Nextbase 622GW. The catch: it does not have a built‑in emergency SOS button.",
+   "specs": [
+    "High‑quality video",
+    "Live monitoring",
+    "Driver‑assist features",
+    "Mobile app"
+   ],
+   "pros": [
+    "Live monitoring",
+    "Driver‑assist",
+    "Intuitive app"
+   ],
+   "cons": [
+    "No 4K video",
+    "No emergency SOS"
+   ],
+   "best_for": "Drivers who want live trip monitoring",
+   "skip_if": "You need 4K video or emergency alerts",
+   "link": "https://www.amazon.com/s?k=Garmin+Dash+Cam+Live&tag=zoepicks00-20",
+   "tabs": [
+    "dash"
+   ]
+  },
+  {
+   "name": "Viofo A329S Dash Cam",
+   "short": "Viofo A329S",
+   "badge": "Best 4K",
+   "why": [
+    "The Viofo A329S offers sharp 4K video and flexible rear, interior, and exterior camera options.",
+    "It is highlighted as the best all‑around dash cam in 2026."
+   ],
+   "desc": "The Viofo A329S is a front‑mounted dash cam that records 4K video and can be paired with rear or interior cameras. It does not have built‑in Alexa or a dedicated emergency button.",
+   "benefit": "Picture a driver who wants the best 4K footage and the option to add rear or interior cameras. The 4K video captures fine details, and the flexible camera setup suits various driving needs. It outperforms the Garmin Dash Cam Live in video resolution, but it lacks live monitoring and emergency SOS. The catch: it does not include a built‑in emergency button.",
+   "specs": [
+    "4K video",
+    "Rear/Interior camera options",
+    "Flexible setup"
+   ],
+   "pros": [
+    "4K video",
+    "Flexible camera options",
+    "Good all‑around performance"
+   ],
+   "cons": [
+    "No live monitoring",
+    "No emergency SOS"
+   ],
+   "best_for": "Drivers wanting high‑resolution video and flexible camera options",
+   "skip_if": "You need live monitoring or emergency alerts",
+   "link": "https://www.amazon.com/s?k=Viofo+A329S+Dash+Cam&tag=zoepicks00-20",
+   "tabs": [
+    "dash"
+   ]
+  },
+  {
+   "name": "Vueroid S1 4K Infinite Dash Cam",
+   "short": "Vueroid S1",
+   "badge": "Best LTE/Cloud",
+   "why": [
+    "The Vueroid S1 4K Infinite is a cloud‑connected dash cam with LTE support.",
+    "It is noted for its long‑term parking and cloud features."
+   ],
+   "desc": "The Vueroid S1 4K Infinite is a front‑mounted dash cam that records 4K video and connects to the cloud via LTE. It does not have a built‑in emergency SOS button or Alexa integration.",
+   "benefit": "Picture a driver who wants to monitor their parked car from anywhere. The LTE connection and cloud storage let you view footage remotely, and the 4K video is sharp. It outperforms the Garmin Dash Cam Live in remote monitoring, but it lacks the emergency SOS of the Nextbase 622GW. The catch: it requires a data plan for LTE connectivity.",
+   "specs": [
+    "4K video",
+    "LTE connection",
+    "Cloud storage",
+    "Long‑term parking"
+   ],
+   "pros": [
+    "LTE/Cloud connectivity",
+    "Long‑term parking",
+    "4K video"
+   ],
+   "cons": [
+    "Requires data plan",
+    "No emergency SOS"
+   ],
+   "best_for": "Drivers who need remote parking monitoring",
+   "skip_if": "You do not want to pay for LTE data",
+   "link": "https://www.amazon.com/s?k=Vueroid+S1+4K+Infinite+Dash+Cam&tag=zoepicks00-20",
+   "tabs": [
+    "dash"
+   ]
   }
  ],
  "verdict": {
@@ -360,6 +455,10 @@
   {
    "key": "pentax",
    "label": "Pentax"
+  },
+  {
+   "key": "dash",
+   "label": "Dash"
   }
  ]
 }

@@ -1,14 +1,30 @@
-[collect] drop (only 1 sources): Victoria Beckham Beauty Eye Wardrobe Edit
-[collect] drop (only 1 sources): Merit x Erdem The Winter 2026 Set
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-dash-camera-2026 -> tab 'dash' of best-street-photography-camera-2026 (+3 new, 0 already there)
+[collect] progress: guide 1 done (best-dash-camera-2026) | tried 1 | tavily keys alive 4/4
+[collect] topic: Best Art Merch Equipment (2026)
+[collect] tavily -> 4 pages
+[collect] browser fetch 2942 chars: https://www.rtings.com/printer
+[collect] 4/4 source pages fetched
+[collect] llm request: 4 sources x 1624 chars, ~2972 in + 4000 out tokens (budget 7000)
+[collect] llm key ...ITNE openai/gpt-oss-120b DAILY limit limit 200,000 used 199,426 requested 2,329 -> skipped for this run
+[collect] drop (only 1 sources): HP OfficeJet Pro 9125e
+[collect] drop (only 1 sources): Procolored Panda F8 DTF printer
+[collect] drop (only 1 sources): Brother HL‑L3270CDW
+[collect] drop (only 1 sources): Brother All‑in‑one J1010DW
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (us.missnella.com, thegoodtrade.com)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-drawing-tablets
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-drawing-tablets
+[collect] extra sources: +2 readable page(s) -> 6 total (nytimes.com, printful.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2965 in + 4000 out tokens (budget 7000)
-[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,363 requested 2,362 -> skipped for this run
-[collect] drop (only 1 sources): Merit x Erdem The Winter 2026 Set
-[collect] drop (only 1 sources): Bisou, Bisous: Violette_FR Bouche Duo Bêtise Edition
-[collect] drop (only 1 sources): A Rosy Outlook: YSL Iconic Pink Lip Gloss & Blush Gift Set
-[collect] drop (only 1 sources): Oh, Honey Honey: Clinique 6 Piece Black Honey Deluxe Makeup Holiday Gift Set
+[collect] llm request: 6 sources x 1069 chars, ~2962 in + 4000 out tokens (budget 7000)
+[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,679 requested 2,344 -> skipped for this run
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -23,6 +39,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-purifiers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-android-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-area-rugs-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-art-merch-equipment-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-audio-interfaces-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-automatic-cat-feeders-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-baby-carrier-2026/index.html
@@ -314,6 +331,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-streaming-devi
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/vlogging/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/pentax/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/dash/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-strollers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-studio-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stuffed-animal-2026/index.html
@@ -375,26 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-makeup-kit-2026 draft
-[collect] progress: guide 2 done (best-makeup-kit-2026) | tried 2 | tavily keys alive 4/4
-[collect] topic: Best Clayface Hoodie (2026)
-[collect] tavily -> 2 pages
-[collect] http 403 https://www.nytimes.com/2026/10/22/movies/clayface-review.html
-[collect] browser fetch 0 chars: https://www.nytimes.com/2026/10/22/movies/clayface-review.html
-[collect] 1/2 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] http 202 https://shakefire.net/6857/clayface-review
-[collect] browser fetch 0 chars: https://shakefire.net/6857/clayface-review
-[collect] browser fetch 394 chars: https://www.ign.com/videos/clayface-review
-[collect] extra sources: +3 readable page(s) -> 4 total (shakefire.net, ign.com, yahoo.com)
-[collect] llm request: 4 sources x 1625 chars, ~2560 in + 4000 out tokens (budget 7000)
-[collect] llm key ...4zVi openai/gpt-oss-120b DAILY limit limit 200,000 used 198,425 requested 2,205 -> skipped for this run
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (metro.co.uk, cinemablend.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2733 in + 4000 out tokens (budget 7000)
-[collect] only 0 well-sourced products for tab clayface -> staying todo
-[collect] progress: guide 3 done (best-clayface-hoodie-2026) | tried 3 | tavily keys alive 4/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,712 requested 2,397", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,309 requested 2,344", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,363 requested 2,362", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 198,425 requested 2,205"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 3 guide(s) built, 3 topic(s) tried
+[collect] done: best-art-merch-equipment-2026 draft
+[collect] progress: guide 2 done (best-art-merch-equipment-2026) | tried 2 | tavily keys alive 4/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,468 requested 2,177", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,012 requested 2,334", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,426 requested 2,329", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,679 requested 2,344"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried
