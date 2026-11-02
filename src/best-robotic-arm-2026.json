@@ -4,8 +4,12 @@
  "category": "toys_kids",
  "date": "Nov 2, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the collaborative robot arm models listed in source [6] and ranked by relevance to small‑scale assembly, favoring those mentioned most prominently.",
- "assumptions": "No pricing information was available, so cost considerations are omitted.",
+ "method": "Picks were based on product mentions in the provided sources, favoring items cited by more than one source.",
+ "assumptions": "No price information was used except where explicitly stated in a source; all other pricing is omitted.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70",
+  "line": "Buy it if you want a home robot that can vacuum, mop and try to pick up items. It offers strong cleaning, mapping and an OmniGrip arm, but the arm still struggles with object handling and software bugs."
+ },
  "draft": true
 }
