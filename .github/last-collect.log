@@ -1,16 +1,35 @@
-[collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best Iphone Duo (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://www.androidauthority.com/apple-iphone-duo-hands-on-impressions-android-user-3712800
-[collect] browser fetch 271 chars: https://www.androidauthority.com/apple-iphone-duo-hands-on-impressions-android-user-3712800
-[collect] 5/5 source pages fetched
-[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 5 sources x 1293 chars, ~2628 in + 4000 out tokens (budget 7000)
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-crib-bedding-2026 draft
+[collect] progress: guide 1 done (best-crib-bedding-2026) | tried 1 | tavily keys alive 4/4
+[collect] topic: Best Robotic Arm (2026)
+[collect] tavily -> 2 pages
+[collect] 2/2 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 7 total (me.pcmag.com, thinkdifferent.blog)
+[collect] browser fail https://kth.diva-portal.org/smash/get/diva2:1990599/FULLTEXT01.pdf Page.goto: Download is starting
+Call log:
+  - navigating to "https://kth.diva-portal.org/smash/get/diva2:1990599/FULLTEXT01.pdf", waiting until "domcontentloaded"
+
+[collect] http 502 https://antonrobots.com/top-robotic-arm-manufacturers
+[collect] browser fail https://antonrobots.com/top-robotic-arm-manufacturers Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://antonrobots.com/top-robotic-arm-manufacturers
+Call log:
+  - navigating to "https://antonrobots.com/top-robotic-arm-manufacturers", waiting until "domcontentloaded"
+
+[collect] http 403 https://community.robotshop.com/forum/t/call-for-reviewers-owi-535-robotic-arm-edge/13599
+[collect] browser fetch 269 chars: https://community.robotshop.com/forum/t/call-for-reviewers-owi-535-robotic-arm-edge/13599
+[collect] extra sources: +2 readable page(s) -> 4 total (antonrobots.com, community.robotshop.com)
+[collect] llm request: 4 sources x 1626 chars, ~2523 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://www.sciencedirect.com/science/article/abs/pii/S0094576522001047
+[collect] browser fetch 368 chars: https://www.sciencedirect.com/science/article/abs/pii/S0094576522001047
+[collect] extra sources: +2 readable page(s) -> 6 total (evsint.com, sciencedirect.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 7 sources x 912 chars, ~2745 in + 4000 out tokens (budget 7000)
-[collect] only 1 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2461 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Universal Robots UR20
+[collect] drop (only 1 sources): Fairino FR20
+[collect] drop (only 1 sources): Fanuc CRX-25iA
+[collect] drop (only 1 sources): Epson SCARA Series
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -69,6 +88,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-coolers-2026/i
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cordless-drills-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-couch-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-craft-kits-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-crib-bedding-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-crockpot-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-crossbody-bag-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-curtains-2026/index.html
@@ -373,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-iphone-duo-2026 draft
-[collect] progress: guide 1 done (best-iphone-duo-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-robotic-arm-2026 draft
+[collect] progress: guide 2 done (best-robotic-arm-2026) | tried 2 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried
