@@ -1,37 +1,16 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/durable/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-white-refrigerator-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-whiteboard-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wig-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-winter-coats-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-computer-desk-2026 -> tab 'computer' of best-standing-desks-2026 (+3 new, 0 already there)
-[collect] progress: guide 2 done (best-computer-desk-2026) | tried 2 | tavily keys alive 4/4
-[collect] topic: Best Macbook Case (2026)
-[collect] tavily -> 4 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025
-[collect] 4/4 source pages fetched
-[collect] reddit fail laptopdeals Expecting value: line 1 column 1 (char 0)
-[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
-[collect] llm request: 4 sources x 1625 chars, ~2972 in + 4000 out tokens (budget 7000)
-[collect] llm key ...4zVi openai/gpt-oss-120b DAILY limit limit 200,000 used 197,111 requested 3,762 -> skipped for this run
-[collect] drop (only 1 sources): Inateck Laptop Case
+[collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
+[collect] topic: Best Iphone Duo (2026)
+[collect] tavily -> 5 pages
+[collect] http 403 https://www.androidauthority.com/apple-iphone-duo-hands-on-impressions-android-user-3712800
+[collect] browser fetch 271 chars: https://www.androidauthority.com/apple-iphone-duo-hands-on-impressions-android-user-3712800
+[collect] 5/5 source pages fetched
+[collect] reddit fail phonedeals Expecting value: line 1 column 1 (char 0)
+[collect] llm request: 5 sources x 1293 chars, ~2628 in + 4000 out tokens (budget 7000)
 [collect] open web (tavily) -> 15 results
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-laptop-macbook-sleeves-cases
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-laptop-macbook-sleeves-cases
-[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, creativebloq.com)
+[collect] extra sources: +2 readable page(s) -> 7 total (me.pcmag.com, thinkdifferent.blog)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): KECC Leather MacBook Pro Case
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 7 sources x 912 chars, ~2745 in + 4000 out tokens (budget 7000)
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -183,6 +162,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-impact-drivers
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-in-ear-gaming-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-insulated-water-bottles-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-camera-lens-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-duo-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-vs-ipad-pro-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
@@ -393,8 +373,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-macbook-case-2026 draft
-[collect] progress: guide 3 done (best-macbook-case-2026) | tried 3 | tavily keys alive 4/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,446 requested 2,475", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,815 requested 2,538", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,560 requested 3,137", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,714 requested 4,400", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,111 requested 3,762"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 3 guide(s) built, 3 topic(s) tried
+[collect] done: best-iphone-duo-2026 draft
+[collect] progress: guide 1 done (best-iphone-duo-2026) | tried 1 | tavily keys alive 4/4
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
