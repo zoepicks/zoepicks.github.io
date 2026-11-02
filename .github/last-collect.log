@@ -1,14 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-pads-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-walking-shoes-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wallets-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-washing-machine-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-watches-under-200-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-filter-pitchers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-water-flossers-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wearable-blanket-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-webcams-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wedding-dress-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/durable/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-white-refrigerator-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-whiteboard-2026/index.html
@@ -24,22 +13,30 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-kayak-2026 draft
-[collect] progress: guide 2 done (best-kayak-2026) | tried 2 | tavily keys alive 4/4
-[collect] topic: Best Laptop Docking Station (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-usb-c-hubs-and-docks
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-usb-c-hubs-and-docks
-[collect] browser fetch 9000 chars: https://www.rtings.com/monitor/reviews/best/usb-c
-[collect] 4/5 source pages fetched
-[collect] llm request: 4 sources x 1623 chars, ~2970 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Anker Nano Laptop Docking Station
+[collect] done: best-giant-bean-bag-2026 draft
+[collect] progress: guide 2 done (best-giant-bean-bag-2026) | tried 2 | tavily keys alive 4/4
+[collect] topic: Best Pull-Up Bar (2026)
+[collect] tavily -> 3 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars
+[collect] 2/3 source pages fetched
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, zdnet.com)
+[collect] http 404 https://www.garagegymreviews.com/best-pull-up-bar
+[collect] browser fetch 609 chars: https://www.garagegymreviews.com/best-pull-up-bar
+[collect] extra sources: +2 readable page(s) -> 4 total (garagegymreviews.com, techgearlab.com)
+[collect] llm request: 4 sources x 1626 chars, ~2639 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Pro-SourceFit Multiuse Doorway Chin-Up and Pull-Up Bar
+[collect] drop (only 1 sources): Titan Wall-Mounted Pull-Up Bar
+[collect] drop (only 1 sources): Gronk Fitness Ceiling-Mounted Multigrip Pull-Up Bar
+[collect] drop (only 1 sources): Sportsroyals Power Tower Dip Station Pull-Up Bar
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://shreddeddad.com/rogue-individual-pull-up-system
+[collect] browser fetch 7963 chars: https://shreddeddad.com/rogue-individual-pull-up-system
+[collect] extra sources: +2 readable page(s) -> 6 total (barbend.com, shreddeddad.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1068 chars, ~2956 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Plugable USB‑C Triple 4K Monitor Dock
-[collect] drop (only 1 sources): Anker Nano Laptop Docking Station
+[collect] llm request: 6 sources x 1070 chars, ~2811 in + 4000 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,800 requested 3,248 -> skipped for this run
+[collect] drop (only 1 sources): Rogue Individual Pull Up System
 [collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -145,6 +142,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-flash-drive-20
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-flash-drive-2026/external-hard/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-flashlights-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-floor-lamps-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fluffy-slippers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-foldable-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-food-blender-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-food-processors-2026/index.html
@@ -163,6 +161,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-monitor-32-inch-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-phones-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-giant-bean-bag-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-giant-lego-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gifts-for-dads-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gold-watch-brown-leather-strap-2026/index.html
@@ -288,6 +287,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-projectors-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-protein-powder-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-or-gaming-pc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ps5-pro-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pull-up-bar-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-rain-jackets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-razor-blades-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-real-time-translation-device-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-laptop-docking-station-2026 draft
-[collect] progress: guide 3 done (best-laptop-docking-station-2026) | tried 3 | tavily keys alive 4/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,678 requested 2,538", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,155 requested 2,415"}, "toolarge": {}, "minute": {}, "noaccess": {"5tBZ|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] done: best-pull-up-bar-2026 draft
+[collect] progress: guide 3 done (best-pull-up-bar-2026) | tried 3 | tavily keys alive 4/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,800 requested 3,248"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 3 guide(s) built, 3 topic(s) tried
