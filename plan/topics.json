@@ -3979,5 +3979,38 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Nov 2, 2026"
+ },
+ {
+  "title": "Best Capture Card (2026)",
+  "slug": "best-capture-card-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Wisconsin Sports Hoodie (2026)",
+  "slug": "best-wisconsin-sports-hoodie-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-hoodies-2026",
+  "tab": "wisconsin-sport",
+  "tab_label": "Wisconsin Sport"
+ },
+ {
+  "title": "Best Winter Perfume (2026)",
+  "slug": "best-winter-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "winter",
+  "tab_label": "Winter"
  }
 ]
