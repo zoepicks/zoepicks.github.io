@@ -3877,5 +3877,44 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Mac Mini Desktop (2026)",
+  "slug": "best-mac-mini-desktop-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Small Bluetooth Speaker (2026)",
+  "slug": "best-small-bluetooth-speaker-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-bluetooth-speakers-2026",
+  "tab": "small",
+  "tab_label": "Small"
+ },
+ {
+  "title": "Best Brewers Shirt (2026)",
+  "slug": "best-brewers-shirt-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Hair Raising Headband (2026)",
+  "slug": "best-hair-raising-headband-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
