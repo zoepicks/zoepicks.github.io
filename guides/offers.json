@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-02T11:27:24Z",
+ "updated": "2026-11-02T13:28:09Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -182,7 +182,7 @@
     "name": "NORTIV 8 Men's Waterproof PRO Hiking Boots",
     "pct": 38,
     "rating": 4.4,
-    "t": 1793599567,
+    "t": 1793619188,
     "img": "https://m.media-amazon.com/images/I/712f5FDIlWL.jpg",
     "link": "https://www.amazon.com/dp/B0G8J8KB4Y?tag=zoepicks00-20",
     "now": "49.99",
@@ -831,19 +831,6 @@
       "was": "42.99",
       "deal": "Limited time deal",
       "reviews": 73
-     },
-     {
-      "asin": "B0GS5ZHY87",
-      "name": "Acer Wireless Mouse",
-      "pct": 13,
-      "rating": 4.3,
-      "t": 1793492993,
-      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
-      "now": "12.98",
-      "was": "14.99",
-      "deal": "Limited time deal",
-      "reviews": 918
      }
     ]
    },
@@ -957,6 +944,11 @@
     "items": []
    },
    {
+    "key": "mouse-skates",
+    "label": "Mouse Skates",
+    "items": []
+   },
+   {
     "key": "phone-case",
     "label": "Phone Case",
     "items": []
@@ -1058,6 +1050,25 @@
     ]
    },
    {
+    "key": "razor-blades",
+    "label": "Razor Blades",
+    "items": [
+     {
+      "asin": "B0HFZWDR7F",
+      "name": "Tulzim Electric Foil Shaver",
+      "pct": 64,
+      "rating": 4.7,
+      "t": 1793549859,
+      "img": "https://m.media-amazon.com/images/I/71+K9jC1i+L.jpg",
+      "link": "https://www.amazon.com/dp/B0HFZWDR7F?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 54
+     }
+    ]
+   },
+   {
     "key": "hair-straighteners",
     "label": "Hair Straighteners",
     "items": [
@@ -1130,7 +1141,7 @@
       "name": "American Crew 3-in-1 Shampoo & Body Wash",
       "pct": 42,
       "rating": 4.6,
-      "t": 1793599553,
+      "t": 1793619184,
       "img": "https://m.media-amazon.com/images/I/71sl7eQWyuL.jpg",
       "link": "https://www.amazon.com/dp/B019XIPEZ0?tag=zoepicks00-20",
       "now": "14.49",
@@ -1434,6 +1445,11 @@
    {
     "key": "heating-pad",
     "label": "Heating Pad",
+    "items": []
+   },
+   {
+    "key": "makeup-palette",
+    "label": "Makeup Palette",
     "items": []
    },
    {
@@ -1816,6 +1832,11 @@
    {
     "key": "kindle-case",
     "label": "Kindle Case",
+    "items": []
+   },
+   {
+    "key": "kobo-case",
+    "label": "Kobo Case",
     "items": []
    },
    {
@@ -2268,7 +2289,7 @@
       "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793599566,
+      "t": 1793619188,
       "img": "https://m.media-amazon.com/images/I/61PNtGqqNoL.jpg",
       "link": "https://www.amazon.com/dp/B0CLR8QXKW?tag=zoepicks00-20",
       "now": "46.86",
@@ -2580,7 +2601,7 @@
       "name": "NORTIV 8 Men's Waterproof PRO Hiking Boots",
       "pct": 38,
       "rating": 4.4,
-      "t": 1793599567,
+      "t": 1793619188,
       "img": "https://m.media-amazon.com/images/I/712f5FDIlWL.jpg",
       "link": "https://www.amazon.com/dp/B0G8J8KB4Y?tag=zoepicks00-20",
       "now": "49.99",
@@ -2709,24 +2730,6 @@
     ]
    },
    {
-    "key": "coolers",
-    "label": "Coolers",
-    "items": [
-     {
-      "asin": "B0D5MGDJ2R",
-      "name": "MIYCOO Cooler Backpack",
-      "pct": 23,
-      "rating": 4.5,
-      "t": 1793494628,
-      "img": "https://m.media-amazon.com/images/I/71IuLQIT-UL.jpg",
-      "link": "https://www.amazon.com/dp/B0D5MGDJ2R?tag=zoepicks00-20",
-      "now": "26.98",
-      "was": "34.99",
-      "reviews": 2455
-     }
-    ]
-   },
-   {
     "key": "hiking-backpacks",
     "label": "Hiking Backpacks",
     "items": [
@@ -2762,6 +2765,11 @@
    {
     "key": "yoga-mats",
     "label": "Yoga Mats",
+    "items": []
+   },
+   {
+    "key": "coolers",
+    "label": "Coolers",
     "items": []
    }
   ],
@@ -2967,6 +2975,11 @@
    {
     "key": "shoe-racks",
     "label": "Shoe Racks",
+    "items": []
+   },
+   {
+    "key": "curtains",
+    "label": "Curtains",
     "items": []
    }
   ],
@@ -3189,6 +3202,11 @@
     "items": []
    },
    {
+    "key": "game-console",
+    "label": "Game Console",
+    "items": []
+   },
+   {
     "key": "game-controller",
     "label": "Game Controller",
     "items": []
@@ -3391,7 +3409,7 @@
       "name": "Emojoy 3-Piece Japanese Damascus Steel Knife Set",
       "pct": 40,
       "rating": 4.6,
-      "t": 1793599566,
+      "t": 1793553146,
       "img": "https://m.media-amazon.com/images/I/81F1xGGHCWL.jpg",
       "link": "https://www.amazon.com/dp/B0DXPYV1JR?tag=zoepicks00-20",
       "now": "54.13",
@@ -4657,6 +4675,19 @@
     "label": "Cat Litter",
     "items": [
      {
+      "asin": "B004JLTJW6",
+      "name": "World's Best Cat Litter",
+      "pct": 34,
+      "rating": 4.4,
+      "t": 1793619185,
+      "img": "https://m.media-amazon.com/images/I/716mCML+goL.jpg",
+      "link": "https://www.amazon.com/dp/B004JLTJW6?tag=zoepicks00-20",
+      "now": "10.45",
+      "was": "15.72",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B07NJ5SR5G",
       "name": "Pieviev Cat Litter Mat",
       "pct": 15,
@@ -4665,20 +4696,6 @@
       "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
       "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GSQDZNS3",
-      "name": "Stainless Steel Litter Box",
-      "pct": 10,
-      "rating": 4.5,
-      "t": 1793547446,
-      "img": "https://m.media-amazon.com/images/I/61HqLB+HseL.jpg",
-      "link": "https://www.amazon.com/dp/B0GSQDZNS3?tag=zoepicks00-20",
-      "now": "25.19",
-      "was": "27.99",
-      "deal": "Limited time deal",
-      "reviews": 313,
       "tier": "mid"
      },
      {
