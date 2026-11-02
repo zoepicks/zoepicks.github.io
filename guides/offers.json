@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-02T03:23:27Z",
+ "updated": "2026-11-02T03:26:24Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1618,54 +1618,6 @@
     ]
    },
    {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B0D14P7Y2T",
-      "name": "Jack Black Pit Boss Antiperspirant & Deodorant",
-      "pct": 20,
-      "rating": 4.4,
-      "t": 1793460300,
-      "img": "https://m.media-amazon.com/images/I/71RoV-+9A5L.jpg",
-      "link": "https://www.amazon.com/dp/B0D14P7Y2T?tag=zoepicks00-20",
-      "now": "17.60",
-      "was": "22.00",
-      "deal": "Limited time deal",
-      "reviews": 5617,
-      "tier": "budget"
-     },
-     {
-      "asin": "B000VON764",
-      "name": "Calvin Klein CK One Deodorant Stick",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1793460300,
-      "img": "https://m.media-amazon.com/images/I/31yd84yflpL.jpg",
-      "link": "https://www.amazon.com/dp/B000VON764?tag=zoepicks00-20",
-      "now": "18.40",
-      "was": "23.00",
-      "deal": "Limited time deal",
-      "reviews": 6328,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DDY9TVY3",
-      "name": "Dr. Squatch Natural Men’s Deodorant",
-      "pct": 19,
-      "rating": 4.3,
-      "t": 1793460300,
-      "img": "https://m.media-amazon.com/images/I/61g9KzTLP4L.jpg",
-      "link": "https://www.amazon.com/dp/B0DDY9TVY3?tag=zoepicks00-20",
-      "now": "31.75",
-      "was": "39.00",
-      "deal": "Limited time deal",
-      "reviews": 31281,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "epilators",
     "label": "Epilators",
     "items": [
@@ -1734,6 +1686,11 @@
    {
     "key": "heating-pad",
     "label": "Heating Pad",
+    "items": []
+   },
+   {
+    "key": "deodorants",
+    "label": "Deodorants",
     "items": []
    }
   ],
@@ -2101,34 +2058,6 @@
     "label": "Printers",
     "items": [
      {
-      "asin": "B0H5BYV2NN",
-      "name": "TATTMUSE A28U Portable Printer Inkless",
-      "pct": 11,
-      "rating": 4.2,
-      "t": 1793460324,
-      "img": "https://m.media-amazon.com/images/I/717LvkVyAYL.jpg",
-      "link": "https://www.amazon.com/dp/B0H5BYV2NN?tag=zoepicks00-20",
-      "now": "49.98",
-      "was": "55.99",
-      "deal": "Limited time deal",
-      "reviews": 376,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DNTD1V62",
-      "name": "Inkless Portable Thermal Printer",
-      "pct": 10,
-      "rating": 4.0,
-      "t": 1793460324,
-      "img": "https://m.media-amazon.com/images/I/71wmQQjp2rL.jpg",
-      "link": "https://www.amazon.com/dp/B0DNTD1V62?tag=zoepicks00-20",
-      "now": "59.97",
-      "was": "66.99",
-      "deal": "Limited time deal",
-      "reviews": 5267,
-      "tier": "mid"
-     },
-     {
       "asin": "B0BWQYJWFG",
       "name": "Omezizy Bluetooth Shipping Label Printer",
       "pct": 25,
@@ -2138,8 +2067,7 @@
       "link": "https://www.amazon.com/dp/B0BWQYJWFG?tag=zoepicks00-20",
       "now": "74.98",
       "was": "99.99",
-      "reviews": 1066,
-      "tier": "premium"
+      "reviews": 1066
      }
     ]
    },
@@ -3296,36 +3224,7 @@
       "link": "https://www.amazon.com/dp/B087R37LZ2?tag=zoepicks00-20",
       "now": "21.58",
       "was": "25.98",
-      "reviews": 3962,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GHN9K6FY",
-      "name": "RealCool 20L Lightweight Hiking Backpack",
-      "pct": 10,
-      "rating": 4.5,
-      "t": 1793460279,
-      "img": "https://m.media-amazon.com/images/I/716bchjg1kL.jpg",
-      "link": "https://www.amazon.com/dp/B0GHN9K6FY?tag=zoepicks00-20",
-      "now": "26.92",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 166,
-      "tier": "mid"
-     },
-     {
-      "asin": "B087RF22S8",
-      "name": "QT&QY 45L Military Tactical Backpacks Molle Army Assault…",
-      "pct": 10,
-      "rating": 4.7,
-      "t": 1793460279,
-      "img": "https://m.media-amazon.com/images/I/71w8D+7nUDL.jpg",
-      "link": "https://www.amazon.com/dp/B087RF22S8?tag=zoepicks00-20",
-      "now": "32.39",
-      "was": "35.99",
-      "deal": "Limited time deal",
-      "reviews": 16379,
-      "tier": "premium"
+      "reviews": 3962
      }
     ]
    },
