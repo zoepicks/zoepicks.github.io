@@ -4188,5 +4188,17 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best E-Reader Tablet (2026)",
+  "slug": "best-e-reader-tablet-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tablets-2026",
+  "tab": "e-reader",
+  "tab_label": "E Reader"
  }
 ]
