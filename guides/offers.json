@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-02T13:28:09Z",
+ "updated": "2026-11-02T15:28:26Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -165,16 +165,16 @@
   ],
   "fitness_outdoor": [
    {
-    "asin": "B0F5SK7PW5",
-    "name": "ENCOOL Insulated Water Bottle",
-    "pct": 28,
-    "rating": 4.5,
-    "t": 1793535659,
-    "img": "https://m.media-amazon.com/images/I/61xQXt-8xML.jpg",
-    "link": "https://www.amazon.com/dp/B0F5SK7PW5?tag=zoepicks00-20",
-    "now": "12.97",
-    "was": "17.99",
-    "reviews": 2516,
+    "asin": "B0FFJDWB9W",
+    "name": "Ello Pop & Fill 18oz Stainless Steel Kids Water Bottle",
+    "pct": 46,
+    "rating": 4.0,
+    "t": 1793632871,
+    "img": "https://m.media-amazon.com/images/I/51tvXOxX4vL.jpg",
+    "link": "https://www.amazon.com/dp/B0FFJDWB9W?tag=zoepicks00-20",
+    "now": "12.49",
+    "was": "22.99",
+    "reviews": 816,
     "tier": "budget"
    },
    {
@@ -317,6 +317,17 @@
   ],
   "home_kitchen": [
    {
+    "asin": "B0HDTWN22Q",
+    "name": "Synvox Vacuum Sealer",
+    "pct": 60,
+    "rating": 4.9,
+    "t": 1793599368,
+    "img": "https://m.media-amazon.com/images/I/71t-Ag1l03L.jpg",
+    "link": "https://www.amazon.com/dp/B0HDTWN22Q?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
     "asin": "B0H82LC1DN",
     "name": "BSRCO Car Vacuum Portable Cordless",
     "pct": 73,
@@ -328,20 +339,6 @@
     "was": "149.99",
     "deal": "Limited time deal",
     "reviews": 102,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0HDYY4XRV",
-    "name": "8-In-1 Automatic Vacuum Sealer Machine",
-    "pct": 64,
-    "rating": 4.8,
-    "t": 1793546306,
-    "img": "https://m.media-amazon.com/images/I/71VlOBep+xL.jpg",
-    "link": "https://www.amazon.com/dp/B0HDYY4XRV?tag=zoepicks00-20",
-    "now": "47.99",
-    "was": "134.99",
-    "deal": "Limited time deal",
-    "reviews": 28,
     "tier": "mid"
    },
    {
@@ -2526,6 +2523,51 @@
   ],
   "fitness_outdoor": [
    {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B0FFJDWB9W",
+      "name": "Ello Pop & Fill 18oz Stainless Steel Kids Water Bottle",
+      "pct": 46,
+      "rating": 4.0,
+      "t": 1793632871,
+      "img": "https://m.media-amazon.com/images/I/51tvXOxX4vL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFJDWB9W?tag=zoepicks00-20",
+      "now": "12.49",
+      "was": "22.99",
+      "reviews": 816,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F5SK7PW5",
+      "name": "ENCOOL Insulated Water Bottle",
+      "pct": 28,
+      "rating": 4.5,
+      "t": 1793535659,
+      "img": "https://m.media-amazon.com/images/I/61xQXt-8xML.jpg",
+      "link": "https://www.amazon.com/dp/B0F5SK7PW5?tag=zoepicks00-20",
+      "now": "12.97",
+      "was": "17.99",
+      "reviews": 2516,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09LM66KKF",
+      "name": "CIVAGO 64 oz Insulated Stainless Steel Water Bottle With…",
+      "pct": 22,
+      "rating": 4.6,
+      "t": 1793513235,
+      "img": "https://m.media-amazon.com/images/I/71UwWJBB5yL.jpg",
+      "link": "https://www.amazon.com/dp/B09LM66KKF?tag=zoepicks00-20",
+      "now": "20.98",
+      "was": "26.99",
+      "reviews": 12127,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "scooter",
     "label": "Scooter",
     "items": [
@@ -2636,51 +2678,6 @@
       "now": "119.99",
       "was": "159.99",
       "reviews": 7816
-     }
-    ]
-   },
-   {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B0F5SK7PW5",
-      "name": "ENCOOL Insulated Water Bottle",
-      "pct": 28,
-      "rating": 4.5,
-      "t": 1793535659,
-      "img": "https://m.media-amazon.com/images/I/61xQXt-8xML.jpg",
-      "link": "https://www.amazon.com/dp/B0F5SK7PW5?tag=zoepicks00-20",
-      "now": "12.97",
-      "was": "17.99",
-      "reviews": 2516,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CP7PPVWB",
-      "name": "Konokyo 40 oz Insulated Tumbler Water Bottle",
-      "pct": 15,
-      "rating": 4.6,
-      "t": 1793533194,
-      "img": "https://m.media-amazon.com/images/I/61sfIhZqIsL.jpg",
-      "link": "https://www.amazon.com/dp/B0CP7PPVWB?tag=zoepicks00-20",
-      "now": "13.23",
-      "was": "15.56",
-      "reviews": 6319,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09LM66KKF",
-      "name": "CIVAGO 64 oz Insulated Stainless Steel Water Bottle With…",
-      "pct": 22,
-      "rating": 4.6,
-      "t": 1793513235,
-      "img": "https://m.media-amazon.com/images/I/71UwWJBB5yL.jpg",
-      "link": "https://www.amazon.com/dp/B09LM66KKF?tag=zoepicks00-20",
-      "now": "20.98",
-      "was": "26.99",
-      "reviews": 12127,
-      "tier": "premium"
      }
     ]
    },
@@ -3314,17 +3311,16 @@
     "label": "Vacuums",
     "items": [
      {
-      "asin": "B0HB4F28VM",
-      "name": "Evekas Handheld Vacuum Cordless",
-      "pct": 40,
-      "rating": 4.9,
-      "t": 1793550072,
-      "img": "https://m.media-amazon.com/images/I/71+csgexeSL.jpg",
-      "link": "https://www.amazon.com/dp/B0HB4F28VM?tag=zoepicks00-20",
-      "now": "35.98",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 95,
+      "asin": "B0FFJDWB9W",
+      "name": "Ello Pop & Fill 18oz Stainless Steel Kids Water Bottle",
+      "pct": 46,
+      "rating": 4.0,
+      "t": 1793632871,
+      "img": "https://m.media-amazon.com/images/I/51tvXOxX4vL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFJDWB9W?tag=zoepicks00-20",
+      "now": "12.49",
+      "was": "22.99",
+      "reviews": 816,
       "tier": "budget"
      },
      {
