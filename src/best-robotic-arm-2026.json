@@ -4,8 +4,18 @@
  "category": "toys_kids",
  "date": "Nov 2, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the collaborative robot arm models listed in source [6] and ranked by relevance to small‑scale assembly, favoring those mentioned most prominently.",
- "assumptions": "No pricing information was available, so cost considerations are omitted.",
+ "method": "Picks were based on products mentioned in PCMag (0), CNET (1) and Elephant Robotics (5).",
+ "assumptions": "No price info was used except where explicitly stated; all other details come directly from the sources.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70",
+  "line": "Buy it if you want a robot that vacuums, mops and can pick up small items. It offers strong suction, mapping and an OmniGrip arm, but the arm still struggles with object handling and software bugs.",
+  "also": [
+   [
+    "Most hobby‑friendly kit",
+    "myCobot 280"
+   ]
+  ]
+ },
  "draft": true
 }

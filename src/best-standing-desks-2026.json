@@ -272,6 +272,64 @@
    "tabs": [
     "computer"
    ]
+  },
+  {
+   "name": "Songmics Adjustable Bamboo Lap Desk",
+   "short": "Songmics Bamboo",
+   "badge": "Best Eco‑Friendly",
+   "why": [
+    "Made from bamboo.",
+    "Adjustable height."
+   ],
+   "desc": "The Songmics Adjustable Bamboo Lap Desk is a lap desk made from bamboo that can be adjusted in height. It is suitable for users who want an eco‑friendly option.",
+   "benefit": "Picture a student who prefers a natural material for their study surface. The Songmics desk is made from bamboo and can be adjusted to the right height, reducing neck strain. It outperforms the Mind Reader because it offers height adjustment and is more eco‑friendly. The catch: it is small and may not fit all users.",
+   "specs": [
+    "Made from bamboo",
+    "Adjustable height"
+   ],
+   "pros": [
+    "Made from bamboo",
+    "Adjustable height"
+   ],
+   "cons": [
+    "Small size"
+   ],
+   "best_for": "students and eco‑conscious users",
+   "skip_if": "you need a large tabletop",
+   "link": "https://www.amazon.com/s?k=Songmics+Adjustable+Bamboo+Lap+Desk&tag=zoepicks00-20",
+   "tabs": [
+    "over-bed"
+   ]
+  },
+  {
+   "name": "Cushioned Lap Desk (Lap Desk Pillow)",
+   "short": "Cushioned Lap Desk",
+   "badge": "Best Comfort",
+   "why": [
+    "Soft, sofa‑like comfort with arm support.",
+    "Lightweight."
+   ],
+   "desc": "The Cushioned Lap Desk is a lap desk that provides soft, sofa‑like comfort with arm support. It is lightweight and easy to place directly on the lap.",
+   "benefit": "Picture a gamer who wants a comfortable lap desk while playing on a sofa. The cushioned lap desk offers soft, sofa‑like comfort and arm support, making it very comfortable for long sessions. It wins against the Saiji desk because it is lighter and more portable. The catch: it only works in one fixed position.",
+   "specs": [
+    "Soft, sofa‑like comfort",
+    "Arm support",
+    "Lightweight"
+   ],
+   "pros": [
+    "Soft comfort",
+    "Arm support",
+    "Lightweight"
+   ],
+   "cons": [
+    "Fixed position"
+   ],
+   "best_for": "gamers and casual users",
+   "skip_if": "you need adjustability",
+   "link": "https://www.amazon.com/s?k=Cushioned+Lap+Desk+%28Lap+Desk+Pillow%29&tag=zoepicks00-20",
+   "tabs": [
+    "over-bed"
+   ]
   }
  ],
  "tabs": [
@@ -282,6 +340,10 @@
   {
    "key": "computer",
    "label": "Computer"
+  },
+  {
+   "key": "over-bed",
+   "label": "Over Bed"
   }
  ]
 }

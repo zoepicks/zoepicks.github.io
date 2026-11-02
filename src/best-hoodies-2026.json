@@ -212,6 +212,70 @@
    "tabs": [
     "college"
    ]
+  },
+  {
+   "name": "Bape Hoodie",
+   "short": "Bape Hoodie",
+   "badge": "Best Overall",
+   "why": [
+    "The Bape hoodie is made from 100% cotton with a weight that feels substantial and built to last.",
+    "Its seams are clean and the subtle logo on the chest adds personality without being loud."
+   ],
+   "desc": "The Bape hoodie is a 100% cotton garment with a substantial weight, clean seams, a well‑proportioned hood, and a subtle chest logo.",
+   "benefit": "Picture a casual day out where you need a comfortable yet stylish hoodie. The Bape hoodie offers a 100% cotton fabric that feels substantial and durable, with clean seams and a well‑proportioned hood. It wins over the other picks because it combines comfort, style, and a fit that isn’t too tight or too loose. The catch: it may be heavier than some other hoodies, which could feel bulky for very active wear.",
+   "specs": [
+    "100% cotton",
+    "substantial weight",
+    "clean seams",
+    "subtle chest logo"
+   ],
+   "pros": [
+    "Substantial weight for durability",
+    "Clean seams",
+    "Well‑proportioned hood",
+    "Subtle logo"
+   ],
+   "cons": [
+    "Heavier than some hoodies",
+    "May feel bulky for active wear"
+   ],
+   "best_for": "Casual wearers who value comfort and style",
+   "skip_if": "You need a lightweight hoodie for intense activity",
+   "link": "https://www.amazon.com/s?k=Bape+Hoodie&tag=zoepicks00-20",
+   "tabs": [
+    "bape"
+   ]
+  },
+  {
+   "name": "Champion Weighted Hoodie",
+   "short": "Champion Weighted Hoodie",
+   "badge": "Mental Health",
+   "why": [
+    "Weighted hoodie prototype with microbeads.",
+    "Aims to ease anxiety."
+   ],
+   "desc": "The Champion Weighted Hoodie is a prototype weighted hoodie using microbeads to provide calming benefits.",
+   "benefit": "Picture a stressful day where you need calming relief. The Champion weighted hoodie uses microbeads to ease anxiety, offering wearable relaxation similar to a weighted blanket. It stands out by targeting mental health, unlike other hoodies. The catch: it is a prototype and may not yet be widely available.",
+   "specs": [
+    "Weighted with microbeads",
+    "Prototype",
+    "Aims to ease anxiety"
+   ],
+   "pros": [
+    "Weighted for calming",
+    "Microbeads",
+    "Prototype for mental health"
+   ],
+   "cons": [
+    "Prototype",
+    "Limited availability"
+   ],
+   "best_for": "Those seeking anxiety relief",
+   "skip_if": "You need a standard hoodie",
+   "link": "https://www.amazon.com/s?k=Champion+Weighted+Hoodie&tag=zoepicks00-20",
+   "tabs": [
+    "bape"
+   ]
   }
  ],
  "tips": {
@@ -257,6 +321,10 @@
   {
    "key": "college",
    "label": "College"
+  },
+  {
+   "key": "bape",
+   "label": "Bape"
   }
  ]
 }

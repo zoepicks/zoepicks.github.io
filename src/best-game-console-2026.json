@@ -2,10 +2,104 @@
  "slug": "best-game-console-2026",
  "title": "Best Game Console (2026)",
  "category": "gaming",
- "date": "Nov 1, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "No valid data to evaluate.",
- "assumptions": "None",
- "products": [],
- "draft": true
+ "date": "Nov 2, 2026",
+ "summary": "The guide lists the top handheld game consoles for 2026, highlighting the Nintendo Switch 2 as the overall leader.",
+ "method": "Products were selected from TechRadar, Tom’s Hardware, IGN, and PC Gamer reviews, prioritising items mentioned by multiple sites.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Nintendo Switch 2",
+   "short": "Switch 2",
+   "badge": "Best Overall",
+   "why": [
+    "Nintendo’s latest portable hybrid is highlighted as the primary recommendation in TechRadar’s handheld guide.",
+    "It is also mentioned in Tom’s Hardware as a top handheld option with a free game deal."
+   ],
+   "desc": "The Switch 2 is a hybrid console that can be used as a handheld or docked to a TV. It features a new controller layout and a larger screen than its predecessor. It does not include a built‑in dock for TV play.",
+   "benefit": "Picture a family gathering where everyone can play together on a single screen. The Switch 2 offers a hybrid design that lets you play on a TV or on the go, making it ideal for shared moments. It also has a large library of games and a proven controller layout. The catch: it still relies on a proprietary dock for full TV play.",
+   "specs": [
+    "Hybrid handheld/console design",
+    "Large screen",
+    "Proprietary dock"
+   ],
+   "pros": [
+    "Hybrid play",
+    "Large game library",
+    "Proven controller"
+   ],
+   "cons": [
+    "Requires proprietary dock for TV play",
+    "No mention of battery life"
+   ],
+   "best_for": "Families and casual gamers",
+   "skip_if": "You need a fully portable device with long battery life",
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch%C2%A02&tag=zoepicks00-20"
+  },
+  {
+   "name": "Asus ROG Xbox Ally X",
+   "short": "Ally X",
+   "badge": "Best OLED display",
+   "why": [
+    "IGN lists it as one of the best handheld gaming PCs.",
+    "PC Gamer notes its OLED screen as a standout feature."
+   ],
+   "desc": "The Ally X is a handheld gaming PC that runs Windows and features an OLED display. It includes a new Xbox Full Screen Experience and a comfortable design. It does not have a built‑in dock for TV play.",
+   "benefit": "Picture a solo gamer who wants a portable PC with a vibrant screen. The Ally X delivers a sharp OLED display and a comfortable grip, making long sessions more enjoyable. It also runs Windows, giving access to a wide range of PC games. The catch: it lacks a built‑in dock for TV play.",
+   "specs": [
+    "Windows OS",
+    "OLED display",
+    "Xbox Full Screen Experience"
+   ],
+   "pros": [
+    "OLED screen",
+    "Comfortable design",
+    "Windows compatibility"
+   ],
+   "cons": [
+    "No built‑in dock",
+    "Limited battery life"
+   ],
+   "best_for": "PC gamers on the go",
+   "skip_if": "You need a dock for TV play",
+   "link": "https://www.amazon.com/s?k=Asus+ROG+Xbox+Ally%C2%A0X&tag=zoepicks00-20"
+  },
+  {
+   "name": "MSI Claw 8 EX AI+",
+   "short": "Claw 8",
+   "badge": "Best high‑performance",
+   "why": [
+    "IGN lists it as one of the best handheld gaming PCs.",
+    "PC Gamer notes its high performance."
+   ],
+   "desc": "The Claw 8 EX AI+ is a handheld gaming PC that runs Windows and features a powerful processor and AI enhancements. It offers high performance for AAA games. It does not have a built‑in dock for TV play.",
+   "benefit": "Picture a hardcore gamer who wants to play the latest AAA titles on a portable device. The Claw 8 EX AI+ delivers high performance and AI features, making it suitable for demanding games. It also runs Windows, giving access to a wide range of titles. The catch: it lacks a built‑in dock for TV play.",
+   "specs": [
+    "Windows OS",
+    "High‑performance processor",
+    "AI enhancements"
+   ],
+   "pros": [
+    "High performance",
+    "AI features",
+    "Windows compatibility"
+   ],
+   "cons": [
+    "No built‑in dock",
+    "Limited battery life"
+   ],
+   "best_for": "Hardcore PC gamers",
+   "skip_if": "You need a dock for TV play",
+   "link": "https://www.amazon.com/s?k=MSI+Claw%C2%A08+EX+AI%2B&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Nintendo Switch 2",
+  "line": "Picture a family gathering where everyone can play together on a single screen. The Switch 2 offers a hybrid design that lets you play on a TV or on the go, making it ideal for shared moments. It also has a large library of games and a proven controller layout. The catch: it still relies on a proprietary dock for full TV play.",
+  "also": [
+   [
+    "Best OLED display",
+    "Asus ROG Xbox Ally X"
+   ]
+  ]
+ }
 }

@@ -2,10 +2,83 @@
  "slug": "best-makeup-palette-2026",
  "title": "Best Makeup Palette (2026)",
  "category": "beauty_health",
- "date": "Nov 1, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "None",
- "assumptions": "No price data",
- "products": [],
- "draft": true
+ "date": "Nov 2, 2026",
+ "summary": "A concise guide to the top makeup palettes of 2026.",
+ "method": "Selections were made by reviewing the listed sources and choosing products mentioned by more than one source, prioritizing those with the most detailed descriptions.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Well People Eyeshadow Palette",
+   "short": "Well People",
+   "badge": "Best For Matte & Shimmer",
+   "why": [
+    "Well People is named the best for matte & shimmer palette in The Good Trade article.",
+    "It offers both matte and shimmer shades."
+   ],
+   "desc": "Well People is an eyeshadow palette that includes both matte and shimmer shades. It is designed for quick, polished application.",
+   "benefit": "Picture a makeup artist who needs a quick, polished look for clients. The palette offers both matte and shimmer shades, allowing for versatile looks. It outperforms other picks by providing a wide range of finishes in a single palette. The catch: it may not have as many shades as larger palettes.",
+   "specs": [
+    "Matte shades",
+    "Shimmer shades"
+   ],
+   "pros": [
+    "Versatile finishes",
+    "Quick application"
+   ],
+   "cons": [
+    "Limited shade count"
+   ],
+   "best_for": "Makeup artists and quick looks",
+   "skip_if": "You need a very large color selection",
+   "link": "https://www.amazon.com/s?k=Well+People+Eyeshadow+Palette&tag=zoepicks00-20"
+  },
+  {
+   "name": "ILIA Eyeshadow Palette",
+   "short": "ILIA",
+   "badge": "Best For Quick Application",
+   "why": [
+    "ILIA is named the best for quick application in The Good Trade article.",
+    "It offers a quick application experience."
+   ],
+   "desc": "ILIA is an eyeshadow palette designed for quick application. It focuses on ease of use.",
+   "benefit": "Picture a busy student who needs a fast, effortless makeup routine. The palette’s quick application allows for a polished look in minutes. It beats other picks by being specifically optimized for speed. The catch: it may lack depth in color variety.",
+   "specs": [
+    "Quick application"
+   ],
+   "pros": [
+    "Fast blending",
+    "Easy to use"
+   ],
+   "cons": [
+    "Limited color variety"
+   ],
+   "best_for": "Busy students and quick routines",
+   "skip_if": "You need a wide range of shades",
+   "link": "https://www.amazon.com/s?k=ILIA+Eyeshadow+Palette&tag=zoepicks00-20"
+  },
+  {
+   "name": "Cheekbone Beauty Eyeshadow Palette",
+   "short": "Cheekbone Beauty",
+   "badge": "Best For Affordable Pencils",
+   "why": [
+    "Cheekbone Beauty is named the best for affordable pencils in The Good Trade article.",
+    "It offers affordable options."
+   ],
+   "desc": "Cheekbone Beauty is an eyeshadow palette that focuses on affordable pencil shades.",
+   "benefit": "Picture a budget-conscious makeup lover who wants affordable yet effective eye shades. The palette offers cost-effective options without compromising on quality. It stands out by being the most affordable among the picks. The catch: it may not have the same depth of finish as higher-priced palettes.",
+   "specs": [
+    "Affordable pencils"
+   ],
+   "pros": [
+    "Low cost",
+    "Good quality"
+   ],
+   "cons": [
+    "Limited finish options"
+   ],
+   "best_for": "Budget-conscious buyers",
+   "skip_if": "You need premium finishes",
+   "link": "https://www.amazon.com/s?k=Cheekbone+Beauty+Eyeshadow+Palette&tag=zoepicks00-20"
+  }
+ ]
 }
