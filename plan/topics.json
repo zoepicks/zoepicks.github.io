@@ -3917,5 +3917,35 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Dior Perfume (2026)",
+  "slug": "best-dior-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "dior",
+  "tab_label": "Dior"
+ },
+ {
+  "title": "Best Kayak (2026)",
+  "slug": "best-kayak-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Laptop Docking Station (2026)",
+  "slug": "best-laptop-docking-station-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
