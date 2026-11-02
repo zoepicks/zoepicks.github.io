@@ -3883,7 +3883,7 @@
   "slug": "best-mac-mini-desktop-2026",
   "category": "other",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  },
@@ -3892,7 +3892,7 @@
   "slug": "best-small-bluetooth-speaker-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-bluetooth-speakers-2026",
@@ -3906,14 +3906,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 2, 2026"
  },
  {
   "title": "Best Hair Raising Headband (2026)",
   "slug": "best-hair-raising-headband-2026",
   "category": "beauty_health",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  }

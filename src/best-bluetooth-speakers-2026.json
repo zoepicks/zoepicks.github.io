@@ -2,7 +2,7 @@
  "slug": "best-bluetooth-speakers-2026",
  "title": "Top Portable Bluetooth Speakers (2026)",
  "category": "electronics",
- "date": "Oct 18, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The top portable Bluetooth speakers of 2026 combine rugged durability, powerful sound, and smart connectivity, with Bose, Anker, Creative, Beats, and Marshall offering the best options for every use case.",
  "method": "I selected products that appear in at least two of the provided sources, prioritizing those highlighted as best overall, best value, or best sound. The sites used were TechRadar, Tom’s Guide, PCMag, CNET, and RTINGS.",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null. Deal notes are taken directly from any discount or limited‑time offer mentioned in the excerpts.",
@@ -77,7 +77,10 @@
    "amazon_listing": "Bose SoundLink Plus Portable Bluetooth Speaker, Wireless Outdoor Speaker, Up to 20 Hours B",
    "amazon_rating": "4.6",
    "amazon_reviews": 1380,
-   "amazon_rating_asof": "Nov 1, 2026"
+   "amazon_rating_asof": "Nov 1, 2026",
+   "tabs": [
+    "small"
+   ]
   },
   {
    "name": "Marshall Bromley 450",
@@ -113,6 +116,63 @@
    "amazon_rating": "4.6",
    "amazon_reviews": 11,
    "amazon_rating_asof": "Oct 28, 2026"
+  },
+  {
+   "name": "Ultimate Ears WONDERBOOM 4",
+   "short": "WONDERBOOM 4",
+   "badge": "Best Small Bluetooth Speaker",
+   "why": [
+    "RTINGS.com lists the WONDERBOOM 4 as the top small Bluetooth speaker they tested, noting its compact size and solid performance.",
+    "It is praised for its portability and durability, making it suitable for travel and outdoor use."
+   ],
+   "desc": "A small Bluetooth speaker with a compact, waterproof design. It offers Bluetooth connectivity and a built‑in battery for portable use.",
+   "benefit": "Picture a weekend camper who wants music without bulk. The WONDERBOOM 4 gives clear sound in a tiny, rugged case, so you can take it anywhere. It beats the other picks on size and water resistance, being the only truly pocket‑sized option here. The catch: it has less deep bass than larger speakers.",
+   "pros": [
+    "Very portable",
+    "Water‑resistant",
+    "Good sound for size"
+   ],
+   "cons": [
+    "Limited bass",
+    "No built‑in mic"
+   ],
+   "best_for": "Travelers and outdoor listeners",
+   "skip_if": "You need powerful bass for large rooms",
+   "link": "https://www.amazon.com/s?k=Ultimate+Ears+WONDERBOOM+4&tag=zoepicks00-20",
+   "tabs": [
+    "small"
+   ]
+  },
+  {
+   "name": "Beats Pill",
+   "short": "Beats Pill",
+   "badge": "Best Compact Design",
+   "why": [
+    "PCMag describes it as easy to swallow and suitable for poolside use, emphasizing its small, waterproof form factor."
+   ],
+   "desc": "A tiny Bluetooth speaker designed for portability with a waterproof exterior. It provides wireless audio for casual listening.",
+   "benefit": "Picture a pool party host who wants a speaker that fits in a cup holder. The Beats Pill’s tiny shape and water resistance let it sit beside the water without worry, making it the most compact choice here. The catch: its sound output is lower than the larger Bose model.",
+   "pros": [
+    "Very small",
+    "Water‑resistant",
+    "Easy to carry"
+   ],
+   "cons": [
+    "Lower volume",
+    "Limited bass"
+   ],
+   "best_for": "Poolside and travel",
+   "skip_if": "You need high volume",
+   "link": "https://www.amazon.com/s?k=Beats+Pill&tag=zoepicks00-20",
+   "tabs": [
+    "small"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "small",
+   "label": "Small"
   }
  ]
 }
