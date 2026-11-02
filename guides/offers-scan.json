@@ -4409,25 +4409,54 @@
   },
   "fitness_outdoor:home-gym-equipment": {
    "label": "Home Gym Equipment",
-   "tries": 8,
+   "tries": 9,
    "items": [
     {
-     "asin": "B0DRSVXM1S",
-     "name": "12 Pack 48 sqft Home Gym Mat",
-     "pct": 13,
-     "rating": 4.6,
-     "t": 1793456923,
-     "img": "https://m.media-amazon.com/images/I/71hEVa+DEDL.jpg",
-     "link": "https://www.amazon.com/dp/B0DRSVXM1S?tag=zoepicks00-20",
-     "now": "39.95",
-     "was": "45.95",
+     "asin": "B0HJ8SL37C",
+     "name": "WFLGFT Home Gym Workout Equipment",
+     "pct": 23,
+     "rating": 4.8,
+     "t": 1793646472,
+     "img": "https://m.media-amazon.com/images/I/71QHSaO4KkL.jpg",
+     "link": "https://www.amazon.com/dp/B0HJ8SL37C?tag=zoepicks00-20",
+     "now": "539.99",
+     "was": "699.99",
      "deal": "Limited time deal",
-     "reviews": 1821,
-     "_title": "12 Pack 48 sqft Home Gym Mat, Puzzle Exercise Mat, EVA Interlocking Foam Floor Tiles for Home Workout Equipment Black, 24 ...",
-     "_price": 39.95
+     "reviews": 72,
+     "_title": "WFLGFT Home Gym Workout Equipment, Multi Function Fitness Equipment | 148 LB Weight Stack, Full Body Workout Machine for L...",
+     "_price": 539.99
+    },
+    {
+     "asin": "B0DDX9Z6SN",
+     "name": "DONIUZ Power Tower Pull Up Bar and Dip Station",
+     "pct": 10,
+     "rating": 4.5,
+     "t": 1793646472,
+     "img": "https://m.media-amazon.com/images/I/61S5NA1k1BL.jpg",
+     "link": "https://www.amazon.com/dp/B0DDX9Z6SN?tag=zoepicks00-20",
+     "now": "161.99",
+     "was": "179.99",
+     "deal": "Limited time deal",
+     "reviews": 631,
+     "_title": "DONIUZ Power Tower Pull Up Bar and Dip Station, Multi-Function Home Gym, Strength Training Fitness Equipment, Height Adjus...",
+     "_price": 161.99
+    },
+    {
+     "asin": "B0DYMVWDPW",
+     "name": "JELENS Home Gym, Multifunctional H11 Home Gym Equipment",
+     "pct": 5,
+     "rating": 4.0,
+     "t": 1793646472,
+     "img": "https://m.media-amazon.com/images/I/713S+iUGTgL.jpg",
+     "link": "https://www.amazon.com/dp/B0DYMVWDPW?tag=zoepicks00-20",
+     "now": "484.49",
+     "was": "509.99",
+     "reviews": 124,
+     "_title": "JELENS Home Gym, Multifunctional H11 Home Gym Equipment, Workout Station with 150LBS Weight Stack, Exercise Equipment with...",
+     "_price": 484.49
     }
    ],
-   "scanned": "2026-10-31T14:28:43.885963+00:00",
+   "scanned": "2026-11-02T19:07:52.734167+00:00",
    "via": "sweep"
   },
   "accessories:wireless-mouse": {
