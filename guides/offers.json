@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-01T23:49:51Z",
+ "updated": "2026-11-02T00:20:27Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -43,30 +43,29 @@
   ],
   "beauty_health": [
    {
-    "asin": "B09SZ5JX2Y",
-    "name": "d'alba Piedmont White Truffle Double Serum All-in-one Multi…",
-    "pct": 65,
-    "rating": 4.5,
-    "t": 1793547290,
-    "img": "https://m.media-amazon.com/images/I/51PiPB7KKcL.jpg",
-    "link": "https://www.amazon.com/dp/B09SZ5JX2Y?tag=zoepicks00-20",
-    "now": "17.99",
-    "was": "51.40",
-    "reviews": 10670,
+    "asin": "B018ZXEO50",
+    "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
+    "pct": 83,
+    "rating": 4.6,
+    "t": 1793577312,
+    "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
+    "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
+    "now": "22.50",
+    "was": "132.35",
+    "reviews": 6664,
     "tier": "budget"
    },
    {
-    "asin": "B0HFZWDR7F",
-    "name": "Tulzim Electric Foil Shaver",
-    "pct": 64,
-    "rating": 4.7,
-    "t": 1793549859,
-    "img": "https://m.media-amazon.com/images/I/71+K9jC1i+L.jpg",
-    "link": "https://www.amazon.com/dp/B0HFZWDR7F?tag=zoepicks00-20",
-    "now": "35.99",
-    "was": "99.99",
-    "deal": "Limited time deal",
-    "reviews": 54,
+    "asin": "B000UB23YK",
+    "name": "Lancôme Définicils High Definition Defining & Lengthening…",
+    "pct": 78,
+    "rating": 4.4,
+    "t": 1793577312,
+    "img": "https://m.media-amazon.com/images/I/61UedJwc7VL.jpg",
+    "link": "https://www.amazon.com/dp/B000UB23YK?tag=zoepicks00-20",
+    "now": "25.50",
+    "was": "115.91",
+    "reviews": 6004,
     "tier": "mid"
    },
    {
@@ -1065,6 +1064,51 @@
   ],
   "beauty_health": [
    {
+    "key": "mascara",
+    "label": "Mascara",
+    "items": [
+     {
+      "asin": "B018ZXEO50",
+      "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
+      "pct": 83,
+      "rating": 4.6,
+      "t": 1793577312,
+      "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
+      "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
+      "now": "22.50",
+      "was": "132.35",
+      "reviews": 6664,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08TPCHYLW",
+      "name": "Lancôme Lash Idôle",
+      "pct": 73,
+      "rating": 4.4,
+      "t": 1793577312,
+      "img": "https://m.media-amazon.com/images/I/61jh-r2MLkL.jpg",
+      "link": "https://www.amazon.com/dp/B08TPCHYLW?tag=zoepicks00-20",
+      "now": "22.50",
+      "was": "83.33",
+      "reviews": 11127,
+      "tier": "mid"
+     },
+     {
+      "asin": "B000UB23YK",
+      "name": "Lancôme Définicils High Definition Defining & Lengthening…",
+      "pct": 78,
+      "rating": 4.4,
+      "t": 1793577312,
+      "img": "https://m.media-amazon.com/images/I/61UedJwc7VL.jpg",
+      "link": "https://www.amazon.com/dp/B000UB23YK?tag=zoepicks00-20",
+      "now": "25.50",
+      "was": "115.91",
+      "reviews": 6004,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "eye-makeup",
     "label": "Eye Makeup",
     "items": [
@@ -1078,8 +1122,7 @@
       "link": "https://www.amazon.com/dp/B09SZ5JX2Y?tag=zoepicks00-20",
       "now": "17.99",
       "was": "51.40",
-      "reviews": 10670,
-      "tier": "budget"
+      "reviews": 10670
      }
     ]
    },
@@ -2784,6 +2827,52 @@
       "now": "26.99",
       "was": "36.99",
       "reviews": 13934,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "medium-luggage",
+    "label": "Medium Luggage",
+    "items": [
+     {
+      "asin": "B07CVDZNYJ",
+      "name": "Coolife Medium Checked Luggage Hardside Suitcase",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1793577331,
+      "img": "https://m.media-amazon.com/images/I/61BTCFjT5TL.jpg",
+      "link": "https://www.amazon.com/dp/B07CVDZNYJ?tag=zoepicks00-20",
+      "now": "69.99",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 3152,
+      "tier": "budget"
+     },
+     {
+      "asin": "B013WFNZRE",
+      "name": "Samsonite Omni PC Hardside Expandable Luggage",
+      "pct": 22,
+      "rating": 4.4,
+      "t": 1793577331,
+      "img": "https://m.media-amazon.com/images/I/91i3upw+o6L.jpg",
+      "link": "https://www.amazon.com/dp/B013WFNZRE?tag=zoepicks00-20",
+      "now": "119.00",
+      "was": "153.50",
+      "reviews": 30262,
+      "tier": "mid"
+     },
+     {
+      "asin": "B08RQJ96SK",
+      "name": "Samsonite Omni 2 Hardside Expandable Luggage",
+      "pct": 9,
+      "rating": 4.5,
+      "t": 1793577331,
+      "img": "https://m.media-amazon.com/images/I/81HQ2gGcmDL.jpg",
+      "link": "https://www.amazon.com/dp/B08RQJ96SK?tag=zoepicks00-20",
+      "now": "122.84",
+      "was": "135.52",
+      "reviews": 1239,
       "tier": "premium"
      }
     ]
