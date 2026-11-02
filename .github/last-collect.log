@@ -1,6 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-webcams-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wedding-dress-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-weighted-blanket-2026/durable/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-white-refrigerator-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-whiteboard-2026/index.html
@@ -16,25 +13,25 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-couch-2026 draft
-[collect] progress: guide 2 done (best-couch-2026) | tried 2 | tavily keys alive 4/4
-[collect] topic: Best Robotic Arm (2026)
-[collect] tavily -> 2 pages
-[collect] 2/2 source pages fetched
+[collect] done: best-computer-desk-2026 -> tab 'computer' of best-standing-desks-2026 (+3 new, 0 already there)
+[collect] progress: guide 2 done (best-computer-desk-2026) | tried 2 | tavily keys alive 4/4
+[collect] topic: Best Macbook Case (2026)
+[collect] tavily -> 4 pages
+[collect] browser fetch 9000 chars: https://www.rtings.com/laptop/reviews/apple/macbook-pro-14-m5-2025
+[collect] 4/4 source pages fetched
+[collect] reddit fail laptopdeals Expecting value: line 1 column 1 (char 0)
+[collect] reddit fail buildapcsales Expecting value: line 1 column 1 (char 0)
+[collect] llm request: 4 sources x 1625 chars, ~2972 in + 4000 out tokens (budget 7000)
+[collect] llm key ...4zVi openai/gpt-oss-120b DAILY limit limit 200,000 used 197,111 requested 3,762 -> skipped for this run
+[collect] drop (only 1 sources): Inateck Laptop Case
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 4 total (electromaker.io, techadvisor.com)
-[collect] llm request: 4 sources x 1626 chars, ~2973 in + 4000 out tokens (budget 7000)
-[collect] open web (tavily) -> 15 results
-[collect] http 502 https://antonrobots.com/top-robotic-arm-manufacturers
-[collect] browser fail https://antonrobots.com/top-robotic-arm-manufacturers Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://antonrobots.com/top-robotic-arm-manufacturers
-Call log:
-  - navigating to "https://antonrobots.com/top-robotic-arm-manufacturers", waiting until "domcontentloaded"
-
-[collect] extra sources: +2 readable page(s) -> 6 total (evsint.com, shop.elephantrobotics.com)
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-laptop-macbook-sleeves-cases
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-laptop-macbook-sleeves-cases
+[collect] extra sources: +2 readable page(s) -> 6 total (techgearlab.com, creativebloq.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2962 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 199,518 requested 2,469 -> skipped for this run
-[collect] only 1 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2961 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): KECC Leather MacBook Pro Case
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -177,6 +174,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hiking-backpac
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hiking-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-home-gym-equipment-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hoodies-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hoodies-2026/college/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hot-tub-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-humidifiers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-ice-maker-2026/index.html
@@ -215,6 +213,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-mini-desktop-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-brush-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-makeup-palette-2026/index.html
@@ -322,6 +321,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-soundbars-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-space-heaters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stand-mixers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-standing-desks-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-standing-desks-2026/computer/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stanley-lunch-box-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steam-mop-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-steamdeck-dock-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-robotic-arm-2026 draft
-[collect] progress: guide 3 done (best-robotic-arm-2026) | tried 3 | tavily keys alive 4/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,518 requested 2,469"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] done: best-macbook-case-2026 draft
+[collect] progress: guide 3 done (best-macbook-case-2026) | tried 3 | tavily keys alive 4/4
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,446 requested 2,475", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,815 requested 2,538", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 198,560 requested 3,137", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,714 requested 4,400", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,111 requested 3,762"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 3 guide(s) built, 3 topic(s) tried

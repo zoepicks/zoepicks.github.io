@@ -4053,7 +4053,7 @@
   "slug": "best-college-hoodie-2026",
   "category": "fashion",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-hoodies-2026",
@@ -4065,7 +4065,7 @@
   "slug": "best-computer-desk-2026",
   "category": "furniture_decor",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads",
   "parent": "best-standing-desks-2026",
@@ -4079,6 +4079,7 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 2, 2026"
  }
 ]

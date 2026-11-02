@@ -2,7 +2,7 @@
  "slug": "best-hoodies-2026",
  "title": "Top Hoodies for Cold Days (2026)",
  "category": "fashion",
- "date": "Oct 16, 2026",
+ "date": "Nov 2, 2026",
  "summary": "Gear Patrol and Men's Health both recommend the Flint and Tinder 10-Year Pullover, Champion Reverse Weave, Reigning Champ Midweight Terry and Everlane ReTrack, with Flint and Tinder as Gear Patrol's best overall hoodie.",
  "method": "Only hoodies that both guides recommend made this list. Gear Patrol's men's hoodie guide (published and last updated March 2024) tested dozens of hoodies as base layers, mid-layers and on their own. Men's Health says its style editors have worn over 50 hoodies since 2020 for at least two weeks each. Four hoodies appear in both: Flint and Tinder, Champion, Reigning Champ and Everlane. The Men's Health copy we read has no visible update date.",
  "assumptions": "The Gear Patrol guide is from 2024, so its prices and colors may have changed, and we quote the price each source showed instead of today's price. Some of these brands sell mainly on their own sites, so the Amazon link may open a search that does not list the exact hoodie. Neither source is a lab test of warmth, so for cold days we only repeat what they say about fabric weight and fit.",
@@ -119,6 +119,99 @@
    "amazon_rating_asof": "Nov 1, 2026",
    "image": "https://m.media-amazon.com/images/I/71mtLUOGLlL.jpg",
    "image_asin": "B0DFYYGRS9"
+  },
+  {
+   "name": "Champion Reverse Weave Fleece Pullover",
+   "short": "Reverse Weave",
+   "badge": "Best Budget",
+   "why": [
+    "Champion Reverse Weave is listed as the Best Budget hoodie by MensHealth.com.",
+    "It is described as a comfortable pullover made from fleece."
+   ],
+   "desc": "The Reverse Weave is a fleece pullover with a hood, designed for comfort.",
+   "benefit": "Picture a college student who wants a warm hoodie without breaking the bank. The Reverse Weave provides a cozy feel and a classic look at a lower price point. It wins against higher‑priced options because it offers similar comfort for less. The catch: it may not be as durable as some premium brands.",
+   "specs": [
+    "Fleece material",
+    "Comfortable fit",
+    "Affordable"
+   ],
+   "pros": [
+    "Comfortable",
+    "Affordable",
+    "Classic look"
+   ],
+   "cons": [
+    "Less durable",
+    "Basic design"
+   ],
+   "best_for": "Budget‑conscious students",
+   "skip_if": "You need premium fabric or advanced features",
+   "link": "https://www.amazon.com/s?k=Champion+Reverse+Weave+Fleece+Pullover&tag=zoepicks00-20",
+   "tabs": [
+    "college"
+   ]
+  },
+  {
+   "name": "Reigning Champ Midweight Terry Standard Hoodie",
+   "short": "Reigning Champ",
+   "badge": "Most Durable",
+   "why": [
+    "Reigning Champ is labeled Most Durable by MensHealth.com.",
+    "It is a midweight terry hoodie designed for long‑lasting wear."
+   ],
+   "desc": "The Reigning Champ hoodie is a midweight terry pullover with a hood, built for durability.",
+   "benefit": "Picture a worker who needs a hoodie that can withstand frequent washing and rough use. The Reigning Champ offers a sturdy construction and a durable fabric that outlasts many competitors. It outperforms other picks in longevity. The catch: it may feel heavier than lighter options.",
+   "specs": [
+    "Midweight terry fabric",
+    "Durable construction",
+    "Heavyweight"
+   ],
+   "pros": [
+    "Long‑lasting",
+    "Sturdy build",
+    "Comfortable"
+   ],
+   "cons": [
+    "Heavier weight",
+    "Less breathable"
+   ],
+   "best_for": "People needing a tough, long‑lasting hoodie",
+   "skip_if": "You prefer a lightweight, breathable hoodie",
+   "link": "https://www.amazon.com/s?k=Reigning+Champ+Midweight+Terry+Standard+Hoodie&tag=zoepicks00-20",
+   "tabs": [
+    "college"
+   ]
+  },
+  {
+   "name": "Carhartt Rain Defender Loose Fit Heavyweight Hoodie",
+   "short": "Rain Defender",
+   "badge": "Best Heavyweight",
+   "why": [
+    "Carhartt Rain Defender is listed as Best Heavyweight by MensHealth.com.",
+    "It is a loose‑fit, heavyweight hoodie designed for cold weather."
+   ],
+   "desc": "The Rain Defender is a loose‑fit, heavyweight pullover with a hood, built for extreme cold.",
+   "benefit": "Picture a hiker who needs a hoodie that keeps them warm in harsh conditions. The Rain Defender offers a loose fit and heavyweight construction for maximum warmth, outperforming lighter hoodies. The catch: it is heavier and less breathable than lighter options.",
+   "specs": [
+    "Loose fit",
+    "Heavyweight fabric",
+    "Warmth"
+   ],
+   "pros": [
+    "Very warm",
+    "Loose fit",
+    "Durable"
+   ],
+   "cons": [
+    "Heavy",
+    "Less breathable"
+   ],
+   "best_for": "Outdoor enthusiasts in cold weather",
+   "skip_if": "You need a lightweight, breathable hoodie",
+   "link": "https://www.amazon.com/s?k=Carhartt+Rain+Defender+Loose+Fit+Heavyweight+Hoodie&tag=zoepicks00-20",
+   "tabs": [
+    "college"
+   ]
   }
  ],
  "tips": {
@@ -159,5 +252,11 @@
    "Will a hoodie shrink in the wash?",
    "Both guides say Champion's reverse weave is made to resist shrinking. Gear Patrol also says Knickerbocker knits its fabric horizontally to prevent shrinkage, but that hoodie is not in Men's Health's list."
   ]
+ ],
+ "tabs": [
+  {
+   "key": "college",
+   "label": "College"
+  }
  ]
 }

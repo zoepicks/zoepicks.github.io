@@ -2,7 +2,7 @@
  "slug": "best-standing-desks-2026",
  "title": "Top Standing Desks That Don't Wobble (2026)",
  "category": "furniture_decor",
- "date": "Oct 23, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The Uplift V3 is the top choice for stability and features, while the FlexiSpot E7 and SecretLab Magnus Pro offer strong alternatives for heavy-duty use and gaming respectively.",
  "method": "Picks were selected based on recommendations from CNET, Business Insider, Tom's Guide, Top Ten Reviews, and TechRadar, prioritizing products recommended by multiple sources. Added from Amazon listing details (not from the review sources above): FlexiSpot E6 MAX.",
  "assumptions": "Prices are not provided in the source excerpts; availability and specific pricing may vary by retailer.",
@@ -179,12 +179,109 @@
    "tabs": [
     "loft-bed-with"
    ]
+  },
+  {
+   "name": "Secretlab Magnus Pro Standing Desk",
+   "short": "Magnus Pro",
+   "badge": "Best for Cable Management",
+   "why": [
+    "Tom’s Guide calls it an electric standing desk with a full-length cable management tray and integrated power. Wired notes its strong focus on cable clutter."
+   ],
+   "desc": "The Secretlab Magnus Pro is an electric standing desk with a full-length cable management tray and integrated power. It does not have a built-in monitor stand.",
+   "benefit": "Picture a tight workspace where every cable is neatly tucked away. The Magnus Pro keeps all cords organized with its full-length tray and built-in power outlets, making setup quick and clean. It wins against the Uplift V3 in cable organization because it has a dedicated tray. The catch: it is heavier and requires more assembly.",
+   "specs": [
+    "Full-length cable tray",
+    "Integrated power",
+    "Electric lift"
+   ],
+   "pros": [
+    "Cable management",
+    "Integrated power",
+    "Electric lift"
+   ],
+   "cons": [
+    "Heavy",
+    "Assembly required",
+    "Limited surface area"
+   ],
+   "best_for": "Users with limited space who need clean cable setup",
+   "skip_if": "Large desk area",
+   "link": "https://www.amazon.com/s?k=Secretlab+Magnus+Pro+Standing+Desk&tag=zoepicks00-20",
+   "tabs": [
+    "computer"
+   ]
+  },
+  {
+   "name": "Vari Standing Desk",
+   "short": "Vari",
+   "badge": "Best Compact",
+   "why": [
+    "Wired lists Vari as one of the models that stand out for its compact size and durability. TechRadar includes it in its best picks."
+   ],
+   "desc": "The Vari is a standing desk that is compact and durable. It has a sturdy frame and a smooth height adjustment. It does not have a built-in cable tray.",
+   "benefit": "Picture a small apartment where desk space is at a premium. Vari offers a compact footprint while still providing a stable work surface. It wins against the Uplift V3 in size, making it easier to fit in tight rooms. The catch: it has fewer accessories for cable management.",
+   "specs": [
+    "Compact size",
+    "Sturdy frame",
+    "Smooth height adjustment"
+   ],
+   "pros": [
+    "Compact footprint",
+    "Sturdy construction",
+    "Smooth adjustment"
+   ],
+   "cons": [
+    "Limited accessories",
+    "No cable tray",
+    "Smaller surface"
+   ],
+   "best_for": "Small space users",
+   "skip_if": "Need extensive cable management",
+   "link": "https://www.amazon.com/s?k=Vari+Standing+Desk&tag=zoepicks00-20",
+   "tabs": [
+    "computer"
+   ]
+  },
+  {
+   "name": "Branch Standing Desk",
+   "short": "Branch",
+   "badge": "Best Budget",
+   "why": [
+    "TechRadar lists Branch as a budget-friendly option. Wired notes it as one of the models that stand out for its practicality."
+   ],
+   "desc": "The Branch is a standing desk that is budget-friendly. It has a solid frame and a simple height adjustment mechanism. It does not have advanced cable management features.",
+   "benefit": "Picture a student or freelancer on a budget. Branch offers a reliable standing desk without breaking the bank. It wins against the Uplift V3 in price, making it accessible to more buyers. The catch: it lacks advanced cable management and has a basic adjustment system.",
+   "specs": [
+    "Budget price",
+    "Solid frame",
+    "Basic height adjustment"
+   ],
+   "pros": [
+    "Affordable",
+    "Solid frame",
+    "Easy to assemble"
+   ],
+   "cons": [
+    "Basic adjustment",
+    "No cable tray",
+    "Limited features"
+   ],
+   "best_for": "Budget-conscious users",
+   "skip_if": "Need advanced features",
+   "link": "https://www.amazon.com/s?k=Branch+Standing+Desk&tag=zoepicks00-20",
+   "tabs": [
+    "computer"
+   ]
   }
  ],
  "tabs": [
   {
    "key": "loft-bed-with",
    "label": "Loft Bed With"
+  },
+  {
+   "key": "computer",
+   "label": "Computer"
   }
  ]
 }
