@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-02T02:22:31Z",
+ "updated": "2026-11-02T02:53:07Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1282,7 +1282,7 @@
       "name": "American Crew 3-in-1 Shampoo & Body Wash",
       "pct": 42,
       "rating": 4.6,
-      "t": 1793575489,
+      "t": 1793586582,
       "img": "https://m.media-amazon.com/images/I/71sl7eQWyuL.jpg",
       "link": "https://www.amazon.com/dp/B019XIPEZ0?tag=zoepicks00-20",
       "now": "14.49",
@@ -2516,20 +2516,6 @@
     "label": "Walking Shoes",
     "items": [
      {
-      "asin": "B01E6WWGRW",
-      "name": "DUOYANGJIASHA Lightweight Walking Shoes",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1793461746,
-      "img": "https://m.media-amazon.com/images/I/81+aRgMI-wL.jpg",
-      "link": "https://www.amazon.com/dp/B01E6WWGRW?tag=zoepicks00-20",
-      "now": "16.51",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 17804,
-      "tier": "budget"
-     },
-     {
       "asin": "B0GZVYFT5B",
       "name": "Coostar Mens Walking Shoes Casual Slip on Sneakers",
       "pct": 50,
@@ -2540,6 +2526,19 @@
       "now": "24.99",
       "was": "49.99",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GHNFCRMB",
+      "name": "ATHMILE Barefoot Walking Shoes Women Men Wide Toe Box Zero…",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793517881,
+      "img": "https://m.media-amazon.com/images/I/817sh1J5IkL.jpg",
+      "link": "https://www.amazon.com/dp/B0GHNFCRMB?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "reviews": 148,
       "tier": "mid"
      },
      {
@@ -2684,7 +2683,7 @@
       "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793575493,
+      "t": 1793586586,
       "img": "https://m.media-amazon.com/images/I/61PNtGqqNoL.jpg",
       "link": "https://www.amazon.com/dp/B0CLR8QXKW?tag=zoepicks00-20",
       "now": "46.86",
@@ -3333,21 +3332,7 @@
    {
     "key": "home-gym-equipment",
     "label": "Home Gym Equipment",
-    "items": [
-     {
-      "asin": "B0DRSVXM1S",
-      "name": "12 Pack 48 sqft Home Gym Mat",
-      "pct": 13,
-      "rating": 4.6,
-      "t": 1793456923,
-      "img": "https://m.media-amazon.com/images/I/71hEVa+DEDL.jpg",
-      "link": "https://www.amazon.com/dp/B0DRSVXM1S?tag=zoepicks00-20",
-      "now": "39.95",
-      "was": "45.95",
-      "deal": "Limited time deal",
-      "reviews": 1821
-     }
-    ]
+    "items": []
    },
    {
     "key": "walking-pads",
@@ -4048,7 +4033,7 @@
       "name": "Emojoy 3-Piece Japanese Damascus Steel Knife Set",
       "pct": 40,
       "rating": 4.6,
-      "t": 1793575493,
+      "t": 1793586586,
       "img": "https://m.media-amazon.com/images/I/81F1xGGHCWL.jpg",
       "link": "https://www.amazon.com/dp/B0DXPYV1JR?tag=zoepicks00-20",
       "now": "54.13",
@@ -4859,18 +4844,6 @@
       "was": "149.99",
       "deal": "Limited time deal",
       "reviews": 84
-     },
-     {
-      "asin": "B0BNTHWWMY",
-      "name": "Docking Station Dual Monitor 4K HDMI 13-in-1 USB C Hub",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1793457561,
-      "img": "https://m.media-amazon.com/images/I/71Mh2J8Hk7L.jpg",
-      "link": "https://www.amazon.com/dp/B0BNTHWWMY?tag=zoepicks00-20",
-      "now": "44.79",
-      "was": "49.99",
-      "reviews": 13420
      }
     ]
    }
@@ -5073,19 +5046,6 @@
     "label": "USB C Monitors",
     "items": [
      {
-      "asin": "B0C73MBPZN",
-      "name": "USB C Docking Station Dual DisplayPort Monitor USB C Hub…",
-      "pct": 23,
-      "rating": 4.3,
-      "t": 1793546704,
-      "img": "https://m.media-amazon.com/images/I/710ZWezE8sL.jpg",
-      "link": "https://www.amazon.com/dp/B0C73MBPZN?tag=zoepicks00-20",
-      "now": "29.96",
-      "was": "38.99",
-      "reviews": 2945,
-      "tier": "budget"
-     },
-     {
       "asin": "B0HKMWHYY5",
       "name": "4K@120Hz USB-C KVM Switch 2 Monitors 2 Computers…",
       "pct": 33,
@@ -5094,6 +5054,20 @@
       "img": "https://m.media-amazon.com/images/I/61DXsAGw5+L.jpg",
       "link": "https://www.amazon.com/dp/B0HKMWHYY5?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H25VMK6H",
+      "name": "15.6\" Laptop Screen Extender",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1793546704,
+      "img": "https://m.media-amazon.com/images/I/71fwP0WYddL.jpg",
+      "link": "https://www.amazon.com/dp/B0H25VMK6H?tag=zoepicks00-20",
+      "now": "189.99",
+      "was": "269.99",
+      "deal": "Limited time deal",
+      "reviews": 167,
       "tier": "mid"
      },
      {
