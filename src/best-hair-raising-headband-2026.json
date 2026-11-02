@@ -34,7 +34,10 @@
    "skip_if": "You prefer a full‑coverage helmet",
    "price": "$849 at Vogue",
    "link": "https://www.amazon.com/s?k=Hairmax+LaserBand+82&tag=zoepicks00-20",
-   "price_asof": "Nov 2, 2026"
+   "price_asof": "Nov 2, 2026",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "CurrentBody LED Hair Regrowth Device",
@@ -63,7 +66,16 @@
    "skip_if": "You need a discreet, lightweight option",
    "price": "$859 at Vogue",
    "link": "https://www.amazon.com/s?k=CurrentBody+LED+Hair+Regrowth+Device&tag=zoepicks00-20",
-   "price_asof": "Nov 2, 2026"
+   "price_asof": "Nov 2, 2026",
+   "asin": "B0CQRHPCTR",
+   "image": "https://m.media-amazon.com/images/I/513n94kmBEL.jpg",
+   "image_asin": "B0CQRHPCTR",
+   "amazon_price": "$859.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "CurrentBody LED Hair Regrowth Device (S/M (21.3in-23.1in))",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 7,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "iRestore Elite Laser Red Light Therapy",
@@ -90,7 +102,16 @@
    "skip_if": "You need a low‑cost or quick‑session device",
    "price": "$2,599 at Vogue",
    "link": "https://www.amazon.com/s?k=iRestore+Elite+Laser+Red+Light+Therapy&tag=zoepicks00-20",
-   "price_asof": "Nov 2, 2026"
+   "price_asof": "Nov 2, 2026",
+   "asin": "B0CC72B3FR",
+   "image": "https://m.media-amazon.com/images/I/81hGKd+uaFL.jpg",
+   "image_asin": "B0CC72B3FR",
+   "amazon_price": "$1,799.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "iRestore Elite - Laser Red Light Therapy for Hair Growth System - FDA Cleared Hair Loss, H",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 195,
+   "amazon_rating_asof": "Nov 2, 2026"
   }
  ],
  "verdict": {
