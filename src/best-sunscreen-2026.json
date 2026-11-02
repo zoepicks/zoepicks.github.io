@@ -2,7 +2,7 @@
  "slug": "best-sunscreen-2026",
  "title": "Best Sunscreen (2026)",
  "category": "beauty_health",
- "date": "Oct 21, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The guide highlights five face sunscreens that consistently appear across multiple reviews, with EltaMD UV Clear topping the list for its broad‑spectrum protection and lightweight feel.",
  "method": "Selected products were chosen from Consumer Reports, CNET, Treeline Review, and Camille Styles, prioritizing those mentioned by more than one source and noting their highlighted strengths.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
@@ -116,6 +116,113 @@
    "fill_tries": 1,
    "fill_last": "Oct 22, 2026",
    "fill_failed": false
+  },
+  {
+   "name": "P20 Original Sun Cream Spray SPF50+",
+   "short": "P20 Original",
+   "badge": "Best Overall",
+   "why": [
+    "P20 is listed as the best body sunscreen overall in The Independent’s 2026 roundup.",
+    "It offers broad‑spectrum SPF50+ and a spray format that users find convenient."
+   ],
+   "desc": "P20 Original Sun Cream Spray SPF50+ is a spray sunscreen that provides broad‑spectrum protection with SPF50+. It is lightweight and does not leave a white cast.",
+   "benefit": "Picture a day at the beach where you need a quick, non‑greasy spray that stays on skin. P20 delivers broad‑spectrum SPF50+ and a lightweight feel, making it ideal for active outdoor use. It outperforms other picks in this guide by offering the highest SPF in a spray format, while still avoiding a white cast. The catch: it may not provide as much moisture as lotion‑based options.",
+   "specs": [
+    "SPF50+",
+    "Broad‑spectrum",
+    "Spray format",
+    "No white cast",
+    "Non‑greasy",
+    "Lightweight"
+   ],
+   "pros": [
+    "High SPF",
+    "Broad‑spectrum protection",
+    "Spray convenience",
+    "No white cast",
+    "Lightweight"
+   ],
+   "cons": [
+    "May lack moisture",
+    "Not a lotion"
+   ],
+   "best_for": "Active outdoor users who prefer a spray",
+   "skip_if": "You need heavy moisturizing or a lotion texture",
+   "link": "https://www.amazon.com/s?k=P20+Original+Sun+Cream+Spray+SPF50%2B&tag=zoepicks00-20",
+   "tabs": [
+    "body"
+   ]
+  },
+  {
+   "name": "Soltan Protect and Moisturise Suncare Spray SPF30",
+   "short": "Soltan Spray",
+   "badge": "Best Budget Body Sunscreen",
+   "why": [
+    "Listed as the best budget body sunscreen in The Independent’s 2026 roundup.",
+    "It offers SPF30 protection in a spray form at a low price point."
+   ],
+   "desc": "Soltan Protect and Moisturise Suncare Spray SPF30 is a spray sunscreen that provides SPF30 protection and moisturises skin.",
+   "benefit": "Picture a budget‑conscious traveler who wants quick coverage. Soltan delivers SPF30 and a moisturizing spray that feels light on skin. It wins against higher‑priced options by offering good protection at a lower cost, but it has a lower SPF than the top pick. The catch: its SPF is only 30, which may be insufficient for prolonged sun exposure.",
+   "specs": [
+    "SPF30",
+    "Broad‑spectrum",
+    "Spray format",
+    "Moisturising"
+   ],
+   "pros": [
+    "Affordable",
+    "Spray convenience",
+    "Moisturising"
+   ],
+   "cons": [
+    "Lower SPF",
+    "Less coverage for intense sun"
+   ],
+   "best_for": "Budget travelers and casual users",
+   "skip_if": "You need high SPF for extended outdoor activity",
+   "link": "https://www.amazon.com/s?k=Soltan+Protect+and+Moisturise+Suncare+Spray+SPF30&tag=zoepicks00-20",
+   "tabs": [
+    "body"
+   ]
+  },
+  {
+   "name": "Kopari Beauty Sunglaze Sheer Body Mist SPF30",
+   "short": "Kopari Mist",
+   "badge": "Best Korean Body Sunscreen",
+   "why": [
+    "Featured as the best Korean body sunscreen in The Independent’s 2026 roundup.",
+    "It offers a sheer mist that feels light and is suitable for sensitive skin."
+   ],
+   "desc": "Kopari Beauty Sunglaze Sheer Body Mist SPF30 is a mist sunscreen that provides SPF30 protection with a sheer, lightweight feel.",
+   "benefit": "Picture a sensitive‑skin user who prefers a mist that feels airy. Kopari delivers SPF30 in a sheer mist that absorbs quickly and leaves little residue. It competes with other sprays by offering a lighter feel, but its SPF is lower than the top pick. The catch: its SPF is only 30, which may not be enough for heavy sun exposure.",
+   "specs": [
+    "SPF30",
+    "Broad‑spectrum",
+    "Mist format",
+    "Sheer",
+    "Lightweight"
+   ],
+   "pros": [
+    "Lightweight mist",
+    "Quick absorption",
+    "Suitable for sensitive skin"
+   ],
+   "cons": [
+    "Lower SPF",
+    "May leave slight residue"
+   ],
+   "best_for": "Sensitive‑skin users who want a mist",
+   "skip_if": "You need high SPF for intense sun",
+   "link": "https://www.amazon.com/s?k=Kopari+Beauty+Sunglaze+Sheer+Body+Mist+SPF30&tag=zoepicks00-20",
+   "tabs": [
+    "body"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "body",
+   "label": "Body"
   }
  ]
 }

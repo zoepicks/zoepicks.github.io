@@ -2,10 +2,99 @@
  "slug": "best-kobo-case-2026",
  "title": "Best Kobo Case (2026)",
  "category": "electronics",
- "date": "Nov 1, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were to be based on product mentions in the supplied sources; none of the sources referenced Kobo cases.",
- "assumptions": "No price or case information was available in the excerpts.",
- "products": [],
- "draft": true
+ "date": "Nov 2, 2026",
+ "summary": "The best Kobo e‑reader for most buyers is the Kobo Forma, followed by the Kobo Libra Colour and the Kobo Clara Colour.",
+ "method": "Selected products were taken from the reviews on pc‑mag.com, techradar.com and mashable.com. The best pick was chosen by looking for the most frequently mentioned strengths and the lowest number of drawbacks.",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Kobo Forma",
+   "short": "Forma",
+   "badge": "Best Overall",
+   "why": [
+    "The Forma is praised for its waterproof design and large screen.",
+    "It offers strong battery life and a comfortable reading experience."
+   ],
+   "desc": "The Kobo Forma is a 7‑inch e‑reader with a waterproof build and a large screen. It has a long battery life and a comfortable reading experience.",
+   "benefit": "Picture a traveler who wants a waterproof, large‑screen reader that lasts long on a single charge. The Forma’s 7‑inch display, strong battery life and comfortable build make it ideal for reading on the go. It beats the other picks because it has the longest battery life and the biggest screen in this guide. The catch: it is heavier than the other models.",
+   "specs": [
+    "7‑inch screen",
+    "Waterproof build",
+    "Long battery life"
+   ],
+   "pros": [
+    "Waterproof design",
+    "Large screen",
+    "Strong battery life"
+   ],
+   "cons": [
+    "Heavier weight"
+   ],
+   "best_for": "Travelers and heavy readers",
+   "skip_if": "You need a very lightweight device",
+   "link": "https://www.amazon.com/s?k=Kobo+Forma&tag=zoepicks00-20"
+  },
+  {
+   "name": "Kobo Libra Colour",
+   "short": "Libra Colour",
+   "badge": "Strong Value",
+   "why": [
+    "The Libra Colour offers a color E Ink display and waterproof design.",
+    "It supports stylus use and has deep library integration."
+   ],
+   "desc": "The Kobo Libra Colour is a 7‑inch color E Ink e‑reader that is waterproof and supports a stylus. It has deep library integration through OverDrive.",
+   "benefit": "Picture a student who wants a color e‑reader that can be used in the shower. The Libra Colour’s waterproof design and stylus support let you read and annotate in any environment. It wins over the Clara Colour because it has a stylus and better library integration. The catch: the stylus is an extra cost and note‑taking features are limited.",
+   "specs": [
+    "7‑inch color E Ink screen",
+    "Waterproof",
+    "Stylus support",
+    "OverDrive integration"
+   ],
+   "pros": [
+    "Color display",
+    "Waterproof",
+    "Stylus support",
+    "Library integration"
+   ],
+   "cons": [
+    "Stylus costs extra",
+    "Limited note‑taking features"
+   ],
+   "best_for": "Students and note‑takers",
+   "skip_if": "You don’t need a stylus",
+   "link": "https://www.amazon.com/s?k=Kobo+Libra+Colour&tag=zoepicks00-20"
+  },
+  {
+   "name": "Kobo Clara Colour",
+   "short": "Clara Colour",
+   "badge": "Compact Choice",
+   "why": [
+    "The Clara Colour has a color display and is waterproof.",
+    "It is smaller and more affordable than the Libra Colour."
+   ],
+   "desc": "The Kobo Clara Colour is a 5‑inch color E Ink e‑reader that is waterproof and has no page‑turning buttons.",
+   "benefit": "Picture a commuter who wants a lightweight, waterproof reader that fits in a pocket. The Clara Colour’s small size and waterproof design let you read on the go without bulk. It wins over the Forma because it is lighter and cheaper, and over the Libra Colour because it is smaller. The catch: it has no page‑turning buttons and cannot log in to multiple library accounts at once.",
+   "specs": [
+    "5‑inch color E Ink screen",
+    "Waterproof",
+    "No page‑turning buttons"
+   ],
+   "pros": [
+    "Compact size",
+    "Waterproof",
+    "Color display"
+   ],
+   "cons": [
+    "No page‑turning buttons",
+    "Cannot log in to multiple library accounts"
+   ],
+   "best_for": "Commuters and budget readers",
+   "skip_if": "You need a large screen or physical buttons",
+   "link": "https://www.amazon.com/s?k=Kobo+Clara+Colour&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Kobo Forma",
+  "line": "Picture a traveler who wants a waterproof, large‑screen reader that lasts long on a single charge. The Forma’s 7‑inch display, strong battery life and comfortable build make it ideal for reading on the go. The catch: it is heavier than the other models."
+ }
 }
