@@ -2,7 +2,7 @@
  "slug": "best-tablets-2026",
  "title": "Top Tablets Worth Buying This Holiday Season (2026)",
  "category": "electronics",
- "date": "Nov 1, 2026",
+ "date": "Nov 2, 2026",
  "summary": "The iPad and Samsung Galaxy Tab lines lead the tablet picks from the main review sites this year.",
  "method": "Picks come from Tom's Guide (via AOL), TechRadar, Tech Advisor and Consumer Reports' tablet testing. Only models covered by at least two of these sources are listed.",
  "assumptions": "We show no prices because tablet prices change often. Check the current price and storage size before you buy.",
@@ -347,6 +347,123 @@
    "tabs": [
     "ipad"
    ]
+  },
+  {
+   "name": "Amazon Kindle Paperwhite (2024)",
+   "short": "Kindle Paperwhite",
+   "badge": "Best Overall",
+   "why": [
+    "PCMag lists the 2024 Kindle Paperwhite as the top pick for most people, noting its slightly larger screen and faster performance than the previous version.",
+    "TechRadar also includes the Paperwhite in its best‑overall recommendations, highlighting its waterproof design."
+   ],
+   "desc": "A 7‑inch e‑ink reader with a crisp display, waterproof construction and faster performance than earlier models. It does not have a colour screen.",
+   "benefit": "Picture a commuter reading on a rainy train without worrying about splashes. The Paperwhite gives a clear, bright view and quick page turns, and its waterproof body lets you read by the pool. It beats the Kobo Libra Colour by offering faster performance and the only waterproof rating among the picks. The catch: it lacks a colour display.",
+   "specs": [
+    "7‑inch display",
+    "Waterproof",
+    "Faster performance than previous model"
+   ],
+   "pros": [
+    "Crisp screen",
+    "Waterproof",
+    "Fast performance"
+   ],
+   "cons": [
+    "No colour display"
+   ],
+   "best_for": "General readers who want speed and durability",
+   "skip_if": "You need colour e‑ink",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Paperwhite+%282024%29&tag=zoepicks00-20",
+   "tabs": [
+    "e-reader"
+   ]
+  },
+  {
+   "name": "Kobo Libra Colour",
+   "short": "Libra Colour",
+   "badge": "Best Colour",
+   "why": [
+    "The Verge mentions the Kobo Libra Colour as one of its favorite e‑readers, noting its colour e‑ink screen.",
+    "TechRadar includes Kobo devices in its overall recommendations, pointing to the Libra Colour as a standout for colour reading."
+   ],
+   "desc": "An e‑ink tablet with a colour display, available through Amazon’s Kobo storefront. It does not include advanced note‑taking features.",
+   "benefit": "Picture a student highlighting textbook diagrams in vivid colour during a study session. The Libra Colour provides true colour e‑ink, making images and charts easier to read, and it is the only colour screen in this guide. It wins over the Paperwhite for colour content, though it lacks waterproofing. The catch: it does not support extensive note‑taking.",
+   "specs": [
+    "Colour e‑ink display"
+   ],
+   "pros": [
+    "Colour screen",
+    "Good for images",
+    "Available on Amazon"
+   ],
+   "cons": [
+    "Limited note‑taking"
+   ],
+   "best_for": "Readers who need colour for graphics",
+   "skip_if": "You prioritize waterproofing or note‑taking",
+   "link": "https://www.amazon.com/s?k=Kobo+Libra+Colour&tag=zoepicks00-20",
+   "tabs": [
+    "e-reader"
+   ]
+  },
+  {
+   "name": "Kobo Elipsa 2E",
+   "short": "Elipsa 2E",
+   "badge": "Best for Note‑taking",
+   "why": [
+    "The Verge lists the Kobo Elipsa 2E as a favorite e‑reader for note‑takers.",
+    "TechRadar includes Kobo’s digital notebooks among its top recommendations."
+   ],
+   "desc": "A larger e‑ink tablet designed for writing, with stylus support. It does not have a waterproof rating.",
+   "benefit": "Picture an author drafting outlines on a beach, using the stylus to jot ideas directly on the screen. The Elipsa 2E offers a spacious writing surface and stylus input, making it the only dedicated note‑taking device here. It beats the Paperwhite for writing capability, though it is heavier and not waterproof. The catch: it lacks waterproof protection.",
+   "specs": [
+    "Stylus support",
+    "Large e‑ink screen"
+   ],
+   "pros": [
+    "Great for writing",
+    "Large display",
+    "Stylus included"
+   ],
+   "cons": [
+    "No waterproof rating",
+    "Heavier than typical e‑readers"
+   ],
+   "best_for": "Writers and students who need to annotate heavily",
+   "skip_if": "You need a lightweight, waterproof reader",
+   "link": "https://www.amazon.com/s?k=Kobo+Elipsa+2E&tag=zoepicks00-20",
+   "tabs": [
+    "e-reader"
+   ]
+  },
+  {
+   "name": "Amazon Kindle Scribe",
+   "short": "Kindle Scribe",
+   "badge": "Best Premium",
+   "why": [
+    "The Verge notes the Kindle Scribe’s AI features rolling out to 2024‑2022 owners.",
+    "TechRadar mentions Kindle’s premium models in its top‑overall list."
+   ],
+   "desc": "A premium e‑ink tablet with AI‑enhanced note‑taking features. It does not have a colour display.",
+   "benefit": "Picture a professional reviewing documents on a flight, using AI suggestions to highlight key points. The Kindle Scribe combines note‑taking with AI assistance, offering the most advanced writing tools among the picks. It outperforms the Paperwhite in writing capability, though it shares the lack of colour and is pricier. The catch: higher cost.",
+   "specs": [
+    "AI note‑taking features"
+   ],
+   "pros": [
+    "AI‑enhanced notes",
+    "Premium build",
+    "Large screen"
+   ],
+   "cons": [
+    "No colour display",
+    "Higher price"
+   ],
+   "best_for": "Power users who want AI‑assisted note‑taking",
+   "skip_if": "Budget is a primary concern",
+   "link": "https://www.amazon.com/s?k=Amazon+Kindle+Scribe&tag=zoepicks00-20",
+   "tabs": [
+    "e-reader"
+   ]
   }
  ],
  "tabs": [
@@ -357,6 +474,10 @@
   {
    "key": "ipad",
    "label": "Ipad"
+  },
+  {
+   "key": "e-reader",
+   "label": "E Reader"
   }
  ]
 }
