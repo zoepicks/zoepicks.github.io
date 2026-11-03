@@ -34,7 +34,10 @@
    ],
    "best_for": "Daily commuters and casual drivers",
    "skip_if": "You need a heated or cooled cover",
-   "link": "https://www.amazon.com/s?k=SEG+Direct+15%E2%80%91Inch+Black+and+Gray+Microfiber+Car+Steering+Wheel+Cover&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SEG+Direct+15%E2%80%91Inch+Black+and+Gray+Microfiber+Car+Steering+Wheel+Cover&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Valleycomfy 15‑Inch Leather Steering Wheel Cover",
@@ -62,7 +65,16 @@
    ],
    "best_for": "Drivers who prefer a classic leather look",
    "skip_if": "You need a lightweight or heated cover",
-   "link": "https://www.amazon.com/s?k=Valleycomfy+15%E2%80%91Inch+Leather+Steering+Wheel+Cover&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Valleycomfy+15%E2%80%91Inch+Leather+Steering+Wheel+Cover&tag=zoepicks00-20",
+   "asin": "B071CPV74B",
+   "image": "https://m.media-amazon.com/images/I/71mnM5IE7LL.jpg",
+   "image_asin": "B071CPV74B",
+   "amazon_price": "$15.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Valleycomfy Microfiber Leather Steering Wheel Cover Universal 15 inch (Black)",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 42666,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "MotorTrend GripDrive Steering Wheel Cover",
@@ -90,7 +102,13 @@
    ],
    "best_for": "Budget‑conscious drivers seeking comfort",
    "skip_if": "You need a heated or cooled cover",
-   "link": "https://www.amazon.com/s?k=MotorTrend+GripDrive+Steering+Wheel+Cover&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=MotorTrend+GripDrive+Steering+Wheel+Cover&tag=zoepicks00-20",
+   "asin": "B01M301UTH",
+   "image": "https://m.media-amazon.com/images/I/81Maj4WC7sS.jpg",
+   "image_asin": "B01M301UTH",
+   "amazon_price": "$24.44",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Motor Trend GripDrive Faux Black Leather Steering Wheel Cover for Car Truck Van SUV, Stand"
   }
  ],
  "verdict": {
