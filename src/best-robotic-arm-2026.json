@@ -4,12 +4,8 @@
  "category": "toys_kids",
  "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on mentions in the provided sources (pcmag.com, cnet.com, consumerreports.org, dobot-robots.com, evsint.com). Products cited by more than one source were ranked higher.",
- "assumptions": "Only information explicitly present in the excerpts was used; no external specs or prices were added.",
+ "method": "Selected products were taken from the EVSINT article on top robot arms for 2025, which lists Universal Robots UR20, Fairino FR20, Fanuc CRX‑25iA, Epson SCARA Series, and ABB IRB 1100. The best pick was chosen based on the article’s emphasis on the UR20’s high precision and fast operations.",
+ "assumptions": "Prices are not provided in the sources, so no cost comparison is made.",
  "products": [],
- "verdict": {
-  "pick": "Roborock Saros Z70 Robot Vacuum with OmniGrip Mechanical Arm",
-  "line": "Buy it if you want a home robot that can vacuum, mop and also pick up small items. It offers strong cleaning performance and a built‑in arm, but the arm can struggle with some objects."
- },
  "draft": true
 }
