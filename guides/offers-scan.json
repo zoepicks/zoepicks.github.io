@@ -6446,24 +6446,39 @@
   },
   "beauty_health:face-wash": {
    "label": "Face Wash",
-   "tries": 17,
+   "tries": 18,
    "items": [
     {
-     "asin": "B01BQQUFQU",
-     "name": "TULA The Cult Classic Gentle Face Cleanser",
-     "pct": 25,
+     "asin": "B0C695DSY1",
+     "name": "COSLUS JMY05 Silicone Face Scrubber Facial Cleansing Brush",
+     "pct": 33,
+     "rating": 4.3,
+     "t": 1793725084,
+     "img": "https://m.media-amazon.com/images/I/714BOPzPowL.jpg",
+     "link": "https://www.amazon.com/dp/B0C695DSY1?tag=zoepicks00-20",
+     "now": "19.95",
+     "was": "29.99",
+     "deal": "Limited time deal",
+     "reviews": 1580,
+     "_title": "COSLUS JMY05 Silicone Face Scrubber Facial Cleansing Brush, Heat Eye Care | Electric Face Wash Brush with 4 Cleansing Mode...",
+     "_price": 19.95
+    },
+    {
+     "asin": "B01MSSDEPK",
+     "name": "CeraVe Hydrating Cleanser",
+     "pct": 18,
      "rating": 4.7,
-     "t": 1793547290,
-     "img": "https://m.media-amazon.com/images/I/615+vhrKsYL.jpg",
-     "link": "https://www.amazon.com/dp/B01BQQUFQU?tag=zoepicks00-20",
-     "now": "25.50",
-     "was": "34.00",
-     "reviews": 7129,
-     "_title": "TULA The Cult Classic Gentle Face Cleanser with Prebiotics + Antioxidants | Dermatologist tested gentle face wash with pre...",
-     "_price": 25.5
+     "t": 1793725084,
+     "img": "https://m.media-amazon.com/images/I/71V-hFCug0L.jpg",
+     "link": "https://www.amazon.com/dp/B01MSSDEPK?tag=zoepicks00-20",
+     "now": "15.48",
+     "was": "18.99",
+     "reviews": 133635,
+     "_title": "CeraVe Hydrating Cleanser with Hyaluronic Acid, Gentle Face Cleanser,16oz | Daily Face Wash & Makeup Remover with Glyceri...",
+     "_price": 15.48
     }
    ],
-   "scanned": "2026-11-01T15:34:50.841054+00:00",
+   "scanned": "2026-11-03T16:58:04.089050+00:00",
    "via": "sweep"
   },
   "other:nail-polish": {
