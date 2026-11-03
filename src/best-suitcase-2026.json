@@ -27,7 +27,13 @@
    ],
    "best_for": "Frequent flyers",
    "skip_if": "You need a very lightweight carry‑on",
-   "link": "https://www.amazon.com/s?k=Samsonite&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Samsonite&tag=zoepicks00-20",
+   "asin": "B08BX98J9S",
+   "image": "https://m.media-amazon.com/images/I/91v-SHKhO3L.jpg",
+   "image_asin": "B08BX98J9S",
+   "amazon_price": "$294.39",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Samsonite Omni 2 Hardside 3 Piece Set - Includes Global Carry-On, Medium, & Large Checked "
   },
   {
    "name": "Away",
@@ -49,7 +55,16 @@
    ],
    "best_for": "Tech‑savvy travelers",
    "skip_if": "You are price‑sensitive",
-   "link": "https://www.amazon.com/s?k=Away&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away&tag=zoepicks00-20",
+   "asin": "B0DLK7RCLR",
+   "image": "https://m.media-amazon.com/images/I/61tOAFRZ0SL.jpg",
+   "image_asin": "B0DLK7RCLR",
+   "amazon_price": "$375.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Away Large Checked Luggage, 29-inch Lightweight Hardside Spinner Suitcase | Lightweight & ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 283,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Briggs & Riley",
@@ -71,7 +86,10 @@
    ],
    "best_for": "Long‑haul international travelers",
    "skip_if": "You need a lightweight carry‑on",
-   "link": "https://www.amazon.com/s?k=Briggs+%26+Riley&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Briggs+%26+Riley&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
