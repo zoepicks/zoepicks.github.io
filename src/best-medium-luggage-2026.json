@@ -33,7 +33,10 @@
    ],
    "best_for": "Long trips needing durability and organization",
    "skip_if": "You prioritize ultra‑light weight above durability",
-   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Large+Check%E2%80%91In&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Large+Check%E2%80%91In&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Away The Large",
@@ -60,7 +63,10 @@
    ],
    "best_for": "Travelers who want a durable hard case without premium price",
    "skip_if": "You need built‑in tech features",
-   "link": "https://www.amazon.com/s?k=Away+The+Large&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away+The+Large&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Samsonite Freeform Large Spinner",
@@ -87,7 +93,13 @@
    ],
    "best_for": "Budget‑conscious travelers needing space",
    "skip_if": "You require high‑end durability or extra features",
-   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Large+Spinner&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Large+Spinner&tag=zoepicks00-20",
+   "asin": "B0DM3BKVNN",
+   "image": "https://m.media-amazon.com/images/I/71MKX1FtdAL.jpg",
+   "image_asin": "B0DM3BKVNN",
+   "amazon_price": "$164.49",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Samsonite Freeform Large Checked Luggage with Dual 360° Spinner Wheels - TSA Lock, Airline"
   }
  ],
  "verdict": {
