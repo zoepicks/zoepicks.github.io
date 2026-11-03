@@ -8191,14 +8191,14 @@
   },
   "pets:cat-litter": {
    "label": "Cat Litter",
-   "tries": 14,
+   "tries": 15,
    "items": [
     {
      "asin": "B0HHRLD7SJ",
      "name": "Cat Litter Deodorizer",
      "pct": 33,
      "rating": 4.6,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/61c9BfGsJOL.jpg",
      "link": "https://www.amazon.com/dp/B0HHRLD7SJ?tag=zoepicks00-20",
      "now": "28.99",
@@ -8209,17 +8209,32 @@
      "_price": 28.99
     },
     {
+     "asin": "B0DBS832XQ",
+     "name": "IRIS USA XX-Large High Sided Cat Litter Box",
+     "pct": 25,
+     "rating": 4.6,
+     "t": 1793724282,
+     "img": "https://m.media-amazon.com/images/I/61zg9MwIYwL.jpg",
+     "link": "https://www.amazon.com/dp/B0DBS832XQ?tag=zoepicks00-20",
+     "now": "29.98",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 4054,
+     "_title": "IRIS USA XX-Large High Sided Cat Litter Box, Scatter Shield, Navy | Huge 30\" x 20\" x 14\", Maine Coons, Big Cat Accommodati...",
+     "_price": 29.98
+    },
+    {
      "asin": "B07NJ5SR5G",
      "name": "Pieviev Cat Litter Mat",
      "pct": 15,
      "rating": 4.4,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
      "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
      "now": "11.89",
      "was": "13.99",
      "deal": "Limited time deal",
-     "reviews": 74219,
+     "reviews": 74218,
      "_title": "Pieviev Cat Litter Mat, Double-Layer Waterproof Litter Trap, 24\" x 15\" Gray | Honeycomb Design Catches Scattered Particles...",
      "_price": 11.89
     },
@@ -8228,13 +8243,13 @@
      "name": "FUKUMARU Tofu Cat Litter",
      "pct": 13,
      "rating": 4.3,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/81SYqHqGB9L.jpg",
      "link": "https://www.amazon.com/dp/B0GCM827V5?tag=zoepicks00-20",
      "now": "19.79",
      "was": "22.79",
      "deal": "Limited time deal",
-     "reviews": 1753,
+     "reviews": 1754,
      "_title": "FUKUMARU Tofu Cat Litter, Lavender Scented, Clumping, Odor Control, 12 lb | Soybean Fiber Blend, No Lavender Essential Oi...",
      "_price": 19.79
     },
@@ -8243,13 +8258,12 @@
      "name": "Garoopion Silicone Cat Litter Mat Large 40\" X 28\"",
      "pct": 10,
      "rating": 4.6,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/71sk0qETNmL.jpg",
      "link": "https://www.amazon.com/dp/B0FLP1BV8K?tag=zoepicks00-20",
      "now": "26.99",
      "was": "29.99",
-     "deal": "Limited time deal",
-     "reviews": 2980,
+     "reviews": 2984,
      "_title": "Garoopion Silicone Cat Litter Mat Large 40\" X 28\", Easy to Clean, Gray | Large Size Waterproof Silicone Mat with Raised Ed...",
      "_price": 26.99
     },
@@ -8257,14 +8271,14 @@
      "asin": "B0GSDCS6C8",
      "name": "Stainless Steel Cat Litter Box",
      "pct": 10,
-     "rating": 4.5,
-     "t": 1793645755,
+     "rating": 4.6,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/71NETGCJpTL.jpg",
      "link": "https://www.amazon.com/dp/B0GSDCS6C8?tag=zoepicks00-20",
      "now": "29.69",
      "was": "32.99",
      "deal": "Limited time deal",
-     "reviews": 425,
+     "reviews": 429,
      "_title": "Stainless Steel Cat Litter Box, Extra Large XL Metal LitterBox, Light Grey | High Sides, Open Top Litter Pan Include Scoop...",
      "_price": 29.69
     },
@@ -8272,31 +8286,30 @@
      "asin": "B0GSQDZNS3",
      "name": "Stainless Steel Litter Box",
      "pct": 10,
-     "rating": 4.4,
-     "t": 1793645755,
+     "rating": 4.5,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/61HqLB+HseL.jpg",
      "link": "https://www.amazon.com/dp/B0GSQDZNS3?tag=zoepicks00-20",
      "now": "25.19",
      "was": "27.99",
-     "deal": "Limited time deal",
-     "reviews": 529,
+     "reviews": 880,
      "_title": "Stainless Steel Litter Box with Scoop,Small Metal Pan for Cats, Light Gray | 17.32\"L x 13.39\"W x 7.87\"H, Metal Litter Box ...",
      "_price": 25.19
     }
    ],
-   "scanned": "2026-11-02T18:55:55.287750+00:00",
+   "scanned": "2026-11-03T16:44:42.834326+00:00",
    "via": "sweep"
   },
   "pets:pet-water-fountains": {
    "label": "Pet Water Fountains",
-   "tries": 11,
+   "tries": 12,
    "items": [
     {
      "asin": "B0GQ3LMMPT",
      "name": "SohoTeco 3.2L/108oz Stainless Steel Cat Water Fountain Pet…",
      "pct": 10,
      "rating": 4.5,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/71p-+Io9OnL.jpg",
      "link": "https://www.amazon.com/dp/B0GQ3LMMPT?tag=zoepicks00-20",
      "now": "26.99",
@@ -8307,7 +8320,7 @@
      "_price": 26.99
     }
    ],
-   "scanned": "2026-11-02T18:55:55.287750+00:00",
+   "scanned": "2026-11-03T16:44:42.834326+00:00",
    "via": "sweep"
   },
   "fashion:slippers": {
@@ -11335,25 +11348,25 @@
   },
   "pets:dog-leash": {
    "label": "Dog Leash",
-   "tries": 2,
+   "tries": 3,
    "items": [
     {
      "asin": "B07M98NH5L",
      "name": "Fida Retractable Dog Leash",
      "pct": 35,
      "rating": 4.5,
-     "t": 1793645755,
+     "t": 1793724282,
      "img": "https://m.media-amazon.com/images/I/61hCdJf89wL.jpg",
      "link": "https://www.amazon.com/dp/B07M98NH5L?tag=zoepicks00-20",
      "now": "14.23",
      "was": "21.99",
      "deal": "Limited time deal",
-     "reviews": 54370,
+     "reviews": 54375,
      "_title": "Fida Retractable Dog Leash, 16 ft Dog Walking Leash for Small Dogs up to 26 lbs, 360° Tangle Free, Black",
      "_price": 14.23
     }
    ],
-   "scanned": "2026-11-02T18:55:55.287750+00:00",
+   "scanned": "2026-11-03T16:44:42.834326+00:00",
    "via": "sweep"
   },
   "accessories:phone-case": {
@@ -12382,10 +12395,10 @@
    "types": 26
   },
   "pets": {
-   "at": "2026-11-02T18:55:55.287750+00:00",
+   "at": "2026-11-03T16:44:42.834326+00:00",
    "pages": 5,
    "cards": 120,
-   "offer_cards": 119,
+   "offer_cards": 120,
    "types_hit": 3,
    "types": 8
   },
