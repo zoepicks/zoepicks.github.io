@@ -4,8 +4,12 @@
  "category": "office_books",
  "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by counting how many sources highlighted each title; source 1 provided the fan ratings and preferences.",
- "assumptions": "No price information was given, so price fields are left null.",
+ "method": "Selected titles from bookbrowse.com that were listed as recently released in paperback. Chosen based on the number of titles mentioned and the variety of genres.",
+ "assumptions": "No price information was available in the sources, so all price fields are null.",
  "products": [],
+ "verdict": {
+  "pick": "A Novel by Erin Somers",
+  "line": "Picture a young parent who finds a new romance while juggling family life. Erin Somers’ book offers a fresh, witty take on modern relationships and is praised for its relatable characters. It stands out because it blends humor with heartfelt moments, a feature not found in the other titles listed."
+ },
  "draft": true
 }

@@ -4,18 +4,12 @@
  "category": "beauty_health",
  "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen by counting how many of the provided sources mention each product and by comparing the criteria each source used (language coverage, latency, listener capacity, device compatibility). Sources used: 0,2,4,5,6.",
- "assumptions": "No price data was given in the excerpts, so price fields are null. All performance claims are taken directly from the sources.",
+ "method": "Picks were based on the product coverage in the listed sources, focusing on language count, latency, and real‑world performance as described in source 4 and cross‑checked with Google’s Gemini 3.5 details in source 1.",
+ "assumptions": "No price data was included because the sources did not give exact figures for the listed models.",
  "products": [],
  "verdict": {
-  "pick": "Google Gemini 3.5 Live Translate",
-  "line": "Buy it if you want instant spoken translation on your phone or headphones and need support for many languages. It works on iOS and Android and keeps the conversation flowing with only a few seconds delay. The catch is it still needs an internet connection for best accuracy.",
-  "also": [
-   [
-    "Hardware option",
-    "Apple AirPods Pro 2"
-   ]
-  ]
+  "pick": "Google Pixel Buds Pro 2",
+  "line": "Buy this if you want the most accurate AI‑driven translation in a familiar earbud form and you already use Google services; it handles 70+ languages with low latency. The main catch is that both speakers must wear earbuds."
  },
  "draft": true
 }

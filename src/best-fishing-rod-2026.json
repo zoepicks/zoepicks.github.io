@@ -4,8 +4,12 @@
  "category": "fitness_outdoor",
  "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by comparing the recommendations from OutdoorGearLab, Angling Times, and other listed sources.",
- "assumptions": "No price information was provided in the sources, so pricing is omitted.",
+ "method": "Picks were based on recommendations from OutdoorGearLab (source 3) and CNET (source 2). Products mentioned by multiple sources were prioritized.",
+ "assumptions": "No price information was provided in the sources, so price fields are null.",
  "products": [],
+ "verdict": {
+  "pick": "Abu Garcia Veritas PLX",
+  "line": "Ideal for anglers who want precise casts and solid build quality. It balances action and durability, making it a strong choice for both beginners and seasoned fishers. The main catch is that it may be pricier than entry‑level options."
+ },
  "draft": true
 }

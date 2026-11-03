@@ -4,12 +4,8 @@
  "category": "pets",
  "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by comparing the products mentioned in PopSugar, Fragrantica, and Chewy. Products cited by more than one source were ranked higher.",
- "assumptions": "No price information was included because none of the excerpts gave a price for Kitten Fur.",
+ "method": "Picks were based on products explicitly mentioned in the provided sources (Popsugar and dshperfumes).",
+ "assumptions": "No price information was given in the sources, so price fields are null.",
  "products": [],
- "verdict": {
-  "pick": "Kitten Fur by Demeter",
-  "line": "Buy it if you want a human‑wearable fragrance that actually smells like a cat’s coat; it’s the only true “kitten‑fur” scent and uses skin‑safe ingredients. The catch is its modest rating of 3.79/5."
- },
  "draft": true
 }
