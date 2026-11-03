@@ -7159,9 +7159,54 @@
   },
   "home_kitchen:black-water-bottle": {
    "label": "Black Water Bottle",
-   "tries": 11,
-   "items": [],
-   "scanned": "2026-11-01T16:16:35.422653+00:00",
+   "tries": 12,
+   "items": [
+    {
+     "asin": "B0FK124QCT",
+     "name": "Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black…",
+     "pct": 20,
+     "rating": 4.6,
+     "t": 1793673882,
+     "img": "https://m.media-amazon.com/images/I/410gXei0VaL.jpg",
+     "link": "https://www.amazon.com/dp/B0FK124QCT?tag=zoepicks00-20",
+     "now": "28.00",
+     "was": "34.99",
+     "reviews": 14154,
+     "_title": "Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry",
+     "_price": 28.0
+    },
+    {
+     "asin": "B0CGV7GLFL",
+     "name": "WaterH BOOST Smart Water Bottle Tracker",
+     "pct": 15,
+     "rating": 4.3,
+     "t": 1793673882,
+     "img": "https://m.media-amazon.com/images/I/71mmVS1Fx6L.jpg",
+     "link": "https://www.amazon.com/dp/B0CGV7GLFL?tag=zoepicks00-20",
+     "now": "46.71",
+     "was": "54.99",
+     "deal": "Limited time deal",
+     "reviews": 2687,
+     "_title": "WaterH BOOST Smart Water Bottle Tracker with Reminder, Black, 32oz | Double Wall Vacuum Insulated Stainless Steel, BPA-Fre...",
+     "_price": 46.71
+    },
+    {
+     "asin": "B0B69M1X8G",
+     "name": "Coldest Insulated Water Bottle",
+     "pct": 10,
+     "rating": 4.5,
+     "t": 1793673882,
+     "img": "https://m.media-amazon.com/images/I/41qZKjE3VYL.jpg",
+     "link": "https://www.amazon.com/dp/B0B69M1X8G?tag=zoepicks00-20",
+     "now": "39.59",
+     "was": "43.99",
+     "deal": "Limited time deal",
+     "reviews": 21227,
+     "_title": "Coldest Insulated Water Bottle with Straw Lid - Stainless Steel Metal Insulated Bottle for Men & Women (Stealth Black, 40 oz)",
+     "_price": 39.59
+    }
+   ],
+   "scanned": "2026-11-03T02:44:42.481099+00:00",
    "via": "sweep"
   },
   "home_kitchen:crockpot": {
