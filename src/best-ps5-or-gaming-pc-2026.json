@@ -32,7 +32,13 @@
    ],
    "best_for": "Home‑room gamers seeking 4K visuals",
    "skip_if": "You need a highly upgradable system",
-   "link": "https://www.amazon.com/s?k=PlayStation+5+Pro&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=PlayStation+5+Pro&tag=zoepicks00-20",
+   "asin": "B0F6JWQQB6",
+   "image": "https://m.media-amazon.com/images/I/61uTKHMQVOL.jpg",
+   "image_asin": "B0F6JWQQB6",
+   "amazon_price": "$58.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Wireless Controller for PS5, Compatible with PlayStation 5 /PS5 Pro/Slim/PC, with Hall Eff"
   },
   {
    "name": "Gaming PC with RTX 5070",
@@ -60,7 +66,10 @@
    ],
    "best_for": "Competitive gamers needing high FPS",
    "skip_if": "You prefer a plug‑and‑play console",
-   "link": "https://www.amazon.com/s?k=Gaming+PC+with+RTX+5070&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Gaming+PC+with+RTX+5070&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Gaming PC with RX 9070",
@@ -88,7 +97,16 @@
    ],
    "best_for": "Streamers and 4K gamers",
    "skip_if": "You want a simple console experience",
-   "link": "https://www.amazon.com/s?k=Gaming+PC+with+RX+9070&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Gaming+PC+with+RX+9070&tag=zoepicks00-20",
+   "asin": "B0HDZ7PZML",
+   "image": "https://m.media-amazon.com/images/I/71XsCudJW9L.jpg",
+   "image_asin": "B0HDZ7PZML",
+   "amazon_price": "$2,399.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "KOTIN Gaming PC, Ryzen 7 9700X, RX 9070 XT 16GB, 32GB DDR5, 1TB SSD | Prebuilt Gaming Comp",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 100,
+   "amazon_rating_asof": "Nov 2, 2026"
   }
  ]
 }
