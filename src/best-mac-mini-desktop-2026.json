@@ -38,7 +38,13 @@
    "skip_if": "You need lots of internal storage out of the box",
    "price": "$899 at Apple",
    "link": "https://www.amazon.com/s?k=Apple+Mac+mini+%282026%2C+M6%29&tag=zoepicks00-20",
-   "price_asof": "Nov 2, 2026"
+   "price_asof": "Nov 2, 2026",
+   "asin": "B0HGGC82BG",
+   "image": "https://m.media-amazon.com/images/I/51NBurcRq2L.jpg",
+   "image_asin": "B0HGGC82BG",
+   "amazon_price": "$949.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Apple 2026 Mac mini desktop computer M6 chip | 12‑core CPU and 12‑core GPU, 16GB Unified M"
   },
   {
    "name": "Apple Mac mini (2018)",
@@ -66,7 +72,10 @@
    ],
    "best_for": "Users who want upgrade flexibility without needing the latest chip",
    "skip_if": "You need the newest silicon or Wi‑Fi 7",
-   "link": "https://www.amazon.com/s?k=Apple+Mac+mini+%282018%29&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Apple+Mac+mini+%282018%29&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Apple Mac mini (M5 Pro)",
@@ -93,7 +102,16 @@
    ],
    "best_for": "Heavy AI or creative professionals needing maximum memory",
    "skip_if": "Budget-conscious buyers",
-   "link": "https://www.amazon.com/s?k=Apple+Mac+mini+%28M5%E2%80%AFPro%29&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Apple+Mac+mini+%28M5%E2%80%AFPro%29&tag=zoepicks00-20",
+   "asin": "B0HGGHNQY6",
+   "image": "https://m.media-amazon.com/images/I/51NBurcRq2L.jpg",
+   "image_asin": "B0HGGHNQY6",
+   "amazon_price": "$1,549.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Apple 2026 Mac mini desktop computer M5 Pro chip | 15‑core CPU and 16‑core GPU, 24GB Unifi",
+   "amazon_rating": "5",
+   "amazon_reviews": 8,
+   "amazon_rating_asof": "Nov 2, 2026"
   }
  ],
  "verdict": {
