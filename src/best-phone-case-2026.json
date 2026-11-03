@@ -35,7 +35,10 @@
    ],
    "best_for": "Users who prioritize protection without sacrificing style",
    "skip_if": "Budget shoppers looking for the cheapest case",
-   "link": "https://www.amazon.com/s?k=OtterBox+Symmetry+Series&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=OtterBox+Symmetry+Series&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Spigen Ultra Hybrid",
@@ -63,7 +66,10 @@
    ],
    "best_for": "Budget‑conscious users who need MagSafe support",
    "skip_if": "Anyone needing heavy‑duty drop protection",
-   "link": "https://www.amazon.com/s?k=Spigen+Ultra+Hybrid&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Spigen+Ultra+Hybrid&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "CASETiFY Impact Case",
@@ -90,7 +96,13 @@
    ],
    "best_for": "Style‑focused users who still want basic protection",
    "skip_if": "Users needing the highest drop‑test ratings",
-   "link": "https://www.amazon.com/s?k=CASETiFY+Impact+Case&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=CASETiFY+Impact+Case&tag=zoepicks00-20",
+   "asin": "B0D66FP3M3",
+   "image": "https://m.media-amazon.com/images/I/51Rk58umH6L.jpg",
+   "image_asin": "B0D66FP3M3",
+   "amazon_price": "$51.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "CASETiFY Impact MacBook Air 13.6\" (M2-M5) Case [Cushioned Impact Corners/Scratch-Resistant"
   },
   {
    "name": "Speck Cases",
@@ -118,7 +130,10 @@
    ],
    "best_for": "Users who want drop protection plus antimicrobial benefits",
    "skip_if": "Those needing MagSafe compatibility or the lowest price",
-   "link": "https://www.amazon.com/s?k=Speck+Cases&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Speck+Cases&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
