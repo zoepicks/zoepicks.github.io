@@ -1,10 +1,27 @@
 [collect] keys loaded: tavily 4 (...t3vu, ...yLM7, ...UJ3k, ...sv86) | groq 5
-[collect] topic: Best E-Reader Tablet (2026)
-[collect] tavily -> 5 pages
-[collect] http 403 https://www.cnet.com/tech/computing/boox-note-air4-c-review-a-colorful-blend-of-e-ink-tablet-and-e-reader
-[collect] browser fetch 21 chars: https://www.cnet.com/tech/computing/boox-note-air4-c-review-a-colorful-blend-of-e-ink-tablet-and-e-reader
-[collect] 5/5 source pages fetched
-[collect] llm request: 5 sources x 1292 chars, ~2541 in + 4000 out tokens (budget 7000)
+[collect] topic: Best Car Seat (2026)
+[collect] tavily -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-convertible-car-seats
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-convertible-car-seats
+[collect] 1/2 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://www.thebump.com/a/best-rotating-car-seat
+[collect] browser fetch 117 chars: https://www.thebump.com/a/best-rotating-car-seat
+[collect] extra sources: +3 readable page(s) -> 4 total (thebump.com, mommyhood101.com, babygearlab.com)
+[collect] llm request: 4 sources x 1626 chars, ~2473 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Joie Saffron SI All‑in‑One Car Seat
+[collect] drop (only 1 sources): Nuna Pipa RX Infant Car Seat
+[collect] drop (only 1 sources): Romer Juni Infant Car Seat
+[collect] open web (tavily) -> 15 results
+[collect] browser fetch 9000 chars: https://www.mumsnet.com/reviews/baby-car-seats
+[collect] extra sources: +2 readable page(s) -> 6 total (mumsnet.com, thequalityedit.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1071 chars, ~2648 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Joie Saffron SI All‑in‑One Car Seat
+[collect] drop (only 1 sources): Nuna Pipa RX Infant Car Seat
+[collect] drop (only 1 sources): Romer Juni Infant Car Seat
+[collect] drop (only 1 sources): Joie Rue Infant Car Seat
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -46,6 +63,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-camping-tents-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-candles-for-wax-play-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-capture-card-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-car-charger-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-car-seat-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-car-vacuums-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-carry-on-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cat-litter-2026/index.html
@@ -375,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-e-reader-tablet-2026 -> tab 'e-reader' of best-tablets-2026 (+4 new, 0 already there)
-[collect] progress: guide 1 done (best-e-reader-tablet-2026) | tried 1 | tavily keys alive 4/4
+[collect] done: best-car-seat-2026 draft
+[collect] progress: guide 1 done (best-car-seat-2026) | tried 1 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
