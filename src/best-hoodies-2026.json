@@ -150,9 +150,18 @@
    "tabs": [
     "college"
    ],
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B000GBS1EU",
+   "image": "https://m.media-amazon.com/images/I/61S3xORPw4L.jpg",
+   "image_asin": "B000GBS1EU",
+   "amazon_price": "$52.52",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Champion Men's Men' Reverse Weave Fleece Pullover Hood",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 1452,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Reigning Champ Midweight Terry Standard Hoodie",
@@ -224,7 +233,7 @@
    "tabs": [
     "college"
    ],
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Nov 2, 2026",
    "fill_failed": false
   },
@@ -259,7 +268,10 @@
    "link": "https://www.amazon.com/s?k=Bape+Hoodie&tag=zoepicks00-20",
    "tabs": [
     "bape"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Champion Weighted Hoodie",
@@ -290,7 +302,10 @@
    "link": "https://www.amazon.com/s?k=Champion+Weighted+Hoodie&tag=zoepicks00-20",
    "tabs": [
     "bape"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "tips": {
