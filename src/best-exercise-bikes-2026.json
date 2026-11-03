@@ -154,8 +154,8 @@
    "tabs": [
     "road"
    ],
-   "fill_tries": 2,
-   "fill_last": "Nov 2, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 3, 2026",
    "fill_failed": false
   },
   {
@@ -224,7 +224,10 @@
    "link": "https://www.amazon.com/s?k=Charge+Bikes+City&tag=zoepicks00-20",
    "tabs": [
     "electric"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 3, 2026",
+   "fill_failed": false
   },
   {
    "name": "Aventon Soltera 2.5",
@@ -250,7 +253,10 @@
    "link": "https://www.amazon.com/s?k=Aventon+Soltera+2.5&tag=zoepicks00-20",
    "tabs": [
     "electric"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 3, 2026",
+   "fill_failed": false
   }
  ],
  "tabs": [
