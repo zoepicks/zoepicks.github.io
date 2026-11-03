@@ -2,10 +2,103 @@
  "slug": "best-white-refrigerator-2026",
  "title": "Best White Refrigerator (2026)",
  "category": "home_kitchen",
- "date": "Nov 2, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from GoodHousekeeping, ConsumerReports, CNET, and Reviewed. Picks were ranked by the number of sources that mentioned them and by the detail of features provided.",
- "assumptions": "Prices are not listed in the sources, so no price information is included.",
- "products": [],
- "draft": true
+ "date": "Nov 3, 2026",
+ "summary": "Good Housekeeping, Consumer Reports and CNET rank these white‑compatible refrigerators as the top picks for 2026.",
+ "method": "Picks were chosen by counting how many of the three sources (Good Housekeeping, Consumer Reports, CNET) recommended each model and favoring those mentioned by multiple sources.",
+ "assumptions": "No price data was included because none of the excerpts provided exact pricing for these models.",
+ "products": [
+  {
+   "name": "LG Smart French Door Refrigerator with Dual Ice Maker",
+   "short": "LG Smart French Door",
+   "badge": "Best Overall",
+   "why": [
+    "Good Housekeeping lists this model as its Best Overall pick, highlighting its smart features and dual ice maker.",
+    "CNET also names an LG French‑door model as its overall winner, noting its elegant design and reliable performance."
+   ],
+   "desc": "A French‑door refrigerator with smart connectivity, a dual ice maker and a spacious interior. It does not include a built‑in water filter.",
+   "benefit": "Picture a family that cooks daily and needs reliable temperature control and extra ice. The LG model gives you smart app control, a dual ice maker and plenty of space for groceries, so meals stay fresh longer. It beats the GE and Whirlpool picks by offering both smart features and two ice makers, which none of the others provide. The catch: it lacks a built‑in water filter.",
+   "specs": [
+    "Smart connectivity",
+    "Dual ice maker",
+    "French‑door layout"
+   ],
+   "pros": [
+    "Smart app control",
+    "Two ice makers",
+    "Large capacity"
+   ],
+   "cons": [
+    "No water filter",
+    "Higher price point"
+   ],
+   "best_for": "Tech‑savvy families who want extra ice",
+   "skip_if": "If you need a built‑in water dispenser",
+   "link": "https://www.amazon.com/s?k=LG+Smart+French+Door+Refrigerator+with+Dual+Ice+Maker&tag=zoepicks00-20"
+  },
+  {
+   "name": "GE French Door Refrigerator with Ice Maker",
+   "short": "GE French Door",
+   "badge": "Best Value",
+   "why": [
+    "Good Housekeeping calls this the Best Value pick, noting its ice maker and overall performance.",
+    "Consumer Reports includes GE among its top French‑door recommendations for reliability."
+   ],
+   "desc": "A French‑door refrigerator featuring an ice maker and energy‑efficient operation. It does not mention smart connectivity or a water filter.",
+   "benefit": "Picture a budget‑conscious household that still wants a modern look and ice on demand. The GE fridge provides solid cooling, an ice maker and good energy use, making it a strong value compared to the pricier LG. It wins on cost while still delivering essential features, unlike the higher‑priced Samsung models. The catch: it lacks smart features and a water dispenser.",
+   "specs": [
+    "Ice maker",
+    "Energy‑Star certified",
+    "French‑door design"
+   ],
+   "pros": [
+    "Good value",
+    "Reliable cooling",
+    "Ice maker"
+   ],
+   "cons": [
+    "No smart features",
+    "No water dispenser"
+   ],
+   "best_for": "Value‑focused shoppers",
+   "skip_if": "If you need Wi‑Fi control",
+   "link": "https://www.amazon.com/s?k=GE+French+Door+Refrigerator+with+Ice+Maker&tag=zoepicks00-20"
+  },
+  {
+   "name": "Whirlpool Side-by-Side Refrigerator",
+   "short": "Whirlpool Side‑by‑Side",
+   "badge": "Best Side‑by‑Side",
+   "why": [
+    "Good Housekeeping names this model as its Best Side‑by‑Side pick for overall performance."
+   ],
+   "desc": "A side‑by‑side refrigerator with a classic layout and standard cooling features. It does not include smart technology or a water filter.",
+   "benefit": "Picture a kitchen with limited space where a narrow door opening is important. The Whirlpool side‑by‑side offers a slim profile and reliable temperature control, making it a practical choice over the bulkier French‑door models. It is the only side‑by‑side option in this guide, giving it a unique fit for narrow spaces. The catch: it lacks smart connectivity and a built‑in water dispenser.",
+   "specs": [
+    "Side‑by‑side doors",
+    "Standard cooling",
+    "Classic design"
+   ],
+   "pros": [
+    "Narrow door opening",
+    "Reliable performance",
+    "Traditional layout"
+   ],
+   "cons": [
+    "No smart features",
+    "No water dispenser"
+   ],
+   "best_for": "Homes with narrow kitchen openings",
+   "skip_if": "If you prefer French‑door style",
+   "link": "https://www.amazon.com/s?k=Whirlpool+Side-by-Side+Refrigerator&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "LG Smart French Door Refrigerator with Dual Ice Maker",
+  "line": "Picture a family that cooks daily and needs reliable temperature control and extra ice. The LG model offers smart connectivity, a dual ice maker and a spacious French‑door layout, making it versatile for busy kitchens. It outperforms the other picks with the most advanced smart features and the only dual‑ice system in this guide. The catch: it lacks a built‑in water filter.",
+  "also": [
+   [
+    "Best Value",
+    "GE French Door Refrigerator with Ice Maker"
+   ]
+  ]
+ }
 }

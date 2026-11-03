@@ -2,7 +2,7 @@
  "slug": "best-laptop-charger-2026",
  "title": "Best Laptop Charger (2026)",
  "category": "accessories",
- "date": "Oct 21, 2026",
+ "date": "Nov 3, 2026",
  "summary": "The top laptop chargers of 2026 combine high wattage, compact GaN design, and multiple ports, with the Anker Nano Pro, Ugreen Nexode 200W, Ugreen Nexode 65W, Satechi 165W, and Anker Nano 45W standing out.",
  "method": "I selected chargers that appear in at least two of the provided sources, prioritizing those highlighted as best or best‑value. The sites used were CNET, Tom’s Guide, and PCMag. Added from Amazon listing details (not from the review sources above): Anker Nano 100W, UGREEN 6-Port Station.",
  "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
@@ -197,12 +197,80 @@
    "image": "https://m.media-amazon.com/images/I/51cCM6WEJKL.jpg",
    "image_asin": "B0DNSRXRFT",
    "desc": "A 6-port GaN desktop charging station with an AC extension cord. It is a desk charger, not a pocket charger."
+  },
+  {
+   "name": "Belkin 3‑in‑1 Magnetic Charging Dock",
+   "short": "Belkin 3‑in‑1 Dock",
+   "badge": "Best Wireless Charger Overall",
+   "why": [
+    "The Independent lists this dock as the top wireless charger overall, noting its magnetic design and ability to charge multiple Apple devices.",
+    "It combines a stand and charging pad in one unit."
+   ],
+   "desc": "A magnetic charging dock that holds and wirelessly charges an iPhone, Apple Watch and AirPods together. It does not include a USB‑C power brick.",
+   "benefit": "Picture an iPhone user who also wants their watch and earbuds charged on a nightstand. The dock keeps all three devices together and charges them without cables. It wins over other wireless picks by handling three devices at once, which the single‑pad options cannot. The catch: you need to supply your own power adapter.",
+   "specs": [
+    "Magnetic charging for iPhone, Apple Watch, AirPods",
+    "3‑in‑1 design"
+   ],
+   "pros": [
+    "Charges three Apple devices simultaneously",
+    "Magnetic alignment",
+    "Elegant stand"
+   ],
+   "cons": [
+    "No power adapter included",
+    "Limited to Apple ecosystem"
+   ],
+   "best_for": "Apple users with multiple accessories",
+   "skip_if": "You need a charger for non‑Apple devices",
+   "price": "£110 at The Independent",
+   "link": "https://www.amazon.com/s?k=Belkin+3%E2%80%91in%E2%80%911+Magnetic+Charging+Dock&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026",
+   "tabs": [
+    "phone"
+   ]
+  },
+  {
+   "name": "Apple MagSafe Charger",
+   "short": "Apple MagSafe",
+   "badge": "Best Wireless Charger for iPhone",
+   "why": [
+    "The Independent lists the Apple MagSafe charger as the top choice for iPhone users.",
+    "It provides fast, cable‑free charging specifically for iPhone models with MagSafe."
+   ],
+   "desc": "A single‑pad wireless charger that snaps onto MagSafe‑compatible iPhones. It does not charge watches or earbuds.",
+   "benefit": "Picture an iPhone owner who wants a simple, reliable pad for quick top‑ups at home or in a car. The charger delivers fast, cable‑free power tailored for iPhone, making it the most straightforward option. It beats the multi‑device chargers in simplicity and guaranteed compatibility with Apple’s own standards. The catch: it only charges one device at a time.",
+   "specs": [
+    "MagSafe wireless charging",
+    "Designed for iPhone"
+   ],
+   "pros": [
+    "Fast MagSafe charging",
+    "Simple single‑device use",
+    "Official Apple accessory"
+   ],
+   "cons": [
+    "Charges only one device",
+    "Higher price than generic pads"
+   ],
+   "best_for": "iPhone users seeking a single‑device charger",
+   "skip_if": "You need to charge multiple devices simultaneously",
+   "price": "£49 at The Independent",
+   "link": "https://www.amazon.com/s?k=Apple+MagSafe+Charger&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026",
+   "tabs": [
+    "phone"
+   ]
   }
  ],
  "tabs": [
   {
    "key": "switch",
    "label": "Switch"
+  },
+  {
+   "key": "phone",
+   "label": "Phone"
   }
  ]
 }

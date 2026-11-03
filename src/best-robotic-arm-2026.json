@@ -2,10 +2,14 @@
  "slug": "best-robotic-arm-2026",
  "title": "Best Robotic Arm (2026)",
  "category": "toys_kids",
- "date": "Nov 2, 2026",
+ "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the robot arm models listed in EVST’s Top robot arm models for small‑scale assembly operations (source 5). Products mentioned by multiple sources were prioritized, but only source 5 provided relevant models.",
- "assumptions": "No price information was given in the sources, so pricing is omitted.",
+ "method": "Picks were based on products mentioned in the provided sources. The Roborock Saros Z70 appears in two sources, giving it the strongest support. Other arms are listed from Dobot and Elephant Robotics catalogs.",
+ "assumptions": "No price information was used except where explicitly stated; all price mentions were omitted per instructions.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70",
+  "line": "Buy it if you want a robot vacuum that can also pick up small items. It offers strong vacuuming, mopping, and an OmniGrip arm, but the arm still struggles with some objects."
+ },
  "draft": true
 }

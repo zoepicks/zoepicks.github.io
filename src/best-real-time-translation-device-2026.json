@@ -2,10 +2,20 @@
  "slug": "best-real-time-translation-device-2026",
  "title": "Best Real Time Translation Device (2026)",
  "category": "beauty_health",
- "date": "Nov 2, 2026",
+ "date": "Nov 3, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the criteria outlined in Retekess.com (listener capacity, language coverage, latency, offline behavior, noise performance, total cost) and the product mentions in Screenapp.io and GetSeagull.com.",
- "assumptions": "No price information was provided in the excerpts, so price fields are left null.",
+ "method": "Picks were chosen by counting how many of the provided sources mention each product and by comparing the criteria each source used (language coverage, latency, listener capacity, device compatibility). Sources used: 0,2,4,5,6.",
+ "assumptions": "No price data was given in the excerpts, so price fields are null. All performance claims are taken directly from the sources.",
  "products": [],
+ "verdict": {
+  "pick": "Google Gemini 3.5 Live Translate",
+  "line": "Buy it if you want instant spoken translation on your phone or headphones and need support for many languages. It works on iOS and Android and keeps the conversation flowing with only a few seconds delay. The catch is it still needs an internet connection for best accuracy.",
+  "also": [
+   [
+    "Hardware option",
+    "Apple AirPods Pro 2"
+   ]
+  ]
+ },
  "draft": true
 }
