@@ -32,11 +32,11 @@
    "image": "https://m.media-amazon.com/images/I/71lW9QbuEXL.jpg",
    "image_asin": "B07GRBQXTV",
    "amazon_price": "$19.97",
-   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Neutrogena Hydro Boost City Shield Water Gel Face Moisturizer SPF 25 1.7 oz | Broad Spectr",
    "amazon_rating": "4.7",
    "amazon_reviews": 10544,
-   "amazon_rating_asof": "Nov 1, 2026"
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "La Roche-Posay Toleriane Double Repair Face Moisturizer",
@@ -63,11 +63,11 @@
    "image": "https://m.media-amazon.com/images/I/51SXpf82R2L.jpg",
    "image_asin": "B01N9SPQHQ",
    "amazon_price": "$24.99",
-   "amazon_price_asof": "Nov 1, 2026",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "La Roche-Posay Toleriane Double Repair Face Moisturizer | Daily face cream with glycerin, ",
    "amazon_rating": "4.6",
-   "amazon_reviews": 52641,
-   "amazon_rating_asof": "Nov 1, 2026"
+   "amazon_reviews": 52642,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "CeraVe Moisturizing Cream",
@@ -90,8 +90,8 @@
    "best_for": "Dry or compromised skin",
    "skip_if": "You prefer a lightweight gel",
    "link": "https://www.amazon.com/s?k=CeraVe+Moisturizing+Cream&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Nov 1, 2026",
+   "fill_tries": 2,
+   "fill_last": "Nov 2, 2026",
    "fill_failed": false
   },
   {
@@ -126,7 +126,16 @@
    "link": "https://www.amazon.com/s?k=ILIA+Super+Serum+Skin+Tint+SPF%E2%80%AF40&tag=zoepicks00-20",
    "tabs": [
     "tinted"
-   ]
+   ],
+   "asin": "B08L5LJQ3G",
+   "image": "https://m.media-amazon.com/images/I/51TP4K63M4L.jpg",
+   "image_asin": "B08L5LJQ3G",
+   "amazon_price": "$48.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "ILIA - Super Serum Skin Tint SPF 40 (Bom Bom ST5, 1 fl oz | 30 ml) | Lightweight Foundatio",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 6541,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Tower 28 Beauty SunnyDays Tinted Sunscreen",
@@ -157,7 +166,10 @@
    "link": "https://www.amazon.com/s?k=Tower%E2%80%AF28%E2%80%AFBeauty+SunnyDays+Tinted+Sunscreen&tag=zoepicks00-20",
    "tabs": [
     "tinted"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
