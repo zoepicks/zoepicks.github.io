@@ -2,7 +2,7 @@
  "slug": "best-exercise-bikes-2026",
  "title": "Top Exercise Bikes for Home Cardio (2026)",
  "category": "fitness_outdoor",
- "date": "Nov 2, 2026",
+ "date": "Nov 3, 2026",
  "summary": "The top home cardio bikes of 2026 combine smooth magnetic resistance, smart features, and immersive classes, with Peloton Bike+ and Peloton Cross‑Training Bike+ leading the pack, followed by NordicTrack’s S24 and X24, and Yosuda’s budget‑friendly option.",
  "method": "I selected products that appear in at least two of the provided sources (Peloton Bike+, Peloton Cross‑Training Bike+, NordicTrack S24, NordicTrack X24, Yosuda Indoor Cycling Bike).",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
@@ -195,12 +195,72 @@
    "amazon_price": "$43.99",
    "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Bike Computer Mount for BMC Teammachine R 01 Cockpit - Garmin Edge 1xx/5xx/8xx and Accesso"
+  },
+  {
+   "name": "Charge Bikes City",
+   "short": "Charge City",
+   "badge": "Best for Commuters",
+   "why": [
+    "Tom's Guide calls it a full‑feature e‑bike that’s comfortable and inexpensive.",
+    "It offers stable handling and a full‑throttle assist for easy urban riding."
+   ],
+   "desc": "A city‑focused electric bike with stable handling, full‑throttle assist, and a comfortable ride. It does not claim premium components.",
+   "benefit": "Picture a daily commuter navigating traffic and hills with ease. The bike’s stable handling and full‑throttle assist let the rider arrive without a sweat. It beats the Aventon Soltera’s higher price and the Velotric’s less‑focused city design. The catch: its range is shorter than some long‑range competitors.",
+   "specs": [
+    "Stable handling",
+    "Full‑throttle assist"
+   ],
+   "pros": [
+    "Comfortable ride",
+    "Easy setup",
+    "Affordable"
+   ],
+   "cons": [
+    "Limited range",
+    "Basic component spec"
+   ],
+   "best_for": "Urban commuters",
+   "skip_if": "You need very long range for off‑road trips",
+   "link": "https://www.amazon.com/s?k=Charge+Bikes+City&tag=zoepicks00-20",
+   "tabs": [
+    "electric"
+   ]
+  },
+  {
+   "name": "Aventon Soltera 2.5",
+   "short": "Aventon Soltera",
+   "badge": "Best Overall",
+   "why": [
+    "CNET lists it as the best e‑bike overall for 2026.",
+    "It balances speed, style, and commuter‑friendly features."
+   ],
+   "desc": "An all‑round electric bike praised for its overall performance. It includes pedal‑assist and throttle options but no specific battery details are given.",
+   "benefit": "Picture a rider who wants a versatile bike for both commuting and weekend rides. The Soltera’s overall balance of speed and comfort makes it a solid all‑purpose choice. It outshines the Charge City’s limited range and the Velotric’s narrower focus. The catch: it is positioned at a higher price point than the Charge City.",
+   "pros": [
+    "Versatile performance",
+    "Stylish design",
+    "Good speed"
+   ],
+   "cons": [
+    "Higher price",
+    "No detailed range info"
+   ],
+   "best_for": "Riders seeking an all‑rounder",
+   "skip_if": "Budget is the top priority",
+   "link": "https://www.amazon.com/s?k=Aventon+Soltera+2.5&tag=zoepicks00-20",
+   "tabs": [
+    "electric"
+   ]
   }
  ],
  "tabs": [
   {
    "key": "road",
    "label": "Road"
+  },
+  {
+   "key": "electric",
+   "label": "Electric"
   }
  ]
 }
