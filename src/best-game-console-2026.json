@@ -34,9 +34,15 @@
    "best_for": "Families and casual gamers",
    "skip_if": "You need a fully portable device with long battery life",
    "link": "https://www.amazon.com/s?k=Nintendo+Switch%C2%A02&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0F3GWXLTS",
+   "image": "https://m.media-amazon.com/images/I/714-Fh3ngmL.jpg",
+   "image_asin": "B0F3GWXLTS",
+   "amazon_price": "$499.00",
+   "amazon_price_asof": "Nov 3, 2026",
+   "amazon_listing": "Nintendo Switch 2 System"
   },
   {
    "name": "Asus ROG Xbox Ally X",
@@ -99,8 +105,8 @@
    "best_for": "Hardcore PC gamers",
    "skip_if": "You need a dock for TV play",
    "link": "https://www.amazon.com/s?k=MSI+Claw%C2%A08+EX+AI%2B&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Nov 2, 2026",
+   "fill_tries": 2,
+   "fill_last": "Nov 3, 2026",
    "fill_failed": false
   },
   {
@@ -132,7 +138,13 @@
    "link": "https://www.amazon.com/s?k=Xbox+Series+X&tag=zoepicks00-20",
    "tabs": [
     "xbox"
-   ]
+   ],
+   "asin": "B0GN4NBD2V",
+   "image": "https://m.media-amazon.com/images/I/61IoAtab5XL.jpg",
+   "image_asin": "B0GN4NBD2V",
+   "amazon_price": "$349.99",
+   "amazon_price_asof": "Nov 3, 2026",
+   "amazon_listing": "Turtle Beach Stealth Pro II Premium Wireless Gaming Headset for Xbox Series X|S, PS5, PS4,"
   },
   {
    "name": "Xbox One X",
@@ -165,7 +177,10 @@
    "price_asof": "Nov 3, 2026",
    "tabs": [
     "xbox"
-   ]
+   ],
+   "asin": "B074WPGYRF",
+   "image": "https://m.media-amazon.com/images/I/51tvCKbPkkL.jpg",
+   "image_asin": "B074WPGYRF"
   },
   {
    "name": "Xbox 360 Slim",
@@ -196,7 +211,13 @@
    "link": "https://www.amazon.com/s?k=Xbox+360+Slim&tag=zoepicks00-20",
    "tabs": [
     "xbox"
-   ]
+   ],
+   "asin": "B0FJYPQFTD",
+   "image": "https://m.media-amazon.com/images/I/61XMWdk+7iL.jpg",
+   "image_asin": "B0FJYPQFTD",
+   "amazon_price": "$175.58",
+   "amazon_price_asof": "Nov 3, 2026",
+   "amazon_listing": "Xbox Microsoft 360 S Slim Console Bundle – Black 4GB System - Includes Controller, and Up "
   }
  ],
  "verdict": {
