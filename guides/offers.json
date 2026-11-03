@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-03T03:00:07Z",
+ "updated": "2026-11-03T03:29:54Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -5049,24 +5049,6 @@
     ]
    },
    {
-    "key": "waffle-maker",
-    "label": "Waffle Maker",
-    "items": [
-     {
-      "asin": "B0F13G7SF6",
-      "name": "Waffle Maker, 1400W Belgian Waffle Maker",
-      "pct": 10,
-      "rating": 4.5,
-      "t": 1793546306,
-      "img": "https://m.media-amazon.com/images/I/719-xpJp88L.jpg",
-      "link": "https://www.amazon.com/dp/B0F13G7SF6?tag=zoepicks00-20",
-      "now": "58.49",
-      "was": "64.99",
-      "reviews": 553
-     }
-    ]
-   },
-   {
     "key": "stove-pressure-cooker",
     "label": "Stove Pressure Cooker",
     "items": []
@@ -5084,6 +5066,11 @@
    {
     "key": "toaster-ovens",
     "label": "Toaster Ovens",
+    "items": []
+   },
+   {
+    "key": "waffle-maker",
+    "label": "Waffle Maker",
     "items": []
    },
    {
