@@ -2,7 +2,7 @@
  "slug": "best-game-console-2026",
  "title": "Best Game Console (2026)",
  "category": "gaming",
- "date": "Nov 2, 2026",
+ "date": "Nov 3, 2026",
  "summary": "The guide lists the top handheld game consoles for 2026, highlighting the Nintendo Switch 2 as the overall leader.",
  "method": "Products were selected from TechRadar, Tom’s Hardware, IGN, and PC Gamer reviews, prioritising items mentioned by multiple sites.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
@@ -102,6 +102,101 @@
    "fill_tries": 1,
    "fill_last": "Nov 2, 2026",
    "fill_failed": false
+  },
+  {
+   "name": "Xbox Series X",
+   "short": "Series X",
+   "badge": "Best Overall",
+   "why": [
+    "T3 calls the Series X “the most powerful console” and notes its strong backwards compatibility. It also mentions easy expandable storage.",
+    "The console’s design is described as uninspired, but performance outweighs aesthetics."
+   ],
+   "desc": "The Series X is Microsoft’s next‑gen flagship. It has a 1 TB drive with about 800 GB usable, supports 4K gaming, and lets you add storage easily.",
+   "benefit": "Picture a gamer who wants to play the latest titles at the highest settings without a PC. The Series X delivers the top performance in this guide and the most usable storage expansion options. It beats the One X and 360 Slim in raw power and the Elite controller in overall system capability. The catch: only about 800 GB of its 1 TB drive is usable.",
+   "specs": [
+    "1 TB internal SSD (≈800 GB usable)",
+    "4K gaming support",
+    "Strong backwards compatibility"
+   ],
+   "pros": [
+    "Most powerful console",
+    "Easy storage expansion",
+    "Strong backwards compatibility"
+   ],
+   "cons": [
+    "Only ~800 GB usable storage",
+    "Uninspired design"
+   ],
+   "best_for": "Performance‑focused gamers",
+   "skip_if": "You need a cheap console",
+   "link": "https://www.amazon.com/s?k=Xbox+Series+X&tag=zoepicks00-20",
+   "tabs": [
+    "xbox"
+   ]
+  },
+  {
+   "name": "Xbox One X",
+   "short": "One X",
+   "badge": "Best Value",
+   "why": [
+    "PCWorld describes the One X as “as powerful as many gaming PCs” and notes its small, quiet design.",
+    "It is priced at $500 in the review, making it cheaper than a comparable PC build."
+   ],
+   "desc": "The Xbox One X is a compact console that offers 4K gaming. It includes a 1 TB hard drive and is quieter than larger models.",
+   "benefit": "Picture a player who wants 4K games without spending on a full PC. The One X gives near‑PC power in a small box and costs less than a comparable desktop. It is the only console here with a 1 TB drive and a quiet profile, beating the Series X on price and the 360 Slim on performance. The catch: its hard drive isn’t ideal for modern games and the UI is still messy.",
+   "specs": [
+    "1 TB hard drive",
+    "Power comparable to many PCs",
+    "Small and quiet"
+   ],
+   "pros": [
+    "Powerful for price",
+    "Compact design",
+    "Quiet operation"
+   ],
+   "cons": [
+    "Hard drive not ideal for modern games",
+    "User interface is messy"
+   ],
+   "best_for": "Budget gamers wanting high resolution",
+   "skip_if": "You need the absolute top performance",
+   "price": "$500 at PCWorld",
+   "link": "https://www.amazon.com/s?k=Xbox+One+X&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026",
+   "tabs": [
+    "xbox"
+   ]
+  },
+  {
+   "name": "Xbox 360 Slim",
+   "short": "360 Slim",
+   "badge": "Classic Choice",
+   "why": [
+    "TechRadar’s review highlights the console’s reduced size and mentions its noise and storage features.",
+    "It remains a viable older‑generation option."
+   ],
+   "desc": "The Xbox 360 Slim is a smaller version of the original 360. It measures 270 mm and includes updated noise and storage handling.",
+   "benefit": "Picture a family that already owns Xbox games and wants a smaller console for the living room. The 360 Slim’s reduced size and quieter operation make it easier to fit in tight spaces. It is the only older‑gen console in this list, offering a different price point than newer models. The catch: it lacks the power and 4K support of newer consoles.",
+   "specs": [
+    "270 mm size",
+    "Improved noise handling",
+    "Updated storage interface"
+   ],
+   "pros": [
+    "Smaller footprint",
+    "Quieter than original 360",
+    "Legacy game library"
+   ],
+   "cons": [
+    "No 4K support",
+    "Lower performance than newer consoles"
+   ],
+   "best_for": "Owners of legacy Xbox games",
+   "skip_if": "You need next‑gen performance",
+   "link": "https://www.amazon.com/s?k=Xbox+360+Slim&tag=zoepicks00-20",
+   "tabs": [
+    "xbox"
+   ]
   }
  ],
  "verdict": {
@@ -113,5 +208,11 @@
     "Asus ROG Xbox Ally X"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "xbox",
+   "label": "Xbox"
+  }
+ ]
 }
