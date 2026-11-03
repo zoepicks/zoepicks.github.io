@@ -66,12 +66,12 @@
    "asin": "B0GQVBJT4J",
    "image": "https://m.media-amazon.com/images/I/71Uk80XwJhL.jpg",
    "image_asin": "B0GQVBJT4J",
-   "amazon_price": "$729.00",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price": "$749.00",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Apple iPad Air 11-inch (M4): Liquid Retina Display, 128GB, 12MP Front/Back Camera, Wi-Fi 7",
    "amazon_rating": "4.7",
-   "amazon_reviews": 912,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 963,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Samsung Galaxy Tab S11",
@@ -98,12 +98,12 @@
    "asin": "B0FGKN976K",
    "image": "https://m.media-amazon.com/images/I/61Zi3ZSTHRL.jpg",
    "image_asin": "B0FGKN976K",
-   "amazon_price": "$1,012.43",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price": "$999.99",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Samsung Galaxy Tab S11 256GB WiFi Android Tablet, Galaxy AI, IP68, Gray | Dynamic AMOLED 2",
    "amazon_rating": "4.6",
-   "amazon_reviews": 621,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 642,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Apple iPad Pro (M5)",
@@ -131,12 +131,12 @@
    "asin": "B0FWD1MS82",
    "image": "https://m.media-amazon.com/images/I/71W1m-Bj9sL.jpg",
    "image_asin": "B0FWD1MS82",
-   "amazon_price": "$1,424.00",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price": "$1,399.99",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Apple iPad Pro 13-inch (M5): Ultra Retina XDR Display, 256GB, Landscape 12MP Front Camera/",
    "amazon_rating": "4.7",
-   "amazon_reviews": 838,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 848,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Apple iPad Mini (7th Gen)",
@@ -170,8 +170,8 @@
    "tabs": [
     "pocket"
    ],
-   "fill_tries": 1,
-   "fill_last": "Oct 22, 2026",
+   "fill_tries": 2,
+   "fill_last": "Nov 2, 2026",
    "fill_failed": false
   },
   {
@@ -210,11 +210,11 @@
    "image": "https://m.media-amazon.com/images/I/71ZvPIpKktL.jpg",
    "image_asin": "B0GVTPKJVT",
    "amazon_price": "$72.99",
-   "amazon_price_asof": "Oct 22, 2026",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Amazon Fire HD 10 tablet, built for relaxation, 10.1\" vibrant Full HD screen, octa-core pr",
    "amazon_rating": "4.5",
-   "amazon_reviews": 44974,
-   "amazon_rating_asof": "Oct 22, 2026"
+   "amazon_reviews": 45185,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "iPad Air (M4, 2026)",
@@ -248,7 +248,10 @@
    "price_asof": "Nov 1, 2026",
    "tabs": [
     "ipad"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "iPad (11th‑Gen, 2025)",
@@ -281,7 +284,10 @@
    "price_asof": "Nov 1, 2026",
    "tabs": [
     "ipad"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "iPad Pro (2025)",
@@ -315,7 +321,10 @@
    "price_asof": "Nov 1, 2026",
    "tabs": [
     "ipad"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "iPad (2025) – Base Model",
@@ -346,7 +355,10 @@
    "link": "https://www.amazon.com/s?k=iPad+%282025%29+%E2%80%93+Base+Model&tag=zoepicks00-20",
    "tabs": [
     "ipad"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Amazon Kindle Paperwhite (2024)",
@@ -376,7 +388,16 @@
    "link": "https://www.amazon.com/s?k=Amazon+Kindle+Paperwhite+%282024%29&tag=zoepicks00-20",
    "tabs": [
     "e-reader"
-   ]
+   ],
+   "asin": "B0CFPJYX7P",
+   "image": "https://m.media-amazon.com/images/I/61KMlIaN9pL.jpg",
+   "image_asin": "B0CFPJYX7P",
+   "amazon_price": "$199.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Amazon Kindle Paperwhite 16GB (2024 model) – 7\" glare-free display and weeks of battery li",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 22979,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Kobo Libra Colour",
