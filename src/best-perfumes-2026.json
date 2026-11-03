@@ -104,12 +104,12 @@
    "asin": "B000C1Z3LS",
    "image": "https://m.media-amazon.com/images/I/612wd8u-zXL.jpg",
    "image_asin": "B000C1Z3LS",
-   "amazon_price": "$110.00",
-   "amazon_price_asof": "Oct 30, 2026",
+   "amazon_price": "$82.50",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Clinique Happy Eau de Parfum Spray | Notes of Grapefruit, Bergamot, Hawaiian Wedding Flowe",
    "amazon_rating": "4.7",
-   "amazon_reviews": 15228,
-   "amazon_rating_asof": "Oct 30, 2026"
+   "amazon_reviews": 15230,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Sol de Janeiro Cheirosa 62 Eau de Parfum",
@@ -143,11 +143,11 @@
    "image": "https://m.media-amazon.com/images/I/61bZgTfgnYL.jpg",
    "image_asin": "B0BF3JSGS6",
    "amazon_price": "$28.00",
-   "amazon_price_asof": "Oct 30, 2026",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Sol de Janeiro Perfume Cheirosa 62 Perfume Eau de Parfum | Long-Lasting Gourmand Vanilla P",
    "amazon_rating": "4.5",
-   "amazon_reviews": 2752,
-   "amazon_rating_asof": "Oct 30, 2026"
+   "amazon_reviews": 2754,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Parfums de Marly Athénaïs Eau de Parfum",
@@ -217,12 +217,12 @@
    "asin": "B0DFV4D7KJ",
    "image": "https://m.media-amazon.com/images/I/51AmjS6UqjL.jpg",
    "image_asin": "B0DFV4D7KJ",
-   "amazon_price": "$35.90",
-   "amazon_price_asof": "Oct 30, 2026",
+   "amazon_price": "$35.16",
+   "amazon_price_asof": "Nov 2, 2026",
    "amazon_listing": "Gucci Flora Gorgeous Orchid for Women 0.33 oz Eau de Parfum Spray | ",
    "amazon_rating": "4.5",
    "amazon_reviews": 75,
-   "amazon_rating_asof": "Oct 30, 2026"
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Floral Street Wild Vanilla Orchid Eau de Parfum",
@@ -286,7 +286,10 @@
    "link": "https://www.amazon.com/s?k=Thierry+Mugler+Angel&tag=zoepicks00-20",
    "tabs": [
     "mugler"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Thierry Mugler Alien",
@@ -316,7 +319,10 @@
    "link": "https://www.amazon.com/s?k=Thierry+Mugler+Alien&tag=zoepicks00-20",
    "tabs": [
     "mugler"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Mugler A* MEN",
@@ -347,7 +353,16 @@
    "link": "https://www.amazon.com/s?k=Mugler+A%2A%E2%80%AFMEN&tag=zoepicks00-20",
    "tabs": [
     "mugler"
-   ]
+   ],
+   "asin": "B000JLAWIA",
+   "image": "https://m.media-amazon.com/images/I/6142r5+XiRL.jpg",
+   "image_asin": "B000JLAWIA",
+   "amazon_price": "$78.40",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Mugler A*Men Eau de Toilette - Long Lasting Woody Ambery Cologne for Men | Fragrance with ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 2604,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Lattafa",
@@ -372,7 +387,16 @@
    "link": "https://www.amazon.com/s?k=Lattafa&tag=zoepicks00-20",
    "tabs": [
     "arabic"
-   ]
+   ],
+   "asin": "B0DF85K4N5",
+   "image": "https://m.media-amazon.com/images/I/41KLl8IF6sL.jpg",
+   "image_asin": "B0DF85K4N5",
+   "amazon_price": "$27.84",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Lattafa Angham - Citrus, Lavender, Musk, Amber, Vanilla - Eau de Parfum Long-Lasting Fragr",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 9057,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Al Haramain",
@@ -397,7 +421,16 @@
    "link": "https://www.amazon.com/s?k=Al+Haramain&tag=zoepicks00-20",
    "tabs": [
     "arabic"
-   ]
+   ],
+   "asin": "B0FN5BQ3NN",
+   "image": "https://m.media-amazon.com/images/I/81SSfyn0paL.jpg",
+   "image_asin": "B0FN5BQ3NN",
+   "amazon_price": "$39.99",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "Al Haramain Amber Oud Gold Edition Eau De Parfum Spray 60ml + ATOMIZER – Unisex Perfume Ar",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 638,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Rasasi",
@@ -422,7 +455,16 @@
    "link": "https://www.amazon.com/s?k=Rasasi&tag=zoepicks00-20",
    "tabs": [
     "arabic"
-   ]
+   ],
+   "asin": "B0CKM2SSK3",
+   "image": "https://m.media-amazon.com/images/I/71DfESbdC8L.jpg",
+   "image_asin": "B0CKM2SSK3",
+   "amazon_price": "$30.36",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "RASASI Hawas Ice for Men Eau de Parfum, 100ml(3.38 Oz), Premium Arabian Fragrance",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 6634,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "Dior Miss Dior Eau de Parfum",
@@ -454,7 +496,10 @@
    "link": "https://www.amazon.com/s?k=Dior+Miss+Dior+Eau+de+Parfum&tag=zoepicks00-20",
    "tabs": [
     "dior"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Dior J’Adore L’Or Eau de Parfum",
@@ -486,7 +531,10 @@
    "link": "https://www.amazon.com/s?k=Dior+J%E2%80%99Adore+L%E2%80%99Or+Eau+de+Parfum&tag=zoepicks00-20",
    "tabs": [
     "dior"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Dior Addict Eau de Parfum (Rosy Glow, Peachy Glow, Purple Glow)",
@@ -518,7 +566,10 @@
    "link": "https://www.amazon.com/s?k=Dior+Addict+Eau+de+Parfum+%28Rosy+Glow%2C+Peachy+Glow%2C+Purple+Glow%29&tag=zoepicks00-20",
    "tabs": [
     "dior"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "intro": [
