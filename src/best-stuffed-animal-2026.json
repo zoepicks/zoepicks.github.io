@@ -35,7 +35,10 @@
    ],
    "best_for": "Adults and kids needing warmth or cool relief",
    "skip_if": "Users need a lightweight toy",
-   "link": "https://www.amazon.com/s?k=Warmies+Weighted+Stuffed+Animal&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Warmies+Weighted+Stuffed+Animal&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Hugz Plushies",
@@ -63,7 +66,10 @@
    ],
    "best_for": "Gift givers",
    "skip_if": "Need a heavy weighted toy",
-   "link": "https://www.amazon.com/s?k=Hugz+Plushies&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Hugz+Plushies&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Hugimals",
@@ -90,7 +96,13 @@
    ],
    "best_for": "Little children",
    "skip_if": "Adults need a heavier weighted toy",
-   "link": "https://www.amazon.com/s?k=Hugimals&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Hugimals&tag=zoepicks00-20",
+   "asin": "B0DJC4JMDF",
+   "image": "https://m.media-amazon.com/images/I/81Sh4J6Wt8L.jpg",
+   "image_asin": "B0DJC4JMDF",
+   "amazon_price": "$48.00",
+   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_listing": "HUGIMALS Heart to Hug Pillow in Latte | 5 lb Cozy Weighted Pillow for Self Care Ultra Soft"
   }
  ],
  "verdict": {
