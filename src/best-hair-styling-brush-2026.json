@@ -33,7 +33,13 @@
    ],
    "best_for": "Travelers and quick touch‑ups",
    "skip_if": "You prefer a plug‑in brush or need long continuous use",
-   "link": "https://www.amazon.com/s?k=Go+Brush+Pro+2026+Cordless+Hair+Straightener+Brush&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Go+Brush+Pro+2026+Cordless+Hair+Straightener+Brush&tag=zoepicks00-20",
+   "asin": "B0GPQYTRLQ",
+   "image": "https://m.media-amazon.com/images/I/7171cGYa37L.jpg",
+   "image_asin": "B0GPQYTRLQ",
+   "amazon_price": "$39.99",
+   "amazon_price_asof": "Nov 3, 2026",
+   "amazon_listing": "Go Brush Pro 2026 Upgraded Cordless Hair Straightener Brush for Women | Ionic & Anti‑Frizz"
   },
   {
    "name": "Tangle Teezer Ultimate Detangler Hairbrush",
@@ -62,7 +68,13 @@
    "skip_if": "You need a styling brush with heat",
    "price": "£14 at The Independent",
    "link": "https://www.amazon.com/s?k=Tangle+Teezer+Ultimate+Detangler+Hairbrush&tag=zoepicks00-20",
-   "price_asof": "Nov 3, 2026"
+   "price_asof": "Nov 3, 2026",
+   "asin": "B0C1THQ6HF",
+   "image": "https://m.media-amazon.com/images/I/71P0oNSyreL.jpg",
+   "image_asin": "B0C1THQ6HF",
+   "amazon_price": "$20.98",
+   "amazon_price_asof": "Nov 3, 2026",
+   "amazon_listing": "Tangle Teezer Large Ultimate Detangler Brush, Straight to Wavy, Vanilla | Hairbrush with p"
   },
   {
    "name": "The Detangler on the Go Travel Detangling Hair Brush",
@@ -91,7 +103,10 @@
    "skip_if": "You want a styling brush with heat",
    "price": "£8 at The Independent",
    "link": "https://www.amazon.com/s?k=The+Detangler+on+the+Go+Travel+Detangling+Hair+Brush&tag=zoepicks00-20",
-   "price_asof": "Nov 3, 2026"
+   "price_asof": "Nov 3, 2026",
+   "fill_tries": 1,
+   "fill_last": "Nov 3, 2026",
+   "fill_failed": false
   }
  ]
 }
