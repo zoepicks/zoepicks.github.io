@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-03T01:29:44Z",
+ "updated": "2026-11-03T01:59:31Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2215,19 +2215,6 @@
     "label": "Winter Coats",
     "items": [
      {
-      "asin": "B0FLY5STPJ",
-      "name": "Boys Girls Winter Coat Puffer Jacket Sherpa Fleece",
-      "pct": 50,
-      "rating": 4.1,
-      "t": 1793562760,
-      "img": "https://m.media-amazon.com/images/I/71ula1PsbHL.jpg",
-      "link": "https://www.amazon.com/dp/B0FLY5STPJ?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "59.99",
-      "reviews": 110,
-      "tier": "budget"
-     },
-     {
       "asin": "B0GVDBTL5F",
       "name": "ZITY Mens Winter Jackets Sherpa Lined Coats Insulated…",
       "pct": 59,
@@ -2239,19 +2226,34 @@
       "was": "84.99",
       "deal": "Limited time deal",
       "reviews": 45,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B09M64CDDH",
       "name": "TACVASEN Men's Winter Jacket",
       "pct": 38,
-      "rating": 4.6,
-      "t": 1793540339,
+      "rating": 4.7,
+      "t": 1793548220,
       "img": "https://m.media-amazon.com/images/I/61iBJGpSSVL.jpg",
       "link": "https://www.amazon.com/dp/B09M64CDDH?tag=zoepicks00-20",
-      "now": "61.98",
+      "now": "55.78",
       "was": "89.98",
-      "reviews": 2834,
+      "deal": "Limited time deal",
+      "reviews": 2865,
+      "tier": "mid"
+     },
+     {
+      "asin": "B01548G3GM",
+      "name": "WenVen Women's Winter Thickened Long Puffer Coat Warm Parka…",
+      "pct": 28,
+      "rating": 4.4,
+      "t": 1793548220,
+      "img": "https://m.media-amazon.com/images/I/71Kmz8dXHLL.jpg",
+      "link": "https://www.amazon.com/dp/B01548G3GM?tag=zoepicks00-20",
+      "now": "59.99",
+      "was": "82.99",
+      "deal": "Limited time deal",
+      "reviews": 9034,
       "tier": "premium"
      }
     ]
