@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-03T05:30:11Z",
+ "updated": "2026-11-03T05:31:11Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1467,6 +1467,11 @@
    {
     "key": "hair-raising-headband",
     "label": "Hair Raising Headband",
+    "items": []
+   },
+   {
+    "key": "hair-styling-brush",
+    "label": "Hair Styling Brush",
     "items": []
    },
    {
@@ -3585,6 +3590,11 @@
     "items": []
    },
    {
+    "key": "nintendo-switch-games",
+    "label": "Nintendo Switch Games",
+    "items": []
+   },
+   {
     "key": "nintendo-switch-skin",
     "label": "Nintendo Switch Skin",
     "items": []
@@ -4549,6 +4559,11 @@
    {
     "key": "toaster-ovens",
     "label": "Toaster Ovens",
+    "items": []
+   },
+   {
+    "key": "white-refrigerator",
+    "label": "White Refrigerator",
     "items": []
    },
    {
