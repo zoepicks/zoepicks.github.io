@@ -4255,5 +4255,17 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Nov 3, 2026"
+ },
+ {
+  "title": "Best Custom Hoodie (2026)",
+  "slug": "best-custom-hoodie-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-hoodies-2026",
+  "tab": "custom",
+  "tab_label": "Custom"
  }
 ]
