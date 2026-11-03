@@ -1,16 +1,15 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-graphics-card-2026 4 products
-[collect] progress: guide 3 done (best-graphics-card-2026) | tried 3 | tavily keys alive 3/4
-[collect] topic: Best Wireless Sport Headphones (2026)
-[collect] tavily -> 4 pages
-[collect] browser fetch 9000 chars: https://www.rtings.com/headphones/reviews/jabra/elite-sport-truly-wireless
-[collect] 4/4 source pages fetched
-[collect] llm request: 4 sources x 1622 chars, ~2971 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,749 requested 2,558 -> skipped for this run
-[collect] drop (only 1 sources): Shokz OpenRun Pro 2
+[collect] 3/4 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +1 readable page(s) -> 4 total (textwordcount.com)
+[collect] llm request: 4 sources x 1622 chars, ~2973 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Keychron V1
+[collect] drop (only 1 sources): Satechi SM1 Slim Mechanical Backlit Bluetooth Keyboard
+[collect] drop (only 1 sources): Clevetura S
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (trustedreviews.com, techgearlab.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1068 chars, ~2964 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): SteelSeries Apex Pro Gen 3
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -175,6 +174,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/i
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-rope-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kayak-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-keyboard-with-function-keys-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-keyboards-for-typing-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kids-tablets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kindle-case-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-wireless-sport-headphones-2026 3 products
-[collect] progress: guide 4 done (best-wireless-sport-headphones-2026) | tried 4 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,749 requested 2,558"}, "toolarge": {}, "minute": {}, "noaccess": {"ITNE|openai/gpt-oss-120b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener"}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 4 guide(s) built, 4 topic(s) tried
+[collect] done: best-keyboard-with-function-keys-2026 3 products
+[collect] progress: guide 1 done (best-keyboard-with-function-keys-2026) | tried 1 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried

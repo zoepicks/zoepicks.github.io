@@ -1,0 +1,112 @@
+{
+ "slug": "best-keyboard-with-function-keys-2026",
+ "title": "Best Keyboard With Function Keys (2026)",
+ "category": "accessories",
+ "date": "Nov 3, 2026",
+ "summary": "A selection of top keyboards that include function keys, covering office, gaming and custom‑key needs.",
+ "method": "Picks were chosen from the six source articles, focusing on keyboards that were highlighted as top picks and that include a function‑key row. Preference was given to products appearing in more than one source, but none overlapped, so the highest‑rated items from each source were used.",
+ "assumptions": "No price information was added unless explicitly stated in a source; all other details come directly from the excerpts.",
+ "products": [
+  {
+   "name": "Keychron Q1 Max",
+   "short": "Q1 Max",
+   "badge": "Best Overall",
+   "why": [
+    "The review calls it the best mechanical keyboard for most users, noting its premium build and triple‑mode connectivity.",
+    "It also supports QMK customization and includes a programmable knob, giving advanced users more control."
+   ],
+   "desc": "A mechanical keyboard with a solid chassis, wireless Bluetooth, USB‑C, QMK firmware support and a programmable knob. It does not include a built‑in trackpad.",
+   "benefit": "Picture a programmer who switches between laptop and desktop and needs reliable wireless performance. The Q1 Max gives strong build quality and the ability to remap keys via QMK, which the other picks lack. It is the only keyboard in this guide with a dedicated programmable knob. The catch: it costs more than the other selections.",
+   "specs": [
+    "Price $183.99",
+    "Triple‑mode wireless",
+    "QMK customization",
+    "Programmable knob"
+   ],
+   "pros": [
+    "Premium build",
+    "Wireless flexibility",
+    "Deep customization"
+   ],
+   "cons": [
+    "Higher price"
+   ],
+   "best_for": "Power users who want customization",
+   "skip_if": "Budget is a primary concern",
+   "price": "$183.99 at Amazon",
+   "link": "https://www.amazon.com/s?k=Keychron+Q1+Max&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026"
+  },
+  {
+   "name": "Logitech MX Keys S",
+   "short": "MX Keys S",
+   "badge": "Best Wireless Office",
+   "why": [
+    "TechGearLab names it the best wireless office keyboard, praising its comfort and satisfying keystrokes.",
+    "It blends features like easy‑switch pairing and a low‑profile design for long typing sessions."
+   ],
+   "desc": "A wireless office keyboard with comfortable low‑profile keys, easy‑switch Bluetooth pairing and a solid aluminum frame. It does not have mechanical switches or hot‑swap capability.",
+   "benefit": "Picture a remote worker who types for hours and needs a comfortable, reliable keyboard. The MX Keys S offers smooth keystrokes and easy device switching, which the gaming‑focused keyboards don’t provide. It is the only fully wireless office‑oriented keyboard here. The catch: it lacks mechanical switches for those who prefer clicky feedback.",
+   "specs": [
+    "Wireless connectivity",
+    "Low‑profile keys",
+    "Aluminum frame"
+   ],
+   "pros": [
+    "Comfortable typing",
+    "Easy Bluetooth switching",
+    "Solid build"
+   ],
+   "cons": [
+    "No mechanical switches"
+   ],
+   "best_for": "Office and remote workers",
+   "skip_if": "You need mechanical key feel",
+   "link": "https://www.amazon.com/s?k=Logitech+MX+Keys+S&tag=zoepicks00-20"
+  },
+  {
+   "name": "Corsair K70 PRO TKL",
+   "short": "K70 PRO TKL",
+   "badge": "Best for Gaming",
+   "why": [
+    "TextWordCount lists it as the best gaming keyboard, highlighting Hall Effect switches and rapid trigger.",
+    "It also supports SOCD mitigation, useful for competitive play."
+   ],
+   "desc": "A tenkeyless mechanical gaming keyboard with Hall Effect magnetic switches, rapid trigger technology and SOCD support. It does not include a numeric keypad.",
+   "benefit": "Picture a competitive gamer who values ultra‑fast response and minimal input lag. The K70 PRO TKL’s Hall Effect switches give the fastest actuation, beating the other picks that use standard mechanical switches. It is the only keyboard in this guide with magnetic Hall Effect switches. The catch: its tenkeyless layout may miss the number pad for some users.",
+   "specs": [
+    "Price $139.99",
+    "Hall Effect switches",
+    "Rapid trigger",
+    "SOCD support"
+   ],
+   "pros": [
+    "Fastest actuation",
+    "Gaming‑focused features",
+    "Compact layout"
+   ],
+   "cons": [
+    "No numpad"
+   ],
+   "best_for": "Competitive gamers",
+   "skip_if": "You need a full‑size keyboard",
+   "price": "$139.99 at Amazon",
+   "link": "https://www.amazon.com/s?k=Corsair+K70+PRO+TKL&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026"
+  }
+ ],
+ "verdict": {
+  "pick": "Keychron Q1 Max",
+  "line": "Ideal for users who want premium build quality and deep customization, it offers triple‑mode wireless and QMK support. The main catch is its higher price point.",
+  "also": [
+   [
+    "Best Wireless Office",
+    "Logitech MX Keys S"
+   ],
+   [
+    "Best Gaming",
+    "Corsair K70 PRO TKL"
+   ]
+  ]
+ }
+}
