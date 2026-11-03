@@ -1,0 +1,114 @@
+{
+ "slug": "best-graphics-card-2026",
+ "title": "Best Graphics Card (2026)",
+ "category": "accessories",
+ "date": "Nov 3, 2026",
+ "summary": "The guide ranks the newest high‑end Nvidia and AMD GPUs for gaming and creative work in 2026.",
+ "method": "Products were chosen from the four source articles that actually name specific GPUs. Picks were ordered by how many sources mention them and by the performance tier each source assigns.",
+ "assumptions": "No price data was given in the excerpts, so price is omitted. All performance claims come directly from the source text.",
+ "products": [
+  {
+   "name": "Nvidia GeForce RTX 5090",
+   "short": "RTX 5090",
+   "badge": "Best Overall",
+   "why": [
+    "Digital Trends calls it the most powerful graphics card and says it delivers unrivaled 4K gaming performance. It also notes the card has a Founder's Edition design, DisplayPort 2.1, 32 GB of memory for AI workloads and DLSS 4 support."
+   ],
+   "desc": "A high‑end Nvidia GPU with 32 GB of memory, DisplayPort 2.1, DLSS 4 and a Founder's Edition design. It does not include a lower‑power variant.",
+   "benefit": "Picture a gamer building a 4K rig for the latest titles and AI‑enhanced workflows. The RTX 5090 gives the fastest frame rates and AI acceleration thanks to its large memory and DLSS 4. It outpaces the other picks, being the only card with 32 GB and DLSS 4 in this guide. The catch: its power requirements are off the charts.",
+   "specs": [
+    "32 GB memory",
+    "DisplayPort 2.1",
+    "DLSS 4"
+   ],
+   "pros": [
+    "Unrivaled 4K performance",
+    "Large memory for AI",
+    "Advanced DLSS support"
+   ],
+   "cons": [
+    "Very high power draw"
+   ],
+   "best_for": "Enthusiasts who need top 4K gaming and AI work",
+   "skip_if": "You have a limited power supply or budget",
+   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+5090&tag=zoepicks00-20"
+  },
+  {
+   "name": "Nvidia GeForce RTX 4070",
+   "short": "RTX 4070",
+   "badge": "Best 4K Gaming",
+   "why": [
+    "CNET lists it as the entry‑level card for 4K gaming and good 1440p performance, also noting it handles compute‑intensive professional graphics."
+   ],
+   "desc": "A Nvidia GPU positioned for entry‑level 4K gaming and strong 1440p performance. It does not claim the highest memory capacity.",
+   "benefit": "Picture a gamer who wants 4K play without breaking the bank. The RTX 4070 delivers solid 4K and 1440p frames and can handle demanding creative workloads. It is the only card in this guide described as an entry‑level 4K solution, giving it a price‑to‑performance edge over the RTX 5090. The catch: it is not the most powerful option for pure 4K performance.",
+   "pros": [
+    "Good 4K gaming",
+    "Handles creative workloads",
+    "Balanced performance"
+   ],
+   "cons": [
+    "Not the top‑tier 4K performer"
+   ],
+   "best_for": "Gamers who want 4K without the highest cost",
+   "skip_if": "You need the absolute fastest 4K performance",
+   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+4070&tag=zoepicks00-20"
+  },
+  {
+   "name": "AMD Radeon RX 7900 XT",
+   "short": "RX 7900 XT",
+   "badge": "Best Value for 1440p",
+   "why": [
+    "CNET calls it a good 4K gaming card and suitable for professional video work."
+   ],
+   "desc": "An AMD GPU aimed at good 4K gaming and professional video editing. It does not mention AI‑specific features.",
+   "benefit": "Picture a creator who edits 4K video and also plays modern games. The RX 7900 XT offers strong 4K gaming and video editing capability, making it the only AMD option with that dual focus in the guide. It beats the RTX 3060 on resolution and the RTX 4070 on price‑to‑performance for 4K. The catch: it lacks the AI‑focused features of Nvidia’s top cards.",
+   "pros": [
+    "Strong 4K gaming",
+    "Good for video editing",
+    "AMD ecosystem"
+   ],
+   "cons": [
+    "No AI‑specific acceleration"
+   ],
+   "best_for": "Creators who need 4K gaming and video editing",
+   "skip_if": "You need AI‑accelerated workloads",
+   "link": "https://www.amazon.com/s?k=AMD+Radeon+RX+7900+XT&tag=zoepicks00-20"
+  },
+  {
+   "name": "Nvidia GeForce RTX 3060",
+   "short": "RTX 3060",
+   "badge": "Best Mid‑Range",
+   "why": [
+    "CNET lists it as the best option for good 1440p, top‑quality 1080p and entry‑level video editing."
+   ],
+   "desc": "A mid‑range Nvidia GPU that targets 1440p gaming, high‑quality 1080p play and entry‑level video editing. It does not claim 4K performance.",
+   "benefit": "Picture a gamer who plays at 1440p and does occasional video edits. The RTX 3060 delivers solid 1440p frames and entry video editing performance, making it the only card in this guide focused on that resolution tier. It beats the lower‑end RTX 3050 and offers better efficiency than higher‑power cards. The catch: it cannot handle demanding 4K gaming.",
+   "pros": [
+    "Good 1440p performance",
+    "Handles entry video editing",
+    "Efficient power use"
+   ],
+   "cons": [
+    "Not suited for 4K gaming"
+   ],
+   "best_for": "Mid‑range gamers and hobby editors",
+   "skip_if": "You need high‑end 4K performance",
+   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+3060&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Nvidia GeForce RTX 5090",
+  "line": "Buy it if you need the absolute fastest 4K gaming and AI performance and can handle its high power draw. It leads the list with 32 GB of memory, DisplayPort 2.1 and DLSS 4, but its power requirements are very high.",
+  "also": [
+   [
+    "Best 4K Gaming",
+    "Nvidia GeForce RTX 4070"
+   ],
+   [
+    "Best Value for 1440p",
+    "AMD Radeon RX 7900 XT"
+   ]
+  ]
+ }
+}

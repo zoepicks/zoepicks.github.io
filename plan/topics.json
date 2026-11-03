@@ -4374,7 +4374,8 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 3, 2026"
  },
  {
   "title": "Best Leaf Blower (2026)",
@@ -4383,14 +4384,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 3, 2026"
  },
  {
   "title": "Best Graphics Card (2026)",
   "slug": "best-graphics-card-2026",
   "category": "accessories",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  },
@@ -4399,7 +4401,7 @@
   "slug": "best-wireless-sport-headphones-2026",
   "category": "electronics",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  },

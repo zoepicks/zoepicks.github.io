@@ -1,20 +1,16 @@
-[collect] 2/3 source pages fetched
-[collect] tavily key ...t3vu 432 (limit/invalid) -> skipped for this run, 3 key(s) left
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 4 total (harpersbazaar.com, expertreviews.co.uk)
-[collect] llm request: 4 sources x 1626 chars, ~2978 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Balkwan Sunset Lamp
-[collect] drop (only 1 sources): Pursonic Sunset Projector Table Lamp
-[collect] drop (only 1 sources): Bedee Sunset Lamp
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (popsci.com, reviewed.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2963 in + 4000 out tokens (budget 7000)
-[collect] llm key ...LQ4f openai/gpt-oss-120b DAILY limit limit 200,000 used 199,762 requested 2,310 -> skipped for this run
-[collect] drop (only 1 sources): Bedee Sunset Lamp
-[collect] drop (only 1 sources): Lullabala Sunset Lamp
-[collect] drop (only 1 sources): Solla Sunset Lamp
-[collect] only 2 well-sourced products -> staying draft
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
+[collect] done: best-graphics-card-2026 4 products
+[collect] progress: guide 3 done (best-graphics-card-2026) | tried 3 | tavily keys alive 3/4
+[collect] topic: Best Wireless Sport Headphones (2026)
+[collect] tavily -> 4 pages
+[collect] browser fetch 9000 chars: https://www.rtings.com/headphones/reviews/jabra/elite-sport-truly-wireless
+[collect] 4/4 source pages fetched
+[collect] llm request: 4 sources x 1622 chars, ~2971 in + 4000 out tokens (budget 7000)
+[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 198,749 requested 2,558 -> skipped for this run
+[collect] drop (only 1 sources): Shokz OpenRun Pro 2
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -149,6 +145,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-giant-bean-bag
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-giant-lego-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gifts-for-dads-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gold-watch-brown-leather-strap-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-graphics-card-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gym-bags-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hair-dryers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-hair-raising-headband-2026/index.html
@@ -175,6 +172,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-duo-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphone-vs-ipad-pro-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-iphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-juicers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-rope-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-jump-starters-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kayak-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-keyboards-for-typing-2026/index.html
@@ -195,6 +193,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptops-under-1000-2026/under-600/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mower-light-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lawn-mowers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leaf-blower-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leather-belts-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-leggings-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-parts-2026/index.html
@@ -386,6 +385,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbu
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-earbuds-2026/under-100/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mice-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-mouse-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-wireless-sport-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-boots-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-work-pants-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-clothes-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-sunset-lamp-2026 draft
-[collect] progress: guide 4 done (best-sunset-lamp-2026) | tried 4 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,888 requested 2,246", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,762 requested 2,310"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] done: best-wireless-sport-headphones-2026 3 products
+[collect] progress: guide 4 done (best-wireless-sport-headphones-2026) | tried 4 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,749 requested 2,558"}, "toolarge": {}, "minute": {}, "noaccess": {"ITNE|openai/gpt-oss-120b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener"}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 4 guide(s) built, 4 topic(s) tried
