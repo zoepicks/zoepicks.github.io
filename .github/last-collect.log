@@ -1,24 +1,9 @@
-[collect] topic: Best Shampoo And Conditioner (2026)
-[collect] tavily -> 4 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-shampoo
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-shampoo
-[collect] 3/4 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +1 readable page(s) -> 4 total (besthairfocus.com)
-[collect] llm request: 4 sources x 1623 chars, ~2976 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): PURA D'OR Anti‑Thinning Biotin Shampoo & Conditioner Original Gold Label Set
-[collect] drop (only 1 sources): Native Shampoo and Conditioner
-[collect] drop (only 1 sources): L'Oreal Paris Thickening Sulfate Free Shampoo and Conditioner
-[collect] drop (only 1 sources): Rosemary & Biotin Hair Growth Set
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (goodhousekeeping.com, blog.thelonghairs.us)
+[collect] browser fetch 9000 chars: https://networkgearreview.com/best-5g-router-with-sim-card-slot
+[collect] extra sources: +2 readable page(s) -> 6 total (smarthomereview.org, networkgearreview.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1068 chars, ~2967 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): PURA D'OR Anti-Thinning Biotin Shampoo & Conditioner Original Gold Label Set
-[collect] drop (only 1 sources): Goldie Locks Ultimate Duo
-[collect] drop (only 1 sources): Native Shampoo and Conditioner
-[collect] drop (only 1 sources): L'Oreal Paris Thickening Sulfate Free Shampoo and Conditioner
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1071 chars, ~2963 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): T‑Mobile Inseego MiFi X PRO 5G (M3000)
+[collect] only 1 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -119,6 +104,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-eye-makeup-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-face-wash-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-facial-serum-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-facial-skincare-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-facial-skincare-2026/eczema/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fireproof-safes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fish-tanks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-fishing-gear-2026/index.html
@@ -237,7 +223,6 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-multimeter-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nail-polish-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-network-switch-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-bundles-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-games-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-lite-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-nintendo-switch-skin-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-noise-cancelling-headphones-2026/index.html
@@ -297,7 +282,6 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-security-camer
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-self-cleaning-litter-boxes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sewing-machines-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-2026/index.html
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shampoo-and-conditioner-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shelf-display-accessories-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-shoe-racks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-skincare-product-2026/index.html
@@ -393,8 +377,24 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-shampoo-and-conditioner-2026 draft
-[collect] progress: guide 2 done (best-shampoo-and-conditioner-2026) | tried 2 | tavily keys alive 4/4
+[collect] done: best-5g-router-2026 draft
+[collect] progress: guide 49 done (best-5g-router-2026) | tried 49 | tavily keys alive 4/4
+[collect] topic: Best Printing Hoodie (2026)
+[collect] tavily -> 3 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-sun-protection-clothing
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-sun-protection-clothing
+[collect] 2/3 source pages fetched
+[collect] open web (tavily) -> 15 results
+[collect] http 403 https://medium.com/@PrintsLA/the-best-5-blank-hoodies-to-print-on-reviewed-1058a2d3ed1c
+[collect] browser fetch 243 chars: https://medium.com/@PrintsLA/the-best-5-blank-hoodies-to-print-on-reviewed-1058a2d3ed1c
+[collect] extra sources: +2 readable page(s) -> 4 total (medium.com, vistaprint.com)
+[collect] llm request: 4 sources x 1625 chars, ~2513 in + 4000 out tokens (budget 7000)
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (impressionsmagazine.com, brokenarrowwear.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 6 sources x 1070 chars, ~2692 in + 4000 out tokens (budget 7000)
+[collect] only 0 well-sourced products for tab printing -> staying todo
+[collect] progress: guide 50 done (best-printing-hoodie-2026) | tried 50 | tavily keys alive 4/4
 [collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,848 requested 2,195"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
-[collect] run finished: 2 guide(s) built, 2 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,214 requested 3,873"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 50 guide(s) built, 50 topic(s) tried

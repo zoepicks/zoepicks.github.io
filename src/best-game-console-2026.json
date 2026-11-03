@@ -33,7 +33,10 @@
    ],
    "best_for": "Families and casual gamers",
    "skip_if": "You need a fully portable device with long battery life",
-   "link": "https://www.amazon.com/s?k=Nintendo+Switch%C2%A02&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Nintendo+Switch%C2%A02&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   },
   {
    "name": "Asus ROG Xbox Ally X",
@@ -61,7 +64,13 @@
    ],
    "best_for": "PC gamers on the go",
    "skip_if": "You need a dock for TV play",
-   "link": "https://www.amazon.com/s?k=Asus+ROG+Xbox+Ally%C2%A0X&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Asus+ROG+Xbox+Ally%C2%A0X&tag=zoepicks00-20",
+   "asin": "B0G2HTSJXT",
+   "image": "https://m.media-amazon.com/images/I/51AfQUSoJGL.jpg",
+   "image_asin": "B0G2HTSJXT",
+   "amazon_rating": "5",
+   "amazon_reviews": 13,
+   "amazon_rating_asof": "Nov 2, 2026"
   },
   {
    "name": "MSI Claw 8 EX AI+",
@@ -89,7 +98,10 @@
    ],
    "best_for": "Hardcore PC gamers",
    "skip_if": "You need a dock for TV play",
-   "link": "https://www.amazon.com/s?k=MSI+Claw%C2%A08+EX+AI%2B&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=MSI+Claw%C2%A08+EX+AI%2B&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 2, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {

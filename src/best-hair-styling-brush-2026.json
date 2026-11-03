@@ -2,10 +2,96 @@
  "slug": "best-hair-styling-brush-2026",
  "title": "Best Hair Styling Brush (2026)",
  "category": "beauty_health",
- "date": "Nov 2, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were taken from the CNET, PCMag, and Tom’s Guide reviews that explicitly mention the Dyson Airwrap, Shark FlexFusion, and Shark FlexStyle. The picks were ranked by how many sources cited them and by the breadth of features highlighted.",
- "assumptions": "Prices are not listed in the sources, so no cost comparison is provided.",
- "products": [],
- "draft": true
+ "date": "Nov 3, 2026",
+ "summary": "A mix of classic brushes and modern styling brushes covers most hair needs.",
+ "method": "Picks were made by comparing product mentions across Consumer Reports, Tom's Guide, Wired, Women's Health, The Independent and EatVeganVybez.",
+ "assumptions": "Prices are taken from the source that listed them; no other price information was used.",
+ "products": [
+  {
+   "name": "Go Brush Pro 2026 Cordless Hair Straightener Brush",
+   "short": "Go Brush Pro",
+   "badge": "Best Cordless Styling",
+   "why": [
+    "EatVeganVybez highlights its cordless design, four temperature settings, and ionic ceramic technology for smooth hair.",
+    "It is portable and ideal for travel or quick touch‑ups."
+   ],
+   "desc": "A cordless hair straightener brush with 4 temperature settings, ionic and ceramic tourmaline heating, and a compact shape. It does not include a traditional cord or a separate dryer.",
+   "benefit": "Picture yourself on a weekend trip needing a quick hair fix without an outlet. The Go Brush Pro lets you style anywhere, delivering smooth results with its ionic ceramic heat. It wins over the Ziggy Flexi by providing heat styling and over the travel detangler by adding styling power in a portable form. The catch: battery life is limited, so you must recharge between uses.",
+   "specs": [
+    "4 temperature settings",
+    "Ionic & ceramic tourmaline heating",
+    "Cordless operation"
+   ],
+   "pros": [
+    "Portable",
+    "Multiple heat settings",
+    "Ionic technology reduces frizz"
+   ],
+   "cons": [
+    "Limited battery runtime",
+    "Higher price than basic brushes"
+   ],
+   "best_for": "Travelers and quick touch‑ups",
+   "skip_if": "You prefer a plug‑in brush or need long continuous use",
+   "link": "https://www.amazon.com/s?k=Go+Brush+Pro+2026+Cordless+Hair+Straightener+Brush&tag=zoepicks00-20"
+  },
+  {
+   "name": "Tangle Teezer Ultimate Detangler Hairbrush",
+   "short": "Tangle Teezer",
+   "badge": "Best Budget Detangler",
+   "why": [
+    "The Independent lists it as the best budget buy for detangling.",
+    "It costs £14, making it a cheap option for daily use."
+   ],
+   "desc": "A plastic detangling brush with flexible teeth designed to glide through knots. It does not have any heating elements or travel case.",
+   "benefit": "Picture a parent quickly brushing a child's tangled hair before school. The Tangle Teezer slides through knots with minimal pulling, keeping the routine fast. It is cheaper than the Ziggy Flexi and lighter than the cordless straightener, making it the most budget‑friendly choice. The catch: it lacks the flexibility of the Ziggy Flexi for thicker hair.",
+   "specs": [
+    "Price: £14",
+    "Flexible teeth design"
+   ],
+   "pros": [
+    "Very affordable",
+    "Gentle on hair",
+    "Easy to clean"
+   ],
+   "cons": [
+    "May not work well on very thick hair",
+    "No heat or styling features"
+   ],
+   "best_for": "Budget‑conscious detangling",
+   "skip_if": "You need a styling brush with heat",
+   "price": "£14 at The Independent",
+   "link": "https://www.amazon.com/s?k=Tangle+Teezer+Ultimate+Detangler+Hairbrush&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026"
+  },
+  {
+   "name": "The Detangler on the Go Travel Detangling Hair Brush",
+   "short": "Travel Detangler",
+   "badge": "Best Travel",
+   "why": [
+    "The Independent calls it the best for travel due to its compact size and low price of £8.",
+    "It is designed for easy packing and quick detangling on the move."
+   ],
+   "desc": "A small, foldable detangling brush made for travel. It has a compact shape and no heating components.",
+   "benefit": "Picture a weekend getaway where luggage space is limited. The Travel Detangler fits easily in a bag and quickly smooths hair before you head out. It is the smallest and cheapest option, beating the Ziggy Flexi on portability and the Go Brush Pro on weight. The catch: it offers no heat or advanced styling, only basic detangling.",
+   "specs": [
+    "Price: £8",
+    "Foldable compact design"
+   ],
+   "pros": [
+    "Very portable",
+    "Low cost",
+    "Easy to use"
+   ],
+   "cons": [
+    "No heat styling",
+    "Limited to light detangling"
+   ],
+   "best_for": "Travelers needing a simple detangler",
+   "skip_if": "You want a styling brush with heat",
+   "price": "£8 at The Independent",
+   "link": "https://www.amazon.com/s?k=The+Detangler+on+the+Go+Travel+Detangling+Hair+Brush&tag=zoepicks00-20",
+   "price_asof": "Nov 3, 2026"
+  }
+ ]
 }
