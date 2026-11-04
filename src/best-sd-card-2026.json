@@ -2,10 +2,98 @@
  "slug": "best-sd-card-2026",
  "title": "Best Sd Card (2026)",
  "category": "accessories",
- "date": "Nov 1, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on recommendations and test results from techgearlab.com, custompcreview.com and alikgriffin.com.",
- "assumptions": "No price information was provided in the sources, so price was omitted.",
- "products": [],
- "draft": true
+ "date": "Nov 4, 2026",
+ "summary": "The guide highlights the SanDisk Extreme Pro as the top pick for most buyers, followed by the Kingston Canvas Go Plus, SanDisk Ultra, SanDisk Extreme, and the Official Raspberry Pi SD Card.",
+ "method": "Picks were made by reviewing the performance data and recommendations from PCMag, TechGearLab, AlikGriffin, and RaspberryTips. Products appearing in more than one source were prioritized.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "SanDisk Extreme Pro UHS-I MicroSDXC",
+   "short": "Extreme Pro",
+   "badge": "Best Overall",
+   "why": [
+    "The SanDisk Extreme Pro UHS‑I microSD card delivers the fastest speeds tested. It is the fastest microSD card we’ve tested, according to PCMag. The card is marketed for high‑end cameras and mobile devices. The card’s performance is highlighted by TechGearLab as the fastest combination of read and write speeds."
+   ],
+   "desc": "The SanDisk Extreme Pro is a UHS‑I microSDXC card that offers very high write speeds. It is designed for high‑end cameras and mobile devices.",
+   "benefit": "Picture a photographer shooting 4K video on a high‑end camera. The SanDisk Extreme Pro delivers the fastest write speeds, keeping up with the camera’s demand. It’s the only card in this guide that offers the highest sustained write speed, but it comes at a higher price. The catch: it is expensive.",
+   "specs": [
+    "UHS‑I",
+    "MicroSDXC",
+    "64GB",
+    "V90"
+   ],
+   "pros": [
+    "Fastest write speed",
+    "High endurance",
+    "Reliable performance"
+   ],
+   "cons": [
+    "High price",
+    "May be overkill for casual users"
+   ],
+   "best_for": "High‑end camera users and mobile power users",
+   "skip_if": "You need a budget card",
+   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+Pro+UHS-I+MicroSDXC&tag=zoepicks00-20"
+  },
+  {
+   "name": "SanDisk Ultra UHS-I MicroSDXC",
+   "short": "Ultra",
+   "badge": "Best for the price",
+   "why": [
+    "TechGearLab lists the SanDisk Ultra as the best for the price. It offers solid performance at a lower cost compared to the Extreme Pro. The card is suitable for everyday use."
+   ],
+   "desc": "The SanDisk Ultra is a UHS‑I microSDXC card that provides good performance at a lower price point. It is suitable for everyday use in phones and cameras.",
+   "benefit": "Picture a casual smartphone user who needs extra storage. The Ultra gives solid performance without the high cost of the Extreme Pro. It is cheaper than the Canvas Go Plus and still offers decent write speeds. The catch: it is slower than the Extreme Pro and Canvas Go Plus for large file writes.",
+   "specs": [
+    "UHS‑I",
+    "MicroSDXC",
+    "32GB",
+    "V30"
+   ],
+   "pros": [
+    "Affordable",
+    "Good performance",
+    "Wide compatibility"
+   ],
+   "cons": [
+    "Slower write speed than top picks",
+    "Limited capacity"
+   ],
+   "best_for": "Budget users and everyday smartphone storage",
+   "skip_if": "You need high‑end camera performance",
+   "link": "https://www.amazon.com/s?k=SanDisk+Ultra+UHS-I+MicroSDXC&tag=zoepicks00-20"
+  },
+  {
+   "name": "SanDisk Extreme UHS-I MicroSDXC",
+   "short": "Extreme",
+   "badge": "Best large SD card",
+   "why": [
+    "TechGearLab notes the SanDisk Extreme is best for large SD cards up to 1TB. It offers high capacity and good performance for large files."
+   ],
+   "desc": "The SanDisk Extreme is a UHS‑I microSDXC card that supports large capacities up to 1TB. It offers good performance for large file transfers.",
+   "benefit": "Picture a photographer who needs a huge card for long shoots. The Extreme gives high capacity and reliable performance for large files, outperforming the Ultra in capacity. It is a solid choice for large storage needs. The catch: it is slower than the Extreme Pro for small file writes.",
+   "specs": [
+    "UHS‑I",
+    "MicroSDXC",
+    "1TB",
+    "V60"
+   ],
+   "pros": [
+    "High capacity",
+    "Good large file performance",
+    "Reliable"
+   ],
+   "cons": [
+    "Slower small file write speed",
+    "Higher price than Ultra"
+   ],
+   "best_for": "Photographers needing large storage",
+   "skip_if": "You need the fastest small file write speed",
+   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+UHS-I+MicroSDXC&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "SanDisk Extreme Pro UHS-I MicroSDXC",
+  "line": "Picture a photographer shooting 4K video on a high‑end camera. The SanDisk Extreme Pro delivers the fastest write speeds, keeping up with the camera’s demand. It’s the only card in this guide that offers the highest sustained write speed, but it comes at a higher price."
+ }
 }

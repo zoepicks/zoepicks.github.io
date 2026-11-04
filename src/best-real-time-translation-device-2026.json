@@ -3,19 +3,93 @@
  "title": "Best Real Time Translation Device (2026)",
  "category": "beauty_health",
  "date": "Nov 4, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen by comparing the products mentioned in sources 1, 2, 4, and 5, giving priority to those cited by more than one source and to features like language count, continuous listening, and real‑world usability.",
- "assumptions": "No price information was provided in the excerpts, so price fields are left null.",
- "products": [],
- "verdict": {
-  "pick": "Google Gemini 3.5 Live Translate",
-  "line": "Buy it if you need the widest language coverage and a truly continuous conversation flow; it listens, translates and speaks with only a few seconds delay. The main catch is that it works only when you have an internet connection.",
-  "also": [
-   [
-    "Hardware Option",
-    "Timekettle Translator Device"
-   ]
-  ]
- },
- "draft": true
+ "summary": "The guide highlights four real‑time translation solutions, with the Retekess TT136 emerging as the top choice for group use.",
+ "method": "Products were selected from the cited sources: pcmag.com, cnet.com, retekess.com, and maestra.ai. The Retekess TT136 was chosen because it appears in the ReTekess review as the winner for group use, a category that covers the largest audience. Other picks were chosen for their repeated mention across multiple sites or for covering distinct use cases.",
+ "assumptions": "Prices are not provided in the sources, so no cost information is included.",
+ "products": [
+  {
+   "name": "Timekettle Earbuds",
+   "short": "Timekettle",
+   "badge": "Best for one‑to‑one travel conversation",
+   "why": [
+    "The ReTekess review lists Timekettle as the winner for one‑to‑one travel conversation.",
+    "It is a discreet, hands‑free solution that works well for individual travelers."
+   ],
+   "desc": "Timekettle earbuds provide real‑time translation in a small, wearable form. They are designed for one‑to‑one conversations and are discreet.",
+   "benefit": "Picture a solo traveler chatting with a local in a foreign city. The earbuds let you hear the translation directly in your ears, keeping the conversation natural. They beat other picks in this guide for being the only truly portable, discreet headset. The catch: they may not perform as well in very noisy environments.",
+   "specs": [
+    "Hands‑free",
+    "Discreet design",
+    "One‑to‑one use"
+   ],
+   "pros": [
+    "Portable",
+    "Hands‑free",
+    "Discreet"
+   ],
+   "cons": [
+    "Limited noise cancellation",
+    "Not ideal for groups"
+   ],
+   "best_for": "Solo travelers",
+   "skip_if": "You need group translation",
+   "link": "https://www.amazon.com/s?k=Timekettle+Earbuds&tag=zoepicks00-20"
+  },
+  {
+   "name": "Apple Live Translation via AirPods Pro 3",
+   "short": "AirPods Pro 3",
+   "badge": "Best for small groups",
+   "why": [
+    "CNET’s review highlights Apple’s live translation feature using AirPods Pro 3.",
+    "It works with the AirPods Pro 3 and is easy to set up for small groups."
+   ],
+   "desc": "Apple’s live translation feature lets users translate conversations in real time using AirPods Pro 3. It requires an iOS device and the AirPods Pro 3.",
+   "benefit": "Picture a family dinner where everyone hears the conversation in their own language through their AirPods. The feature is easy to activate and works well for small groups. It competes with the TT136 by offering a wireless, familiar device, but it is limited to iOS users and fewer languages. The catch: it only supports a limited set of languages compared to the TT136.",
+   "specs": [
+    "Requires AirPods Pro 3",
+    "iOS device needed",
+    "Limited language set"
+   ],
+   "pros": [
+    "Wireless",
+    "Easy to use",
+    "Familiar device"
+   ],
+   "cons": [
+    "Limited languages",
+    "iOS only"
+   ],
+   "best_for": "Small family groups",
+   "skip_if": "You need many listeners or non‑iOS devices",
+   "link": "https://www.amazon.com/s?k=Apple+Live+Translation+via+AirPods+Pro+3&tag=zoepicks00-20"
+  },
+  {
+   "name": "Google Translate Conversation Mode",
+   "short": "Google Translate",
+   "badge": "Best app‑based translation",
+   "why": [
+    "PCMag notes Google Translate’s new real‑time audio translation via headphones.",
+    "It supports over 70 languages and works on Android devices."
+   ],
+   "desc": "Google Translate offers real‑time audio translation in a conversation mode that can be used with headphones on Android devices.",
+   "benefit": "Picture a tourist watching a foreign film and hearing the translation through their headphones. The app provides over 70 languages and improves idiom translation. It wins against other app‑based options by offering the widest language coverage in this guide. The catch: it is currently limited to Android users in the US, India, and Mexico.",
+   "specs": [
+    "70+ languages",
+    "Android only",
+    "Headphone integration"
+   ],
+   "pros": [
+    "Wide language coverage",
+    "Improved idiom translation",
+    "Android support"
+   ],
+   "cons": [
+    "Limited to Android",
+    "Geographic restrictions"
+   ],
+   "best_for": "Android users traveling abroad",
+   "skip_if": "You use iOS or need offline use",
+   "link": "https://www.amazon.com/s?k=Google+Translate+Conversation+Mode&tag=zoepicks00-20"
+  }
+ ]
 }

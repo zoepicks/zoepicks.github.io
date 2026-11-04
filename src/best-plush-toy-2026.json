@@ -4,8 +4,18 @@
  "category": "toys_kids",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least one source, prioritizing those mentioned by more than one source. Sources used: Tom’s Guide (source 0), CNET (source 1), NYTimes (source 2), Taste of Home (source 4).",
- "assumptions": "Prices are omitted because none of the sources provide them.",
+ "method": "Products were selected from the cited sources: Tasteofhome.com for weighted plush, CNET.com for Baby Yoda, Web.archive.org for Sassimals, and Tasteofhome.com again for Hugz and Hugimals.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "Warmies Weighted Stuffed Animal",
+  "line": "Picture a parent or adult who needs a calming hug; Warmies offers a soothing weighted feel that eases anxiety and is easy to microwave or freeze for warmth or cool relief. It wins because it is rated the best overall weighted plush and is available in many sizes, unlike the other picks that focus on novelty or entertainment.",
+  "also": [
+   [
+    "Best for kids",
+    "Hugimals Plush"
+   ]
+  ]
+ },
  "draft": true
 }
