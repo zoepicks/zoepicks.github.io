@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-03T23:42:58Z",
+ "updated": "2026-11-04T01:43:24Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -40,16 +40,16 @@
   ],
   "beauty_health": [
    {
-    "asin": "B0BGQHVWJG",
-    "name": "CHI VolumeCare Volumizing Shampoo",
-    "pct": 47,
-    "rating": 4.4,
-    "t": 1793705552,
-    "img": "https://m.media-amazon.com/images/I/61X9cazYIrL.jpg",
-    "link": "https://www.amazon.com/dp/B0BGQHVWJG?tag=zoepicks00-20",
-    "now": "12.80",
-    "was": "24.00",
-    "reviews": 0,
+    "asin": "B08H3JPH74",
+    "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
+    "pct": 76,
+    "rating": 4.5,
+    "t": 1793752116,
+    "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
+    "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
+    "now": "10.80",
+    "was": "45.00",
+    "reviews": 191435,
     "tier": "budget"
    },
    {
@@ -274,19 +274,6 @@
   ],
   "hobby_music": [
    {
-    "asin": "B086ZSNFQ9",
-    "name": "USB Headset with Microphone Noise Cancelling and Volume…",
-    "pct": 50,
-    "rating": 4.2,
-    "t": 1793723000,
-    "img": "https://m.media-amazon.com/images/I/61c2QhrrQVL.jpg",
-    "link": "https://www.amazon.com/dp/B086ZSNFQ9?tag=zoepicks00-20",
-    "now": "18.49",
-    "was": "36.99",
-    "reviews": 586,
-    "tier": "budget"
-   },
-   {
     "asin": "B0BCXF3T1W",
     "name": "JLab Go Talk USB-C Microphone",
     "pct": 56,
@@ -295,7 +282,7 @@
     "img": "https://m.media-amazon.com/images/I/8170N5qtf5L.jpg",
     "link": "https://www.amazon.com/dp/B0BCXF3T1W?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "mid"
+    "tier": "budget"
    },
    {
     "asin": "B0HHWCBJ56",
@@ -309,6 +296,17 @@
     "was": "249.99",
     "deal": "Limited time deal",
     "reviews": 20,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0GXX5LNVQ",
+    "name": "Brother XM2701 27-Stitch Sewing Machine",
+    "pct": 28,
+    "rating": 4.7,
+    "t": 1793686317,
+    "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
+    "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -927,6 +925,36 @@
     ]
    },
    {
+    "key": "phone-gimbal",
+    "label": "Phone Gimbal",
+    "items": [
+     {
+      "asin": "B0C89T698J",
+      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793752005,
+      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
+      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
+      "now": "51.99",
+      "was": "64.99",
+      "reviews": 3835
+     },
+     {
+      "asin": "B0BP2VZ6K9",
+      "name": "DJI Osmo Mobile 6 Smartphone Gimbal Stabilizer",
+      "pct": 8,
+      "rating": 4.5,
+      "t": 1793752005,
+      "img": "https://m.media-amazon.com/images/I/61Zj6kAw-9L.jpg",
+      "link": "https://www.amazon.com/dp/B0BP2VZ6K9?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "109.00",
+      "reviews": 20171
+     }
+    ]
+   },
+   {
     "key": "flash-drive",
     "label": "Flash Drive",
     "items": [
@@ -1049,11 +1077,6 @@
     "items": []
    },
    {
-    "key": "phone-gimbal",
-    "label": "Phone Gimbal",
-    "items": []
-   },
-   {
     "key": "travel-adapters",
     "label": "Travel Adapters",
     "items": []
@@ -1065,6 +1088,19 @@
     "label": "Mascara",
     "items": [
      {
+      "asin": "B08H3JPH74",
+      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
+      "pct": 76,
+      "rating": 4.5,
+      "t": 1793752116,
+      "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
+      "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
+      "now": "10.80",
+      "was": "45.00",
+      "reviews": 191435,
+      "tier": "budget"
+     },
+     {
       "asin": "B018ZXEO50",
       "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
       "pct": 83,
@@ -1074,6 +1110,19 @@
       "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
+     },
+     {
+      "asin": "B00P0Q0T28",
+      "name": "Too Faced Better Than Sex Volumizing Mascara",
+      "pct": 73,
+      "rating": 4.4,
+      "t": 1793752116,
+      "img": "https://m.media-amazon.com/images/I/71xZmq9JzYL.jpg",
+      "link": "https://www.amazon.com/dp/B00P0Q0T28?tag=zoepicks00-20",
+      "now": "24.65",
+      "was": "91.30",
+      "reviews": 18237,
+      "tier": "premium"
      }
     ]
    },
@@ -2173,6 +2222,19 @@
       "was": "49.99",
       "deal": "Limited time deal",
       "reviews": 607
+     },
+     {
+      "asin": "B0DH28GGNZ",
+      "name": "4K Digital Camera for Beginners & Teens",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793752045,
+      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
+      "now": "59.98",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 1560
      }
     ]
    },
@@ -3009,6 +3071,19 @@
     "label": "Suitcase",
     "items": [
      {
+      "asin": "B07CVKHYR5",
+      "name": "Coolife Large Checked Luggage Hardside Suitcase",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793689684,
+      "img": "https://m.media-amazon.com/images/I/61nJQcREs2L.jpg",
+      "link": "https://www.amazon.com/dp/B07CVKHYR5?tag=zoepicks00-20",
+      "now": "89.98",
+      "was": "119.99",
+      "reviews": 5321,
+      "tier": "budget"
+     },
+     {
       "asin": "B0FMJZL62T",
       "name": "Expandable Luggage Sets 5 Piece Suitcases",
       "pct": 29,
@@ -3020,7 +3095,7 @@
       "was": "139.99",
       "deal": "Limited time deal",
       "reviews": 445,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B0HLZT9CWW",
@@ -3034,20 +3109,6 @@
       "was": "159.99",
       "deal": "Limited time deal",
       "reviews": 44,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GGGMPZQM",
-      "name": "Joyway 3 Piece Luggage Set",
-      "pct": 31,
-      "rating": 4.3,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/81QpCYowN7L.jpg",
-      "link": "https://www.amazon.com/dp/B0GGGMPZQM?tag=zoepicks00-20",
-      "now": "159.48",
-      "was": "229.99",
-      "deal": "Limited time deal",
-      "reviews": 49,
       "tier": "premium"
      }
     ]
@@ -3055,7 +3116,48 @@
    {
     "key": "medium-luggage",
     "label": "Medium Luggage",
-    "items": []
+    "items": [
+     {
+      "asin": "B07CVH7MTZ",
+      "name": "Coolife Medium Checked Luggage Hardside Suitcase",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1793752148,
+      "img": "https://m.media-amazon.com/images/I/614KMUR95rL.jpg",
+      "link": "https://www.amazon.com/dp/B07CVH7MTZ?tag=zoepicks00-20",
+      "now": "69.98",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 3152,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FJPRMDXM",
+      "name": "American Tourister Stratum 3.0 Medium 24-Inch Spinner",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1793752148,
+      "img": "https://m.media-amazon.com/images/I/71HIGbBAG3L.jpg",
+      "link": "https://www.amazon.com/dp/B0FJPRMDXM?tag=zoepicks00-20",
+      "now": "103.95",
+      "was": "129.99",
+      "reviews": 704,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0B726MZKM",
+      "name": "Travelpro Maxlite 5 Softside Checked Luggage Spinner",
+      "pct": 9,
+      "rating": 4.4,
+      "t": 1793752148,
+      "img": "https://m.media-amazon.com/images/I/91-g3HtzRZL.jpg",
+      "link": "https://www.amazon.com/dp/B0B726MZKM?tag=zoepicks00-20",
+      "now": "178.00",
+      "was": "195.00",
+      "reviews": 12647,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "workout-clothes",
@@ -3324,17 +3426,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0D5MGDJ2R",
-      "name": "MIYCOO Cooler Backpack",
-      "pct": 23,
-      "rating": 4.5,
-      "t": 1793671587,
-      "img": "https://m.media-amazon.com/images/I/71IuLQIT-UL.jpg",
-      "link": "https://www.amazon.com/dp/B0D5MGDJ2R?tag=zoepicks00-20",
-      "now": "26.98",
-      "was": "34.99",
+      "asin": "B0DK6R8HJC",
+      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
+      "pct": 29,
+      "rating": 4.1,
+      "t": 1793753717,
+      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
+      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "139.99",
       "deal": "Limited time deal",
-      "reviews": 2461,
+      "reviews": 413,
       "tier": "premium"
      }
     ]
@@ -4102,13 +4204,26 @@
     ]
    },
    {
-    "key": "ps5-or-gaming-pc",
-    "label": "Ps5 Or Gaming PC",
-    "items": []
-   },
-   {
     "key": "handheld-gaming-pcs",
     "label": "Handheld Gaming PCs",
+    "items": [
+     {
+      "asin": "B0GL4N9YQV",
+      "name": "msi Claw A8 PC Gaming Handheld: AMD Ryzen Z2 Extreme",
+      "pct": 6,
+      "rating": 3.6,
+      "t": 1793752339,
+      "img": "https://m.media-amazon.com/images/I/71+FiHBiNJL.jpg",
+      "link": "https://www.amazon.com/dp/B0GL4N9YQV?tag=zoepicks00-20",
+      "now": "1,219.57",
+      "was": "1,299.99",
+      "reviews": 22
+     }
+    ]
+   },
+   {
+    "key": "ps5-or-gaming-pc",
+    "label": "Ps5 Or Gaming PC",
     "items": []
    },
    {
@@ -4187,6 +4302,19 @@
     "label": "Sewing Machines",
     "items": [
      {
+      "asin": "B0CRMDKBGB",
+      "name": "Brother XM3700 Sewing Machine 37 Built-in Stitches",
+      "pct": 13,
+      "rating": 4.6,
+      "t": 1793752082,
+      "img": "https://m.media-amazon.com/images/I/71dr4r3l0VL.jpg",
+      "link": "https://www.amazon.com/dp/B0CRMDKBGB?tag=zoepicks00-20",
+      "now": "129.88",
+      "was": "149.99",
+      "reviews": 1018,
+      "tier": "budget"
+     },
+     {
       "asin": "B0GXX5LNVQ",
       "name": "Brother XM2701 27-Stitch Sewing Machine",
       "pct": 28,
@@ -4194,7 +4322,21 @@
       "t": 1793686317,
       "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
       "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B08BGB5GPZ",
+      "name": "Brother CS5055 Computerized Sewing Machine",
+      "pct": 21,
+      "rating": 4.6,
+      "t": 1793752082,
+      "img": "https://m.media-amazon.com/images/I/51BELIRHpIL.jpg",
+      "link": "https://www.amazon.com/dp/B08BGB5GPZ?tag=zoepicks00-20",
+      "now": "134.00",
+      "was": "169.99",
+      "reviews": 3602,
+      "tier": "premium"
      }
     ]
    },
@@ -4597,6 +4739,54 @@
       "now": "129.99",
       "was": "219.99",
       "reviews": 7032,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "mini-fridge",
+    "label": "Mini Fridge",
+    "items": [
+     {
+      "asin": "B0GYZL52ZS",
+      "name": "Mini Fridge, 4 Liter/6 Can Small Fridge",
+      "pct": 41,
+      "rating": 4.7,
+      "t": 1793753717,
+      "img": "https://m.media-amazon.com/images/I/61mIVOlQgmL.jpg",
+      "link": "https://www.amazon.com/dp/B0GYZL52ZS?tag=zoepicks00-20",
+      "now": "47.48",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 29,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07LDWLMFY",
+      "name": "Frigidaire Retro Mini Fridge Side Bottle Opener",
+      "pct": 28,
+      "rating": 4.0,
+      "t": 1793753717,
+      "img": "https://m.media-amazon.com/images/I/61cXGU13dAL.jpg",
+      "link": "https://www.amazon.com/dp/B07LDWLMFY?tag=zoepicks00-20",
+      "now": "99.00",
+      "was": "138.00",
+      "deal": "Limited time deal",
+      "reviews": 156,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DK6R8HJC",
+      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
+      "pct": 29,
+      "rating": 4.1,
+      "t": 1793753717,
+      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
+      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 413,
       "tier": "premium"
      }
     ]
@@ -5278,17 +5468,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B0H8SDLPSY",
-      "name": "Smart Watches for Women",
-      "pct": 32,
-      "rating": 4.3,
-      "t": 1793723380,
-      "img": "https://m.media-amazon.com/images/I/81IsFi38IeL.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SDLPSY?tag=zoepicks00-20",
-      "now": "47.38",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 1215,
+      "asin": "B0C89T698J",
+      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793752005,
+      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
+      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
+      "now": "51.99",
+      "was": "64.99",
+      "reviews": 3835,
       "tier": "mid"
      },
      {
@@ -5374,19 +5563,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0GS97CJBH",
-      "name": "USB Flash Drive for iPhone/iPad",
-      "pct": 19,
-      "rating": 4.4,
-      "t": 1793671447,
-      "img": "https://m.media-amazon.com/images/I/71Nnh3MIMGL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS97CJBH?tag=zoepicks00-20",
-      "now": "29.97",
-      "was": "36.99",
-      "reviews": 5935,
-      "tier": "mid"
-     },
-     {
       "asin": "B0HFLTDRTH",
       "name": "Smart Watches for Men/Women",
       "pct": 41,
@@ -5398,6 +5574,20 @@
       "was": "79.98",
       "deal": "Limited time deal",
       "reviews": 1219,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H8SDLPSY",
+      "name": "Smart Watches for Women",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1793723380,
+      "img": "https://m.media-amazon.com/images/I/81IsFi38IeL.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SDLPSY?tag=zoepicks00-20",
+      "now": "47.38",
+      "was": "69.99",
+      "deal": "Limited time deal",
+      "reviews": 1215,
       "tier": "premium"
      }
     ]
