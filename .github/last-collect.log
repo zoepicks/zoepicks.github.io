@@ -1,3 +1,20 @@
+[collect] drop (only 1 sources): Acer Aspire 16 AI
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 8 total (zdnet.com, cnet.com)
+[collect] retrying with extra sources before giving up
+[collect] llm request: 8 sources x 792 chars, ~2947 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): HP OmniBook Ultra 14
+[collect] only 2 well-sourced products -> staying draft
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-monitors-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/oled/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-5g-router-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-adjustable-dumbbells-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-purifiers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-android-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-area-rugs-2026/index.html
@@ -162,6 +179,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-knife-set-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kobo-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/portable/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-computer-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-deals-black-friday-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-docking-station-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-stands-2026/index.html
@@ -308,6 +326,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photogr
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/vlogging/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/pentax/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/dash/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-street-photography-camera-2026/instant/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-strollers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-studio-headphones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-stuffed-animal-2026/index.html
@@ -374,28 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-workout-pants-2026 draft
-[collect] progress: guide 49 done (best-workout-pants-2026) | tried 49 | tavily keys alive 3/4
-[collect] topic: Best Halloween Makeup (2026)
-[collect] tavily -> 3 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-teen-makeup
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/ask-wirecutter-teen-makeup
-[collect] 2/3 source pages fetched
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 4 total (vogue.com, avaribeauty.com)
-[collect] llm request: 4 sources x 1624 chars, ~2973 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Colorfix Neon by Danessa Myricks Beauty
-[collect] drop (only 1 sources): Donni X Face Lace Eye‑Lectric
-[collect] drop (only 1 sources): Rituel de Fille
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (getblys.com, glamour.com)
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1069 chars, ~2959 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Colorfix Neon by Danessa Myricks
-[collect] drop (only 1 sources): Banila Co Clean It Zero Cleansing Balm
-[collect] drop (only 1 sources): Blys Skin‑Friendly Halloween Makeup Looks
-[collect] only 1 well-sourced products for tab halloween -> staying todo
-[collect] progress: guide 50 done (best-halloween-makeup-2026) | tried 50 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,915 requested 2,065", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,485 requested 2,220", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,318 requested 3,753", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 197,525 requested 2,584", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,351 requested 2,257"}, "toolarge": {}, "minute": {}, "noaccess": {"5tBZ|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "5tBZ|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "5tBZ|qwen/qwen3.8-27b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] done: best-laptop-computer-2026 draft
+[collect] progress: guide 2 done (best-laptop-computer-2026) | tried 2 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: ['LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,262 requested 2,287"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] run finished: 2 guide(s) built, 2 topic(s) tried
