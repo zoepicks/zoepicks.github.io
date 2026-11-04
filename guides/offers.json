@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-04T01:43:24Z",
+ "updated": "2026-11-04T03:43:34Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2861,19 +2861,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0B6ZJC84H",
-      "name": "10 Pack Reusable Grocery Bags Waterproof Tote Bags",
-      "pct": 15,
-      "rating": 4.6,
-      "t": 1793740933,
-      "img": "https://m.media-amazon.com/images/I/81FYg-HbiJL.jpg",
-      "link": "https://www.amazon.com/dp/B0B6ZJC84H?tag=zoepicks00-20",
-      "now": "16.98",
-      "was": "19.99",
-      "reviews": 1630,
-      "tier": "mid"
-     },
-     {
       "asin": "B0D6FWQ7HY",
       "name": "BAGSMART Tote Bag for Women",
       "pct": 43,
@@ -2884,6 +2871,19 @@
       "now": "18.23",
       "was": "31.99",
       "reviews": 1784,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H1HHYPHD",
+      "name": "LOVEVOOK Purses for Women",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1793763380,
+      "img": "https://m.media-amazon.com/images/I/71r7PG+ymrL.jpg",
+      "link": "https://www.amazon.com/dp/B0H1HHYPHD?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "39.99",
+      "reviews": 81,
       "tier": "premium"
      }
     ]
@@ -3071,19 +3071,6 @@
     "label": "Suitcase",
     "items": [
      {
-      "asin": "B07CVKHYR5",
-      "name": "Coolife Large Checked Luggage Hardside Suitcase",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793689684,
-      "img": "https://m.media-amazon.com/images/I/61nJQcREs2L.jpg",
-      "link": "https://www.amazon.com/dp/B07CVKHYR5?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "119.99",
-      "reviews": 5321,
-      "tier": "budget"
-     },
-     {
       "asin": "B0FMJZL62T",
       "name": "Expandable Luggage Sets 5 Piece Suitcases",
       "pct": 29,
@@ -3095,7 +3082,7 @@
       "was": "139.99",
       "deal": "Limited time deal",
       "reviews": 445,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B0HLZT9CWW",
@@ -3109,6 +3096,20 @@
       "was": "159.99",
       "deal": "Limited time deal",
       "reviews": 44,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GGGMPZQM",
+      "name": "Joyway 3 Piece Luggage Set",
+      "pct": 31,
+      "rating": 4.3,
+      "t": 1793728481,
+      "img": "https://m.media-amazon.com/images/I/81QpCYowN7L.jpg",
+      "link": "https://www.amazon.com/dp/B0GGGMPZQM?tag=zoepicks00-20",
+      "now": "159.48",
+      "was": "229.99",
+      "deal": "Limited time deal",
+      "reviews": 49,
       "tier": "premium"
      }
     ]
@@ -3118,30 +3119,29 @@
     "label": "Medium Luggage",
     "items": [
      {
+      "asin": "B0FQ5TYRYR",
+      "name": "Romswi 26\" Medium Checked Luggage",
+      "pct": 17,
+      "rating": 4.5,
+      "t": 1793752148,
+      "img": "https://m.media-amazon.com/images/I/616ap4Gp7vL.jpg",
+      "link": "https://www.amazon.com/dp/B0FQ5TYRYR?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "59.99",
+      "reviews": 271,
+      "tier": "budget"
+     },
+     {
       "asin": "B07CVH7MTZ",
       "name": "Coolife Medium Checked Luggage Hardside Suitcase",
       "pct": 30,
       "rating": 4.5,
-      "t": 1793752148,
+      "t": 1793757885,
       "img": "https://m.media-amazon.com/images/I/614KMUR95rL.jpg",
       "link": "https://www.amazon.com/dp/B07CVH7MTZ?tag=zoepicks00-20",
       "now": "69.98",
       "was": "99.99",
-      "deal": "Limited time deal",
       "reviews": 3152,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FJPRMDXM",
-      "name": "American Tourister Stratum 3.0 Medium 24-Inch Spinner",
-      "pct": 20,
-      "rating": 4.4,
-      "t": 1793752148,
-      "img": "https://m.media-amazon.com/images/I/71HIGbBAG3L.jpg",
-      "link": "https://www.amazon.com/dp/B0FJPRMDXM?tag=zoepicks00-20",
-      "now": "103.95",
-      "was": "129.99",
-      "reviews": 704,
       "tier": "mid"
      },
      {
@@ -3259,52 +3259,6 @@
     ]
    },
    {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B0FFJDWB9W",
-      "name": "Ello Pop & Fill 18oz Stainless Steel Kids Water Bottle",
-      "pct": 46,
-      "rating": 4.0,
-      "t": 1793632871,
-      "img": "https://m.media-amazon.com/images/I/51tvXOxX4vL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFJDWB9W?tag=zoepicks00-20",
-      "now": "12.49",
-      "was": "22.99",
-      "reviews": 816,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DTPGHRKT",
-      "name": "40 oz Insulated Water Bottle",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1793651029,
-      "img": "https://m.media-amazon.com/images/I/61ZSrPhAsTL.jpg",
-      "link": "https://www.amazon.com/dp/B0DTPGHRKT?tag=zoepicks00-20",
-      "now": "19.98",
-      "was": "29.99",
-      "reviews": 2008,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0D93W92PQ",
-      "name": "BJPKPK 64oz Insulated Water Bottle",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793651029,
-      "img": "https://m.media-amazon.com/images/I/71d2ijSa25L.jpg",
-      "link": "https://www.amazon.com/dp/B0D93W92PQ?tag=zoepicks00-20",
-      "now": "22.48",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 850,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "adjustable-dumbbells",
     "label": "Adjustable Dumbbells",
     "items": [
@@ -3394,6 +3348,52 @@
     ]
    },
    {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B0DTP745KH",
+      "name": "Meoky 24 Oz Insulated Stainless Steel Water Bottle",
+      "pct": 35,
+      "rating": 4.6,
+      "t": 1793651029,
+      "img": "https://m.media-amazon.com/images/I/616nMLYDnML.jpg",
+      "link": "https://www.amazon.com/dp/B0DTP745KH?tag=zoepicks00-20",
+      "now": "12.97",
+      "was": "19.99",
+      "reviews": 2008,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DTPGHRKT",
+      "name": "40 oz Insulated Water Bottle",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1793651029,
+      "img": "https://m.media-amazon.com/images/I/61ZSrPhAsTL.jpg",
+      "link": "https://www.amazon.com/dp/B0DTPGHRKT?tag=zoepicks00-20",
+      "now": "19.98",
+      "was": "29.99",
+      "reviews": 2008,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D93W92PQ",
+      "name": "BJPKPK 64oz Insulated Water Bottle",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793651029,
+      "img": "https://m.media-amazon.com/images/I/71d2ijSa25L.jpg",
+      "link": "https://www.amazon.com/dp/B0D93W92PQ?tag=zoepicks00-20",
+      "now": "22.48",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 850,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "coolers",
     "label": "Coolers",
     "items": [
@@ -3430,12 +3430,11 @@
       "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
       "pct": 29,
       "rating": 4.1,
-      "t": 1793753717,
+      "t": 1793757872,
       "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
       "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
       "now": "99.98",
       "was": "139.99",
-      "deal": "Limited time deal",
       "reviews": 413,
       "tier": "premium"
      }
@@ -4330,7 +4329,7 @@
       "name": "Brother CS5055 Computerized Sewing Machine",
       "pct": 21,
       "rating": 4.6,
-      "t": 1793752082,
+      "t": 1793757865,
       "img": "https://m.media-amazon.com/images/I/51BELIRHpIL.jpg",
       "link": "https://www.amazon.com/dp/B08BGB5GPZ?tag=zoepicks00-20",
       "now": "134.00",
@@ -4400,16 +4399,17 @@
     "label": "Vacuums",
     "items": [
      {
-      "asin": "B0FFJDWB9W",
-      "name": "Ello Pop & Fill 18oz Stainless Steel Kids Water Bottle",
-      "pct": 46,
-      "rating": 4.0,
-      "t": 1793632871,
-      "img": "https://m.media-amazon.com/images/I/51tvXOxX4vL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFJDWB9W?tag=zoepicks00-20",
-      "now": "12.49",
-      "was": "22.99",
-      "reviews": 816,
+      "asin": "B0HB4F28VM",
+      "name": "Evekas Handheld Vacuum Cordless",
+      "pct": 40,
+      "rating": 4.9,
+      "t": 1793728502,
+      "img": "https://m.media-amazon.com/images/I/71+csgexeSL.jpg",
+      "link": "https://www.amazon.com/dp/B0HB4F28VM?tag=zoepicks00-20",
+      "now": "35.98",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 96,
       "tier": "budget"
      },
      {
@@ -4762,31 +4762,30 @@
       "tier": "budget"
      },
      {
+      "asin": "B0DRVF3V9K",
+      "name": "BEICHEN Mini Fridge,6 Liter / 8 Can Small Fridge",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793753717,
+      "img": "https://m.media-amazon.com/images/I/61Q3AOtXyZL.jpg",
+      "link": "https://www.amazon.com/dp/B0DRVF3V9K?tag=zoepicks00-20",
+      "now": "55.99",
+      "was": "69.98",
+      "deal": "Limited time deal",
+      "reviews": 919,
+      "tier": "mid"
+     },
+     {
       "asin": "B07LDWLMFY",
       "name": "Frigidaire Retro Mini Fridge Side Bottle Opener",
       "pct": 28,
       "rating": 4.0,
-      "t": 1793753717,
+      "t": 1793757852,
       "img": "https://m.media-amazon.com/images/I/61cXGU13dAL.jpg",
       "link": "https://www.amazon.com/dp/B07LDWLMFY?tag=zoepicks00-20",
       "now": "99.00",
       "was": "138.00",
-      "deal": "Limited time deal",
       "reviews": 156,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DK6R8HJC",
-      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
-      "pct": 29,
-      "rating": 4.1,
-      "t": 1793753717,
-      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
-      "deal": "Limited time deal",
-      "reviews": 413,
       "tier": "premium"
      }
     ]
