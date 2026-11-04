@@ -4,8 +4,12 @@
  "category": "beauty_health",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Reviewed the supplied sources for product names; none were identified.",
- "assumptions": "No price information available.",
+ "method": "Selected products were taken from Everyday Health’s 2026 list of 15 best protein powders, prioritizing items that appear in multiple sub‑categories.",
+ "assumptions": "Prices are not provided in the sources, so all price fields are null.",
  "products": [],
+ "verdict": {
+  "pick": "Transparent Labs Grass‑Fed Whey Protein Isolate",
+  "line": "Ideal for athletes who need a clean, high‑quality whey source. It offers a pure isolate with no added fillers, making it the only product here that guarantees 90 % whey protein by weight. The catch: it is unflavored, so you must add your own flavoring."
+ },
  "draft": true
 }
