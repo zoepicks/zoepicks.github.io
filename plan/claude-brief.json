@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-04T05:28:19.035561+00:00",
+ "generated_at": "2026-11-04T17:39:26.825103+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 270,
+  "pages": 274,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 33
+   "low": 38
   },
-  "avg_guide_words": 951,
+  "avg_guide_words": 952,
   "todo": [
    {
     "sev": "high",
@@ -39,24 +39,26 @@
    {
     "sev": "low",
     "code": "desc_length",
-    "count": 15,
+    "count": 16,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
+     "/g/best-sleep-mask-2026/",
      "/g/best-sandals-2026/",
-     "/g/best-workout-clothes-2026/",
-     "/g/best-mouse-skates-2026/"
+     "/g/best-workout-clothes-2026/"
     ],
-    "detail": "description 69 chars (best 70-170)"
+    "detail": "description 63 chars (best 70-170)"
    },
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 1,
+    "count": 5,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-handheld-gaming-pcs-2026/"
+     "/g/best-webcams-2026/",
+     "/g/best-gaming-chairs-2026/",
+     "/g/best-mechanical-keyboards-2026/"
     ],
-    "detail": "load 3.4s"
+    "detail": "load 3.19s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -64,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 264,
+   "guides_live": 268,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -72,23 +74,23 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-03T23:07:36.717194+00:00",
+    "t": "2026-11-04T11:32:33.918009+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-04T02:09:10.276594+00:00",
+    "t": "2026-11-04T14:37:38.469280+00:00",
     "indexnow": {
-     "submitted": 5,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-04T05:10:42.818397+00:00",
+    "t": "2026-11-04T17:39:20.365564+00:00",
     "indexnow": {
-     "submitted": 15,
+     "submitted": 2,
      "http": 200
     }
    }
@@ -147,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 7,
-   "warn": 1,
+   "info": 39,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 686,
-   "warn": 41,
+   "info": 718,
+   "warn": 42,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -170,24 +172,24 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 35
+    "warnings": 36
    }
   ],
   "collector": {
    "today": {
-    "total": 0,
-    "ok": 0,
+    "total": 6,
+    "ok": 5,
     "failed": 0,
     "cancelled": 0,
-    "running": 0,
+    "running": 1,
     "failed_runs": []
    },
    "last7d": {
-    "total": 79,
-    "ok": 58,
+    "total": 85,
+    "ok": 63,
     "failed": 19,
     "cancelled": 2,
-    "running": 0,
+    "running": 1,
     "failed_runs": [
      {
       "run": 198,
@@ -254,8 +256,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 2,
-    "ok": 2,
+    "total": 11,
+    "ok": 11,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -294,9 +296,9 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "module": "ZOEDEALS",
+    "level": "e",
+    "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 500: "
    },
    {
     "module": "ZOESEO",
@@ -309,9 +311,9 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEMISSING",
+    "module": "ZOESEO",
     "level": "w",
-    "msg": "zoe missing check_built: GitHub GET contents/src -> 500: {\"message\":\"Internal Server Error\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"500\"}"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -321,19 +323,27 @@
   ]
  },
  "content": {
-  "live_guides": 264,
+  "live_guides": 268,
   "missing_topics_by_status": {
-   "built": 69,
-   "open": 71,
-   "queued": 43,
-   "covered": 17
+   "queued": 44,
+   "open": 66,
+   "covered": 17,
+   "built": 73
   },
   "missing_new": {
-   "today": 0,
-   "d7": 142,
+   "today": 7,
+   "d7": 140,
    "d30": 200
   },
   "open_topics": [
+   {
+    "topic": "mac studio",
+    "leads": "4",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793813466",
+    "last_at": "1793813961"
+   },
    {
     "topic": "shrek 2 remastered ps5",
     "leads": "1",
@@ -357,14 +367,6 @@
     "status": "open",
     "first_at": "1793712257",
     "last_at": "1793712257"
-   },
-   {
-    "topic": "table lamp",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793707512",
-    "last_at": "1793707899"
    },
    {
     "topic": "wireless charging mouse",
@@ -751,13 +753,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 270,
+    "urls": 274,
     "other_host_urls": 0,
-    "live_pages_crawled": 270
+    "live_pages_crawled": 274
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -768,7 +770,7 @@
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 6 - recent_problems dekho aur root cause fix karo.",
+  "Bot errors (7 din): 7 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
