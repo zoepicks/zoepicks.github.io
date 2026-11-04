@@ -2,14 +2,20 @@
  "slug": "best-real-time-translation-device-2026",
  "title": "Best Real Time Translation Device (2026)",
  "category": "beauty_health",
- "date": "Nov 3, 2026",
+ "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the product coverage in the listed sources, focusing on language count, latency, and real‑world performance as described in source 4 and cross‑checked with Google’s Gemini 3.5 details in source 1.",
- "assumptions": "No price data was included because the sources did not give exact figures for the listed models.",
+ "method": "Picks were based on the product recommendations and performance details in sources [1],[2],[4],[5]. Products mentioned by more than one source were prioritized.",
+ "assumptions": "No price data was provided in the excerpts, so price fields are null.",
  "products": [],
  "verdict": {
-  "pick": "Google Pixel Buds Pro 2",
-  "line": "Buy this if you want the most accurate AI‑driven translation in a familiar earbud form and you already use Google services; it handles 70+ languages with low latency. The main catch is that both speakers must wear earbuds."
+  "pick": "Apple AirPods with Live Translation",
+  "line": "Buy if you want a hands‑free, everyday solution that works in noisy cafés and while traveling; the earbuds translate on‑the‑fly and integrate with your phone. The main catch is you need an iPhone and the feature only works with supported languages.",
+  "also": [
+   [
+    "Most language coverage",
+    "Google Gemini 3.5 Live Translate"
+   ]
+  ]
  },
  "draft": true
 }

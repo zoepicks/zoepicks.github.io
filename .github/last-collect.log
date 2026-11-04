@@ -1,13 +1,12 @@
-  - navigating to "https://antonrobots.com/top-robotic-arm-manufacturers", waiting until "domcontentloaded"
-
-[collect] extra sources: +2 readable page(s) -> 6 total (antonrobots.com, evsint.com)
+[collect] open web (tavily) -> 15 results
+[collect] extra sources: +2 readable page(s) -> 6 total (reviewed.com, optimizeyourbiology.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2611 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Universal Robots UR20
-[collect] drop (only 1 sources): Fairino FR20
-[collect] drop (only 1 sources): Fanuc CRX‑25iA
-[collect] drop (only 1 sources): Epson SCARA Series
-[collect] drop (only 1 sources): ABB IRB 1100
+[collect] llm request: 6 sources x 1070 chars, ~2963 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Mzoo Sleep Mask
+[collect] drop (only 1 sources): Alaska Bear Natural Silk Sleep Mask
+[collect] drop (only 1 sources): Loftie Sleep Mask
+[collect] drop (only 1 sources): Manta Sound Sleep Mask
+[collect] drop (only 1 sources): SilkSound Bluetooth Sleep Mask
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -181,6 +180,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kindle-case-20
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-knife-set-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-kobo-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-charger-2026/portable/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-deals-black-friday-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-docking-station-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-laptop-stands-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-robotic-arm-2026 draft
-[collect] progress: guide 3 done (best-robotic-arm-2026) | tried 3 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,461 requested 2,443", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,950 requested 2,454"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
-[collect] run finished: 3 guide(s) built, 3 topic(s) tried
+[collect] done: best-sleep-mask-2026 draft
+[collect] progress: guide 50 done (best-sleep-mask-2026) | tried 50 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 196,532 requested 4,078", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 196,425 requested 3,773", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,779 requested 2,390", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,229 requested 3,321"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
+[collect] run finished: 50 guide(s) built, 50 topic(s) tried

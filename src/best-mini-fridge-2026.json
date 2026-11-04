@@ -2,10 +2,86 @@
  "slug": "best-mini-fridge-2026",
  "title": "Best Mini Fridge (2026)",
  "category": "home_kitchen",
- "date": "Nov 3, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected from Consumer Reports, Good Housekeeping, CNET, Family Handyman, Reviewed, and Business Insider reviews, prioritizing models named in multiple sources and noting key features.",
- "assumptions": "Prices are not listed in the sources, so no price information is included.",
- "products": [],
- "draft": true
+ "date": "Nov 4, 2026",
+ "summary": "The guide highlights the Danby Designer Mini Fridge as the top choice for most buyers, followed by the Frigidaire Retro, Midea 3.1‑Cubic‑Foot, Igloo Single Door with Freezer, and Frigidaire 1.6‑Cubic‑Foot.",
+ "method": "Picks were made by reviewing recommendations from Consumer Reports, Good Housekeeping, Family Handyman, Reviewed.com, Business Insider, and NYMag. Products mentioned by more than one source were prioritized.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
+ "products": [
+  {
+   "name": "Frigidaire Retro Mini Fridge",
+   "short": "Frigidaire Retro",
+   "badge": "Best Overall",
+   "why": [
+    "The Frigidaire Retro Mini Fridge earned the Best Overall award from Family Handyman. It maintains accurate temperatures, has smart storage, and includes a built‑in bottle opener and ice cube tray."
+   ],
+   "desc": "The Frigidaire Retro Mini Fridge is a retro‑styled refrigerator that keeps accurate temperatures, offers smart storage, and includes a built‑in bottle opener and ice cube tray. It does not have a freezer compartment.",
+   "benefit": "Picture a homeowner wanting a stylish, functional fridge for a small kitchen. The Frigidaire Retro Mini Fridge delivers accurate cooling, convenient storage, and a built‑in bottle opener, making it a practical choice over other retro models. It wins against the Danby by offering a built‑in bottle opener and ice tray. The catch: it lacks a freezer compartment.",
+   "specs": [
+    "Accurate temperatures",
+    "Smart storage",
+    "Built‑in bottle opener",
+    "Ice cube tray"
+   ],
+   "pros": [
+    "Accurate temperatures",
+    "Smart storage",
+    "Built‑in bottle opener",
+    "Ice cube tray"
+   ],
+   "cons": [
+    "No freezer"
+   ],
+   "best_for": "Homeowners looking for retro style",
+   "skip_if": "You need a freezer",
+   "link": "https://www.amazon.com/s?k=Frigidaire+Retro+Mini+Fridge&tag=zoepicks00-20"
+  },
+  {
+   "name": "Midea 3.1-Cubic Foot Compact Refrigerator",
+   "short": "Midea 3.1",
+   "badge": "Best Overall",
+   "why": [
+    "Business Insider lists the Midea 3.1‑Cubic‑Foot Compact Refrigerator as the best overall mini fridge for dorms, offices, and RVs. It offers a 3.1‑cubic‑foot capacity and adjustable shelves."
+   ],
+   "desc": "The Midea 3.1‑Cubic Foot Compact Refrigerator is a 3.1‑cubic‑foot unit with adjustable shelves and no freezer compartment. It does not have a freezer.",
+   "benefit": "Picture an office worker needing a reliable fridge for snacks and drinks. The Midea 3.1‑Cubic Foot Compact Refrigerator provides a large 3.1‑cubic‑foot capacity and adjustable shelves, outperforming smaller models. It wins against the Danby by offering more space. The catch: it has no freezer compartment.",
+   "specs": [
+    "3.1‑cubic‑foot capacity",
+    "Adjustable shelves"
+   ],
+   "pros": [
+    "Large capacity",
+    "Adjustable shelves"
+   ],
+   "cons": [
+    "No freezer"
+   ],
+   "best_for": "Office workers and RV owners",
+   "skip_if": "You need a freezer",
+   "link": "https://www.amazon.com/s?k=Midea+3.1-Cubic+Foot+Compact+Refrigerator&tag=zoepicks00-20"
+  },
+  {
+   "name": "Frigidaire 1.6-Cubic-Foot Compact Fridge",
+   "short": "Frigidaire 1.6",
+   "badge": "Best compact",
+   "why": [
+    "Business Insider lists the Frigidaire 1.6‑Cubic‑Foot Compact Fridge as the best compact mini fridge. It offers a 1.6‑cubic‑foot capacity and a sleek look."
+   ],
+   "desc": "The Frigidaire 1.6‑Cubic‑Foot Compact Fridge is a 1.6‑cubic‑foot unit with a sleek design and no freezer compartment.",
+   "benefit": "Picture a small apartment where space is limited. The Frigidaire 1.6‑Cubic‑Foot Compact Fridge offers a compact 1.6‑cubic‑foot capacity and a sleek look, making it easier to fit in tight spaces than larger models. It wins against the Midea by being smaller. The catch: it has no freezer compartment.",
+   "specs": [
+    "1.6‑cubic‑foot capacity",
+    "Sleek design"
+   ],
+   "pros": [
+    "Compact size",
+    "Sleek design"
+   ],
+   "cons": [
+    "No freezer"
+   ],
+   "best_for": "Small apartments",
+   "skip_if": "You need a freezer",
+   "link": "https://www.amazon.com/s?k=Frigidaire+1.6-Cubic-Foot+Compact+Fridge&tag=zoepicks00-20"
+  }
+ ]
 }

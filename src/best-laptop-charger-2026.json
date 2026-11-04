@@ -2,7 +2,7 @@
  "slug": "best-laptop-charger-2026",
  "title": "Best Laptop Charger (2026)",
  "category": "accessories",
- "date": "Nov 3, 2026",
+ "date": "Nov 4, 2026",
  "summary": "The top laptop chargers of 2026 combine high wattage, compact GaN design, and multiple ports, with the Anker Nano Pro, Ugreen Nexode 200W, Ugreen Nexode 65W, Satechi 165W, and Anker Nano 45W standing out.",
  "method": "I selected chargers that appear in at least two of the provided sources, prioritizing those highlighted as best or best‑value. The sites used were CNET, Tom’s Guide, and PCMag. Added from Amazon listing details (not from the review sources above): Anker Nano 100W, UGREEN 6-Port Station.",
  "assumptions": "Prices are only included when a source lists them; otherwise the price field is null.",
@@ -261,6 +261,101 @@
    "tabs": [
     "phone"
    ]
+  },
+  {
+   "name": "Bluetti Elite 200 V2",
+   "short": "Bluetti Elite 200 V2",
+   "badge": "Best Overall",
+   "why": [
+    "The Bluetti Elite 200 V2 earned the highest overall score in CNET’s lab tests.",
+    "It offers a large battery capacity and strong inverter performance, making it suitable for camping, RV adventures, and emergency home backup."
+   ],
+   "desc": "The Bluetti Elite 200 V2 is a portable power station with a large battery, efficient inverter, and fast charging. It does not include a solar panel but supports solar recharging up to 1,500 W input.",
+   "benefit": "Picture a family using it during a weekend camping trip; it powers a small fridge, lights, and phones for days. The unit delivers the highest overall score and the best efficiency (81.08 % RTE) among the picks, and it recharges in under two hours. The catch: it is heavy at 53.4 lb, making it less portable.",
+   "specs": [
+    "53.4 lb weight",
+    "81.08 % RTE efficiency",
+    "recharges in <2 h",
+    "12 ports for up to 12 devices",
+    "dual AC output",
+    "solar recharging up to 1,500 W"
+   ],
+   "pros": [
+    "Highest overall score",
+    "Best efficiency",
+    "Fast recharge",
+    "Multiple ports"
+   ],
+   "cons": [
+    "Heavy",
+    "Not very portable"
+   ],
+   "best_for": "Outdoor enthusiasts and emergency kit users",
+   "skip_if": "You need a lightweight charger for travel",
+   "link": "https://www.amazon.com/s?k=Bluetti+Elite+200%E2%80%AFV2&tag=zoepicks00-20",
+   "tabs": [
+    "portable"
+   ]
+  },
+  {
+   "name": "EcoFlow Delta 3 Ultra Plus",
+   "short": "EcoFlow Delta 3 Ultra Plus",
+   "badge": "Best large unit",
+   "why": [
+    "PCMag highlighted it as a compelling choice for RV owners and home backup.",
+    "It offers powerful output and expandable capacity."
+   ],
+   "desc": "The EcoFlow Delta 3 Ultra Plus is a portable power station with powerful output, expandable capacity, and fast charging. It is designed for RV owners and home backup.",
+   "benefit": "Picture an RV owner needing reliable power; it offers powerful output and expandable capacity for long trips. It is suitable for home backup and RV adventures. The catch: the source does not provide specific efficiency or weight details.",
+   "specs": [
+    "Powerful output",
+    "Expandable capacity",
+    "Fast charging"
+   ],
+   "pros": [
+    "Powerful output",
+    "Expandable capacity",
+    "Fast charging"
+   ],
+   "cons": [
+    "No efficiency or weight info"
+   ],
+   "best_for": "RV owners and home backup",
+   "skip_if": "You need detailed efficiency data",
+   "link": "https://www.amazon.com/s?k=EcoFlow+Delta%E2%80%AF3+Ultra%E2%80%AFPlus&tag=zoepicks00-20",
+   "tabs": [
+    "portable"
+   ]
+  },
+  {
+   "name": "Jackery HomePower 2000 Plus v2",
+   "short": "Jackery HomePower 2000 Plus v2",
+   "badge": "Best emergency backup",
+   "why": [
+    "PCMag noted it makes emergency backup power approachable.",
+    "It offers fast charging and smart outlet prioritization."
+   ],
+   "desc": "The Jackery HomePower 2000 Plus v2 is a portable power station with fast charging, smart outlet prioritization, and expandable options.",
+   "benefit": "Picture a family preparing for a blackout; it offers fast charging and smart outlet prioritization to keep essential devices running. It is approachable for emergency backup. The catch: the source does not provide weight or efficiency details.",
+   "specs": [
+    "Fast charging",
+    "Smart outlet prioritization",
+    "Expandable options"
+   ],
+   "pros": [
+    "Fast charging",
+    "Smart outlet prioritization",
+    "Expandable"
+   ],
+   "cons": [
+    "No weight or efficiency info"
+   ],
+   "best_for": "Emergency backup for families",
+   "skip_if": "You need detailed efficiency or weight data",
+   "link": "https://www.amazon.com/s?k=Jackery+HomePower%E2%80%AF2000%E2%80%AFPlus%E2%80%AFv2&tag=zoepicks00-20",
+   "tabs": [
+    "portable"
+   ]
   }
  ],
  "tabs": [
@@ -271,6 +366,10 @@
   {
    "key": "phone",
    "label": "Phone"
+  },
+  {
+   "key": "portable",
+   "label": "Portable"
   }
  ]
 }
