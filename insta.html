@@ -1,0 +1,53 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><link rel="icon" type="image/png" sizes="64x64" href="assets/logo-64.png"><link rel="apple-touch-icon" href="assets/logo-180.png"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Instagram Picks — Zoe Picks</title><meta name="description" content="Today's real-discount picks in Fashion, Beauty, Home &amp; Kitchen and Kids &amp; Mom. The same products we share on Instagram.">
+<link rel="canonical" href="https://zoepicks.github.io/insta.html"><meta property="og:title" content="Zoe Picks — honest buying guides"><meta property="og:description" content="Short, honest comparisons of the best products for what you actually need. No hype, clear pros and cons."><meta property="og:type" content="website"><meta property="og:url" content="https://zoepicks.github.io/insta.html"><meta property="og:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://zoepicks.github.io/assets/og.png?v=ab96e2e8">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&family=Poppins:wght@700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="assets/style.css?v=pol14"><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Zoe Picks","url":"https://zoepicks.github.io/"},{"@type":"Organization","name":"Zoe Picks","url":"https://zoepicks.github.io/","logo":"https://zoepicks.github.io/assets/logo-512.png"}]}</script></head><body>
+<nav><div class="wrap"><a class="logo" href="./"><img class="lg" src="assets/logo-96.png" alt="Zoe Picks logo" width="28" height="28"><span class="bn"><span class="wm"><i>Zoe</i> <b>Picks</b></span><small class="sl">Buy the right thing, <em>not the loudest one.</em></small></span></a><a class="l" href="./">Home</a></div></nav>
+<main class="wrap">
+<div class="dd-top"><h1>Instagram Picks</h1><p class="dd-sub"><span id="inCount">Loading picks…</span> <small id="inAsof"></small></p></div>
+<div class="dd-bar" id="inBar">
+  <div class="dd-chipwrap"><div class="dd-chips" id="inTabs" role="tablist" aria-label="Category"></div></div>
+</div>
+<div class="dd-grid" id="inGrid"></div>
+<div class="dd-more"><button type="button" id="inMore" hidden>Show more</button></div>
+<p class="disc">Prices and discounts come from Amazon listings checked in the last 24 hours and can change at any time. Always confirm the price on Amazon before you buy.</p>
+</main>
+<footer><div class="fl"><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="disclosure.html">Affiliate Disclosure</a><a href="https://t.me/zoepicks" target="_blank" rel="noopener">Telegram</a></div>© Zoe Picks · As an Amazon Associate we earn from qualifying purchases. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</footer>
+<script src="assets/site.js?v=3" data-root="."></script><script src="assets/visit.js?v=1" defer></script>
+<script>
+(function(){
+const H=3600e3,MAXAGE=40*H,PRICE_H=24*H,PAGE=24;
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const okLink=u=>/^https:\/\/www\.amazon\.com\//.test(u||""),okImg=u=>/^https:\/\//.test(u||"");
+const px=i=>i.now&&i.t&&Date.now()-i.t*1000<PRICE_H;
+const usd=v=>{const n=parseFloat(v);return isFinite(n)?"$"+(n%1?n.toFixed(2):n.toLocaleString("en-US")):"";};
+const $=id=>document.getElementById(id);
+let CATS=[],ITEMS={},cur="",shown=PAGE;
+const list=k=>(ITEMS[k]||[]);
+function tabs(){
+  $("inTabs").innerHTML=CATS.map(c=>`<button type="button" role="tab" aria-selected="${cur===c.key}" data-tab="${esc(c.key)}">${esc(c.icon||"")} ${esc(c.label)} <i>${list(c.key).length}</i></button>`).join("");
+}
+function draw(){
+  tabs();
+  const a=list(cur),v=a.slice(0,shown),c=CATS.find(x=>x.key===cur);
+  $("inCount").textContent=a.length+" pick"+(a.length===1?"":"s")+(c?" in "+c.label:"");
+  $("inGrid").innerHTML=v.map((i,n)=>`<a class="dd-c" href="${esc(i.link)}" target="_blank" rel="sponsored nofollow noopener" title="${esc(i.name)}"><span class="dd-i">${okImg(i.img)?`<img src="${esc(i.img)}" alt="" loading="${n<8?"eager":"lazy"}" decoding="async" referrerpolicy="no-referrer">`:"🏷️"}<em${px(i)?"":' class="st"'}>${px(i)?"-"+i.pct+"%":"Deal"}</em></span><b>${esc(i.name)}</b><span class="dd-m">${px(i)&&usd(i.now)?`<strong>${usd(i.now)}</strong>${i.was&&+i.was>+i.now?`<s>${usd(i.was)}</s>`:""}`:`<span class="dd-chk">Check price</span>`}</span><span class="dd-m2">${i.rating?`<span>★ ${i.rating}</span>`:""}${px(i)&&+i.was>+i.now?`<span class="dd-sv">Save ${usd(+i.was-+i.now)}</span>`:""}</span></a>`).join("")||'<div class="empty">No real discount in this category right now. Check back soon.</div>';
+  $("inMore").hidden=a.length<=shown;
+  history.replaceState(null,"","insta.html#"+cur);
+}
+document.addEventListener("click",e=>{
+  const t=e.target.closest("[data-tab]");
+  if(t){cur=t.dataset.tab;shown=PAGE;draw();t.scrollIntoView({inline:"center",block:"nearest",behavior:"smooth"});}
+});
+$("inMore").onclick=()=>{shown+=PAGE;draw();};
+const nv=document.querySelector("nav");const setTop=()=>document.documentElement.style.setProperty("--navh",(nv?nv.offsetHeight:56)+"px");setTop();addEventListener("resize",setTop);
+fetch("guides/insta.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{
+  if(!d||!d.updated||!d.cats||!d.items||Date.now()-new Date(d.updated)>MAXAGE){$("inCount").textContent="Picks are being refreshed. Please check back soon.";return;}
+  CATS=d.cats;
+  CATS.forEach(c=>{ITEMS[c.key]=(d.items[c.key]||[]).filter(i=>i&&i.asin&&okLink(i.link)&&i.name&&i.pct>0&&Date.now()-i.t*1000<MAXAGE);});
+  const h=(location.hash||"").slice(1);
+  cur=CATS.some(c=>c.key===h)?h:(CATS.find(c=>list(c.key).length)||CATS[0]||{}).key;
+  $("inAsof").textContent="Prices checked in the last 24h";draw();
+}).catch(()=>{$("inCount").textContent="Could not load picks. Please try again.";});
+})();
+</script></body></html>
