@@ -11893,38 +11893,52 @@
   },
   "beauty_health:makeup-palette": {
    "label": "Makeup Palette",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
      "asin": "B089GBFM7G",
      "name": "ColourPop Nude Mood Eyeshadow Palette",
      "pct": 70,
      "rating": 4.5,
-     "t": 1793646264,
+     "t": 1793810731,
      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
      "now": "14.00",
      "was": "46.67",
-     "reviews": 5336,
+     "reviews": 5360,
      "_title": "ColourPop Nude Mood Eyeshadow Palette - Brown & Copper Palette with Metallic and Matte Finishes - High-Pigment Eye Makeup ...",
      "_price": 14.0
     },
     {
+     "asin": "B0C41QPKZR",
+     "name": "NYX PROFESSIONAL MAKEUP",
+     "pct": 15,
+     "rating": 4.5,
+     "t": 1793810731,
+     "img": "https://m.media-amazon.com/images/I/A1vQE-WufTL.jpg",
+     "link": "https://www.amazon.com/dp/B0C41QPKZR?tag=zoepicks00-20",
+     "now": "17.00",
+     "was": "20.00",
+     "reviews": 18265,
+     "_title": "NYX PROFESSIONAL MAKEUP, Ultimate Shadow Palette, Eyeshadow Palette - I Know That's Bright",
+     "_price": 17.0
+    },
+    {
      "asin": "B0BDZG7YVD",
      "name": "UCANBE Eyeshadow Palette",
-     "pct": 6,
+     "pct": 5,
      "rating": 4.6,
-     "t": 1793646264,
+     "t": 1793810731,
      "img": "https://m.media-amazon.com/images/I/710YFHUujBL.jpg",
      "link": "https://www.amazon.com/dp/B0BDZG7YVD?tag=zoepicks00-20",
-     "now": "18.79",
+     "now": "18.99",
      "was": "19.99",
-     "reviews": 1858,
+     "reviews": 1859,
      "_title": "UCANBE Eyeshadow Palette with 15Pcs Brushes Makeup Set, Pigmented 86 Colors Make Up Sets Valentine's Day Gift, Matte Shimm...",
-     "_price": 18.79
+     "_price": 18.99
     }
    ],
-   "scanned": "2026-11-02T19:04:24.207098+00:00"
+   "scanned": "2026-11-04T16:45:31.479740+00:00"
   },
   "electronics:kobo-case": {
    "label": "Kobo Case",
