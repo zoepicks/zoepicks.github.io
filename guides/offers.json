@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-04T11:39:25Z",
+ "updated": "2026-11-04T12:52:32Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -157,16 +157,16 @@
   ],
   "fitness_outdoor": [
    {
-    "asin": "B0FDQBGCWQ",
-    "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
-    "pct": 47,
+    "asin": "B0DSR2W69V",
+    "name": "Sunny Health & Fitness Exercise Yoga Mats",
+    "pct": 43,
     "rating": 4.4,
-    "t": 1793665549,
-    "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
-    "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-    "now": "12.74",
-    "was": "23.99",
-    "reviews": 100,
+    "t": 1793791963,
+    "img": "https://m.media-amazon.com/images/I/81YwLvFxG1L.jpg",
+    "link": "https://www.amazon.com/dp/B0DSR2W69V?tag=zoepicks00-20",
+    "now": "17.09",
+    "was": "29.99",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -2297,16 +2297,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B01B77VOYK",
-      "name": "Hanes Women's EcoSmart Fleece Sweatshirt",
-      "pct": 13,
-      "rating": 4.4,
+      "asin": "B00JUME0GE",
+      "name": "Hanes Men's Ultimate Sweatshirt",
+      "pct": 47,
+      "rating": 4.5,
       "t": 1793722613,
-      "img": "https://m.media-amazon.com/images/I/71gN4vSHt5L.jpg",
-      "link": "https://www.amazon.com/dp/B01B77VOYK?tag=zoepicks00-20",
-      "now": "12.59",
-      "was": "14.50",
-      "reviews": 46937,
+      "img": "https://m.media-amazon.com/images/I/71YvrTe+f4L.jpg",
+      "link": "https://www.amazon.com/dp/B00JUME0GE?tag=zoepicks00-20",
+      "now": "17.49",
+      "was": "33.00",
+      "reviews": 51532,
       "tier": "mid"
      },
      {
@@ -2509,17 +2509,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B0F1Y278LX",
-      "name": "Jmzb Barefoot Shoes",
-      "pct": 21,
-      "rating": 4.3,
-      "t": 1793671481,
-      "img": "https://m.media-amazon.com/images/I/71I8CBfnoJL.jpg",
-      "link": "https://www.amazon.com/dp/B0F1Y278LX?tag=zoepicks00-20",
-      "now": "18.99",
-      "was": "23.99",
-      "deal": "Limited time deal",
-      "reviews": 1978,
+      "asin": "B0DKFJPF56",
+      "name": "FitVille Men's Extra Wide Slip on Walking Shoes",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1793688753,
+      "img": "https://m.media-amazon.com/images/I/71H4bQnYPtL.jpg",
+      "link": "https://www.amazon.com/dp/B0DKFJPF56?tag=zoepicks00-20",
+      "now": "36.70",
+      "was": "45.89",
+      "reviews": 3056,
       "tier": "mid"
      },
      {
@@ -2582,38 +2581,6 @@
       "deal": "Limited time deal",
       "reviews": 1450,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "travel-backpacks",
-    "label": "Travel Backpacks",
-    "items": [
-     {
-      "asin": "B0FDQBGCWQ",
-      "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
-      "pct": 47,
-      "rating": 4.4,
-      "t": 1793665549,
-      "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
-      "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-      "now": "12.74",
-      "was": "23.99",
-      "reviews": 100,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09MQWWP87",
-      "name": "Taygeer Travel Backpack",
-      "pct": 36,
-      "rating": 4.7,
-      "t": 1793723308,
-      "img": "https://m.media-amazon.com/images/I/71K30PIVQmL.jpg",
-      "link": "https://www.amazon.com/dp/B09MQWWP87?tag=zoepicks00-20",
-      "now": "18.99",
-      "was": "29.87",
-      "deal": "Limited time deal",
-      "reviews": 31421
      }
     ]
    },
@@ -2842,6 +2809,25 @@
     ]
    },
    {
+    "key": "travel-backpacks",
+    "label": "Travel Backpacks",
+    "items": [
+     {
+      "asin": "B09MQWWP87",
+      "name": "Taygeer Travel Backpack",
+      "pct": 36,
+      "rating": 4.7,
+      "t": 1793723308,
+      "img": "https://m.media-amazon.com/images/I/71K30PIVQmL.jpg",
+      "link": "https://www.amazon.com/dp/B09MQWWP87?tag=zoepicks00-20",
+      "now": "18.99",
+      "was": "29.87",
+      "deal": "Limited time deal",
+      "reviews": 31421
+     }
+    ]
+   },
+   {
     "key": "suitcase",
     "label": "Suitcase",
     "items": [
@@ -2946,25 +2932,6 @@
    }
   ],
   "fitness_outdoor": [
-   {
-    "key": "hiking-backpacks",
-    "label": "Hiking Backpacks",
-    "items": [
-     {
-      "asin": "B0FDQBGCWQ",
-      "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
-      "pct": 47,
-      "rating": 4.4,
-      "t": 1793665549,
-      "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
-      "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-      "now": "12.74",
-      "was": "23.99",
-      "reviews": 100,
-      "tier": "budget"
-     }
-    ]
-   },
    {
     "key": "yoga-mats",
     "label": "Yoga Mats",
@@ -3222,6 +3189,11 @@
    {
     "key": "exercise-bikes",
     "label": "Exercise Bikes",
+    "items": []
+   },
+   {
+    "key": "hiking-backpacks",
+    "label": "Hiking Backpacks",
     "items": []
    },
    {
