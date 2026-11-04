@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-03T17:03:39.219099+00:00",
+ "generated_at": "2026-11-04T05:28:19.035561+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 268,
+  "pages": 270,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 48
+   "low": 33
   },
-  "avg_guide_words": 956,
+  "avg_guide_words": 951,
   "todo": [
    {
     "sev": "high",
@@ -38,18 +38,6 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 16,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-moisturizer-2026/",
-     "/g/best-drawing-stylus-2026/",
-     "/g/best-baby-monitors-2026/"
-    ],
-    "detail": "load 3.7s"
-   },
-   {
-    "sev": "low",
     "code": "desc_length",
     "count": 15,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
@@ -59,6 +47,16 @@
      "/g/best-mouse-skates-2026/"
     ],
     "detail": "description 69 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 1,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-handheld-gaming-pcs-2026/"
+    ],
+    "detail": "load 3.4s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +64,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 262,
+   "guides_live": 264,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,24 +72,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-03T10:59:36.464747+00:00",
+    "t": "2026-11-03T23:07:36.717194+00:00",
+    "indexnow": {
+     "submitted": 0,
+     "note": "koi page change nahi"
+    }
+   },
+   {
+    "t": "2026-11-04T02:09:10.276594+00:00",
     "indexnow": {
      "submitted": 5,
      "http": 200
     }
    },
    {
-    "t": "2026-11-03T14:01:43.022463+00:00",
+    "t": "2026-11-04T05:10:42.818397+00:00",
     "indexnow": {
-     "submitted": 6,
+     "submitted": 15,
      "http": 200
-    }
-   },
-   {
-    "t": "2026-11-03T17:03:33.217227+00:00",
-    "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
     }
    }
   ]
@@ -103,12 +101,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-28",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-10-29",
     "visitors": 0,
@@ -144,18 +136,24 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-04",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 176,
-   "warn": 6,
+   "info": 7,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 711,
-   "warn": 42,
+   "info": 686,
+   "warn": 41,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -172,25 +170,49 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 36
+    "warnings": 35
    }
   ],
   "collector": {
    "today": {
-    "total": 6,
-    "ok": 6,
+    "total": 0,
+    "ok": 0,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 85,
-    "ok": 60,
-    "failed": 23,
+    "total": 79,
+    "ok": 58,
+    "failed": 19,
     "cancelled": 2,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 198,
+      "at": "2026-10-30T15:34:32Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41081969597"
+     },
+     {
+      "run": 197,
+      "at": "2026-10-30T15:04:15Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41077284162"
+     },
+     {
+      "run": 196,
+      "at": "2026-10-30T09:03:13Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41030612109"
+     },
+     {
+      "run": 195,
+      "at": "2026-10-30T05:00:51Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41006030432"
+     },
      {
       "run": 194,
       "at": "2026-10-30T03:02:10Z",
@@ -226,49 +248,18 @@
       "at": "2026-10-29T04:46:28Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40819614741"
-     },
-     {
-      "run": 185,
-      "at": "2026-10-28T22:45:09Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40782343016"
-     },
-     {
-      "run": 180,
-      "at": "2026-10-28T16:13:44Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40723875186"
-     },
-     {
-      "run": 177,
-      "at": "2026-10-28T09:41:14Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40666181563"
-     },
-     {
-      "run": 176,
-      "at": "2026-10-28T04:07:19Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40630516496"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 125,
-    "ok": 124,
-    "failed": 1,
+    "total": 2,
+    "ok": 2,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 2517,
-      "at": "2026-11-03T12:20:32Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41634887530"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
@@ -298,29 +289,29 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
     "module": "ZOEMISSING",
     "level": "w",
     "msg": "zoe missing check_built: GitHub GET contents/src -> 500: {\"message\":\"Internal Server Error\",\"documentation_url\":\"https://docs.github.com/rest\",\"status\":\"500\"}"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOEMISSING",
-    "level": "w",
-    "msg": "zoe missing check_built: GitHub PUT contents/guides/offers.json -> 409: {\"message\":\"is at fc28f48d7d5828cc449ec716d910c0933689ad24 but expected 495304c355625a41"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -330,50 +321,26 @@
   ]
  },
  "content": {
-  "live_guides": 262,
+  "live_guides": 264,
   "missing_topics_by_status": {
-   "open": 76,
-   "built": 67,
-   "queued": 40,
+   "built": 69,
+   "open": 71,
+   "queued": 43,
    "covered": 17
   },
   "missing_new": {
-   "today": 6,
-   "d7": 159,
+   "today": 0,
+   "d7": 142,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "password protected power bank",
-    "leads": "4",
+    "topic": "shrek 2 remastered ps5",
+    "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793722458",
-    "last_at": "1793723034"
-   },
-   {
-    "topic": "cheetah print slippers",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793721271",
-    "last_at": "1793721554"
-   },
-   {
-    "topic": "video game controller",
-    "leads": "5",
-    "budget": null,
-    "status": "open",
-    "first_at": "1792538911",
-    "last_at": "1793717460"
-   },
-   {
-    "topic": "blazer hoodie",
-    "leads": "5",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793715591",
-    "last_at": "1793716269"
+    "first_at": "1793726027",
+    "last_at": "1793726027"
    },
    {
     "topic": "dvd adapter",
@@ -422,6 +389,30 @@
     "status": "open",
     "first_at": "1793629531",
     "last_at": "1793629531"
+   },
+   {
+    "topic": "makeup bag",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793629510",
+    "last_at": "1793629510"
+   },
+   {
+    "topic": "home treadmill",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793625891",
+    "last_at": "1793625891"
+   },
+   {
+    "topic": "m1 pro laptop",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793623387",
+    "last_at": "1793623387"
    }
   ]
  },
@@ -464,6 +455,46 @@
    },
    {
     "u": "/disclosure.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-mini-fridge-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-keyboard-with-function-keys-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-wireless-sport-headphones-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-graphics-card-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-sandals-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-nintendo-switch-games-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-hair-styling-brush-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-white-refrigerator-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
@@ -526,62 +557,22 @@
     "u": "/g/best-mac-mini-desktop-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-mascara-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-medium-luggage-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-stereo-system-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-smartwatch-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-dog-leash-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-ps5-or-gaming-pc-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-ice-maker-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-whiteboard-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
+   "https://zoepicks.github.io/g/best-mini-fridge-2026/",
+   "https://zoepicks.github.io/g/best-keyboard-with-function-keys-2026/",
+   "https://zoepicks.github.io/g/best-wireless-sport-headphones-2026/",
+   "https://zoepicks.github.io/g/best-graphics-card-2026/",
+   "https://zoepicks.github.io/g/best-sandals-2026/",
+   "https://zoepicks.github.io/g/best-nintendo-switch-games-2026/",
+   "https://zoepicks.github.io/g/best-hair-styling-brush-2026/",
+   "https://zoepicks.github.io/g/best-white-refrigerator-2026/",
    "https://zoepicks.github.io/g/best-workout-clothes-2026/",
-   "https://zoepicks.github.io/g/best-french-press-2026/",
-   "https://zoepicks.github.io/g/best-suitcase-2026/",
-   "https://zoepicks.github.io/g/best-mouse-skates-2026/",
-   "https://zoepicks.github.io/g/best-razor-blades-2026/",
-   "https://zoepicks.github.io/g/best-kobo-case-2026/",
-   "https://zoepicks.github.io/g/best-game-console-2026/",
-   "https://zoepicks.github.io/g/best-curtains-2026/",
-   "https://zoepicks.github.io/g/best-makeup-palette-2026/",
-   "https://zoepicks.github.io/g/best-steering-wheel-cover-2026/"
+   "https://zoepicks.github.io/g/best-french-press-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-03T04:38",
+   "last_submitted": "2026-11-04T05:10",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -592,13 +583,8 @@
   "sitemap_submit": "pending: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check ",
   "perf": {
    "clicks_28d": 0,
-   "impressions_28d": 2,
+   "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-10-25",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-26",
      "clicks": 0,
@@ -628,14 +614,19 @@
      "d": "2026-10-31",
      "clicks": 0,
      "impr": 1
+    },
+    {
+     "d": "2026-11-01",
+     "clicks": 0,
+     "impr": 1
     }
    ],
    "top_pages": [
     {
      "u": "/",
      "clicks": 0,
-     "impr": 2,
-     "pos": 6
+     "impr": 3,
+     "pos": 5
     }
    ],
    "top_queries": []
@@ -645,13 +636,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-10-20",
-    "indexed": 1,
-    "of": 138,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-10-21",
     "indexed": 1,
@@ -742,6 +726,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 2
+   },
+   {
+    "d": "2026-11-04",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -749,7 +740,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-03T04:38",
+    "last_submitted": "2026-11-04T05:10",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -760,13 +751,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 268,
+    "urls": 270,
     "other_host_urls": 0,
-    "live_pages_crawled": 268
+    "live_pages_crawled": 270
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
