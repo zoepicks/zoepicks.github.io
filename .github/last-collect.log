@@ -1,10 +1,8 @@
-[collect] drop (only 1 sources): Acer Aspire 16 AI
-[collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 8 total (zdnet.com, cnet.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 8 sources x 792 chars, ~2947 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): HP OmniBook Ultra 14
-[collect] only 2 well-sourced products -> staying draft
+[collect] llm request: 6 sources x 1070 chars, ~2960 in + 4000 out tokens (budget 7000)
+[collect] llm key ...8SBW openai/gpt-oss-120b DAILY limit limit 200,000 used 198,022 requested 2,387 -> skipped for this run
+[collect] drop (only 1 sources): Lenovo Legion Tower 7i Gen 8 34IRZ8
+[collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -243,6 +241,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-office-chairs-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oled-monitors-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-oscillating-heater-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-paperback-book-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pc-components-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-pc-controllers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-perfumes-2026/mugler/index.html
@@ -338,6 +337,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sunscreen-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sunset-lamp-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-surround-sound-system-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-sweatpants-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-table-lamp-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/ipad/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-tablets-2026/e-reader/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-laptop-computer-2026 draft
-[collect] progress: guide 2 done (best-laptop-computer-2026) | tried 2 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"LQ4f|openai/gpt-oss-120b": "limit 200,000 used 198,262 requested 2,287"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b"]}
+[collect] done: best-pc-components-2026 draft
+[collect] progress: guide 2 done (best-pc-components-2026) | tried 2 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: ['8SBW', 'ITNE'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,911 requested 2,357", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,022 requested 2,387"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b"]}
 [collect] run finished: 2 guide(s) built, 2 topic(s) tried
