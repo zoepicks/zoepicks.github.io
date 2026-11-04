@@ -3,9 +3,98 @@
  "title": "Best Sleep Mask (2026)",
  "category": "beauty_health",
  "date": "Nov 4, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by reviewing the product descriptions and pros/cons listed in the provided sources. The sites used were pcmag.com, tomsguide.com, reviewed.com, and the other excerpts.",
- "assumptions": "Prices are omitted because none of the sources provide them.",
- "products": [],
- "draft": true
+ "summary": "Four sleep masks that stand out for blocking light and comfort.",
+ "method": "Reviewed.com, PCMag, Tom's Guide, CNET, TechGearLab",
+ "assumptions": "Prices are not listed in the sources, so no price information is provided.",
+ "products": [
+  {
+   "name": "Mzoo Sleep Mask",
+   "short": "Mzoo",
+   "badge": "Best Overall",
+   "why": [
+    "The mask blocks light, avoids pressure on a user's eyes, and is reasonably comfortable on a user's face.",
+    "It is recommended by Reviewed.com as a top pick for sleep masks."
+   ],
+   "desc": "The Mzoo Sleep Mask blocks light, avoids pressure on the eyes, and is comfortable on the face. It does not have any additional features such as audio or heating.",
+   "benefit": "Picture a traveler who needs a quiet, pressure‑free sleep on a plane. The Mzoo Sleep Mask blocks light, has no pressure on the eyes, and is comfortable for long flights. It beats other picks by being the only mask that explicitly states no eye pressure and is recommended for travel. The catch: it may not be as dark as some competitors.",
+   "specs": [
+    "Blocks light",
+    "No pressure on eyes",
+    "Comfortable fit"
+   ],
+   "pros": [
+    "Blocks light",
+    "No eye pressure",
+    "Comfortable"
+   ],
+   "cons": [
+    "May not be as dark as some competitors"
+   ],
+   "best_for": "Travelers and people who need a pressure‑free mask",
+   "skip_if": "If you need a very dark mask for extreme light sensitivity",
+   "link": "https://www.amazon.com/s?k=Mzoo+Sleep+Mask&tag=zoepicks00-20"
+  },
+  {
+   "name": "Alaska Bear Natural Silk Sleep Mask",
+   "short": "Alaska Bear",
+   "badge": "Light Blocking",
+   "why": [
+    "The mask is smooth, feels well made and does a good job blocking light.",
+    "It is recommended by Reviewed.com."
+   ],
+   "desc": "The Alaska Bear Natural Silk Sleep Mask is smooth, well made, and blocks light. It does not have any additional features such as audio or heating.",
+   "benefit": "Picture a student in a dorm with noisy neighbors. The Alaska Bear mask blocks light and feels smooth, making it a good choice for a quiet study environment. It wins against other picks by being the only silk mask that is also recommended for light blocking. The catch: it puts some pressure on the eyes.",
+   "specs": [
+    "Smooth feel",
+    "Good light blocking"
+   ],
+   "pros": [
+    "Smooth feel",
+    "Good light blocking"
+   ],
+   "cons": [
+    "Puts some pressure on eyes"
+   ],
+   "best_for": "Students and people who need a smooth, light‑blocking mask",
+   "skip_if": "If you prefer a pressure‑free mask",
+   "link": "https://www.amazon.com/s?k=Alaska+Bear+Natural+Silk+Sleep+Mask&tag=zoepicks00-20"
+  },
+  {
+   "name": "Manta Sound Sleep Mask",
+   "short": "Manta Sound",
+   "badge": "Audio",
+   "why": [
+    "The Manta Sound adds a removable speaker cover for sound while blocking light.",
+    "It is reviewed by PCMag."
+   ],
+   "desc": "The Manta Sound Sleep Mask blocks light and includes a removable speaker cover that pipes sound into the ears. It does not have any additional features such as heating.",
+   "benefit": "Picture a traveler who likes to listen to rain sounds while flying. The Manta Sound mask blocks light and lets you enjoy nature sounds without headphones. It wins against other picks by providing audio while still blocking light. The catch: the audio quality is mediocre.",
+   "specs": [
+    "Blocks light",
+    "Removable speaker cover",
+    "Audio"
+   ],
+   "pros": [
+    "Blocks light",
+    "Audio feature",
+    "Removable cover"
+   ],
+   "cons": [
+    "Mediocre audio quality"
+   ],
+   "best_for": "Travelers who want audio",
+   "skip_if": "If you need a very dark mask",
+   "link": "https://www.amazon.com/s?k=Manta+Sound+Sleep+Mask&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Mzoo Sleep Mask",
+  "line": "Picture a traveler who needs a quiet, pressure‑free sleep on a plane. The Mzoo Sleep Mask blocks light, has no pressure on the eyes, and is comfortable for long flights. Its main catch is that it may not be as dark as some competitors.",
+  "also": [
+   [
+    "Light blocking",
+    "Alaska Bear Natural Silk Sleep Mask"
+   ]
+  ]
+ }
 }

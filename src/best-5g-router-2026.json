@@ -4,12 +4,8 @@
  "category": "accessories",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Reviewed the provided sources; only source 0 lists a 5G router recommendation.",
- "assumptions": "No price information was available in the sources.",
+ "method": "Selected products were taken from the cited sources; only the Inseego MiFi X PRO 5G (M3000) was mentioned in the supplied excerpts.",
+ "assumptions": "No price information is provided in the sources, so price fields are null.",
  "products": [],
- "verdict": {
-  "pick": "T‑Mobile 5G Home Internet",
-  "line": "Picture a homeowner who needs internet where wired options are scarce. T‑Mobile’s 5G Home Internet offers unlimited data, no contract, and simple setup, making it a good choice for light to moderate use. The main catch is that speeds are slower than cable or fiber and can vary throughout the day."
- },
  "draft": true
 }

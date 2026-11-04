@@ -4,16 +4,16 @@
  "category": "beauty_health",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the product recommendations and performance details in sources [1],[2],[4],[5]. Products mentioned by more than one source were prioritized.",
- "assumptions": "No price data was provided in the excerpts, so price fields are null.",
+ "method": "Picks were chosen by comparing the products mentioned in sources 1, 2, 4, and 5, giving priority to those cited by more than one source and to features like language count, continuous listening, and real‑world usability.",
+ "assumptions": "No price information was provided in the excerpts, so price fields are left null.",
  "products": [],
  "verdict": {
-  "pick": "Apple AirPods with Live Translation",
-  "line": "Buy if you want a hands‑free, everyday solution that works in noisy cafés and while traveling; the earbuds translate on‑the‑fly and integrate with your phone. The main catch is you need an iPhone and the feature only works with supported languages.",
+  "pick": "Google Gemini 3.5 Live Translate",
+  "line": "Buy it if you need the widest language coverage and a truly continuous conversation flow; it listens, translates and speaks with only a few seconds delay. The main catch is that it works only when you have an internet connection.",
   "also": [
    [
-    "Most language coverage",
-    "Google Gemini 3.5 Live Translate"
+    "Hardware Option",
+    "Timekettle Translator Device"
    ]
   ]
  },

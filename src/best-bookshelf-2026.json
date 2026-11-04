@@ -4,8 +4,18 @@
  "category": "other",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions in the supplied sources; none listed a bookshelf name.",
- "assumptions": "No price information was available, so none was included.",
+ "method": "Picks were made by reviewing the product mentions in the supplied sources and selecting those referenced by more than one source. The IKEA SYMFONISK Bookshelf was highlighted in both the RTINGS and CNET reviews, while the BookShelf iPhone app was the only source that discussed it.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "IKEA SYMFONISK Bookshelf",
+  "line": "Picture a living room where the bookshelf doubles as a sleek speaker. The SYMFONISK offers Wi‑Fi connectivity, Sonos Trueplay room‑correction, and AirPlay 2 support, making it ideal for music lovers who want a stylish, affordable entry into multi‑room audio. The catch: it lacks Bluetooth and the shelf bracket isn’t included.",
+  "also": [
+   [
+    "e‑Book Reader",
+    "BookShelf (iPhone)"
+   ]
+  ]
+ },
  "draft": true
 }

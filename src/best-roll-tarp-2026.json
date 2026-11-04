@@ -4,8 +4,8 @@
  "category": "tools_auto",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by counting product mentions across the provided sources and selecting those highlighted as top choices. Sources used: theprepared.com, manmakesfire.com, outdoorlife.com, advnture.com.",
- "assumptions": "No price information was given in the sources, so price fields are left null.",
+ "method": "Picks were made by reviewing the three sites that listed tarp recommendations: theprepared.com, bugoutbagbuilder.com, and manmakesfire.com. Products mentioned by more than one source were prioritized.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
  "draft": true
 }

@@ -1,12 +1,12 @@
 [collect] open web (tavily) -> 15 results
-[collect] extra sources: +2 readable page(s) -> 6 total (reviewed.com, optimizeyourbiology.com)
+[collect] http 403 https://www.cnn.com/cnn-underscored/reviews/best-luggage-sets
+[collect] browser fetch 0 chars: https://www.cnn.com/cnn-underscored/reviews/best-luggage-sets
+[collect] extra sources: +2 readable page(s) -> 6 total (cntraveller.com, cntraveler.com)
 [collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1070 chars, ~2963 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Mzoo Sleep Mask
-[collect] drop (only 1 sources): Alaska Bear Natural Silk Sleep Mask
-[collect] drop (only 1 sources): Loftie Sleep Mask
-[collect] drop (only 1 sources): Manta Sound Sleep Mask
-[collect] drop (only 1 sources): SilkSound Bluetooth Sleep Mask
+[collect] llm request: 6 sources x 1070 chars, ~2970 in + 4000 out tokens (budget 7000)
+[collect] drop (only 1 sources): Samsonite Freeform Hardside Expandable Spinner
+[collect] drop (only 1 sources): American Tourister 4 KIX 2.0 Expandable Softside Luggage
+[collect] drop (only 1 sources): LEVEL8 Voyageur
 [collect] only 0 well-sourced products -> staying draft
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-sleep-mask-2026 draft
-[collect] progress: guide 50 done (best-sleep-mask-2026) | tried 50 | tavily keys alive 3/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 196,532 requested 4,078", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 196,425 requested 3,773", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,779 requested 2,390", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,229 requested 3,321"}, "toolarge": {}, "minute": {}, "noaccess": {"LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
+[collect] done: best-suitcase-set-2026 draft
+[collect] progress: guide 50 done (best-suitcase-set-2026) | tried 50 | tavily keys alive 3/4
+[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['4zVi', 'ITNE']
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"4zVi|openai/gpt-oss-120b": "limit 200,000 used 199,196 requested 2,576", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 197,501 requested 2,620", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,734 requested 3,898", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 197,884 requested 2,669", "8SBW|openai/gpt-oss-120b": "limit 200,000 used 199,809 requested 3,996"}, "toolarge": {}, "minute": {"ITNE|qwen/qwen3.8-27b": "", "4zVi|qwen/qwen3.8-27b": ""}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "ITNE|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "ITNE|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-120b", "4zVi|openai/gpt-oss-20b", "4zVi|qwen/qwen3.8-27b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-120b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "ITNE|qwen/qwen3.8-27b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
 [collect] run finished: 50 guide(s) built, 50 topic(s) tried

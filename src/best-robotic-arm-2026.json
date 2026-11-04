@@ -4,8 +4,12 @@
  "category": "toys_kids",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on the collaborative robot arm list published by EVST Editorial Team (source 6). Products mentioned there were ranked by how often they appear and by their highlighted strengths.",
- "assumptions": "No price information was given in the sources, so pricing is omitted.",
+ "method": "Picks were based on products mentioned in the provided sources, favoring those appearing in more than one source.",
+ "assumptions": "No price information was included because none of the sources gave a price for the industrial arms.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70 Robot Vacuum and Mop with OmniGrip Mechanical Arm",
+  "line": "Buy it if you want a robot vacuum that can also pick up small items. It combines strong vacuuming, mopping and an OmniGrip mechanical arm, but the arm can struggle with some objects."
+ },
  "draft": true
 }
