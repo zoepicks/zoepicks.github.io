@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T02:58:56Z",
+ "updated": "2026-11-05T04:59:15Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -62,16 +62,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0BB6B581W",
-    "name": "tarte tartelette tubing mascara",
-    "pct": 73,
-    "rating": 4.4,
-    "t": 1793725042,
-    "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
-    "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
+    "asin": "B01KPEG108",
+    "name": "tarte maneater mascara",
+    "pct": 70,
+    "rating": 4.5,
+    "t": 1793752116,
+    "img": "https://m.media-amazon.com/images/I/718ccT9YRwL.jpg",
+    "link": "https://www.amazon.com/dp/B01KPEG108?tag=zoepicks00-20",
     "now": "28.00",
-    "was": "103.70",
-    "reviews": 103,
+    "was": "93.33",
+    "reviews": 6326,
     "tier": "premium"
    }
   ],
@@ -485,20 +485,6 @@
   ],
   "office_books": [
    {
-    "asin": "B0FS66TR8N",
-    "name": "Lockways Dry Erase Board",
-    "pct": 12,
-    "rating": 4.4,
-    "t": 1793725019,
-    "img": "https://m.media-amazon.com/images/I/61KL2W0VWuL.jpg",
-    "link": "https://www.amazon.com/dp/B0FS66TR8N?tag=zoepicks00-20",
-    "now": "12.87",
-    "was": "14.62",
-    "deal": "Limited time deal",
-    "reviews": 85,
-    "tier": "budget"
-   },
-   {
     "asin": "B083R36CY4",
     "name": "Brother DS-640 Compact Mobile Document Scanner",
     "pct": 17,
@@ -507,6 +493,19 @@
     "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
     "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B09M2L1V4W",
+    "name": "CZUR Shine Ultra Pro Portable 24MP Document Scanner",
+    "pct": 15,
+    "rating": 4.1,
+    "t": 1793840637,
+    "img": "https://m.media-amazon.com/images/I/61ds0n1Y7ZL.jpg",
+    "link": "https://www.amazon.com/dp/B09M2L1V4W?tag=zoepicks00-20",
+    "now": "279.65",
+    "was": "329.00",
+    "reviews": 97,
     "tier": "mid"
    },
    {
@@ -1032,51 +1031,6 @@
     ]
    },
    {
-    "key": "graphics-card",
-    "label": "Graphics Card",
-    "items": [
-     {
-      "asin": "B0CVCG2VPK",
-      "name": "ASUS Dual GeForce RTX 3050 6GB GDDR6 OC Edition Gaming…",
-      "pct": 6,
-      "rating": 4.7,
-      "t": 1793724779,
-      "img": "https://m.media-amazon.com/images/I/81mwcITtHBL.jpg",
-      "link": "https://www.amazon.com/dp/B0CVCG2VPK?tag=zoepicks00-20",
-      "now": "280.99",
-      "was": "299.99",
-      "reviews": 1146,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FLHBFFX4",
-      "name": "ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Gaming Graphics Card",
-      "pct": 7,
-      "rating": 4.7,
-      "t": 1793724779,
-      "img": "https://m.media-amazon.com/images/I/71WTt-GxSpL.jpg",
-      "link": "https://www.amazon.com/dp/B0FLHBFFX4?tag=zoepicks00-20",
-      "now": "735.88",
-      "was": "789.99",
-      "reviews": 369,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F4RZDFD5",
-      "name": "ASUS Prime GeForce RTX 5060 Ti 16GB GDDR7 Gaming Graphics…",
-      "pct": 5,
-      "rating": 4.7,
-      "t": 1793724779,
-      "img": "https://m.media-amazon.com/images/I/81aN+w8d4GL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4RZDFD5?tag=zoepicks00-20",
-      "now": "829.99",
-      "was": "869.99",
-      "reviews": 187,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "keyboard-function-keys",
     "label": "Keyboard Function Keys",
     "items": []
@@ -1084,6 +1038,11 @@
    {
     "key": "drawing-stylus",
     "label": "Drawing Stylus",
+    "items": []
+   },
+   {
+    "key": "graphics-card",
+    "label": "Graphics Card",
     "items": []
    },
    {
@@ -1157,43 +1116,29 @@
     "label": "Eye Makeup",
     "items": [
      {
-      "asin": "B089GBFM7G",
-      "name": "ColourPop Nude Mood Eyeshadow Palette",
-      "pct": 70,
-      "rating": 4.5,
-      "t": 1793725042,
-      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
-      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
-      "now": "14.00",
-      "was": "46.67",
-      "reviews": 5339,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0BB6B581W",
-      "name": "tarte tartelette tubing mascara",
-      "pct": 73,
-      "rating": 4.4,
-      "t": 1793725042,
-      "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
-      "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
-      "now": "28.00",
-      "was": "103.70",
-      "reviews": 103,
-      "tier": "mid"
-     },
-     {
       "asin": "B01KPEG108",
       "name": "tarte maneater mascara",
       "pct": 70,
       "rating": 4.5,
-      "t": 1793725042,
+      "t": 1793752116,
       "img": "https://m.media-amazon.com/images/I/718ccT9YRwL.jpg",
       "link": "https://www.amazon.com/dp/B01KPEG108?tag=zoepicks00-20",
       "now": "28.00",
       "was": "93.33",
-      "reviews": 93,
+      "reviews": 6326,
       "tier": "premium"
+     },
+     {
+      "asin": "B089GBFM7G",
+      "name": "ColourPop Nude Mood Eyeshadow Palette",
+      "pct": 70,
+      "rating": 4.5,
+      "t": 1793810731,
+      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
+      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
+      "now": "14.00",
+      "was": "46.67",
+      "reviews": 5360
      }
     ]
    },
@@ -1258,18 +1203,6 @@
       "img": "https://m.media-amazon.com/images/I/61PqtXsBs2L.jpg",
       "link": "https://www.amazon.com/dp/B07PQN4XZ1?tag=zoepicks00-20",
       "reviews": 0
-     },
-     {
-      "asin": "B00G40FJH4",
-      "name": "Lancôme La Base Pro Perfecting Oil-Free Makeup Primer",
-      "pct": 20,
-      "rating": 4.7,
-      "t": 1793725126,
-      "img": "https://m.media-amazon.com/images/I/61If2-qWJgL.jpg",
-      "link": "https://www.amazon.com/dp/B00G40FJH4?tag=zoepicks00-20",
-      "now": "38.25",
-      "was": "47.81",
-      "reviews": 2884
      }
     ]
    },
@@ -1278,17 +1211,17 @@
     "label": "Electric Shavers",
     "items": [
      {
-      "asin": "B0FFHJKDLQ",
-      "name": "Beanify 2-in-1 Electric Shaver & Bikini Trimmer",
-      "pct": 40,
-      "rating": 5.0,
+      "asin": "B0FFHB92CT",
+      "name": "Beanify Electric Razors",
+      "pct": 10,
+      "rating": 4.4,
       "t": 1793810022,
-      "img": "https://m.media-amazon.com/images/I/61RAgn0t3TL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFHJKDLQ?tag=zoepicks00-20",
-      "now": "23.98",
-      "was": "39.99",
+      "img": "https://m.media-amazon.com/images/I/71LA58Ry-jL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFHB92CT?tag=zoepicks00-20",
+      "now": "15.29",
+      "was": "16.99",
       "deal": "Limited time deal",
-      "reviews": 30,
+      "reviews": 150,
       "tier": "budget"
      },
      {
@@ -1318,24 +1251,6 @@
       "deal": "Limited time deal",
       "reviews": 95,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "razor-blades",
-    "label": "Razor Blades",
-    "items": [
-     {
-      "asin": "B0H1RKNK34",
-      "name": "Electric Foil Shavers",
-      "pct": 64,
-      "rating": 4.3,
-      "t": 1793724128,
-      "img": "https://m.media-amazon.com/images/I/71c2oXclwNL.jpg",
-      "link": "https://www.amazon.com/dp/B0H1RKNK34?tag=zoepicks00-20",
-      "now": "36.99",
-      "was": "102.99",
-      "reviews": 212
      }
     ]
    },
@@ -1485,37 +1400,6 @@
     ]
    },
    {
-    "key": "face-wash",
-    "label": "Face Wash",
-    "items": [
-     {
-      "asin": "B0C695DSY1",
-      "name": "COSLUS JMY05 Silicone Face Scrubber Facial Cleansing Brush",
-      "pct": 33,
-      "rating": 4.3,
-      "t": 1793725084,
-      "img": "https://m.media-amazon.com/images/I/714BOPzPowL.jpg",
-      "link": "https://www.amazon.com/dp/B0C695DSY1?tag=zoepicks00-20",
-      "now": "19.95",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 1580
-     },
-     {
-      "asin": "B01MSSDEPK",
-      "name": "CeraVe Hydrating Cleanser",
-      "pct": 18,
-      "rating": 4.7,
-      "t": 1793725084,
-      "img": "https://m.media-amazon.com/images/I/71V-hFCug0L.jpg",
-      "link": "https://www.amazon.com/dp/B01MSSDEPK?tag=zoepicks00-20",
-      "now": "15.48",
-      "was": "18.99",
-      "reviews": 133635
-     }
-    ]
-   },
-   {
     "key": "perfumes",
     "label": "Perfumes",
     "items": [
@@ -1651,36 +1535,6 @@
       "was": "25.00",
       "reviews": 275,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "hair-styling-brush",
-    "label": "Hair Styling Brush",
-    "items": [
-     {
-      "asin": "B0B4M4JWYY",
-      "name": "L'ANGE HAIR Le Volume 2-in-1 Titanium Blow Dryer Brush",
-      "pct": 28,
-      "rating": 4.3,
-      "t": 1793724855,
-      "img": "https://m.media-amazon.com/images/I/81c5IXFAP8L.jpg",
-      "link": "https://www.amazon.com/dp/B0B4M4JWYY?tag=zoepicks00-20",
-      "now": "49.97",
-      "was": "69.00",
-      "reviews": 23791
-     },
-     {
-      "asin": "B09B2Q7KRB",
-      "name": "REVLON One-Step Root Booster Round Brush Hair Dryer and…",
-      "pct": 14,
-      "rating": 4.2,
-      "t": 1793724855,
-      "img": "https://m.media-amazon.com/images/I/61BBeoP1+wL.jpg",
-      "link": "https://www.amazon.com/dp/B09B2Q7KRB?tag=zoepicks00-20",
-      "now": "47.55",
-      "was": "54.99",
-      "reviews": 12361
      }
     ]
    },
@@ -1928,6 +1782,11 @@
     "items": []
    },
    {
+    "key": "hair-styling-brush",
+    "label": "Hair Styling Brush",
+    "items": []
+   },
+   {
     "key": "makeup-vanity-bag",
     "label": "Makeup Vanity Bag",
     "items": []
@@ -1938,6 +1797,11 @@
     "items": []
    },
    {
+    "key": "face-wash",
+    "label": "Face Wash",
+    "items": []
+   },
+   {
     "key": "facial-skincare",
     "label": "Facial Skincare",
     "items": []
@@ -1945,6 +1809,11 @@
    {
     "key": "heating-pad",
     "label": "Heating Pad",
+    "items": []
+   },
+   {
+    "key": "razor-blades",
+    "label": "Razor Blades",
     "items": []
    }
   ],
@@ -2530,32 +2399,6 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B00XPFFGJC",
-      "name": "Hanes Boys' EcoSmart Fleece Hoodie",
-      "pct": 28,
-      "rating": 4.4,
-      "t": 1793722613,
-      "img": "https://m.media-amazon.com/images/I/61cGRxRZNYL.jpg",
-      "link": "https://www.amazon.com/dp/B00XPFFGJC?tag=zoepicks00-20",
-      "now": "11.89",
-      "was": "16.46",
-      "reviews": 9837,
-      "tier": "budget"
-     },
-     {
-      "asin": "B00JUME0GE",
-      "name": "Hanes Men's Ultimate Sweatshirt",
-      "pct": 47,
-      "rating": 4.5,
-      "t": 1793722613,
-      "img": "https://m.media-amazon.com/images/I/71YvrTe+f4L.jpg",
-      "link": "https://www.amazon.com/dp/B00JUME0GE?tag=zoepicks00-20",
-      "now": "17.49",
-      "was": "33.00",
-      "reviews": 51532,
-      "tier": "mid"
-     },
-     {
       "asin": "B091JYX54W",
       "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
       "pct": 60,
@@ -2563,8 +2406,17 @@
       "t": 1793772581,
       "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
       "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
+     },
+     {
+      "asin": "B0FF22678P",
+      "name": "JMIERR Men's Henley Hoodie Fleece Quarter Button Pullove",
+      "pct": 58,
+      "rating": 4.5,
+      "t": 1793772605,
+      "img": "https://m.media-amazon.com/images/I/61SThU1ZsgL.jpg",
+      "link": "https://www.amazon.com/dp/B0FF22678P?tag=zoepicks00-20",
+      "reviews": 0
      }
     ]
    },
@@ -4936,6 +4788,20 @@
       "tier": "budget"
      },
      {
+      "asin": "B0HGDTZ8HB",
+      "name": "OLIXIS 24\" Space Heater",
+      "pct": 17,
+      "rating": 4.4,
+      "t": 1793728597,
+      "img": "https://m.media-amazon.com/images/I/61D+ufAZ92L.jpg",
+      "link": "https://www.amazon.com/dp/B0HGDTZ8HB?tag=zoepicks00-20",
+      "now": "39.95",
+      "was": "47.99",
+      "deal": "Limited time deal",
+      "reviews": 154,
+      "tier": "mid"
+     },
+     {
       "asin": "B08KSJZW4T",
       "name": "Lasko 16\" Ceramic Space Heater",
       "pct": 18,
@@ -4946,20 +4812,6 @@
       "now": "49.48",
       "was": "59.99",
       "reviews": 7766,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FJF36X7D",
-      "name": "Ballu Mica Infrared Space Heater Indoor Use,Large Room…",
-      "pct": 13,
-      "rating": 4.4,
-      "t": 1793728597,
-      "img": "https://m.media-amazon.com/images/I/91XL+pyj9dL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJF36X7D?tag=zoepicks00-20",
-      "now": "164.99",
-      "was": "189.99",
-      "deal": "Limited time deal",
-      "reviews": 376,
       "tier": "premium"
      }
     ]
@@ -5399,21 +5251,21 @@
     ]
    },
    {
-    "key": "white-refrigerator",
-    "label": "White Refrigerator",
+    "key": "oscillating-heater",
+    "label": "Oscillating Heater",
     "items": [
      {
-      "asin": "B0FDK17DZ5",
-      "name": "Electactic 2.56 Cu.ft Compact Refrigerator",
-      "pct": 17,
-      "rating": 4.6,
-      "t": 1793724984,
-      "img": "https://m.media-amazon.com/images/I/61dkjqyA0CL.jpg",
-      "link": "https://www.amazon.com/dp/B0FDK17DZ5?tag=zoepicks00-20",
-      "now": "134.96",
-      "was": "162.99",
+      "asin": "B0FN4B5KB7",
+      "name": "DREO Whole Room Heater",
+      "pct": 10,
+      "rating": 4.5,
+      "t": 1793728597,
+      "img": "https://m.media-amazon.com/images/I/71KWpKRfylL.jpg",
+      "link": "https://www.amazon.com/dp/B0FN4B5KB7?tag=zoepicks00-20",
+      "now": "89.95",
+      "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 33
+      "reviews": 873
      }
     ]
    },
@@ -5430,6 +5282,11 @@
    {
     "key": "stand-mixers",
     "label": "Stand Mixers",
+    "items": []
+   },
+   {
+    "key": "white-refrigerator",
+    "label": "White Refrigerator",
     "items": []
    },
    {
@@ -6048,56 +5905,13 @@
     ]
    },
    {
-    "key": "whiteboard",
-    "label": "Whiteboard",
-    "items": [
-     {
-      "asin": "B0FS66TR8N",
-      "name": "Lockways Dry Erase Board",
-      "pct": 12,
-      "rating": 4.4,
-      "t": 1793725019,
-      "img": "https://m.media-amazon.com/images/I/61KL2W0VWuL.jpg",
-      "link": "https://www.amazon.com/dp/B0FS66TR8N?tag=zoepicks00-20",
-      "now": "12.87",
-      "was": "14.62",
-      "deal": "Limited time deal",
-      "reviews": 85,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H8Y52Y18",
-      "name": "OLIXIS Magnetic White Board",
-      "pct": 12,
-      "rating": 4.4,
-      "t": 1793725019,
-      "img": "https://m.media-amazon.com/images/I/51VTZbMp9qL.jpg",
-      "link": "https://www.amazon.com/dp/B0H8Y52Y18?tag=zoepicks00-20",
-      "now": "43.93",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 77,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GRY4FRBX",
-      "name": "VIZ-PRO Magnetic Dry Erase Board",
-      "pct": 10,
-      "rating": 4.6,
-      "t": 1793725019,
-      "img": "https://m.media-amazon.com/images/I/51zuJQo84fL.jpg",
-      "link": "https://www.amazon.com/dp/B0GRY4FRBX?tag=zoepicks00-20",
-      "now": "53.91",
-      "was": "59.90",
-      "deal": "Limited time deal",
-      "reviews": 7519,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "mouse-pad",
     "label": "Mouse Pad",
+    "items": []
+   },
+   {
+    "key": "whiteboard",
+    "label": "Whiteboard",
     "items": []
    }
   ],
