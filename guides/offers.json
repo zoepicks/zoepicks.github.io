@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T11:00:01Z",
+ "updated": "2026-11-05T13:00:13Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -40,16 +40,17 @@
   ],
   "beauty_health": [
    {
-    "asin": "B08H3JPH74",
-    "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
-    "pct": 76,
+    "asin": "B0GXLCKD59",
+    "name": "Tripeptide-Infused Biotin Hair Growth Shampoo and…",
+    "pct": 40,
     "rating": 4.5,
-    "t": 1793752116,
-    "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
-    "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
-    "now": "10.80",
-    "was": "45.00",
-    "reviews": 191435,
+    "t": 1793810022,
+    "img": "https://m.media-amazon.com/images/I/81Z65iFtTlL.jpg",
+    "link": "https://www.amazon.com/dp/B0GXLCKD59?tag=zoepicks00-20",
+    "now": "19.98",
+    "was": "33.39",
+    "deal": "Limited time deal",
+    "reviews": 860,
     "tier": "budget"
    },
    {
@@ -64,16 +65,14 @@
     "tier": "mid"
    },
    {
-    "asin": "B01KPEG108",
-    "name": "tarte maneater mascara",
-    "pct": 70,
-    "rating": 4.5,
-    "t": 1793752116,
-    "img": "https://m.media-amazon.com/images/I/718ccT9YRwL.jpg",
-    "link": "https://www.amazon.com/dp/B01KPEG108?tag=zoepicks00-20",
-    "now": "28.00",
-    "was": "93.33",
-    "reviews": 6326,
+    "asin": "B0HFJVQ47R",
+    "name": "Hair Dryer,160,000 RPM High-Speed Ionic Blow Dryer",
+    "pct": 69,
+    "rating": 4.6,
+    "t": 1793858853,
+    "img": "https://m.media-amazon.com/images/I/71duIw3bloL.jpg",
+    "link": "https://www.amazon.com/dp/B0HFJVQ47R?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -295,14 +294,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0GXX5LNVQ",
-    "name": "Brother XM2701 27-Stitch Sewing Machine",
-    "pct": 28,
-    "rating": 4.7,
-    "t": 1793859009,
-    "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
-    "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B01LY6Z2M6",
+    "name": "Logitech Creators Blue Yeti USB Microphone",
+    "pct": 29,
+    "rating": 4.6,
+    "t": 1793808885,
+    "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
+    "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
+    "now": "99.99",
+    "was": "139.99",
+    "deal": "Limited time deal",
+    "reviews": 57191,
     "tier": "premium"
    }
   ],
@@ -821,36 +823,6 @@
     ]
    },
    {
-    "key": "phone-gimbal",
-    "label": "Phone Gimbal",
-    "items": [
-     {
-      "asin": "B0C89T698J",
-      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1793752005,
-      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
-      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
-      "now": "51.99",
-      "was": "64.99",
-      "reviews": 3835
-     },
-     {
-      "asin": "B0BP2VZ6K9",
-      "name": "DJI Osmo Mobile 6 Smartphone Gimbal Stabilizer",
-      "pct": 8,
-      "rating": 4.5,
-      "t": 1793752005,
-      "img": "https://m.media-amazon.com/images/I/61Zj6kAw-9L.jpg",
-      "link": "https://www.amazon.com/dp/B0BP2VZ6K9?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "109.00",
-      "reviews": 20171
-     }
-    ]
-   },
-   {
     "key": "flash-drive",
     "label": "Flash Drive",
     "items": [
@@ -992,6 +964,11 @@
     "items": []
    },
    {
+    "key": "phone-gimbal",
+    "label": "Phone Gimbal",
+    "items": []
+   },
+   {
     "key": "travel-adapters",
     "label": "Travel Adapters",
     "items": []
@@ -1002,19 +979,6 @@
     "key": "mascara",
     "label": "Mascara",
     "items": [
-     {
-      "asin": "B08H3JPH74",
-      "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
-      "pct": 76,
-      "rating": 4.5,
-      "t": 1793752116,
-      "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
-      "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
-      "now": "10.80",
-      "was": "45.00",
-      "reviews": 191435,
-      "tier": "budget"
-     },
      {
       "asin": "B018ZXEO50",
       "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
@@ -1034,27 +998,7 @@
       "t": 1793858853,
       "img": "https://m.media-amazon.com/images/I/71xZmq9JzYL.jpg",
       "link": "https://www.amazon.com/dp/B00P0Q0T28?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "eye-makeup",
-    "label": "Eye Makeup",
-    "items": [
-     {
-      "asin": "B01KPEG108",
-      "name": "tarte maneater mascara",
-      "pct": 70,
-      "rating": 4.5,
-      "t": 1793752116,
-      "img": "https://m.media-amazon.com/images/I/718ccT9YRwL.jpg",
-      "link": "https://www.amazon.com/dp/B01KPEG108?tag=zoepicks00-20",
-      "now": "28.00",
-      "was": "93.33",
-      "reviews": 6326,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -1148,24 +1092,6 @@
       "deal": "Limited time deal",
       "reviews": 95,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "sunscreen",
-    "label": "Sunscreen",
-    "items": [
-     {
-      "asin": "B0B14VFZCR",
-      "name": "Derma B Everyday Sun Block Large Size Sunscreen SPF50+…",
-      "pct": 56,
-      "rating": 4.5,
-      "t": 1793858919,
-      "img": "https://m.media-amazon.com/images/I/61T4DgC2VpL.jpg",
-      "link": "https://www.amazon.com/dp/B0B14VFZCR?tag=zoepicks00-20",
-      "now": "10.99",
-      "was": "24.75",
-      "reviews": 0
      }
     ]
    },
@@ -1500,36 +1426,6 @@
     ]
    },
    {
-    "key": "makeup-palette",
-    "label": "Makeup Palette",
-    "items": [
-     {
-      "asin": "B0C41QPKZR",
-      "name": "NYX PROFESSIONAL MAKEUP",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1793810731,
-      "img": "https://m.media-amazon.com/images/I/A1vQE-WufTL.jpg",
-      "link": "https://www.amazon.com/dp/B0C41QPKZR?tag=zoepicks00-20",
-      "now": "17.00",
-      "was": "20.00",
-      "reviews": 18265
-     },
-     {
-      "asin": "B0BDZG7YVD",
-      "name": "UCANBE Eyeshadow Palette",
-      "pct": 5,
-      "rating": 4.6,
-      "t": 1793810731,
-      "img": "https://m.media-amazon.com/images/I/710YFHUujBL.jpg",
-      "link": "https://www.amazon.com/dp/B0BDZG7YVD?tag=zoepicks00-20",
-      "now": "18.99",
-      "was": "19.99",
-      "reviews": 1859
-     }
-    ]
-   },
-   {
     "key": "massage-guns",
     "label": "Massage Guns",
     "items": [
@@ -1544,6 +1440,24 @@
       "now": "22.93",
       "was": "26.99",
       "reviews": 23361
+     }
+    ]
+   },
+   {
+    "key": "makeup-palette",
+    "label": "Makeup Palette",
+    "items": [
+     {
+      "asin": "B0BDZG7YVD",
+      "name": "UCANBE Eyeshadow Palette",
+      "pct": 5,
+      "rating": 4.6,
+      "t": 1793810731,
+      "img": "https://m.media-amazon.com/images/I/710YFHUujBL.jpg",
+      "link": "https://www.amazon.com/dp/B0BDZG7YVD?tag=zoepicks00-20",
+      "now": "18.99",
+      "was": "19.99",
+      "reviews": 1859
      }
     ]
    },
@@ -1578,6 +1492,11 @@
     "items": []
    },
    {
+    "key": "eye-makeup",
+    "label": "Eye Makeup",
+    "items": []
+   },
+   {
     "key": "face-wash",
     "label": "Face Wash",
     "items": []
@@ -1605,6 +1524,11 @@
    {
     "key": "moisturizer",
     "label": "Moisturizer",
+    "items": []
+   },
+   {
+    "key": "sunscreen",
+    "label": "Sunscreen",
     "items": []
    }
   ],
@@ -1928,22 +1852,7 @@
       "now": "59.98",
       "was": "89.99",
       "deal": "Limited time deal",
-      "reviews": 41,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DH28GGNZ",
-      "name": "4K Digital Camera for Beginners & Teens",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1793752045,
-      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
-      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 1560,
-      "tier": "mid"
+      "reviews": 41
      },
      {
       "asin": "B0HHQX938G",
@@ -1956,8 +1865,7 @@
       "now": "69.98",
       "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 28,
-      "tier": "premium"
+      "reviews": 28
      }
     ]
    },
@@ -2440,7 +2348,7 @@
       "name": "BAGSMART Tote Bag for Women",
       "pct": 43,
       "rating": 4.6,
-      "t": 1793858913,
+      "t": 1793878327,
       "img": "https://m.media-amazon.com/images/I/61OsEV2AvWL.jpg",
       "link": "https://www.amazon.com/dp/B0D6FWQ7HY?tag=zoepicks00-20",
       "now": "18.23",
@@ -2471,7 +2379,7 @@
       "name": "IUGA Tummy Control Leggings",
       "pct": 41,
       "rating": 4.6,
-      "t": 1793858913,
+      "t": 1793878327,
       "img": "https://m.media-amazon.com/images/I/61O1XldQP4L.jpg",
       "link": "https://www.amazon.com/dp/B079BJ3TCW?tag=zoepicks00-20",
       "now": "19.99",
@@ -2531,19 +2439,6 @@
     "label": "Medium Luggage",
     "items": [
      {
-      "asin": "B0FQ5TYRYR",
-      "name": "Romswi 26\" Medium Checked Luggage",
-      "pct": 17,
-      "rating": 4.5,
-      "t": 1793752148,
-      "img": "https://m.media-amazon.com/images/I/616ap4Gp7vL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQ5TYRYR?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "59.99",
-      "reviews": 271,
-      "tier": "budget"
-     },
-     {
       "asin": "B07CVH7MTZ",
       "name": "Coolife Medium Checked Luggage Hardside Suitcase",
       "pct": 30,
@@ -2553,21 +2448,7 @@
       "link": "https://www.amazon.com/dp/B07CVH7MTZ?tag=zoepicks00-20",
       "now": "69.98",
       "was": "99.99",
-      "reviews": 3152,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0B726MZKM",
-      "name": "Travelpro Maxlite 5 Softside Checked Luggage Spinner",
-      "pct": 9,
-      "rating": 4.4,
-      "t": 1793752148,
-      "img": "https://m.media-amazon.com/images/I/91-g3HtzRZL.jpg",
-      "link": "https://www.amazon.com/dp/B0B726MZKM?tag=zoepicks00-20",
-      "now": "178.00",
-      "was": "195.00",
-      "reviews": 12647,
-      "tier": "premium"
+      "reviews": 3152
      }
     ]
    },
@@ -2769,7 +2650,7 @@
       "name": "Sunny Health & Fitness Exercise Yoga Mats",
       "pct": 43,
       "rating": 4.4,
-      "t": 1793858914,
+      "t": 1793878322,
       "img": "https://m.media-amazon.com/images/I/81YwLvFxG1L.jpg",
       "link": "https://www.amazon.com/dp/B0DSR2W69V?tag=zoepicks00-20",
       "now": "17.09",
@@ -2839,12 +2720,11 @@
       "name": "Gyroor Warrior G2 8.5\"Off Road Self Balancing Scooter",
       "pct": 40,
       "rating": 4.4,
-      "t": 1793811122,
+      "t": 1793879766,
       "img": "https://m.media-amazon.com/images/I/710w5+MjIVL.jpg",
       "link": "https://www.amazon.com/dp/B07T63VSMC?tag=zoepicks00-20",
       "now": "268.99",
       "was": "449.99",
-      "deal": "Limited time deal",
       "reviews": 5326,
       "tier": "premium"
      }
@@ -3197,17 +3077,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HFSFL474",
-      "name": "UniPon 14 Inch Firm King Mattress",
-      "pct": 36,
-      "rating": 4.6,
+      "asin": "B0HF34N6C5",
+      "name": "BedStory 14 Inch Firm King Size Mattress",
+      "pct": 34,
+      "rating": 4.9,
       "t": 1793808630,
-      "img": "https://m.media-amazon.com/images/I/71O6DlOaVqL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFSFL474?tag=zoepicks00-20",
-      "now": "359.98",
-      "was": "559.99",
+      "img": "https://m.media-amazon.com/images/I/81ui8zcDS8L.jpg",
+      "link": "https://www.amazon.com/dp/B0HF34N6C5?tag=zoepicks00-20",
+      "now": "389.98",
+      "was": "589.99",
       "deal": "Limited time deal",
-      "reviews": 404,
+      "reviews": 72,
       "tier": "premium"
      }
     ]
@@ -3635,26 +3515,13 @@
     ]
    },
    {
-    "key": "handheld-gaming-pcs",
-    "label": "Handheld Gaming PCs",
-    "items": [
-     {
-      "asin": "B0GL4N9YQV",
-      "name": "msi Claw A8 PC Gaming Handheld: AMD Ryzen Z2 Extreme",
-      "pct": 6,
-      "rating": 3.6,
-      "t": 1793752339,
-      "img": "https://m.media-amazon.com/images/I/71+FiHBiNJL.jpg",
-      "link": "https://www.amazon.com/dp/B0GL4N9YQV?tag=zoepicks00-20",
-      "now": "1,219.57",
-      "was": "1,299.99",
-      "reviews": 22
-     }
-    ]
-   },
-   {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
+    "items": []
+   },
+   {
+    "key": "handheld-gaming-pcs",
+    "label": "Handheld Gaming PCs",
     "items": []
    },
    {
@@ -3729,19 +3596,6 @@
     "label": "Sewing Machines",
     "items": [
      {
-      "asin": "B0CRMDKBGB",
-      "name": "Brother XM3700 Sewing Machine 37 Built-in Stitches",
-      "pct": 13,
-      "rating": 4.6,
-      "t": 1793752082,
-      "img": "https://m.media-amazon.com/images/I/71dr4r3l0VL.jpg",
-      "link": "https://www.amazon.com/dp/B0CRMDKBGB?tag=zoepicks00-20",
-      "now": "129.88",
-      "was": "149.99",
-      "reviews": 1018,
-      "tier": "budget"
-     },
-     {
       "asin": "B0GXX5LNVQ",
       "name": "Brother XM2701 27-Stitch Sewing Machine",
       "pct": 28,
@@ -3749,8 +3603,7 @@
       "t": 1793859009,
       "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
       "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
+      "reviews": 0
      },
      {
       "asin": "B08BGB5GPZ",
@@ -3760,8 +3613,7 @@
       "t": 1793859010,
       "img": "https://m.media-amazon.com/images/I/51BELIRHpIL.jpg",
       "link": "https://www.amazon.com/dp/B08BGB5GPZ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -3861,24 +3713,6 @@
     ]
    },
    {
-    "key": "knife-set",
-    "label": "Knife Set",
-    "items": [
-     {
-      "asin": "B0H97S179Q",
-      "name": "YOTSUBA 15-Piece Stainless Steel Knife Set",
-      "pct": 53,
-      "rating": 4.7,
-      "t": 1793858919,
-      "img": "https://m.media-amazon.com/images/I/712iyp4Mm8L.jpg",
-      "link": "https://www.amazon.com/dp/B0H97S179Q?tag=zoepicks00-20",
-      "now": "79.99",
-      "was": "169.99",
-      "reviews": 715
-     }
-    ]
-   },
-   {
     "key": "comforter-sets",
     "label": "Comforter Sets",
     "items": [
@@ -3941,12 +3775,11 @@
       "name": "Breville BES870XL Barista Express Espresso Machine",
       "pct": 29,
       "rating": 4.4,
-      "t": 1793809030,
+      "t": 1793880371,
       "img": "https://m.media-amazon.com/images/I/71BvCt6eAFL.jpg",
       "link": "https://www.amazon.com/dp/B00CH9QWOU?tag=zoepicks00-20",
       "now": "499.95",
       "was": "699.95",
-      "deal": "Limited time deal",
       "reviews": 28007
      }
     ]
@@ -4034,53 +3867,6 @@
       "was": "219.99",
       "deal": "Limited time deal",
       "reviews": 252,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "mini-fridge",
-    "label": "Mini Fridge",
-    "items": [
-     {
-      "asin": "B0GYZL52ZS",
-      "name": "Mini Fridge, 4 Liter/6 Can Small Fridge",
-      "pct": 41,
-      "rating": 4.7,
-      "t": 1793753717,
-      "img": "https://m.media-amazon.com/images/I/61mIVOlQgmL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYZL52ZS?tag=zoepicks00-20",
-      "now": "47.48",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 29,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DRVF3V9K",
-      "name": "BEICHEN Mini Fridge,6 Liter / 8 Can Small Fridge",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1793753717,
-      "img": "https://m.media-amazon.com/images/I/61Q3AOtXyZL.jpg",
-      "link": "https://www.amazon.com/dp/B0DRVF3V9K?tag=zoepicks00-20",
-      "now": "55.99",
-      "was": "69.98",
-      "deal": "Limited time deal",
-      "reviews": 919,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07LDWLMFY",
-      "name": "Frigidaire Retro Mini Fridge Side Bottle Opener",
-      "pct": 28,
-      "rating": 4.0,
-      "t": 1793757852,
-      "img": "https://m.media-amazon.com/images/I/61cXGU13dAL.jpg",
-      "link": "https://www.amazon.com/dp/B07LDWLMFY?tag=zoepicks00-20",
-      "now": "99.00",
-      "was": "138.00",
-      "reviews": 156,
       "tier": "premium"
      }
     ]
@@ -4216,17 +4002,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B00JAP44MQ",
-      "name": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Inch…",
-      "pct": 31,
-      "rating": 4.4,
+      "asin": "B0DC11YH4J",
+      "name": "CHEFMAN 2 Qt Mini Air Fryer",
+      "pct": 29,
+      "rating": 4.3,
       "t": 1793809030,
-      "img": "https://m.media-amazon.com/images/I/61M7ZCmmttL.jpg",
-      "link": "https://www.amazon.com/dp/B00JAP44MQ?tag=zoepicks00-20",
-      "now": "34.49",
-      "was": "49.95",
+      "img": "https://m.media-amazon.com/images/I/71rj5PBTfZL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC11YH4J?tag=zoepicks00-20",
+      "now": "42.43",
+      "was": "59.99",
       "deal": "Limited time deal",
-      "reviews": 1595,
+      "reviews": 5868,
       "tier": "mid"
      },
      {
@@ -4364,12 +4150,11 @@
       "name": "French Press Coffee Maker",
       "pct": 29,
       "rating": 4.5,
-      "t": 1793809030,
+      "t": 1793880358,
       "img": "https://m.media-amazon.com/images/I/71YUIQt+EEL.jpg",
       "link": "https://www.amazon.com/dp/B01J4O0T4E?tag=zoepicks00-20",
       "now": "33.99",
       "was": "47.99",
-      "deal": "Limited time deal",
       "reviews": 33754
      },
      {
@@ -4435,21 +4220,20 @@
     ]
    },
    {
-    "key": "toaster-ovens",
-    "label": "Toaster Ovens",
+    "key": "mini-fridge",
+    "label": "Mini Fridge",
     "items": [
      {
-      "asin": "B0C8WN349L",
-      "name": "Ninja Combi™ 14-in-1 Multicooker",
+      "asin": "B07LDWLMFY",
+      "name": "Frigidaire Retro Mini Fridge Side Bottle Opener",
       "pct": 28,
-      "rating": 4.5,
-      "t": 1793809030,
-      "img": "https://m.media-amazon.com/images/I/71dssk1HtOL.jpg",
-      "link": "https://www.amazon.com/dp/B0C8WN349L?tag=zoepicks00-20",
-      "now": "179.95",
-      "was": "249.99",
-      "deal": "Limited time deal",
-      "reviews": 1421
+      "rating": 4.0,
+      "t": 1793757852,
+      "img": "https://m.media-amazon.com/images/I/61cXGU13dAL.jpg",
+      "link": "https://www.amazon.com/dp/B07LDWLMFY?tag=zoepicks00-20",
+      "now": "99.00",
+      "was": "138.00",
+      "reviews": 156
      }
     ]
    },
@@ -4647,8 +4431,18 @@
     "items": []
    },
    {
+    "key": "knife-set",
+    "label": "Knife Set",
+    "items": []
+   },
+   {
     "key": "stand-mixers",
     "label": "Stand Mixers",
+    "items": []
+   },
+   {
+    "key": "toaster-ovens",
+    "label": "Toaster Ovens",
     "items": []
    },
    {
@@ -4819,16 +4613,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0C89T698J",
-      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1793752005,
-      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
-      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
-      "now": "51.99",
-      "was": "64.99",
-      "reviews": 3835,
+      "asin": "B0D7PQFM48",
+      "name": "TOPESEL 64GB Micro SD Card 5Pack Micro SDXC Memory Card…",
+      "pct": 14,
+      "rating": 4.5,
+      "t": 1793810647,
+      "img": "https://m.media-amazon.com/images/I/61WHhmdkC9L.jpg",
+      "link": "https://www.amazon.com/dp/B0D7PQFM48?tag=zoepicks00-20",
+      "now": "48.99",
+      "was": "56.99",
+      "deal": "Limited time deal",
+      "reviews": 9321,
       "tier": "mid"
      },
      {
