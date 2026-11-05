@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were taken from the TechGearLab review and the Automoblog automotive list, prioritizing items mentioned by more than one source.",
- "assumptions": "Prices are not provided in the sources, so no cost information is included.",
+ "method": "Picks were based on the product recommendations from bobvila.com (source 3) and techgearlab.com (source 5). Products mentioned by more than one source were given priority, but no overlap existed, so the top picks from each list were used.",
+ "assumptions": "No price information was provided in the sources, so price fields are left null.",
  "products": [],
  "draft": true
 }

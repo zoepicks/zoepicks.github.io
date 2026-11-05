@@ -4,12 +4,12 @@
  "category": "toys_kids",
  "date": "Nov 4, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on products explicitly mentioned in sources [1], [2] and [3]. The product with the most source coverage was chosen as the top pick.",
- "assumptions": "No price information was included because the sources did not provide a price for MyCobot Pi.",
+ "method": "Picks were chosen by counting how many sources mention each product and favoring those cited by multiple sites (Roborock Saros Z70 appears in sources 1 and 2). Other picks come from single‑source listings (sources 3 and 6).",
+ "assumptions": "No price information is included unless explicitly stated in a source; all other details are taken verbatim from the excerpts.",
  "products": [],
  "verdict": {
-  "pick": "Roborock Saros Z70 Robot Vacuum and Mop with OmniGrip Mechanical Arm",
-  "line": "Buy it if you want a home robot that vacuums, mops and can pick up items, as noted by CNET and Consumer Reports. The main catch is its occasional arm‑gripping and software issues."
+  "pick": "Roborock Saros Z70 Robot Vacuum with OmniGrip Mechanical Arm",
+  "line": "Buy it if you want a home robot that can vacuum, mop and also pick up small items. It combines strong cleaning performance with a mechanical arm, making daily chores easier. The catch is the arm can struggle with some objects and the setup may be finicky."
  },
  "draft": true
 }

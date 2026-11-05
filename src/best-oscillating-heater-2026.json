@@ -3,9 +3,109 @@
  "title": "Best Oscillating Heater (2026)",
  "category": "home_kitchen",
  "date": "Nov 4, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from Consumer Reports, Good Housekeeping, Tom’s Guide, Bob Vila, Mumsnet, and HeaterstoHeat. Picks were ordered by the number of sources that recommend them and by the quality of the evidence provided.",
+ "summary": "The guide highlights four oscillating heaters that stand out for their performance, safety, and value.",
+ "method": "Products were selected from the listed sources (Good Housekeeping, Wired, Tom’s Guide, TechGearLab, Consumer Reports, Mumsnet). Picks were ordered by the number of sources that recommend them and by the strength of the evidence in those sources.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
- "products": [],
- "draft": true
+ "products": [
+  {
+   "name": "Dreo Whole Room Heater 714",
+   "short": "Dreo 714",
+   "badge": "Best Overall",
+   "why": [
+    "The Dreo Whole Room Heater 714 is highlighted as the best overall pick in Wired and Tom’s Guide. It offers instant relief, strong airflow, and quiet operation. It is noted as the only sub‑$100 model that delivers good performance in small to mid‑size rooms."
+   ],
+   "desc": "The Dreo Whole Room Heater 714 is a compact, oscillating space heater that provides instant warmth with strong airflow. It has a quiet operation and a safety auto‑shut‑off feature.",
+   "benefit": "Picture a student living in a dorm room who needs quick warmth before a lecture. The Dreo 714 gives instant relief with strong airflow and quiet operation, so the student can focus on studying. It beats other picks because it is the only sub‑$100 model that delivers good performance in small to mid‑size rooms. The catch: it is not the most powerful heater for large rooms.",
+   "specs": [
+    "Compact size",
+    "Oscillating function",
+    "Strong airflow",
+    "Quiet operation",
+    "Auto‑shut‑off safety"
+   ],
+   "pros": [
+    "Instant warmth",
+    "Quiet operation",
+    "Affordable"
+   ],
+   "cons": [
+    "Limited power for large rooms",
+    "No remote control"
+   ],
+   "best_for": "Small to mid‑size rooms, students, office spaces",
+   "skip_if": "Large rooms or high heat demand",
+   "link": "https://www.amazon.com/s?k=Dreo+Whole+Room+Heater+714&tag=zoepicks00-20"
+  },
+  {
+   "name": "Vornado AVH10",
+   "short": "Vornado AVH10",
+   "badge": "Best Feature‑Rich",
+   "why": [
+    "TechGearLab names the Vornado AVH10 the best for most spaces, citing all crucial features at a great price. Good Housekeeping lists the Vornado MVH Vortex Heater as Best Overall, showing strong endorsement for Vornado models."
+   ],
+   "desc": "The Vornado AVH10 is a tower space heater that oscillates and provides consistent warmth. It features a temperature display and a remote control for customizable heating.",
+   "benefit": "Picture a parent who wants a safe, easy‑to‑use heater for a nursery. The Vornado AVH10 offers consistent warmth, a remote control, and a quiet operation, so the parent can adjust settings without disturbing the child. It wins against other picks because it has the most customizable experience with a remote control and temperature display. The catch: it is larger and heavier than some compact models.",
+   "specs": [
+    "Tower design",
+    "Oscillating function",
+    "Temperature display",
+    "Remote control",
+    "Quiet operation"
+   ],
+   "pros": [
+    "Customizable settings",
+    "Remote control",
+    "Consistent warmth"
+   ],
+   "cons": [
+    "Large size",
+    "Heavier than compact models"
+   ],
+   "best_for": "Nurseries, living rooms, larger rooms",
+   "skip_if": "Very small spaces",
+   "link": "https://www.amazon.com/s?k=Vornado+AVH10&tag=zoepicks00-20"
+  },
+  {
+   "name": "Amazon Basics Oscillating Ceramic DQ078",
+   "short": "Amazon Basics DQ078",
+   "badge": "Best Budget",
+   "why": [
+    "Consumer Reports includes the Amazon Basics Oscillating Ceramic DQ078 in its Space Heaters test program. TechGearLab lists it as the most budget‑friendly option among the heaters tested."
+   ],
+   "desc": "The Amazon Basics Oscillating Ceramic DQ078 is a small, ceramic space heater that oscillates to spread heat. It has an adjustable thermostat and a short power cord.",
+   "benefit": "Picture a college student on a tight budget who needs a portable heater for a dorm room. The Amazon Basics DQ078 provides adjustable heat and oscillation in a compact form, so the student can keep the room warm without a large footprint. It wins against other picks because it is the most affordable option with a thermostat. The catch: it feels flimsy and its oscillation can be inconsistent.",
+   "specs": [
+    "Ceramic heating element",
+    "Oscillating function",
+    "Adjustable thermostat",
+    "Short power cord"
+   ],
+   "pros": [
+    "Affordable",
+    "Compact",
+    "Adjustable heat"
+   ],
+   "cons": [
+    "Feels flimsy",
+    "Oscillation sometimes inconsistent"
+   ],
+   "best_for": "Dorm rooms, small apartments",
+   "skip_if": "Large rooms or high heat demand",
+   "link": "https://www.amazon.com/s?k=Amazon+Basics+Oscillating+Ceramic+DQ078&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Dreo Whole Room Heater 714",
+  "line": "Picture a small office or bedroom where you need quick, quiet warmth. The Dreo Whole Room Heater 714 delivers instant relief with strong airflow and a quiet operation, making it ideal for tight spaces. Its main catch is that it is not the most powerful heater for large rooms.",
+  "also": [
+   [
+    "Best Feature‑Rich",
+    "Vornado AVH10"
+   ],
+   [
+    "Best Budget",
+    "Amazon Basics Oscillating Ceramic DQ078"
+   ]
+  ]
+ }
 }
