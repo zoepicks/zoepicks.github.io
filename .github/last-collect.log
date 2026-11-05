@@ -1,7 +1,6 @@
-[collect] retrying with extra sources before giving up
-[collect] llm request: 6 sources x 1069 chars, ~2963 in + 4000 out tokens (budget 7000)
-[collect] drop (only 1 sources): Three Poodle Wearable Blanket
-[collect] only 0 well-sourced products -> staying draft
+[collect] llm request: 5 sources x 1293 chars, ~2965 in + 4000 out tokens (budget 7000)
+[collect] benefit has a number not in sources, removed: Apple Mac Studio (M5 Ultra)
+[collect] verdict line has a number not in sources, removed
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -197,6 +196,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-parts-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-adults-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-mini-desktop-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-studio-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbooks-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-wearable-blanket-2026 draft
-[collect] progress: guide 50 done (best-wearable-blanket-2026) | tried 50 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: ['4zVi', '5tBZ', '8SBW', 'ITNE', 'LQ4f'] | too-large: none | per-minute: ['4zVi']
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"8SBW|openai/gpt-oss-120b": "limit 200,000 used 198,815 requested 3,852", "4zVi|openai/gpt-oss-120b": "limit 200,000 used 197,037 requested 3,388", "ITNE|openai/gpt-oss-120b": "limit 200,000 used 199,041 requested 2,479", "5tBZ|openai/gpt-oss-120b": "limit 200,000 used 198,039 requested 2,581", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,581 requested 2,833"}, "toolarge": {}, "minute": {"4zVi|qwen/qwen3.8-27b": ""}, "noaccess": {"8SBW|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "8SBW|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "LQ4f|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "LQ4f|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access", "4zVi|openai/gpt-oss-20b": "400 (skipped this call) {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_gener", "4zVi|qwen/qwen3.6-27b": "404 {\"error\":{\"message\":\"The model `qwen/qwen3.6-27b` does not exist or you do not have access"}, "ok": ["4zVi|openai/gpt-oss-20b", "5tBZ|openai/gpt-oss-120b", "5tBZ|openai/gpt-oss-20b", "8SBW|openai/gpt-oss-20b", "8SBW|qwen/qwen3.8-27b", "ITNE|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-20b", "LQ4f|qwen/qwen3.8-27b"]}
-[collect] run finished: 50 guide(s) built, 50 topic(s) tried
+[collect] done: best-mac-studio-2026 4 products
+[collect] progress: guide 1 done (best-mac-studio-2026) | tried 1 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
+[collect] run finished: 1 guide(s) built, 1 topic(s) tried
