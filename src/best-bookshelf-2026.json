@@ -2,10 +2,20 @@
  "slug": "best-bookshelf-2026",
  "title": "Best Bookshelf (2026)",
  "category": "other",
- "date": "Nov 4, 2026",
+ "date": "Nov 5, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were chosen from the Architectural Digest article that lists the best bookshelves for 2026.",
- "assumptions": "No price information was provided in the source, so price is omitted.",
+ "method": "Selected products that appear in more than one source (PCMag, Consumer Reports, RTINGS) and a second recommendation from Tom’s Guide.",
+ "assumptions": "Prices are not listed in the sources, so no cost information is provided.",
  "products": [],
+ "verdict": {
+  "pick": "IKEA SYMFONISK Bookshelf",
+  "line": "Picture a living room where music fills the space without clutter. The IKEA SYMFONISK delivers clear vocals and balanced bass, making it ideal for casual listeners who want a stylish, multi‑room speaker that doubles as a shelf. The catch: it lacks Bluetooth and deep bass can distort at high volumes.",
+  "also": [
+   [
+    "Best Value",
+    "Edifier R1280T"
+   ]
+  ]
+ },
  "draft": true
 }
