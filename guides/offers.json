@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T13:00:13Z",
+ "updated": "2026-11-05T13:28:36Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1866,6 +1866,26 @@
       "was": "99.99",
       "deal": "Limited time deal",
       "reviews": 28
+     }
+    ]
+   },
+   {
+    "key": "mac-studio",
+    "label": "Mac Studio",
+    "items": [
+     {
+      "asin": "B01LY6Z2M6",
+      "name": "Logitech Creators Blue Yeti USB Microphone",
+      "pct": 29,
+      "rating": 4.6,
+      "t": 1793808885,
+      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
+      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 57191,
+      "tier": "premium"
      }
     ]
    },
