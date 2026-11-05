@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T13:28:36Z",
+ "updated": "2026-11-05T13:59:08Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -3562,6 +3562,11 @@
    {
     "key": "game-controller",
     "label": "Game Controller",
+    "items": []
+   },
+   {
+    "key": "gaming-gpu",
+    "label": "Gaming Gpu",
     "items": []
    }
   ],
