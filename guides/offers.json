@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T20:01:00Z",
+ "updated": "2026-11-05T21:01:07Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -165,17 +165,14 @@
   ],
   "fitness_outdoor": [
    {
-    "asin": "B0GRK5NLRN",
-    "name": "Sanuk Yoga Spree 4",
-    "pct": 50,
-    "rating": 4.5,
-    "t": 1793899099,
-    "img": "https://m.media-amazon.com/images/I/51SAAVhz--L.jpg",
-    "link": "https://www.amazon.com/dp/B0GRK5NLRN?tag=zoepicks00-20",
-    "now": "14.97",
-    "was": "29.95",
-    "deal": "Limited time deal",
-    "reviews": 4190,
+    "asin": "B0FDQBGCWQ",
+    "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
+    "pct": 47,
+    "rating": 4.4,
+    "t": 1793858987,
+    "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
+    "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -556,7 +553,7 @@
     "name": "LARVENDER Luggage Sets 6 Piece Expandable Suitcases",
     "pct": 23,
     "rating": 4.5,
-    "t": 1793902266,
+    "t": 1793909067,
     "img": "https://m.media-amazon.com/images/I/61Mss0rFfjL.jpg",
     "link": "https://www.amazon.com/dp/B0CTGX3SWZ?tag=zoepicks00-20",
     "now": "137.98",
@@ -683,12 +680,11 @@
     "name": "SEEMOPEN 4K+4K Dash Cam Front and Rear",
     "pct": 40,
     "rating": 4.9,
-    "t": 1793898387,
+    "t": 1793909000,
     "img": "https://m.media-amazon.com/images/I/81VE7dIsfvL.jpg",
     "link": "https://www.amazon.com/dp/B0HDTPRK99?tag=zoepicks00-20",
     "now": "129.99",
     "was": "216.00",
-    "deal": "Limited time deal",
     "reviews": 69,
     "tier": "premium"
    }
@@ -738,54 +734,6 @@
  "types": {
   "accessories": [
    {
-    "key": "computer-mouse",
-    "label": "Computer Mouse",
-    "items": [
-     {
-      "asin": "B082V7PWD1",
-      "name": "TECKNET Bluetooth Mouse",
-      "pct": 46,
-      "rating": 4.4,
-      "t": 1793897331,
-      "img": "https://m.media-amazon.com/images/I/51kJ8n9GqyL.jpg",
-      "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
-      "now": "11.98",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 11768,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0C4H2YNPC",
-      "name": "Wireless Keyboard and Mouse Combo",
-      "pct": 50,
-      "rating": 4.3,
-      "t": 1793897931,
-      "img": "https://m.media-amazon.com/images/I/6198WeaaUIL.jpg",
-      "link": "https://www.amazon.com/dp/B0C4H2YNPC?tag=zoepicks00-20",
-      "now": "18.49",
-      "was": "36.99",
-      "deal": "Limited time deal",
-      "reviews": 366,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HMVTN843",
-      "name": "Hearvo USB 3.0 HDMI KVM Switch",
-      "pct": 37,
-      "rating": 4.5,
-      "t": 1793897931,
-      "img": "https://m.media-amazon.com/images/I/71gI3EhIueL.jpg",
-      "link": "https://www.amazon.com/dp/B0HMVTN843?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "42.99",
-      "deal": "Limited time deal",
-      "reviews": 76,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "mechanical-keyboards",
     "label": "Mechanical Keyboards",
     "items": [
@@ -819,13 +767,56 @@
       "name": "SteelSeries USB Apex 5 Hybrid Mechanical Gaming Keyboard",
       "pct": 21,
       "rating": 4.6,
-      "t": 1793902388,
+      "t": 1793908994,
       "img": "https://m.media-amazon.com/images/I/81yd9W+0doL.jpg",
       "link": "https://www.amazon.com/dp/B07ZGDD6B1?tag=zoepicks00-20",
       "now": "79.00",
       "was": "99.99",
-      "deal": "Limited time deal",
       "reviews": 4230,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "wireless-mouse",
+    "label": "Wireless Mouse",
+    "items": [
+     {
+      "asin": "B0DR1K3DM1",
+      "name": "UGREEN Ergonomic Wireless Mouse",
+      "pct": 40,
+      "rating": 4.4,
+      "t": 1793858973,
+      "img": "https://m.media-amazon.com/images/I/61MkHuTzfLL.jpg",
+      "link": "https://www.amazon.com/dp/B0DR1K3DM1?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0C4H2YNPC",
+      "name": "Wireless Keyboard and Mouse Combo",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1793909944,
+      "img": "https://m.media-amazon.com/images/I/6198WeaaUIL.jpg",
+      "link": "https://www.amazon.com/dp/B0C4H2YNPC?tag=zoepicks00-20",
+      "now": "18.49",
+      "was": "36.99",
+      "reviews": 366,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C1475JCD",
+      "name": "KNOWSQT Wireless Keyboard and Mouse Combo",
+      "pct": 10,
+      "rating": 4.4,
+      "t": 1793897931,
+      "img": "https://m.media-amazon.com/images/I/61DALV1nS1L.jpg",
+      "link": "https://www.amazon.com/dp/B0C1475JCD?tag=zoepicks00-20",
+      "now": "33.29",
+      "was": "36.99",
+      "deal": "Limited time deal",
+      "reviews": 4129,
       "tier": "premium"
      }
     ]
@@ -873,18 +864,21 @@
     ]
    },
    {
-    "key": "wireless-mouse",
-    "label": "Wireless Mouse",
+    "key": "computer-mouse",
+    "label": "Computer Mouse",
     "items": [
      {
-      "asin": "B0DR1K3DM1",
-      "name": "UGREEN Ergonomic Wireless Mouse",
-      "pct": 40,
+      "asin": "B082V7PWD1",
+      "name": "TECKNET Bluetooth Mouse",
+      "pct": 46,
       "rating": 4.4,
-      "t": 1793858973,
-      "img": "https://m.media-amazon.com/images/I/61MkHuTzfLL.jpg",
-      "link": "https://www.amazon.com/dp/B0DR1K3DM1?tag=zoepicks00-20",
-      "reviews": 0,
+      "t": 1793897331,
+      "img": "https://m.media-amazon.com/images/I/51kJ8n9GqyL.jpg",
+      "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
+      "now": "11.98",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 11768,
       "tier": "budget"
      },
      {
@@ -902,17 +896,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0C1475JCD",
-      "name": "KNOWSQT Wireless Keyboard and Mouse Combo",
-      "pct": 10,
-      "rating": 4.4,
+      "asin": "B0HMVTN843",
+      "name": "Hearvo USB 3.0 HDMI KVM Switch",
+      "pct": 37,
+      "rating": 4.5,
       "t": 1793897931,
-      "img": "https://m.media-amazon.com/images/I/61DALV1nS1L.jpg",
-      "link": "https://www.amazon.com/dp/B0C1475JCD?tag=zoepicks00-20",
-      "now": "33.29",
-      "was": "36.99",
+      "img": "https://m.media-amazon.com/images/I/71gI3EhIueL.jpg",
+      "link": "https://www.amazon.com/dp/B0HMVTN843?tag=zoepicks00-20",
+      "now": "26.99",
+      "was": "42.99",
       "deal": "Limited time deal",
-      "reviews": 4129,
+      "reviews": 76,
       "tier": "premium"
      }
     ]
@@ -945,7 +939,7 @@
       "name": "Cudy 5G SA/NSA AX3000 4-Port Gigabit Wi-Fi 6 Router",
       "pct": 17,
       "rating": 4.3,
-      "t": 1793898787,
+      "t": 1793908988,
       "img": "https://m.media-amazon.com/images/I/61q4PrVlMBL.jpg",
       "link": "https://www.amazon.com/dp/B0B711GG7N?tag=zoepicks00-20",
       "now": "329.99",
@@ -2618,12 +2612,11 @@
       "name": "Trendy Queen Womens Hoodies Oversized Sweatshirt",
       "pct": 29,
       "rating": 4.5,
-      "t": 1793896574,
+      "t": 1793909937,
       "img": "https://m.media-amazon.com/images/I/61glUTGQnUL.jpg",
       "link": "https://www.amazon.com/dp/B0C65S55Q2?tag=zoepicks00-20",
       "now": "19.99",
       "was": "27.99",
-      "deal": "Limited time deal",
       "reviews": 10899,
       "tier": "mid"
      },
@@ -2739,17 +2732,17 @@
     "label": "Sandals",
     "items": [
      {
-      "asin": "B0GRK5NLRN",
-      "name": "Sanuk Yoga Spree 4",
+      "asin": "B0GG9KR9HN",
+      "name": "Decould sylf Slide Sandals",
       "pct": 50,
-      "rating": 4.5,
+      "rating": 4.4,
       "t": 1793899099,
-      "img": "https://m.media-amazon.com/images/I/51SAAVhz--L.jpg",
-      "link": "https://www.amazon.com/dp/B0GRK5NLRN?tag=zoepicks00-20",
-      "now": "14.97",
-      "was": "29.95",
+      "img": "https://m.media-amazon.com/images/I/81ir0DCVGIL.jpg",
+      "link": "https://www.amazon.com/dp/B0GG9KR9HN?tag=zoepicks00-20",
+      "now": "11.99",
+      "was": "23.99",
       "deal": "Limited time deal",
-      "reviews": 4190,
+      "reviews": 50,
       "tier": "budget"
      },
      {
@@ -2801,12 +2794,11 @@
       "name": "3 Pack Women's Joggers Sweatpants Lounge Pants Yoga Workout…",
       "pct": 41,
       "rating": 4.2,
-      "t": 1793896574,
+      "t": 1793909930,
       "img": "https://m.media-amazon.com/images/I/81BLdU1dOOL.jpg",
       "link": "https://www.amazon.com/dp/B08X9SFGVW?tag=zoepicks00-20",
       "now": "21.37",
       "was": "35.99",
-      "deal": "Limited time deal",
       "reviews": 13399,
       "tier": "mid"
      },
@@ -3185,12 +3177,11 @@
       "name": "MOERDENG Women's Warm Winter Puffer Coat Long Down Jacket",
       "pct": 15,
       "rating": 4.6,
-      "t": 1793896574,
+      "t": 1793909090,
       "img": "https://m.media-amazon.com/images/I/61wHw2le+vL.jpg",
       "link": "https://www.amazon.com/dp/B0CDBT9Y76?tag=zoepicks00-20",
       "now": "59.49",
       "was": "69.99",
-      "deal": "Limited time deal",
       "reviews": 3305
      }
     ]
@@ -3250,52 +3241,6 @@
    }
   ],
   "fitness_outdoor": [
-   {
-    "key": "yoga-mats",
-    "label": "Yoga Mats",
-    "items": [
-     {
-      "asin": "B0GRK5NLRN",
-      "name": "Sanuk Yoga Spree 4",
-      "pct": 50,
-      "rating": 4.5,
-      "t": 1793899099,
-      "img": "https://m.media-amazon.com/images/I/51SAAVhz--L.jpg",
-      "link": "https://www.amazon.com/dp/B0GRK5NLRN?tag=zoepicks00-20",
-      "now": "14.97",
-      "was": "29.95",
-      "deal": "Limited time deal",
-      "reviews": 4190,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DSR2W69V",
-      "name": "Sunny Health & Fitness Exercise Yoga Mats",
-      "pct": 43,
-      "rating": 4.4,
-      "t": 1793878322,
-      "img": "https://m.media-amazon.com/images/I/81YwLvFxG1L.jpg",
-      "link": "https://www.amazon.com/dp/B0DSR2W69V?tag=zoepicks00-20",
-      "now": "17.09",
-      "was": "29.99",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DXKZ5H5G",
-      "name": "Umineux Yoga Mat Cork 1/4 & 2/5 Inch Thick Exercise Mats 72…",
-      "pct": 20,
-      "rating": 4.2,
-      "t": 1793862871,
-      "img": "https://m.media-amazon.com/images/I/91MEYdip3aL.jpg",
-      "link": "https://www.amazon.com/dp/B0DXKZ5H5G?tag=zoepicks00-20",
-      "now": "31.99",
-      "was": "39.99",
-      "reviews": 84,
-      "tier": "premium"
-     }
-    ]
-   },
    {
     "key": "exercise-bikes",
     "label": "Exercise Bikes",
@@ -3384,6 +3329,52 @@
       "was": "35.99",
       "deal": "Limited time deal",
       "reviews": 16393,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "yoga-mats",
+    "label": "Yoga Mats",
+    "items": [
+     {
+      "asin": "B0DSR2W69V",
+      "name": "Sunny Health & Fitness Exercise Yoga Mats",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1793878322,
+      "img": "https://m.media-amazon.com/images/I/81YwLvFxG1L.jpg",
+      "link": "https://www.amazon.com/dp/B0DSR2W69V?tag=zoepicks00-20",
+      "now": "17.09",
+      "was": "29.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07LGRWNZD",
+      "name": "Ewedoos Eco Friendly Yoga Mat Thick TPE Yoga Mat Non Slip…",
+      "pct": 20,
+      "rating": 4.6,
+      "t": 1793840599,
+      "img": "https://m.media-amazon.com/images/I/71Ux2YPrKTL.jpg",
+      "link": "https://www.amazon.com/dp/B07LGRWNZD?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 3734,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DXKZ5H5G",
+      "name": "Umineux Yoga Mat Cork 1/4 & 2/5 Inch Thick Exercise Mats 72…",
+      "pct": 20,
+      "rating": 4.2,
+      "t": 1793862871,
+      "img": "https://m.media-amazon.com/images/I/91MEYdip3aL.jpg",
+      "link": "https://www.amazon.com/dp/B0DXKZ5H5G?tag=zoepicks00-20",
+      "now": "31.99",
+      "was": "39.99",
+      "reviews": 84,
       "tier": "premium"
      }
     ]
@@ -4046,12 +4037,11 @@
       "name": "CORSAIR HS80 MAX Wireless Xbox Gaming Headset",
       "pct": 37,
       "rating": 4.1,
-      "t": 1793896931,
+      "t": 1793909085,
       "img": "https://m.media-amazon.com/images/I/71BbBQjJUHL.jpg",
       "link": "https://www.amazon.com/dp/B0FLKRYRP1?tag=zoepicks00-20",
       "now": "119.99",
       "was": "189.99",
-      "deal": "Limited time deal",
       "reviews": 83,
       "tier": "premium"
      }
@@ -6853,12 +6843,11 @@
       "name": "SEEMOPEN 4K+4K Dash Cam Front and Rear",
       "pct": 40,
       "rating": 4.9,
-      "t": 1793898387,
+      "t": 1793909000,
       "img": "https://m.media-amazon.com/images/I/81VE7dIsfvL.jpg",
       "link": "https://www.amazon.com/dp/B0HDTPRK99?tag=zoepicks00-20",
       "now": "129.99",
       "was": "216.00",
-      "deal": "Limited time deal",
       "reviews": 69,
       "tier": "premium"
      }
