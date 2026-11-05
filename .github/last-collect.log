@@ -1,6 +1,3 @@
-[collect] llm request: 5 sources x 1293 chars, ~2965 in + 4000 out tokens (budget 7000)
-[collect] benefit has a number not in sources, removed: Apple Mac Studio (M5 Ultra)
-[collect] verdict line has a number not in sources, removed
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-18v-battery-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-2-in-1-laptops-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-3d-printer-kit-2026/index.html
@@ -12,6 +9,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-5g-router-2026
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-5g-router-2026/high-quality/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-adjustable-dumbbells-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/double-sided/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-purifiers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-android-phones-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-area-rugs-2026/index.html
@@ -126,6 +124,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-chairs-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-controllers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-desks-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-desktops-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-gpu-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-headsets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops-under-1500-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-gaming-laptops-under-1500-2026/under-1000/index.html
@@ -196,6 +195,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-parts-202
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-lego-sets-for-adults-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-luggage-sets-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-mini-desktop-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-mini-vs-imac-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-mac-studio-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-air-alternatives-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-macbook-case-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-mac-studio-2026 4 products
-[collect] progress: guide 1 done (best-mac-studio-2026) | tried 1 | tavily keys alive 2/4
+[collect] done: best-gaming-gpu-2026 4 products
+[collect] progress: guide 3 done (best-gaming-gpu-2026) | tried 3 | tavily keys alive 2/4
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
-[collect] run finished: 1 guide(s) built, 1 topic(s) tried
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b", "ITNE|openai/gpt-oss-120b", "LQ4f|openai/gpt-oss-120b"]}
+[collect] run finished: 3 guide(s) built, 3 topic(s) tried

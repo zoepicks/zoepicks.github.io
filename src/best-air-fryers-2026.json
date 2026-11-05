@@ -2,7 +2,7 @@
  "slug": "best-air-fryers-2026",
  "title": "Top Air Fryers for Fast Weeknight Dinners (2026)",
  "category": "home_kitchen",
- "date": "Oct 16, 2026",
+ "date": "Nov 5, 2026",
  "summary": "The Ninja Air Fryer Pro is the best pick for most people, with the COSORI TurboBlaze for crispiness and the Philips 3000 for family dual-basket cooking.",
  "method": "Picks come from Tom's Guide (updated Jun 2, 2026) and RTINGS (best air fryers updated Aug 21, 2026 and best 4-quart updated Aug 27, 2026). Every model listed was tested by both outlets.",
  "assumptions": "Prices change often, so we quote a price only where Tom's Guide's price widget or text shows one, and label it. Wirecutter's and Serious Eats's picks were not available to us in full, so they are not used here.",
@@ -229,6 +229,105 @@
    "amazon_rating": "4.6",
    "amazon_reviews": 350,
    "amazon_rating_asof": "Nov 5, 2026"
+  },
+  {
+   "name": "Ninja Double Stack XL Air Fryer",
+   "short": "Ninja Double Stack XL",
+   "badge": "Best Overall",
+   "why": [
+    "The Good Housekeeping review gives it a 90/100 score and highlights its space‑saving design that stacks two drawers instead of placing them side‑by‑side.",
+    "It offers the same capacity as the larger Ninja Foodi Max while being over 10 cm narrower than many dual‑air fryers."
+   ],
+   "desc": "A double‑drawer air fryer that stacks two cooking chambers, each with cool‑touch handles. It can be divided into four cooking levels but lacks a viewing window and is quite deep.",
+   "benefit": "Picture a family dinner where you need crispy chicken and roasted veggies at the same time. The stacked design lets you cook both layers without crowding the countertop, and the cool handles stay safe to touch. It out‑sizes the other picks in total cooking area while staying narrower than most side‑by‑side models. The catch: its depth may not fit on all countertops.",
+   "specs": [
+    "Score: 90/100",
+    "Capacity equal to Ninja Foodi Max",
+    "Handles stay cool to touch",
+    "Four cooking levels",
+    "No viewing window",
+    "Depth over typical countertop space"
+   ],
+   "pros": [
+    "Space‑saving stackable design",
+    "Cool‑touch handles",
+    "High capacity"
+   ],
+   "cons": [
+    "Deep profile can be hard to place",
+    "No viewing window",
+    "Slightly uneven results across four layers"
+   ],
+   "best_for": "Families needing high capacity on limited counter space",
+   "skip_if": "You have a shallow countertop or need a window to monitor food",
+   "link": "https://www.amazon.com/s?k=Ninja+Double+Stack+XL+Air+Fryer&tag=zoepicks00-20",
+   "tabs": [
+    "double-sided"
+   ]
+  },
+  {
+   "name": "Cosori Dual Basket Air Fryer",
+   "short": "Cosori Dual Basket",
+   "badge": "Best Dual‑Basket",
+   "why": [
+    "Tom's Guide praises its rapid cooking and 4.5 qt capacity per basket, plus grill and dehydrator modes.",
+    "It includes a window for visual monitoring, though the controls are described as fiddly and sync functions can fail."
+   ],
+   "desc": "A dual‑basket air fryer with 4.5 qt capacity in each basket, grill and dehydrator modes, and a viewing window. Controls are not highly intuitive and sync cooking may be unreliable.",
+   "benefit": "Picture a weekend brunch where you want muffins and bacon cooked together. The two large baskets let you run separate programs, and the window lets you watch both without opening the lid. It offers the biggest per‑basket volume among the picks and extra grill/dehydrate functions. The catch: the control panel can be fiddly and sync features often don’t work.",
+   "specs": [
+    "4.5 qt capacity per basket",
+    "Grill mode",
+    "Dehydrator mode",
+    "Window for keeping an eye on food",
+    "Controls not massively intuitive",
+    "Sync Cook and Sync Finish often didn’t work"
+   ],
+   "pros": [
+    "Large capacity per basket",
+    "Grill and dehydrator functions",
+    "Viewing window"
+   ],
+   "cons": [
+    "Fiddly controls",
+    "Sync features unreliable",
+    "Requires trial and error"
+   ],
+   "best_for": "Home cooks who want separate cooking programs and extra functions",
+   "skip_if": "You need a fully intuitive control panel",
+   "link": "https://www.amazon.com/s?k=Cosori+Dual+Basket+Air+Fryer&tag=zoepicks00-20",
+   "tabs": [
+    "double-sided"
+   ]
+  },
+  {
+   "name": "Philips 5000 Series Dual‑Basket Air Fryer with Steam",
+   "short": "Philips 5000 Series",
+   "badge": "Best Large Air Fryer",
+   "why": [
+    "CNET lists it as the top large air fryer, noting its dual‑basket layout and steam function that keeps food from drying out.",
+    "It splits capacity into two chambers for flexible cooking."
+   ],
+   "desc": "A large dual‑basket air fryer that includes a steam function to retain moisture. It separates cooking into two chambers but the source does not mention a window or specific capacity.",
+   "benefit": "Picture a holiday meal where you need a moist turkey and crispy sides at the same time. The steam feature prevents drying, and the two chambers let you set different temperatures. It is the only large‑capacity model with steam in this guide. The catch: the source does not detail precise temperature control, implying it may be less exact.",
+   "specs": [
+    "Dual‑basket layout",
+    "Steam function keeps food from drying out"
+   ],
+   "pros": [
+    "Large capacity",
+    "Steam keeps food moist",
+    "Two separate chambers"
+   ],
+   "cons": [
+    "No precise temperature control mentioned"
+   ],
+   "best_for": "Entertainers who need large capacity and moisture retention",
+   "skip_if": "Precise temperature control is essential",
+   "link": "https://www.amazon.com/s?k=Philips+5000+Series+Dual%E2%80%91Basket+Air+Fryer+with+Steam&tag=zoepicks00-20",
+   "tabs": [
+    "double-sided"
+   ]
   }
  ],
  "tips": {
@@ -265,5 +364,11 @@
    "Is the Ninja Crispi a real air fryer?",
    "Tom's Guide says it is not really one: it has four presets and no temperature control, and RTINGS found the Ninja Pro cooks better. It is best for small kitchens."
   ]
+ ],
+ "tabs": [
+  {
+   "key": "double-sided",
+   "label": "Double Sided"
+  }
  ]
 }
