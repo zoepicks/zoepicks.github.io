@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T13:59:08Z",
+ "updated": "2026-11-05T14:29:33Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2455,24 +2455,6 @@
     ]
    },
    {
-    "key": "medium-luggage",
-    "label": "Medium Luggage",
-    "items": [
-     {
-      "asin": "B07CVH7MTZ",
-      "name": "Coolife Medium Checked Luggage Hardside Suitcase",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1793757885,
-      "img": "https://m.media-amazon.com/images/I/614KMUR95rL.jpg",
-      "link": "https://www.amazon.com/dp/B07CVH7MTZ?tag=zoepicks00-20",
-      "now": "69.98",
-      "was": "99.99",
-      "reviews": 3152
-     }
-    ]
-   },
-   {
     "key": "suitcase",
     "label": "Suitcase",
     "items": [
@@ -2551,6 +2533,11 @@
       "reviews": 53583
      }
     ]
+   },
+   {
+    "key": "medium-luggage",
+    "label": "Medium Luggage",
+    "items": []
    },
    {
     "key": "rain-jackets",
@@ -2829,16 +2816,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0DK6R8HJC",
-      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
-      "pct": 29,
-      "rating": 4.1,
-      "t": 1793757872,
-      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
-      "reviews": 413,
+      "asin": "B0D5MGDJ2R",
+      "name": "MIYCOO Cooler Backpack",
+      "pct": 23,
+      "rating": 4.5,
+      "t": 1793815447,
+      "img": "https://m.media-amazon.com/images/I/71IuLQIT-UL.jpg",
+      "link": "https://www.amazon.com/dp/B0D5MGDJ2R?tag=zoepicks00-20",
+      "now": "26.98",
+      "was": "34.99",
+      "deal": "Limited time deal",
+      "reviews": 2467,
       "tier": "premium"
      }
     ]
@@ -4245,24 +4233,6 @@
     ]
    },
    {
-    "key": "mini-fridge",
-    "label": "Mini Fridge",
-    "items": [
-     {
-      "asin": "B07LDWLMFY",
-      "name": "Frigidaire Retro Mini Fridge Side Bottle Opener",
-      "pct": 28,
-      "rating": 4.0,
-      "t": 1793757852,
-      "img": "https://m.media-amazon.com/images/I/61cXGU13dAL.jpg",
-      "link": "https://www.amazon.com/dp/B07LDWLMFY?tag=zoepicks00-20",
-      "now": "99.00",
-      "was": "138.00",
-      "reviews": 156
-     }
-    ]
-   },
-   {
     "key": "weighted-blanket",
     "label": "Weighted Blanket",
     "items": [
@@ -4458,6 +4428,11 @@
    {
     "key": "knife-set",
     "label": "Knife Set",
+    "items": []
+   },
+   {
+    "key": "mini-fridge",
+    "label": "Mini Fridge",
     "items": []
    },
    {
