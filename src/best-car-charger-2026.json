@@ -4,8 +4,8 @@
  "category": "tools_auto",
  "date": "Nov 5, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were chosen from CNET, TechGearLab, Wired, and PCWorld articles, ranking those highlighted as best overall, most powerful, or best value.",
- "assumptions": "No price information was provided in the sources, so price is omitted.",
+ "method": "Products were chosen from techgearlab.com, cnet.com and emergencygearlab.com based on the features each source highlighted.",
+ "assumptions": "No price information was given in the excerpts, so price fields are null.",
  "products": [],
  "draft": true
 }

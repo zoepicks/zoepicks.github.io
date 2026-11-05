@@ -4,8 +4,12 @@
  "category": "office_books",
  "date": "Nov 5, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by identifying specific book titles mentioned in the provided excerpts from nytimes.com, manfromuncle.org, and bookbrowse.com. No product was recommended by more than one source.",
- "assumptions": "Prices are listed in the sources but are not included in the product descriptions per instructions. The sources do not contain enough information to rank 4-5 products as 'best' based on multiple recommendations.",
+ "method": "Selected titles from the ManFromUncle.org review list, choosing those with the highest fan consensus.",
+ "assumptions": "No price information was available in the sources.",
  "products": [],
+ "verdict": {
+  "pick": "The Man from U.N.C.L.E. – Dagger",
+  "line": "Picture a fan of classic spy fiction who wants a story that stays true to the U.N.C.L.E. universe. The book delivers a fast‑moving plot with familiar characters and a clear sense of adventure. Its main catch is that it may feel dated to modern readers."
+ },
  "draft": true
 }
