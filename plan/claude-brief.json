@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-05T06:04:47.147826+00:00",
+ "generated_at": "2026-11-05T18:12:46.699344+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 275,
+  "pages": 281,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 35
+   "low": 81
   },
-  "avg_guide_words": 952,
+  "avg_guide_words": 953,
   "todo": [
    {
     "sev": "high",
@@ -26,8 +26,20 @@
    },
    {
     "sev": "low",
+    "code": "slow_page",
+    "count": 47,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-nintendo-switch-games-2026/",
+     "/g/best-hair-styling-brush-2026/",
+     "/g/best-stereo-system-2026/"
+    ],
+    "detail": "load 3.01s"
+   },
+   {
+    "sev": "low",
     "code": "title_length",
-    "count": 17,
+    "count": 18,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -47,17 +59,6 @@
      "/g/best-workout-clothes-2026/"
     ],
     "detail": "description 63 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 2,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-shoe-racks-2026/",
-     "/g/best-floor-lamps-2026/"
-    ],
-    "detail": "load 3.21s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -65,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 269,
+   "guides_live": 275,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -73,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-04T23:43:41.332143+00:00",
-    "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
-    }
-   },
-   {
-    "t": "2026-11-05T02:45:24.965057+00:00",
+    "t": "2026-11-05T12:08:42.566347+00:00",
     "indexnow": {
      "submitted": 4,
      "http": 200
     }
    },
    {
-    "t": "2026-11-05T05:47:04.020670+00:00",
+    "t": "2026-11-05T15:10:36.463426+00:00",
+    "indexnow": {
+     "submitted": 14,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-11-05T18:12:41.186093+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -148,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 6,
-   "warn": 1,
+   "info": 126,
+   "warn": 5,
    "error": 0
   },
   "last7d": {
-   "info": 635,
-   "warn": 39,
+   "info": 755,
+   "warn": 43,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -171,24 +172,24 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 33
+    "warnings": 37
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 1,
+    "total": 8,
+    "ok": 8,
     "failed": 0,
     "cancelled": 0,
-    "running": 1,
+    "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 79,
-    "ok": 63,
+    "total": 85,
+    "ok": 70,
     "failed": 13,
     "cancelled": 2,
-    "running": 1,
+    "running": 0,
     "failed_runs": [
      {
       "run": 213,
@@ -255,20 +256,33 @@
   },
   "site_deploys": {
    "today": {
-    "total": 0,
-    "ok": 0,
-    "failed": 0,
+    "total": 66,
+    "ok": 65,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 2555,
+      "at": "2026-11-05T09:06:51Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41999702029"
+     }
+    ]
    },
    "last7d": {
     "total": 300,
-    "ok": 298,
-    "failed": 1,
+    "ok": 297,
+    "failed": 2,
     "cancelled": 1,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 2555,
+      "at": "2026-11-05T09:06:51Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41999702029"
+     },
      {
       "run": 2517,
       "at": "2026-11-03T12:20:32Z",
@@ -315,65 +329,65 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEDEALS",
-    "level": "e",
-    "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 500: "
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 269,
+  "live_guides": 275,
   "missing_topics_by_status": {
-   "open": 69,
-   "built": 72,
-   "queued": 43,
-   "covered": 16
+   "open": 62,
+   "covered": 16,
+   "built": 77,
+   "queued": 45
   },
   "missing_new": {
-   "today": 0,
-   "d7": 131,
+   "today": 8,
+   "d7": 122,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "double sided air fryer",
-    "leads": "2",
+    "topic": "makeup applicator sticks",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1793825879",
-    "last_at": "1793826019"
+    "first_at": "1793900198",
+    "last_at": "1793901861"
    },
    {
-    "topic": "mac mini vs imac",
-    "leads": "2",
+    "topic": "gtavi disc",
+    "leads": "4",
     "budget": null,
     "status": "open",
-    "first_at": "1793822722",
-    "last_at": "1793822884"
+    "first_at": "1793901152",
+    "last_at": "1793901850"
    },
    {
-    "topic": "gaming gpu",
-    "leads": "2",
+    "topic": "key organizer",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1793819680",
-    "last_at": "1793819987"
+    "first_at": "1793897688",
+    "last_at": "1793899153"
    },
    {
-    "topic": "mac studio",
-    "leads": "5",
+    "topic": "laptop screen extender",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1793813466",
-    "last_at": "1793814421"
+    "first_at": "1793894683",
+    "last_at": "1793896986"
    },
    {
-    "topic": "shrek 2 remastered ps5",
+    "topic": "planner calendar",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793726027",
-    "last_at": "1793726027"
+    "first_at": "1793896575",
+    "last_at": "1793896575"
    },
    {
     "topic": "dvd adapter",
@@ -406,14 +420,6 @@
     "status": "open",
     "first_at": "1793635392",
     "last_at": "1793635392"
-   },
-   {
-    "topic": "pink keyboard",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793629531",
-    "last_at": "1793629531"
    }
   ]
  },
@@ -752,13 +758,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 275,
+    "urls": 281,
     "other_host_urls": 0,
-    "live_pages_crawled": 275
+    "live_pages_crawled": 281
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
