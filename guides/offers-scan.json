@@ -11527,24 +11527,54 @@
   },
   "beauty_health:razor-blades": {
    "label": "Razor Blades",
-   "tries": 2,
+   "tries": 3,
    "items": [
     {
-     "asin": "B0H1RKNK34",
-     "name": "Electric Foil Shavers",
+     "asin": "B0HG113QY3",
+     "name": "Tulzim Electric Foil Shaver",
      "pct": 64,
+     "rating": 4.8,
+     "t": 1793898928,
+     "img": "https://m.media-amazon.com/images/I/71+K9jC1i+L.jpg",
+     "link": "https://www.amazon.com/dp/B0HG113QY3?tag=zoepicks00-20",
+     "now": "35.99",
+     "was": "99.99",
+     "deal": "Limited time deal",
+     "reviews": 34,
+     "_title": "Tulzim Electric Foil Shaver for Men: 3 Floating Blades & IPX7 Waterproof | Electric Razors for Men with LED Display: 120-M...",
+     "_price": 35.99
+    },
+    {
+     "asin": "B0H3KW42B7",
+     "name": "NKTMXY Electric Foil Shavers",
+     "pct": 43,
+     "rating": 4.4,
+     "t": 1793898928,
+     "img": "https://m.media-amazon.com/images/I/71INbt63kPL.jpg",
+     "link": "https://www.amazon.com/dp/B0H3KW42B7?tag=zoepicks00-20",
+     "now": "35.14",
+     "was": "61.99",
+     "deal": "Limited time deal",
+     "reviews": 230,
+     "_title": "NKTMXY Electric Foil Shavers for Men: 4 Floating Blades & Big LED Display | Mini Electric Razors for Men with Dual Speed -...",
+     "_price": 35.14
+    },
+    {
+     "asin": "B07CZCQ481",
+     "name": "Amazon Basics 5-Blade MotionSphere Men's Razor",
+     "pct": 15,
      "rating": 4.3,
-     "t": 1793724128,
-     "img": "https://m.media-amazon.com/images/I/71c2oXclwNL.jpg",
-     "link": "https://www.amazon.com/dp/B0H1RKNK34?tag=zoepicks00-20",
-     "now": "36.99",
-     "was": "102.99",
-     "reviews": 212,
-     "_title": "Electric Foil Shavers for Men: 4 Floating Blades & Big LED Display - Grey | Mini Electric Razors for Men with Dual Speed -...",
-     "_price": 36.99
+     "t": 1793898928,
+     "img": "https://m.media-amazon.com/images/I/81sF8xSb7rL.jpg",
+     "link": "https://www.amazon.com/dp/B07CZCQ481?tag=zoepicks00-20",
+     "now": "20.06",
+     "was": "23.67",
+     "reviews": 62012,
+     "_title": "Amazon Basics 5-Blade MotionSphere Men's Razor with Dual Lubrication, Vitamin E, Precision Trimmer, 1 Handle & 16 Cartridg...",
+     "_price": 20.06
     }
    ],
-   "scanned": "2026-11-03T16:42:08.120446+00:00",
+   "scanned": "2026-11-05T17:15:28.880470+00:00",
    "via": "sweep"
   },
   "accessories:mouse-skates": {
