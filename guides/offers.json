@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-05T04:59:15Z",
+ "updated": "2026-11-05T06:59:23Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -9,7 +9,7 @@
     "name": "TOUCAN 1080P Webcam",
     "pct": 50,
     "rating": 4.4,
-    "t": 1793772628,
+    "t": 1793858971,
     "img": "https://m.media-amazon.com/images/I/7190rWO4noL.jpg",
     "link": "https://www.amazon.com/dp/B0DDK5WRDZ?tag=zoepicks00-20",
     "reviews": 0,
@@ -20,7 +20,7 @@
     "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
     "pct": 50,
     "rating": 4.7,
-    "t": 1793772631,
+    "t": 1793858972,
     "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
     "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
     "reviews": 0,
@@ -31,7 +31,7 @@
     "name": "Logitech StreamCam Premium Webcam",
     "pct": 41,
     "rating": 4.4,
-    "t": 1793772636,
+    "t": 1793858972,
     "img": "https://m.media-amazon.com/images/I/71-fdSpTk5L.jpg",
     "link": "https://www.amazon.com/dp/B07TZT4Q89?tag=zoepicks00-20",
     "reviews": 0,
@@ -44,10 +44,12 @@
     "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
     "pct": 76,
     "rating": 4.5,
-    "t": 1793772336,
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL.jpg",
+    "t": 1793752116,
+    "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
     "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
-    "reviews": 0,
+    "now": "10.80",
+    "was": "45.00",
+    "reviews": 191435,
     "tier": "budget"
    },
    {
@@ -55,7 +57,7 @@
     "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
     "pct": 83,
     "rating": 4.6,
-    "t": 1793772331,
+    "t": 1793858852,
     "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
     "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
     "reviews": 0,
@@ -81,11 +83,25 @@
     "name": "Soundcore P30i by Anker Noise Cancelling Earbuds",
     "pct": 50,
     "rating": 4.3,
-    "t": 1793772435,
+    "t": 1793858866,
     "img": "https://m.media-amazon.com/images/I/51HbL1WS+KL.jpg",
     "link": "https://www.amazon.com/dp/B0CRTYZG5C?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
+   },
+   {
+    "asin": "B0GPW71XRG",
+    "name": "Drone with Camera for Adults",
+    "pct": 50,
+    "rating": 4.6,
+    "t": 1793811139,
+    "img": "https://m.media-amazon.com/images/I/71O5wda+vbL.jpg",
+    "link": "https://www.amazon.com/dp/B0GPW71XRG?tag=zoepicks00-20",
+    "now": "79.99",
+    "was": "159.99",
+    "deal": "Limited time deal",
+    "reviews": 20,
+    "tier": "mid"
    },
    {
     "asin": "B0HHWCBJ56",
@@ -99,20 +115,6 @@
     "was": "249.99",
     "deal": "Limited time deal",
     "reviews": 20,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0DZHR44J9",
-    "name": "Bose QuietComfort Headphones",
-    "pct": 53,
-    "rating": 4.5,
-    "t": 1793810571,
-    "img": "https://m.media-amazon.com/images/I/51tItfLj8xL.jpg",
-    "link": "https://www.amazon.com/dp/B0DZHR44J9?tag=zoepicks00-20",
-    "now": "169.00",
-    "was": "359.00",
-    "deal": "Limited time deal",
-    "reviews": 22618,
     "tier": "premium"
    }
   ],
@@ -122,37 +124,34 @@
     "name": "FITORY Women's Suede Slippers",
     "pct": 69,
     "rating": 4.4,
-    "t": 1793772579,
+    "t": 1793808445,
     "img": "https://m.media-amazon.com/images/I/81gd9ZRjeoL.jpg",
     "link": "https://www.amazon.com/dp/B0F7R41NMW?tag=zoepicks00-20",
-    "reviews": 0,
+    "now": "14.98",
+    "was": "47.99",
+    "reviews": 882,
     "tier": "budget"
+   },
+   {
+    "asin": "B091JYX54W",
+    "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
+    "pct": 60,
+    "rating": 4.4,
+    "t": 1793858961,
+    "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
+    "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
    },
    {
     "asin": "B07X7MC5LQ",
     "name": "BENYAR Mens Watches Analog Quartz Chronograph Waterproof…",
     "pct": 85,
     "rating": 4.4,
-    "t": 1793813196,
-    "img": "https://m.media-amazon.com/images/I/714n8KvccpL.jpg",
+    "t": 1793858921,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/714n8KvccpL.jpg",
     "link": "https://www.amazon.com/dp/B07X7MC5LQ?tag=zoepicks00-20",
-    "now": "43.98",
-    "was": "298.99",
-    "reviews": 11524,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0HCBLKPBP",
-    "name": "taopodo Smart Watches",
-    "pct": 69,
-    "rating": 4.9,
-    "t": 1793809258,
-    "img": "https://m.media-amazon.com/images/I/71S8KhDAbyL.jpg",
-    "link": "https://www.amazon.com/dp/B0HCBLKPBP?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "159.99",
-    "deal": "Limited time deal",
-    "reviews": 95,
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -162,13 +161,10 @@
     "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
     "pct": 47,
     "rating": 4.4,
-    "t": 1793811073,
+    "t": 1793858987,
     "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
     "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-    "now": "12.74",
-    "was": "23.99",
-    "deal": "Limited time deal",
-    "reviews": 100,
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -176,13 +172,10 @@
     "name": "NORTIV 8 Men's Hiking Winter Insulated Snow Boots",
     "pct": 34,
     "rating": 4.4,
-    "t": 1793840580,
+    "t": 1793858989,
     "img": "https://m.media-amazon.com/images/I/81cXt7fYuYL.jpg",
     "link": "https://www.amazon.com/dp/B0D6XW5KW1?tag=zoepicks00-20",
-    "now": "41.99",
-    "was": "63.99",
-    "deal": "Limited time deal",
-    "reviews": 749,
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -206,20 +199,20 @@
     "name": "MOSFiATA Hammocks Portable Camping Hammock Upgraded 550lb…",
     "pct": 50,
     "rating": 4.4,
-    "t": 1793772660,
+    "t": 1793858997,
     "img": "https://m.media-amazon.com/images/I/81rwZ-MfUiL.jpg",
     "link": "https://www.amazon.com/dp/B0C64N8HQJ?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
    },
    {
-    "asin": "B08BHPMYGK",
-    "name": "FLEXISPOT EN1 One-Piece Standing Desk",
-    "pct": 31,
-    "rating": 4.5,
-    "t": 1793772662,
-    "img": "https://m.media-amazon.com/images/I/61ZR4GuC3FL.jpg",
-    "link": "https://www.amazon.com/dp/B08BHPMYGK?tag=zoepicks00-20",
+    "asin": "B0GSZ4H122",
+    "name": "Veken 63\"x28\" Wider Large Standing Desk",
+    "pct": 32,
+    "rating": 4.2,
+    "t": 1793858998,
+    "img": "https://m.media-amazon.com/images/I/71D8M0EB3ZL.jpg",
+    "link": "https://www.amazon.com/dp/B0GSZ4H122?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -239,17 +232,17 @@
   ],
   "gaming": [
    {
-    "asin": "B0F1MX275N",
-    "name": "URBONUR Gamer Queen Comforter Set",
-    "pct": 50,
+    "asin": "B0CBNMWFQL",
+    "name": "PDP Afterglow Wave Wired RGB Gaming Controller",
+    "pct": 33,
     "rating": 4.6,
-    "t": 1793810774,
-    "img": "https://m.media-amazon.com/images/I/71uFvvsmATL.jpg",
-    "link": "https://www.amazon.com/dp/B0F1MX275N?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "59.99",
+    "t": 1793808794,
+    "img": "https://m.media-amazon.com/images/I/61JmX3xq+PL.jpg",
+    "link": "https://www.amazon.com/dp/B0CBNMWFQL?tag=zoepicks00-20",
+    "now": "19.99",
+    "was": "29.99",
     "deal": "Limited time deal",
-    "reviews": 130,
+    "reviews": 423,
     "tier": "budget"
    },
    {
@@ -257,7 +250,7 @@
     "name": "Ordtop 2.4GHz Wireless Gaming Headset",
     "pct": 60,
     "rating": 4.8,
-    "t": 1793772674,
+    "t": 1793858930,
     "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
     "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
     "reviews": 0,
@@ -268,13 +261,10 @@
     "name": "Gaming Chair for Adults",
     "pct": 78,
     "rating": 4.7,
-    "t": 1793813358,
-    "img": "https://m.media-amazon.com/images/I/71dyvGvNo-L.jpg",
+    "t": 1793858928,
+    "img": "https://m.media-amazon.com/images/I/71y2AVO7kYL.jpg",
     "link": "https://www.amazon.com/dp/B0HLCFH9LS?tag=zoepicks00-20",
-    "now": "89.99",
-    "was": "399.99",
-    "deal": "Limited time deal",
-    "reviews": 743,
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -284,7 +274,7 @@
     "name": "JLab Go Talk USB-C Microphone",
     "pct": 56,
     "rating": 4.0,
-    "t": 1793772688,
+    "t": 1793859008,
     "img": "https://m.media-amazon.com/images/I/8170N5qtf5L.jpg",
     "link": "https://www.amazon.com/dp/B0BCXF3T1W?tag=zoepicks00-20",
     "reviews": 0,
@@ -309,7 +299,7 @@
     "name": "Brother XM2701 27-Stitch Sewing Machine",
     "pct": 28,
     "rating": 4.7,
-    "t": 1793772690,
+    "t": 1793859009,
     "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
     "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
     "reviews": 0,
@@ -322,27 +312,21 @@
     "name": "URBONUR Gamer Queen Comforter Set",
     "pct": 50,
     "rating": 4.6,
-    "t": 1793810774,
+    "t": 1793858930,
     "img": "https://m.media-amazon.com/images/I/71uFvvsmATL.jpg",
     "link": "https://www.amazon.com/dp/B0F1MX275N?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "59.99",
-    "deal": "Limited time deal",
-    "reviews": 130,
+    "reviews": 0,
     "tier": "budget"
    },
    {
-    "asin": "B0H82LC1DN",
-    "name": "BSRCO Car Vacuum Portable Cordless",
-    "pct": 73,
-    "rating": 4.8,
-    "t": 1793728502,
-    "img": "https://m.media-amazon.com/images/I/61xdb5QRHdL.jpg",
-    "link": "https://www.amazon.com/dp/B0H82LC1DN?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "149.99",
-    "deal": "Limited time deal",
-    "reviews": 105,
+    "asin": "B0HDTWN22Q",
+    "name": "Synvox Vacuum Sealer",
+    "pct": 60,
+    "rating": 4.9,
+    "t": 1793858960,
+    "img": "https://m.media-amazon.com/images/I/71t-Ag1l03L.jpg",
+    "link": "https://www.amazon.com/dp/B0HDTWN22Q?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -362,17 +346,17 @@
   ],
   "laptops": [
    {
-    "asin": "B0HFHRZC72",
-    "name": "Cybotioe Laptop Screen Extender",
-    "pct": 36,
-    "rating": 4.8,
-    "t": 1793809430,
-    "img": "https://m.media-amazon.com/images/I/81QafI8cP4L.jpg",
-    "link": "https://www.amazon.com/dp/B0HFHRZC72?tag=zoepicks00-20",
-    "now": "89.98",
-    "was": "139.99",
+    "asin": "B082V7PWD1",
+    "name": "TECKNET Bluetooth Mouse",
+    "pct": 46,
+    "rating": 4.4,
+    "t": 1793809171,
+    "img": "https://m.media-amazon.com/images/I/51kJ8n9GqyL.jpg",
+    "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
+    "now": "11.98",
+    "was": "21.99",
     "deal": "Limited time deal",
-    "reviews": 50,
+    "reviews": 11764,
     "tier": "budget"
    },
    {
@@ -380,7 +364,7 @@
     "name": "Blackview Laptop Screen Extender",
     "pct": 41,
     "rating": 4.8,
-    "t": 1793772693,
+    "t": 1793859011,
     "img": "https://m.media-amazon.com/images/I/819dtX42R6L.jpg",
     "link": "https://www.amazon.com/dp/B0GS543DCX?tag=zoepicks00-20",
     "reviews": 0,
@@ -421,24 +405,24 @@
     "name": "Fitness Tracker, Smart Watches",
     "pct": 60,
     "rating": 4.9,
-    "t": 1793772580,
+    "t": 1793858888,
     "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
     "link": "https://www.amazon.com/dp/B0HML23GWM?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
    {
-    "asin": "B0HCBLKPBP",
-    "name": "taopodo Smart Watches",
-    "pct": 69,
-    "rating": 4.9,
+    "asin": "B0BHTV7MCG",
+    "name": "Garmin Instinct® Crossover Solar",
+    "pct": 42,
+    "rating": 4.4,
     "t": 1793809258,
-    "img": "https://m.media-amazon.com/images/I/71S8KhDAbyL.jpg",
-    "link": "https://www.amazon.com/dp/B0HCBLKPBP?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "159.99",
+    "img": "https://m.media-amazon.com/images/I/71VnYL5t9HL.jpg",
+    "link": "https://www.amazon.com/dp/B0BHTV7MCG?tag=zoepicks00-20",
+    "now": "259.95",
+    "was": "449.99",
     "deal": "Limited time deal",
-    "reviews": 95,
+    "reviews": 403,
     "tier": "premium"
    }
   ],
@@ -448,24 +432,24 @@
     "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
     "pct": 40,
     "rating": 4.6,
-    "t": 1793772694,
+    "t": 1793859012,
     "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
     "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
    },
    {
-    "asin": "B0HFHRZC72",
-    "name": "Cybotioe Laptop Screen Extender",
-    "pct": 36,
-    "rating": 4.8,
+    "asin": "B0BX4QN6BS",
+    "name": "Sceptre New 27-inch IPS Gaming Monitor up to 165Hz…",
+    "pct": 40,
+    "rating": 4.2,
     "t": 1793809430,
-    "img": "https://m.media-amazon.com/images/I/81QafI8cP4L.jpg",
-    "link": "https://www.amazon.com/dp/B0HFHRZC72?tag=zoepicks00-20",
-    "now": "89.98",
-    "was": "139.99",
+    "img": "https://m.media-amazon.com/images/I/71kmtc1IOiL.jpg",
+    "link": "https://www.amazon.com/dp/B0BX4QN6BS?tag=zoepicks00-20",
+    "now": "89.97",
+    "was": "149.97",
     "deal": "Limited time deal",
-    "reviews": 50,
+    "reviews": 457,
     "tier": "mid"
    },
    {
@@ -489,7 +473,7 @@
     "name": "Brother DS-640 Compact Mobile Document Scanner",
     "pct": 17,
     "rating": 4.3,
-    "t": 1793772701,
+    "t": 1793859026,
     "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
     "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
     "reviews": 0,
@@ -524,57 +508,57 @@
   ],
   "other": [
    {
-    "asin": "B0HMCMYKJT",
-    "name": "Aeitto Ice Maker Countertop 26lbs/24H Ice Makers Ready in…",
-    "pct": 55,
-    "rating": 5.0,
-    "t": 1793726234,
-    "img": "https://m.media-amazon.com/images/I/7192TkXGeaL.jpg",
-    "link": "https://www.amazon.com/dp/B0HMCMYKJT?tag=zoepicks00-20",
-    "now": "89.99",
-    "was": "199.99",
-    "deal": "Limited time deal",
-    "reviews": 27,
+    "asin": "B00705XBMC",
+    "name": "Wild Republic Cuddlekins Mini Elk Stuffed Animal",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1793858936,
+    "img": "https://m.media-amazon.com/images/I/81-B72fAk8L.jpg",
+    "link": "https://www.amazon.com/dp/B00705XBMC?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "budget"
    },
    {
-    "asin": "B0HLZT9CWW",
-    "name": "LONG VACATION Luggage Sets 3 Piece",
-    "pct": 31,
-    "rating": 4.7,
-    "t": 1793728481,
-    "img": "https://m.media-amazon.com/images/I/71NQaOwwjHL.jpg",
-    "link": "https://www.amazon.com/dp/B0HLZT9CWW?tag=zoepicks00-20",
-    "now": "109.99",
-    "was": "159.99",
-    "deal": "Limited time deal",
-    "reviews": 44,
+    "asin": "B0DSVYRL18",
+    "name": "Rosamo 5 Piece Expandable Luggage Set",
+    "pct": 29,
+    "rating": 4.6,
+    "t": 1793744672,
+    "img": "https://m.media-amazon.com/images/I/71WZAqqRHLL.jpg",
+    "link": "https://www.amazon.com/dp/B0DSVYRL18?tag=zoepicks00-20",
+    "now": "99.98",
+    "was": "139.99",
+    "reviews": 1420,
     "tier": "mid"
    },
    {
-    "asin": "B0HG96HJRL",
-    "name": "SenCre Nugget Ice Maker Countertop 40Lbs/24H Soft Chewable…",
-    "pct": 57,
-    "rating": 4.8,
-    "t": 1793726234,
-    "img": "https://m.media-amazon.com/images/I/71vL9Hg0wVL.jpg",
-    "link": "https://www.amazon.com/dp/B0HG96HJRL?tag=zoepicks00-20",
+    "asin": "B0HDJRF31M",
+    "name": "[2026 Upgraded] -35 Mins Real Fireproof Safes- Large…",
+    "pct": 20,
+    "rating": 4.6,
+    "t": 1793813420,
+    "img": "https://m.media-amazon.com/images/I/71JIBifRYrL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDJRF31M?tag=zoepicks00-20",
     "now": "199.99",
-    "was": "469.99",
-    "reviews": 25,
+    "was": "249.99",
+    "deal": "Limited time deal",
+    "reviews": 44,
     "tier": "premium"
    }
   ],
   "pets": [
    {
-    "asin": "B07M98NH5L",
-    "name": "Fida Retractable Dog Leash",
-    "pct": 35,
-    "rating": 4.5,
-    "t": 1793772198,
-    "img": "https://m.media-amazon.com/images/I/61hCdJf89wL.jpg",
-    "link": "https://www.amazon.com/dp/B07M98NH5L?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0HCBPFRCP",
+    "name": "ZEEPORTE 2K Indoor Cameras",
+    "pct": 41,
+    "rating": 4.7,
+    "t": 1793810932,
+    "img": "https://m.media-amazon.com/images/I/710EcRV6iQL.jpg",
+    "link": "https://www.amazon.com/dp/B0HCBPFRCP?tag=zoepicks00-20",
+    "now": "25.98",
+    "was": "43.99",
+    "deal": "Limited time deal",
+    "reviews": 113,
     "tier": "budget"
    },
    {
@@ -582,39 +566,37 @@
     "name": "JINXUANTANG XL Cat Litter Box: High-Sided Anti-Urine Leakage",
     "pct": 35,
     "rating": 4.7,
-    "t": 1793810173,
+    "t": 1793858849,
     "img": "https://m.media-amazon.com/images/I/71SPKtiPQFL.jpg",
     "link": "https://www.amazon.com/dp/B0C1FRMCR6?tag=zoepicks00-20",
-    "now": "29.98",
-    "was": "46.14",
-    "deal": "Limited time deal",
-    "reviews": 165,
+    "reviews": 0,
     "tier": "mid"
    },
    {
-    "asin": "B0CF5B94X2",
-    "name": "TKENPRO 2K Pet Camera Treat Dispenser",
-    "pct": 22,
-    "rating": 4.3,
-    "t": 1793772204,
-    "img": "https://m.media-amazon.com/images/I/61OIHu1cxiL.jpg",
-    "link": "https://www.amazon.com/dp/B0CF5B94X2?tag=zoepicks00-20",
+    "asin": "B0F8TTS9K6",
+    "name": "VEVOR Fish Tank Aquarium",
+    "pct": 28,
+    "rating": 4.1,
+    "t": 1793858849,
+    "img": "https://m.media-amazon.com/images/I/71GJQPLaT0L.jpg",
+    "link": "https://www.amazon.com/dp/B0F8TTS9K6?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
   ],
   "smart_home": [
    {
-    "asin": "B0FHJ7TKZM",
-    "name": "Ring Battery Doorbell 2K",
-    "pct": 60,
+    "asin": "B0HGLZJZZ5",
+    "name": "2K SafeView Window Camera 2.4G & 5G WiFi Indoor Window…",
+    "pct": 50,
     "rating": 4.2,
     "t": 1793809625,
-    "img": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg",
-    "link": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "99.99",
-    "reviews": 8392,
+    "img": "https://m.media-amazon.com/images/I/71OEtOqoaUL.jpg",
+    "link": "https://www.amazon.com/dp/B0HGLZJZZ5?tag=zoepicks00-20",
+    "now": "29.98",
+    "was": "59.99",
+    "deal": "Limited time deal",
+    "reviews": 198,
     "tier": "budget"
    },
    {
@@ -648,66 +630,75 @@
   ],
   "tools_auto": [
    {
-    "asin": "B0H82LC1DN",
-    "name": "BSRCO Car Vacuum Portable Cordless",
-    "pct": 73,
-    "rating": 4.8,
-    "t": 1793728502,
-    "img": "https://m.media-amazon.com/images/I/61xdb5QRHdL.jpg",
-    "link": "https://www.amazon.com/dp/B0H82LC1DN?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "149.99",
+    "asin": "B0F916XPT8",
+    "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
+    "pct": 61,
+    "rating": 4.3,
+    "t": 1793840765,
+    "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
+    "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
+    "now": "54.99",
+    "was": "139.99",
     "deal": "Limited time deal",
-    "reviews": 105,
+    "reviews": 82,
     "tier": "budget"
+   },
+   {
+    "asin": "B0HHRNP7T4",
+    "name": "KRUPLH Portable Car Battery Jump Starter",
+    "pct": 44,
+    "rating": 5.0,
+    "t": 1793810244,
+    "img": "https://m.media-amazon.com/images/I/814tEi25iFL.jpg",
+    "link": "https://www.amazon.com/dp/B0HHRNP7T4?tag=zoepicks00-20",
+    "now": "65.98",
+    "was": "116.99",
+    "deal": "Limited time deal",
+    "reviews": 61,
+    "tier": "mid"
    },
    {
     "asin": "B0H93T31W3",
     "name": "4K+4K Dual Dash Cam Front and Rear",
     "pct": 40,
     "rating": 4.6,
-    "t": 1793772596,
+    "t": 1793810244,
     "img": "https://m.media-amazon.com/images/I/81sED5fjPYL.jpg",
     "link": "https://www.amazon.com/dp/B0H93T31W3?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0GV4XWRT7",
-    "name": "4K+4K+1080P 3 Channel Dash Cam",
-    "pct": 40,
-    "rating": 4.5,
-    "t": 1793772594,
-    "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
-    "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
-    "reviews": 0,
+    "now": "109.97",
+    "was": "183.29",
+    "deal": "Limited time deal",
+    "reviews": 189,
     "tier": "premium"
    }
   ],
   "toys_kids": [
    {
+    "asin": "B0HCBPFRCP",
+    "name": "ZEEPORTE 2K Indoor Cameras",
+    "pct": 41,
+    "rating": 4.7,
+    "t": 1793810932,
+    "img": "https://m.media-amazon.com/images/I/710EcRV6iQL.jpg",
+    "link": "https://www.amazon.com/dp/B0HCBPFRCP?tag=zoepicks00-20",
+    "now": "25.98",
+    "was": "43.99",
+    "deal": "Limited time deal",
+    "reviews": 113,
+    "tier": "budget"
+   },
+   {
     "asin": "B09GM8JZM9",
     "name": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550",
     "pct": 40,
     "rating": 4.5,
-    "t": 1793772695,
+    "t": 1793810410,
     "img": "https://m.media-amazon.com/images/I/613RCWv-M1L.jpg",
     "link": "https://www.amazon.com/dp/B09GM8JZM9?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0DJ92XLKR",
-    "name": "Tinyiota Baby Stroller",
-    "pct": 40,
-    "rating": 4.0,
-    "t": 1793726408,
-    "img": "https://m.media-amazon.com/images/I/61wPrvGEAgL.jpg",
-    "link": "https://www.amazon.com/dp/B0DJ92XLKR?tag=zoepicks00-20",
-    "now": "119.99",
-    "was": "199.98",
+    "now": "59.98",
+    "was": "99.99",
     "deal": "Limited time deal",
-    "reviews": 153,
+    "reviews": 19712,
     "tier": "mid"
    },
    {
@@ -715,7 +706,7 @@
     "name": "EVER ADVANCED Side-Unzip Wagon Stroller",
     "pct": 40,
     "rating": 4.7,
-    "t": 1793772705,
+    "t": 1793859036,
     "img": "https://m.media-amazon.com/images/I/91xWKByofSL.jpg",
     "link": "https://www.amazon.com/dp/B0CQL1J2T7?tag=zoepicks00-20",
     "reviews": 0,
@@ -734,11 +725,11 @@
       "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
       "pct": 50,
       "rating": 4.7,
-      "t": 1793772631,
+      "t": 1793858972,
       "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B0DRNHQG82",
@@ -750,22 +741,7 @@
       "link": "https://www.amazon.com/dp/B0DRNHQG82?tag=zoepicks00-20",
       "now": "71.99",
       "was": "89.99",
-      "reviews": 546,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GVSDD6V8",
-      "name": "Logitech G316 X 98 MechanicalGaming Keyboard",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1793728615,
-      "img": "https://m.media-amazon.com/images/I/617HcQtWKrL.jpg",
-      "link": "https://www.amazon.com/dp/B0GVSDD6V8?tag=zoepicks00-20",
-      "now": "90.23",
-      "was": "119.99",
-      "deal": "Limited time deal",
-      "reviews": 55,
-      "tier": "premium"
+      "reviews": 546
      }
     ]
    },
@@ -778,7 +754,7 @@
       "name": "TOUCAN 1080P Webcam",
       "pct": 50,
       "rating": 4.4,
-      "t": 1793772628,
+      "t": 1793858971,
       "img": "https://m.media-amazon.com/images/I/7190rWO4noL.jpg",
       "link": "https://www.amazon.com/dp/B0DDK5WRDZ?tag=zoepicks00-20",
       "reviews": 0,
@@ -803,7 +779,7 @@
       "name": "Logitech StreamCam Premium Webcam",
       "pct": 41,
       "rating": 4.4,
-      "t": 1793772636,
+      "t": 1793858972,
       "img": "https://m.media-amazon.com/images/I/71-fdSpTk5L.jpg",
       "link": "https://www.amazon.com/dp/B07TZT4Q89?tag=zoepicks00-20",
       "reviews": 0,
@@ -812,53 +788,23 @@
     ]
    },
    {
-    "key": "wireless-mouse",
-    "label": "Wireless Mouse",
-    "items": [
-     {
-      "asin": "B0DR1K3DM1",
-      "name": "UGREEN Ergonomic Wireless Mouse",
-      "pct": 40,
-      "rating": 4.4,
-      "t": 1793772637,
-      "img": "https://m.media-amazon.com/images/I/61MkHuTzfLL.jpg",
-      "link": "https://www.amazon.com/dp/B0DR1K3DM1?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B01JPOLKDW",
-      "name": "Logitech M330 Silent Plus Full Size 2.4 GHz Wireless Mouse",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1793728578,
-      "img": "https://m.media-amazon.com/images/I/61qm452yy-L.jpg",
-      "link": "https://www.amazon.com/dp/B01JPOLKDW?tag=zoepicks00-20",
-      "now": "16.14",
-      "was": "22.99",
-      "deal": "Limited time deal",
-      "reviews": 25226,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FB21526X",
-      "name": "Logitech MX Master 3S Bluetooth Wireless Mouse No Receiver",
-      "pct": 20,
-      "rating": 4.6,
-      "t": 1793741039,
-      "img": "https://m.media-amazon.com/images/I/61oEwT0WpSL.jpg",
-      "link": "https://www.amazon.com/dp/B0FB21526X?tag=zoepicks00-20",
-      "now": "79.99",
-      "was": "99.99",
-      "reviews": 785,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "computer-mouse",
     "label": "Computer Mouse",
     "items": [
+     {
+      "asin": "B082V7PWD1",
+      "name": "TECKNET Bluetooth Mouse",
+      "pct": 46,
+      "rating": 4.4,
+      "t": 1793809171,
+      "img": "https://m.media-amazon.com/images/I/51kJ8n9GqyL.jpg",
+      "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
+      "now": "11.98",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 11764,
+      "tier": "budget"
+     },
      {
       "asin": "B0HMVTN843",
       "name": "Hearvo USB 3.0 HDMI KVM Switch",
@@ -874,33 +820,45 @@
     ]
    },
    {
-    "key": "keyboards-typing",
-    "label": "Keyboards Typing",
+    "key": "wireless-mouse",
+    "label": "Wireless Mouse",
     "items": [
      {
-      "asin": "B0HB8V5WL5",
-      "name": "Wireless Keyboard and Mouse Combo",
-      "pct": 30,
+      "asin": "B0DR1K3DM1",
+      "name": "UGREEN Ergonomic Wireless Mouse",
+      "pct": 40,
       "rating": 4.4,
-      "t": 1793728353,
-      "img": "https://m.media-amazon.com/images/I/61XIS3XTIgL.jpg",
-      "link": "https://www.amazon.com/dp/B0HB8V5WL5?tag=zoepicks00-20",
-      "now": "22.98",
-      "was": "32.99",
-      "deal": "Limited time deal",
-      "reviews": 44
+      "t": 1793858973,
+      "img": "https://m.media-amazon.com/images/I/61MkHuTzfLL.jpg",
+      "link": "https://www.amazon.com/dp/B0DR1K3DM1?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
      },
      {
-      "asin": "B0F12V7P8D",
-      "name": "TECKNET Wired Keyboard",
-      "pct": 6,
-      "rating": 4.5,
-      "t": 1793728353,
-      "img": "https://m.media-amazon.com/images/I/719Cc407FtL.jpg",
-      "link": "https://www.amazon.com/dp/B0F12V7P8D?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "15.99",
-      "reviews": 4071
+      "asin": "B0GTLSD51L",
+      "name": "EDJO Wireless Keyboard and Mouse Combo,Silent Full Size…",
+      "pct": 27,
+      "rating": 4.4,
+      "t": 1793741031,
+      "img": "https://m.media-amazon.com/images/I/61FV2cQjQbL.jpg",
+      "link": "https://www.amazon.com/dp/B0GTLSD51L?tag=zoepicks00-20",
+      "now": "17.07",
+      "was": "23.39",
+      "reviews": 67,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FB21526X",
+      "name": "Logitech MX Master 3S Bluetooth Wireless Mouse No Receiver",
+      "pct": 20,
+      "rating": 4.6,
+      "t": 1793741039,
+      "img": "https://m.media-amazon.com/images/I/61oEwT0WpSL.jpg",
+      "link": "https://www.amazon.com/dp/B0FB21526X?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "99.99",
+      "reviews": 785,
+      "tier": "premium"
      }
     ]
    },
@@ -1046,6 +1004,11 @@
     "items": []
    },
    {
+    "key": "keyboards-typing",
+    "label": "Keyboards Typing",
+    "items": []
+   },
+   {
     "key": "laptop-charger",
     "label": "Laptop Charger",
     "items": []
@@ -1081,10 +1044,12 @@
       "name": "Maybelline Lash Sensational Sky High Washable Mascara Makeup",
       "pct": 76,
       "rating": 4.5,
-      "t": 1793772336,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71MQo8pHmBL.jpg",
+      "t": 1793752116,
+      "img": "https://m.media-amazon.com/images/I/71MQo8pHmBL.jpg",
       "link": "https://www.amazon.com/dp/B08H3JPH74?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "10.80",
+      "was": "45.00",
+      "reviews": 191435,
       "tier": "budget"
      },
      {
@@ -1092,7 +1057,7 @@
       "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
       "pct": 83,
       "rating": 4.6,
-      "t": 1793772331,
+      "t": 1793858852,
       "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
       "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
       "reviews": 0,
@@ -1103,7 +1068,7 @@
       "name": "Too Faced Better Than Sex Volumizing Mascara",
       "pct": 73,
       "rating": 4.4,
-      "t": 1793772375,
+      "t": 1793858853,
       "img": "https://m.media-amazon.com/images/I/71xZmq9JzYL.jpg",
       "link": "https://www.amazon.com/dp/B00P0Q0T28?tag=zoepicks00-20",
       "reviews": 0,
@@ -1127,18 +1092,6 @@
       "was": "93.33",
       "reviews": 6326,
       "tier": "premium"
-     },
-     {
-      "asin": "B089GBFM7G",
-      "name": "ColourPop Nude Mood Eyeshadow Palette",
-      "pct": 70,
-      "rating": 4.5,
-      "t": 1793810731,
-      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
-      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
-      "now": "14.00",
-      "was": "46.67",
-      "reviews": 5360
      }
     ]
    },
@@ -1165,13 +1118,10 @@
       "name": "Hair Dryer,160,000 RPM High-Speed Ionic Blow Dryer",
       "pct": 69,
       "rating": 4.6,
-      "t": 1793810022,
+      "t": 1793858853,
       "img": "https://m.media-amazon.com/images/I/71duIw3bloL.jpg",
       "link": "https://www.amazon.com/dp/B0HFJVQ47R?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "162.99",
-      "deal": "Limited time deal",
-      "reviews": 216,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -1187,22 +1137,6 @@
       "deal": "Limited time deal",
       "reviews": 105,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "makeup-primers",
-    "label": "Makeup Primers",
-    "items": [
-     {
-      "asin": "B07PQN4XZ1",
-      "name": "Milk Makeup Hydro Grip Primer",
-      "pct": 67,
-      "rating": 4.4,
-      "t": 1793772405,
-      "img": "https://m.media-amazon.com/images/I/61PqtXsBs2L.jpg",
-      "link": "https://www.amazon.com/dp/B07PQN4XZ1?tag=zoepicks00-20",
-      "reviews": 0
      }
     ]
    },
@@ -1255,6 +1189,24 @@
     ]
    },
    {
+    "key": "sunscreen",
+    "label": "Sunscreen",
+    "items": [
+     {
+      "asin": "B0B14VFZCR",
+      "name": "Derma B Everyday Sun Block Large Size Sunscreen SPF50+…",
+      "pct": 56,
+      "rating": 4.5,
+      "t": 1793858919,
+      "img": "https://m.media-amazon.com/images/I/61T4DgC2VpL.jpg",
+      "link": "https://www.amazon.com/dp/B0B14VFZCR?tag=zoepicks00-20",
+      "now": "10.99",
+      "was": "24.75",
+      "reviews": 0
+     }
+    ]
+   },
+   {
     "key": "shampoo",
     "label": "Shampoo",
     "items": [
@@ -1298,52 +1250,6 @@
       "was": "29.00",
       "deal": "Limited time deal",
       "reviews": 4675,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "sunscreen",
-    "label": "Sunscreen",
-    "items": [
-     {
-      "asin": "B0GJDFPX7G",
-      "name": "Tanologist Super Shield Face Fluid SPF 50",
-      "pct": 40,
-      "rating": 4.8,
-      "t": 1793725181,
-      "img": "https://m.media-amazon.com/images/I/61cjZTrRk0L.jpg",
-      "link": "https://www.amazon.com/dp/B0GJDFPX7G?tag=zoepicks00-20",
-      "now": "10.80",
-      "was": "18.00",
-      "deal": "Limited time deal",
-      "reviews": 26,
-      "tier": "budget"
-     },
-     {
-      "asin": "B004D2DR0Q",
-      "name": "Neutrogena Ultra Sheer Dry Touch Sunscreen Lotion SPF 45",
-      "pct": 38,
-      "rating": 4.7,
-      "t": 1793791966,
-      "img": "https://m.media-amazon.com/images/I/71wPCvOJ6fL.jpg",
-      "link": "https://www.amazon.com/dp/B004D2DR0Q?tag=zoepicks00-20",
-      "now": "13.97",
-      "was": "22.66",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B002CML1VG",
-      "name": "La Roche-Posay Anthelios Melt-In Milk Sunscreen",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1793725181,
-      "img": "https://m.media-amazon.com/images/I/61qA+KLguKL.jpg",
-      "link": "https://www.amazon.com/dp/B002CML1VG?tag=zoepicks00-20",
-      "now": "28.49",
-      "was": "37.99",
-      "reviews": 15312,
       "tier": "premium"
      }
     ]
@@ -1441,99 +1347,6 @@
       "now": "50.99",
       "was": "59.99",
       "reviews": 386,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "makeup-brush-set",
-    "label": "Makeup Brush Set",
-    "items": [
-     {
-      "asin": "B0C6XG1JND",
-      "name": "Professional Makeup Brush Set",
-      "pct": 20,
-      "rating": 4.7,
-      "t": 1793726160,
-      "img": "https://m.media-amazon.com/images/I/71fSvzOwVLL.jpg",
-      "link": "https://www.amazon.com/dp/B0C6XG1JND?tag=zoepicks00-20",
-      "now": "15.98",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 1658,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FQJ2R4DX",
-      "name": "MAANGE 13 Pcs Foundation Makeup Brush Set With Bag",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1793726160,
-      "img": "https://m.media-amazon.com/images/I/71113ON9qjL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQJ2R4DX?tag=zoepicks00-20",
-      "now": "16.79",
-      "was": "23.99",
-      "deal": "Limited time deal",
-      "reviews": 247,
-      "tier": "mid"
-     },
-     {
-      "asin": "B08GS5YJQZ",
-      "name": "OMANIAC Makeup Brush Set Professional",
-      "pct": 28,
-      "rating": 4.6,
-      "t": 1793726160,
-      "img": "https://m.media-amazon.com/images/I/7191qjNctLL.jpg",
-      "link": "https://www.amazon.com/dp/B08GS5YJQZ?tag=zoepicks00-20",
-      "now": "21.59",
-      "was": "29.99",
-      "reviews": 3274,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "moisturizer",
-    "label": "Moisturizer",
-    "items": [
-     {
-      "asin": "B0FF9Y16LK",
-      "name": "Retinol & Collagen Face Cream Day & Night",
-      "pct": 24,
-      "rating": 4.5,
-      "t": 1793725160,
-      "img": "https://m.media-amazon.com/images/I/81na3OSoxpL.jpg",
-      "link": "https://www.amazon.com/dp/B0FF9Y16LK?tag=zoepicks00-20",
-      "now": "15.95",
-      "was": "20.99",
-      "reviews": 2030,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DSBTDC72",
-      "name": "IUNIK Beta-Glucan 3X Barrier Cream",
-      "pct": 26,
-      "rating": 4.4,
-      "t": 1793725160,
-      "img": "https://m.media-amazon.com/images/I/51pwqUiM1yL.jpg",
-      "link": "https://www.amazon.com/dp/B0DSBTDC72?tag=zoepicks00-20",
-      "now": "15.99",
-      "was": "21.59",
-      "deal": "Limited time deal",
-      "reviews": 290,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FGGZPRPV",
-      "name": "TOSOWOONG Panthenol 20% Barrier Cream",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1793725160,
-      "img": "https://m.media-amazon.com/images/I/61pO+lwhj6L.jpg",
-      "link": "https://www.amazon.com/dp/B0FGGZPRPV?tag=zoepicks00-20",
-      "now": "17.50",
-      "was": "25.00",
-      "reviews": 275,
       "tier": "premium"
      }
     ]
@@ -1787,6 +1600,11 @@
     "items": []
    },
    {
+    "key": "makeup-brush-set",
+    "label": "Makeup Brush Set",
+    "items": []
+   },
+   {
     "key": "makeup-vanity-bag",
     "label": "Makeup Vanity Bag",
     "items": []
@@ -1812,8 +1630,18 @@
     "items": []
    },
    {
+    "key": "makeup-primers",
+    "label": "Makeup Primers",
+    "items": []
+   },
+   {
     "key": "razor-blades",
     "label": "Razor Blades",
+    "items": []
+   },
+   {
+    "key": "moisturizer",
+    "label": "Moisturizer",
     "items": []
    }
   ],
@@ -1875,21 +1703,24 @@
       "name": "Soundcore P30i by Anker Noise Cancelling Earbuds",
       "pct": 50,
       "rating": 4.3,
-      "t": 1793772435,
+      "t": 1793858866,
       "img": "https://m.media-amazon.com/images/I/51HbL1WS+KL.jpg",
       "link": "https://www.amazon.com/dp/B0CRTYZG5C?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
      },
      {
-      "asin": "B0DY8TS92J",
-      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
-      "pct": 51,
-      "rating": 4.3,
-      "t": 1793772434,
-      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
-      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B0FNWCYLZN",
+      "name": "soundcore P31i by Anker Translation Earbuds",
+      "pct": 45,
+      "rating": 4.4,
+      "t": 1793810571,
+      "img": "https://m.media-amazon.com/images/I/71fEWG6n4aL.jpg",
+      "link": "https://www.amazon.com/dp/B0FNWCYLZN?tag=zoepicks00-20",
+      "now": "32.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 11245,
       "tier": "mid"
      },
      {
@@ -1897,7 +1728,7 @@
       "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
       "pct": 58,
       "rating": 4.8,
-      "t": 1793772622,
+      "t": 1793858962,
       "img": "https://m.media-amazon.com/images/I/71KLbAa5atL.jpg",
       "link": "https://www.amazon.com/dp/B0HMQNMD26?tag=zoepicks00-20",
       "reviews": 0,
@@ -1937,17 +1768,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0DZHR44J9",
-      "name": "Bose QuietComfort Headphones",
-      "pct": 53,
-      "rating": 4.5,
+      "asin": "B0DY8TS92J",
+      "name": "Sony WH-CH720N Wireless Noise Cancelling Over-Ear Headphones",
+      "pct": 51,
+      "rating": 4.3,
       "t": 1793810571,
-      "img": "https://m.media-amazon.com/images/I/51tItfLj8xL.jpg",
-      "link": "https://www.amazon.com/dp/B0DZHR44J9?tag=zoepicks00-20",
-      "now": "169.00",
-      "was": "359.00",
+      "img": "https://m.media-amazon.com/images/I/61c3099gnFL.jpg",
+      "link": "https://www.amazon.com/dp/B0DY8TS92J?tag=zoepicks00-20",
+      "now": "88.00",
+      "was": "179.99",
       "deal": "Limited time deal",
-      "reviews": 22618,
+      "reviews": 17302,
       "tier": "premium"
      }
     ]
@@ -1961,13 +1792,10 @@
       "name": "MSMV 4K HD Camera Drone RC Quadcopter Mini Drone",
       "pct": 49,
       "rating": 4.8,
-      "t": 1793811139,
+      "t": 1793858867,
       "img": "https://m.media-amazon.com/images/I/719LPB5eN5L.jpg",
       "link": "https://www.amazon.com/dp/B0HJTS1PW4?tag=zoepicks00-20",
-      "now": "65.99",
-      "was": "129.99",
-      "deal": "Limited time deal",
-      "reviews": 80,
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -2008,7 +1836,7 @@
       "name": "Vinyl Record Player Bluetooth 3-Speed Portable Vintage…",
       "pct": 46,
       "rating": 4.5,
-      "t": 1793772436,
+      "t": 1793858869,
       "img": "https://m.media-amazon.com/images/I/71uOkPQG8hL.jpg",
       "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
       "reviews": 0,
@@ -2081,10 +1909,13 @@
       "name": "Kids Tablet 10 inch Android 16,24GB RAM 64GB ROM 6000mAh…",
       "pct": 38,
       "rating": 4.8,
-      "t": 1793772707,
+      "t": 1793815222,
       "img": "https://m.media-amazon.com/images/I/71Ghjw4sTXL.jpg",
       "link": "https://www.amazon.com/dp/B0HJGY7NWD?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "79.99",
+      "was": "129.99",
+      "deal": "Limited time deal",
+      "reviews": 371,
       "tier": "premium"
      }
     ]
@@ -2094,46 +1925,29 @@
     "label": "Surround Sound System",
     "items": [
      {
-      "asin": "B0H4M1G5L4",
-      "name": "ULTIMEA 5.1 TV Sound Bar",
-      "pct": 26,
-      "rating": 4.3,
-      "t": 1793728394,
-      "img": "https://m.media-amazon.com/images/I/61NR7jSm-rL.jpg",
-      "link": "https://www.amazon.com/dp/B0H4M1G5L4?tag=zoepicks00-20",
-      "now": "125.99",
-      "was": "169.99",
-      "deal": "Limited time deal",
-      "reviews": 118,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F5G5T3WR",
-      "name": "ULTIMEA 5.1.2ch Sound Bar",
+      "asin": "B0C548MYF3",
+      "name": "Bose Smart Ultra Dolby Atmos Soundbar",
       "pct": 35,
-      "rating": 4.3,
-      "t": 1793728394,
-      "img": "https://m.media-amazon.com/images/I/61dlPl+g+9L.jpg",
-      "link": "https://www.amazon.com/dp/B0F5G5T3WR?tag=zoepicks00-20",
-      "now": "199.98",
-      "was": "309.99",
-      "deal": "Limited time deal",
-      "reviews": 757,
-      "tier": "mid"
+      "rating": 4.2,
+      "t": 1793809625,
+      "img": "https://m.media-amazon.com/images/I/51Kw3PC65qL.jpg",
+      "link": "https://www.amazon.com/dp/B0C548MYF3?tag=zoepicks00-20",
+      "now": "649.00",
+      "was": "999.00",
+      "reviews": 825
      },
      {
-      "asin": "B0H1GNCT7Q",
-      "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
-      "pct": 36,
-      "rating": 4.4,
-      "t": 1793728394,
-      "img": "https://m.media-amazon.com/images/I/61m6eF8qyOL.jpg",
-      "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
-      "now": "1,399.00",
-      "was": "2,199.00",
+      "asin": "B0FP5G4CYG",
+      "name": "ULTIMEA Skywave X50 5.1.4ch Wireless Surround Sound System",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1793809625,
+      "img": "https://m.media-amazon.com/images/I/61o9rAXhzKL.jpg",
+      "link": "https://www.amazon.com/dp/B0FP5G4CYG?tag=zoepicks00-20",
+      "now": "449.00",
+      "was": "599.00",
       "deal": "Limited time deal",
-      "reviews": 22,
-      "tier": "premium"
+      "reviews": 310
      }
     ]
    },
@@ -2233,53 +2047,6 @@
     ]
    },
    {
-    "key": "stereo-system",
-    "label": "Stereo System",
-    "items": [
-     {
-      "asin": "B0GSWY77L8",
-      "name": "Pyle Powered Bookshelf Speaker System",
-      "pct": 10,
-      "rating": 4.2,
-      "t": 1793726221,
-      "img": "https://m.media-amazon.com/images/I/81yl3Y0hIoL.jpg",
-      "link": "https://www.amazon.com/dp/B0GSWY77L8?tag=zoepicks00-20",
-      "now": "104.40",
-      "was": "116.00",
-      "deal": "Limited time deal",
-      "reviews": 106,
-      "tier": "budget"
-     },
-     {
-      "asin": "B084G8G5G9",
-      "name": "Philips Bluetooth Stereo System",
-      "pct": 15,
-      "rating": 4.2,
-      "t": 1793726221,
-      "img": "https://m.media-amazon.com/images/I/81qN-3qNpgL.jpg",
-      "link": "https://www.amazon.com/dp/B084G8G5G9?tag=zoepicks00-20",
-      "now": "118.99",
-      "was": "139.99",
-      "reviews": 5585,
-      "tier": "mid"
-     },
-     {
-      "asin": "B08376LRQ4",
-      "name": "Philips Portable Boombox CD Player Bluetooth FM Radio MP3…",
-      "pct": 13,
-      "rating": 4.2,
-      "t": 1793726221,
-      "img": "https://m.media-amazon.com/images/I/714UYsqfdPL.jpg",
-      "link": "https://www.amazon.com/dp/B08376LRQ4?tag=zoepicks00-20",
-      "now": "139.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 2955,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "noise-reducing-headphones",
     "label": "Noise Reducing Headphones",
     "items": []
@@ -2302,6 +2069,11 @@
    {
     "key": "kobo-case",
     "label": "Kobo Case",
+    "items": []
+   },
+   {
+    "key": "stereo-system",
+    "label": "Stereo System",
     "items": []
    }
   ],
@@ -2328,12 +2100,10 @@
       "name": "BENYAR Mens Watches Analog Quartz Chronograph Waterproof…",
       "pct": 85,
       "rating": 4.4,
-      "t": 1793813196,
-      "img": "https://m.media-amazon.com/images/I/714n8KvccpL.jpg",
+      "t": 1793858921,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/714n8KvccpL.jpg",
       "link": "https://www.amazon.com/dp/B07X7MC5LQ?tag=zoepicks00-20",
-      "now": "43.98",
-      "was": "298.99",
-      "reviews": 11524,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -2341,13 +2111,10 @@
       "name": "taopodo Smart Watches",
       "pct": 69,
       "rating": 4.9,
-      "t": 1793809258,
+      "t": 1793858921,
       "img": "https://m.media-amazon.com/images/I/71S8KhDAbyL.jpg",
       "link": "https://www.amazon.com/dp/B0HCBLKPBP?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 95,
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -2361,7 +2128,7 @@
       "name": "Lulex Moccasins for Men House Slippers Indoor Outdoor Plush…",
       "pct": 57,
       "rating": 4.5,
-      "t": 1793772581,
+      "t": 1793858922,
       "img": "https://m.media-amazon.com/images/I/71-LDVcJd4L.jpg",
       "link": "https://www.amazon.com/dp/B07WFZ5MLT?tag=zoepicks00-20",
       "reviews": 0,
@@ -2372,10 +2139,12 @@
       "name": "FITORY Women's Suede Slippers",
       "pct": 69,
       "rating": 4.4,
-      "t": 1793772579,
+      "t": 1793808445,
       "img": "https://m.media-amazon.com/images/I/81gd9ZRjeoL.jpg",
       "link": "https://www.amazon.com/dp/B0F7R41NMW?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "14.98",
+      "was": "47.99",
+      "reviews": 882,
       "tier": "mid"
      },
      {
@@ -2403,68 +2172,21 @@
       "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
       "pct": 60,
       "rating": 4.4,
-      "t": 1793772581,
+      "t": 1793858961,
       "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
       "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
      },
      {
       "asin": "B0FF22678P",
       "name": "JMIERR Men's Henley Hoodie Fleece Quarter Button Pullove",
       "pct": 58,
       "rating": 4.5,
-      "t": 1793772605,
+      "t": 1793858946,
       "img": "https://m.media-amazon.com/images/I/61SThU1ZsgL.jpg",
       "link": "https://www.amazon.com/dp/B0FF22678P?tag=zoepicks00-20",
       "reviews": 0
-     }
-    ]
-   },
-   {
-    "key": "winter-coats",
-    "label": "Winter Coats",
-    "items": [
-     {
-      "asin": "B0GVDSL7R1",
-      "name": "ZITY Mens Winter Jackets Sherpa Lined Coats Insulated…",
-      "pct": 59,
-      "rating": 4.3,
-      "t": 1793726252,
-      "img": "https://m.media-amazon.com/images/I/71pFr22r-iL.jpg",
-      "link": "https://www.amazon.com/dp/B0GVDSL7R1?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "84.99",
-      "deal": "Limited time deal",
-      "reviews": 47,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FJMGHCMM",
-      "name": "TACVASEN Mens Puffer Jacket Hooded Sherpa Lined Water…",
-      "pct": 40,
-      "rating": 4.6,
-      "t": 1793726252,
-      "img": "https://m.media-amazon.com/images/I/81P7U4glyCL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJMGHCMM?tag=zoepicks00-20",
-      "now": "47.99",
-      "was": "79.98",
-      "deal": "Limited time deal",
-      "reviews": 674,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09M64CDDH",
-      "name": "TACVASEN Men's Winter Jacket",
-      "pct": 38,
-      "rating": 4.6,
-      "t": 1793726252,
-      "img": "https://m.media-amazon.com/images/I/61iBJGpSSVL.jpg",
-      "link": "https://www.amazon.com/dp/B09M64CDDH?tag=zoepicks00-20",
-      "now": "55.78",
-      "was": "89.98",
-      "deal": "Limited time deal",
-      "reviews": 2867,
-      "tier": "premium"
      }
     ]
    },
@@ -2520,19 +2242,6 @@
     "label": "Walking Shoes",
     "items": [
      {
-      "asin": "B0G2WP3WP9",
-      "name": "LCGJR Men's Running Shoes Lightweight Breathable Walking…",
-      "pct": 50,
-      "rating": 4.0,
-      "t": 1793791961,
-      "img": "https://m.media-amazon.com/images/I/71wtuam8RRL.jpg",
-      "link": "https://www.amazon.com/dp/B0G2WP3WP9?tag=zoepicks00-20",
-      "now": "17.49",
-      "was": "34.99",
-      "reviews": 50,
-      "tier": "budget"
-     },
-     {
       "asin": "B0GS9PFXLT",
       "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
       "pct": 55,
@@ -2544,6 +2253,20 @@
       "was": "65.95",
       "deal": "Limited time deal",
       "reviews": 91,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GRF31R6H",
+      "name": "K-Swiss Men's Mellow Running Shoe",
+      "pct": 55,
+      "rating": 4.3,
+      "t": 1793811197,
+      "img": "https://m.media-amazon.com/images/I/71YogEhe68L.jpg",
+      "link": "https://www.amazon.com/dp/B0GRF31R6H?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "65.95",
+      "deal": "Limited time deal",
+      "reviews": 66,
       "tier": "mid"
      },
      {
@@ -2566,6 +2289,16 @@
     "label": "Sandals",
     "items": [
      {
+      "asin": "B00MVAQN4E",
+      "name": "Clarks Women's Leisa Cacti Q Slide Sandal",
+      "pct": 55,
+      "rating": 4.6,
+      "t": 1793858922,
+      "img": "https://m.media-amazon.com/images/I/514L4dNXWkL.jpg",
+      "link": "https://www.amazon.com/dp/B00MVAQN4E?tag=zoepicks00-20",
+      "reviews": 0
+     },
+     {
       "asin": "B0CSMN1X4W",
       "name": "ODOLY Unisex Comfortable Cork Footbed Slide Sandals",
       "pct": 47,
@@ -2575,34 +2308,7 @@
       "link": "https://www.amazon.com/dp/B0CSMN1X4W?tag=zoepicks00-20",
       "now": "17.99",
       "was": "33.99",
-      "reviews": 9946,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D7LNNCYY",
-      "name": "Clarks womens Breeze PiperSlide Sandal",
-      "pct": 52,
-      "rating": 4.5,
-      "t": 1793730885,
-      "img": "https://m.media-amazon.com/images/I/61jesU-N1GL.jpg",
-      "link": "https://www.amazon.com/dp/B0D7LNNCYY?tag=zoepicks00-20",
-      "now": "28.88",
-      "was": "60.00",
-      "reviews": 3622,
-      "tier": "mid"
-     },
-     {
-      "asin": "B00MVAQN4E",
-      "name": "Clarks Women's Leisa Cacti Q Slide Sandal",
-      "pct": 55,
-      "rating": 4.6,
-      "t": 1793730878,
-      "img": "https://m.media-amazon.com/images/I/514L4dNXWkL.jpg",
-      "link": "https://www.amazon.com/dp/B00MVAQN4E?tag=zoepicks00-20",
-      "now": "43.20",
-      "was": "95.00",
-      "reviews": 12034,
-      "tier": "premium"
+      "reviews": 9946
      }
     ]
    },
@@ -2642,12 +2348,12 @@
       "name": "Aelfric Eden Embroidery Puppy Baggy Barrel Sweatpants…",
       "pct": 38,
       "rating": 4.7,
-      "t": 1793729925,
+      "t": 1793808445,
       "img": "https://m.media-amazon.com/images/I/71f2xkhy9RL.jpg",
       "link": "https://www.amazon.com/dp/B0FNDLZTJS?tag=zoepicks00-20",
       "now": "55.48",
       "was": "89.95",
-      "reviews": 334,
+      "reviews": 337,
       "tier": "premium"
      }
     ]
@@ -2692,12 +2398,13 @@
       "name": "FuelMeFoot 3 Pack Copper Compression Socks",
       "pct": 48,
       "rating": 4.4,
-      "t": 1793791961,
+      "t": 1793808445,
       "img": "https://m.media-amazon.com/images/I/61AK78IB57L.jpg",
       "link": "https://www.amazon.com/dp/B074MW1MTW?tag=zoepicks00-20",
       "now": "10.99",
       "was": "20.99",
-      "reviews": 68920,
+      "deal": "Limited time deal",
+      "reviews": 68936,
       "tier": "budget"
      },
      {
@@ -2739,13 +2446,10 @@
       "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
       "pct": 47,
       "rating": 4.4,
-      "t": 1793811073,
+      "t": 1793858987,
       "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
       "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-      "now": "12.74",
-      "was": "23.99",
-      "deal": "Limited time deal",
-      "reviews": 100,
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -2778,53 +2482,6 @@
     ]
    },
    {
-    "key": "wallets",
-    "label": "Wallets",
-    "items": [
-     {
-      "asin": "B0H7WMKVM7",
-      "name": "VTLASK Wallet for Men-CrazyHorse Genuine Leather…",
-      "pct": 44,
-      "rating": 4.6,
-      "t": 1793726343,
-      "img": "https://m.media-amazon.com/images/I/71rNyvNsQ8L.jpg",
-      "link": "https://www.amazon.com/dp/B0H7WMKVM7?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "26.99",
-      "deal": "Limited time deal",
-      "reviews": 40,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CR6J28VH",
-      "name": "BULLIANT Magnetic Slim Leather Pocket Wallet Money Clip For…",
-      "pct": 10,
-      "rating": 4.5,
-      "t": 1793726343,
-      "img": "https://m.media-amazon.com/images/I/91svUFGIHLL.jpg",
-      "link": "https://www.amazon.com/dp/B0CR6J28VH?tag=zoepicks00-20",
-      "now": "17.99",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 4177,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07L3M5H1F",
-      "name": "Tommy Hilfiger Men's Genuine Leather Slim Trifold Wallet",
-      "pct": 16,
-      "rating": 4.7,
-      "t": 1793740938,
-      "img": "https://m.media-amazon.com/images/I/71AXbov3YdL.jpg",
-      "link": "https://www.amazon.com/dp/B07L3M5H1F?tag=zoepicks00-20",
-      "now": "22.80",
-      "was": "26.99",
-      "reviews": 4873,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "tote-bags",
     "label": "Tote Bags",
     "items": [
@@ -2846,7 +2503,7 @@
       "name": "BAGSMART Tote Bag for Women",
       "pct": 43,
       "rating": 4.6,
-      "t": 1793791961,
+      "t": 1793858913,
       "img": "https://m.media-amazon.com/images/I/61OsEV2AvWL.jpg",
       "link": "https://www.amazon.com/dp/B0D6FWQ7HY?tag=zoepicks00-20",
       "now": "18.23",
@@ -2866,53 +2523,6 @@
       "was": "55.99",
       "deal": "Limited time deal",
       "reviews": 590,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B0H6KLM8VK",
-      "name": "Uposiut Womens Raincoat Rain Jacket Waterproof Windbreaker",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1793728565,
-      "img": "https://m.media-amazon.com/images/I/61mqXDWBZTL.jpg",
-      "link": "https://www.amazon.com/dp/B0H6KLM8VK?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 43,
-      "tier": "budget"
-     },
-     {
-      "asin": "B07KW6STT8",
-      "name": "COOFANDY Mens Packable Rain Jacket Lightweight Waterproof…",
-      "pct": 41,
-      "rating": 4.4,
-      "t": 1793728565,
-      "img": "https://m.media-amazon.com/images/I/71QVFsSmiuL.jpg",
-      "link": "https://www.amazon.com/dp/B07KW6STT8?tag=zoepicks00-20",
-      "now": "18.98",
-      "was": "31.99",
-      "deal": "Limited time deal",
-      "reviews": 6740,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0CLR8QXKW",
-      "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
-      "pct": 40,
-      "rating": 4.5,
-      "t": 1793791966,
-      "img": "https://m.media-amazon.com/images/I/61PNtGqqNoL.jpg",
-      "link": "https://www.amazon.com/dp/B0CLR8QXKW?tag=zoepicks00-20",
-      "now": "46.86",
-      "was": "70.00",
-      "reviews": 4767,
       "tier": "premium"
      }
     ]
@@ -2939,7 +2549,7 @@
       "name": "IUGA Tummy Control Leggings",
       "pct": 41,
       "rating": 4.6,
-      "t": 1793791961,
+      "t": 1793858913,
       "img": "https://m.media-amazon.com/images/I/61O1XldQP4L.jpg",
       "link": "https://www.amazon.com/dp/B079BJ3TCW?tag=zoepicks00-20",
       "now": "19.99",
@@ -2984,60 +2594,13 @@
       "name": "adidas Power Gym Bag",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793791961,
+      "t": 1793808445,
       "img": "https://m.media-amazon.com/images/I/81+Va86HK3L.jpg",
       "link": "https://www.amazon.com/dp/B0F3RJ4942?tag=zoepicks00-20",
       "now": "17.99",
       "was": "30.00",
-      "reviews": 381
-     }
-    ]
-   },
-   {
-    "key": "suitcase",
-    "label": "Suitcase",
-    "items": [
-     {
-      "asin": "B0FMJZL62T",
-      "name": "Expandable Luggage Sets 5 Piece Suitcases",
-      "pct": 29,
-      "rating": 4.6,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/81C-XMKUHAL.jpg",
-      "link": "https://www.amazon.com/dp/B0FMJZL62T?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
       "deal": "Limited time deal",
-      "reviews": 445,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HLZT9CWW",
-      "name": "LONG VACATION Luggage Sets 3 Piece",
-      "pct": 31,
-      "rating": 4.7,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/71NQaOwwjHL.jpg",
-      "link": "https://www.amazon.com/dp/B0HLZT9CWW?tag=zoepicks00-20",
-      "now": "109.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 44,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GGGMPZQM",
-      "name": "Joyway 3 Piece Luggage Set",
-      "pct": 31,
-      "rating": 4.3,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/81QpCYowN7L.jpg",
-      "link": "https://www.amazon.com/dp/B0GGGMPZQM?tag=zoepicks00-20",
-      "now": "159.48",
-      "was": "229.99",
-      "deal": "Limited time deal",
-      "reviews": 49,
-      "tier": "premium"
+      "reviews": 387
      }
     ]
    },
@@ -3083,6 +2646,43 @@
       "was": "195.00",
       "reviews": 12647,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "suitcase",
+    "label": "Suitcase",
+    "items": [
+     {
+      "asin": "B0BMTCSRSB",
+      "name": "Coolife Luggage Set Hardside Suitcase,5…",
+      "pct": 26,
+      "rating": 4.6,
+      "t": 1793808445,
+      "img": "https://m.media-amazon.com/images/I/61HNqg1Z2fL.jpg",
+      "link": "https://www.amazon.com/dp/B0BMTCSRSB?tag=zoepicks00-20",
+      "now": "126.98",
+      "was": "171.99",
+      "deal": "Limited time deal",
+      "reviews": 1815
+     }
+    ]
+   },
+   {
+    "key": "wallets",
+    "label": "Wallets",
+    "items": [
+     {
+      "asin": "B07L3M5H1F",
+      "name": "Tommy Hilfiger Men's Genuine Leather Slim Trifold Wallet",
+      "pct": 16,
+      "rating": 4.7,
+      "t": 1793740938,
+      "img": "https://m.media-amazon.com/images/I/71AXbov3YdL.jpg",
+      "link": "https://www.amazon.com/dp/B07L3M5H1F?tag=zoepicks00-20",
+      "now": "22.80",
+      "was": "26.99",
+      "reviews": 4873
      }
     ]
    },
@@ -3133,6 +2733,16 @@
       "reviews": 53583
      }
     ]
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
+    "items": []
+   },
+   {
+    "key": "winter-coats",
+    "label": "Winter Coats",
+    "items": []
    }
   ],
   "fitness_outdoor": [
@@ -3193,13 +2803,10 @@
       "name": "ECOHUB Hiking Backpack 30L Travel Backpack Lightweight…",
       "pct": 47,
       "rating": 4.4,
-      "t": 1793811073,
+      "t": 1793858987,
       "img": "https://m.media-amazon.com/images/I/81IEmE2ZYOL.jpg",
       "link": "https://www.amazon.com/dp/B0FDQBGCWQ?tag=zoepicks00-20",
-      "now": "12.74",
-      "was": "23.99",
-      "deal": "Limited time deal",
-      "reviews": 100,
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -3241,7 +2848,7 @@
       "name": "Sunny Health & Fitness Exercise Yoga Mats",
       "pct": 43,
       "rating": 4.4,
-      "t": 1793791963,
+      "t": 1793858914,
       "img": "https://m.media-amazon.com/images/I/81YwLvFxG1L.jpg",
       "link": "https://www.amazon.com/dp/B0DSR2W69V?tag=zoepicks00-20",
       "now": "17.09",
@@ -3254,12 +2861,11 @@
       "name": "Umineux Yoga Mat Cork 1/4 & 2/5 Inch Thick Exercise Mats 72…",
       "pct": 20,
       "rating": 4.2,
-      "t": 1793840599,
+      "t": 1793848177,
       "img": "https://m.media-amazon.com/images/I/91MEYdip3aL.jpg",
       "link": "https://www.amazon.com/dp/B0DXKZ5H5G?tag=zoepicks00-20",
       "now": "31.99",
       "was": "39.99",
-      "deal": "Limited time deal",
       "reviews": 84,
       "tier": "mid"
      },
@@ -3301,7 +2907,7 @@
       "name": "WERHY Electric Scooter",
       "pct": 39,
       "rating": 4.2,
-      "t": 1793772648,
+      "t": 1793858987,
       "img": "https://m.media-amazon.com/images/I/71ENL0nrKzL.jpg",
       "link": "https://www.amazon.com/dp/B0GTM4PN4D?tag=zoepicks00-20",
       "reviews": 0,
@@ -3328,17 +2934,16 @@
     "label": "Insulated Water Bottles",
     "items": [
      {
-      "asin": "B0CGM2PS5B",
-      "name": "BJPKPK 18 oz Water Bottle",
-      "pct": 37,
-      "rating": 4.4,
+      "asin": "B0DTQ5CVXX",
+      "name": "24 oz Insulated Water Bottle",
+      "pct": 30,
+      "rating": 4.6,
       "t": 1793813320,
-      "img": "https://m.media-amazon.com/images/I/61SWBkCEz1L.jpg",
-      "link": "https://www.amazon.com/dp/B0CGM2PS5B?tag=zoepicks00-20",
-      "now": "10.12",
-      "was": "15.99",
-      "deal": "Limited time deal",
-      "reviews": 4478,
+      "img": "https://m.media-amazon.com/images/I/51zQNRfbMlL.jpg",
+      "link": "https://www.amazon.com/dp/B0DTQ5CVXX?tag=zoepicks00-20",
+      "now": "13.97",
+      "was": "19.99",
+      "reviews": 2016,
       "tier": "budget"
      },
      {
@@ -3355,14 +2960,64 @@
       "tier": "mid"
      },
      {
-      "asin": "B0DTPGHRKT",
-      "name": "40 oz Insulated Water Bottle",
-      "pct": 33,
+      "asin": "B09ZKSM4SV",
+      "name": "BJPKPK 64oz Insulated Water Bottle",
+      "pct": 28,
+      "rating": 4.2,
+      "t": 1793813320,
+      "img": "https://m.media-amazon.com/images/I/71WCPJLLyJL.jpg",
+      "link": "https://www.amazon.com/dp/B09ZKSM4SV?tag=zoepicks00-20",
+      "now": "20.93",
+      "was": "28.99",
+      "deal": "Limited time deal",
+      "reviews": 4326,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "coolers",
+    "label": "Coolers",
+    "items": [
+     {
+      "asin": "B09W9G8WCC",
+      "name": "Maelstrom 23L Insulated Lunch Box",
+      "pct": 35,
       "rating": 4.6,
-      "t": 1793772651,
-      "img": "https://m.media-amazon.com/images/I/61ZSrPhAsTL.jpg",
-      "link": "https://www.amazon.com/dp/B0DTPGHRKT?tag=zoepicks00-20",
-      "reviews": 0,
+      "t": 1793815447,
+      "img": "https://m.media-amazon.com/images/I/81FxxnUl7CL.jpg",
+      "link": "https://www.amazon.com/dp/B09W9G8WCC?tag=zoepicks00-20",
+      "now": "16.97",
+      "was": "25.99",
+      "deal": "Limited time deal",
+      "reviews": 3587,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0D2D15S4X",
+      "name": "TENKIST Tactical Insulated Lunch Box Men Double Deck Heavy…",
+      "pct": 31,
+      "rating": 4.6,
+      "t": 1793815447,
+      "img": "https://m.media-amazon.com/images/I/81RvlKHH0mL.jpg",
+      "link": "https://www.amazon.com/dp/B0D2D15S4X?tag=zoepicks00-20",
+      "now": "25.61",
+      "was": "36.99",
+      "deal": "Limited time deal",
+      "reviews": 1777,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DK6R8HJC",
+      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
+      "pct": 29,
+      "rating": 4.1,
+      "t": 1793757872,
+      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
+      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "139.99",
+      "reviews": 413,
       "tier": "premium"
      }
     ]
@@ -3376,12 +3031,11 @@
       "name": "ARTOPEAK Men's Waterproof Hiking Boots",
       "pct": 30,
       "rating": 4.4,
-      "t": 1793840580,
+      "t": 1793861033,
       "img": "https://m.media-amazon.com/images/I/71LJOvivVfL.jpg",
       "link": "https://www.amazon.com/dp/B0FQ4WNFNY?tag=zoepicks00-20",
       "now": "20.99",
       "was": "29.99",
-      "deal": "Limited time deal",
       "reviews": 104,
       "tier": "budget"
      },
@@ -3390,13 +3044,10 @@
       "name": "NORTIV 8 Men's Hiking Winter Insulated Snow Boots",
       "pct": 34,
       "rating": 4.4,
-      "t": 1793840580,
+      "t": 1793858989,
       "img": "https://m.media-amazon.com/images/I/81cXt7fYuYL.jpg",
       "link": "https://www.amazon.com/dp/B0D6XW5KW1?tag=zoepicks00-20",
-      "now": "41.99",
-      "was": "63.99",
-      "deal": "Limited time deal",
-      "reviews": 749,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -3404,12 +3055,11 @@
       "name": "NORTIV 8 Men's Ankle High Waterproof Hiking Boots",
       "pct": 22,
       "rating": 4.4,
-      "t": 1793840580,
+      "t": 1793861026,
       "img": "https://m.media-amazon.com/images/I/71p2KL9ZXTL.jpg",
       "link": "https://www.amazon.com/dp/B0B5DMBTM5?tag=zoepicks00-20",
       "now": "46.66",
       "was": "59.99",
-      "deal": "Limited time deal",
       "reviews": 23918,
       "tier": "premium"
      }
@@ -3459,53 +3109,6 @@
       "was": "399.99",
       "deal": "Limited time deal",
       "reviews": 262,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "coolers",
-    "label": "Coolers",
-    "items": [
-     {
-      "asin": "B0D2D15S4X",
-      "name": "TENKIST Tactical Insulated Lunch Box Men Double Deck Heavy…",
-      "pct": 31,
-      "rating": 4.6,
-      "t": 1793815447,
-      "img": "https://m.media-amazon.com/images/I/81RvlKHH0mL.jpg",
-      "link": "https://www.amazon.com/dp/B0D2D15S4X?tag=zoepicks00-20",
-      "now": "25.61",
-      "was": "36.99",
-      "deal": "Limited time deal",
-      "reviews": 1777,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09PD3D27J",
-      "name": "Maelstrom 24/30/60 Can Soft Cooler Bag",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1793815447,
-      "img": "https://m.media-amazon.com/images/I/81NiiEyaZ3L.jpg",
-      "link": "https://www.amazon.com/dp/B09PD3D27J?tag=zoepicks00-20",
-      "now": "26.73",
-      "was": "34.99",
-      "deal": "Limited time deal",
-      "reviews": 3443,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DK6R8HJC",
-      "name": "Electactic 24 Cans Beverage Refrigerator Cooler",
-      "pct": 29,
-      "rating": 4.1,
-      "t": 1793757872,
-      "img": "https://m.media-amazon.com/images/I/71Ocb0y05IL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK6R8HJC?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
-      "reviews": 413,
       "tier": "premium"
      }
     ]
@@ -3605,7 +3208,7 @@
       "name": "MOSFiATA Hammocks Portable Camping Hammock Upgraded 550lb…",
       "pct": 50,
       "rating": 4.4,
-      "t": 1793772660,
+      "t": 1793858997,
       "img": "https://m.media-amazon.com/images/I/81rwZ-MfUiL.jpg",
       "link": "https://www.amazon.com/dp/B0C64N8HQJ?tag=zoepicks00-20",
       "reviews": 0,
@@ -3697,7 +3300,7 @@
       "name": "FLEXISPOT EN1 One-Piece Standing Desk",
       "pct": 31,
       "rating": 4.5,
-      "t": 1793772662,
+      "t": 1793858999,
       "img": "https://m.media-amazon.com/images/I/61ZR4GuC3FL.jpg",
       "link": "https://www.amazon.com/dp/B08BHPMYGK?tag=zoepicks00-20",
       "reviews": 0,
@@ -3708,13 +3311,10 @@
       "name": "Veken 63\"x28\" Wider Large Standing Desk",
       "pct": 32,
       "rating": 4.2,
-      "t": 1793815270,
+      "t": 1793858998,
       "img": "https://m.media-amazon.com/images/I/71D8M0EB3ZL.jpg",
       "link": "https://www.amazon.com/dp/B0GSZ4H122?tag=zoepicks00-20",
-      "now": "149.98",
-      "was": "219.99",
-      "deal": "Limited time deal",
-      "reviews": 471,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -3770,13 +3370,10 @@
       "name": "NICETOWN Halloween Bathroom Blackout Thermal Curtains and…",
       "pct": 32,
       "rating": 4.6,
-      "t": 1793810760,
+      "t": 1793858998,
       "img": "https://m.media-amazon.com/images/I/71NViniZhKL.jpg",
       "link": "https://www.amazon.com/dp/B0BXKNJ5NF?tag=zoepicks00-20",
-      "now": "20.92",
-      "was": "30.95",
-      "deal": "Limited time deal",
-      "reviews": 134447,
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -3795,86 +3392,14 @@
       "link": "https://www.amazon.com/dp/B0C5M53FGF?tag=zoepicks00-20",
       "now": "29.98",
       "was": "39.99",
-      "reviews": 2425,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FDFH61KW",
-      "name": "75\" Tall Dimmable Arc Floor Lamp",
-      "pct": 26,
-      "rating": 4.1,
-      "t": 1793728409,
-      "img": "https://m.media-amazon.com/images/I/7176UxTcbgL.jpg",
-      "link": "https://www.amazon.com/dp/B0FDFH61KW?tag=zoepicks00-20",
-      "now": "39.98",
-      "was": "53.99",
-      "deal": "Limited time deal",
-      "reviews": 421,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GVK6G3C5",
-      "name": "61'' Vintage Floor Lamp",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793728409,
-      "img": "https://m.media-amazon.com/images/I/8107Q81P0UL.jpg",
-      "link": "https://www.amazon.com/dp/B0GVK6G3C5?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 58,
-      "tier": "premium"
+      "reviews": 2425
      }
     ]
    },
    {
     "key": "desks-small-spaces",
     "label": "Desks Small Spaces",
-    "items": [
-     {
-      "asin": "B0HMX3KLRX",
-      "name": "DUMOS 31.5\" Folding Computer Desk",
-      "pct": 16,
-      "rating": 4.7,
-      "t": 1793726367,
-      "img": "https://m.media-amazon.com/images/I/61f916L1PTL.jpg",
-      "link": "https://www.amazon.com/dp/B0HMX3KLRX?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "44.99",
-      "deal": "Limited time deal",
-      "reviews": 984,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DF2G3Q2G",
-      "name": "TEMI Small Computer Desk Folding Table",
-      "pct": 11,
-      "rating": 4.7,
-      "t": 1793726367,
-      "img": "https://m.media-amazon.com/images/I/71Mu1-DbHVL.jpg",
-      "link": "https://www.amazon.com/dp/B0DF2G3Q2G?tag=zoepicks00-20",
-      "now": "49.94",
-      "was": "55.96",
-      "deal": "Limited time deal",
-      "reviews": 1333,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H4Q6B27W",
-      "name": "XBurmo Folding Desk Foldable Table",
-      "pct": 11,
-      "rating": 4.5,
-      "t": 1793726367,
-      "img": "https://m.media-amazon.com/images/I/61cWHkDywNL.jpg",
-      "link": "https://www.amazon.com/dp/B0H4Q6B27W?tag=zoepicks00-20",
-      "now": "49.98",
-      "was": "55.98",
-      "deal": "Limited time deal",
-      "reviews": 61,
-      "tier": "premium"
-     }
-    ]
+    "items": []
    },
    {
     "key": "shoe-racks",
@@ -3892,13 +3417,10 @@
       "name": "Gaming Chair for Adults",
       "pct": 78,
       "rating": 4.7,
-      "t": 1793813358,
-      "img": "https://m.media-amazon.com/images/I/71dyvGvNo-L.jpg",
+      "t": 1793858928,
+      "img": "https://m.media-amazon.com/images/I/71y2AVO7kYL.jpg",
       "link": "https://www.amazon.com/dp/B0HLCFH9LS?tag=zoepicks00-20",
-      "now": "89.99",
-      "was": "399.99",
-      "deal": "Limited time deal",
-      "reviews": 743,
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -3906,13 +3428,10 @@
       "name": "Video Gaming Chair",
       "pct": 67,
       "rating": 4.6,
-      "t": 1793813358,
-      "img": "https://m.media-amazon.com/images/I/71-IHp2S-1L.jpg",
+      "t": 1793858929,
+      "img": "https://m.media-amazon.com/images/I/71hII+COCSL.jpg",
       "link": "https://www.amazon.com/dp/B0HJGH2KNZ?tag=zoepicks00-20",
-      "now": "89.99",
-      "was": "269.99",
-      "deal": "Limited time deal",
-      "reviews": 222,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -3920,10 +3439,13 @@
       "name": "GTPLAYER Gaming Chair",
       "pct": 41,
       "rating": 4.4,
-      "t": 1793772675,
+      "t": 1793813358,
       "img": "https://m.media-amazon.com/images/I/61phC8Ix9bL.jpg",
       "link": "https://www.amazon.com/dp/B08B12P6CS?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "99.99",
+      "was": "169.99",
+      "deal": "Limited time deal",
+      "reviews": 16855,
       "tier": "premium"
      }
     ]
@@ -3951,102 +3473,24 @@
       "name": "Ordtop 2.4GHz Wireless Gaming Headset",
       "pct": 60,
       "rating": 4.8,
-      "t": 1793772674,
+      "t": 1793858930,
       "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
       "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
      },
      {
-      "asin": "B098TVWSR8",
-      "name": "HyperX Cloud Flight",
-      "pct": 35,
-      "rating": 4.5,
+      "asin": "B0CJGV2DQT",
+      "name": "Sony INZONE H5 Wireless Over-Ear Gaming Headset PS5…",
+      "pct": 29,
+      "rating": 4.4,
       "t": 1793808794,
-      "img": "https://m.media-amazon.com/images/I/71JPttDoucL.jpg",
-      "link": "https://www.amazon.com/dp/B098TVWSR8?tag=zoepicks00-20",
-      "now": "78.00",
-      "was": "119.99",
-      "reviews": 735,
+      "img": "https://m.media-amazon.com/images/I/61o9z8zbaPL.jpg",
+      "link": "https://www.amazon.com/dp/B0CJGV2DQT?tag=zoepicks00-20",
+      "now": "128.00",
+      "was": "179.99",
+      "reviews": 381,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "game-console",
-    "label": "Game Console",
-    "items": [
-     {
-      "asin": "B0DHCZXX2V",
-      "name": "Tic-Tac-Toe Bolt Game",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1793810774,
-      "img": "https://m.media-amazon.com/images/I/61OkL-sUWEL.jpg",
-      "link": "https://www.amazon.com/dp/B0DHCZXX2V?tag=zoepicks00-20",
-      "now": "16.99",
-      "was": "19.99",
-      "reviews": 944,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0G92NL7WS",
-      "name": "KOQQQ Rechargeable Tic-Tac-Toe Bolt Game",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1793810774,
-      "img": "https://m.media-amazon.com/images/I/61mjIqXmLnL.jpg",
-      "link": "https://www.amazon.com/dp/B0G92NL7WS?tag=zoepicks00-20",
-      "now": "23.97",
-      "was": "29.99",
-      "reviews": 74,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F1MX275N",
-      "name": "URBONUR Gamer Queen Comforter Set",
-      "pct": 50,
-      "rating": 4.6,
-      "t": 1793810774,
-      "img": "https://m.media-amazon.com/images/I/71uFvvsmATL.jpg",
-      "link": "https://www.amazon.com/dp/B0F1MX275N?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 130,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "nintendo-switch-lite",
-    "label": "Nintendo Switch Lite",
-    "items": [
-     {
-      "asin": "B0CBNMWFQL",
-      "name": "PDP Afterglow Wave Wired RGB Gaming Controller",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1793808794,
-      "img": "https://m.media-amazon.com/images/I/61JmX3xq+PL.jpg",
-      "link": "https://www.amazon.com/dp/B0CBNMWFQL?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 423
-     },
-     {
-      "asin": "B0GVXJFN8G",
-      "name": "Nonbliep 2 Pack Wireless Controller",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1793808794,
-      "img": "https://m.media-amazon.com/images/I/71prtMS8H8L.jpg",
-      "link": "https://www.amazon.com/dp/B0GVXJFN8G?tag=zoepicks00-20",
-      "now": "23.89",
-      "was": "31.99",
-      "deal": "Limited time deal",
-      "reviews": 1283
      }
     ]
    },
@@ -4073,26 +3517,80 @@
       "name": "Lenovo Legion RGB Gaming in-Ear Headphones",
       "pct": 30,
       "rating": 4.0,
-      "t": 1793729918,
+      "t": 1793808794,
       "img": "https://m.media-amazon.com/images/I/51-MDuUp0IL.jpg",
       "link": "https://www.amazon.com/dp/B0CKW7ZGR1?tag=zoepicks00-20",
       "now": "48.99",
       "was": "69.99",
+      "deal": "Limited time deal",
       "reviews": 100,
       "tier": "mid"
      },
      {
-      "asin": "B0CJGV2DQT",
-      "name": "Sony INZONE H5 Wireless Over-Ear Gaming Headset PS5…",
-      "pct": 29,
-      "rating": 4.4,
+      "asin": "B0B1SXW7LB",
+      "name": "Sony INZONE H3 Wired Over-Ear Gaming Headset",
+      "pct": 43,
+      "rating": 4.2,
       "t": 1793808794,
-      "img": "https://m.media-amazon.com/images/I/61o9z8zbaPL.jpg",
-      "link": "https://www.amazon.com/dp/B0CJGV2DQT?tag=zoepicks00-20",
-      "now": "128.00",
-      "was": "179.99",
-      "reviews": 381,
+      "img": "https://m.media-amazon.com/images/I/61N9rbal60L.jpg",
+      "link": "https://www.amazon.com/dp/B0B1SXW7LB?tag=zoepicks00-20",
+      "now": "68.00",
+      "was": "119.99",
+      "deal": "Limited time deal",
+      "reviews": 963,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "nintendo-switch-lite",
+    "label": "Nintendo Switch Lite",
+    "items": [
+     {
+      "asin": "B0CBNMWFQL",
+      "name": "PDP Afterglow Wave Wired RGB Gaming Controller",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1793808794,
+      "img": "https://m.media-amazon.com/images/I/61JmX3xq+PL.jpg",
+      "link": "https://www.amazon.com/dp/B0CBNMWFQL?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 423,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GVXJFN8G",
+      "name": "Nonbliep 2 Pack Wireless Controller",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1793808794,
+      "img": "https://m.media-amazon.com/images/I/71prtMS8H8L.jpg",
+      "link": "https://www.amazon.com/dp/B0GVXJFN8G?tag=zoepicks00-20",
+      "now": "23.89",
+      "was": "31.99",
+      "deal": "Limited time deal",
+      "reviews": 1283
+     }
+    ]
+   },
+   {
+    "key": "gaming-controllers",
+    "label": "Gaming Controllers",
+    "items": [
+     {
+      "asin": "B0HHMQ67GX",
+      "name": "Gamrombo Wired Controller",
+      "pct": 32,
+      "rating": 4.0,
+      "t": 1793808794,
+      "img": "https://m.media-amazon.com/images/I/61BZ3sMC4tL.jpg",
+      "link": "https://www.amazon.com/dp/B0HHMQ67GX?tag=zoepicks00-20",
+      "now": "33.98",
+      "was": "49.98",
+      "deal": "Limited time deal",
+      "reviews": 1445
      }
     ]
    },
@@ -4140,6 +3638,52 @@
       "was": "119.99",
       "deal": "Limited time deal",
       "reviews": 139,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "game-console",
+    "label": "Game Console",
+    "items": [
+     {
+      "asin": "B0DHCZXX2V",
+      "name": "Tic-Tac-Toe Bolt Game",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1793810774,
+      "img": "https://m.media-amazon.com/images/I/61OkL-sUWEL.jpg",
+      "link": "https://www.amazon.com/dp/B0DHCZXX2V?tag=zoepicks00-20",
+      "now": "16.99",
+      "was": "19.99",
+      "reviews": 944,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0G92NL7WS",
+      "name": "KOQQQ Rechargeable Tic-Tac-Toe Bolt Game",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1793810774,
+      "img": "https://m.media-amazon.com/images/I/61mjIqXmLnL.jpg",
+      "link": "https://www.amazon.com/dp/B0G92NL7WS?tag=zoepicks00-20",
+      "now": "23.97",
+      "was": "29.99",
+      "reviews": 74,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HG8SXSZT",
+      "name": "3.5 Inch Handheld Game Console",
+      "pct": 17,
+      "rating": 4.7,
+      "t": 1793810774,
+      "img": "https://m.media-amazon.com/images/I/71foy1cSMAL.jpg",
+      "link": "https://www.amazon.com/dp/B0HG8SXSZT?tag=zoepicks00-20",
+      "now": "24.98",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 23,
       "tier": "premium"
      }
     ]
@@ -4224,11 +3768,6 @@
     "key": "game-controller",
     "label": "Game Controller",
     "items": []
-   },
-   {
-    "key": "gaming-controllers",
-    "label": "Gaming Controllers",
-    "items": []
    }
   ],
   "hobby_music": [
@@ -4241,24 +3780,24 @@
       "name": "JLab Go Talk USB-C Microphone",
       "pct": 56,
       "rating": 4.0,
-      "t": 1793772688,
+      "t": 1793859008,
       "img": "https://m.media-amazon.com/images/I/8170N5qtf5L.jpg",
       "link": "https://www.amazon.com/dp/B0BCXF3T1W?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
      },
      {
-      "asin": "B0H3Q19N47",
-      "name": "SONEVOX NeoMic Mini Wireless Microphone",
-      "pct": 40,
-      "rating": 4.8,
+      "asin": "B0DQ5CWB2X",
+      "name": "MAONO Dynamic Microphone-XLR USB Podcast Recording Mic",
+      "pct": 32,
+      "rating": 4.6,
       "t": 1793808885,
-      "img": "https://m.media-amazon.com/images/I/712qjEX4WJL.jpg",
-      "link": "https://www.amazon.com/dp/B0H3Q19N47?tag=zoepicks00-20",
-      "now": "29.97",
-      "was": "49.99",
+      "img": "https://m.media-amazon.com/images/I/71JhS27ARaL.jpg",
+      "link": "https://www.amazon.com/dp/B0DQ5CWB2X?tag=zoepicks00-20",
+      "now": "87.98",
+      "was": "129.99",
       "deal": "Limited time deal",
-      "reviews": 250,
+      "reviews": 360,
       "tier": "mid"
      },
      {
@@ -4299,7 +3838,7 @@
       "name": "Brother XM2701 27-Stitch Sewing Machine",
       "pct": 28,
       "rating": 4.7,
-      "t": 1793772690,
+      "t": 1793859009,
       "img": "https://m.media-amazon.com/images/I/61e-VR8mqvL.jpg",
       "link": "https://www.amazon.com/dp/B0GXX5LNVQ?tag=zoepicks00-20",
       "reviews": 0,
@@ -4310,7 +3849,7 @@
       "name": "Brother CS5055 Computerized Sewing Machine",
       "pct": 21,
       "rating": 4.6,
-      "t": 1793772691,
+      "t": 1793859010,
       "img": "https://m.media-amazon.com/images/I/51BELIRHpIL.jpg",
       "link": "https://www.amazon.com/dp/B08BGB5GPZ?tag=zoepicks00-20",
       "reviews": 0,
@@ -4345,31 +3884,28 @@
     "label": "Vacuums",
     "items": [
      {
-      "asin": "B0HB4F28VM",
-      "name": "Evekas Handheld Vacuum Cordless",
-      "pct": 40,
-      "rating": 4.9,
-      "t": 1793728502,
-      "img": "https://m.media-amazon.com/images/I/71+csgexeSL.jpg",
-      "link": "https://www.amazon.com/dp/B0HB4F28VM?tag=zoepicks00-20",
-      "now": "35.98",
-      "was": "59.99",
+      "asin": "B09ZKSM4SV",
+      "name": "BJPKPK 64oz Insulated Water Bottle",
+      "pct": 28,
+      "rating": 4.2,
+      "t": 1793813320,
+      "img": "https://m.media-amazon.com/images/I/71WCPJLLyJL.jpg",
+      "link": "https://www.amazon.com/dp/B09ZKSM4SV?tag=zoepicks00-20",
+      "now": "20.93",
+      "was": "28.99",
       "deal": "Limited time deal",
-      "reviews": 96,
+      "reviews": 4326,
       "tier": "budget"
      },
      {
-      "asin": "B0H82LC1DN",
-      "name": "BSRCO Car Vacuum Portable Cordless",
-      "pct": 73,
-      "rating": 4.8,
-      "t": 1793728502,
-      "img": "https://m.media-amazon.com/images/I/61xdb5QRHdL.jpg",
-      "link": "https://www.amazon.com/dp/B0H82LC1DN?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 105,
+      "asin": "B0HDTWN22Q",
+      "name": "Synvox Vacuum Sealer",
+      "pct": 60,
+      "rating": 4.9,
+      "t": 1793858960,
+      "img": "https://m.media-amazon.com/images/I/71t-Ag1l03L.jpg",
+      "link": "https://www.amazon.com/dp/B0HDTWN22Q?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -4397,7 +3933,7 @@
       "name": "100% Pure Titanium Cutting Board Set of 3",
       "pct": 55,
       "rating": 4.4,
-      "t": 1793772607,
+      "t": 1793858954,
       "img": "https://m.media-amazon.com/images/I/717f3e128SL.jpg",
       "link": "https://www.amazon.com/dp/B0GHSN56DV?tag=zoepicks00-20",
       "reviews": 0
@@ -4421,6 +3957,18 @@
     "label": "Knife Set",
     "items": [
      {
+      "asin": "B0H97S179Q",
+      "name": "YOTSUBA 15-Piece Stainless Steel Knife Set",
+      "pct": 53,
+      "rating": 4.7,
+      "t": 1793858919,
+      "img": "https://m.media-amazon.com/images/I/712iyp4Mm8L.jpg",
+      "link": "https://www.amazon.com/dp/B0H97S179Q?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "169.99",
+      "reviews": 715
+     },
+     {
       "asin": "B0GWJ4HR58",
       "name": "RAXCO 15-Piece Kitchen Knife Set",
       "pct": 36,
@@ -4430,33 +3978,7 @@
       "link": "https://www.amazon.com/dp/B0GWJ4HR58?tag=zoepicks00-20",
       "now": "31.97",
       "was": "49.99",
-      "reviews": 222,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GG9D9CLY",
-      "name": "Knife Set, Kitchen Knives Set",
-      "pct": 38,
-      "rating": 4.8,
-      "t": 1793726386,
-      "img": "https://m.media-amazon.com/images/I/71zul+KzoRL.jpg",
-      "link": "https://www.amazon.com/dp/B0GG9D9CLY?tag=zoepicks00-20",
-      "now": "49.96",
-      "was": "79.98",
-      "deal": "Limited time deal",
-      "reviews": 123,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H97S179Q",
-      "name": "YOTSUBA 15-Piece Stainless Steel Knife Set",
-      "pct": 53,
-      "rating": 4.7,
-      "t": 1793772185,
-      "img": "https://m.media-amazon.com/images/I/712iyp4Mm8L.jpg",
-      "link": "https://www.amazon.com/dp/B0H97S179Q?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 222
      }
     ]
    },
@@ -4482,13 +4004,10 @@
       "name": "URBONUR Gamer Queen Comforter Set",
       "pct": 50,
       "rating": 4.6,
-      "t": 1793810774,
+      "t": 1793858930,
       "img": "https://m.media-amazon.com/images/I/71uFvvsmATL.jpg",
       "link": "https://www.amazon.com/dp/B0F1MX275N?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 130,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -4516,7 +4035,7 @@
       "name": "atatix Espresso Machine",
       "pct": 47,
       "rating": 4.1,
-      "t": 1793772185,
+      "t": 1793858842,
       "img": "https://m.media-amazon.com/images/I/71Bfk02z-lL.jpg",
       "link": "https://www.amazon.com/dp/B0DP1WXVK8?tag=zoepicks00-20",
       "reviews": 0
@@ -4545,13 +4064,10 @@
       "name": "Chefman Air Fryer – 4 QT Compact Airfryer",
       "pct": 42,
       "rating": 4.6,
-      "t": 1793809030,
+      "t": 1793858843,
       "img": "https://m.media-amazon.com/images/I/71Ld+1SBc5L.jpg",
       "link": "https://www.amazon.com/dp/B0CNY1F31S?tag=zoepicks00-20",
-      "now": "57.91",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 4124,
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -4559,13 +4075,10 @@
       "name": "Ninja Air Fryer XL",
       "pct": 44,
       "rating": 4.7,
-      "t": 1793809030,
+      "t": 1793858842,
       "img": "https://m.media-amazon.com/images/I/61TH-Ig6i-L.jpg",
       "link": "https://www.amazon.com/dp/B0CS3V8M9H?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "179.99",
-      "deal": "Limited time deal",
-      "reviews": 11209,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -4573,10 +4086,13 @@
       "name": "Ninja® Flip Toaster Oven & Air Fryer",
       "pct": 44,
       "rating": 4.3,
-      "t": 1793772186,
+      "t": 1793809030,
       "img": "https://m.media-amazon.com/images/I/81wOCABev4L.jpg",
       "link": "https://www.amazon.com/dp/B0D1CXL52G?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "139.99",
+      "was": "249.99",
+      "deal": "Limited time deal",
+      "reviews": 2213,
       "tier": "premium"
      }
     ]
@@ -4604,13 +4120,10 @@
       "name": "Ninja BC151NV Blast Portable Blender",
       "pct": 43,
       "rating": 4.2,
-      "t": 1793809030,
+      "t": 1793858843,
       "img": "https://m.media-amazon.com/images/I/71mq2bihOPL.jpg",
       "link": "https://www.amazon.com/dp/B0C2FF74J6?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 14430,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -4770,53 +4283,6 @@
     ]
    },
    {
-    "key": "space-heaters",
-    "label": "Space Heaters",
-    "items": [
-     {
-      "asin": "B0FFRR3FTC",
-      "name": "Space Heater for Indoor Use",
-      "pct": 38,
-      "rating": 4.3,
-      "t": 1793728597,
-      "img": "https://m.media-amazon.com/images/I/61mdEo1MlCL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFRR3FTC?tag=zoepicks00-20",
-      "now": "24.98",
-      "was": "39.99",
-      "deal": "Limited time deal",
-      "reviews": 1143,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HGDTZ8HB",
-      "name": "OLIXIS 24\" Space Heater",
-      "pct": 17,
-      "rating": 4.4,
-      "t": 1793728597,
-      "img": "https://m.media-amazon.com/images/I/61D+ufAZ92L.jpg",
-      "link": "https://www.amazon.com/dp/B0HGDTZ8HB?tag=zoepicks00-20",
-      "now": "39.95",
-      "was": "47.99",
-      "deal": "Limited time deal",
-      "reviews": 154,
-      "tier": "mid"
-     },
-     {
-      "asin": "B08KSJZW4T",
-      "name": "Lasko 16\" Ceramic Space Heater",
-      "pct": 18,
-      "rating": 4.3,
-      "t": 1793733802,
-      "img": "https://m.media-amazon.com/images/I/71EBfQdyo-L.jpg",
-      "link": "https://www.amazon.com/dp/B08KSJZW4T?tag=zoepicks00-20",
-      "now": "49.48",
-      "was": "59.99",
-      "reviews": 7766,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "cookware-set",
     "label": "Cookware Set",
     "items": [
@@ -4854,17 +4320,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0H2S35RHL",
-      "name": "14-Piece Black Kitchen Knife Block Set",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1793726386,
-      "img": "https://m.media-amazon.com/images/I/717--udEbzL.jpg",
-      "link": "https://www.amazon.com/dp/B0H2S35RHL?tag=zoepicks00-20",
-      "now": "26.99",
-      "was": "39.99",
+      "asin": "B00JAP44MQ",
+      "name": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Inch…",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1793809030,
+      "img": "https://m.media-amazon.com/images/I/61M7ZCmmttL.jpg",
+      "link": "https://www.amazon.com/dp/B00JAP44MQ?tag=zoepicks00-20",
+      "now": "34.49",
+      "was": "49.95",
       "deal": "Limited time deal",
-      "reviews": 121,
+      "reviews": 1595,
       "tier": "mid"
      },
      {
@@ -5139,24 +4605,6 @@
     ]
    },
    {
-    "key": "stanley-lunch-box",
-    "label": "Stanley Lunch Box",
-    "items": [
-     {
-      "asin": "B0H4854SJM",
-      "name": "STANLEY ALL Day Lunch Box",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793728431,
-      "img": "https://m.media-amazon.com/images/I/61qHv4kFr9L.jpg",
-      "link": "https://www.amazon.com/dp/B0H4854SJM?tag=zoepicks00-20",
-      "now": "33.75",
-      "was": "45.00",
-      "reviews": 1066
-     }
-    ]
-   },
-   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": [
@@ -5199,6 +4647,36 @@
       "was": "65.99",
       "reviews": 750,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "space-heaters",
+    "label": "Space Heaters",
+    "items": [
+     {
+      "asin": "B08KSJZW4T",
+      "name": "Lasko 16\" Ceramic Space Heater",
+      "pct": 18,
+      "rating": 4.3,
+      "t": 1793733802,
+      "img": "https://m.media-amazon.com/images/I/71EBfQdyo-L.jpg",
+      "link": "https://www.amazon.com/dp/B08KSJZW4T?tag=zoepicks00-20",
+      "now": "49.48",
+      "was": "59.99",
+      "reviews": 7766
+     },
+     {
+      "asin": "B0FJF8JM1W",
+      "name": "Ballu Mica Infrared Panel Space Heater",
+      "pct": 12,
+      "rating": 4.2,
+      "t": 1793813452,
+      "img": "https://m.media-amazon.com/images/I/91S2iwvR44L.jpg",
+      "link": "https://www.amazon.com/dp/B0FJF8JM1W?tag=zoepicks00-20",
+      "now": "184.99",
+      "was": "209.99",
+      "reviews": 155
      }
     ]
    },
@@ -5259,15 +4737,20 @@
       "name": "DREO Whole Room Heater",
       "pct": 10,
       "rating": 4.5,
-      "t": 1793728597,
+      "t": 1793840528,
       "img": "https://m.media-amazon.com/images/I/71KWpKRfylL.jpg",
       "link": "https://www.amazon.com/dp/B0FN4B5KB7?tag=zoepicks00-20",
       "now": "89.95",
       "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 873
+      "reviews": 877
      }
     ]
+   },
+   {
+    "key": "stanley-lunch-box",
+    "label": "Stanley Lunch Box",
+    "items": []
    },
    {
     "key": "stove-pressure-cooker",
@@ -5301,17 +4784,17 @@
     "label": "Laptops",
     "items": [
      {
-      "asin": "B0HFHRZC72",
-      "name": "Cybotioe Laptop Screen Extender",
-      "pct": 36,
-      "rating": 4.8,
-      "t": 1793809430,
-      "img": "https://m.media-amazon.com/images/I/81QafI8cP4L.jpg",
-      "link": "https://www.amazon.com/dp/B0HFHRZC72?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "139.99",
+      "asin": "B082V7PWD1",
+      "name": "TECKNET Bluetooth Mouse",
+      "pct": 46,
+      "rating": 4.4,
+      "t": 1793809171,
+      "img": "https://m.media-amazon.com/images/I/51kJ8n9GqyL.jpg",
+      "link": "https://www.amazon.com/dp/B082V7PWD1?tag=zoepicks00-20",
+      "now": "11.98",
+      "was": "21.99",
       "deal": "Limited time deal",
-      "reviews": 50,
+      "reviews": 11764,
       "tier": "budget"
      },
      {
@@ -5319,7 +4802,7 @@
       "name": "Blackview Laptop Screen Extender",
       "pct": 41,
       "rating": 4.8,
-      "t": 1793772693,
+      "t": 1793859011,
       "img": "https://m.media-amazon.com/images/I/819dtX42R6L.jpg",
       "link": "https://www.amazon.com/dp/B0GS543DCX?tag=zoepicks00-20",
       "reviews": 0,
@@ -5421,64 +4904,61 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HCBLKPBP",
-      "name": "taopodo Smart Watches",
-      "pct": 69,
+      "asin": "B0HML23GWM",
+      "name": "Fitness Tracker, Smart Watches",
+      "pct": 60,
       "rating": 4.9,
-      "t": 1793809258,
-      "img": "https://m.media-amazon.com/images/I/71S8KhDAbyL.jpg",
-      "link": "https://www.amazon.com/dp/B0HCBLKPBP?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 95,
+      "t": 1793858888,
+      "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
+      "link": "https://www.amazon.com/dp/B0HML23GWM?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
    },
    {
-    "key": "iphones",
-    "label": "iPhones",
+    "key": "smartphones",
+    "label": "Smartphones",
     "items": [
      {
-      "asin": "B0H4T9F3CH",
-      "name": "Smart Watch for Women Men",
-      "pct": 54,
-      "rating": 4.4,
+      "asin": "B0BNVM4DG3",
+      "name": "Colesma Shining Women Smart Watch",
+      "pct": 50,
+      "rating": 4.1,
       "t": 1793809258,
-      "img": "https://m.media-amazon.com/images/I/71FZbmcLhnL.jpg",
-      "link": "https://www.amazon.com/dp/B0H4T9F3CH?tag=zoepicks00-20",
-      "now": "30.09",
-      "was": "65.99",
+      "img": "https://m.media-amazon.com/images/I/91uX0Vj0+BL.jpg",
+      "link": "https://www.amazon.com/dp/B0BNVM4DG3?tag=zoepicks00-20",
+      "now": "24.99",
+      "was": "49.99",
       "deal": "Limited time deal",
-      "reviews": 203,
+      "reviews": 55,
       "tier": "budget"
      },
      {
-      "asin": "B0HFJ6MRBV",
-      "name": "Smart Watches for Women Android& iPhone",
-      "pct": 15,
-      "rating": 4.0,
-      "t": 1793729894,
-      "img": "https://m.media-amazon.com/images/I/81Jb8uiiciL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFJ6MRBV?tag=zoepicks00-20",
-      "now": "39.89",
-      "was": "46.93",
-      "reviews": 203,
+      "asin": "B0C89T698J",
+      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793752005,
+      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
+      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
+      "now": "51.99",
+      "was": "64.99",
+      "reviews": 3835,
       "tier": "mid"
      },
      {
-      "asin": "B0H7WZMPZ5",
-      "name": "Smart Watch for Women",
-      "pct": 39,
-      "rating": 4.5,
-      "t": 1793809258,
-      "img": "https://m.media-amazon.com/images/I/81TDGtIHSJL.jpg",
-      "link": "https://www.amazon.com/dp/B0H7WZMPZ5?tag=zoepicks00-20",
-      "now": "48.99",
-      "was": "79.98",
+      "asin": "B0FBRQKXJX",
+      "name": "OffiGo 55\" L Shaped Electric Standing Desk",
+      "pct": 17,
+      "rating": 4.4,
+      "t": 1793815270,
+      "img": "https://m.media-amazon.com/images/I/71M7sThU4JL.jpg",
+      "link": "https://www.amazon.com/dp/B0FBRQKXJX?tag=zoepicks00-20",
+      "now": "249.98",
+      "was": "299.99",
       "deal": "Limited time deal",
-      "reviews": 226,
+      "reviews": 151,
       "tier": "premium"
      }
     ]
@@ -5531,47 +5011,48 @@
     ]
    },
    {
-    "key": "smartphones",
-    "label": "Smartphones",
+    "key": "iphones",
+    "label": "iPhones",
     "items": [
      {
-      "asin": "B0FJ1QXW8X",
-      "name": "BoyKeep 2K Cameras",
-      "pct": 35,
-      "rating": 4.1,
-      "t": 1793810932,
-      "img": "https://m.media-amazon.com/images/I/71q9zIjJ7sL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJ1QXW8X?tag=zoepicks00-20",
-      "now": "25.98",
-      "was": "39.99",
-      "reviews": 366,
+      "asin": "B0HBPZGLKT",
+      "name": "wedaniya Wireless Mini Microphone",
+      "pct": 29,
+      "rating": 4.3,
+      "t": 1793808885,
+      "img": "https://m.media-amazon.com/images/I/71jTw5DLzNL.jpg",
+      "link": "https://www.amazon.com/dp/B0HBPZGLKT?tag=zoepicks00-20",
+      "now": "21.24",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 580,
       "tier": "budget"
      },
      {
-      "asin": "B0C89T698J",
-      "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1793752005,
-      "img": "https://m.media-amazon.com/images/I/61Yc634u-EL.jpg",
-      "link": "https://www.amazon.com/dp/B0C89T698J?tag=zoepicks00-20",
-      "now": "51.99",
-      "was": "64.99",
-      "reviews": 3835,
+      "asin": "B0HFJ6MRBV",
+      "name": "Smart Watches for Women Android& iPhone",
+      "pct": 15,
+      "rating": 4.0,
+      "t": 1793809258,
+      "img": "https://m.media-amazon.com/images/I/81Jb8uiiciL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFJ6MRBV?tag=zoepicks00-20",
+      "now": "39.89",
+      "was": "46.93",
+      "reviews": 204,
       "tier": "mid"
      },
      {
-      "asin": "B0FBRQKXJX",
-      "name": "OffiGo 55\" L Shaped Electric Standing Desk",
-      "pct": 17,
-      "rating": 4.4,
-      "t": 1793815270,
-      "img": "https://m.media-amazon.com/images/I/71M7sThU4JL.jpg",
-      "link": "https://www.amazon.com/dp/B0FBRQKXJX?tag=zoepicks00-20",
-      "now": "249.98",
-      "was": "299.99",
+      "asin": "B0H8SDLPSY",
+      "name": "Smart Watches for Women",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1793809258,
+      "img": "https://m.media-amazon.com/images/I/81IsFi38IeL.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SDLPSY?tag=zoepicks00-20",
+      "now": "47.38",
+      "was": "69.99",
       "deal": "Limited time deal",
-      "reviews": 151,
+      "reviews": 1222,
       "tier": "premium"
      }
     ]
@@ -5606,13 +5087,10 @@
       "name": "4K@120Hz USB-C KVM Switch 2 Monitors 2 Computers…",
       "pct": 33,
       "rating": 4.5,
-      "t": 1793809430,
+      "t": 1793859013,
       "img": "https://m.media-amazon.com/images/I/61DXsAGw5+L.jpg",
       "link": "https://www.amazon.com/dp/B0HKMWHYY5?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 51,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -5636,17 +5114,17 @@
     "label": "Gaming Monitors",
     "items": [
      {
-      "asin": "B0F7NY3VLM",
-      "name": "Sceptre New 24-inch Gaming Monitor 100Hz FreeSync 2X HDMI…",
-      "pct": 33,
-      "rating": 4.5,
-      "t": 1793809430,
-      "img": "https://m.media-amazon.com/images/I/61WNk9tHWPL.jpg",
-      "link": "https://www.amazon.com/dp/B0F7NY3VLM?tag=zoepicks00-20",
-      "now": "79.97",
-      "was": "119.97",
+      "asin": "B0DB24JMTN",
+      "name": "Computer Speakers, 2 in 1 PC Speaker ",
+      "pct": 38,
+      "rating": 4.3,
+      "t": 1793809171,
+      "img": "https://m.media-amazon.com/images/I/71G5z97pc9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DB24JMTN?tag=zoepicks00-20",
+      "now": "24.96",
+      "was": "39.99",
       "deal": "Limited time deal",
-      "reviews": 194,
+      "reviews": 923,
       "tier": "budget"
      },
      {
@@ -5654,7 +5132,7 @@
       "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
       "pct": 40,
       "rating": 4.6,
-      "t": 1793772694,
+      "t": 1793859012,
       "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
       "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
       "reviews": 0,
@@ -5728,45 +5206,44 @@
     "label": "Portable Monitors",
     "items": [
      {
-      "asin": "B0HFHRZC72",
-      "name": "Cybotioe Laptop Screen Extender",
-      "pct": 36,
-      "rating": 4.8,
+      "asin": "B0H5JTK855",
+      "name": "Laptop Screen Extender 15.6\"",
+      "pct": 33,
+      "rating": 4.3,
       "t": 1793809430,
-      "img": "https://m.media-amazon.com/images/I/81QafI8cP4L.jpg",
-      "link": "https://www.amazon.com/dp/B0HFHRZC72?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "139.99",
-      "deal": "Limited time deal",
-      "reviews": 50,
+      "img": "https://m.media-amazon.com/images/I/81DQkZHF++L.jpg",
+      "link": "https://www.amazon.com/dp/B0H5JTK855?tag=zoepicks00-20",
+      "now": "119.99",
+      "was": "179.96",
+      "reviews": 111,
       "tier": "budget"
      },
      {
-      "asin": "B0HFK7YYX7",
-      "name": "15.6\" Laptop Screen Extender",
-      "pct": 33,
-      "rating": 4.7,
-      "t": 1793809430,
-      "img": "https://m.media-amazon.com/images/I/71rZob-r7kL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFK7YYX7?tag=zoepicks00-20",
-      "now": "119.98",
-      "was": "179.98",
+      "asin": "B0H7RJTF3G",
+      "name": "14\" Laptop Screen Extender",
+      "pct": 28,
+      "rating": 4.8,
+      "t": 1793809171,
+      "img": "https://m.media-amazon.com/images/I/71xVKNMjrtL.jpg",
+      "link": "https://www.amazon.com/dp/B0H7RJTF3G?tag=zoepicks00-20",
+      "now": "179.97",
+      "was": "249.99",
       "deal": "Limited time deal",
-      "reviews": 84,
+      "reviews": 47,
       "tier": "mid"
      },
      {
-      "asin": "B0H448Q86C",
-      "name": "sharanix 15.6\" Laptop Screen Extender",
+      "asin": "B0H25VMK6H",
+      "name": "15.6\" Laptop Screen Extender",
       "pct": 30,
-      "rating": 4.3,
+      "rating": 4.4,
       "t": 1793809430,
-      "img": "https://m.media-amazon.com/images/I/711qdFQM5OL.jpg",
-      "link": "https://www.amazon.com/dp/B0H448Q86C?tag=zoepicks00-20",
-      "now": "211.18",
-      "was": "299.99",
+      "img": "https://m.media-amazon.com/images/I/71fwP0WYddL.jpg",
+      "link": "https://www.amazon.com/dp/B0H25VMK6H?tag=zoepicks00-20",
+      "now": "189.99",
+      "was": "269.99",
       "deal": "Limited time deal",
-      "reviews": 272,
+      "reviews": 169,
       "tier": "premium"
      }
     ]
@@ -5870,7 +5347,7 @@
       "name": "Brother DS-640 Compact Mobile Document Scanner",
       "pct": 17,
       "rating": 4.3,
-      "t": 1793772701,
+      "t": 1793859026,
       "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
       "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
       "reviews": 0,
@@ -5917,52 +5394,6 @@
   ],
   "other": [
    {
-    "key": "ice-maker",
-    "label": "Ice Maker",
-    "items": [
-     {
-      "asin": "B0F42MT8JX",
-      "name": "Antarctic Star Countertop Ice Maker Machine",
-      "pct": 20,
-      "rating": 4.1,
-      "t": 1793726234,
-      "img": "https://m.media-amazon.com/images/I/71-5YmYfsAL.jpg",
-      "link": "https://www.amazon.com/dp/B0F42MT8JX?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "74.99",
-      "deal": "Limited time deal",
-      "reviews": 4180,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HG96HJRL",
-      "name": "SenCre Nugget Ice Maker Countertop 40Lbs/24H Soft Chewable…",
-      "pct": 57,
-      "rating": 4.8,
-      "t": 1793726234,
-      "img": "https://m.media-amazon.com/images/I/71vL9Hg0wVL.jpg",
-      "link": "https://www.amazon.com/dp/B0HG96HJRL?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "469.99",
-      "reviews": 25,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GXB6RW6S",
-      "name": "EUHOMY Under Counter Nugget Ice Maker Machine",
-      "pct": 18,
-      "rating": 4.2,
-      "t": 1793733795,
-      "img": "https://m.media-amazon.com/images/I/71rk7da3JiL.jpg",
-      "link": "https://www.amazon.com/dp/B0GXB6RW6S?tag=zoepicks00-20",
-      "now": "899.96",
-      "was": "1,099.99",
-      "reviews": 727,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "luggage-sets",
     "label": "Luggage Sets",
     "items": [
@@ -5977,35 +5408,20 @@
       "now": "99.98",
       "was": "139.99",
       "reviews": 1420,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HLZT9CWW",
-      "name": "LONG VACATION Luggage Sets 3 Piece",
-      "pct": 31,
-      "rating": 4.7,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/71NQaOwwjHL.jpg",
-      "link": "https://www.amazon.com/dp/B0HLZT9CWW?tag=zoepicks00-20",
-      "now": "109.99",
-      "was": "159.99",
-      "deal": "Limited time deal",
-      "reviews": 44,
       "tier": "mid"
      },
      {
-      "asin": "B0GGGMPZQM",
-      "name": "Joyway 3 Piece Luggage Set",
-      "pct": 31,
-      "rating": 4.3,
-      "t": 1793728481,
-      "img": "https://m.media-amazon.com/images/I/81QpCYowN7L.jpg",
-      "link": "https://www.amazon.com/dp/B0GGGMPZQM?tag=zoepicks00-20",
-      "now": "159.48",
-      "was": "229.99",
+      "asin": "B0BMTCSRSB",
+      "name": "Coolife Luggage Set Hardside Suitcase,5…",
+      "pct": 26,
+      "rating": 4.6,
+      "t": 1793808445,
+      "img": "https://m.media-amazon.com/images/I/61HNqg1Z2fL.jpg",
+      "link": "https://www.amazon.com/dp/B0BMTCSRSB?tag=zoepicks00-20",
+      "now": "126.98",
+      "was": "171.99",
       "deal": "Limited time deal",
-      "reviews": 49,
-      "tier": "premium"
+      "reviews": 1815
      }
     ]
    },
@@ -6018,22 +5434,21 @@
       "name": "Wild Republic Cuddlekins Mini Elk Stuffed Animal",
       "pct": 25,
       "rating": 4.7,
-      "t": 1793772588,
+      "t": 1793858936,
       "img": "https://m.media-amazon.com/images/I/81-B72fAk8L.jpg",
       "link": "https://www.amazon.com/dp/B00705XBMC?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
      },
      {
       "asin": "B0BY3JJPQL",
       "name": "Lilly's Love Weighted Stuffed Animals",
       "pct": 15,
       "rating": 4.6,
-      "t": 1793810945,
+      "t": 1793858937,
       "img": "https://m.media-amazon.com/images/I/81Ze-n1vrpL.jpg",
       "link": "https://www.amazon.com/dp/B0BY3JJPQL?tag=zoepicks00-20",
-      "now": "32.29",
-      "was": "37.99",
-      "reviews": 1416
+      "reviews": 0
      }
     ]
    },
@@ -6072,16 +5487,17 @@
     "label": "Fireproof Safes",
     "items": [
      {
-      "asin": "B0G4MS55B8",
-      "name": "Fireproof Document Box",
-      "pct": 16,
-      "rating": 4.5,
+      "asin": "B0FG2YG3R5",
+      "name": "ADIMO Safe Box with Fireproof Waterproof Money Bag",
+      "pct": 11,
+      "rating": 4.3,
       "t": 1793813420,
-      "img": "https://m.media-amazon.com/images/I/81wadF2fsPL.jpg",
-      "link": "https://www.amazon.com/dp/B0G4MS55B8?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "44.99",
-      "reviews": 258,
+      "img": "https://m.media-amazon.com/images/I/81dVT30q1UL.jpg",
+      "link": "https://www.amazon.com/dp/B0FG2YG3R5?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "89.98",
+      "deal": "Limited time deal",
+      "reviews": 46,
       "tier": "budget"
      },
      {
@@ -6111,6 +5527,34 @@
       "deal": "Limited time deal",
       "reviews": 44,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "ice-maker",
+    "label": "Ice Maker",
+    "items": [
+     {
+      "asin": "B0F42MT8JX",
+      "name": "Antarctic Star Countertop Ice Maker Machine",
+      "pct": 20,
+      "rating": 4.1,
+      "t": 1793858936,
+      "img": "https://m.media-amazon.com/images/I/71-5YmYfsAL.jpg",
+      "link": "https://www.amazon.com/dp/B0F42MT8JX?tag=zoepicks00-20",
+      "reviews": 0
+     },
+     {
+      "asin": "B0GXB6RW6S",
+      "name": "EUHOMY Under Counter Nugget Ice Maker Machine",
+      "pct": 18,
+      "rating": 4.2,
+      "t": 1793733795,
+      "img": "https://m.media-amazon.com/images/I/71rk7da3JiL.jpg",
+      "link": "https://www.amazon.com/dp/B0GXB6RW6S?tag=zoepicks00-20",
+      "now": "899.96",
+      "was": "1,099.99",
+      "reviews": 727
      }
     ]
    },
@@ -6221,68 +5665,6 @@
   ],
   "pets": [
    {
-    "key": "cat-litter",
-    "label": "Cat Litter",
-    "items": [
-     {
-      "asin": "B004JLTJW6",
-      "name": "World's Best Cat Litter",
-      "pct": 34,
-      "rating": 4.4,
-      "t": 1793772199,
-      "img": "https://m.media-amazon.com/images/I/716mCML+goL.jpg",
-      "link": "https://www.amazon.com/dp/B004JLTJW6?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GCM827V5",
-      "name": "FUKUMARU Tofu Cat Litter",
-      "pct": 13,
-      "rating": 4.3,
-      "t": 1793810173,
-      "img": "https://m.media-amazon.com/images/I/81SYqHqGB9L.jpg",
-      "link": "https://www.amazon.com/dp/B0GCM827V5?tag=zoepicks00-20",
-      "now": "19.79",
-      "was": "22.79",
-      "deal": "Limited time deal",
-      "reviews": 1764,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0C1FRMCR6",
-      "name": "JINXUANTANG XL Cat Litter Box: High-Sided Anti-Urine Leakage",
-      "pct": 35,
-      "rating": 4.7,
-      "t": 1793810173,
-      "img": "https://m.media-amazon.com/images/I/71SPKtiPQFL.jpg",
-      "link": "https://www.amazon.com/dp/B0C1FRMCR6?tag=zoepicks00-20",
-      "now": "29.98",
-      "was": "46.14",
-      "deal": "Limited time deal",
-      "reviews": 165,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "dog-leash",
-    "label": "Dog Leash",
-    "items": [
-     {
-      "asin": "B07M98NH5L",
-      "name": "Fida Retractable Dog Leash",
-      "pct": 35,
-      "rating": 4.5,
-      "t": 1793772198,
-      "img": "https://m.media-amazon.com/images/I/61hCdJf89wL.jpg",
-      "link": "https://www.amazon.com/dp/B07M98NH5L?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     }
-    ]
-   },
-   {
     "key": "pet-cameras",
     "label": "Pet Cameras",
     "items": [
@@ -6300,16 +5682,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0FJ1QXW8X",
-      "name": "BoyKeep 2K Cameras",
-      "pct": 35,
-      "rating": 4.1,
+      "asin": "B0HCBPFRCP",
+      "name": "ZEEPORTE 2K Indoor Cameras",
+      "pct": 41,
+      "rating": 4.7,
       "t": 1793810932,
-      "img": "https://m.media-amazon.com/images/I/71q9zIjJ7sL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJ1QXW8X?tag=zoepicks00-20",
+      "img": "https://m.media-amazon.com/images/I/710EcRV6iQL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCBPFRCP?tag=zoepicks00-20",
       "now": "25.98",
-      "was": "39.99",
-      "reviews": 366,
+      "was": "43.99",
+      "deal": "Limited time deal",
+      "reviews": 113,
       "tier": "mid"
      },
      {
@@ -6317,11 +5700,74 @@
       "name": "TKENPRO 2K Pet Camera Treat Dispenser",
       "pct": 22,
       "rating": 4.3,
-      "t": 1793772204,
+      "t": 1793858850,
       "img": "https://m.media-amazon.com/images/I/61OIHu1cxiL.jpg",
       "link": "https://www.amazon.com/dp/B0CF5B94X2?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "cat-litter",
+    "label": "Cat Litter",
+    "items": [
+     {
+      "asin": "B07NJ5SR5G",
+      "name": "Pieviev Cat Litter Mat",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1793810173,
+      "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
+      "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
+      "now": "11.89",
+      "was": "13.99",
+      "deal": "Limited time deal",
+      "reviews": 74239,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0C1FRMCR6",
+      "name": "JINXUANTANG XL Cat Litter Box: High-Sided Anti-Urine Leakage",
+      "pct": 35,
+      "rating": 4.7,
+      "t": 1793858849,
+      "img": "https://m.media-amazon.com/images/I/71SPKtiPQFL.jpg",
+      "link": "https://www.amazon.com/dp/B0C1FRMCR6?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HK3SXXQ3",
+      "name": "Cat Litter Deodorizer & Pet Odor Eliminator",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1793810173,
+      "img": "https://m.media-amazon.com/images/I/712XMgxyMbL.jpg",
+      "link": "https://www.amazon.com/dp/B0HK3SXXQ3?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 2855,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "dog-leash",
+    "label": "Dog Leash",
+    "items": [
+     {
+      "asin": "B07M98NH5L",
+      "name": "Fida Retractable Dog Leash",
+      "pct": 35,
+      "rating": 4.5,
+      "t": 1793810173,
+      "img": "https://m.media-amazon.com/images/I/61hCdJf89wL.jpg",
+      "link": "https://www.amazon.com/dp/B07M98NH5L?tag=zoepicks00-20",
+      "now": "14.23",
+      "was": "21.99",
+      "reviews": 54388
      }
     ]
    },
@@ -6334,7 +5780,7 @@
       "name": "VEVOR Fish Tank Aquarium",
       "pct": 28,
       "rating": 4.1,
-      "t": 1793772202,
+      "t": 1793858849,
       "img": "https://m.media-amazon.com/images/I/71GJQPLaT0L.jpg",
       "link": "https://www.amazon.com/dp/B0F8TTS9K6?tag=zoepicks00-20",
       "reviews": 0,
@@ -6375,45 +5821,14 @@
     "label": "Dog Stroller",
     "items": [
      {
-      "asin": "B0HGLZ1BRN",
-      "name": "GTPLAYER Foldable Pet Stroller",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1793726425,
-      "img": "https://m.media-amazon.com/images/I/712e4kU5NvL.jpg",
-      "link": "https://www.amazon.com/dp/B0HGLZ1BRN?tag=zoepicks00-20",
-      "now": "53.98",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 85,
-      "tier": "budget"
-     },
-     {
       "asin": "B0FR3R68RP",
       "name": "Dog Cat Stroller for Small/Medium Pets",
       "pct": 20,
       "rating": 4.4,
-      "t": 1793726425,
+      "t": 1793858850,
       "img": "https://m.media-amazon.com/images/I/81nXrusiGpL.jpg",
       "link": "https://www.amazon.com/dp/B0FR3R68RP?tag=zoepicks00-20",
-      "now": "127.85",
-      "was": "159.99",
-      "reviews": 179,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FFH368LT",
-      "name": "Bicystar Foldable Dog Stroller",
-      "pct": 13,
-      "rating": 4.7,
-      "t": 1793726425,
-      "img": "https://m.media-amazon.com/images/I/81B1XOqhnKL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFH368LT?tag=zoepicks00-20",
-      "now": "129.99",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 367,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -6465,30 +5880,31 @@
     "label": "Security Cameras",
     "items": [
      {
-      "asin": "B0FJ1QXW8X",
-      "name": "BoyKeep 2K Cameras",
-      "pct": 35,
-      "rating": 4.1,
+      "asin": "B0HCBPFRCP",
+      "name": "ZEEPORTE 2K Indoor Cameras",
+      "pct": 41,
+      "rating": 4.7,
       "t": 1793810932,
-      "img": "https://m.media-amazon.com/images/I/71q9zIjJ7sL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJ1QXW8X?tag=zoepicks00-20",
+      "img": "https://m.media-amazon.com/images/I/710EcRV6iQL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCBPFRCP?tag=zoepicks00-20",
       "now": "25.98",
-      "was": "39.99",
-      "reviews": 366,
+      "was": "43.99",
+      "deal": "Limited time deal",
+      "reviews": 113,
       "tier": "budget"
      },
      {
-      "asin": "B0C62MHK2Z",
-      "name": "Like-New Ring Outdoor Cam",
-      "pct": 51,
-      "rating": 4.4,
+      "asin": "B0HGLZJZZ5",
+      "name": "2K SafeView Window Camera 2.4G & 5G WiFi Indoor Window…",
+      "pct": 50,
+      "rating": 4.2,
       "t": 1793809625,
-      "img": "https://m.media-amazon.com/images/I/41EMzkDF2KL.jpg",
-      "link": "https://www.amazon.com/dp/B0C62MHK2Z?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "71.99",
+      "img": "https://m.media-amazon.com/images/I/71OEtOqoaUL.jpg",
+      "link": "https://www.amazon.com/dp/B0HGLZJZZ5?tag=zoepicks00-20",
+      "now": "29.98",
+      "was": "59.99",
       "deal": "Limited time deal",
-      "reviews": 1443,
+      "reviews": 198,
       "tier": "mid"
      },
      {
@@ -6556,38 +5972,6 @@
     ]
    },
    {
-    "key": "video-doorbells",
-    "label": "Video Doorbells",
-    "items": [
-     {
-      "asin": "B0FHJ7TKZM",
-      "name": "Ring Battery Doorbell 2K",
-      "pct": 60,
-      "rating": 4.2,
-      "t": 1793809625,
-      "img": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg",
-      "link": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "99.99",
-      "reviews": 8392,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CJ5YHLR3",
-      "name": "Like-New Ring Battery Doorbell",
-      "pct": 44,
-      "rating": 4.4,
-      "t": 1793809625,
-      "img": "https://m.media-amazon.com/images/I/41FtCUr5PuL.jpg",
-      "link": "https://www.amazon.com/dp/B0CJ5YHLR3?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "89.99",
-      "deal": "Limited time deal",
-      "reviews": 1155
-     }
-    ]
-   },
-   {
     "key": "projectors",
     "label": "Projectors",
     "items": [
@@ -6610,11 +5994,12 @@
       "name": "Smart Mini Projector",
       "pct": 46,
       "rating": 4.7,
-      "t": 1793728980,
+      "t": 1793809625,
       "img": "https://m.media-amazon.com/images/I/71L6lpXFD1L.jpg",
       "link": "https://www.amazon.com/dp/B0HCZY314J?tag=zoepicks00-20",
       "now": "129.99",
       "was": "239.99",
+      "deal": "Limited time deal",
       "reviews": 102,
       "tier": "mid"
      },
@@ -6635,40 +6020,21 @@
     ]
    },
    {
-    "key": "streaming-devices",
-    "label": "Streaming Devices",
-    "items": [
-     {
-      "asin": "B09BZZ3MM7",
-      "name": "Amazon Fire TV Cube",
-      "pct": 45,
-      "rating": 4.4,
-      "t": 1793809625,
-      "img": "https://m.media-amazon.com/images/I/61CvilMENWL.jpg",
-      "link": "https://www.amazon.com/dp/B09BZZ3MM7?tag=zoepicks00-20",
-      "now": "109.99",
-      "was": "199.99",
-      "deal": "Limited time deal",
-      "reviews": 16161
-     }
-    ]
-   },
-   {
     "key": "soundbars",
     "label": "Soundbars",
     "items": [
      {
-      "asin": "B0GYPLNMZ1",
-      "name": "Dolby Digital Plus Sound Bar",
+      "asin": "B0HJ5MD6FR",
+      "name": "Assistrust Sound Bar",
       "pct": 10,
-      "rating": 4.6,
+      "rating": 4.0,
       "t": 1793809625,
-      "img": "https://m.media-amazon.com/images/I/61mogWSkeGL.jpg",
-      "link": "https://www.amazon.com/dp/B0GYPLNMZ1?tag=zoepicks00-20",
-      "now": "98.99",
-      "was": "109.99",
+      "img": "https://m.media-amazon.com/images/I/717rXgpNuLL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJ5MD6FR?tag=zoepicks00-20",
+      "now": "53.98",
+      "was": "59.98",
       "deal": "Limited time deal",
-      "reviews": 74,
+      "reviews": 44,
       "tier": "budget"
      },
      {
@@ -6782,57 +6148,19 @@
     "key": "mesh-wi-fi-systems",
     "label": "Mesh Wi Fi Systems",
     "items": []
+   },
+   {
+    "key": "streaming-devices",
+    "label": "Streaming Devices",
+    "items": []
+   },
+   {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
+    "items": []
    }
   ],
   "tools_auto": [
-   {
-    "key": "car-vacuums",
-    "label": "Car Vacuums",
-    "items": [
-     {
-      "asin": "B0HB4F28VM",
-      "name": "Evekas Handheld Vacuum Cordless",
-      "pct": 40,
-      "rating": 4.9,
-      "t": 1793728502,
-      "img": "https://m.media-amazon.com/images/I/71+csgexeSL.jpg",
-      "link": "https://www.amazon.com/dp/B0HB4F28VM?tag=zoepicks00-20",
-      "now": "35.98",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 96,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H82LC1DN",
-      "name": "BSRCO Car Vacuum Portable Cordless",
-      "pct": 73,
-      "rating": 4.8,
-      "t": 1793728502,
-      "img": "https://m.media-amazon.com/images/I/61xdb5QRHdL.jpg",
-      "link": "https://www.amazon.com/dp/B0H82LC1DN?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 105,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H46RJF2P",
-      "name": "Shark WANDVAC Cordless Handheld Vacuum",
-      "pct": 23,
-      "rating": 4.2,
-      "t": 1793728502,
-      "img": "https://m.media-amazon.com/images/I/61vB-lKai7L.jpg",
-      "link": "https://www.amazon.com/dp/B0H46RJF2P?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "129.99",
-      "deal": "Limited time deal",
-      "reviews": 21180,
-      "tier": "premium"
-     }
-    ]
-   },
    {
     "key": "cordless-drills",
     "label": "Cordless Drills",
@@ -6842,7 +6170,7 @@
       "name": "Litheli 20V Cordless Drill Driver",
       "pct": 52,
       "rating": 4.5,
-      "t": 1793772594,
+      "t": 1793859028,
       "img": "https://m.media-amazon.com/images/I/611ywWp5f+L.jpg",
       "link": "https://www.amazon.com/dp/B0CKZ53T2W?tag=zoepicks00-20",
       "reviews": 0,
@@ -6853,10 +6181,13 @@
       "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
       "pct": 61,
       "rating": 4.3,
-      "t": 1793772593,
+      "t": 1793840765,
       "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
       "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "54.99",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 82,
       "tier": "mid"
      },
      {
@@ -6871,6 +6202,51 @@
       "was": "399.00",
       "deal": "Limited time deal",
       "reviews": 948,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "tire-inflators",
+    "label": "Tire Inflators",
+    "items": [
+     {
+      "asin": "B0GXTQP6PG",
+      "name": "GJOSYOI Tire Inflator Portable Air Compressor",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1793859029,
+      "img": "https://m.media-amazon.com/images/I/71rDUWnyB6L.jpg",
+      "link": "https://www.amazon.com/dp/B0GXTQP6PG?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HHRNP7T4",
+      "name": "KRUPLH Portable Car Battery Jump Starter",
+      "pct": 44,
+      "rating": 5.0,
+      "t": 1793810244,
+      "img": "https://m.media-amazon.com/images/I/814tEi25iFL.jpg",
+      "link": "https://www.amazon.com/dp/B0HHRNP7T4?tag=zoepicks00-20",
+      "now": "65.98",
+      "was": "116.99",
+      "deal": "Limited time deal",
+      "reviews": 61,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DBLNV4K4",
+      "name": "[2026NEW Model] 5000A Jump Starter",
+      "pct": 36,
+      "rating": 4.5,
+      "t": 1793810244,
+      "img": "https://m.media-amazon.com/images/I/71oG4PFNsmL.jpg",
+      "link": "https://www.amazon.com/dp/B0DBLNV4K4?tag=zoepicks00-20",
+      "now": "69.96",
+      "was": "109.99",
+      "deal": "Limited time deal",
+      "reviews": 1297,
       "tier": "premium"
      }
     ]
@@ -6898,10 +6274,13 @@
       "name": "4K+4K Dual Dash Cam Front and Rear",
       "pct": 40,
       "rating": 4.6,
-      "t": 1793772596,
+      "t": 1793810244,
       "img": "https://m.media-amazon.com/images/I/81sED5fjPYL.jpg",
       "link": "https://www.amazon.com/dp/B0H93T31W3?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "109.97",
+      "was": "183.29",
+      "deal": "Limited time deal",
+      "reviews": 189,
       "tier": "mid"
      },
      {
@@ -6909,58 +6288,10 @@
       "name": "4K+4K+1080P 3 Channel Dash Cam",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793772594,
+      "t": 1793859028,
       "img": "https://m.media-amazon.com/images/I/81UCXCyrBDL.jpg",
       "link": "https://www.amazon.com/dp/B0GV4XWRT7?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "tire-inflators",
-    "label": "Tire Inflators",
-    "items": [
-     {
-      "asin": "B0GXTQP6PG",
-      "name": "GJOSYOI Tire Inflator Portable Air Compressor",
-      "pct": 40,
-      "rating": 4.8,
-      "t": 1793810244,
-      "img": "https://m.media-amazon.com/images/I/71rDUWnyB6L.jpg",
-      "link": "https://www.amazon.com/dp/B0GXTQP6PG?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "63.32",
-      "deal": "Limited time deal",
-      "reviews": 184,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H1NXKCZ1",
-      "name": "160 PSI Tire Inflator Portable Air Compressor Built-in…",
-      "pct": 40,
-      "rating": 4.5,
-      "t": 1793810244,
-      "img": "https://m.media-amazon.com/images/I/71neM6fl69L.jpg",
-      "link": "https://www.amazon.com/dp/B0H1NXKCZ1?tag=zoepicks00-20",
-      "now": "39.98",
-      "was": "66.65",
-      "deal": "Limited time deal",
-      "reviews": 2772,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DBLNV4K4",
-      "name": "[2026NEW Model] 5000A Jump Starter",
-      "pct": 36,
-      "rating": 4.5,
-      "t": 1793810244,
-      "img": "https://m.media-amazon.com/images/I/71oG4PFNsmL.jpg",
-      "link": "https://www.amazon.com/dp/B0DBLNV4K4?tag=zoepicks00-20",
-      "now": "69.96",
-      "was": "109.99",
-      "deal": "Limited time deal",
-      "reviews": 1297,
       "tier": "premium"
      }
     ]
@@ -7106,41 +6437,18 @@
       "link": "https://www.amazon.com/dp/B0DNP3PCQZ?tag=zoepicks00-20",
       "now": "69.90",
       "was": "81.90",
-      "reviews": 564,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HDSP69D4",
-      "name": "17\" Cordless Lawn Mower",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1793728521,
-      "img": "https://m.media-amazon.com/images/I/71OLvNh1sOL.jpg",
-      "link": "https://www.amazon.com/dp/B0HDSP69D4?tag=zoepicks00-20",
-      "now": "149.99",
-      "was": "199.99",
-      "reviews": 86,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GPY1K2WC",
-      "name": "SENIX 21\" Gas Lawn Mower 144cc",
-      "pct": 12,
-      "rating": 4.0,
-      "t": 1793728521,
-      "img": "https://m.media-amazon.com/images/I/717ch96McTL.jpg",
-      "link": "https://www.amazon.com/dp/B0GPY1K2WC?tag=zoepicks00-20",
-      "now": "237.00",
-      "was": "269.98",
-      "deal": "Limited time deal",
-      "reviews": 596,
-      "tier": "premium"
+      "reviews": 564
      }
     ]
    },
    {
     "key": "steering-wheel-cover",
     "label": "Steering Wheel Cover",
+    "items": []
+   },
+   {
+    "key": "car-vacuums",
+    "label": "Car Vacuums",
     "items": []
    }
   ],
@@ -7149,6 +6457,20 @@
     "key": "baby-monitors",
     "label": "Baby Monitors",
     "items": [
+     {
+      "asin": "B0HCBPFRCP",
+      "name": "ZEEPORTE 2K Indoor Cameras",
+      "pct": 41,
+      "rating": 4.7,
+      "t": 1793810932,
+      "img": "https://m.media-amazon.com/images/I/710EcRV6iQL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCBPFRCP?tag=zoepicks00-20",
+      "now": "25.98",
+      "was": "43.99",
+      "deal": "Limited time deal",
+      "reviews": 113,
+      "tier": "budget"
+     },
      {
       "asin": "B0CWD7D41R",
       "name": "Tapo 2K+ Pan/Tilt Security Camera",
@@ -7161,20 +6483,6 @@
       "was": "34.99",
       "deal": "Limited time deal",
       "reviews": 842,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FWKDRPL2",
-      "name": "AnKeKe Baby Monitor",
-      "pct": 19,
-      "rating": 4.1,
-      "t": 1793810410,
-      "img": "https://m.media-amazon.com/images/I/61gFhZfHaNL.jpg",
-      "link": "https://www.amazon.com/dp/B0FWKDRPL2?tag=zoepicks00-20",
-      "now": "29.25",
-      "was": "35.99",
-      "deal": "Limited time deal",
-      "reviews": 529,
       "tier": "mid"
      },
      {
@@ -7182,10 +6490,13 @@
       "name": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550",
       "pct": 40,
       "rating": 4.5,
-      "t": 1793772695,
+      "t": 1793810410,
       "img": "https://m.media-amazon.com/images/I/613RCWv-M1L.jpg",
       "link": "https://www.amazon.com/dp/B09GM8JZM9?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "59.98",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 19712,
       "tier": "premium"
      }
     ]
@@ -7195,16 +6506,14 @@
     "label": "Strollers",
     "items": [
      {
-      "asin": "B0DFGQJB56",
-      "name": "FDW 3 in 1 Multi-Function Dog Jogger",
-      "pct": 10,
-      "rating": 4.7,
-      "t": 1793726425,
-      "img": "https://m.media-amazon.com/images/I/71-sA8DIxZL.jpg",
-      "link": "https://www.amazon.com/dp/B0DFGQJB56?tag=zoepicks00-20",
-      "now": "62.99",
-      "was": "69.99",
-      "reviews": 69,
+      "asin": "B0DJ92XLKR",
+      "name": "Tinyiota Baby Stroller",
+      "pct": 40,
+      "rating": 4.0,
+      "t": 1793859035,
+      "img": "https://m.media-amazon.com/images/I/61wPrvGEAgL.jpg",
+      "link": "https://www.amazon.com/dp/B0DJ92XLKR?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -7212,7 +6521,7 @@
       "name": "EVER ADVANCED Side-Unzip Wagon Stroller",
       "pct": 40,
       "rating": 4.7,
-      "t": 1793772705,
+      "t": 1793859036,
       "img": "https://m.media-amazon.com/images/I/91xWKByofSL.jpg",
       "link": "https://www.amazon.com/dp/B0CQL1J2T7?tag=zoepicks00-20",
       "reviews": 0,
@@ -7223,13 +6532,10 @@
       "name": "ELEMARA All-Terrain Stroller Wagon",
       "pct": 24,
       "rating": 4.8,
-      "t": 1793726408,
+      "t": 1793859040,
       "img": "https://m.media-amazon.com/images/I/8105gIWnlPL.jpg",
       "link": "https://www.amazon.com/dp/B0GQX6SPWC?tag=zoepicks00-20",
-      "now": "189.97",
-      "was": "249.99",
-      "deal": "Limited time deal",
-      "reviews": 95,
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -7257,12 +6563,10 @@
       "name": "Kids Tablet 10 Inch",
       "pct": 28,
       "rating": 4.7,
-      "t": 1793815222,
+      "t": 1793859038,
       "img": "https://m.media-amazon.com/images/I/71xdDFJxWvL.jpg",
       "link": "https://www.amazon.com/dp/B0H4V5PRN9?tag=zoepicks00-20",
-      "now": "71.99",
-      "was": "99.99",
-      "reviews": 59,
+      "reviews": 0,
       "tier": "mid"
      },
      {
@@ -7270,10 +6574,13 @@
       "name": "Kids Tablet 10 inch Android 16,24GB RAM 64GB ROM 6000mAh…",
       "pct": 38,
       "rating": 4.8,
-      "t": 1793772707,
+      "t": 1793815222,
       "img": "https://m.media-amazon.com/images/I/71Ghjw4sTXL.jpg",
       "link": "https://www.amazon.com/dp/B0HJGY7NWD?tag=zoepicks00-20",
-      "reviews": 0,
+      "now": "79.99",
+      "was": "129.99",
+      "deal": "Limited time deal",
+      "reviews": 371,
       "tier": "premium"
      }
     ]
@@ -7287,74 +6594,13 @@
       "name": "Alepo 3 Pack Baby Beanie Hats",
       "pct": 33,
       "rating": 4.7,
-      "t": 1793772709,
+      "t": 1793810410,
       "img": "https://m.media-amazon.com/images/I/81Gjm8Uhf9L.jpg",
       "link": "https://www.amazon.com/dp/B0G1YP1JDT?tag=zoepicks00-20",
-      "reviews": 0
-     }
-    ]
-   },
-   {
-    "key": "lego-sets-adults",
-    "label": "Lego Sets Adults",
-    "items": [
-     {
-      "asin": "B0FMS7HMNN",
-      "name": "LEGO Technic 1966 Ford GT40 MKII Race Car 42223",
-      "pct": 20,
-      "rating": 4.9,
-      "t": 1793728541,
-      "img": "https://m.media-amazon.com/images/I/81wiWthkwKL.jpg",
-      "link": "https://www.amazon.com/dp/B0FMS7HMNN?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "74.99",
-      "reviews": 400,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CGY3ZB24",
-      "name": "LEGO Star Wars Millennium Falcon 25th Anniversary…",
-      "pct": 20,
-      "rating": 4.8,
-      "t": 1793728541,
-      "img": "https://m.media-amazon.com/images/I/81jbkbN83BL.jpg",
-      "link": "https://www.amazon.com/dp/B0CGY3ZB24?tag=zoepicks00-20",
-      "now": "67.99",
-      "was": "84.99",
-      "reviews": 3404,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0BXQ6NRRN",
-      "name": "LEGO Harry Potter Hogwarts Castle and Grounds 76419…",
-      "pct": 19,
-      "rating": 4.8,
-      "t": 1793728541,
-      "img": "https://m.media-amazon.com/images/I/813B5OrhLSL.jpg",
-      "link": "https://www.amazon.com/dp/B0BXQ6NRRN?tag=zoepicks00-20",
-      "now": "136.99",
-      "was": "169.99",
-      "reviews": 2688,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "board-games-families",
-    "label": "Board Games Families",
-    "items": [
-     {
-      "asin": "B0CR1K4X47",
-      "name": "Family Board Games",
-      "pct": 10,
-      "rating": 4.7,
-      "t": 1793726273,
-      "img": "https://m.media-amazon.com/images/I/71I0ul5Q4aL.jpg",
-      "link": "https://www.amazon.com/dp/B0CR1K4X47?tag=zoepicks00-20",
-      "now": "15.29",
-      "was": "16.99",
+      "now": "19.99",
+      "was": "29.99",
       "deal": "Limited time deal",
-      "reviews": 995
+      "reviews": 1803
      }
     ]
    },
@@ -7377,8 +6623,18 @@
     ]
    },
    {
+    "key": "board-games-families",
+    "label": "Board Games Families",
+    "items": []
+   },
+   {
     "key": "chewable-fidget-toy",
     "label": "Chewable Fidget Toy",
+    "items": []
+   },
+   {
+    "key": "lego-sets-adults",
+    "label": "Lego Sets Adults",
     "items": []
    },
    {
