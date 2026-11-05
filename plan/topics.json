@@ -4547,5 +4547,35 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Double Sided Air Fryer (2026)",
+  "slug": "best-double-sided-air-fryer-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-air-fryers-2026",
+  "tab": "double-sided",
+  "tab_label": "Double Sided"
+ },
+ {
+  "title": "Best Mac Mini Vs Imac (2026)",
+  "slug": "best-mac-mini-vs-imac-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Gaming Gpu (2026)",
+  "slug": "best-gaming-gpu-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
