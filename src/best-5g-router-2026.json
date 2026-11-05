@@ -35,7 +35,16 @@
    ],
    "best_for": "Families with many devices and moderate home size",
    "skip_if": "Very large homes needing extensive coverage",
-   "link": "https://www.amazon.com/s?k=Asus+RT-BE58U+BE3600+WiFi+7&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Asus+RT-BE58U+BE3600+WiFi+7&tag=zoepicks00-20",
+   "asin": "B0FBYG45RX",
+   "image": "https://m.media-amazon.com/images/I/61RYbGhGxvL.jpg",
+   "image_asin": "B0FBYG45RX",
+   "amazon_price": "$109.99",
+   "amazon_price_asof": "Nov 5, 2026",
+   "amazon_listing": "ASUS RT-BE58U WiFi 7 BE3600 AiMesh Extendable Router, 4K-QAM, MLO, AI Detection 2.5G Port,",
+   "amazon_rating": "3.9",
+   "amazon_reviews": 14,
+   "amazon_rating_asof": "Nov 5, 2026"
   },
   {
    "name": "Asus RT-AX86U",
@@ -65,7 +74,13 @@
    ],
    "best_for": "Gamers needing low latency",
    "skip_if": "Users only need basic home networking",
-   "link": "https://www.amazon.com/s?k=Asus+RT-AX86U&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Asus+RT-AX86U&tag=zoepicks00-20",
+   "asin": "B08BJHS3X7",
+   "image": "https://m.media-amazon.com/images/I/61qY6JLjIrL.jpg",
+   "image_asin": "B08BJHS3X7",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 2886,
+   "amazon_rating_asof": "Nov 5, 2026"
   },
   {
    "name": "UniFi Travel Router (UTR)",
@@ -97,7 +112,10 @@
    ],
    "best_for": "Travelers needing a portable, secure router",
    "skip_if": "Users need extensive home coverage",
-   "link": "https://www.amazon.com/s?k=UniFi+Travel+Router+%28UTR%29&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=UniFi+Travel+Router+%28UTR%29&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 5, 2026",
+   "fill_failed": false
   },
   {
    "name": "TP-Link Archer AXE75",
@@ -130,7 +148,10 @@
    "link": "https://www.amazon.com/s?k=TP-Link+Archer+AXE75&tag=zoepicks00-20",
    "tabs": [
     "high-quality"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 5, 2026",
+   "fill_failed": false
   },
   {
    "name": "eero 6+",
