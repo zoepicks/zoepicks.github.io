@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-05T18:13:18.321755+00:00",
+ "updated": "2026-11-05T21:15:10.298585+00:00",
  "boots_total": 53,
  "recent_boots_utc": [
   "2026-10-28T09:38:41",
@@ -14,7 +14,7 @@
   "2026-11-01T13:12:49",
   "2026-11-04T12:51:01"
  ],
- "last_run_ts": 1793902363.4094987,
+ "last_run_ts": 1793913309.6723804,
  "last_report_ts": 1793902397.6853528,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 81
+  "low": 63
  },
  "recent_runs": [
-  {
-   "t": "2026-11-04T14:37:38",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-04T17:39:20",
    "score": 94,
@@ -84,19 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-05T21:15:06",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-05T12:08:45",
-   "what": "SEO check: score 94 (+0), 277 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-05T12:08:45",
-   "what": "IndexNow: 4 URL Bing ko bheje",
-   "ok": true
-  },
   {
    "t": "2026-11-05T15:10:39",
    "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
@@ -125,6 +115,16 @@
   {
    "t": "2026-11-05T18:13:17",
    "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-11-05T21:15:09",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-05T21:15:09",
+   "what": "SEO check: score 94 (+0), 281 pages, 1 high issue",
    "ok": true
   }
  ]
