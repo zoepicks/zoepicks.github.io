@@ -1,16 +1,16 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-04T17:39:26.825103+00:00",
+ "generated_at": "2026-11-05T06:04:47.147826+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 274,
+  "pages": 275,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 38
+   "low": 35
   },
   "avg_guide_words": 952,
   "todo": [
@@ -51,14 +51,13 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 5,
+    "count": 2,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-webcams-2026/",
-     "/g/best-gaming-chairs-2026/",
-     "/g/best-mechanical-keyboards-2026/"
+     "/g/best-shoe-racks-2026/",
+     "/g/best-floor-lamps-2026/"
     ],
-    "detail": "load 3.19s"
+    "detail": "load 3.21s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +65,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 268,
+   "guides_live": 269,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,24 +73,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-04T11:32:33.918009+00:00",
+    "t": "2026-11-04T23:43:41.332143+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-04T14:37:38.469280+00:00",
+    "t": "2026-11-05T02:45:24.965057+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
-    }
-   },
-   {
-    "t": "2026-11-04T17:39:20.365564+00:00",
-    "indexnow": {
-     "submitted": 2,
+     "submitted": 4,
      "http": 200
+    }
+   },
+   {
+    "t": "2026-11-05T05:47:04.020670+00:00",
+    "indexnow": {
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -103,12 +102,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-10-29",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-10-30",
     "visitors": 0,
@@ -144,18 +137,24 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-05",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 39,
-   "warn": 2,
+   "info": 6,
+   "warn": 1,
    "error": 0
   },
   "last7d": {
-   "info": 718,
-   "warn": 42,
+   "info": 635,
+   "warn": 39,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -172,25 +171,61 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 36
+    "warnings": 33
    }
   ],
   "collector": {
    "today": {
-    "total": 6,
-    "ok": 5,
+    "total": 2,
+    "ok": 1,
     "failed": 0,
     "cancelled": 0,
     "running": 1,
     "failed_runs": []
    },
    "last7d": {
-    "total": 85,
+    "total": 79,
     "ok": 63,
-    "failed": 19,
+    "failed": 13,
     "cancelled": 2,
     "running": 1,
     "failed_runs": [
+     {
+      "run": 213,
+      "at": "2026-10-31T22:18:51Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41247612633"
+     },
+     {
+      "run": 212,
+      "at": "2026-10-31T16:18:16Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41219025285"
+     },
+     {
+      "run": 209,
+      "at": "2026-10-31T14:47:57Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41211795276"
+     },
+     {
+      "run": 207,
+      "at": "2026-10-31T11:47:33Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41198315830"
+     },
+     {
+      "run": 206,
+      "at": "2026-10-31T05:45:55Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41173882534"
+     },
+     {
+      "run": 205,
+      "at": "2026-10-31T05:00:19Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41170806866"
+     },
      {
       "run": 198,
       "at": "2026-10-30T15:34:32Z",
@@ -214,50 +249,14 @@
       "at": "2026-10-30T05:00:51Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41006030432"
-     },
-     {
-      "run": 194,
-      "at": "2026-10-30T03:02:10Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40995070990"
-     },
-     {
-      "run": 193,
-      "at": "2026-10-29T21:01:28Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40954157056"
-     },
-     {
-      "run": 191,
-      "at": "2026-10-29T20:01:15Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40945262032"
-     },
-     {
-      "run": 188,
-      "at": "2026-10-29T10:59:46Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40861893551"
-     },
-     {
-      "run": 187,
-      "at": "2026-10-29T05:00:13Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40820857703"
-     },
-     {
-      "run": 186,
-      "at": "2026-10-29T04:46:28Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/40819614741"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 11,
-    "ok": 11,
+    "total": 0,
+    "ok": 0,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -296,53 +295,77 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
     "module": "ZOEDEALS",
     "level": "e",
     "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 500: "
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 268,
+  "live_guides": 269,
   "missing_topics_by_status": {
-   "queued": 44,
-   "open": 66,
-   "covered": 17,
-   "built": 73
+   "open": 69,
+   "built": 72,
+   "queued": 43,
+   "covered": 16
   },
   "missing_new": {
-   "today": 7,
-   "d7": 140,
+   "today": 0,
+   "d7": 131,
    "d30": 200
   },
   "open_topics": [
    {
+    "topic": "double sided air fryer",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793825879",
+    "last_at": "1793826019"
+   },
+   {
+    "topic": "mac mini vs imac",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793822722",
+    "last_at": "1793822884"
+   },
+   {
+    "topic": "gaming gpu",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793819680",
+    "last_at": "1793819987"
+   },
+   {
     "topic": "mac studio",
-    "leads": "4",
+    "leads": "5",
     "budget": null,
     "status": "open",
     "first_at": "1793813466",
-    "last_at": "1793813961"
+    "last_at": "1793814421"
    },
    {
     "topic": "shrek 2 remastered ps5",
@@ -391,30 +414,6 @@
     "status": "open",
     "first_at": "1793629531",
     "last_at": "1793629531"
-   },
-   {
-    "topic": "makeup bag",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793629510",
-    "last_at": "1793629510"
-   },
-   {
-    "topic": "home treadmill",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793625891",
-    "last_at": "1793625891"
-   },
-   {
-    "topic": "m1 pro laptop",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1793623387",
-    "last_at": "1793623387"
    }
   ]
  },
@@ -457,6 +456,26 @@
    },
    {
     "u": "/disclosure.html",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-oscillating-heater-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-sd-card-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-real-time-translation-device-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-sleep-mask-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
@@ -539,42 +558,22 @@
     "u": "/g/best-curtains-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-makeup-palette-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-steering-wheel-cover-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-hair-raising-headband-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-mac-mini-desktop-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
+   "https://zoepicks.github.io/g/best-oscillating-heater-2026/",
+   "https://zoepicks.github.io/g/best-sd-card-2026/",
+   "https://zoepicks.github.io/g/best-real-time-translation-device-2026/",
+   "https://zoepicks.github.io/g/best-sleep-mask-2026/",
    "https://zoepicks.github.io/g/best-mini-fridge-2026/",
    "https://zoepicks.github.io/g/best-keyboard-with-function-keys-2026/",
    "https://zoepicks.github.io/g/best-wireless-sport-headphones-2026/",
    "https://zoepicks.github.io/g/best-graphics-card-2026/",
    "https://zoepicks.github.io/g/best-sandals-2026/",
-   "https://zoepicks.github.io/g/best-nintendo-switch-games-2026/",
-   "https://zoepicks.github.io/g/best-hair-styling-brush-2026/",
-   "https://zoepicks.github.io/g/best-white-refrigerator-2026/",
-   "https://zoepicks.github.io/g/best-workout-clothes-2026/",
-   "https://zoepicks.github.io/g/best-french-press-2026/"
+   "https://zoepicks.github.io/g/best-nintendo-switch-games-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-04T05:10",
+   "last_submitted": "2026-11-05T05:47",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -587,11 +586,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-10-26",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-10-27",
      "clicks": 0,
@@ -621,6 +615,11 @@
      "d": "2026-11-01",
      "clicks": 0,
      "impr": 1
+    },
+    {
+     "d": "2026-11-02",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -638,13 +637,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-10-21",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-10-22",
     "indexed": 1,
@@ -735,6 +727,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-05",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -742,7 +741,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-04T05:10",
+    "last_submitted": "2026-11-05T05:47",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -753,13 +752,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 274,
+    "urls": 275,
     "other_host_urls": 0,
-    "live_pages_crawled": 274
+    "live_pages_crawled": 275
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]

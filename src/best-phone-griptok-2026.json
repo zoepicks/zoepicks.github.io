@@ -4,12 +4,12 @@
  "category": "mobiles",
  "date": "Nov 5, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products from the provided sources; only GripTok was mentioned.",
- "assumptions": "No price information was available in the sources.",
+ "method": "Picks were based on product mentions in the provided sources, specifically source [5] which discusses GripTok.",
+ "assumptions": "No price information was given, so price fields are null.",
  "products": [],
  "verdict": {
   "pick": "GripTok",
-  "line": "Picture a fifth‑grade inventor using a phone grip that turns into a smoke‑filter during an evacuation. GripTok is unique because it adds a safety feature that other grips lack, making it suitable for emergency preparedness. The catch: it has not been safety‑certified."
+  "line": "Picture a student or anyone needing a quick emergency tool while holding their phone. GripTok adds a temporary smoke‑filtration function, which can help during an evacuation, according to the invention prize details. The catch: it has no safety certification or verified fire‑protection performance."
  },
  "draft": true
 }
