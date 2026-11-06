@@ -4,12 +4,8 @@
  "category": "toys_kids",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on products named in the supplied sources. Products mentioned by more than one source were ranked higher.",
- "assumptions": "No price information was provided in the sources, so price fields are null.",
+ "method": "Picks were based on products named in source 6 (EVST guide) and source 4 (DOBOT catalog). Products appearing in multiple sources were preferred, but none overlapped, so the highest‑ranked models from each list were used.",
+ "assumptions": "No price information was given in the sources, so price fields are null.",
  "products": [],
- "verdict": {
-  "pick": "Roborock Saros Z70 Robotic Vacuum and Mop",
-  "line": "Ideal for homeowners who want a vacuum that can also pick up small items. It adds a mechanical arm to standard cleaning, reducing clutter, but the arm is still early‑stage technology."
- },
  "draft": true
 }

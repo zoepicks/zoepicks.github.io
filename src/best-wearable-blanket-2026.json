@@ -4,12 +4,18 @@
  "category": "mobiles",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least two of the provided sources (Good Housekeeping and Taste of Home) and are rated highly for comfort, design, and usability.",
+ "method": "Selected products were taken from the Good Housekeeping and Taste of Home reviews, prioritizing items mentioned by both sites and ranking by overall recommendation.",
  "assumptions": "Prices are not listed in the sources, so no price information is included.",
  "products": [],
  "verdict": {
-  "pick": "Snuggie The Original Wearable Blanket",
-  "line": "Picture a cozy evening on the couch, the Snuggie keeping you warm while you watch TV. It is praised for its comfortable fabric and easy‑to‑wear design, making it a solid choice for anyone who wants a simple, reliable blanket hoodie. The main catch is that it can be a bit bulky when folded."
+  "pick": "Bedsure Wearable Blanket Hoodie",
+  "line": "Picture a quiet evening at home, the lights dimmed, and you wrap yourself in the Bedsure hoodie. It keeps you warm without restricting movement, making it ideal for watching TV or reading. The main catch is that it has no heating element, so it may feel cooler in very cold rooms.",
+  "also": [
+   [
+    "Best value",
+    "Snuggie The Original Wearable Blanket"
+   ]
+  ]
  },
  "draft": true
 }

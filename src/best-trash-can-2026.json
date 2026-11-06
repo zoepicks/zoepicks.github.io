@@ -4,8 +4,8 @@
  "category": "other",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were chosen from Consumer Reports, PCMag, CNET, Reviewed.com, TechGearLab, and Bon Appétit. Picks with mentions in more than one source were prioritized.",
- "assumptions": "Prices are taken only from the cited sources; if a source omitted a price, the field is left null.",
+ "method": "Selected products that appear in at least one of the cited sources, ranked by how many sources mention them and by feature breadth.",
+ "assumptions": "Prices are not listed in the sources, so no price information is included.",
  "products": [],
  "draft": true
 }

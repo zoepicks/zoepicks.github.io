@@ -4,8 +4,12 @@
  "category": "furniture_decor",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products that appear in at least one source; prioritized those mentioned by multiple sites and noted key features.",
- "assumptions": "Prices are omitted unless explicitly stated in the sources.",
+ "method": "Selected products from PCMag, CNET, Tom’s Guide, OneClearWinner, and Architectural Digest. Chose the Mirror because it is mentioned by two independent sites and offers both mirror and fitness features.",
+ "assumptions": "Prices are not listed in the sources, so no cost comparison is made.",
  "products": [],
+ "verdict": {
+  "pick": "Mirror",
+  "line": "Picture a busy apartment where space is limited; the Mirror’s slim profile fits easily while offering live and on‑demand classes that keep you moving. It wins because it delivers a full‑length reflective surface and a built‑in workout platform, unlike the other mirrors that only reflect."
+ },
  "draft": true
 }
