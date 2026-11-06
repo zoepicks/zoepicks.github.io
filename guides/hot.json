@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T00:54:27Z",
+ "updated": "2026-11-06T02:54:47Z",
  "hot": [
   {
    "asin": "B0HL84W23P",
@@ -56,7 +56,7 @@
    "was": "169.99",
    "deal": "Limited time deal",
    "reviews": 31,
-   "tier": "premium"
+   "tier": "budget"
   },
   {
    "asin": "B0HPF6776W",
@@ -82,7 +82,8 @@
    "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
    "now": "28.00",
    "was": "103.70",
-   "reviews": 103
+   "reviews": 103,
+   "tier": "premium"
   },
   {
    "asin": "B0HFZTYH9G",
@@ -97,18 +98,6 @@
    "deal": "Limited time deal",
    "reviews": 23,
    "tier": "mid"
-  },
-  {
-   "asin": "B01KPEG108",
-   "name": "tarte maneater mascara",
-   "pct": 70,
-   "rating": 4.5,
-   "t": 1793899226,
-   "img": "https://m.media-amazon.com/images/I/718ccT9YRwL.jpg",
-   "link": "https://www.amazon.com/dp/B01KPEG108?tag=zoepicks00-20",
-   "now": "28.00",
-   "was": "93.33",
-   "reviews": 93
   },
   {
    "asin": "B0HG113QY3",
@@ -207,6 +196,58 @@
    "tier": "budget"
   },
   {
+   "asin": "B0HFM14G89",
+   "name": "Maydear Black Waterproof Mascara",
+   "pct": 68,
+   "rating": 4.1,
+   "t": 1793926288,
+   "img": "https://m.media-amazon.com/images/I/61knxgOA2EL.jpg",
+   "link": "https://www.amazon.com/dp/B0HFM14G89?tag=zoepicks00-20",
+   "now": "11.03",
+   "was": "34.47",
+   "reviews": 4542,
+   "tier": "budget"
+  },
+  {
+   "asin": "B089QJSTHH",
+   "name": "Maydear White Mascara",
+   "pct": 68,
+   "rating": 4.1,
+   "t": 1793926288,
+   "img": "https://m.media-amazon.com/images/I/71FVS3ACYqL.jpg",
+   "link": "https://www.amazon.com/dp/B089QJSTHH?tag=zoepicks00-20",
+   "now": "11.03",
+   "was": "34.47",
+   "reviews": 34,
+   "tier": "budget"
+  },
+  {
+   "asin": "B0HFLYB6QG",
+   "name": "Maydear Pinkish purple Waterproof Mascara",
+   "pct": 68,
+   "rating": 4.1,
+   "t": 1793926288,
+   "img": "https://m.media-amazon.com/images/I/51vdXxVnyqL.jpg",
+   "link": "https://www.amazon.com/dp/B0HFLYB6QG?tag=zoepicks00-20",
+   "now": "11.04",
+   "was": "34.50",
+   "reviews": 4542,
+   "tier": "mid"
+  },
+  {
+   "asin": "B0HFM5L6HJ",
+   "name": "Maydear Light blue Waterproof Mascara",
+   "pct": 68,
+   "rating": 4.1,
+   "t": 1793926288,
+   "img": "https://m.media-amazon.com/images/I/61dKkywC3fL.jpg",
+   "link": "https://www.amazon.com/dp/B0HFM5L6HJ?tag=zoepicks00-20",
+   "now": "11.04",
+   "was": "34.50",
+   "reviews": 34,
+   "tier": "mid"
+  },
+  {
    "asin": "B0HMCMYKJT",
    "name": "Aeitto Ice Maker Countertop 26lbs/24H Ice Makers Ready in…",
    "pct": 55,
@@ -273,7 +314,7 @@
    "now": "10.99",
    "was": "24.75",
    "reviews": 0,
-   "tier": "budget"
+   "tier": "mid"
   },
   {
    "asin": "B0GSDBPKXK",
@@ -371,47 +412,6 @@
    "deal": "Limited time deal",
    "reviews": 20,
    "tier": "mid"
-  },
-  {
-   "asin": "B0CWRCCFTM",
-   "name": "Brewin Knife Set, 8PC Kitchen Knife Set",
-   "pct": 49,
-   "rating": 4.6,
-   "t": 1793897163,
-   "img": "https://m.media-amazon.com/images/I/7150xxQDqDL.jpg",
-   "link": "https://www.amazon.com/dp/B0CWRCCFTM?tag=zoepicks00-20",
-   "now": "19.98",
-   "was": "39.18",
-   "deal": "Limited time deal",
-   "reviews": 2410
-  },
-  {
-   "asin": "B0H1GNCT7Q",
-   "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
-   "pct": 50,
-   "rating": 4.4,
-   "t": 1793902178,
-   "img": "https://m.media-amazon.com/images/I/61m6eF8qyOL.jpg",
-   "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
-   "now": "1,099.00",
-   "was": "2,199.00",
-   "deal": "Limited time deal",
-   "reviews": 24,
-   "tier": "premium"
-  },
-  {
-   "asin": "B0GG9KR9HN",
-   "name": "Decould sylf Slide Sandals",
-   "pct": 50,
-   "rating": 4.4,
-   "t": 1793899099,
-   "img": "https://m.media-amazon.com/images/I/81ir0DCVGIL.jpg",
-   "link": "https://www.amazon.com/dp/B0GG9KR9HN?tag=zoepicks00-20",
-   "now": "11.99",
-   "was": "23.99",
-   "deal": "Limited time deal",
-   "reviews": 50,
-   "tier": "budget"
   }
  ],
  "ess": [
