@@ -4662,5 +4662,17 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Nov 5, 2026"
+ },
+ {
+  "title": "Best Black Sneakers (2026)",
+  "slug": "best-black-sneakers-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sneakers-2026",
+  "tab": "black",
+  "tab_label": "Black"
  }
 ]
