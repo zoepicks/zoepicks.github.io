@@ -8940,9 +8940,25 @@
   },
   "beauty_health:facial-skincare": {
    "label": "Facial Skincare",
-   "tries": 10,
-   "items": [],
-   "scanned": "2026-11-05T01:09:32.051184+00:00"
+   "tries": 11,
+   "items": [
+    {
+     "asin": "B0H7SN8MZW",
+     "name": "Red Light Therapy for Face & Neck",
+     "pct": 42,
+     "rating": 4.6,
+     "t": 1793929567,
+     "img": "https://m.media-amazon.com/images/I/71mtodVLgpL.jpg",
+     "link": "https://www.amazon.com/dp/B0H7SN8MZW?tag=zoepicks00-20",
+     "now": "74.98",
+     "was": "129.98",
+     "deal": "Limited time deal",
+     "reviews": 35,
+     "_title": "Red Light Therapy for Face & Neck, Wireless LED Face Mask Skincare | Rechargeable Red Light Therapy Facial Mask with Timin...",
+     "_price": 74.98
+    }
+   ],
+   "scanned": "2026-11-06T01:46:07.946218+00:00"
   },
   "beauty_health:perfumes": {
    "label": "Perfumes",
