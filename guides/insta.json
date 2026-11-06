@@ -1,0 +1,251 @@
+{
+ "v": 1,
+ "updated": "2026-11-06T20:51:11Z",
+ "cats": [
+  {
+   "key": "fashion",
+   "label": "Fashion",
+   "icon": "👗"
+  },
+  {
+   "key": "beauty",
+   "label": "Beauty",
+   "icon": "💄"
+  },
+  {
+   "key": "home",
+   "label": "Home & Kitchen",
+   "icon": "🏠"
+  },
+  {
+   "key": "kids",
+   "label": "Kids & Mom",
+   "icon": "🧸"
+  }
+ ],
+ "items": {
+  "fashion": [],
+  "beauty": [
+   {
+    "asin": "B0C41QPKZR",
+    "name": "NYX PROFESSIONAL MAKEUP",
+    "pct": 28,
+    "rating": 4.5,
+    "t": 1793877597,
+    "img": "https://m.media-amazon.com/images/I/A1vQE-WufTL.jpg",
+    "link": "https://www.amazon.com/dp/B0C41QPKZR?tag=zoepicks00-20",
+    "now": "17.00",
+    "was": "20.00",
+    "cat": "beauty"
+   }
+  ],
+  "home": [
+   {
+    "asin": "B077Z2QCS5",
+    "name": "Everlasting Comfort 6L Large Top Fill Humidifier",
+    "pct": 58,
+    "rating": 4.3,
+    "t": 1793987747,
+    "img": "https://m.media-amazon.com/images/I/61z8PXLhPFL.jpg",
+    "link": "https://www.amazon.com/dp/B077Z2QCS5?tag=zoepicks00-20",
+    "now": "42.49",
+    "was": "99.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0C2FF74J6",
+    "name": "Ninja BC151NV Blast Portable Blender",
+    "pct": 43,
+    "rating": 4.2,
+    "t": 1793880364,
+    "img": "https://m.media-amazon.com/images/I/71mq2bihOPL.jpg",
+    "link": "https://www.amazon.com/dp/B0C2FF74J6?tag=zoepicks00-20",
+    "now": "39.99",
+    "was": "69.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0D9PS5DVW",
+    "name": "Everlasting Comfort 2.5L Ultrasonic Humidifier",
+    "pct": 35,
+    "rating": 4.3,
+    "t": 1793988701,
+    "img": "https://m.media-amazon.com/images/I/71BZYYHaEVL.jpg",
+    "link": "https://www.amazon.com/dp/B0D9PS5DVW?tag=zoepicks00-20",
+    "now": "32.27",
+    "was": "49.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B00JAP44MQ",
+    "name": "Tramontina Signature Tri-Ply Clad Stainless Steel 12-Inch…",
+    "pct": 31,
+    "rating": 4.4,
+    "t": 1793881285,
+    "img": "https://m.media-amazon.com/images/I/61M7ZCmmttL.jpg",
+    "link": "https://www.amazon.com/dp/B00JAP44MQ?tag=zoepicks00-20",
+    "now": "34.49",
+    "was": "49.95",
+    "cat": "home"
+   },
+   {
+    "asin": "B01J4O0T4E",
+    "name": "French Press Coffee Maker",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1793880358,
+    "img": "https://m.media-amazon.com/images/I/71YUIQt+EEL.jpg",
+    "link": "https://www.amazon.com/dp/B01J4O0T4E?tag=zoepicks00-20",
+    "now": "33.99",
+    "was": "47.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0HBVZZS5Y",
+    "name": "Akacozie Humidifier Large Room",
+    "pct": 29,
+    "rating": 4.4,
+    "t": 1793987739,
+    "img": "https://m.media-amazon.com/images/I/61Zx3zq4yAL.jpg",
+    "link": "https://www.amazon.com/dp/B0HBVZZS5Y?tag=zoepicks00-20",
+    "now": "84.98",
+    "was": "119.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0C8WN349L",
+    "name": "Ninja Combi™ 14-in-1 Multicooker",
+    "pct": 28,
+    "rating": 4.5,
+    "t": 1793879774,
+    "img": "https://m.media-amazon.com/images/I/71dssk1HtOL.jpg",
+    "link": "https://www.amazon.com/dp/B0C8WN349L?tag=zoepicks00-20",
+    "now": "179.95",
+    "was": "249.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0D4MYX7L8",
+    "name": "Nespresso Vertuo Pop+ Coffee Machine",
+    "pct": 28,
+    "rating": 4.4,
+    "t": 1793901906,
+    "img": "https://m.media-amazon.com/images/I/710Fl+vjaIL.jpg",
+    "link": "https://www.amazon.com/dp/B0D4MYX7L8?tag=zoepicks00-20",
+    "now": "129.00",
+    "was": "179.95",
+    "cat": "home"
+   }
+  ],
+  "kids": [
+   {
+    "asin": "B01B1V10KA",
+    "name": "Melissa & Doug Wooden Scoop & Serve Ice Cream Counter",
+    "pct": 49,
+    "rating": 4.9,
+    "t": 1793932579,
+    "img": "https://m.media-amazon.com/images/I/7106ox8f2jL.jpg",
+    "link": "https://www.amazon.com/dp/B01B1V10KA?tag=zoepicks00-20",
+    "now": "35.99",
+    "was": "70.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B07RT71Z8P",
+    "name": "Melissa & Doug Jumbo Cardboard Blocks Building 40-Piece Toy…",
+    "pct": 45,
+    "rating": 4.7,
+    "t": 1793944720,
+    "img": "https://m.media-amazon.com/images/I/713BXDN9TqL.jpg",
+    "link": "https://www.amazon.com/dp/B07RT71Z8P?tag=zoepicks00-20",
+    "now": "30.49",
+    "was": "54.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B00NHQF6MG",
+    "name": "LEGO Classic Large Creative Brick Box 10698",
+    "pct": 44,
+    "rating": 4.8,
+    "t": 1793935367,
+    "img": "https://m.media-amazon.com/images/I/81sXyDjMOPL.jpg",
+    "link": "https://www.amazon.com/dp/B00NHQF6MG?tag=zoepicks00-20",
+    "now": "33.49",
+    "was": "59.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B00NHQFA1I",
+    "name": "LEGO Classic Medium Creative Brick Box 10696",
+    "pct": 39,
+    "rating": 4.8,
+    "t": 1793936314,
+    "img": "https://m.media-amazon.com/images/I/8160QjpuoOL.jpg",
+    "link": "https://www.amazon.com/dp/B00NHQFA1I?tag=zoepicks00-20",
+    "now": "21.42",
+    "was": "34.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0DTB2N2D9",
+    "name": "Crayola Marker Airbrush Spray Art Kit",
+    "pct": 32,
+    "rating": 4.8,
+    "t": 1793929782,
+    "img": "https://m.media-amazon.com/images/I/81161P5MeNL.jpg",
+    "link": "https://www.amazon.com/dp/B0DTB2N2D9?tag=zoepicks00-20",
+    "now": "20.99",
+    "was": "21.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B087FCMPWW",
+    "name": "YEEBAY Shooting Game Toy",
+    "pct": 29,
+    "rating": 4.4,
+    "t": 1793920471,
+    "img": "https://m.media-amazon.com/images/I/71psM3gJHSL.jpg",
+    "link": "https://www.amazon.com/dp/B087FCMPWW?tag=zoepicks00-20",
+    "now": "28.48",
+    "was": "39.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B08HD89CX6",
+    "name": "Rock Painting Kit- Glow in The Dark Rock Kit",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1793929799,
+    "img": "https://m.media-amazon.com/images/I/818O9O8PgRL.jpg",
+    "link": "https://www.amazon.com/dp/B08HD89CX6?tag=zoepicks00-20",
+    "now": "14.99",
+    "was": "19.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B07WJJF8PB",
+    "name": "LEGO DUPLO Brick Box 10913",
+    "pct": 20,
+    "rating": 4.9,
+    "t": 1793944699,
+    "img": "https://m.media-amazon.com/images/I/81YIWuWeL4L.jpg",
+    "link": "https://www.amazon.com/dp/B07WJJF8PB?tag=zoepicks00-20",
+    "now": "23.95",
+    "was": "29.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B07PBXRJ7G",
+    "name": "Melissa & Doug Dust Sweep Mop 6-Piece Wooden Cleaning Toy…",
+    "pct": 20,
+    "rating": 4.8,
+    "t": 1793922346,
+    "img": "https://m.media-amazon.com/images/I/71IBZP94DKL.jpg",
+    "link": "https://www.amazon.com/dp/B07PBXRJ7G?tag=zoepicks00-20",
+    "now": "32.24",
+    "was": "34.97",
+    "cat": "kids"
+   }
+  ]
+ }
+}
