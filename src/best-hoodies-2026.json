@@ -2,7 +2,7 @@
  "slug": "best-hoodies-2026",
  "title": "Top Hoodies for Cold Days (2026)",
  "category": "fashion",
- "date": "Nov 2, 2026",
+ "date": "Nov 6, 2026",
  "summary": "Gear Patrol and Men's Health both recommend the Flint and Tinder 10-Year Pullover, Champion Reverse Weave, Reigning Champ Midweight Terry and Everlane ReTrack, with Flint and Tinder as Gear Patrol's best overall hoodie.",
  "method": "Only hoodies that both guides recommend made this list. Gear Patrol's men's hoodie guide (published and last updated March 2024) tested dozens of hoodies as base layers, mid-layers and on their own. Men's Health says its style editors have worn over 50 hoodies since 2020 for at least two weeks each. Four hoodies appear in both: Flint and Tinder, Champion, Reigning Champ and Everlane. The Men's Health copy we read has no visible update date.",
  "assumptions": "The Gear Patrol guide is from 2024, so its prices and colors may have changed, and we quote the price each source showed instead of today's price. Some of these brands sell mainly on their own sites, so the Amazon link may open a search that does not list the exact hoodie. Neither source is a lab test of warmth, so for cold days we only repeat what they say about fabric weight and fit.",
@@ -306,6 +306,102 @@
    "fill_tries": 3,
    "fill_last": "Nov 6, 2026",
    "fill_failed": false
+  },
+  {
+   "name": "Giant Hoodies",
+   "short": "Giant Hoodies",
+   "badge": "Best Overall",
+   "why": [
+    "The hoodie is 8oz sponge fleece and printed & packed in the USA.",
+    "It offers a genuinely giant fit with a custom cut-and-sew pattern."
+   ],
+   "desc": "Giant Hoodies are an oversized pullover made from 8oz sponge fleece. They are printed and packed in the USA and come in over 7,000 designs.",
+   "benefit": "Picture a lazy weekend at home, curled up with a book—this hoodie keeps you warm and feels like a hug. Its oversized fit means you can move freely and it’s great for lounging. It stands out in this guide for its sheer size and variety of designs. The catch: it’s only available in one size, which may not fit everyone perfectly.",
+   "specs": [
+    "8oz sponge fleece",
+    "One size fits most",
+    "Printed & packed in USA",
+    "7,000+ designs"
+   ],
+   "pros": [
+    "Oversized fit",
+    "Soft fleece",
+    "Wide design selection",
+    "Made in USA"
+   ],
+   "cons": [
+    "Single size",
+    "No adjustable fit",
+    "Limited color options"
+   ],
+   "best_for": "People who want a large, cozy hoodie for lounging",
+   "skip_if": "You need a tailored fit",
+   "link": "https://www.amazon.com/s?k=Giant+Hoodies&tag=zoepicks00-20",
+   "tabs": [
+    "oversized"
+   ]
+  },
+  {
+   "name": "Oodie",
+   "short": "Oodie",
+   "badge": "Best Blanket Hoodie",
+   "why": [
+    "Oodie is a blanket hoodie that keeps you warm without an electric element.",
+    "It is ideal for cold days at home, work-from-home, or outdoor trips."
+   ],
+   "desc": "Oodie is a blanket hoodie that cocoon the wearer in warmth. It is designed to keep you toasty without an electric heater.",
+   "benefit": "Picture a chilly beach day or a cold work-from-home session—Oodie keeps you warm without needing a heater. It’s a blanket hoodie that offers comfort and warmth, making it great for anyone facing high energy bills. It wins in this guide for its unique blanket design that provides extra warmth. The catch: it’s not cheap, so it may be out of reach for tight budgets.",
+   "specs": [
+    "Blanket hoodie design",
+    "Keeps you warm without electric element",
+    "Ideal for cold days at home or outdoors"
+   ],
+   "pros": [
+    "Extra warmth",
+    "No electric heater needed",
+    "Comfortable"
+   ],
+   "cons": [
+    "Higher price",
+    "Not suitable for very hot days"
+   ],
+   "best_for": "People who need extra warmth for cold days",
+   "skip_if": "You live in a warm climate",
+   "link": "https://www.amazon.com/s?k=Oodie&tag=zoepicks00-20",
+   "tabs": [
+    "oversized"
+   ]
+  },
+  {
+   "name": "Champion Reverse Weave",
+   "short": "Champion Reverse Weave",
+   "badge": "Best Budget",
+   "why": [
+    "It is a comfortable pullover made from a reverse weave fabric.",
+    "It offers good durability and a classic look."
+   ],
+   "desc": "Champion Reverse Weave is a comfortable pullover hoodie made from reverse weave fabric. It has a classic look and good durability.",
+   "benefit": "Picture a quick errand run in the city—this hoodie is easy to wear and looks good. Its reverse weave fabric gives it a smooth feel and it’s affordable, making it a solid choice for everyday wear. It stands out in this guide for its low price and classic style. The catch: it doesn’t have the same level of softness as higher-end options.",
+   "specs": [
+    "Reverse weave fabric",
+    "Comfortable pullover",
+    "Classic look"
+   ],
+   "pros": [
+    "Affordable",
+    "Durable",
+    "Classic style"
+   ],
+   "cons": [
+    "Less soft than premium hoodies",
+    "No special features"
+   ],
+   "best_for": "Budget-conscious shoppers",
+   "skip_if": "You want premium softness",
+   "link": "https://www.amazon.com/s?k=Champion+Reverse+Weave&tag=zoepicks00-20",
+   "tabs": [
+    "oversized"
+   ]
   }
  ],
  "tips": {
@@ -355,6 +451,10 @@
   {
    "key": "bape",
    "label": "Bape"
+  },
+  {
+   "key": "oversized",
+   "label": "Oversized"
   }
  ]
 }
