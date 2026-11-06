@@ -1,4 +1,3 @@
-ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-4k-tvs-2026/oled/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-5g-router-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-adjustable-dumbbells-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-air-fryers-2026/index.html
@@ -44,6 +43,7 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cat-scented-pe
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cat-trees-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-cheetah-print-slippers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-chewable-fidget-toy-2026/index.html
+ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-chocolate-protein-powder-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-circular-saws-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-coffee-makers-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-comforter-sets-2026/index.html
@@ -393,8 +393,8 @@ ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-workout-pants-
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-game-disc-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-xbox-travel-case-2026/index.html
 ok /home/runner/work/zoepicks.github.io/zoepicks.github.io/g/best-yoga-mats-2026/index.html
-[collect] done: best-oversized-hoodie-2026 -> tab 'oversized' of best-hoodies-2026 (+3 new, 0 already there)
-[collect] progress: guide 1 done (best-oversized-hoodie-2026) | tried 1 | tavily keys alive 2/4
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,536 requested 2,316"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b"]}
+[collect] done: best-chocolate-protein-powder-2026 3 products
+[collect] progress: guide 1 done (best-chocolate-protein-powder-2026) | tried 1 | tavily keys alive 2/4
+[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ', 'LQ4f'] | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 199,125 requested 1,845", "LQ4f|openai/gpt-oss-120b": "limit 200,000 used 199,041 requested 2,066"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b", "LQ4f|openai/gpt-oss-20b"]}
 [collect] run finished: 1 guide(s) built, 1 topic(s) tried
