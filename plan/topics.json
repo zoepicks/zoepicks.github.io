@@ -4761,7 +4761,8 @@
   "source": "buyer-leads",
   "parent": "best-travel-backpacks-2026",
   "tab": "waterproof",
-  "tab_label": "Waterproof"
+  "tab_label": "Waterproof",
+  "last_try": "Nov 6, 2026"
  },
  {
   "title": "Best Microfiber Drawing Glove (2026)",
@@ -4770,6 +4771,7 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 6, 2026"
  }
 ]
