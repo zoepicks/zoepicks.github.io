@@ -31,9 +31,18 @@
    "best_for": "Makeup artists and quick looks",
    "skip_if": "You need a very large color selection",
    "link": "https://www.amazon.com/s?k=Well+People+Eyeshadow+Palette&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B07NCWSSKF",
+   "image": "https://m.media-amazon.com/images/I/61ffpY+ScmL.jpg",
+   "image_asin": "B07NCWSSKF",
+   "amazon_price": "$23.00",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "Well People Power Palette Eyeshadow, Taupe | Five Long-wear, Hyper-pigmented Matte & Shimm",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 88,
+   "amazon_rating_asof": "Nov 6, 2026"
   },
   {
    "name": "ILIA Eyeshadow Palette",
@@ -58,9 +67,18 @@
    "best_for": "Busy students and quick routines",
    "skip_if": "You need a wide range of shades",
    "link": "https://www.amazon.com/s?k=ILIA+Eyeshadow+Palette&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B07Z42VLNV",
+   "image": "https://m.media-amazon.com/images/I/61ourlNKKDL.jpg",
+   "image_asin": "B07Z42VLNV",
+   "amazon_price": "$41.00",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "ILIA - The Necessary Eyeshadow Palette (Warm Nude, 6 x 0.05 oz | 1.5 g) | Long-Wear, Creas",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 560,
+   "amazon_rating_asof": "Nov 6, 2026"
   },
   {
    "name": "Cheekbone Beauty Eyeshadow Palette",
@@ -85,8 +103,8 @@
    "best_for": "Budget-conscious buyers",
    "skip_if": "You need premium finishes",
    "link": "https://www.amazon.com/s?k=Cheekbone+Beauty+Eyeshadow+Palette&tag=zoepicks00-20",
-   "fill_tries": 1,
-   "fill_last": "Nov 2, 2026",
+   "fill_tries": 2,
+   "fill_last": "Nov 6, 2026",
    "fill_failed": false
   }
  ]
