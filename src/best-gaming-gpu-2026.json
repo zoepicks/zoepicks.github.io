@@ -19,7 +19,16 @@
    "benefit": "Picture a gamer who wants to play the latest titles at 4K resolution with high settings but doesn’t want to spend a fortune. The RX 9070 XT gives solid 4K frame rates, outperforming the budget RTX 5050 and beating the value‑focused RX 9060 XT in raw power. It is the only mid‑range card in this guide that targets 4K without the high‑end price tag. The catch: it is not the absolute fastest GPU available, lagging behind the RTX 5090 in top‑end performance.",
    "best_for": "4K gamers on a moderate budget",
    "skip_if": "You need the absolute highest performance for 8K or extreme ray tracing",
-   "link": "https://www.amazon.com/s?k=AMD+Radeon+RX+9070+XT&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=AMD+Radeon+RX+9070+XT&tag=zoepicks00-20",
+   "asin": "B0DW4FRCQR",
+   "image": "https://m.media-amazon.com/images/I/61Ktllk8BvL.jpg",
+   "image_asin": "B0DW4FRCQR",
+   "amazon_price": "$944.99",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition with 16GB GDDR6 HDMI 3xDP, AMD RD",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 304,
+   "amazon_rating_asof": "Nov 6, 2026"
   },
   {
    "name": "Nvidia GeForce RTX 5090",
@@ -33,7 +42,16 @@
    "benefit": "Picture a competitive gamer or content creator who needs the absolute best frame rates and ray‑tracing performance. The RTX 5090 outperforms all other picks in raw power, making it the only card here that can handle the most demanding workloads. The catch: its price is at the very high end of the market, making it less accessible for most buyers.",
    "best_for": "Enthusiasts needing peak performance",
    "skip_if": "Budget is a primary concern",
-   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+5090&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+5090&tag=zoepicks00-20",
+   "asin": "B0DTHV8THW",
+   "image": "https://m.media-amazon.com/images/I/71IRIvHOVDL.jpg",
+   "image_asin": "B0DTHV8THW",
+   "amazon_price": "$7,999.99",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card (Nvidia GeForc",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 151,
+   "amazon_rating_asof": "Nov 6, 2026"
   },
   {
    "name": "AMD Radeon RX 9060 XT 16 GB",
@@ -47,7 +65,16 @@
    "benefit": "Picture a gamer who plays at 1080p or 1440p and wants decent frame rates without spending a lot. The RX 9060 XT offers better performance than the budget RTX 5050 and costs less than the higher‑end RX 9070 XT. It is the only card in this guide highlighted specifically for value. The catch: it won’t match the 4K performance of the RX 9070 XT or RTX 5090.",
    "best_for": "Mainstream gamers on a budget",
    "skip_if": "You need strong 4K performance",
-   "link": "https://www.amazon.com/s?k=AMD+Radeon+RX+9060+XT+16%E2%80%AFGB&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=AMD+Radeon+RX+9060+XT+16%E2%80%AFGB&tag=zoepicks00-20",
+   "asin": "B0F8128Y33",
+   "image": "https://m.media-amazon.com/images/I/71IHZE7uAcL.jpg",
+   "image_asin": "B0F8128Y33",
+   "amazon_price": "$659.99",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "XFX Swift AMD Radeon RX 9060 XT OC Triple Fan Gaming Edition with 16GB GDDR6 HDMI 2xDP, RD",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 418,
+   "amazon_rating_asof": "Nov 6, 2026"
   },
   {
    "name": "Nvidia GeForce RTX 5050",
@@ -60,7 +87,10 @@
    "benefit": "Picture a casual gamer or someone building a low‑cost PC who still wants to run modern games at modest settings. The RTX 5050 provides basic performance, making it the cheapest option in this guide. The catch: its performance is limited compared to all other picks, especially at higher resolutions.",
    "best_for": "Entry‑level gaming rigs",
    "skip_if": "You need higher resolution or frame rates",
-   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+5050&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Nvidia+GeForce+RTX+5050&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 6, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
