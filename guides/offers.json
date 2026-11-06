@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T18:36:31Z",
+ "updated": "2026-11-06T20:53:36Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2165,18 +2165,6 @@
       "img": "https://m.media-amazon.com/images/I/71uOkPQG8hL.jpg",
       "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
       "reviews": 0
-     },
-     {
-      "asin": "B09Q83V8MQ",
-      "name": "Crosley CR6043A-NA Brio Record Player",
-      "pct": 23,
-      "rating": 4.3,
-      "t": 1793867512,
-      "img": "https://m.media-amazon.com/images/I/71SpmrQoHHL.jpg",
-      "link": "https://www.amazon.com/dp/B09Q83V8MQ?tag=zoepicks00-20",
-      "now": "107.10",
-      "was": "139.00",
-      "reviews": 68
      }
     ]
    },
@@ -2869,6 +2857,18 @@
       "now": "18.23",
       "was": "31.99",
       "reviews": 1784
+     },
+     {
+      "asin": "B0CXD8ZB2X",
+      "name": "DORIS&JACKY Small Leather Crossbody Purse",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1793896574,
+      "img": "https://m.media-amazon.com/images/I/81O6ark9UvL.jpg",
+      "link": "https://www.amazon.com/dp/B0CXD8ZB2X?tag=zoepicks00-20",
+      "now": "47.59",
+      "was": "55.99",
+      "reviews": 591
      }
     ]
    },
@@ -3433,52 +3433,6 @@
     ]
    },
    {
-    "key": "hiking-boots",
-    "label": "Hiking Boots",
-    "items": [
-     {
-      "asin": "B0DMR4TR8J",
-      "name": "EBMORE 5 Pairs Women Merino Wool Boot Socks Warm Thermal…",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793981220,
-      "img": "https://m.media-amazon.com/images/I/91bNJxR7IxL.jpg",
-      "link": "https://www.amazon.com/dp/B0DMR4TR8J?tag=zoepicks00-20",
-      "now": "12.71",
-      "was": "16.99",
-      "deal": "Limited time deal",
-      "reviews": 6848,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FQ4WNFNY",
-      "name": "ARTOPEAK Men's Waterproof Hiking Boots",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1793861033,
-      "img": "https://m.media-amazon.com/images/I/71LJOvivVfL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQ4WNFNY?tag=zoepicks00-20",
-      "now": "20.99",
-      "was": "29.99",
-      "reviews": 104,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0B5DMBTM5",
-      "name": "NORTIV 8 Men's Ankle High Waterproof Hiking Boots",
-      "pct": 22,
-      "rating": 4.4,
-      "t": 1793861026,
-      "img": "https://m.media-amazon.com/images/I/71p2KL9ZXTL.jpg",
-      "link": "https://www.amazon.com/dp/B0B5DMBTM5?tag=zoepicks00-20",
-      "now": "46.66",
-      "was": "59.99",
-      "reviews": 23918,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "yoga-mats",
     "label": "Yoga Mats",
     "items": [
@@ -3493,18 +3447,25 @@
       "now": "13.98",
       "was": "19.99",
       "reviews": 18447
-     },
+     }
+    ]
+   },
+   {
+    "key": "hiking-boots",
+    "label": "Hiking Boots",
+    "items": [
      {
-      "asin": "B0DXKZ5H5G",
-      "name": "Umineux Yoga Mat Cork 1/4 & 2/5 Inch Thick Exercise Mats 72…",
-      "pct": 20,
-      "rating": 4.2,
-      "t": 1793862871,
-      "img": "https://m.media-amazon.com/images/I/91MEYdip3aL.jpg",
-      "link": "https://www.amazon.com/dp/B0DXKZ5H5G?tag=zoepicks00-20",
-      "now": "31.99",
-      "was": "39.99",
-      "reviews": 84
+      "asin": "B0DMR4TR8J",
+      "name": "EBMORE 5 Pairs Women Merino Wool Boot Socks Warm Thermal…",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793981220,
+      "img": "https://m.media-amazon.com/images/I/91bNJxR7IxL.jpg",
+      "link": "https://www.amazon.com/dp/B0DMR4TR8J?tag=zoepicks00-20",
+      "now": "12.71",
+      "was": "16.99",
+      "deal": "Limited time deal",
+      "reviews": 6848
      }
     ]
    },
@@ -5442,13 +5403,14 @@
       "asin": "B0CWL14K13",
       "name": "SANSUI Gaming Monitor 27\" 1440p 260hz/240hz WQHD 2K",
       "pct": 31,
-      "rating": 4.4,
-      "t": 1793867544,
+      "rating": 4.5,
+      "t": 1793982128,
       "img": "https://m.media-amazon.com/images/I/71H04VRAlYL.jpg",
       "link": "https://www.amazon.com/dp/B0CWL14K13?tag=zoepicks00-20",
       "now": "179.98",
       "was": "259.99",
-      "reviews": 5050,
+      "deal": "Limited time deal",
+      "reviews": 3556,
       "tier": "premium"
      }
     ]
