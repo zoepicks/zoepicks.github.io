@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T07:02:44Z",
+ "updated": "2026-11-06T09:02:52Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -602,19 +602,6 @@
   ],
   "smart_home": [
    {
-    "asin": "B0FHJ7TKZM",
-    "name": "Ring Battery Doorbell 2K",
-    "pct": 60,
-    "rating": 4.2,
-    "t": 1793897744,
-    "img": "https://m.media-amazon.com/images/I/616Leg1GwuL.jpg",
-    "link": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "99.99",
-    "reviews": 8441,
-    "tier": "budget"
-   },
-   {
     "asin": "B0H3QZT1KF",
     "name": "Blink Solaris 2K+ (newest model)",
     "pct": 67,
@@ -626,6 +613,19 @@
     "was": "239.97",
     "deal": "Limited time deal",
     "reviews": 94,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0HHJ3FHVD",
+    "name": "【Roku TV & High Lumens】Outdoor Smart Portable Projector…",
+    "pct": 61,
+    "rating": 4.8,
+    "t": 1793897744,
+    "img": "https://m.media-amazon.com/images/I/71-NrcxwPrL.jpg",
+    "link": "https://www.amazon.com/dp/B0HHJ3FHVD?tag=zoepicks00-20",
+    "now": "129.99",
+    "was": "329.99",
+    "reviews": 48,
     "tier": "mid"
    },
    {
@@ -5208,17 +5208,6 @@
     "label": "Security Cameras",
     "items": [
      {
-      "asin": "B0G752PK9X",
-      "name": "myQ Indoor Plug-in Security Camera Gen 2",
-      "pct": 50,
-      "rating": 4.1,
-      "t": 1793945112,
-      "img": "https://m.media-amazon.com/images/I/71v6Hy75hhL.jpg",
-      "link": "https://www.amazon.com/dp/B0G752PK9X?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
       "asin": "B0C62MHK2Z",
       "name": "Like-New Ring Outdoor Cam",
       "pct": 51,
@@ -5230,6 +5219,20 @@
       "was": "71.99",
       "deal": "Limited time deal",
       "reviews": 1447,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H5HTFK6F",
+      "name": "4MP Wired Outdoor Security Camera,360° PTZ WiFi Camera",
+      "pct": 42,
+      "rating": 4.2,
+      "t": 1793897744,
+      "img": "https://m.media-amazon.com/images/I/611pGK4CV8L.jpg",
+      "link": "https://www.amazon.com/dp/B0H5HTFK6F?tag=zoepicks00-20",
+      "now": "37.99",
+      "was": "64.99",
+      "deal": "Limited time deal",
+      "reviews": 51,
       "tier": "mid"
      },
      {
@@ -5309,8 +5312,7 @@
       "link": "https://www.amazon.com/dp/B0FHJ7TKZM?tag=zoepicks00-20",
       "now": "39.99",
       "was": "99.99",
-      "reviews": 8441,
-      "tier": "budget"
+      "reviews": 8441
      }
     ]
    },
