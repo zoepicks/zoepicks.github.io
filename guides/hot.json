@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T12:56:03Z",
+ "updated": "2026-11-06T14:56:16Z",
  "hot": [
   {
    "asin": "B0HL84W23P",
@@ -83,7 +83,7 @@
    "was": "99.98",
    "deal": "Limited time deal",
    "reviews": 23,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B089GBFM7G",
@@ -109,8 +109,7 @@
    "now": "35.99",
    "was": "99.99",
    "deal": "Limited time deal",
-   "reviews": 34,
-   "tier": "premium"
+   "reviews": 34
   },
   {
    "asin": "B0H6BKZLKJ",
@@ -253,12 +252,13 @@
    "name": "Lulex Moccasins for Men House Slippers Indoor Outdoor Plush…",
    "pct": 57,
    "rating": 4.5,
-   "t": 1793945299,
+   "t": 1793896574,
    "img": "https://m.media-amazon.com/images/I/71-LDVcJd4L.jpg",
    "link": "https://www.amazon.com/dp/B07WFZ5MLT?tag=zoepicks00-20",
    "now": "12.37",
    "was": "28.99",
-   "reviews": 18193,
+   "deal": "Limited time deal",
+   "reviews": 18215,
    "tier": "budget"
   },
   {
@@ -276,19 +276,6 @@
    "tier": "budget"
   },
   {
-   "asin": "B00MVAQN4E",
-   "name": "Clarks Women's Leisa Cacti Q Slide Sandal",
-   "pct": 55,
-   "rating": 4.6,
-   "t": 1793945299,
-   "img": "https://m.media-amazon.com/images/I/514L4dNXWkL.jpg",
-   "link": "https://www.amazon.com/dp/B00MVAQN4E?tag=zoepicks00-20",
-   "now": "43.20",
-   "was": "95.00",
-   "reviews": 12034,
-   "tier": "premium"
-  },
-  {
    "asin": "B0FHJ7TKZM",
    "name": "Ring Battery Doorbell 2K",
    "pct": 60,
@@ -299,18 +286,6 @@
    "now": "39.99",
    "was": "99.99",
    "reviews": 8441
-  },
-  {
-   "asin": "B0GHSN56DV",
-   "name": "100% Pure Titanium Cutting Board Set of 3",
-   "pct": 55,
-   "rating": 4.4,
-   "t": 1793945298,
-   "img": "https://m.media-amazon.com/images/I/717f3e128SL.jpg",
-   "link": "https://www.amazon.com/dp/B0GHSN56DV?tag=zoepicks00-20",
-   "now": "44.98",
-   "was": "99.99",
-   "reviews": 0
   },
   {
    "asin": "B0HLKNYZKQ",
@@ -354,19 +329,6 @@
    "tier": "premium"
   },
   {
-   "asin": "B0F1MX275N",
-   "name": "URBONUR Gamer Queen Comforter Set",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1793945302,
-   "img": "https://m.media-amazon.com/images/I/71uFvvsmATL.jpg",
-   "link": "https://www.amazon.com/dp/B0F1MX275N?tag=zoepicks00-20",
-   "now": "29.99",
-   "was": "59.99",
-   "reviews": 130,
-   "tier": "budget"
-  },
-  {
    "asin": "B0C62MHK2Z",
    "name": "Like-New Ring Outdoor Cam",
    "pct": 51,
@@ -407,6 +369,48 @@
    "deal": "Limited time deal",
    "reviews": 50,
    "tier": "budget"
+  },
+  {
+   "asin": "B074MW1MTW",
+   "name": "FuelMeFoot 3 Pack Copper Compression Socks",
+   "pct": 48,
+   "rating": 4.4,
+   "t": 1793896574,
+   "img": "https://m.media-amazon.com/images/I/61AK78IB57L.jpg",
+   "link": "https://www.amazon.com/dp/B074MW1MTW?tag=zoepicks00-20",
+   "now": "10.99",
+   "was": "20.99",
+   "deal": "Limited time deal",
+   "reviews": 68946,
+   "tier": "budget"
+  },
+  {
+   "asin": "B0CLGNYKFR",
+   "name": "EverFoams Womens Fuzzy Open-toe Slippers Memory Foam Indoor…",
+   "pct": 46,
+   "rating": 4.5,
+   "t": 1793896574,
+   "img": "https://m.media-amazon.com/images/I/81rGYT3pkaL.jpg",
+   "link": "https://www.amazon.com/dp/B0CLGNYKFR?tag=zoepicks00-20",
+   "now": "18.97",
+   "was": "34.99",
+   "deal": "Limited time deal",
+   "reviews": 16036,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0CS3V8M9H",
+   "name": "Ninja Air Fryer XL",
+   "pct": 44,
+   "rating": 4.7,
+   "t": 1793897163,
+   "img": "https://m.media-amazon.com/images/I/61TH-Ig6i-L.jpg",
+   "link": "https://www.amazon.com/dp/B0CS3V8M9H?tag=zoepicks00-20",
+   "now": "99.99",
+   "was": "179.99",
+   "deal": "Limited time deal",
+   "reviews": 11227,
+   "tier": "mid"
   }
  ],
  "ess": [
