@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T17:04:21Z",
+ "updated": "2026-11-06T17:05:18Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -5379,6 +5379,52 @@
       "was": "159.99",
       "deal": "Limited time deal",
       "reviews": 44,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "chocolate-protein-powder",
+    "label": "Chocolate Protein Powder",
+    "items": [
+     {
+      "asin": "B0842YHRJ9",
+      "name": "Chike Chocolate Peanut Butter High Protein Iced Coffee",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793983267,
+      "img": "https://m.media-amazon.com/images/I/61J4WTvLm2L.jpg",
+      "link": "https://www.amazon.com/dp/B0842YHRJ9?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "reviews": 358,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DJ1SQ38T",
+      "name": "Chike White Chocolate Peppermint Protein Iced Coffee",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1793983267,
+      "img": "https://m.media-amazon.com/images/I/71Qe5f3-e1L.jpg",
+      "link": "https://www.amazon.com/dp/B0DJ1SQ38T?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "reviews": 51,
+      "tier": "mid"
+     },
+     {
+      "asin": "B06XTD74VD",
+      "name": "Ora Organic Vegan Protein Powder",
+      "pct": 17,
+      "rating": 4.1,
+      "t": 1793983287,
+      "img": "https://m.media-amazon.com/images/I/51a-ccYJ4tL.jpg",
+      "link": "https://www.amazon.com/dp/B06XTD74VD?tag=zoepicks00-20",
+      "now": "49.98",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 2300,
       "tier": "premium"
      }
     ]
