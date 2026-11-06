@@ -4,8 +4,18 @@
  "category": "other",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were made by reviewing the PCMag review of the HP PS1810‑8G and the Aurender NH10 review on Aurender’s site, selecting products mentioned in more than one source.",
- "assumptions": "Prices are not provided in the sources, so no price caveats are included.",
+ "method": "Picks were made by reviewing the product lists and detailed reviews from pc‑mag.com, networkswitchreviews.com, networkgearreview.com, and wired.com. Products appearing in more than one source were prioritized.",
+ "assumptions": "Prices are not included because none of the sources provide them.",
  "products": [],
+ "verdict": {
+  "pick": "NETGEAR 48‑Port PoE+ Gigabit Ethernet Switch",
+  "line": "Picture a small business with 48 devices that need reliable, PoE‑enabled connections. The NETGEAR 48‑Port PoE+ Gigabit Ethernet Switch delivers that with a large port count and PoE+ support, making it ideal for growing offices or data‑center setups. Its main catch is that it is unmanaged, so advanced configuration is not possible.",
+  "also": [
+   [
+    "Best 8‑Port PoE",
+    "TP‑Link TL‑SG108PE 8‑Port Smart Managed Gigabit PoE Switch"
+   ]
+  ]
+ },
  "draft": true
 }

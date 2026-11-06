@@ -4,8 +4,18 @@
  "category": "toys_kids",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the sources that explicitly recommend or review them. The sites used were Tom’s Guide, Web Archive (Sassimals review), CapybaraTalks (TITQWOP review) and Tom’s Guide (SquishPillow review).",
- "assumptions": "Prices are not provided in any source, so no price information is included.",
+ "method": "Selected products that appear in at least one source, prioritized those mentioned by multiple sites. Sources used: Tom’s Guide (SquishPillow), Taste of Home (Warmies, Hugz, Hugimals).",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
  "products": [],
+ "verdict": {
+  "pick": "Warmies Weighted Stuffed Animal",
+  "line": "Warmies is ideal for adults and kids who want a calming, weighted hug. It offers a soothing pressure that eases anxiety and can be heated or cooled for extra comfort. The catch: it is heavier than some other plush options, which may be less portable.",
+  "also": [
+   [
+    "Best for kids’ size",
+    "Hugimals"
+   ]
+  ]
+ },
  "draft": true
 }

@@ -4,8 +4,12 @@
  "category": "toys_kids",
  "date": "Nov 6, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on products named in source 6 (EVST guide) and source 4 (DOBOT catalog). Products appearing in multiple sources were preferred, but none overlapped, so the highest‑ranked models from each list were used.",
- "assumptions": "No price information was given in the sources, so price fields are null.",
+ "method": "Picks were chosen by looking for products mentioned in the provided sources and giving priority to those cited by more than one source (Roborock).",
+ "assumptions": "No price information was added except where a source gave a figure; all other details come directly from the excerpts.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70 Robot Vacuum with Mechanical Arm",
+  "line": "Buy it if you want a robot that not only vacuums but also picks up small items around the house. It’s the only vacuum in this guide with a built‑in arm that can move socks, shoes and other objects to a storage box. The catch is its high price."
+ },
  "draft": true
 }
