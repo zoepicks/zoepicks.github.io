@@ -4773,5 +4773,17 @@
   "priority": 0,
   "source": "buyer-leads",
   "last_try": "Nov 6, 2026"
+ },
+ {
+  "title": "Best Split Keyboard (2026)",
+  "slug": "best-split-keyboard-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-mechanical-keyboards-2026",
+  "tab": "split",
+  "tab_label": "Split"
  }
 ]
