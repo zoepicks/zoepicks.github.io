@@ -6350,9 +6350,24 @@
   },
   "home_kitchen:stove-pressure-cooker": {
    "label": "Stove Pressure Cooker",
-   "tries": 11,
-   "items": [],
-   "scanned": "2026-11-05T01:12:45.320468+00:00"
+   "tries": 12,
+   "items": [
+    {
+     "asin": "B0FX4C2BXT",
+     "name": "KOCH SYSTEME CS Stainless Steel Pressure Cooker 10.5 Quart",
+     "pct": 21,
+     "rating": 4.6,
+     "t": 1793929743,
+     "img": "https://m.media-amazon.com/images/I/718b3MBWUaL.jpg",
+     "link": "https://www.amazon.com/dp/B0FX4C2BXT?tag=zoepicks00-20",
+     "now": "109.99",
+     "was": "139.99",
+     "reviews": 84,
+     "_title": "KOCH SYSTEME CS Stainless Steel Pressure Cooker 10.5 Quart, 3-in-1 Olla de Presion, One-Hand Locking, 3 PSI Settings Stove...",
+     "_price": 109.99
+    }
+   ],
+   "scanned": "2026-11-06T01:49:03.718496+00:00"
   },
   "other:washing-machine": {
    "label": "Washing Machine",
