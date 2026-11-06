@@ -4713,14 +4713,15 @@
   "high_ticket": false,
   "status": "todo",
   "priority": 0,
-  "source": "buyer-leads"
+  "source": "buyer-leads",
+  "last_try": "Nov 6, 2026"
  },
  {
   "title": "Best Nintendo Switch Controller (2026)",
   "slug": "best-nintendo-switch-controller-2026",
   "category": "gaming",
   "high_ticket": false,
-  "status": "todo",
+  "status": "done",
   "priority": 0,
   "source": "buyer-leads"
  }
