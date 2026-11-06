@@ -2,7 +2,7 @@
  "slug": "best-street-photography-camera-2026",
  "title": "Best Street Photography Camera (2026)",
  "category": "electronics",
- "date": "Nov 4, 2026",
+ "date": "Nov 6, 2026",
  "summary": "The guide highlights compact and mirrorless cameras that excel in street photography, with the Fujifilm X100VI leading the pack.",
  "method": "Picks were made by cross‑referencing the PCMag, CNET, and RTINGS reviews, selecting models mentioned by more than one source and noting their stated strengths.",
  "assumptions": "Prices are omitted because none of the sources provide them.",
@@ -683,6 +683,66 @@
    "tabs": [
     "instant"
    ]
+  },
+  {
+   "name": "Intrepid Large Format Camera",
+   "short": "Intrepid",
+   "badge": "Best Learning Large Format",
+   "why": [
+    "The Intrepid is described as affordable, light and straightforward to use.",
+    "It is positioned as a good first large‑format camera for those transitioning from 35 mm."
+   ],
+   "desc": "A large‑format camera that balances design and cost, offering a lightweight and easy‑to‑use system for beginners.",
+   "benefit": "Picture a 35 mm photographer stepping into large format for the first time. The Intrepid’s light weight and simple controls make the transition easy, and its price is lower than more refined models. It is the only entry‑level large‑format option in this guide. The catch: it lacks some of the advanced movements found on higher‑end cameras.",
+   "specs": [
+    "Lightweight design",
+    "Affordable price point",
+    "Straightforward operation"
+   ],
+   "pros": [
+    "Easy to learn",
+    "Portable",
+    "Cost‑effective"
+   ],
+   "cons": [
+    "Limited view‑camera movements",
+    "Less refined than premium models"
+   ],
+   "best_for": "Beginners to large format",
+   "skip_if": "Need extensive camera movements",
+   "link": "https://www.amazon.com/s?k=Intrepid+Large+Format+Camera&tag=zoepicks00-20",
+   "tabs": [
+    "large-format"
+   ]
+  },
+  {
+   "name": "Olympus PEN-F",
+   "short": "PEN-F",
+   "badge": "Best Retro‑Style Mirrorless",
+   "why": [
+    "Offers a retro design with strong 20‑megapixel image quality.",
+    "Provides good image and video performance despite a higher price."
+   ],
+   "desc": "A retro‑styled mirrorless camera with a 20‑megapixel sensor and solid image and video capabilities.",
+   "benefit": "Picture a street photographer who likes classic looks and solid image quality. The PEN‑F’s 20 MP sensor delivers clear photos and video, and its retro body appeals to style‑focused users. It is the only mirrorless option in this guide. The catch: it is considered pricey for its feature set.",
+   "specs": [
+    "20‑megapixel image sensor"
+   ],
+   "pros": [
+    "Retro design",
+    "Good image quality",
+    "Strong video performance"
+   ],
+   "cons": [
+    "Pricey",
+    "Limited to 20 MP compared to higher‑resolution picks"
+   ],
+   "best_for": "Style‑conscious photographers",
+   "skip_if": "Need higher resolution or medium format",
+   "link": "https://www.amazon.com/s?k=Olympus+PEN-F&tag=zoepicks00-20",
+   "tabs": [
+    "large-format"
+   ]
   }
  ],
  "verdict": {
@@ -719,6 +779,10 @@
   {
    "key": "instant",
    "label": "Instant"
+  },
+  {
+   "key": "large-format",
+   "label": "Large Format"
   }
  ]
 }
