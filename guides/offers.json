@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-06T01:01:48Z",
+ "updated": "2026-11-06T03:01:56Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -64,16 +64,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B0BB6B581W",
-    "name": "tarte tartelette tubing mascara",
-    "pct": 73,
-    "rating": 4.4,
-    "t": 1793899226,
-    "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
-    "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
-    "now": "28.00",
-    "was": "103.70",
-    "reviews": 103,
+    "asin": "B0HGL3F4MM",
+    "name": "Hair Dryer, Professional High-Speed Ionic Blow Dryer",
+    "pct": 71,
+    "rating": 5.0,
+    "t": 1793898119,
+    "img": "https://m.media-amazon.com/images/I/71EZfi7kXDL.jpg",
+    "link": "https://www.amazon.com/dp/B0HGL3F4MM?tag=zoepicks00-20",
+    "now": "49.99",
+    "was": "169.99",
+    "deal": "Limited time deal",
+    "reviews": 31,
     "tier": "premium"
    }
   ],
@@ -1445,6 +1446,25 @@
     ]
    },
    {
+    "key": "facial-skincare",
+    "label": "Facial Skincare",
+    "items": [
+     {
+      "asin": "B0H7SN8MZW",
+      "name": "Red Light Therapy for Face & Neck",
+      "pct": 42,
+      "rating": 4.6,
+      "t": 1793929567,
+      "img": "https://m.media-amazon.com/images/I/71mtodVLgpL.jpg",
+      "link": "https://www.amazon.com/dp/B0H7SN8MZW?tag=zoepicks00-20",
+      "now": "74.98",
+      "was": "129.98",
+      "deal": "Limited time deal",
+      "reviews": 35
+     }
+    ]
+   },
+   {
     "key": "moisturizer",
     "label": "Moisturizer",
     "items": [
@@ -2013,11 +2033,6 @@
    {
     "key": "electric-toothbrushes",
     "label": "Electric Toothbrushes",
-    "items": []
-   },
-   {
-    "key": "facial-skincare",
-    "label": "Facial Skincare",
     "items": []
    },
    {
@@ -5255,6 +5270,24 @@
     ]
    },
    {
+    "key": "stove-pressure-cooker",
+    "label": "Stove Pressure Cooker",
+    "items": [
+     {
+      "asin": "B0FX4C2BXT",
+      "name": "KOCH SYSTEME CS Stainless Steel Pressure Cooker 10.5 Quart",
+      "pct": 21,
+      "rating": 4.6,
+      "t": 1793929743,
+      "img": "https://m.media-amazon.com/images/I/718b3MBWUaL.jpg",
+      "link": "https://www.amazon.com/dp/B0FX4C2BXT?tag=zoepicks00-20",
+      "now": "109.99",
+      "was": "139.99",
+      "reviews": 84
+     }
+    ]
+   },
+   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": [
@@ -5366,11 +5399,6 @@
       "reviews": 877
      }
     ]
-   },
-   {
-    "key": "stove-pressure-cooker",
-    "label": "Stove Pressure Cooker",
-    "items": []
    },
    {
     "key": "duvet-cover",
