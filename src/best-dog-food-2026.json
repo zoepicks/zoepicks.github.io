@@ -34,7 +34,7 @@
    "best_for": "Owners who prioritize verified nutrient consistency and low contaminant levels based on independent testing.",
    "skip_if": "You need a specific grain-free or limited-ingredient diet not covered by the listed Hill's variants.",
    "link": "https://www.amazon.com/s?k=Hill%27s+Science+Diet&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Nov 6, 2026",
    "fill_failed": false
   },
@@ -65,7 +65,7 @@
    "best_for": "Owners seeking a brand with verified nutrient levels and low contaminant counts.",
    "skip_if": "You require a fresh or frozen food option, as this is a dry food.",
    "link": "https://www.amazon.com/s?k=Blue+Buffalo%3A+Life+Protection+Formula+Natural+Adult&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Nov 6, 2026",
    "fill_failed": false
   },
@@ -96,9 +96,15 @@
    "best_for": "Owners of small or mini breed dogs.",
    "skip_if": "You have a large breed dog.",
    "link": "https://www.amazon.com/s?k=Hill%27s+Science+Diet+Small+%26+Mini&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 6, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B003CLAJ1E",
+   "image": "https://m.media-amazon.com/images/I/81LPusoAEuL.jpg",
+   "image_asin": "B003CLAJ1E",
+   "amazon_price": "$23.99",
+   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_listing": "Hill's Science Diet Senior Adult 7+ Small & Mini Dry Dog Food | #1 Veterinarian Recommende"
   }
  ],
  "verdict": {
