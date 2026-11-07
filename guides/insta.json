@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-07T06:54:03Z",
+ "updated": "2026-11-07T10:54:41Z",
  "cats": [
   {
    "key": "fashion",
@@ -38,20 +38,7 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [
-   {
-    "asin": "B08KJ4H2SH",
-    "name": "Viktor&Rolf Flowerbomb Eau de Parfum",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1794005544,
-    "img": "https://m.media-amazon.com/images/I/51+gxsqrqoL.jpg",
-    "link": "https://www.amazon.com/dp/B08KJ4H2SH?tag=zoepicks00-20",
-    "now": "26.25",
-    "was": "79.55",
-    "cat": "beauty"
-   }
-  ],
+  "beauty": [],
   "home": [
    {
     "asin": "B077Z2QCS5",
