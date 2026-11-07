@@ -12547,25 +12547,39 @@
   },
   "electronics:mac-studio": {
    "label": "Mac Studio",
-   "tries": 1,
+   "tries": 2,
    "items": [
+    {
+     "asin": "B0BFRJY4VS",
+     "name": "MAC Studio Fix 24 Hour Smooth Wear Concealer",
+     "pct": 77,
+     "rating": 4.6,
+     "t": 1794065306,
+     "img": "https://m.media-amazon.com/images/I/61nfhgfbaLL.jpg",
+     "link": "https://www.amazon.com/dp/B0BFRJY4VS?tag=zoepicks00-20",
+     "now": "27.97",
+     "was": "121.61",
+     "reviews": 297,
+     "_title": "MAC Studio Fix 24 Hour Smooth Wear Concealer - NW20 Concealer Women 0.23 oz",
+     "_price": 27.97
+    },
     {
      "asin": "B01LY6Z2M6",
      "name": "Logitech Creators Blue Yeti USB Microphone",
      "pct": 29,
      "rating": 4.6,
-     "t": 1793898844,
+     "t": 1794065306,
      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
      "now": "99.99",
      "was": "139.99",
      "deal": "Limited time deal",
-     "reviews": 57197,
+     "reviews": 57201,
      "_title": "Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Streaming, Podcasting, Studio and Computer Condenser Mic w...",
      "_price": 99.99
     }
    ],
-   "scanned": "2026-11-05T17:14:04.592265+00:00"
+   "scanned": "2026-11-07T15:28:26.729350+00:00"
   },
   "gaming:gaming-gpu": {
    "label": "Gaming Gpu",
