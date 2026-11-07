@@ -5110,19 +5110,33 @@
   },
   "beauty_health:makeup-primers": {
    "label": "Makeup Primers",
-   "tries": 13,
+   "tries": 14,
    "items": [
+    {
+     "asin": "B08FBH945J",
+     "name": "Urban Decay All Nighter Face Makeup Primer",
+     "pct": 72,
+     "rating": 4.5,
+     "t": 1794065633,
+     "img": "https://m.media-amazon.com/images/I/61HjuLpoctL.jpg",
+     "link": "https://www.amazon.com/dp/B08FBH945J?tag=zoepicks00-20",
+     "now": "17.00",
+     "was": "60.71",
+     "reviews": 2514,
+     "_title": "Urban Decay All Nighter Face Makeup Primer - Smoothing + Hydrating Base | Longwear Foundation Primer - Smooths, Hydrates, ...",
+     "_price": 17.0
+    },
     {
      "asin": "B07PQN4XZ1",
      "name": "Milk Makeup Hydro Grip Primer",
      "pct": 67,
      "rating": 4.4,
-     "t": 1793900185,
+     "t": 1794065633,
      "img": "https://m.media-amazon.com/images/I/61PqtXsBs2L.jpg",
      "link": "https://www.amazon.com/dp/B07PQN4XZ1?tag=zoepicks00-20",
      "now": "20.00",
      "was": "60.61",
-     "reviews": 5406,
+     "reviews": 5407,
      "_title": "Milk Makeup Hydro Grip Primer with Hyaluronic Acid + Niacinamide – Hydrating Face Primer Grips Makeup for Up to 12 Hours –...",
      "_price": 20.0
     },
@@ -5131,12 +5145,12 @@
      "name": "Lancôme La Base Pro Perfecting Oil-Free Makeup Primer",
      "pct": 20,
      "rating": 4.7,
-     "t": 1793900185,
+     "t": 1794065633,
      "img": "https://m.media-amazon.com/images/I/61If2-qWJgL.jpg",
      "link": "https://www.amazon.com/dp/B00G40FJH4?tag=zoepicks00-20",
      "now": "45.00",
      "was": "56.25",
-     "reviews": 2885,
+     "reviews": 2888,
      "_title": "Lancôme La Base Pro Perfecting Oil-Free Makeup Primer - 0.8 Fl Oz | Smoothing Face Primer Controls Shine - Flawless Matte ...",
      "_price": 45.0
     },
@@ -5145,17 +5159,17 @@
      "name": "e.l.f. Power Grip Primer",
      "pct": 19,
      "rating": 4.6,
-     "t": 1793900185,
+     "t": 1794065633,
      "img": "https://m.media-amazon.com/images/I/61FfGNgMGsL.jpg",
      "link": "https://www.amazon.com/dp/B09XMYFTB7?tag=zoepicks00-20",
      "now": "11.00",
      "was": "13.56",
-     "reviews": 44691,
+     "reviews": 44736,
      "_title": "e.l.f. Power Grip Primer, Gripping & Hydrating Gel Primer, 0.811 Fl Oz | Grips Makeup for Long-Lasting Wear & Face Prep, S...",
      "_price": 11.0
     }
    ],
-   "scanned": "2026-11-05T17:36:25.613232+00:00",
+   "scanned": "2026-11-07T15:33:53.729305+00:00",
    "via": "sweep"
   },
   "monitors:4k-monitors": {
