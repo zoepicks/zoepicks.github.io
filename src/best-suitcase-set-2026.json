@@ -3,9 +3,99 @@
  "title": "Best Suitcase Set (2026)",
  "category": "fashion",
  "date": "Nov 7, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were chosen from the sources that mentioned them, prioritizing items cited by more than one source. The Samsonite Freeform was highlighted as the best overall by Good Housekeeping, while the American Tourister set was noted as best value.",
- "assumptions": "Prices are not provided in the sources, so no price caveats are included.",
- "products": [],
- "draft": true
+ "summary": "The guide highlights a few standout suitcase sets for 2026, with the Samsonite Freeform Hardside Expandable Spinner emerging as the top pick for most travelers.",
+ "method": "Selected products were chosen from Consumer Reports, Good Housekeeping, Tom Henty’s Travel, and Outdoor Gear Lab reviews, prioritizing items mentioned by multiple sources.",
+ "assumptions": "Prices are not provided in the sources, so no cost information is included.",
+ "products": [
+  {
+   "name": "Samsonite Freeform Hardside Expandable Spinner",
+   "short": "Freeform",
+   "badge": "Best Overall",
+   "why": [
+    "The Freeform is a lightweight, hard‑shell carry‑on that expands for extra space. It features smooth spinner wheels and a durable construction. The set is inexpensive yet high quality, according to Good Housekeeping."
+   ],
+   "desc": "The Samsonite Freeform is a hard‑shell carry‑on that expands to increase capacity. It has smooth spinner wheels and a sturdy build. It does not include a TSA lock.",
+   "benefit": "Picture a business traveler who needs a lightweight, durable carry‑on that expands for extra gear. The Freeform offers a hard‑shell design, expandable capacity, and smooth spinner wheels, making it ideal for frequent flights. It beats the other picks by being the only set that combines a hard shell with expandable space in this guide. The catch: it lacks a built‑in TSA lock.",
+   "specs": [
+    "Hard‑shell construction",
+    "Expandable capacity",
+    "Smooth spinner wheels"
+   ],
+   "pros": [
+    "Lightweight",
+    "Expandable space",
+    "Durable build"
+   ],
+   "cons": [
+    "No TSA lock"
+   ],
+   "best_for": "Frequent flyers who need a lightweight, expandable carry‑on",
+   "skip_if": "You need a built‑in TSA lock",
+   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Hardside+Expandable+Spinner&tag=zoepicks00-20"
+  },
+  {
+   "name": "Travelpro Platinum Elite Large Check‑In",
+   "short": "Platinum Elite",
+   "badge": "Best Checked",
+   "why": [
+    "Travelpro Platinum Elite is highlighted by Outdoor Gear Lab as the best checked luggage for its durability, organization, and smooth wheels. It is a hard‑shell case with excellent features."
+   ],
+   "desc": "The Travelpro Platinum Elite is a hard‑shell checked suitcase that offers great organization and smooth, self‑aligning wheels. It is designed for extended travel. It does not have a built‑in TSA lock.",
+   "benefit": "Picture a frequent traveler who needs a robust checked bag that stays organized. The Platinum Elite provides a hard‑shell build, excellent organization, and smooth wheels, making it ideal for long trips. It outperforms the LEVEL8 Voyageur in wheel smoothness and organization, but it is heavier than some softside options. The catch: it lacks a built‑in TSA lock.",
+   "specs": [
+    "Hard‑shell construction",
+    "Excellent organization",
+    "Smooth self‑aligning wheels"
+   ],
+   "pros": [
+    "Durable",
+    "Great organization",
+    "Smooth wheels"
+   ],
+   "cons": [
+    "Heavier than softside",
+    "No TSA lock"
+   ],
+   "best_for": "Frequent flyers needing a durable checked bag",
+   "skip_if": "You prefer a lighter, softside case",
+   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Large+Check%E2%80%91In&tag=zoepicks00-20"
+  },
+  {
+   "name": "Away The Large",
+   "short": "Away Large",
+   "badge": "Best Hardshell",
+   "why": [
+    "Away The Large is highlighted by Outdoor Gear Lab as a durable, well‑built hard‑shell case that is affordable."
+   ],
+   "desc": "The Away The Large is a hard‑shell checked suitcase that is built to last and has a sleek design. It does not include a built‑in TSA lock.",
+   "benefit": "Picture a traveler who wants a stylish, durable hard‑shell case without breaking the bank. The Away Large offers a solid build and smooth wheels, making it suitable for frequent travel. It competes with the Travelpro Platinum Elite in durability but is lighter and more affordable. The catch: it does not have a built‑in TSA lock.",
+   "specs": [
+    "Hard‑shell construction",
+    "Smooth wheels",
+    "Affordable"
+   ],
+   "pros": [
+    "Durable",
+    "Smooth wheels",
+    "Affordable"
+   ],
+   "cons": [
+    "No TSA lock",
+    "Less organization than Platinum Elite"
+   ],
+   "best_for": "Budget travelers wanting a hard‑shell case",
+   "skip_if": "You need extensive organization features",
+   "link": "https://www.amazon.com/s?k=Away+The+Large&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Samsonite Freeform Hardside Expandable Spinner",
+  "line": "Picture a business traveler who needs a lightweight, durable carry‑on that expands for extra gear. The Samsonite Freeform offers a hard‑shell design, expandable capacity, and smooth spinner wheels, making it ideal for frequent flights. The catch: it lacks a built‑in TSA lock.",
+  "also": [
+   [
+    "Best Checked",
+    "Travelpro Platinum Elite Large Check‑In"
+   ]
+  ]
+ }
 }

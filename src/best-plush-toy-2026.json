@@ -3,9 +3,108 @@
  "title": "Best Plush Toy (2026)",
  "category": "toys_kids",
  "date": "Nov 7, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were selected from the sources that explicitly recommend them: Tom’s Guide for SquishPillow, web.archive.org for Sassimals, and Taste of Home for weighted stuffed animals.",
- "assumptions": "Prices are not provided in any source, so no price information is included.",
- "products": [],
- "draft": true
+ "summary": "The guide highlights weighted plush toys and interactive learning pups as top choices for comfort and education.",
+ "method": "Selected products were chosen from Tom’s Guide, CNET, PCMag, Taste of Home, Mother & Baby, and Sleepopolis reviews, prioritizing items mentioned by multiple sources and focusing on comfort, interactivity, and weight.",
+ "assumptions": "Prices are not listed in the sources, so no price information is provided.",
+ "products": [
+  {
+   "name": "Warmies weighted stuffed animal",
+   "short": "Warmies",
+   "badge": "Best Overall",
+   "why": [
+    "Warmies are highlighted as the best overall weighted stuffed animal for soothing anxiety.",
+    "They can be microwaved or frozen for warm or cool relief."
+   ],
+   "desc": "Warmies is a weighted stuffed animal that can be heated or cooled to provide comfort.",
+   "benefit": "Picture a child drifting to sleep with a Warmies plush in hand. The weighted feel helps calm nerves and eases stress. It outperforms other picks by offering both heat and cool options, which the other weighted plushies lack. The catch: it can be heavier than some lighter alternatives.",
+   "specs": [
+    "Can be microwaved or frozen",
+    "Weighted for soothing anxiety",
+    "Soft plush material"
+   ],
+   "pros": [
+    "Soothing weight",
+    "Heat/cool versatility",
+    "Soft texture"
+   ],
+   "cons": [
+    "Heavier than some plushies",
+    "Requires microwave or freezer"
+   ],
+   "best_for": "Children needing calming comfort",
+   "skip_if": "If you prefer a lightweight plush",
+   "link": "https://www.amazon.com/s?k=Warmies+weighted+stuffed+animal&tag=zoepicks00-20"
+  },
+  {
+   "name": "LeapFrog Read With Me Scout",
+   "short": "Scout",
+   "badge": "Interactive Learning",
+   "why": [
+    "Scout is a green boy puppy designed for babies 6-36 months.",
+    "It offers 15 educational games activated by cuddling."
+   ],
+   "desc": "Scout is an interactive plush puppy that teaches reading, numbers, and daily routines through touch-activated games.",
+   "benefit": "Picture a toddler learning to read while hugging Scout. The toy engages with heart and collar lights to teach emotions and colors. It wins over other picks by providing structured learning games, which the other plushies do not offer. The catch: it is only suitable for children 6 months and older.",
+   "specs": [
+    "Designed for 6-36 months",
+    "15 educational games",
+    "Touch-activated lessons",
+    "Heart and collar lights"
+   ],
+   "pros": [
+    "Educational content",
+    "Interactive touch features",
+    "Age-appropriate design"
+   ],
+   "cons": [
+    "Limited to 6 months and older",
+    "No weighted comfort"
+   ],
+   "best_for": "Toddlers starting early learning",
+   "skip_if": "If you want a weighted calming toy",
+   "link": "https://www.amazon.com/s?k=LeapFrog+Read+With+Me+Scout&tag=zoepicks00-20"
+  },
+  {
+   "name": "Hugimals plushies",
+   "short": "Hugimals",
+   "badge": "Lightweight Cuddle",
+   "why": [
+    "Hugimals are the right size and weight for little ones to cuddle.",
+    "They are designed for children."
+   ],
+   "desc": "Hugimals are lightweight plush toys sized for small children.",
+   "benefit": "Picture a toddler holding a Hugimals plush during a nap. The toy’s light weight makes it easy to carry and cuddle, and it’s sized appropriately for small hands. It wins over heavier weighted plushies by being more portable. The catch: it lacks the calming weight and interactive features of other picks.",
+   "specs": [
+    "Lightweight",
+    "Sized for small children",
+    "Soft material"
+   ],
+   "pros": [
+    "Portable",
+    "Easy to hold",
+    "Soft"
+   ],
+   "cons": [
+    "No weight for calming",
+    "No interactive features"
+   ],
+   "best_for": "Small children who need a portable cuddle",
+   "skip_if": "If you want a weighted or interactive toy",
+   "link": "https://www.amazon.com/s?k=Hugimals+plushies&tag=zoepicks00-20"
+  }
+ ],
+ "verdict": {
+  "pick": "Warmies weighted stuffed animal",
+  "line": "Parents looking for a calming companion for their child should choose Warmies because it offers soothing weight and can be heated or cooled, making it versatile for bedtime or playtime. The main catch is that it may be heavier than some other plush options.",
+  "also": [
+   [
+    "Interactive learning",
+    "LeapFrog Read With Me Scout"
+   ],
+   [
+    "Lightweight cuddle",
+    "Hugimals plushies"
+   ]
+  ]
+ }
 }

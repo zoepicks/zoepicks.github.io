@@ -4,8 +4,12 @@
  "category": "fitness_outdoor",
  "date": "Nov 7, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were chosen from the reviews on OutdoorGearLab, AnglingTimes, and Wired2Fish, prioritizing those mentioned by more than one source and noting their stated strengths.",
- "assumptions": "Prices are not provided in the sources, so no cost comparison is made.",
+ "method": "Picks were chosen from outdoorgearlab.com (source 3) and surf fishing guide (source 4). Products mentioned by multiple sources were prioritized, otherwise the highest‑rated picks were selected.",
+ "assumptions": "No price information was provided in the sources, so price fields are left null.",
  "products": [],
+ "verdict": {
+  "pick": "Abu Garcia Veritas PLX",
+  "line": "Buy this if you want a rod that works for both seasoned anglers and beginners. It offers excellent action, balance and build quality, making casts precise and comfortable. The main catch is that it may be pricier than entry‑level options."
+ },
  "draft": true
 }

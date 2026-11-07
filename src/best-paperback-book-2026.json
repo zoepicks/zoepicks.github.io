@@ -4,8 +4,12 @@
  "category": "office_books",
  "date": "Nov 7, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected books from BookBrowse’s \"Recently Released in Paperback\" list, noting author acclaim and genre variety.",
- "assumptions": "No price information was provided in the sources.",
+ "method": "Selected books from the 2026 paperback releases listed on BookBrowse.com, choosing titles that appear in the source excerpt.",
+ "assumptions": "No price information was provided in the sources, so price fields are null.",
  "products": [],
+ "verdict": {
+  "pick": "A Novel by Erin Somers",
+  "line": "Picture a reader who enjoys witty, romantic stories with a twist. Erin Somers’ book offers a light‑hearted, acerbic take on modern relationships, making it a good fit for fans of similar titles. The catch: it may feel too familiar for those seeking a more dramatic plot."
+ },
  "draft": true
 }
