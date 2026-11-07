@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-07T09:19:01.244269+00:00",
+ "generated_at": "2026-11-07T21:27:01.797145+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
-  "score_24h_ago": 93,
-  "score_change_24h": 1,
-  "pages": 287,
+  "score_24h_ago": 94,
+  "score_change_24h": 0,
+  "pages": 293,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 38
+   "low": 44
   },
-  "avg_guide_words": 960,
+  "avg_guide_words": 958,
   "todo": [
    {
     "sev": "high",
@@ -26,8 +26,20 @@
    },
    {
     "sev": "low",
-    "code": "title_length",
+    "code": "desc_length",
     "count": 18,
+    "fix": "Descriptions 70-170 chars ke andar rakho.",
+    "example": [
+     "/g/best-baby-gate-2026/",
+     "/g/best-nintendo-switch-controller-2026/",
+     "/g/best-sleep-mask-2026/"
+    ],
+    "detail": "description 65 chars (best 70-170)"
+   },
+   {
+    "sev": "low",
+    "code": "title_length",
+    "count": 17,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -38,27 +50,15 @@
    },
    {
     "sev": "low",
-    "code": "desc_length",
-    "count": 17,
-    "fix": "Descriptions 70-170 chars ke andar rakho.",
-    "example": [
-     "/g/best-nintendo-switch-controller-2026/",
-     "/g/best-sleep-mask-2026/",
-     "/g/best-sandals-2026/"
-    ],
-    "detail": "description 61 chars (best 70-170)"
-   },
-   {
-    "sev": "low",
     "code": "slow_page",
-    "count": 3,
+    "count": 9,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-dog-stroller-2026/",
-     "/g/best-vacuum-cleaner-2026/",
-     "/g/best-travel-adapters-2026/"
+     "/g/best-makeup-palette-2026/",
+     "/g/best-stuffed-animal-2026/",
+     "/g/best-self-cleaning-litter-boxes-2026/"
     ],
-    "detail": "load 3.8s"
+    "detail": "load 3.49s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 281,
+   "guides_live": 287,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,23 +74,23 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-07T02:57:26.412300+00:00",
+    "t": "2026-11-07T15:23:08.998336+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
-    }
-   },
-   {
-    "t": "2026-11-07T05:59:00.263495+00:00",
-    "indexnow": {
-     "submitted": 1,
+     "submitted": 4,
      "http": 200
     }
    },
    {
-    "t": "2026-11-07T09:01:31.967125+00:00",
+    "t": "2026-11-07T18:25:11.199508+00:00",
     "indexnow": {
-     "submitted": 4,
+     "submitted": 7,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-11-07T21:26:54.609201+00:00",
+    "indexnow": {
+     "submitted": 2,
      "http": 200
     }
    }
@@ -149,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 25,
-   "warn": 1,
+   "info": 114,
+   "warn": 5,
    "error": 0
   },
   "last7d": {
-   "info": 770,
-   "warn": 40,
+   "info": 859,
+   "warn": 44,
    "error": 1
   },
   "modules_with_errors_7d": [
@@ -167,24 +167,24 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 37
+    "warnings": 41
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 1,
+    "total": 11,
+    "ok": 11,
     "failed": 0,
     "cancelled": 0,
-    "running": 1,
+    "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 82,
-    "ok": 76,
+    "total": 91,
+    "ok": 86,
     "failed": 3,
     "cancelled": 2,
-    "running": 1,
+    "running": 0,
     "failed_runs": [
      {
       "run": 217,
@@ -209,8 +209,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 3,
-    "ok": 3,
+    "total": 7,
+    "ok": 7,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -287,41 +287,65 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEDEALS",
-    "level": "e",
-    "msg": "zoe deals tick error: GitHub PUT contents/guides/offers.json -> 409: {\"message\":\"is at 46ccc146a4763d892a456fcb3241d6ac9a0ecdf2 but expected 113807dfa7810c9f1c8"
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 281,
+  "live_guides": 287,
   "missing_topics_by_status": {
-   "queued": 48,
-   "open": 58,
-   "built": 79,
-   "covered": 15
+   "covered": 15,
+   "queued": 45,
+   "open": 57,
+   "built": 83
   },
   "missing_new": {
-   "today": 0,
-   "d7": 103,
+   "today": 13,
+   "d7": 98,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "laptop for editing and gaming",
+    "topic": "camera kit",
+    "leads": "9",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794080112",
+    "last_at": "1794082950"
+   },
+   {
+    "topic": "fdm 3d printer",
+    "leads": "6",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794081826",
+    "last_at": "1794082802"
+   },
+   {
+    "topic": "shower head",
+    "leads": "7",
+    "budget": null,
+    "status": "open",
+    "first_at": "1793544454",
+    "last_at": "1794082427"
+   },
+   {
+    "topic": "camper trailer",
+    "leads": "8",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794077390",
+    "last_at": "1794079684"
+   },
+   {
+    "topic": "strong rope",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1793988985",
-    "last_at": "1793988985"
-   },
-   {
-    "topic": "internal ssd",
-    "leads": "1",
-    "budget": 200.0,
-    "status": "open",
-    "first_at": "1793980160",
-    "last_at": "1793980160"
+    "first_at": "1794078431",
+    "last_at": "1794078431"
    },
    {
     "topic": "gaming console or pc",
@@ -692,13 +716,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 287,
+    "urls": 293,
     "other_host_urls": 0,
-    "live_pages_crawled": 287
+    "live_pages_crawled": 293
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
