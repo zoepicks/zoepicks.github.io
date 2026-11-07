@@ -4828,5 +4828,17 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Bean Bunny Backpack (2026)",
+  "slug": "best-bean-bunny-backpack-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-travel-backpacks-2026",
+  "tab": "bean-bunny",
+  "tab_label": "Bean Bunny"
  }
 ]
