@@ -12317,9 +12317,24 @@
   },
   "home_kitchen:white-refrigerator": {
    "label": "White Refrigerator",
-   "tries": 2,
-   "items": [],
-   "scanned": "2026-11-05T17:19:31.462908+00:00"
+   "tries": 3,
+   "items": [
+    {
+     "asin": "B0FKSZZ6J1",
+     "name": "BANGSON 7.5 Cu.Ft Retro Refrigerator",
+     "pct": 14,
+     "rating": 4.2,
+     "t": 1794014022,
+     "img": "https://m.media-amazon.com/images/I/51HkB3q-qPL.jpg",
+     "link": "https://www.amazon.com/dp/B0FKSZZ6J1?tag=zoepicks00-20",
+     "now": "479.99",
+     "was": "559.99",
+     "reviews": 33,
+     "_title": "BANGSON 7.5 Cu.Ft Retro Refrigerator with Top Freeze White | 2 Door Apartment Fridge, Adjustable Thermostat, Refrigerator ...",
+     "_price": 479.99
+    }
+   ],
+   "scanned": "2026-11-07T01:13:42.540242+00:00"
   },
   "home_kitchen:mini-fridge": {
    "label": "Mini Fridge",
