@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-07T06:26:21Z",
+ "updated": "2026-11-07T07:22:13Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -677,13 +677,13 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HBQQQQGM",
-    "name": "KVAOK Pressure Washer",
-    "pct": 41,
-    "rating": 4.4,
+    "asin": "B0HDTPRK99",
+    "name": "SEEMOPEN 4K+4K Dash Cam Front and Rear",
+    "pct": 40,
+    "rating": 4.9,
     "t": 1794032263,
-    "img": "https://m.media-amazon.com/images/I/61FpT6WVomL.jpg",
-    "link": "https://www.amazon.com/dp/B0HBQQQQGM?tag=zoepicks00-20",
+    "img": "https://m.media-amazon.com/images/I/81VE7dIsfvL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDTPRK99?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -4024,17 +4024,17 @@
     "label": "Vacuums",
     "items": [
      {
-      "asin": "B0D93W92PQ",
-      "name": "BJPKPK 64oz Insulated Water Bottle",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1793986425,
-      "img": "https://m.media-amazon.com/images/I/71d2ijSa25L.jpg",
-      "link": "https://www.amazon.com/dp/B0D93W92PQ?tag=zoepicks00-20",
-      "now": "22.48",
-      "was": "29.99",
+      "asin": "B0C5C1JTC4",
+      "name": "Bonsenkitchen Precut Vacuum Sealer Bags 200 Quart 8\" x 12\"",
+      "pct": 18,
+      "rating": 4.7,
+      "t": 1793981706,
+      "img": "https://m.media-amazon.com/images/I/61g2ey3Q7jL.jpg",
+      "link": "https://www.amazon.com/dp/B0C5C1JTC4?tag=zoepicks00-20",
+      "now": "21.23",
+      "was": "25.99",
       "deal": "Limited time deal",
-      "reviews": 853,
+      "reviews": 9388,
       "tier": "budget"
      },
      {
@@ -5777,6 +5777,11 @@
     "key": "nail-polish",
     "label": "Nail Polish",
     "items": []
+   },
+   {
+    "key": "multimeter",
+    "label": "Multimeter",
+    "items": []
    }
   ],
   "pets": [
@@ -6534,12 +6539,13 @@
       "name": "VDIAGTOOL VD10 OBD2 Scanner Check Engine Code Reader Car…",
       "pct": 27,
       "rating": 4.6,
-      "t": 1793906123,
+      "t": 1793982878,
       "img": "https://m.media-amazon.com/images/I/61VZXoBoDKL.jpg",
       "link": "https://www.amazon.com/dp/B0BY1TS725?tag=zoepicks00-20",
       "now": "18.04",
       "was": "24.69",
-      "reviews": 3486,
+      "deal": "Limited time deal",
+      "reviews": 3489,
       "tier": "mid"
      },
      {
@@ -6559,26 +6565,13 @@
     ]
    },
    {
-    "key": "car-vacuums",
-    "label": "Car Vacuums",
-    "items": [
-     {
-      "asin": "B0H6NY9XM6",
-      "name": "Yomile Mini Car Vacuum & Air Duster",
-      "pct": 29,
-      "rating": 4.7,
-      "t": 1793906130,
-      "img": "https://m.media-amazon.com/images/I/71Ap4d+g60L.jpg",
-      "link": "https://www.amazon.com/dp/B0H6NY9XM6?tag=zoepicks00-20",
-      "now": "49.98",
-      "was": "69.99",
-      "reviews": 103
-     }
-    ]
-   },
-   {
     "key": "steering-wheel-cover",
     "label": "Steering Wheel Cover",
+    "items": []
+   },
+   {
+    "key": "car-vacuums",
+    "label": "Car Vacuums",
     "items": []
    },
    {
