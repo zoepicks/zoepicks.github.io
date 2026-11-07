@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-07T02:51:37Z",
+ "updated": "2026-11-07T06:54:03Z",
  "cats": [
   {
    "key": "fashion",
@@ -24,7 +24,20 @@
   }
  ],
  "items": {
-  "fashion": [],
+  "fashion": [
+   {
+    "asin": "B0D77Z2TC1",
+    "name": "WANDER+® Anti Theft Crossbody Travel Bag",
+    "pct": 39,
+    "rating": 4.5,
+    "t": 1793998755,
+    "img": "https://m.media-amazon.com/images/I/71sXejpG8SL.jpg",
+    "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
+    "now": "30.59",
+    "was": "49.99",
+    "cat": "fashion"
+   }
+  ],
   "beauty": [
    {
     "asin": "B08KJ4H2SH",
@@ -74,18 +87,6 @@
     "link": "https://www.amazon.com/dp/B0HBVZZS5Y?tag=zoepicks00-20",
     "now": "84.98",
     "was": "119.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0D4MYX7L8",
-    "name": "Nespresso Vertuo Pop+ Coffee Machine",
-    "pct": 28,
-    "rating": 4.4,
-    "t": 1793901906,
-    "img": "https://m.media-amazon.com/images/I/710Fl+vjaIL.jpg",
-    "link": "https://www.amazon.com/dp/B0D4MYX7L8?tag=zoepicks00-20",
-    "now": "129.00",
-    "was": "179.95",
     "cat": "home"
    },
    {
