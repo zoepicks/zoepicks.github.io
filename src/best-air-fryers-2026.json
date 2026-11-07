@@ -74,11 +74,11 @@
    "image": "https://m.media-amazon.com/images/I/81R9sA3IyBL.jpg",
    "image_asin": "B0C33CHG99",
    "amazon_price": "$99.99",
-   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_price_asof": "Nov 7, 2026",
    "amazon_listing": "Cosori TurboBlaze Air Fryer, 9-in-1, 6 Qt, PFAS-Free Ceramic Coating | 90°-450°F, 5 Fan Sp",
    "amazon_rating": "4.8",
-   "amazon_reviews": 22606,
-   "amazon_rating_asof": "Nov 6, 2026"
+   "amazon_reviews": 22649,
+   "amazon_rating_asof": "Nov 7, 2026"
   },
   {
    "name": "Philips 3000 Series Dual Basket Air Fryer",
@@ -112,11 +112,11 @@
    "image": "https://m.media-amazon.com/images/I/51IkTA86BPL.jpg",
    "image_asin": "B0FJSDQRR8",
    "amazon_price": "$210.38",
-   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_price_asof": "Nov 7, 2026",
    "amazon_listing": "Philips 3000 Series Dual Basket Air Fryer, 8 Ways to Cook, 9.5 Qt, Black | Auto-Sync finis",
    "amazon_rating": "4.2",
    "amazon_reviews": 26,
-   "amazon_rating_asof": "Nov 6, 2026"
+   "amazon_rating_asof": "Nov 7, 2026"
   },
   {
    "name": "Dreo ChefMaker Combi Fryer",
@@ -264,9 +264,9 @@
    "tabs": [
     "double-sided"
    ],
-   "fill_tries": 3,
-   "fill_last": "Nov 6, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Nov 7, 2026",
+   "fill_failed": true
   },
   {
    "name": "Cosori Dual Basket Air Fryer",
@@ -302,9 +302,9 @@
    "tabs": [
     "double-sided"
    ],
-   "fill_tries": 3,
-   "fill_last": "Nov 6, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Nov 7, 2026",
+   "fill_failed": true
   },
   {
    "name": "Philips 5000 Series Dual‑Basket Air Fryer with Steam",
