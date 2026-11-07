@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-07T14:54:57Z",
+ "updated": "2026-11-07T16:55:07Z",
  "cats": [
   {
    "key": "fashion",
@@ -25,6 +25,18 @@
  ],
  "items": {
   "fashion": [
+   {
+    "asin": "B0GG9XRSH5",
+    "name": "BAGSMART Canvas Tote Bag",
+    "pct": 50,
+    "rating": 4.4,
+    "t": 1794065209,
+    "img": "https://m.media-amazon.com/images/I/71e3ov5SNML.jpg",
+    "link": "https://www.amazon.com/dp/B0GG9XRSH5?tag=zoepicks00-20",
+    "now": "14.99",
+    "was": "29.99",
+    "cat": "fashion"
+   },
    {
     "asin": "B0D77Z2TC1",
     "name": "WANDER+® Anti Theft Crossbody Travel Bag",
@@ -100,30 +112,6 @@
     "link": "https://www.amazon.com/dp/B07RT71Z8P?tag=zoepicks00-20",
     "now": "30.49",
     "was": "54.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B00NHQF6MG",
-    "name": "LEGO Classic Large Creative Brick Box 10698",
-    "pct": 44,
-    "rating": 4.8,
-    "t": 1793935367,
-    "img": "https://m.media-amazon.com/images/I/81sXyDjMOPL.jpg",
-    "link": "https://www.amazon.com/dp/B00NHQF6MG?tag=zoepicks00-20",
-    "now": "33.49",
-    "was": "59.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B00NHQFA1I",
-    "name": "LEGO Classic Medium Creative Brick Box 10696",
-    "pct": 39,
-    "rating": 4.8,
-    "t": 1793936314,
-    "img": "https://m.media-amazon.com/images/I/8160QjpuoOL.jpg",
-    "link": "https://www.amazon.com/dp/B00NHQFA1I?tag=zoepicks00-20",
-    "now": "21.42",
-    "was": "34.99",
     "cat": "kids"
    },
    {
