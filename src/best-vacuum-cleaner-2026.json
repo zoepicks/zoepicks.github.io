@@ -2,7 +2,7 @@
  "slug": "best-vacuum-cleaner-2026",
  "title": "Best Vacuum Cleaner (2026)",
  "category": "home_kitchen",
- "date": "Oct 25, 2026",
+ "date": "Nov 7, 2026",
  "summary": "The guide highlights the top handheld and cordless vacuums of 2026, with the Worx Power Share Portable Vacuum Cleaner standing out as the best overall choice for most buyers.",
  "method": "Selections were made by comparing the top picks listed in Good Housekeeping, CNET, TechGearLab, and TechAdvisor. Products that appeared in more than one source were prioritized.",
  "assumptions": "Prices are not included because none of the sources provide them.",
@@ -47,6 +47,74 @@
    "best_for": "homeowners needing powerful, cordless cleaning",
    "skip_if": "you need advanced battery monitoring",
    "link": "https://www.amazon.com/s?k=Shark+PowerDetect+Cordless&tag=zoepicks00-20"
+  },
+  {
+   "name": "Shark Cordless Clean and Empty (BU3521UK)",
+   "short": "Shark BU3521UK",
+   "badge": "Best Overall",
+   "why": [
+    "Good Housekeeping lists it as the overall top pick for Shark vacuums, noting its convertible design and user‑friendly features.",
+    "The Independent also ranks it as the overall best, highlighting its cordless operation and self‑emptying dust cup."
+   ],
+   "desc": "A cordless vacuum that converts to handheld and includes a self‑emptying dust cup. It does not have a corded option.",
+   "benefit": "Picture a family cleaning the living room, stairs, and car without swapping tools. The vacuum’s cordless power and self‑emptying bin let you clean quickly and keep dust contained. It beats the other picks by offering both cordless convenience and a bagless self‑empty system, which none of the others have. The catch: the dust cup capacity is smaller than some corded models.",
+   "best_for": "General household cleaning",
+   "skip_if": "You need a large dust capacity",
+   "link": "https://www.amazon.com/s?k=Shark+Cordless+Clean+and+Empty+%28BU3521UK%29&tag=zoepicks00-20",
+   "tabs": [
+    "shark"
+   ]
+  },
+  {
+   "name": "Shark Stratos Anti‑Hair Wrap Plus Pet (IZ420UKT)",
+   "short": "Shark IZ420UKT",
+   "badge": "Best Cordless",
+   "why": [
+    "The Independent ranks it as the best cordless Shark, noting its double‑battery system for longer run time.",
+    "CNET’s testing emphasizes its strong suction and long battery life among Shark cordless models."
+   ],
+   "desc": "A cordless stick vacuum with anti‑hair‑wrap technology and a double‑battery for extended use. It does not include a self‑emptying bin.",
+   "benefit": "Picture a pet owner vacuuming fur from carpet and upholstery without recharging. The double‑battery gives more cleaning time than the other cordless option. It wins on battery longevity, the only model in this guide with that feature. The catch: it lacks a self‑emptying dust cup, so you must empty it manually.",
+   "best_for": "Pet owners needing long cordless run time",
+   "skip_if": "You prefer a self‑emptying system",
+   "link": "https://www.amazon.com/s?k=Shark+Stratos+Anti%E2%80%91Hair+Wrap+Plus+Pet+%28IZ420UKT%29&tag=zoepicks00-20",
+   "tabs": [
+    "shark"
+   ]
+  },
+  {
+   "name": "Shark Anti‑Hair‑Wrap Corded Vacuum Cleaner with Flexology (HZ500UK)",
+   "short": "Shark HZ500UK",
+   "badge": "Best Budget",
+   "why": [
+    "The Independent lists it as the best budget Shark vacuum, highlighting its anti‑hair‑wrap brush and flexible hose.",
+    "Expert Reviews notes its affordability while still delivering solid suction for everyday cleaning."
+   ],
+   "desc": "A corded upright vacuum with anti‑hair‑wrap brush and a flexible hose for hard‑to‑reach spots. It does not operate cordless.",
+   "benefit": "Picture a homeowner tackling daily dust on hard floors and low‑pile carpet without worrying about battery life. Its anti‑hair‑wrap brush keeps hair from clogging, and the flexible hose reaches under furniture. It is the most affordable option, beating the pricier cordless models on cost. The catch: being corded limits mobility compared to cordless picks.",
+   "best_for": "Budget‑conscious cleaners",
+   "skip_if": "You need cordless freedom",
+   "link": "https://www.amazon.com/s?k=Shark+Anti%E2%80%91Hair%E2%80%91Wrap+Corded+Vacuum+Cleaner+with+Flexology+%28HZ500UK%29&tag=zoepicks00-20",
+   "tabs": [
+    "shark"
+   ]
+  },
+  {
+   "name": "Shark PowerPro Pet Cordless Stick Vacuum (IZ380UKT)",
+   "short": "Shark IZ380UKT",
+   "badge": "Best for Pet Hair",
+   "why": [
+    "The Independent recommends it for pet hair, noting its cordless stick form and pet‑focused suction.",
+    "Good Housekeeping includes it among the top Shark models for handling pet messes."
+   ],
+   "desc": "A cordless stick vacuum designed for pet hair, featuring anti‑hair‑wrap technology. It does not have a self‑emptying bin.",
+   "benefit": "Picture a pet owner quickly cleaning fur from sofas and stairs without plugging in. Its pet‑specific brush and cordless design make it faster than the corded budget model. It is the only dedicated pet‑hair stick in this guide, giving it an edge for animal owners. The catch: the battery life is shorter than the double‑battery IZ420 model.",
+   "best_for": "Pet owners needing quick spot cleaning",
+   "skip_if": "You need the longest battery life",
+   "link": "https://www.amazon.com/s?k=Shark+PowerPro+Pet+Cordless+Stick+Vacuum+%28IZ380UKT%29&tag=zoepicks00-20",
+   "tabs": [
+    "shark"
+   ]
   }
  ],
  "verdict": {
@@ -62,5 +130,11 @@
     "Shark PowerDetect Cordless"
    ]
   ]
- }
+ },
+ "tabs": [
+  {
+   "key": "shark",
+   "label": "Shark"
+  }
+ ]
 }

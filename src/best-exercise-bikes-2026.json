@@ -2,7 +2,7 @@
  "slug": "best-exercise-bikes-2026",
  "title": "Top Exercise Bikes for Home Cardio (2026)",
  "category": "fitness_outdoor",
- "date": "Nov 3, 2026",
+ "date": "Nov 7, 2026",
  "summary": "The top home cardio bikes of 2026 combine smooth magnetic resistance, smart features, and immersive classes, with Peloton Bike+ and Peloton Cross‑Training Bike+ leading the pack, followed by NordicTrack’s S24 and X24, and Yosuda’s budget‑friendly option.",
  "method": "I selected products that appear in at least two of the provided sources (Peloton Bike+, Peloton Cross‑Training Bike+, NordicTrack S24, NordicTrack X24, Yosuda Indoor Cycling Bike).",
  "assumptions": "Prices are only included when a source explicitly states them; otherwise the price field is null.",
@@ -257,6 +257,81 @@
    "fill_tries": 4,
    "fill_last": "Nov 5, 2026",
    "fill_failed": true
+  },
+  {
+   "name": "Santa Cruz Hightower",
+   "short": "Hightower",
+   "badge": "Best Overall",
+   "why": [
+    "OutdoorGearLab lists the Hightower among its top mountain bikes, noting its versatile geometry and capable suspension. FlowMountainBike includes it in the same group of high‑performing trail bikes.",
+    "The bike is praised for handling both climbs and descents well, making it a solid choice for varied terrain."
+   ],
+   "desc": "The Hightower is a trail bike with a balanced frame geometry and suspension designed for mixed climbing and descending. It does not claim any special electric assist.",
+   "benefit": "Picture a rider tackling a steep forest climb and then dropping into a technical descent without changing bikes. The Hightower’s geometry lets you pedal efficiently uphill and stay stable downhill, a balance the guide notes as unique among the picks. It beats the Tallboy’s slightly softer ride and the Stumpjumper’s more aggressive stance, offering the most versatile performance here. The catch: it isn’t the lightest bike in the guide.",
+   "pros": [
+    "Versatile on climbs and descents",
+    "Balanced geometry",
+    "Well‑reviewed by multiple sources"
+   ],
+   "cons": [
+    "Heavier than some competitors"
+   ],
+   "best_for": "Riders who need a single bike for varied trail conditions",
+   "skip_if": "You prioritize ultra‑light weight above all",
+   "link": "https://www.amazon.com/s?k=Santa+Cruz+Hightower&tag=zoepicks00-20",
+   "tabs": [
+    "mountain"
+   ]
+  },
+  {
+   "name": "Santa Cruz Tallboy",
+   "short": "Tallboy",
+   "badge": "Best Overall",
+   "why": [
+    "FlowMountainBike calls the Tallboy its current pick for the best trail bike overall, highlighting its sweet‑spot placement between aggressive and efficient models.",
+    "It features 120‑150mm rear travel, aiming for a balanced ride."
+   ],
+   "desc": "The Tallboy is a trail bike positioned between short‑travel and long‑travel models, offering a mix of efficiency and capability. It does not include electric assistance.",
+   "benefit": "Picture a rider who wants a bike that feels quick on climbs but still handles rough sections without being too aggressive. The Tallboy’s middle‑ground travel gives it that blend, and it’s the only bike the source labels as the overall best trail bike. It outperforms the Stumpjumper’s more aggressive stance for riders seeking comfort. The catch: it may lack the extreme downhill confidence of the more aggressive bikes.",
+   "pros": [
+    "Balanced travel",
+    "Highly rated by source",
+    "Good mix of efficiency and capability"
+   ],
+   "cons": [
+    "May not satisfy riders seeking maximum downhill performance"
+   ],
+   "best_for": "Riders looking for a balanced trail bike",
+   "skip_if": "You need a bike specialized for aggressive enduro riding",
+   "link": "https://www.amazon.com/s?k=Santa+Cruz+Tallboy&tag=zoepicks00-20",
+   "tabs": [
+    "mountain"
+   ]
+  },
+  {
+   "name": "Specialized Stumpjumper 15",
+   "short": "Stumpjumper 15",
+   "badge": "Best Aggressive Trail",
+   "why": [
+    "FlowMountainBike lists the Stumpjumper 15 among the burlier bikes with up to 150mm rear travel, aimed at aggressive trail riding.",
+    "It is noted for its robust build and capability on steep, rough trails."
+   ],
+   "desc": "The Stumpjumper 15 is a trail bike with up to 150mm of rear travel, built for aggressive riding on steep terrain. It does not feature electric assist.",
+   "benefit": "Picture a rider who loves tackling steep, technical descents and wants a bike that can handle big hits. The Stumpjumper’s longer travel gives it the most aggressive capability in this guide, beating the Tallboy’s softer feel. It stands out as the only bike described with 150mm travel. The catch: its aggressive setup may be less comfortable on long climbs.",
+   "pros": [
+    "Long travel for aggressive trails",
+    "Robust build",
+    "Highly capable on steep terrain"
+   ],
+   "cons": [
+    "Less comfortable on climbs"
+   ],
+   "best_for": "Aggressive trail riders",
+   "skip_if": "You prefer a more efficient climb‑focused bike",
+   "link": "https://www.amazon.com/s?k=Specialized+Stumpjumper+15&tag=zoepicks00-20",
+   "tabs": [
+    "mountain"
+   ]
   }
  ],
  "tabs": [
@@ -267,6 +342,10 @@
   {
    "key": "electric",
    "label": "Electric"
+  },
+  {
+   "key": "mountain",
+   "label": "Mountain"
   }
  ]
 }
