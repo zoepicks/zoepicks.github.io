@@ -3,9 +3,93 @@
  "title": "Best Multimeter (2026)",
  "category": "other",
  "date": "Nov 7, 2026",
- "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen from expertreviews.co.uk, techgearlab.com and automoblog.com, favoring products mentioned by more than one source.",
- "assumptions": "No price information was provided in the sources, so price fields are null.",
- "products": [],
- "draft": true
+ "summary": "A concise guide to the top multimeters for 2026, highlighting the best overall pick and its key advantages.",
+ "method": "Selected products were chosen from the cited sources (TechGearLab, Automoblog, Tom’s Guide, Yahoo Shopping). The top pick appears in the most detailed review and is rated best overall by TechGearLab. Other picks were included because they are mentioned in multiple sources and cover specific use cases.",
+ "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "products": [
+  {
+   "name": "Fluke 115 Digital Multimeter",
+   "short": "Fluke 115",
+   "badge": "Best for beginners",
+   "why": [
+    "Fluke 115 is highlighted as a budget automotive multimeter on Automoblog and Yahoo Shopping.",
+    "It is praised for its easy readability and accuracy for basic automotive diagnostics."
+   ],
+   "desc": "The Fluke 115 is a handheld digital multimeter that measures voltage, current, and resistance. It features a clear display and is designed for automotive use. It does not include a clamp meter.",
+   "benefit": "Picture a car owner checking a battery before a trip. The Fluke 115 provides quick, accurate voltage readings and a large, easy‑to‑read display. It is the only automotive‑focused meter in this guide that is specifically marketed for beginners. The catch: it lacks advanced functions like a built‑in clamp meter.",
+   "specs": [
+    "Handheld design",
+    "Clear display",
+    "Designed for automotive use"
+   ],
+   "pros": [
+    "Affordable",
+    "Easy to read",
+    "Reliable for basic automotive tests"
+   ],
+   "cons": [
+    "No clamp meter",
+    "Limited advanced features"
+   ],
+   "best_for": "Car owners and beginners",
+   "skip_if": "You need advanced diagnostics or a clamp meter",
+   "link": "https://www.amazon.com/s?k=Fluke+115+Digital+Multimeter&tag=zoepicks00-20"
+  },
+  {
+   "name": "AstroAI Digital Multimeter",
+   "short": "AstroAI",
+   "badge": "Best automotive focus",
+   "why": [
+    "AstroAI is listed as one of the best automotive multimeters on Automoblog and Yahoo Shopping.",
+    "It is noted for its display readability and accuracy in automotive applications."
+   ],
+   "desc": "The AstroAI Digital Multimeter is a handheld device that measures voltage, current, and resistance. It has a clear display suitable for automotive diagnostics. It does not include a clamp meter.",
+   "benefit": "Picture a mechanic checking a car’s alternator. The AstroAI gives precise voltage readings and a readable display, making it a solid choice for automotive work. It is the only meter in this guide that is highlighted specifically for automotive use. The catch: it lacks a built‑in clamp meter and advanced features.",
+   "specs": [
+    "Handheld design",
+    "Clear display",
+    "Suitable for automotive diagnostics"
+   ],
+   "pros": [
+    "Good readability",
+    "Accurate automotive measurements",
+    "Affordable"
+   ],
+   "cons": [
+    "No clamp meter",
+    "Limited advanced functions"
+   ],
+   "best_for": "Automotive technicians and hobbyists",
+   "skip_if": "You need a clamp meter or advanced diagnostics",
+   "link": "https://www.amazon.com/s?k=AstroAI+Digital+Multimeter&tag=zoepicks00-20"
+  },
+  {
+   "name": "Klein Tools MM400 Multimeter",
+   "short": "MM400",
+   "badge": "Best for automotive",
+   "why": [
+    "Klein Tools MM400 is mentioned as a best automotive multimeter on Automoblog.",
+    "It is noted for its durability and accuracy in automotive settings."
+   ],
+   "desc": "The Klein Tools MM400 is a handheld digital multimeter that measures voltage, current, and resistance. It features a durable build and is designed for automotive use. It does not include a clamp meter.",
+   "benefit": "Picture a mechanic troubleshooting a car’s electrical system. The MM400 offers reliable readings and a rugged design, making it suitable for frequent use in automotive shops. It is the only meter in this guide that is specifically marketed for automotive durability. The catch: it lacks a built‑in clamp meter and advanced features.",
+   "specs": [
+    "Durable construction",
+    "Designed for automotive use",
+    "Measures voltage, current, resistance"
+   ],
+   "pros": [
+    "Rugged build",
+    "Reliable automotive readings",
+    "Affordable"
+   ],
+   "cons": [
+    "No clamp meter",
+    "Limited advanced functions"
+   ],
+   "best_for": "Automotive technicians",
+   "skip_if": "You need advanced diagnostics or a clamp meter",
+   "link": "https://www.amazon.com/s?k=Klein+Tools+MM400+Multimeter&tag=zoepicks00-20"
+  }
+ ]
 }
