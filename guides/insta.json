@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-07T16:55:07Z",
+ "updated": "2026-11-07T18:55:15Z",
  "cats": [
   {
    "key": "fashion",
@@ -101,31 +101,6 @@
     "cat": "home"
    }
   ],
-  "kids": [
-   {
-    "asin": "B07RT71Z8P",
-    "name": "Melissa & Doug Jumbo Cardboard Blocks Building 40-Piece Toy…",
-    "pct": 45,
-    "rating": 4.7,
-    "t": 1793944720,
-    "img": "https://m.media-amazon.com/images/I/713BXDN9TqL.jpg",
-    "link": "https://www.amazon.com/dp/B07RT71Z8P?tag=zoepicks00-20",
-    "now": "30.49",
-    "was": "54.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B07WJJF8PB",
-    "name": "LEGO DUPLO Brick Box 10913",
-    "pct": 20,
-    "rating": 4.9,
-    "t": 1793944699,
-    "img": "https://m.media-amazon.com/images/I/81YIWuWeL4L.jpg",
-    "link": "https://www.amazon.com/dp/B07WJJF8PB?tag=zoepicks00-20",
-    "now": "23.95",
-    "was": "29.99",
-    "cat": "kids"
-   }
-  ]
+  "kids": []
  }
 }
