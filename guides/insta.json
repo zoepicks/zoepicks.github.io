@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-07T18:55:15Z",
+ "updated": "2026-11-07T22:55:27Z",
  "cats": [
   {
    "key": "fashion",
@@ -98,6 +98,18 @@
     "link": "https://www.amazon.com/dp/B0CR15SYTN?tag=zoepicks00-20",
     "now": "59.99",
     "was": "75.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B07R9GP85M",
+    "name": "BLACK+DECKER Dust Buster Hand Held Vacuum Cordless…",
+    "pct": 20,
+    "rating": 4.3,
+    "t": 1794091347,
+    "img": "https://m.media-amazon.com/images/I/51MExLF1OfL.jpg",
+    "link": "https://www.amazon.com/dp/B07R9GP85M?tag=zoepicks00-20",
+    "now": "59.99",
+    "was": "74.99",
     "cat": "home"
    }
   ],
