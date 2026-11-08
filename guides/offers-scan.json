@@ -5052,20 +5052,20 @@
   },
   "smart_home:smart-thermostats": {
    "label": "Smart Thermostats",
-   "tries": 10,
+   "tries": 11,
    "items": [
     {
      "asin": "B0GZMTWXBY",
      "name": "vine Smart Thermostats",
      "pct": 34,
      "rating": 4.7,
-     "t": 1794009546,
+     "t": 1794180506,
      "img": "https://m.media-amazon.com/images/I/61w2Q72vLoL.jpg",
      "link": "https://www.amazon.com/dp/B0GZMTWXBY?tag=zoepicks00-20",
      "now": "98.99",
      "was": "149.99",
      "deal": "Limited time deal",
-     "reviews": 22,
+     "reviews": 23,
      "_title": "vine Smart Thermostats for Home with Large Knob - WiFi Thermostat for House with Nightlight, 7x8Period Programmable Compat...",
      "_price": 98.99
     },
@@ -5074,13 +5074,12 @@
      "name": "Google Nest Thermostat",
      "pct": 31,
      "rating": 4.1,
-     "t": 1794009546,
+     "t": 1794180506,
      "img": "https://m.media-amazon.com/images/I/41XPirHnd5L.jpg",
      "link": "https://www.amazon.com/dp/B08HRWWCTR?tag=zoepicks00-20",
      "now": "89.99",
      "was": "129.99",
-     "deal": "Limited time deal",
-     "reviews": 29791,
+     "reviews": 29798,
      "_title": "Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi Thermostat - Fog",
      "_price": 89.99
     },
@@ -5089,18 +5088,17 @@
      "name": "Sourdough Starter Warmer Mat",
      "pct": 15,
      "rating": 4.3,
-     "t": 1794009546,
+     "t": 1794180506,
      "img": "https://m.media-amazon.com/images/I/71jfXvQnz7L.jpg",
      "link": "https://www.amazon.com/dp/B0DYJMQJ1G?tag=zoepicks00-20",
      "now": "25.49",
      "was": "29.99",
-     "deal": "Limited time deal",
-     "reviews": 659,
+     "reviews": 662,
      "_title": "Sourdough Starter Warmer Mat - 24H Timer - Precise 1°F Thermostat Control (70-110°F) - Smart Memory Warming On/Off - Warmi...",
      "_price": 25.49
     }
    ],
-   "scanned": "2026-11-06T23:59:06.082455+00:00"
+   "scanned": "2026-11-08T23:28:26.519986+00:00"
   },
   "beauty_health:makeup-primers": {
    "label": "Makeup Primers",
