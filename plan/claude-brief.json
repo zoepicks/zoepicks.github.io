@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-08T09:51:58.268519+00:00",
+ "generated_at": "2026-11-08T21:59:43.018740+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 296,
+  "pages": 298,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 44
+   "low": 42
   },
-  "avg_guide_words": 953,
+  "avg_guide_words": 951,
   "todo": [
    {
     "sev": "high",
@@ -51,14 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 8,
+    "count": 6,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
+     "/g/best-razor-blades-2026/",
      "/g/best-kobo-case-2026/",
-     "/g/best-curtains-2026/",
-     "/g/best-heating-pad-2026/"
+     "/g/best-makeup-brush-set-2026/"
     ],
-    "detail": "load 3.5s"
+    "detail": "load 3.8s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 290,
+   "guides_live": 292,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-08T03:31:04.601282+00:00",
+    "t": "2026-11-08T15:55:59.605415+00:00",
     "indexnow": {
-     "submitted": 3,
+     "submitted": 4,
      "http": 200
     }
    },
    {
-    "t": "2026-11-08T06:32:43.855796+00:00",
+    "t": "2026-11-08T18:57:52.059510+00:00",
     "indexnow": {
-     "submitted": 8,
+     "submitted": 9,
      "http": 200
     }
    },
    {
-    "t": "2026-11-08T09:34:28.103730+00:00",
+    "t": "2026-11-08T21:59:35.261138+00:00",
     "indexnow": {
-     "submitted": 5,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 48,
-   "warn": 2,
+   "info": 128,
+   "warn": 6,
    "error": 0
   },
   "last7d": {
-   "info": 804,
-   "warn": 42,
+   "info": 884,
+   "warn": 46,
    "error": 1
   },
   "modules_with_errors_7d": [
@@ -167,21 +167,21 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 40
+    "warnings": 44
    }
   ],
   "collector": {
    "today": {
-    "total": 1,
-    "ok": 1,
+    "total": 8,
+    "ok": 8,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 70,
-    "ok": 68,
+    "total": 77,
+    "ok": 75,
     "failed": 0,
     "cancelled": 2,
     "running": 0,
@@ -190,8 +190,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 22,
-    "ok": 22,
+    "total": 26,
+    "ok": 26,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -240,27 +240,27 @@
    {
     "module": "ZOESEO",
     "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
     "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -275,90 +275,98 @@
   ]
  },
  "content": {
-  "live_guides": 290,
+  "live_guides": 292,
   "missing_topics_by_status": {
-   "covered": 15,
-   "queued": 45,
-   "open": 57,
-   "built": 83
+   "queued": 44,
+   "open": 61,
+   "built": 79,
+   "covered": 16
   },
   "missing_new": {
-   "today": 0,
-   "d7": 90,
+   "today": 19,
+   "d7": 97,
    "d30": 200
   },
   "open_topics": [
    {
-    "topic": "camera kit",
-    "leads": "9",
+    "topic": "dish rack",
+    "leads": "5",
     "budget": null,
     "status": "open",
-    "first_at": "1794080112",
-    "last_at": "1794082950"
+    "first_at": "1794166777",
+    "last_at": "1794167449"
    },
    {
-    "topic": "fdm 3d printer",
+    "topic": "makeup brands",
     "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1794081826",
-    "last_at": "1794082802"
+    "first_at": "1794164442",
+    "last_at": "1794165283"
    },
    {
-    "topic": "shower head",
-    "leads": "7",
+    "topic": "gift for wife",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793544454",
-    "last_at": "1794082427"
+    "first_at": "1794163959",
+    "last_at": "1794164313"
    },
    {
-    "topic": "camper trailer",
-    "leads": "8",
+    "topic": "face paint",
+    "leads": "4",
     "budget": null,
     "status": "open",
-    "first_at": "1794077390",
-    "last_at": "1794079684"
+    "first_at": "1794160880",
+    "last_at": "1794162863"
    },
    {
-    "topic": "strong rope",
-    "leads": "1",
+    "topic": "tripod",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1794078431",
-    "last_at": "1794078431"
+    "first_at": "1794160871",
+    "last_at": "1794161851"
    },
    {
-    "topic": "gaming console or pc",
-    "leads": "1",
+    "topic": "cat food",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793979365",
-    "last_at": "1793979365"
+    "first_at": "1794160078",
+    "last_at": "1794160343"
    },
    {
-    "topic": "humanoid robot",
-    "leads": "1",
+    "topic": "refrigerator",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1793969710",
-    "last_at": "1793969710"
+    "first_at": "1794154224",
+    "last_at": "1794154391"
    },
    {
-    "topic": "four season tent",
-    "leads": "1",
+    "topic": "open back headphones",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1793905833",
-    "last_at": "1793905833"
+    "first_at": "1792610528",
+    "last_at": "1794152952"
    },
    {
-    "topic": "planner calendar",
-    "leads": "1",
+    "topic": "le creuset pot set",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1793896575",
-    "last_at": "1793896575"
+    "first_at": "1794150787",
+    "last_at": "1794151345"
+   },
+   {
+    "topic": "bed mattress",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794146668",
+    "last_at": "1794149703"
    }
   ]
  },
@@ -697,13 +705,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 296,
+    "urls": 298,
     "other_host_urls": 0,
-    "live_pages_crawled": 296
+    "live_pages_crawled": 298
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
