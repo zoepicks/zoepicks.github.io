@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-07T21:27:01.797145+00:00",
+ "generated_at": "2026-11-08T09:51:58.268519+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 293,
+  "pages": 296,
   "issue_counts": {
    "high": 1,
    "med": 0,
    "low": 44
   },
-  "avg_guide_words": 958,
+  "avg_guide_words": 953,
   "todo": [
    {
     "sev": "high",
@@ -27,14 +27,14 @@
    {
     "sev": "low",
     "code": "desc_length",
-    "count": 18,
+    "count": 19,
     "fix": "Descriptions 70-170 chars ke andar rakho.",
     "example": [
+     "/g/best-3d-printer-kit-2026/",
      "/g/best-baby-gate-2026/",
-     "/g/best-nintendo-switch-controller-2026/",
-     "/g/best-sleep-mask-2026/"
+     "/g/best-nintendo-switch-controller-2026/"
     ],
-    "detail": "description 65 chars (best 70-170)"
+    "detail": "description 42 chars (best 70-170)"
    },
    {
     "sev": "low",
@@ -51,14 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 9,
+    "count": 8,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-makeup-palette-2026/",
-     "/g/best-stuffed-animal-2026/",
-     "/g/best-self-cleaning-litter-boxes-2026/"
+     "/g/best-kobo-case-2026/",
+     "/g/best-curtains-2026/",
+     "/g/best-heating-pad-2026/"
     ],
-    "detail": "load 3.49s"
+    "detail": "load 3.5s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 287,
+   "guides_live": 290,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,23 +74,23 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-07T15:23:08.998336+00:00",
+    "t": "2026-11-08T03:31:04.601282+00:00",
     "indexnow": {
-     "submitted": 4,
+     "submitted": 3,
      "http": 200
     }
    },
    {
-    "t": "2026-11-07T18:25:11.199508+00:00",
+    "t": "2026-11-08T06:32:43.855796+00:00",
     "indexnow": {
-     "submitted": 7,
+     "submitted": 8,
      "http": 200
     }
    },
    {
-    "t": "2026-11-07T21:26:54.609201+00:00",
+    "t": "2026-11-08T09:34:28.103730+00:00",
     "indexnow": {
-     "submitted": 2,
+     "submitted": 5,
      "http": 200
     }
    }
@@ -103,12 +103,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-11-01",
-    "visitors": 1,
-    "views": 4,
-    "clicks": 0
-   },
    {
     "day": "2026-11-02",
     "visitors": 0,
@@ -144,73 +138,60 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-08",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 114,
-   "warn": 5,
+   "info": 48,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 859,
-   "warn": 44,
+   "info": 804,
+   "warn": 42,
    "error": 1
   },
   "modules_with_errors_7d": [
    {
     "module": "Missing topics queue",
     "errors": 1,
-    "warnings": 3
+    "warnings": 2
    },
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 41
+    "warnings": 40
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
-    "ok": 11,
+    "total": 1,
+    "ok": 1,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
-    "total": 91,
-    "ok": 86,
-    "failed": 3,
+    "total": 70,
+    "ok": 68,
+    "failed": 0,
     "cancelled": 2,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 217,
-      "at": "2026-11-01T05:14:43Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41276184153"
-     },
-     {
-      "run": 216,
-      "at": "2026-11-01T04:41:53Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41274087787"
-     },
-     {
-      "run": 215,
-      "at": "2026-11-01T04:41:36Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/41274070042"
-     }
-    ]
+    "failed_runs": []
    }
   },
   "site_deploys": {
    "today": {
-    "total": 7,
-    "ok": 7,
+    "total": 22,
+    "ok": 22,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -259,7 +240,7 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -294,7 +275,7 @@
   ]
  },
  "content": {
-  "live_guides": 287,
+  "live_guides": 290,
   "missing_topics_by_status": {
    "covered": 15,
    "queued": 45,
@@ -302,8 +283,8 @@
    "built": 83
   },
   "missing_new": {
-   "today": 13,
-   "d7": 98,
+   "today": 0,
+   "d7": 90,
    "d30": 200
   },
   "open_topics": [
@@ -424,6 +405,46 @@
     "crawled": ""
    },
    {
+    "u": "/g/best-camera-tripod-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-3d-printer-kit-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-xbox-travel-case-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-baby-gate-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-white-noise-machine-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-internal-ssd-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-suitcase-set-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-plush-toy-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
     "u": "/g/best-multimeter-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
@@ -482,62 +503,22 @@
     "u": "/g/best-sd-card-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-real-time-translation-device-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-sleep-mask-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-mini-fridge-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-keyboard-with-function-keys-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-wireless-sport-headphones-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-graphics-card-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-sandals-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-nintendo-switch-games-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
+   "https://zoepicks.github.io/g/best-camera-tripod-2026/",
+   "https://zoepicks.github.io/g/best-3d-printer-kit-2026/",
+   "https://zoepicks.github.io/g/best-xbox-travel-case-2026/",
+   "https://zoepicks.github.io/g/best-baby-gate-2026/",
+   "https://zoepicks.github.io/g/best-white-noise-machine-2026/",
+   "https://zoepicks.github.io/g/best-internal-ssd-2026/",
+   "https://zoepicks.github.io/g/best-suitcase-set-2026/",
+   "https://zoepicks.github.io/g/best-plush-toy-2026/",
    "https://zoepicks.github.io/g/best-multimeter-2026/",
-   "https://zoepicks.github.io/g/best-nintendo-switch-controller-2026/",
-   "https://zoepicks.github.io/g/best-chocolate-protein-powder-2026/",
-   "https://zoepicks.github.io/g/best-crossbody-bag-2026/",
-   "https://zoepicks.github.io/g/best-protein-powder-2026/",
-   "https://zoepicks.github.io/g/best-dog-food-2026/",
-   "https://zoepicks.github.io/g/best-gaming-gpu-2026/",
-   "https://zoepicks.github.io/g/best-mac-mini-vs-imac-2026/",
-   "https://zoepicks.github.io/g/best-mac-studio-2026/",
-   "https://zoepicks.github.io/g/best-5g-router-2026/"
+   "https://zoepicks.github.io/g/best-nintendo-switch-controller-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-07T09:01",
+   "last_submitted": "2026-11-08T09:34",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -550,16 +531,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-10-29",
-     "clicks": 0,
-     "impr": 0
-    },
-    {
-     "d": "2026-10-30",
-     "clicks": 0,
-     "impr": 1
-    },
     {
      "d": "2026-10-31",
      "clicks": 0,
@@ -584,6 +555,16 @@
      "d": "2026-11-04",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-05",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-11-06",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -601,13 +582,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-10-24",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-10-25",
     "indexed": 1,
@@ -698,6 +672,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-08",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -705,7 +686,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-07T09:01",
+    "last_submitted": "2026-11-08T09:34",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -716,13 +697,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 293,
+    "urls": 296,
     "other_host_urls": 0,
-    "live_pages_crawled": 293
+    "live_pages_crawled": 296
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -734,7 +715,6 @@
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Bot errors (7 din): 3 - recent_problems dekho aur root cause fix karo.",
-  "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
 }
