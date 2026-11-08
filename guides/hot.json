@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-08T03:56:06Z",
+ "updated": "2026-11-08T05:56:17Z",
  "hot": [
   {
    "asin": "B0HL84W23P",
@@ -386,20 +386,6 @@
    "tier": "mid"
   },
   {
-   "asin": "B07Y8W62KC",
-   "name": "Medcursor Massage Gun",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1793983413,
-   "img": "https://m.media-amazon.com/images/I/7148TPN9rxL.jpg",
-   "link": "https://www.amazon.com/dp/B07Y8W62KC?tag=zoepicks00-20",
-   "now": "29.99",
-   "was": "59.99",
-   "deal": "Limited time deal",
-   "reviews": 6199,
-   "tier": "mid"
-  },
-  {
    "asin": "B0FZJRDDY3",
    "name": "BOCOMAL FR Hoodies Pullover 10.5oz Midweight Fleece…",
    "pct": 50,
@@ -411,6 +397,20 @@
    "was": "59.99",
    "reviews": 0,
    "tier": "mid"
+  },
+  {
+   "asin": "B0CWRCCFTM",
+   "name": "Brewin Knife Set, 8PC Kitchen Knife Set",
+   "pct": 49,
+   "rating": 4.6,
+   "t": 1794063529,
+   "img": "https://m.media-amazon.com/images/I/7150xxQDqDL.jpg",
+   "link": "https://www.amazon.com/dp/B0CWRCCFTM?tag=zoepicks00-20",
+   "now": "19.98",
+   "was": "39.18",
+   "deal": "Limited time deal",
+   "reviews": 2415,
+   "tier": "budget"
   }
  ],
  "ess": [
@@ -1390,6 +1390,20 @@
    "icon": "👟"
   },
   {
+   "asin": "B0F32TF1B1",
+   "name": "UIQUR Mens Lightweight Packable Waterproof Rain Jacket…",
+   "pct": 19,
+   "rating": 4.2,
+   "t": 1794116094,
+   "img": "https://m.media-amazon.com/images/I/81qrD2FfHyL.jpg",
+   "link": "https://www.amazon.com/dp/B0F32TF1B1?tag=zoepicks00-20",
+   "now": "16.19",
+   "was": "19.99",
+   "cat": "hoodies",
+   "label": "Hoodies & jackets",
+   "icon": "🧥"
+  },
+  {
    "asin": "B093WJWP6T",
    "name": "NORTIV 8 Women's Waterproof Hiking Boots Trekking",
    "pct": 17,
@@ -1868,20 +1882,6 @@
    "icon": "🍂"
   },
   {
-   "asin": "B0HBVZZS5Y",
-   "name": "Akacozie Humidifier Large Room",
-   "pct": 29,
-   "rating": 4.4,
-   "t": 1793987739,
-   "img": "https://m.media-amazon.com/images/I/61Zx3zq4yAL.jpg",
-   "link": "https://www.amazon.com/dp/B0HBVZZS5Y?tag=zoepicks00-20",
-   "now": "84.98",
-   "was": "119.99",
-   "theme": "winter",
-   "label": "Winter ready",
-   "icon": "🧣"
-  },
-  {
    "asin": "B07634NCZQ",
    "name": "Sleep Philosophy Cozy Flannel Sheets 100% Cotton",
    "pct": 28,
@@ -1925,6 +1925,21 @@
    "theme": "winter",
    "label": "Winter ready",
    "icon": "🧣"
+  },
+  {
+   "asin": "B0DMR4TR8J",
+   "name": "EBMORE 5 Pairs Women Merino Wool Boot Socks Warm Thermal…",
+   "pct": 25,
+   "rating": 4.5,
+   "t": 1794094154,
+   "img": "https://m.media-amazon.com/images/I/91bNJxR7IxL.jpg",
+   "link": "https://www.amazon.com/dp/B0DMR4TR8J?tag=zoepicks00-20",
+   "now": "12.71",
+   "was": "16.99",
+   "deal": "Limited time deal",
+   "theme": "fall",
+   "label": "Fall cozy",
+   "icon": "🍂"
   }
  ],
  "themes": [
