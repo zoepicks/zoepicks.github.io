@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-08T13:59:40Z",
+ "updated": "2026-11-08T14:33:39Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -307,6 +307,17 @@
   ],
   "home_kitchen": [
    {
+    "asin": "B0CWRCCFTM",
+    "name": "Brewin Knife Set, 8PC Kitchen Knife Set",
+    "pct": 49,
+    "rating": 4.6,
+    "t": 1794117671,
+    "img": "https://m.media-amazon.com/images/I/7150xxQDqDL.jpg",
+    "link": "https://www.amazon.com/dp/B0CWRCCFTM?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
     "asin": "B0HDTWN22Q",
     "name": "Synvox Vacuum Sealer",
     "pct": 60,
@@ -314,19 +325,6 @@
     "t": 1794118282,
     "img": "https://m.media-amazon.com/images/I/71t-Ag1l03L.jpg",
     "link": "https://www.amazon.com/dp/B0HDTWN22Q?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0CMTT1WPV",
-    "name": "Bedsure Sage Green Comforter Set Queen Size",
-    "pct": 43,
-    "rating": 4.5,
-    "t": 1794137553,
-    "img": "https://m.media-amazon.com/images/I/91N1er5M6QL.jpg",
-    "link": "https://www.amazon.com/dp/B0CMTT1WPV?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "69.99",
     "reviews": 0,
     "tier": "mid"
    },
@@ -1905,18 +1903,6 @@
       "img": "https://m.media-amazon.com/images/I/71uOkPQG8hL.jpg",
       "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
       "reviews": 0
-     },
-     {
-      "asin": "B0D9YHMX6D",
-      "name": "Retrolife® Record Player",
-      "pct": 29,
-      "rating": 4.2,
-      "t": 1794017870,
-      "img": "https://m.media-amazon.com/images/I/610sBCXvUEL.jpg",
-      "link": "https://www.amazon.com/dp/B0D9YHMX6D?tag=zoepicks00-20",
-      "now": "85.49",
-      "was": "119.99",
-      "reviews": 292
      }
     ]
    },
@@ -2628,53 +2614,6 @@
     ]
    },
    {
-    "key": "suitcase",
-    "label": "Suitcase",
-    "items": [
-     {
-      "asin": "B0DYVHXGQC",
-      "name": "Vinyl Record Player Bluetooth Turntable 3-Speed Suitcase…",
-      "pct": 39,
-      "rating": 4.5,
-      "t": 1794017877,
-      "img": "https://m.media-amazon.com/images/I/71p5cULELhL.jpg",
-      "link": "https://www.amazon.com/dp/B0DYVHXGQC?tag=zoepicks00-20",
-      "now": "42.49",
-      "was": "69.99",
-      "reviews": 3441,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H3KH2YQJ",
-      "name": "Cosbarn Luggage Sets 5 Piece",
-      "pct": 27,
-      "rating": 4.6,
-      "t": 1794066939,
-      "img": "https://m.media-amazon.com/images/I/81ejVYNaiaL.jpg",
-      "link": "https://www.amazon.com/dp/B0H3KH2YQJ?tag=zoepicks00-20",
-      "now": "109.98",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 34,
-      "tier": "mid"
-     },
-     {
-      "asin": "B073GSVW2C",
-      "name": "Coolife Luggage Set",
-      "pct": 27,
-      "rating": 4.6,
-      "t": 1794066939,
-      "img": "https://m.media-amazon.com/images/I/81D+xfPncnL.jpg",
-      "link": "https://www.amazon.com/dp/B073GSVW2C?tag=zoepicks00-20",
-      "now": "129.98",
-      "was": "176.99",
-      "deal": "Limited time deal",
-      "reviews": 24469,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "travel-backpacks",
     "label": "Travel Backpacks",
     "items": [
@@ -2704,6 +2643,54 @@
       "was": "29.99",
       "deal": "Limited time deal",
       "reviews": 1376
+     }
+    ]
+   },
+   {
+    "key": "suitcase",
+    "label": "Suitcase",
+    "items": [
+     {
+      "asin": "B0H6FX25GZ",
+      "name": "Cosbarn 20\" Carry On Expandable Luggage Sets 2 Piece",
+      "pct": 22,
+      "rating": 4.8,
+      "t": 1794066939,
+      "img": "https://m.media-amazon.com/images/I/81EW5H4qjDL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6FX25GZ?tag=zoepicks00-20",
+      "now": "69.98",
+      "was": "89.99",
+      "deal": "Limited time deal",
+      "reviews": 22,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H3KH2YQJ",
+      "name": "Cosbarn Luggage Sets 5 Piece",
+      "pct": 27,
+      "rating": 4.6,
+      "t": 1794066939,
+      "img": "https://m.media-amazon.com/images/I/81ejVYNaiaL.jpg",
+      "link": "https://www.amazon.com/dp/B0H3KH2YQJ?tag=zoepicks00-20",
+      "now": "109.98",
+      "was": "149.99",
+      "deal": "Limited time deal",
+      "reviews": 34,
+      "tier": "mid"
+     },
+     {
+      "asin": "B073GSVW2C",
+      "name": "Coolife Luggage Set",
+      "pct": 27,
+      "rating": 4.6,
+      "t": 1794066939,
+      "img": "https://m.media-amazon.com/images/I/81D+xfPncnL.jpg",
+      "link": "https://www.amazon.com/dp/B073GSVW2C?tag=zoepicks00-20",
+      "now": "129.98",
+      "was": "176.99",
+      "deal": "Limited time deal",
+      "reviews": 24469,
+      "tier": "premium"
      }
     ]
    },
@@ -2872,42 +2859,6 @@
     ]
    },
    {
-    "key": "yoga-mats",
-    "label": "Yoga Mats",
-    "items": [
-     {
-      "asin": "B07C53GRL2",
-      "name": "NewMe Fitness Thick Yoga Mat",
-      "pct": 23,
-      "rating": 4.7,
-      "t": 1794017862,
-      "img": "https://m.media-amazon.com/images/I/91paDgGN-cL.jpg",
-      "link": "https://www.amazon.com/dp/B07C53GRL2?tag=zoepicks00-20",
-      "now": "26.78",
-      "was": "34.99",
-      "reviews": 9058
-     }
-    ]
-   },
-   {
-    "key": "camping-tents",
-    "label": "Camping Tents",
-    "items": [
-     {
-      "asin": "B0DSVG4G9F",
-      "name": "Toogh 3‑4 Person Instant Pop‑Up Family Camping Tent",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1794017854,
-      "img": "https://m.media-amazon.com/images/I/71phBpKskqL.jpg",
-      "link": "https://www.amazon.com/dp/B0DSVG4G9F?tag=zoepicks00-20",
-      "now": "84.37",
-      "was": "99.26",
-      "reviews": 490
-     }
-    ]
-   },
-   {
     "key": "coolers",
     "label": "Coolers",
     "items": [
@@ -2937,6 +2888,11 @@
     "items": []
    },
    {
+    "key": "camping-tents",
+    "label": "Camping Tents",
+    "items": []
+   },
+   {
     "key": "exercise-bikes",
     "label": "Exercise Bikes",
     "items": []
@@ -2949,6 +2905,11 @@
    {
     "key": "walking-pads",
     "label": "Walking Pads",
+    "items": []
+   },
+   {
+    "key": "yoga-mats",
+    "label": "Yoga Mats",
     "items": []
    }
   ],
@@ -3660,7 +3621,8 @@
       "t": 1794117671,
       "img": "https://m.media-amazon.com/images/I/7150xxQDqDL.jpg",
       "link": "https://www.amazon.com/dp/B0CWRCCFTM?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
      }
     ]
    },
@@ -3767,8 +3729,7 @@
       "link": "https://www.amazon.com/dp/B0CMTT1WPV?tag=zoepicks00-20",
       "now": "39.99",
       "was": "69.99",
-      "reviews": 0,
-      "tier": "mid"
+      "reviews": 0
      }
     ]
    },
@@ -4081,24 +4042,6 @@
     ]
    },
    {
-    "key": "weighted-blanket",
-    "label": "Weighted Blanket",
-    "items": [
-     {
-      "asin": "B0CR15SYTN",
-      "name": "Mr. Sandman Weighted Blanket",
-      "pct": 21,
-      "rating": 4.6,
-      "t": 1794016925,
-      "img": "https://m.media-amazon.com/images/I/81GSOCXzt-L.jpg",
-      "link": "https://www.amazon.com/dp/B0CR15SYTN?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "75.99",
-      "reviews": 1915
-     }
-    ]
-   },
-   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": [
@@ -4164,6 +4107,11 @@
    {
     "key": "waffle-maker",
     "label": "Waffle Maker",
+    "items": []
+   },
+   {
+    "key": "weighted-blanket",
+    "label": "Weighted Blanket",
     "items": []
    },
    {
@@ -4942,6 +4890,11 @@
       "tier": "premium"
      }
     ]
+   },
+   {
+    "key": "carpet-stain-remover",
+    "label": "Carpet Stain Remover",
+    "items": []
    },
    {
     "key": "chocolate-protein-powder",
