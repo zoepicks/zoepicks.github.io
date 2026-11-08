@@ -2,10 +2,14 @@
  "slug": "best-robotic-arm-2026",
  "title": "Best Robotic Arm (2026)",
  "category": "toys_kids",
- "date": "Nov 7, 2026",
+ "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on mentions in the provided sources, prioritising models cited by multiple sites where possible.",
- "assumptions": "No price information was given, so price fields are left null.",
+ "method": "Picks were chosen from the products explicitly named in the supplied sources (PCMag, CNET, Dobot‑Robots). Preference was given to items mentioned by more than one source.",
+ "assumptions": "No price information was used except where a source gave a figure; all other pricing is omitted.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70",
+  "line": "Buy it if you want a robot vacuum that can also pick up small items. It offers the only mechanical arm in a consumer vacuum, but the arm still struggles with object handling and software bugs."
+ },
  "draft": true
 }

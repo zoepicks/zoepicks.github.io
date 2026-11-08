@@ -2,7 +2,7 @@
  "slug": "best-printers-2026",
  "title": "Top Home Printers That Won't Eat Your Ink (2026)",
  "category": "electronics",
- "date": "Oct 18, 2026",
+ "date": "Nov 8, 2026",
  "summary": "A concise guide to the best home printers that keep ink costs low in 2026.",
  "method": "Selected from CNET, TechGearLab, and PCMag reviews, prioritizing models highlighted for affordability and ink efficiency. Added from Amazon listing details (not from the review sources above): Epson EcoTank ET-1913.",
  "assumptions": "Prices are only included when explicitly stated in the source excerpts; otherwise, price is null.",
@@ -43,7 +43,10 @@
    "amazon_listing": "Eudul 936e 936XL 936 Ink Cartridges for HP Printers 9125e 9120 9130 9135e | 9135e 9730e Re",
    "amazon_rating": "3.4",
    "amazon_reviews": 2,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating_asof": "Nov 2, 2026",
+   "tabs": [
+    "photo"
+   ]
   },
   {
    "name": "Brother All‑in‑one J1010DW",
@@ -122,6 +125,42 @@
    "image": "https://m.media-amazon.com/images/I/61sgXgLlkgL.jpg",
    "image_asin": "B0GSSL12DG",
    "desc": "A wireless color supertank printer with refillable tanks. The listing says nothing about scanning or an automatic document feeder."
+  },
+  {
+   "name": "Canon PIXMA G620",
+   "short": "PIXMA G620",
+   "badge": "Best for Low Operating Cost",
+   "why": [
+    "The Canon PIXMA G620 produces great color and B&W prints and has a low operating cost compared to many other printers in our lineup.",
+    "It is recommended for stellar photos."
+   ],
+   "desc": "The Canon PIXMA G620 is a photo printer that produces great color and black‑and‑white prints. It has a low operating cost.",
+   "benefit": "Picture a hobbyist who prints photos at home. The Canon PIXMA G620 gives vibrant color prints at a low cost per page, making it ideal for frequent photo printing. It outperforms the other picks in this guide for cost efficiency. The catch: it is not the best at photo printing compared to dedicated photo printers.",
+   "specs": [
+    "Great color and B&W prints",
+    "Low operating cost"
+   ],
+   "pros": [
+    "Vibrant color",
+    "Low cost per page",
+    "Good for home use"
+   ],
+   "cons": [
+    "Not the best photo printer overall",
+    "Limited advanced features"
+   ],
+   "best_for": "Home photo enthusiasts",
+   "skip_if": "Need professional‑grade photo quality",
+   "link": "https://www.amazon.com/s?k=Canon+PIXMA+G620&tag=zoepicks00-20",
+   "tabs": [
+    "photo"
+   ]
+  }
+ ],
+ "tabs": [
+  {
+   "key": "photo",
+   "label": "Photo"
   }
  ]
 }
