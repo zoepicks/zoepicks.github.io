@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-08T15:56:04.109615+00:00",
+ "updated": "2026-11-08T18:57:54.959694+00:00",
  "boots_total": 55,
  "recent_boots_utc": [
   "2026-10-29T04:56:40",
@@ -14,7 +14,7 @@
   "2026-11-06T20:51:38",
   "2026-11-07T07:55:02"
  ],
- "last_run_ts": 1794153362.4471245,
+ "last_run_ts": 1794164274.3485618,
  "last_report_ts": 1794131542.8526134,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 53
+  "low": 56
  },
  "recent_runs": [
-  {
-   "t": "2026-11-07T12:21:12",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 5
-  },
   {
    "t": "2026-11-07T15:23:08",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 4
+  },
+  {
+   "t": "2026-11-08T18:57:52",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 9
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-08T09:51:54",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-08T09:51:54",
-   "what": "IndexNow: 5 URL Bing ko bheje",
-   "ok": true
-  },
-  {
-   "t": "2026-11-08T09:52:22",
-   "what": "Report + Claude brief repo me likhe",
-   "ok": true
-  },
   {
    "t": "2026-11-08T12:54:13",
    "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
@@ -125,6 +110,21 @@
   {
    "t": "2026-11-08T15:56:02",
    "what": "IndexNow: 4 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-11-08T18:57:54",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-08T18:57:54",
+   "what": "SEO check: score 94 (+0), 298 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-08T18:57:54",
+   "what": "IndexNow: 9 URL Bing ko bheje",
    "ok": true
   }
  ]
