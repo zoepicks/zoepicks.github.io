@@ -4903,5 +4903,26 @@
   "status": "done",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Carpet Stain Remover (2026)",
+  "slug": "best-carpet-stain-remover-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Camera Kit (2026)",
+  "slug": "best-camera-kit-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-3d-printer-kit-2026",
+  "tab": "camera",
+  "tab_label": "Camera"
  }
 ]
