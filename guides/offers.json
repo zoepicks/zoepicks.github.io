@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-08T09:59:14Z",
+ "updated": "2026-11-08T11:59:23Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1410,7 +1410,7 @@
       "name": "Alleyoop Sunsational Tinted Mineral Sunscreen",
       "pct": 41,
       "rating": 4.3,
-      "t": 1794118505,
+      "t": 1794137558,
       "img": "https://m.media-amazon.com/images/I/71J-Cqnz1HL.jpg",
       "link": "https://www.amazon.com/dp/B0BVB13YSN?tag=zoepicks00-20",
       "now": "22.49",
@@ -2240,12 +2240,13 @@
       "name": "Lulex Moccasins for Men House Slippers Indoor Outdoor Plush…",
       "pct": 57,
       "rating": 4.5,
-      "t": 1794118500,
+      "t": 1794062957,
       "img": "https://m.media-amazon.com/images/I/71-LDVcJd4L.jpg",
       "link": "https://www.amazon.com/dp/B07WFZ5MLT?tag=zoepicks00-20",
       "now": "12.37",
       "was": "28.99",
-      "reviews": 18193,
+      "deal": "Limited time deal",
+      "reviews": 18235,
       "tier": "budget"
      },
      {
@@ -2350,16 +2351,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0FZKJJ2B5",
-      "name": "ALLSWIFIT Men's Road Running Shoes Cushioned Sneakers",
-      "pct": 25,
+      "asin": "B0D1C1NN56",
+      "name": "NORTIV 8 Men's Walking Running Tennis Shoes Sneakers",
+      "pct": 15,
       "rating": 4.4,
-      "t": 1794002721,
-      "img": "https://m.media-amazon.com/images/I/71oUj6MaQrL.jpg",
-      "link": "https://www.amazon.com/dp/B0FZKJJ2B5?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "79.99",
-      "reviews": 488,
+      "t": 1794009696,
+      "img": "https://m.media-amazon.com/images/I/71vOcudTS5L.jpg",
+      "link": "https://www.amazon.com/dp/B0D1C1NN56?tag=zoepicks00-20",
+      "now": "48.42",
+      "was": "56.99",
+      "deal": "Limited time deal",
+      "reviews": 3879,
       "tier": "premium"
      }
     ]
@@ -2431,7 +2433,7 @@
       "name": "3 Pack Women's Joggers Sweatpants Lounge Pants Yoga Workout…",
       "pct": 41,
       "rating": 4.2,
-      "t": 1794118500,
+      "t": 1794137558,
       "img": "https://m.media-amazon.com/images/I/81BLdU1dOOL.jpg",
       "link": "https://www.amazon.com/dp/B08X9SFGVW?tag=zoepicks00-20",
       "now": "21.37",
@@ -3557,7 +3559,22 @@
       "now": "23.89",
       "was": "31.99",
       "deal": "Limited time deal",
-      "reviews": 1284
+      "reviews": 1284,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CVYBGYBB",
+      "name": "CRKD NEO S - Wireless Collectible Controller",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1794063282,
+      "img": "https://m.media-amazon.com/images/I/6109yrYpXBL.jpg",
+      "link": "https://www.amazon.com/dp/B0CVYBGYBB?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 279,
+      "tier": "premium"
      }
     ]
    },
@@ -4122,7 +4139,7 @@
       "name": "Bedsure Sage Green Comforter Set Queen Size",
       "pct": 43,
       "rating": 4.5,
-      "t": 1794118500,
+      "t": 1794137553,
       "img": "https://m.media-amazon.com/images/I/91N1er5M6QL.jpg",
       "link": "https://www.amazon.com/dp/B0CMTT1WPV?tag=zoepicks00-20",
       "now": "39.99",
@@ -5991,54 +6008,6 @@
     ]
    },
    {
-    "key": "smart-thermostats",
-    "label": "Smart Thermostats",
-    "items": [
-     {
-      "asin": "B0DYJMQJ1G",
-      "name": "Sourdough Starter Warmer Mat",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1794009546,
-      "img": "https://m.media-amazon.com/images/I/71jfXvQnz7L.jpg",
-      "link": "https://www.amazon.com/dp/B0DYJMQJ1G?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 659,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08HRWWCTR",
-      "name": "Google Nest Thermostat",
-      "pct": 31,
-      "rating": 4.1,
-      "t": 1794009546,
-      "img": "https://m.media-amazon.com/images/I/41XPirHnd5L.jpg",
-      "link": "https://www.amazon.com/dp/B08HRWWCTR?tag=zoepicks00-20",
-      "now": "89.99",
-      "was": "129.99",
-      "deal": "Limited time deal",
-      "reviews": 29791,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GZMTWXBY",
-      "name": "vine Smart Thermostats",
-      "pct": 34,
-      "rating": 4.7,
-      "t": 1794009546,
-      "img": "https://m.media-amazon.com/images/I/61w2Q72vLoL.jpg",
-      "link": "https://www.amazon.com/dp/B0GZMTWXBY?tag=zoepicks00-20",
-      "now": "98.99",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 22,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "mesh-wi-fi-systems",
     "label": "Mesh Wi Fi Systems",
     "items": []
@@ -6046,6 +6015,11 @@
    {
     "key": "smart-displays",
     "label": "Smart Displays",
+    "items": []
+   },
+   {
+    "key": "smart-thermostats",
+    "label": "Smart Thermostats",
     "items": []
    }
   ],
