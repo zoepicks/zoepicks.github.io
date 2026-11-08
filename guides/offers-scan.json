@@ -6916,9 +6916,25 @@
   },
   "home_kitchen:black-water-bottle": {
    "label": "Black Water Bottle",
-   "tries": 14,
-   "items": [],
-   "scanned": "2026-11-07T00:27:00.823543+00:00",
+   "tries": 15,
+   "items": [
+    {
+     "asin": "B085GLJ252",
+     "name": "Coldest Insulated Water Bottle",
+     "pct": 10,
+     "rating": 4.5,
+     "t": 1794099263,
+     "img": "https://m.media-amazon.com/images/I/61O-CsEos7L.jpg",
+     "link": "https://www.amazon.com/dp/B085GLJ252?tag=zoepicks00-20",
+     "now": "35.99",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 21230,
+     "_title": "Coldest Insulated Water Bottle with Straw Lid - Stainless Steel Metal Insulated Bottle for Men & Women (Stealth Black, 32 oz)",
+     "_price": 35.99
+    }
+   ],
+   "scanned": "2026-11-08T00:54:23.337832+00:00",
    "via": "sweep"
   },
   "home_kitchen:crockpot": {
