@@ -4,8 +4,8 @@
  "category": "toys_kids",
  "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on product mentions in the provided sources, prioritizing items referenced by more than one source.",
- "assumptions": "No price details were included because the sources only gave a price for the Saros Z70; other products lacked price info.",
+ "method": "Products were chosen from the DOBOT catalog listed on dobot-robots.com (source 2).",
+ "assumptions": "No pricing information was provided in the sources, so price fields are null.",
  "products": [],
  "draft": true
 }
