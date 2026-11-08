@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-08T19:05:34Z",
+ "updated": "2026-11-08T22:00:18Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1473,7 +1473,7 @@
       "name": "Alleyoop Sunsational Tinted Mineral Sunscreen",
       "pct": 41,
       "rating": 4.3,
-      "t": 1794137558,
+      "t": 1794168046,
       "img": "https://m.media-amazon.com/images/I/71J-Cqnz1HL.jpg",
       "link": "https://www.amazon.com/dp/B0BVB13YSN?tag=zoepicks00-20",
       "now": "22.49",
@@ -1526,6 +1526,53 @@
       "now": "42.49",
       "was": "59.99",
       "reviews": 14086,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "deodorants",
+    "label": "Deodorants",
+    "items": [
+     {
+      "asin": "B07S1BNNYD",
+      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794152264,
+      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
+      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
+      "now": "14.98",
+      "was": "19.99",
+      "deal": "Limited time deal",
+      "reviews": 27507,
+      "tier": "budget"
+     },
+     {
+      "asin": "B09GX2C6N2",
+      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
+      "pct": 27,
+      "rating": 4.6,
+      "t": 1794152264,
+      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
+      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 6385,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H9ZQJC9X",
+      "name": "HAPPY NUTS Whole Body Deodorant Men Use Daily As Aluminum…",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1794168043,
+      "img": "https://m.media-amazon.com/images/I/819pRYLwXqL.jpg",
+      "link": "https://www.amazon.com/dp/B0H9ZQJC9X?tag=zoepicks00-20",
+      "now": "24.98",
+      "was": "39.99",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -1611,53 +1658,6 @@
       "now": "49.97",
       "was": "69.00",
       "reviews": 23872
-     }
-    ]
-   },
-   {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B07S1BNNYD",
-      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1794152264,
-      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
-      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
-      "now": "14.98",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 27507,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09GX2C6N2",
-      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
-      "pct": 27,
-      "rating": 4.6,
-      "t": 1794152264,
-      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
-      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
-      "now": "15.99",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 6385,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DBVW4SFC",
-      "name": "Armani Beauty Acqua di Giò Deodorant",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1794152264,
-      "img": "https://m.media-amazon.com/images/I/61fASLaE3ML.jpg",
-      "link": "https://www.amazon.com/dp/B0DBVW4SFC?tag=zoepicks00-20",
-      "now": "24.00",
-      "was": "32.00",
-      "reviews": 2018,
-      "tier": "premium"
      }
     ]
    },
@@ -2629,6 +2629,19 @@
     "label": "Walking Shoes",
     "items": [
      {
+      "asin": "B0D3HGSS88",
+      "name": "IIV Women Walking Shoes Plantar Fasciitis Arch Support…",
+      "pct": 50,
+      "rating": 4.1,
+      "t": 1794168041,
+      "img": "https://m.media-amazon.com/images/I/81xEB0OtTtL.jpg",
+      "link": "https://www.amazon.com/dp/B0D3HGSS88?tag=zoepicks00-20",
+      "now": "27.99",
+      "was": "55.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
       "asin": "B0GRF31R6H",
       "name": "K-Swiss Men's Mellow Running Shoe",
       "pct": 55,
@@ -2640,7 +2653,7 @@
       "was": "65.95",
       "deal": "Limited time deal",
       "reviews": 69,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B0D1BYD8SQ",
@@ -2654,20 +2667,6 @@
       "was": "56.99",
       "deal": "Limited time deal",
       "reviews": 3888,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DCBT5T37",
-      "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1794156159,
-      "img": "https://m.media-amazon.com/images/I/71Upkl+hIQL.jpg",
-      "link": "https://www.amazon.com/dp/B0DCBT5T37?tag=zoepicks00-20",
-      "now": "59.48",
-      "was": "69.99",
-      "deal": "Limited time deal",
-      "reviews": 5034,
       "tier": "premium"
      }
     ]
@@ -2771,7 +2770,7 @@
       "name": "BAGSMART Canvas Tote Bag",
       "pct": 50,
       "rating": 4.4,
-      "t": 1794122475,
+      "t": 1794168041,
       "img": "https://m.media-amazon.com/images/I/71e3ov5SNML.jpg",
       "link": "https://www.amazon.com/dp/B0GG9XRSH5?tag=zoepicks00-20",
       "now": "14.99",
