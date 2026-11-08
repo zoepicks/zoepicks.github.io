@@ -4,8 +4,12 @@
  "category": "toys_kids",
  "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Products were chosen from the DOBOT catalog listed on dobot-robots.com (source 2).",
- "assumptions": "No pricing information was provided in the sources, so price fields are null.",
+ "method": "Picks were chosen from the cited sources: CNET (source 1), Consumer Reports (source 2), Frontiers (source 4), and PCMag (source 0). Products mentioned by multiple sources were ranked higher.",
+ "assumptions": "No price information was included because the sources only gave a price for the Saros Z70; other products had no listed price.",
  "products": [],
+ "verdict": {
+  "pick": "Roborock Saros Z70 Robot Vacuum and Mop with OmniGrip Mechanical Arm",
+  "line": "Buy this if you want a home robot that can vacuum, mop and physically move small items. It’s praised by both CNET and Consumer Reports for its unique arm, though it costs a premium."
+ },
  "draft": true
 }

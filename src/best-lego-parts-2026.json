@@ -4,12 +4,8 @@
  "category": "toys_kids",
  "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Selected products were chosen from the sources that explicitly mention them. The LEGO Mindstorms EV3 was chosen first because it appears in two sources (PCMag and RoboCamp) and is described as a full robotics kit. SPIKE Prime was next, noted as a popular educational set in RoboCamp. LEGO WeDo 2.0 was included as a beginner option mentioned in RoboCamp. No other LEGO products were listed in the provided sources.",
- "assumptions": "Prices are not provided in the sources, so no price information is included.",
+ "method": "Picks were made by reviewing the product mentions in the provided sources and selecting those referenced by more than one source. Sources used: 1, 4, 5.",
+ "assumptions": "Prices are omitted because none of the sources provide them.",
  "products": [],
- "verdict": {
-  "pick": "LEGO Mindstorms EV3",
-  "line": "Picture a student building a robot that can navigate a maze. The EV3 kit gives the parts and instructions to do that, and it lets you program with a visual interface. It is the only kit here that includes a full set of motors and sensors for complex projects."
- },
  "draft": true
 }
