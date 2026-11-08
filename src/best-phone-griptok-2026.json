@@ -4,12 +4,12 @@
  "category": "mobiles",
  "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were based on products explicitly mentioned in the provided sources; only GripTok appeared in the list.",
- "assumptions": "No price information was given, so price fields are null.",
+ "method": "Picks were made by scanning the provided sources for products described as a phone Griptok. Only gadgetreview.com mentioned a Griptok product.",
+ "assumptions": "No price information was given in the sources, so price fields are left null.",
  "products": [],
  "verdict": {
   "pick": "GripTok",
-  "line": "Ideal for users who want a phone grip that can double as an emergency smoke filter, as described by the invention award article; its main catch is that it lacks safety certification."
+  "line": "Ideal for safety‑conscious users who want a regular phone grip that also offers a quick breathing aid in a fire evacuation. It folds into a filter when needed, but it has no safety certification."
  },
  "draft": true
 }

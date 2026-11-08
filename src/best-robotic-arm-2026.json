@@ -4,12 +4,8 @@
  "category": "toys_kids",
  "date": "Nov 8, 2026",
  "summary": "We're still testing and researching this guide. Picks will be added soon.",
- "method": "Picks were chosen from the products explicitly named in the supplied sources (PCMag, CNET, Dobot‑Robots). Preference was given to items mentioned by more than one source.",
- "assumptions": "No price information was used except where a source gave a figure; all other pricing is omitted.",
+ "method": "Picks were based on product mentions in the provided sources, prioritizing items referenced by more than one source.",
+ "assumptions": "No price details were included because the sources only gave a price for the Saros Z70; other products lacked price info.",
  "products": [],
- "verdict": {
-  "pick": "Roborock Saros Z70",
-  "line": "Buy it if you want a robot vacuum that can also pick up small items. It offers the only mechanical arm in a consumer vacuum, but the arm still struggles with object handling and software bugs."
- },
  "draft": true
 }
