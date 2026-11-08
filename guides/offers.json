@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-07T23:58:06Z",
+ "updated": "2026-11-08T01:58:26Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -3508,19 +3508,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0DTNYKZWN",
-      "name": "32 oz Insulated Water Bottle",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1793986425,
-      "img": "https://m.media-amazon.com/images/I/61EYYNEilzL.jpg",
-      "link": "https://www.amazon.com/dp/B0DTNYKZWN?tag=zoepicks00-20",
-      "now": "18.97",
-      "was": "26.99",
-      "reviews": 2024,
-      "tier": "mid"
-     },
-     {
       "asin": "B0DTPGHRKT",
       "name": "40 oz Insulated Water Bottle",
       "pct": 33,
@@ -3529,6 +3516,20 @@
       "img": "https://m.media-amazon.com/images/I/61ZSrPhAsTL.jpg",
       "link": "https://www.amazon.com/dp/B0DTPGHRKT?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D93W92PQ",
+      "name": "BJPKPK 64oz Insulated Water Bottle",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1793986425,
+      "img": "https://m.media-amazon.com/images/I/71d2ijSa25L.jpg",
+      "link": "https://www.amazon.com/dp/B0D93W92PQ?tag=zoepicks00-20",
+      "now": "22.48",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 853,
       "tier": "premium"
      }
     ]
@@ -4449,6 +4450,11 @@
    {
     "key": "xbox-game-disc",
     "label": "Xbox Game Disc",
+    "items": []
+   },
+   {
+    "key": "xbox-travel-case",
+    "label": "Xbox Travel Case",
     "items": []
    },
    {
@@ -5439,6 +5445,25 @@
     ]
    },
    {
+    "key": "black-water-bottle",
+    "label": "Black Water Bottle",
+    "items": [
+     {
+      "asin": "B085GLJ252",
+      "name": "Coldest Insulated Water Bottle",
+      "pct": 10,
+      "rating": 4.5,
+      "t": 1794099263,
+      "img": "https://m.media-amazon.com/images/I/61O-CsEos7L.jpg",
+      "link": "https://www.amazon.com/dp/B085GLJ252?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 21230
+     }
+    ]
+   },
+   {
     "key": "oscillating-heater",
     "label": "Oscillating Heater",
     "items": [
@@ -5455,11 +5480,6 @@
       "reviews": 879
      }
     ]
-   },
-   {
-    "key": "black-water-bottle",
-    "label": "Black Water Bottle",
-    "items": []
    },
    {
     "key": "duvet-cover",
