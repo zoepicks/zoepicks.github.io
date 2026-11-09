@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-09T06:57:56Z",
+ "updated": "2026-11-09T08:58:03Z",
  "cats": [
   {
    "key": "fashion",
@@ -30,7 +30,7 @@
     "name": "BAGSMART Canvas Tote Bag",
     "pct": 50,
     "rating": 4.4,
-    "t": 1794122475,
+    "t": 1794204703,
     "img": "https://m.media-amazon.com/images/I/71e3ov5SNML.jpg",
     "link": "https://www.amazon.com/dp/B0GG9XRSH5?tag=zoepicks00-20",
     "now": "14.99",
@@ -41,6 +41,18 @@
   "beauty": [],
   "home": [
    {
+    "asin": "B01EA5ZI2U",
+    "name": "Braun MultiQuick 5 Hand Blender",
+    "pct": 41,
+    "rating": 4.6,
+    "t": 1794211465,
+    "img": "https://m.media-amazon.com/images/I/61uwFvve-ZL.jpg",
+    "link": "https://www.amazon.com/dp/B01EA5ZI2U?tag=zoepicks00-20",
+    "now": "46.99",
+    "was": "79.95",
+    "cat": "home"
+   },
+   {
     "asin": "B0HHT6M5NL",
     "name": "TMIGIA Immersion Blender Corded Stick Mixer 2 Speed",
     "pct": 39,
@@ -50,6 +62,18 @@
     "link": "https://www.amazon.com/dp/B0HHT6M5NL?tag=zoepicks00-20",
     "now": "16.98",
     "was": "27.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0H9YVX6PV",
+    "name": "Topcee Weighted Blanket",
+    "pct": 25,
+    "rating": 4.5,
+    "t": 1794211484,
+    "img": "https://m.media-amazon.com/images/I/71qfWExanjL.jpg",
+    "link": "https://www.amazon.com/dp/B0H9YVX6PV?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "39.99",
     "cat": "home"
    },
    {
