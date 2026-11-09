@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-09T00:00:31Z",
+ "updated": "2026-11-09T02:00:51Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -168,14 +168,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0GTM4PN4D",
-    "name": "WERHY Electric Scooter",
-    "pct": 39,
+    "asin": "B0GLPFSK4D",
+    "name": "VOLPAM Electric Scooter",
+    "pct": 36,
     "rating": 4.2,
-    "t": 1794118300,
-    "img": "https://m.media-amazon.com/images/I/71ENL0nrKzL.jpg",
-    "link": "https://www.amazon.com/dp/B0GTM4PN4D?tag=zoepicks00-20",
-    "reviews": 0,
+    "t": 1794154768,
+    "img": "https://m.media-amazon.com/images/I/71VbAmlg5LL.jpg",
+    "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
+    "now": "159.98",
+    "was": "249.99",
+    "deal": "Limited time deal",
+    "reviews": 2240,
     "tier": "mid"
    },
    {
@@ -420,21 +423,35 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HJ8GD94X",
-    "name": "Smart Watch for Women",
-    "pct": 50,
-    "rating": 4.3,
+    "asin": "B0BHTV7MCG",
+    "name": "Garmin Instinct® Crossover Solar",
+    "pct": 42,
+    "rating": 4.4,
     "t": 1794151491,
-    "img": "https://m.media-amazon.com/images/I/811X8blfFiL.jpg",
-    "link": "https://www.amazon.com/dp/B0HJ8GD94X?tag=zoepicks00-20",
-    "now": "49.98",
-    "was": "99.99",
+    "img": "https://m.media-amazon.com/images/I/71VnYL5t9HL.jpg",
+    "link": "https://www.amazon.com/dp/B0BHTV7MCG?tag=zoepicks00-20",
+    "now": "259.95",
+    "was": "449.99",
     "deal": "Limited time deal",
-    "reviews": 272,
+    "reviews": 403,
     "tier": "premium"
    }
   ],
   "monitors": [
+   {
+    "asin": "B0HMVTN843",
+    "name": "Hearvo USB 3.0 HDMI KVM Switch",
+    "pct": 37,
+    "rating": 4.3,
+    "t": 1794151986,
+    "img": "https://m.media-amazon.com/images/I/71gI3EhIueL.jpg",
+    "link": "https://www.amazon.com/dp/B0HMVTN843?tag=zoepicks00-20",
+    "now": "26.99",
+    "was": "42.99",
+    "deal": "Limited time deal",
+    "reviews": 77,
+    "tier": "budget"
+   },
    {
     "asin": "B0FF7L83XD",
     "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
@@ -444,20 +461,6 @@
     "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
     "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0BX4QN6BS",
-    "name": "Sceptre New 27-inch IPS Gaming Monitor up to 165Hz…",
-    "pct": 40,
-    "rating": 4.2,
-    "t": 1794151641,
-    "img": "https://m.media-amazon.com/images/I/71kmtc1IOiL.jpg",
-    "link": "https://www.amazon.com/dp/B0BX4QN6BS?tag=zoepicks00-20",
-    "now": "89.97",
-    "was": "149.97",
-    "deal": "Limited time deal",
-    "reviews": 457,
     "tier": "mid"
    },
    {
@@ -477,34 +480,6 @@
   ],
   "office_books": [
    {
-    "asin": "B0FW4LQBYR",
-    "name": "VUSIGN 24\" x 18\" Magnetic Whiteboard",
-    "pct": 10,
-    "rating": 4.4,
-    "t": 1794065572,
-    "img": "https://m.media-amazon.com/images/I/71husU1rHpL.jpg",
-    "link": "https://www.amazon.com/dp/B0FW4LQBYR?tag=zoepicks00-20",
-    "now": "12.99",
-    "was": "14.43",
-    "deal": "Limited time deal",
-    "reviews": 818,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0H8Y52Y18",
-    "name": "OLIXIS Magnetic White Board",
-    "pct": 12,
-    "rating": 4.4,
-    "t": 1794065572,
-    "img": "https://m.media-amazon.com/images/I/51VTZbMp9qL.jpg",
-    "link": "https://www.amazon.com/dp/B0H8Y52Y18?tag=zoepicks00-20",
-    "now": "43.93",
-    "was": "49.99",
-    "deal": "Limited time deal",
-    "reviews": 78,
-    "tier": "mid"
-   },
-   {
     "asin": "B083R36CY4",
     "name": "Brother DS-640 Compact Mobile Document Scanner",
     "pct": 17,
@@ -513,6 +488,32 @@
     "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
     "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0BWNTNGN5",
+    "name": "Canon imageFORMULA R30",
+    "pct": 20,
+    "rating": 4.2,
+    "t": 1794182684,
+    "img": "https://m.media-amazon.com/images/I/61o0s0JQGiL.jpg",
+    "link": "https://www.amazon.com/dp/B0BWNTNGN5?tag=zoepicks00-20",
+    "now": "259.00",
+    "was": "323.00",
+    "reviews": 386,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0F9B1H5VN",
+    "name": "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner",
+    "pct": 26,
+    "rating": 4.3,
+    "t": 1794182684,
+    "img": "https://m.media-amazon.com/images/I/61J4p7XrFpL.jpg",
+    "link": "https://www.amazon.com/dp/B0F9B1H5VN?tag=zoepicks00-20",
+    "now": "379.99",
+    "was": "511.99",
+    "reviews": 535,
     "tier": "premium"
    }
   ],
@@ -847,7 +848,8 @@
       "now": "26.99",
       "was": "42.99",
       "deal": "Limited time deal",
-      "reviews": 77
+      "reviews": 77,
+      "tier": "budget"
      }
     ]
    },
@@ -1179,6 +1181,52 @@
     ]
    },
    {
+    "key": "eye-makeup",
+    "label": "Eye Makeup",
+    "items": [
+     {
+      "asin": "B08Z2ZYKVB",
+      "name": "UCANBE 60-Color Naked Neutral Nude Eyeshadow Makeup Palette…",
+      "pct": 16,
+      "rating": 4.4,
+      "t": 1794187154,
+      "img": "https://m.media-amazon.com/images/I/81LwhfwVLOL.jpg",
+      "link": "https://www.amazon.com/dp/B08Z2ZYKVB?tag=zoepicks00-20",
+      "now": "13.49",
+      "was": "15.98",
+      "deal": "Limited time deal",
+      "reviews": 1506,
+      "tier": "budget"
+     },
+     {
+      "asin": "B089GBFM7G",
+      "name": "ColourPop Nude Mood Eyeshadow Palette",
+      "pct": 70,
+      "rating": 4.5,
+      "t": 1794153169,
+      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
+      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
+      "now": "14.00",
+      "was": "46.67",
+      "reviews": 5384,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BB6B581W",
+      "name": "tarte tartelette tubing mascara",
+      "pct": 73,
+      "rating": 4.4,
+      "t": 1794187154,
+      "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
+      "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
+      "now": "23.00",
+      "was": "85.19",
+      "reviews": 4632,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "makeup-primers",
     "label": "Makeup Primers",
     "items": [
@@ -1263,37 +1311,6 @@
       "was": "132.99",
       "reviews": 1853,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "eye-makeup",
-    "label": "Eye Makeup",
-    "items": [
-     {
-      "asin": "B089GBFM7G",
-      "name": "ColourPop Nude Mood Eyeshadow Palette",
-      "pct": 70,
-      "rating": 4.5,
-      "t": 1794153169,
-      "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
-      "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
-      "now": "14.00",
-      "was": "46.67",
-      "reviews": 5384
-     },
-     {
-      "asin": "B08Z2ZYKVB",
-      "name": "UCANBE 60-Color Naked Neutral Nude Eyeshadow Makeup Palette…",
-      "pct": 10,
-      "rating": 4.4,
-      "t": 1794153169,
-      "img": "https://m.media-amazon.com/images/I/81LwhfwVLOL.jpg",
-      "link": "https://www.amazon.com/dp/B08Z2ZYKVB?tag=zoepicks00-20",
-      "now": "13.49",
-      "was": "14.99",
-      "deal": "Limited time deal",
-      "reviews": 1506
      }
     ]
    },
@@ -2521,6 +2538,24 @@
     ]
    },
    {
+    "key": "e-readers",
+    "label": "E Readers",
+    "items": [
+     {
+      "asin": "B0H8SZ945Y",
+      "name": "XTEINK X4 Classic Pocket eReader",
+      "pct": 11,
+      "rating": 4.0,
+      "t": 1794187110,
+      "img": "https://m.media-amazon.com/images/I/61XA5ESbDrL.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
+      "now": "79.00",
+      "was": "89.00",
+      "reviews": 131
+     }
+    ]
+   },
+   {
     "key": "noise-reducing-headphones",
     "label": "Noise Reducing Headphones",
     "items": []
@@ -2533,11 +2568,6 @@
    {
     "key": "camera-tripod",
     "label": "Camera Tripod",
-    "items": []
-   },
-   {
-    "key": "e-readers",
-    "label": "E Readers",
     "items": []
    },
    {
@@ -3610,6 +3640,54 @@
     ]
    },
    {
+    "key": "coolers",
+    "label": "Coolers",
+    "items": [
+     {
+      "asin": "B0CWNT3B3H",
+      "name": "RealCool 35/45 Can Collapsible Soft Cooler Bag",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794182592,
+      "img": "https://m.media-amazon.com/images/I/81xBjptf9+L.jpg",
+      "link": "https://www.amazon.com/dp/B0CWNT3B3H?tag=zoepicks00-20",
+      "now": "17.97",
+      "was": "23.99",
+      "deal": "Limited time deal",
+      "reviews": 1240,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DYNZ87PL",
+      "name": "Lightweight Rigid Material Insulated Portable Cooler",
+      "pct": 24,
+      "rating": 4.5,
+      "t": 1794182592,
+      "img": "https://m.media-amazon.com/images/I/71FnbON5o2L.jpg",
+      "link": "https://www.amazon.com/dp/B0DYNZ87PL?tag=zoepicks00-20",
+      "now": "22.68",
+      "was": "29.90",
+      "deal": "Limited time deal",
+      "reviews": 118,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FPRKP9B8",
+      "name": "Igloo Top Loading Water Cooler",
+      "pct": 25,
+      "rating": 4.2,
+      "t": 1794182592,
+      "img": "https://m.media-amazon.com/images/I/61IWDjHAw5L.jpg",
+      "link": "https://www.amazon.com/dp/B0FPRKP9B8?tag=zoepicks00-20",
+      "now": "104.99",
+      "was": "139.99",
+      "deal": "Limited time deal",
+      "reviews": 2119,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "hiking-backpacks",
     "label": "Hiking Backpacks",
     "items": [
@@ -3688,32 +3766,56 @@
     ]
    },
    {
-    "key": "coolers",
-    "label": "Coolers",
+    "key": "yoga-mats",
+    "label": "Yoga Mats",
     "items": [
      {
-      "asin": "B08JCTCLJF",
-      "name": "2-Pack, XL-Large Insulated Grocery Shopping Bags",
-      "pct": 10,
+      "asin": "B07LGRWNZD",
+      "name": "Ewedoos Eco Friendly Yoga Mat Thick TPE Yoga Mat Non Slip…",
+      "pct": 20,
       "rating": 4.6,
-      "t": 1794065209,
-      "img": "https://m.media-amazon.com/images/I/61gXu9PNntL.jpg",
-      "link": "https://www.amazon.com/dp/B08JCTCLJF?tag=zoepicks00-20",
-      "now": "15.26",
-      "was": "16.95",
+      "t": 1794182651,
+      "img": "https://m.media-amazon.com/images/I/71Ux2YPrKTL.jpg",
+      "link": "https://www.amazon.com/dp/B07LGRWNZD?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "29.99",
       "deal": "Limited time deal",
-      "reviews": 5988
+      "reviews": 3733,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H7QRYYPJ",
+      "name": "KEEP 72\" x 24\" Yoga Mat",
+      "pct": 17,
+      "rating": 4.2,
+      "t": 1794182651,
+      "img": "https://m.media-amazon.com/images/I/61Gq5uZWs+L.jpg",
+      "link": "https://www.amazon.com/dp/B0H7QRYYPJ?tag=zoepicks00-20",
+      "now": "24.98",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 106,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CP2XJNMB",
+      "name": "Sunny Health & Fitness Exercise Yoga Mats",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1794182651,
+      "img": "https://m.media-amazon.com/images/I/61ZemAXVKPL.jpg",
+      "link": "https://www.amazon.com/dp/B0CP2XJNMB?tag=zoepicks00-20",
+      "now": "29.69",
+      "was": "34.99",
+      "deal": "Limited time deal",
+      "reviews": 6045,
+      "tier": "premium"
      }
     ]
    },
    {
     "key": "walking-pads",
     "label": "Walking Pads",
-    "items": []
-   },
-   {
-    "key": "yoga-mats",
-    "label": "Yoga Mats",
     "items": []
    }
   ],
@@ -5278,6 +5380,54 @@
     ]
    },
    {
+    "key": "weighted-blanket",
+    "label": "Weighted Blanket",
+    "items": [
+     {
+      "asin": "B0H6WK7HRT",
+      "name": "AN Cooling Weighted Blanket",
+      "pct": 19,
+      "rating": 4.6,
+      "t": 1794182664,
+      "img": "https://m.media-amazon.com/images/I/61f8NiRZ0LL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6WK7HRT?tag=zoepicks00-20",
+      "now": "24.29",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 1067,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H9YVX6PV",
+      "name": "Topcee Weighted Blanket",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1794182664,
+      "img": "https://m.media-amazon.com/images/I/71qfWExanjL.jpg",
+      "link": "https://www.amazon.com/dp/B0H9YVX6PV?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 10068,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GYNTG7SF",
+      "name": "Wemore Fluffy Weighted Blanket",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794182664,
+      "img": "https://m.media-amazon.com/images/I/815NKWs3NAL.jpg",
+      "link": "https://www.amazon.com/dp/B0GYNTG7SF?tag=zoepicks00-20",
+      "now": "86.68",
+      "was": "115.99",
+      "deal": "Limited time deal",
+      "reviews": 42,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "stove-pressure-cooker",
     "label": "Stove Pressure Cooker",
     "items": [
@@ -5292,6 +5442,72 @@
       "now": "109.99",
       "was": "139.99",
       "reviews": 84
+     }
+    ]
+   },
+   {
+    "key": "waffle-maker",
+    "label": "Waffle Maker",
+    "items": [
+     {
+      "asin": "B09L2KB92J",
+      "name": "Dash Express Waffle Maker -Electric Waffle Maker",
+      "pct": 17,
+      "rating": 4.6,
+      "t": 1794182855,
+      "img": "https://m.media-amazon.com/images/I/71F8Rgmn1SL.jpg",
+      "link": "https://www.amazon.com/dp/B09L2KB92J?tag=zoepicks00-20",
+      "now": "24.99",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 11536,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BBK9XTNN",
+      "name": "Dash Multi Mini Heart Waffle Maker",
+      "pct": 16,
+      "rating": 4.6,
+      "t": 1794182855,
+      "img": "https://m.media-amazon.com/images/I/81yD3mJBFhL.jpg",
+      "link": "https://www.amazon.com/dp/B0BBK9XTNN?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 8589,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DFK274K1",
+      "name": "Dash MultiMaker® Treat Maker System",
+      "pct": 16,
+      "rating": 4.4,
+      "t": 1794182855,
+      "img": "https://m.media-amazon.com/images/I/61mMEBwsybL.jpg",
+      "link": "https://www.amazon.com/dp/B0DFK274K1?tag=zoepicks00-20",
+      "now": "41.99",
+      "was": "49.99",
+      "deal": "Limited time deal",
+      "reviews": 181,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "white-refrigerator",
+    "label": "White Refrigerator",
+    "items": [
+     {
+      "asin": "B0FKSZZ6J1",
+      "name": "BANGSON 7.5 Cu.Ft Retro Refrigerator",
+      "pct": 14,
+      "rating": 4.2,
+      "t": 1794182872,
+      "img": "https://m.media-amazon.com/images/I/51HkB3q-qPL.jpg",
+      "link": "https://www.amazon.com/dp/B0FKSZZ6J1?tag=zoepicks00-20",
+      "now": "479.99",
+      "was": "559.99",
+      "reviews": 34
      }
     ]
    },
@@ -5345,21 +5561,6 @@
    {
     "key": "stand-mixers",
     "label": "Stand Mixers",
-    "items": []
-   },
-   {
-    "key": "waffle-maker",
-    "label": "Waffle Maker",
-    "items": []
-   },
-   {
-    "key": "weighted-blanket",
-    "label": "Weighted Blanket",
-    "items": []
-   },
-   {
-    "key": "white-refrigerator",
-    "label": "White Refrigerator",
     "items": []
    },
    {
@@ -5625,19 +5826,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0CKBPV5JD",
-      "name": "AOCHUAN Smart XE w/Focus/Object Track Gimbal Stabilizer",
-      "pct": 23,
-      "rating": 4.2,
-      "t": 1794069006,
-      "img": "https://m.media-amazon.com/images/I/619KFYGI+0L.jpg",
-      "link": "https://www.amazon.com/dp/B0CKBPV5JD?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "64.99",
-      "reviews": 1141,
-      "tier": "mid"
-     },
-     {
       "asin": "B0BZ12PT1Z",
       "name": "Armocity 32\" Rolling Standing Desk",
       "pct": 30,
@@ -5649,6 +5837,17 @@
       "was": "99.99",
       "deal": "Limited time deal",
       "reviews": 812,
+      "tier": "mid"
+     },
+     {
+      "asin": "B083R36CY4",
+      "name": "Brother DS-640 Compact Mobile Document Scanner",
+      "pct": 17,
+      "rating": 4.3,
+      "t": 1794118475,
+      "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
+      "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -5885,6 +6084,38 @@
     ]
    },
    {
+    "key": "monitors-home-office",
+    "label": "Monitors Home Office",
+    "items": [
+     {
+      "asin": "B0FHDVMW2P",
+      "name": "SANSUI 22 Inch 120Hz Computer Monitor",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1794182806,
+      "img": "https://m.media-amazon.com/images/I/81T3Y0MTTBL.jpg",
+      "link": "https://www.amazon.com/dp/B0FHDVMW2P?tag=zoepicks00-20",
+      "now": "69.98",
+      "was": "87.99",
+      "deal": "Limited time deal",
+      "reviews": 3562
+     },
+     {
+      "asin": "B0B17KHCQN",
+      "name": "SANSUI Monitor 24 inch 100Hz 120Hz PC Computer Monitor",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1794182806,
+      "img": "https://m.media-amazon.com/images/I/71Ufpo6jZTL.jpg",
+      "link": "https://www.amazon.com/dp/B0B17KHCQN?tag=zoepicks00-20",
+      "now": "84.98",
+      "was": "99.99",
+      "deal": "Limited time deal",
+      "reviews": 13120
+     }
+    ]
+   },
+   {
     "key": "monitors-mac",
     "label": "Monitors Mac",
     "items": [
@@ -5902,11 +6133,6 @@
       "reviews": 743
      }
     ]
-   },
-   {
-    "key": "monitors-home-office",
-    "label": "Monitors Home Office",
-    "items": []
    }
   ],
   "office_books": [
@@ -5923,6 +6149,32 @@
       "img": "https://m.media-amazon.com/images/I/516QQS0E4xL.jpg",
       "link": "https://www.amazon.com/dp/B083R36CY4?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BWNTNGN5",
+      "name": "Canon imageFORMULA R30",
+      "pct": 20,
+      "rating": 4.2,
+      "t": 1794182684,
+      "img": "https://m.media-amazon.com/images/I/61o0s0JQGiL.jpg",
+      "link": "https://www.amazon.com/dp/B0BWNTNGN5?tag=zoepicks00-20",
+      "now": "259.00",
+      "was": "323.00",
+      "reviews": 386,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F9B1H5VN",
+      "name": "ScanSnap iX2500 Wireless or USB High-Speed Document Scanner",
+      "pct": 26,
+      "rating": 4.3,
+      "t": 1794182684,
+      "img": "https://m.media-amazon.com/images/I/61J4p7XrFpL.jpg",
+      "link": "https://www.amazon.com/dp/B0F9B1H5VN?tag=zoepicks00-20",
+      "now": "379.99",
+      "was": "511.99",
+      "reviews": 535,
       "tier": "premium"
      }
     ]
@@ -6166,6 +6418,36 @@
     ]
    },
    {
+    "key": "micellar-water",
+    "label": "Micellar Water",
+    "items": [
+     {
+      "asin": "B086M1HVSD",
+      "name": "Mustela Certified Organic Micellar Cleansing Water…",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794182714,
+      "img": "https://m.media-amazon.com/images/I/61OJGzMiztL.jpg",
+      "link": "https://www.amazon.com/dp/B086M1HVSD?tag=zoepicks00-20",
+      "now": "14.99",
+      "was": "20.00",
+      "reviews": 1435
+     },
+     {
+      "asin": "B078WPCDV1",
+      "name": "Garnier Micellar Water For Waterproof Makeup 13.5 Fl Oz 2 Ct",
+      "pct": 20,
+      "rating": 4.7,
+      "t": 1794182714,
+      "img": "https://m.media-amazon.com/images/I/81p+-neThCL.jpg",
+      "link": "https://www.amazon.com/dp/B078WPCDV1?tag=zoepicks00-20",
+      "now": "13.55",
+      "was": "16.93",
+      "reviews": 52807
+     }
+    ]
+   },
+   {
     "key": "chocolate-protein-powder",
     "label": "Chocolate Protein Powder",
     "items": [
@@ -6365,11 +6647,6 @@
    {
     "key": "18v-battery",
     "label": "18v Battery",
-    "items": []
-   },
-   {
-    "key": "micellar-water",
-    "label": "Micellar Water",
     "items": []
    },
    {
@@ -6705,8 +6982,7 @@
       "now": "49.98",
       "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 272,
-      "tier": "premium"
+      "reviews": 272
      }
     ]
    },
@@ -6972,16 +7248,6 @@
     "label": "Cordless Drills",
     "items": [
      {
-      "asin": "B0F916XPT8",
-      "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
-      "pct": 61,
-      "rating": 4.3,
-      "t": 1794118268,
-      "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
-      "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
-      "reviews": 0
-     },
-     {
       "asin": "B0CKZ53T2W",
       "name": "Litheli 20V Cordless Drill Driver",
       "pct": 52,
@@ -6989,7 +7255,33 @@
       "t": 1794118269,
       "img": "https://m.media-amazon.com/images/I/611ywWp5f+L.jpg",
       "link": "https://www.amazon.com/dp/B0CKZ53T2W?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F916XPT8",
+      "name": "GREENWORKS 24V 1/2\" Brushless Cordless Drill",
+      "pct": 61,
+      "rating": 4.3,
+      "t": 1794118268,
+      "img": "https://m.media-amazon.com/images/I/81cGxHLk-wL.jpg",
+      "link": "https://www.amazon.com/dp/B0F916XPT8?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GR1K5HK1",
+      "name": "DEWALT 20V MAX 3-Tool Brushless Power Tool Set",
+      "pct": 33,
+      "rating": 4.7,
+      "t": 1794182761,
+      "img": "https://m.media-amazon.com/images/I/61E9t2zAfYL.jpg",
+      "link": "https://www.amazon.com/dp/B0GR1K5HK1?tag=zoepicks00-20",
+      "now": "269.00",
+      "was": "399.00",
+      "deal": "Limited time deal",
+      "reviews": 948,
+      "tier": "premium"
      }
     ]
    },
@@ -7006,7 +7298,35 @@
       "img": "https://m.media-amazon.com/images/I/61FpT6WVomL.jpg",
       "link": "https://www.amazon.com/dp/B0HBQQQQGM?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DC11BZKC",
+      "name": "Greenworks 1900 PSI",
+      "pct": 22,
+      "rating": 4.5,
+      "t": 1794182785,
+      "img": "https://m.media-amazon.com/images/I/71mNJ7xNuzL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC11BZKC?tag=zoepicks00-20",
+      "now": "139.99",
+      "was": "179.99",
+      "deal": "Limited time deal",
+      "reviews": 175,
       "tier": "mid"
+     },
+     {
+      "asin": "B0H1PB786Z",
+      "name": "Greenworks 2200 PSI",
+      "pct": 32,
+      "rating": 4.6,
+      "t": 1794182785,
+      "img": "https://m.media-amazon.com/images/I/71Futf6SOjL.jpg",
+      "link": "https://www.amazon.com/dp/B0H1PB786Z?tag=zoepicks00-20",
+      "now": "169.99",
+      "was": "249.99",
+      "deal": "Limited time deal",
+      "reviews": 38,
+      "tier": "premium"
      }
     ]
    },
