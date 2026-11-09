@@ -1,85 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-11-08T21:59:35.261138+00:00",
+ "generated_at": "2026-11-09T10:07:15.302034+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-11-08T00:29:16.911819+00:00",
-   "score": 94,
-   "pages": 293,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 51
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx18",
-    "title_lengthx17",
-    "slow_pagex16"
-   ],
-   "avg_words": 958,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-08T03:31:04.601282+00:00",
-   "score": 94,
-   "pages": 294,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 47
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx18",
-    "title_lengthx17",
-    "slow_pagex12"
-   ],
-   "avg_words": 958,
-   "why": "schedule",
-   "indexnow": 3
-  },
-  {
-   "t": "2026-11-08T06:32:43.855796+00:00",
-   "score": 94,
-   "pages": 295,
-   "issues": {
-    "high": 2,
-    "med": 0,
-    "low": 41
-   },
-   "top": [
-    "http_errorx1",
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex5"
-   ],
-   "avg_words": 950,
-   "why": "schedule",
-   "indexnow": 8
-  },
-  {
-   "t": "2026-11-08T09:34:28.103730+00:00",
-   "score": 94,
-   "pages": 296,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 44
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex8"
-   ],
-   "avg_words": 953,
-   "why": "schedule",
-   "indexnow": 5
-  },
   {
    "t": "2026-11-08T12:54:09.571304+00:00",
    "score": 94,
@@ -155,9 +78,96 @@
    "avg_words": 951,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-09T01:01:58.079372+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 45
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex9"
+   ],
+   "avg_words": 951,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-09T04:03:41.362127+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 40
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex4"
+   ],
+   "avg_words": 951,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-09T07:05:27.669795+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 40
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex4"
+   ],
+   "avg_words": 951,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-09T10:07:15.302034+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 2,
+    "med": 0,
+    "low": 50
+   },
+   "top": [
+    "http_errorx1",
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex14"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
+  {
+   "sev": "high",
+   "code": "http_error",
+   "count": 1,
+   "fix": "Jin pages pe HTTP error hai unhe fix ya sitemap se hatao.",
+   "example": [
+    "/g/best-white-noise-machine-2026/"
+   ],
+   "detail": "HTTP 503"
+  },
   {
    "sev": "high",
    "code": "contact_email_placeholder",
@@ -195,14 +205,14 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 6,
+   "count": 14,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-razor-blades-2026/",
-    "/g/best-kobo-case-2026/",
-    "/g/best-makeup-brush-set-2026/"
+    "/g/best-oscillating-heater-2026/",
+    "/g/best-mini-fridge-2026/",
+    "/g/best-makeup-vanity-bag-2026/"
    ],
-   "detail": "load 3.8s"
+   "detail": "load 3.19s"
   }
  ],
  "adsense_checklist": {
@@ -210,28 +220,28 @@
   "contact_email_set": false,
   "guides_live": 292,
   "guides_enough_20plus": true,
-  "thin_guides": 0,
+  "thin_guides": 1,
   "own_domain": false,
   "no_broken_links": true
  },
  "issue_counts": {
-  "high": 1,
+  "high": 2,
   "med": 0,
-  "low": 42
+  "low": 50
  },
- "avg_guide_words": 951,
+ "avg_guide_words": 948,
  "slowest": [
   {
-   "url": "/g/best-razor-blades-2026/",
+   "url": "/g/best-gaming-monitors-2026/",
    "secs": 3.8
   },
   {
-   "url": "/g/best-kobo-case-2026/",
-   "secs": 3.69
+   "url": "/g/best-massage-guns-2026/",
+   "secs": 3.79
   },
   {
-   "url": "/g/best-street-photography-camera-2026/",
-   "secs": 3.2
+   "url": "/g/best-soundbars-2026/",
+   "secs": 3.79
   }
  ],
  "broken_links": [],
@@ -304,7 +314,7 @@
    "s": 200,
    "t": 44,
    "d": 90,
-   "w": 750,
+   "w": 768,
    "i": 0,
    "h": "02264ec65f"
   },
@@ -313,7 +323,7 @@
    "s": 200,
    "t": 37,
    "d": 101,
-   "w": 702,
+   "w": 718,
    "i": 0,
    "h": "ca0dd4b6e6"
   },
@@ -340,18 +350,18 @@
    "s": 200,
    "t": 33,
    "d": 65,
-   "w": 875,
+   "w": 887,
    "i": 1,
    "h": "2b9d5961ed"
   },
   {
    "u": "/g/best-white-noise-machine-2026/",
-   "s": 200,
-   "t": 43,
-   "d": 117,
-   "w": 912,
-   "i": 0,
-   "h": "4572a9af55"
+   "s": 503,
+   "t": 0,
+   "d": 0,
+   "w": 0,
+   "i": 1,
+   "h": "86bab4e514"
   },
   {
    "u": "/g/best-internal-ssd-2026/",
@@ -466,7 +476,7 @@
    "s": 200,
    "t": 33,
    "d": 118,
-   "w": 1137,
+   "w": 1135,
    "i": 0,
    "h": "2de0ef47ba"
   },
@@ -476,7 +486,7 @@
    "t": 42,
    "d": 102,
    "w": 882,
-   "i": 0,
+   "i": 1,
    "h": "02c4b3f4aa"
   },
   {
@@ -512,7 +522,7 @@
    "t": 35,
    "d": 156,
    "w": 761,
-   "i": 0,
+   "i": 1,
    "h": "92b80606c6"
   },
   {
@@ -620,7 +630,7 @@
    "t": 36,
    "d": 90,
    "w": 745,
-   "i": 1,
+   "i": 0,
    "h": "64be687473"
   },
   {
@@ -629,7 +639,7 @@
    "t": 33,
    "d": 118,
    "w": 779,
-   "i": 1,
+   "i": 0,
    "h": "2d2c79a96f"
   },
   {
@@ -791,7 +801,7 @@
    "t": 41,
    "d": 89,
    "w": 758,
-   "i": 0,
+   "i": 1,
    "h": "c932ffa142"
   },
   {
@@ -809,7 +819,7 @@
    "t": 40,
    "d": 61,
    "w": 732,
-   "i": 2,
+   "i": 1,
    "h": "5a0a6d9ed3"
   },
   {
@@ -845,7 +855,7 @@
    "t": 31,
    "d": 100,
    "w": 894,
-   "i": 0,
+   "i": 1,
    "h": "71f8f3e28b"
   },
   {
@@ -853,7 +863,7 @@
    "s": 200,
    "t": 36,
    "d": 110,
-   "w": 871,
+   "w": 873,
    "i": 0,
    "h": "12ba31212e"
   },
@@ -953,7 +963,7 @@
    "t": 35,
    "d": 78,
    "w": 820,
-   "i": 0,
+   "i": 1,
    "h": "f816661c3d"
   },
   {
@@ -962,7 +972,7 @@
    "t": 35,
    "d": 157,
    "w": 802,
-   "i": 0,
+   "i": 1,
    "h": "7b45c1678a"
   },
   {
@@ -1006,7 +1016,7 @@
    "s": 200,
    "t": 54,
    "d": 130,
-   "w": 904,
+   "w": 906,
    "i": 0,
    "h": "63f19b6fd8"
   },
@@ -1070,7 +1080,7 @@
    "t": 49,
    "d": 128,
    "w": 3520,
-   "i": 1,
+   "i": 0,
    "h": "9e4f79659f"
   },
   {
@@ -1106,7 +1116,7 @@
    "t": 51,
    "d": 155,
    "w": 1040,
-   "i": 0,
+   "i": 1,
    "h": "4ab9056530"
   },
   {
@@ -1115,7 +1125,7 @@
    "t": 46,
    "d": 148,
    "w": 3625,
-   "i": 0,
+   "i": 1,
    "h": "cd3d10f1d7"
   },
   {
@@ -1124,7 +1134,7 @@
    "t": 55,
    "d": 132,
    "w": 1974,
-   "i": 1,
+   "i": 0,
    "h": "385ac13f84"
   },
   {
@@ -1159,7 +1169,7 @@
    "s": 200,
    "t": 34,
    "d": 154,
-   "w": 1010,
+   "w": 1012,
    "i": 0,
    "h": "6ade23c548"
   },
@@ -1258,7 +1268,7 @@
    "s": 200,
    "t": 43,
    "d": 95,
-   "w": 692,
+   "w": 696,
    "i": 0,
    "h": "9e9bda70ac"
   },
@@ -1448,7 +1458,7 @@
    "t": 48,
    "d": 157,
    "w": 947,
-   "i": 0,
+   "i": 1,
    "h": "6ec1f07564"
   },
   {
@@ -1610,7 +1620,7 @@
    "t": 60,
    "d": 150,
    "w": 981,
-   "i": 0,
+   "i": 1,
    "h": "bc4f7f8a5f"
   },
   {
@@ -1690,7 +1700,7 @@
    "s": 200,
    "t": 58,
    "d": 107,
-   "w": 593,
+   "w": 588,
    "i": 0,
    "h": "8d3fa18e92"
   },
@@ -1726,7 +1736,7 @@
    "s": 200,
    "t": 59,
    "d": 148,
-   "w": 1721,
+   "w": 1719,
    "i": 0,
    "h": "940fcf6440"
   },
@@ -1834,7 +1844,7 @@
    "s": 200,
    "t": 57,
    "d": 154,
-   "w": 1231,
+   "w": 1229,
    "i": 0,
    "h": "fcbcfe5a66"
   },
@@ -1861,7 +1871,7 @@
    "s": 200,
    "t": 59,
    "d": 148,
-   "w": 765,
+   "w": 763,
    "i": 0,
    "h": "6f32063fd3"
   },
@@ -1934,7 +1944,7 @@
    "t": 65,
    "d": 151,
    "w": 537,
-   "i": 1,
+   "i": 0,
    "h": "a9b177d621"
   },
   {
@@ -2131,7 +2141,7 @@
    "s": 200,
    "t": 58,
    "d": 152,
-   "w": 965,
+   "w": 963,
    "i": 0,
    "h": "b23073b3b8"
   },
@@ -2194,7 +2204,7 @@
    "s": 200,
    "t": 68,
    "d": 153,
-   "w": 1425,
+   "w": 1419,
    "i": 1,
    "h": "a7bfcb1157"
   },
@@ -2285,7 +2295,7 @@
    "t": 52,
    "d": 152,
    "w": 1015,
-   "i": 0,
+   "i": 1,
    "h": "b687988148"
   },
   {
@@ -2294,7 +2304,7 @@
    "t": 54,
    "d": 153,
    "w": 1233,
-   "i": 0,
+   "i": 1,
    "h": "ecefaf0460"
   },
   {
@@ -2303,7 +2313,7 @@
    "t": 55,
    "d": 148,
    "w": 1755,
-   "i": 0,
+   "i": 1,
    "h": "b3ddfbea92"
   },
   {
@@ -2321,7 +2331,7 @@
    "t": 53,
    "d": 148,
    "w": 1387,
-   "i": 0,
+   "i": 1,
    "h": "8e815f4aab"
   },
   {
@@ -2338,7 +2348,7 @@
    "s": 200,
    "t": 54,
    "d": 150,
-   "w": 1285,
+   "w": 1283,
    "i": 0,
    "h": "2acdc6a71d"
   },
@@ -2428,7 +2438,7 @@
    "s": 200,
    "t": 60,
    "d": 152,
-   "w": 1512,
+   "w": 1505,
    "i": 0,
    "h": "787f46e2a7"
   },
@@ -2455,7 +2465,7 @@
    "s": 200,
    "t": 54,
    "d": 143,
-   "w": 783,
+   "w": 786,
    "i": 0,
    "h": "7b1341692f"
   },
@@ -2464,7 +2474,7 @@
    "s": 200,
    "t": 47,
    "d": 137,
-   "w": 749,
+   "w": 746,
    "i": 0,
    "h": "bd8a4ef60c"
   },
@@ -2536,7 +2546,7 @@
    "s": 200,
    "t": 61,
    "d": 115,
-   "w": 1299,
+   "w": 1293,
    "i": 0,
    "h": "550dfea62c"
   },
@@ -2779,7 +2789,7 @@
    "s": 200,
    "t": 76,
    "d": 147,
-   "w": 725,
+   "w": 723,
    "i": 1,
    "h": "20ae7e72ac"
   },
@@ -2921,34 +2931,6 @@
  ],
  "actions": [
   {
-   "t": "2026-11-07T18:25:11.199508+00:00",
-   "indexnow": {
-    "submitted": 7,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-07T21:26:54.609201+00:00",
-   "indexnow": {
-    "submitted": 2,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-08T00:29:16.911819+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-08T03:31:04.601282+00:00",
-   "indexnow": {
-    "submitted": 3,
-    "http": 200
-   }
-  },
-  {
    "t": "2026-11-08T06:32:43.855796+00:00",
    "indexnow": {
     "submitted": 8,
@@ -2985,6 +2967,34 @@
   },
   {
    "t": "2026-11-08T21:59:35.261138+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-09T01:01:58.079372+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-09T04:03:41.362127+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-09T07:05:27.669795+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-09T10:07:15.302034+00:00",
    "indexnow": {
     "submitted": 0,
     "note": "koi page change nahi"
