@@ -1177,9 +1177,24 @@
   },
   "electronics:e-readers": {
    "label": "E Readers",
-   "tries": 14,
-   "items": [],
-   "scanned": "2026-11-07T15:30:17.701343+00:00",
+   "tries": 15,
+   "items": [
+    {
+     "asin": "B0H8SZ945Y",
+     "name": "XTEINK X4 Classic Pocket eReader",
+     "pct": 11,
+     "rating": 4.0,
+     "t": 1794187110,
+     "img": "https://m.media-amazon.com/images/I/61XA5ESbDrL.jpg",
+     "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
+     "now": "79.00",
+     "was": "89.00",
+     "reviews": 131,
+     "_title": "XTEINK X4 Classic Pocket eReader, Ultra-Light 68g & 4.9mm Thin,Reader Gifts | Ultra Thin 0.19\" design, 4.3\" E ink Paper-fe...",
+     "_price": 79.0
+    }
+   ],
+   "scanned": "2026-11-09T01:18:30.283823+00:00",
    "via": "sweep"
   },
   "electronics:record-players": {
