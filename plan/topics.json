@@ -5424,5 +5424,68 @@
   "parent": "best-paperback-book-2026",
   "tab": "nietzsche",
   "tab_label": "Nietzsche"
+ },
+ {
+  "title": "Best Nasal Spray (2026)",
+  "slug": "best-nasal-spray-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Microphone Speaker (2026)",
+  "slug": "best-microphone-speaker-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-bluetooth-speakers-2026",
+  "tab": "microphone",
+  "tab_label": "Microphone"
+ },
+ {
+  "title": "Best Walking Pad Treadmill (2026)",
+  "slug": "best-walking-pad-treadmill-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-treadmills-2026",
+  "tab": "walking-pad",
+  "tab_label": "Walking Pad"
+ },
+ {
+  "title": "Best 32 Inch Computer Monitor (2026)",
+  "slug": "best-32-inch-computer-monitor-2026",
+  "category": "monitors",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-monitors-under-200-2026",
+  "tab": "32-inch-computer",
+  "tab_label": "32 Inch Computer"
+ },
+ {
+  "title": "Best Cooking Pot (2026)",
+  "slug": "best-cooking-pot-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Usb Charger Cable (2026)",
+  "slug": "best-usb-charger-cable-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
