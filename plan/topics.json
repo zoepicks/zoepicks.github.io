@@ -5232,5 +5232,71 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Pink Keyboard (2026)",
+  "slug": "best-pink-keyboard-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-mechanical-keyboards-2026",
+  "tab": "pink",
+  "tab_label": "Pink"
+ },
+ {
+  "title": "Best Home Treadmill (2026)",
+  "slug": "best-home-treadmill-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-treadmills-2026",
+  "tab": "home",
+  "tab_label": "Home"
+ },
+ {
+  "title": "Best M1 Pro Laptop (2026)",
+  "slug": "best-m1-pro-laptop-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "m1-pro",
+  "tab_label": "M1 Pro"
+ },
+ {
+  "title": "Best Comfort Blanket (2026)",
+  "slug": "best-comfort-blanket-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-weighted-blanket-2026",
+  "tab": "comfort",
+  "tab_label": "Comfort"
+ },
+ {
+  "title": "Best Security Camera Robot (2026)",
+  "slug": "best-security-camera-robot-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Double-Sided Adhesive Tape (2026)",
+  "slug": "best-double-sided-adhesive-tape-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
