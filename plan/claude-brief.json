@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-08T21:59:43.018740+00:00",
+ "generated_at": "2026-11-09T10:24:51.069766+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -8,12 +8,22 @@
   "score_change_24h": 0,
   "pages": 298,
   "issue_counts": {
-   "high": 1,
+   "high": 2,
    "med": 0,
-   "low": 42
+   "low": 50
   },
-  "avg_guide_words": 951,
+  "avg_guide_words": 948,
   "todo": [
+   {
+    "sev": "high",
+    "code": "http_error",
+    "count": 1,
+    "fix": "Jin pages pe HTTP error hai unhe fix ya sitemap se hatao.",
+    "example": [
+     "/g/best-white-noise-machine-2026/"
+    ],
+    "detail": "HTTP 503"
+   },
    {
     "sev": "high",
     "code": "contact_email_placeholder",
@@ -51,44 +61,46 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 6,
+    "count": 14,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-razor-blades-2026/",
-     "/g/best-kobo-case-2026/",
-     "/g/best-makeup-brush-set-2026/"
+     "/g/best-oscillating-heater-2026/",
+     "/g/best-mini-fridge-2026/",
+     "/g/best-makeup-vanity-bag-2026/"
     ],
-    "detail": "load 3.8s"
+    "detail": "load 3.19s"
    }
   ],
-  "new_issue_types_since_last_brief": [],
+  "new_issue_types_since_last_brief": [
+   "http_error"
+  ],
   "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
    "guides_live": 292,
    "guides_enough_20plus": true,
-   "thin_guides": 0,
+   "thin_guides": 1,
    "own_domain": false,
    "no_broken_links": true
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-08T15:55:59.605415+00:00",
+    "t": "2026-11-09T04:03:41.362127+00:00",
     "indexnow": {
-     "submitted": 4,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-08T18:57:52.059510+00:00",
+    "t": "2026-11-09T07:05:27.669795+00:00",
     "indexnow": {
-     "submitted": 9,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-08T21:59:35.261138+00:00",
+    "t": "2026-11-09T10:07:15.302034+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -103,12 +115,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-11-02",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-11-03",
     "visitors": 0,
@@ -144,54 +150,75 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-09",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 128,
-   "warn": 6,
+   "info": 71,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 884,
-   "warn": 46,
-   "error": 1
+   "info": 803,
+   "warn": 42,
+   "error": 0
   },
   "modules_with_errors_7d": [
    {
-    "module": "Missing topics queue",
-    "errors": 1,
-    "warnings": 2
-   },
-   {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 44
+    "warnings": 40
    }
   ],
   "collector": {
    "today": {
-    "total": 8,
-    "ok": 8,
-    "failed": 0,
+    "total": 1,
+    "ok": 0,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 318,
+      "at": "2026-11-09T08:42:24Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42587894971"
+     }
+    ]
    },
    "last7d": {
-    "total": 77,
-    "ok": 75,
-    "failed": 0,
-    "cancelled": 2,
+    "total": 64,
+    "ok": 62,
+    "failed": 2,
+    "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 318,
+      "at": "2026-11-09T08:42:24Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42587894971"
+     },
+     {
+      "run": 317,
+      "at": "2026-11-09T04:30:05Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42562167748"
+     }
+    ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 26,
-    "ok": 26,
+    "total": 32,
+    "ok": 32,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -235,32 +262,32 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
     "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -283,8 +310,8 @@
    "covered": 16
   },
   "missing_new": {
-   "today": 19,
-   "d7": 97,
+   "today": 0,
+   "d7": 86,
    "d30": 200
   },
   "open_topics": [
@@ -413,6 +440,16 @@
     "crawled": ""
    },
    {
+    "u": "/g/best-watch-band-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
+    "u": "/g/best-carpet-stain-remover-2026/",
+    "why": "URL is unknown to Google",
+    "crawled": ""
+   },
+   {
     "u": "/g/best-camera-tripod-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
@@ -429,11 +466,6 @@
    },
    {
     "u": "/g/best-baby-gate-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
-   },
-   {
-    "u": "/g/best-white-noise-machine-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
    },
@@ -506,27 +538,22 @@
     "u": "/g/best-oscillating-heater-2026/",
     "why": "URL is unknown to Google",
     "crawled": ""
-   },
-   {
-    "u": "/g/best-sd-card-2026/",
-    "why": "URL is unknown to Google",
-    "crawled": ""
    }
   ],
   "request_list": [
+   "https://zoepicks.github.io/g/best-watch-band-2026/",
+   "https://zoepicks.github.io/g/best-carpet-stain-remover-2026/",
    "https://zoepicks.github.io/g/best-camera-tripod-2026/",
    "https://zoepicks.github.io/g/best-3d-printer-kit-2026/",
    "https://zoepicks.github.io/g/best-xbox-travel-case-2026/",
    "https://zoepicks.github.io/g/best-baby-gate-2026/",
-   "https://zoepicks.github.io/g/best-white-noise-machine-2026/",
    "https://zoepicks.github.io/g/best-internal-ssd-2026/",
    "https://zoepicks.github.io/g/best-suitcase-set-2026/",
    "https://zoepicks.github.io/g/best-plush-toy-2026/",
-   "https://zoepicks.github.io/g/best-multimeter-2026/",
-   "https://zoepicks.github.io/g/best-nintendo-switch-controller-2026/"
+   "https://zoepicks.github.io/g/best-multimeter-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-08T09:34",
+   "last_submitted": "2026-11-09T10:07",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -539,11 +566,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-10-31",
-     "clicks": 0,
-     "impr": 1
-    },
     {
      "d": "2026-11-01",
      "clicks": 0,
@@ -573,6 +595,11 @@
      "d": "2026-11-06",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-07",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -590,13 +617,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-10-25",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-10-27",
     "indexed": 1,
@@ -687,6 +707,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-09",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -694,7 +721,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-08T09:34",
+    "last_submitted": "2026-11-09T10:07",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -707,11 +734,11 @@
     "valid_xml": true,
     "urls": 298,
     "other_host_urls": 0,
-    "live_pages_crawled": 298
+    "live_pages_crawled": 297
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -722,7 +749,9 @@
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
+  "HIGH SEO: Jin pages pe HTTP error hai unhe fix ya sitemap se hatao. (1 page)",
   "Bot errors (7 din): 3 - recent_problems dekho aur root cause fix karo.",
+  "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
 }
