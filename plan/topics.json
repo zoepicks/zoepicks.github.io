@@ -5358,5 +5358,71 @@
   "parent": "best-laptop-charger-2026",
   "tab": "45w-phone",
   "tab_label": "45W Phone"
+ },
+ {
+  "title": "Best Brown Prada Sneakers (2026)",
+  "slug": "best-brown-prada-sneakers-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sneakers-2026",
+  "tab": "brown-prada",
+  "tab_label": "Brown Prada"
+ },
+ {
+  "title": "Best Privacy Focused Tv (2026)",
+  "slug": "best-privacy-focused-tv-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vhs-tv-2026",
+  "tab": "privacy-focused",
+  "tab_label": "Privacy Focused"
+ },
+ {
+  "title": "Best Acne Skincare (2026)",
+  "slug": "best-acne-skincare-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-facial-skincare-2026",
+  "tab": "acne",
+  "tab_label": "Acne"
+ },
+ {
+  "title": "Best Walking Hiking Sneakers (2026)",
+  "slug": "best-walking-hiking-sneakers-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Gym Tote Bag (2026)",
+  "slug": "best-gym-tote-bag-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Nietzsche Book (2026)",
+  "slug": "best-nietzsche-book-2026",
+  "category": "office_books",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-paperback-book-2026",
+  "tab": "nietzsche",
+  "tab_label": "Nietzsche"
  }
 ]
