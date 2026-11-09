@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-09T16:02:31Z",
+ "updated": "2026-11-09T18:02:51Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2757,36 +2757,6 @@
     ]
    },
    {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B0F32TF1B1",
-      "name": "UIQUR Mens Lightweight Packable Waterproof Rain Jacket…",
-      "pct": 19,
-      "rating": 4.2,
-      "t": 1794116094,
-      "img": "https://m.media-amazon.com/images/I/81qrD2FfHyL.jpg",
-      "link": "https://www.amazon.com/dp/B0F32TF1B1?tag=zoepicks00-20",
-      "now": "16.19",
-      "was": "19.99",
-      "reviews": 353
-     },
-     {
-      "asin": "B093SX1SKG",
-      "name": "Outdoor Ventures Men's Packable Rain Jacket Waterproof…",
-      "pct": 18,
-      "rating": 4.5,
-      "t": 1794116088,
-      "img": "https://m.media-amazon.com/images/I/71EK9Uog8wL.jpg",
-      "link": "https://www.amazon.com/dp/B093SX1SKG?tag=zoepicks00-20",
-      "now": "44.27",
-      "was": "65.99",
-      "reviews": 463
-     }
-    ]
-   },
-   {
     "key": "crossbody-bag",
     "label": "Crossbody Bag",
     "items": [
@@ -2844,6 +2814,11 @@
    {
     "key": "polo-shirt",
     "label": "Polo Shirt",
+    "items": []
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
     "items": []
    },
    {
