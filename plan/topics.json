@@ -5667,5 +5667,62 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Curling Iron (2026)",
+  "slug": "best-curling-iron-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Tactical Backpack (2026)",
+  "slug": "best-tactical-backpack-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-travel-backpacks-2026",
+  "tab": "tactical",
+  "tab_label": "Tactical"
+ },
+ {
+  "title": "Best Electric Waffle Maker (2026)",
+  "slug": "best-electric-waffle-maker-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Mouse Trap (2026)",
+  "slug": "best-mouse-trap-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Vanity Table (2026)",
+  "slug": "best-vanity-table-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Hot Water Bottle (2026)",
+  "slug": "best-hot-water-bottle-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
