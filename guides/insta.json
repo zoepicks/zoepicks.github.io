@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-09T14:58:28Z",
+ "updated": "2026-11-09T20:58:54Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,15 +26,39 @@
  "items": {
   "fashion": [
    {
-    "asin": "B0GG9XRSH5",
+    "asin": "B0GG9YVT8D",
     "name": "BAGSMART Canvas Tote Bag",
-    "pct": 50,
-    "rating": 4.4,
-    "t": 1794122475,
-    "img": "https://m.media-amazon.com/images/I/71e3ov5SNML.jpg",
-    "link": "https://www.amazon.com/dp/B0GG9XRSH5?tag=zoepicks00-20",
-    "now": "14.99",
-    "was": "29.99",
+    "pct": 42,
+    "rating": 4.6,
+    "t": 1794252570,
+    "img": "https://m.media-amazon.com/images/I/81WLEPyE-kL.jpg",
+    "link": "https://www.amazon.com/dp/B0GG9YVT8D?tag=zoepicks00-20",
+    "now": "13.97",
+    "was": "23.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0D77Z2TC1",
+    "name": "WANDER+® Anti Theft Crossbody Travel Bag",
+    "pct": 39,
+    "rating": 4.5,
+    "t": 1794250356,
+    "img": "https://m.media-amazon.com/images/I/71sXejpG8SL.jpg",
+    "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
+    "now": "30.59",
+    "was": "49.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0CL8ZM6BN",
+    "name": "BAGSMART Crush Tote Bag",
+    "pct": 24,
+    "rating": 4.7,
+    "t": 1794252570,
+    "img": "https://m.media-amazon.com/images/I/71U-1ifsKNL.jpg",
+    "link": "https://www.amazon.com/dp/B0CL8ZM6BN?tag=zoepicks00-20",
+    "now": "16.63",
+    "was": "21.99",
     "cat": "fashion"
    }
   ],
@@ -50,18 +74,6 @@
     "link": "https://www.amazon.com/dp/B01EA5ZI2U?tag=zoepicks00-20",
     "now": "46.99",
     "was": "79.95",
-    "cat": "home"
-   },
-   {
-    "asin": "B0HHT6M5NL",
-    "name": "TMIGIA Immersion Blender Corded Stick Mixer 2 Speed",
-    "pct": 39,
-    "rating": 4.5,
-    "t": 1794121556,
-    "img": "https://m.media-amazon.com/images/I/61Cc7CVdwiL.jpg",
-    "link": "https://www.amazon.com/dp/B0HHT6M5NL?tag=zoepicks00-20",
-    "now": "16.98",
-    "was": "27.99",
     "cat": "home"
    },
    {
