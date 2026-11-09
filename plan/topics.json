@@ -5604,5 +5604,68 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Airpods Charger (2026)",
+  "slug": "best-airpods-charger-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptop-charger-2026",
+  "tab": "airpod",
+  "tab_label": "Airpod"
+ },
+ {
+  "title": "Best Dji Camera Kit (2026)",
+  "slug": "best-dji-camera-kit-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-3d-printer-kit-2026",
+  "tab": "dji-camera",
+  "tab_label": "Dji Camera"
+ },
+ {
+  "title": "Best Pink Laptop (2026)",
+  "slug": "best-pink-laptop-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "pink",
+  "tab_label": "Pink"
+ },
+ {
+  "title": "Best Camera Cover (2026)",
+  "slug": "best-camera-cover-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Wrist Rest (2026)",
+  "slug": "best-wrist-rest-2026",
+  "category": "office_books",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best 2Tb Ssd Heatsink (2026)",
+  "slug": "best-2tb-ssd-heatsink-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
