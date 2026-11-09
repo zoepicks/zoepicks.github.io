@@ -10977,9 +10977,39 @@
   },
   "beauty_health:eye-makeup": {
    "label": "Eye Makeup",
-   "tries": 4,
-   "items": [],
-   "scanned": "2026-11-07T15:33:11.543705+00:00",
+   "tries": 5,
+   "items": [
+    {
+     "asin": "B0BB6B581W",
+     "name": "tarte tartelette tubing mascara",
+     "pct": 73,
+     "rating": 4.4,
+     "t": 1794187154,
+     "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
+     "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
+     "now": "23.00",
+     "was": "85.19",
+     "reviews": 4632,
+     "_title": "tarte tartelette tubing mascara – Lash Extensions in a Tube, Easy-to-Remove Eye Makeup, Clinically Proven to Volumize & Cu...",
+     "_price": 23.0
+    },
+    {
+     "asin": "B08Z2ZYKVB",
+     "name": "UCANBE 60-Color Naked Neutral Nude Eyeshadow Makeup Palette…",
+     "pct": 16,
+     "rating": 4.4,
+     "t": 1794187154,
+     "img": "https://m.media-amazon.com/images/I/81LwhfwVLOL.jpg",
+     "link": "https://www.amazon.com/dp/B08Z2ZYKVB?tag=zoepicks00-20",
+     "now": "13.49",
+     "was": "15.98",
+     "deal": "Limited time deal",
+     "reviews": 1506,
+     "_title": "UCANBE 60-Color Naked Neutral Nude Eyeshadow Makeup Palette + Brushes Set, Pigmented Goth Smokey Eye Shadows for Daily & H...",
+     "_price": 13.49
+    }
+   ],
+   "scanned": "2026-11-09T01:19:14.452428+00:00",
    "via": "sweep"
   },
   "beauty_health:moisturizer": {
