@@ -12194,38 +12194,24 @@
   },
   "accessories:5g-router": {
    "label": "5g Router",
-   "tries": 2,
+   "tries": 3,
    "items": [
     {
      "asin": "B0B711GG7N",
      "name": "Cudy 5G SA/NSA AX3000 4-Port Gigabit Wi-Fi 6 Router",
      "pct": 17,
      "rating": 4.3,
-     "t": 1794065263,
+     "t": 1794252607,
      "img": "https://m.media-amazon.com/images/I/61q4PrVlMBL.jpg",
      "link": "https://www.amazon.com/dp/B0B711GG7N?tag=zoepicks00-20",
      "now": "329.99",
      "was": "399.90",
-     "reviews": 528,
+     "reviews": 529,
      "_title": "Cudy 5G SA/NSA AX3000 4-Port Gigabit Wi-Fi 6 Router, Dual SIM Slots, P5 | 2x Nano SIM Slot, Rel.16 5G 3.4 Gbps DL, 2402+57...",
      "_price": 329.99
-    },
-    {
-     "asin": "B0DZ9H4W76",
-     "name": "NETGEAR Nighthawk WiFi 7 Router RS150",
-     "pct": 17,
-     "rating": 4.0,
-     "t": 1794065263,
-     "img": "https://m.media-amazon.com/images/I/411RQ3bL07L.jpg",
-     "link": "https://www.amazon.com/dp/B0DZ9H4W76?tag=zoepicks00-20",
-     "now": "165.76",
-     "was": "199.99",
-     "reviews": 194,
-     "_title": "NETGEAR Nighthawk WiFi 7 Router RS150, Up to 2,250 sq ft, 5 Gbps | Reliable Performance, Easy Set Up, 80 devices, 1× 2.5G...",
-     "_price": 165.76
     }
    ],
-   "scanned": "2026-11-07T15:27:43.422354+00:00"
+   "scanned": "2026-11-09T19:30:07.279626+00:00"
   },
   "electronics:mac-studio": {
    "label": "Mac Studio",
