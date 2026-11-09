@@ -5298,5 +5298,65 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Slim Covered Shelf (2026)",
+  "slug": "best-slim-covered-shelf-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Sony A6400 Camera (2026)",
+  "slug": "best-sony-a6400-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "sony-a6400",
+  "tab_label": "Sony A6400"
+ },
+ {
+  "title": "Best Black Dragon Plush (2026)",
+  "slug": "best-black-dragon-plush-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Storage Bench (2026)",
+  "slug": "best-storage-bench-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Camera With 50Mm Lens (2026)",
+  "slug": "best-camera-with-50mm-lens-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best 45W Phone Charger (2026)",
+  "slug": "best-45w-phone-charger-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptop-charger-2026",
+  "tab": "45w-phone",
+  "tab_label": "45W Phone"
  }
 ]
