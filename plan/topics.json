@@ -5547,5 +5547,62 @@
   "parent": "best-sneakers-2026",
   "tab": "golden-goose",
   "tab_label": "Golden Goose"
+ },
+ {
+  "title": "Best Big Comforter (2026)",
+  "slug": "best-big-comforter-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Makeup Crown (2026)",
+  "slug": "best-makeup-crown-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Halloween Costume Ideas (2026)",
+  "slug": "best-halloween-costume-ideas-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Solar Powered Power Station (2026)",
+  "slug": "best-solar-powered-power-station-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Work Backpack (2026)",
+  "slug": "best-work-backpack-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-travel-backpacks-2026",
+  "tab": "work",
+  "tab_label": "Work"
+ },
+ {
+  "title": "Best Large Water Bottle (2026)",
+  "slug": "best-large-water-bottle-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
