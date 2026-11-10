@@ -6771,5 +6771,65 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Gap Cam Mount (2026)",
+  "slug": "best-gap-cam-mount-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Unconventional Perfume (2026)",
+  "slug": "best-unconventional-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "unconventional",
+  "tab_label": "Unconventional"
+ },
+ {
+  "title": "Best Cute Pillow (2026)",
+  "slug": "best-cute-pillow-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-pillows-2026",
+  "tab": "cute",
+  "tab_label": "Cute"
+ },
+ {
+  "title": "Best Pet Pillow (2026)",
+  "slug": "best-pet-pillow-2026",
+  "category": "pets",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Sling Bag (2026)",
+  "slug": "best-sling-bag-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Entertainment Center (2026)",
+  "slug": "best-entertainment-center-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
