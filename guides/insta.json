@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-09T20:58:54Z",
+ "updated": "2026-11-10T00:59:10Z",
  "cats": [
   {
    "key": "fashion",
@@ -62,7 +62,32 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [],
+  "beauty": [
+   {
+    "asin": "B0FM8VNSK8",
+    "name": "Kosas Soulgazer Mascara",
+    "pct": 60,
+    "rating": 4.2,
+    "t": 1794268186,
+    "img": "https://m.media-amazon.com/images/I/61+1WP9iKFL.jpg",
+    "link": "https://www.amazon.com/dp/B0FM8VNSK8?tag=zoepicks00-20",
+    "now": "28.00",
+    "was": "70.00",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B004BD107O",
+    "name": "L’Oreal Paris Original Telescopic Mascara",
+    "pct": 20,
+    "rating": 4.5,
+    "t": 1794269101,
+    "img": "https://m.media-amazon.com/images/I/61t7oEEaJfL.jpg",
+    "link": "https://www.amazon.com/dp/B004BD107O?tag=zoepicks00-20",
+    "now": "11.97",
+    "was": "44.33",
+    "cat": "beauty"
+   }
+  ],
   "home": [
    {
     "asin": "B01EA5ZI2U",
@@ -110,6 +135,18 @@
     "link": "https://www.amazon.com/dp/B0F8HJGL3B?tag=zoepicks00-20",
     "now": "29.97",
     "was": "39.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0DLXGDHBX",
+    "name": "Dyson Car+Boat Handheld Vacuum",
+    "pct": 23,
+    "rating": 4.2,
+    "t": 1794267255,
+    "img": "https://m.media-amazon.com/images/I/61-e+RtPL4L.jpg",
+    "link": "https://www.amazon.com/dp/B0DLXGDHBX?tag=zoepicks00-20",
+    "now": "229.95",
+    "was": "299.99",
     "cat": "home"
    }
   ],
