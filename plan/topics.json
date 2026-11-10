@@ -6894,5 +6894,74 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best North Face Puffer Jacket (2026)",
+  "slug": "best-north-face-puffer-jacket-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-rain-jackets-2026",
+  "tab": "north-face-puffer",
+  "tab_label": "North Face Puffer"
+ },
+ {
+  "title": "Best Wedge Sneakers (2026)",
+  "slug": "best-wedge-sneakers-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sneakers-2026",
+  "tab": "wedge",
+  "tab_label": "Wedge"
+ },
+ {
+  "title": "Best Pillow Case (2026)",
+  "slug": "best-pillow-case-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Anime Pillow Case (2026)",
+  "slug": "best-anime-pillow-case-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-pillow-case-2026",
+  "tab": "anime",
+  "tab_label": "Anime"
+ },
+ {
+  "title": "Best Blue Razor (2026)",
+  "slug": "best-blue-razor-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-styling-razor-2026",
+  "tab": "blue",
+  "tab_label": "Blue"
+ },
+ {
+  "title": "Best Casual Winter Coat (2026)",
+  "slug": "best-casual-winter-coat-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-winter-coats-2026",
+  "tab": "casual",
+  "tab_label": "Casual"
  }
 ]
