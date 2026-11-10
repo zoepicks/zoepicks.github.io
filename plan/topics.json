@@ -6531,5 +6531,65 @@
   "parent": "best-smartphones-2026",
   "tab": "large-screen",
   "tab_label": "Large Screen"
+ },
+ {
+  "title": "Best Wifi Repeater (2026)",
+  "slug": "best-wifi-repeater-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Shimmery Eyeshadow (2026)",
+  "slug": "best-shimmery-eyeshadow-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Custom Pillow (2026)",
+  "slug": "best-custom-pillow-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-pillows-2026",
+  "tab": "custom",
+  "tab_label": "Custom"
+ },
+ {
+  "title": "Best Portable Solar Generator (2026)",
+  "slug": "best-portable-solar-generator-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Open Ear Earbuds (2026)",
+  "slug": "best-open-ear-earbuds-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-wireless-earbuds-2026",
+  "tab": "open-ear",
+  "tab_label": "Open Ear"
+ },
+ {
+  "title": "Best Sports Bra (2026)",
+  "slug": "best-sports-bra-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
