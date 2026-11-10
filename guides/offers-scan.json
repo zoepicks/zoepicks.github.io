@@ -10192,9 +10192,25 @@
   },
   "fashion:polo-shirt": {
    "label": "Polo Shirt",
-   "tries": 9,
-   "items": [],
-   "scanned": "2026-11-08T16:41:56.546892+00:00"
+   "tries": 10,
+   "items": [
+    {
+     "asin": "B0G6GDGV79",
+     "name": "adidas Men's Ultimate365 Jacquard Polo Shirt",
+     "pct": 37,
+     "rating": 4.4,
+     "t": 1794283995,
+     "img": "https://m.media-amazon.com/images/I/81rljMNNdyL.jpg",
+     "link": "https://www.amazon.com/dp/B0G6GDGV79?tag=zoepicks00-20",
+     "now": "33.70",
+     "was": "53.24",
+     "deal": "Limited time deal",
+     "reviews": 35,
+     "_title": "adidas Men's Ultimate365 Jacquard Polo Shirt",
+     "_price": 33.7
+    }
+   ],
+   "scanned": "2026-11-10T04:13:15.038956+00:00"
   },
   "fashion:running-shoes": {
    "label": "Running Shoes",
