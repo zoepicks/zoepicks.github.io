@@ -6333,5 +6333,68 @@
   "parent": "best-street-photography-camera-2026",
   "tab": "live-streaming",
   "tab_label": "Live Streaming"
+ },
+ {
+  "title": "Best Double Umbrella Stroller (2026)",
+  "slug": "best-double-umbrella-stroller-2026",
+  "category": "other",
+  "high_ticket": true,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Foundation Makeup (2026)",
+  "slug": "best-foundation-makeup-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-eye-makeup-2026",
+  "tab": "foundation",
+  "tab_label": "Foundation"
+ },
+ {
+  "title": "Best Scented Candle (2026)",
+  "slug": "best-scented-candle-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Clothes Dryer (2026)",
+  "slug": "best-clothes-dryer-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Ring Camera (2026)",
+  "slug": "best-ring-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "ring",
+  "tab_label": "Ring"
+ },
+ {
+  "title": "Best Prebuilt Gaming Pc (2026)",
+  "slug": "best-prebuilt-gaming-pc-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-ps5-or-gaming-pc-2026",
+  "tab": "prebuilt",
+  "tab_label": "Prebuilt"
  }
 ]
