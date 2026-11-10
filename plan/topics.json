@@ -6714,5 +6714,62 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Brown Hoodie (2026)",
+  "slug": "best-brown-hoodie-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-hoodies-2026",
+  "tab": "brown",
+  "tab_label": "Brown"
+ },
+ {
+  "title": "Best Gas Powered Leaf Blower (2026)",
+  "slug": "best-gas-powered-leaf-blower-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Nerf Toy (2026)",
+  "slug": "best-nerf-toy-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Car Heating Pad (2026)",
+  "slug": "best-car-heating-pad-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Personal Emergency Robot (2026)",
+  "slug": "best-personal-emergency-robot-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Laptop Bag (2026)",
+  "slug": "best-laptop-bag-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
