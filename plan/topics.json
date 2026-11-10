@@ -6144,5 +6144,68 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Polaroid Camera (2026)",
+  "slug": "best-polaroid-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "polaroid",
+  "tab_label": "Polaroid"
+ },
+ {
+  "title": "Best Touchscreen Macbook (2026)",
+  "slug": "best-touchscreen-macbook-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-macbooks-2026",
+  "tab": "touchscreen",
+  "tab_label": "Touchscreen"
+ },
+ {
+  "title": "Best Cricut Cutting Machine (2026)",
+  "slug": "best-cricut-cutting-machine-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Apartment Essentials (2026)",
+  "slug": "best-apartment-essentials-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Bluetooth Turntable (2026)",
+  "slug": "best-bluetooth-turntable-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Designer Cologne (2026)",
+  "slug": "best-designer-cologne-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-mens-colognes-2026",
+  "tab": "designer",
+  "tab_label": "Designer"
  }
 ]
