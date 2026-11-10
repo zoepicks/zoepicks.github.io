@@ -7143,5 +7143,74 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Sound Bar (2026)",
+  "slug": "best-sound-bar-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Pink Laptop Case (2026)",
+  "slug": "best-pink-laptop-case-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-macbook-case-2026",
+  "tab": "pink-laptop",
+  "tab_label": "Pink Laptop"
+ },
+ {
+  "title": "Best Handheld Gaming Console (2026)",
+  "slug": "best-handheld-gaming-console-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-game-console-2026",
+  "tab": "handheld-gaming",
+  "tab_label": "Handheld Gaming"
+ },
+ {
+  "title": "Best Day Planner (2026)",
+  "slug": "best-day-planner-2026",
+  "category": "office_books",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-planners-2026",
+  "tab": "day",
+  "tab_label": "Day"
+ },
+ {
+  "title": "Best Knee Length Winter Coat (2026)",
+  "slug": "best-knee-length-winter-coat-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-winter-coats-2026",
+  "tab": "knee-length",
+  "tab_label": "Knee Length"
+ },
+ {
+  "title": "Best Designer Sneakers (2026)",
+  "slug": "best-designer-sneakers-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sneakers-2026",
+  "tab": "designer",
+  "tab_label": "Designer"
  }
 ]
