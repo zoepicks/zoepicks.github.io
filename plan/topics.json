@@ -6831,5 +6831,68 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Face Moisturizer (2026)",
+  "slug": "best-face-moisturizer-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-moisturizer-2026",
+  "tab": "face",
+  "tab_label": "Face"
+ },
+ {
+  "title": "Best Fireplace Tv Stand (2026)",
+  "slug": "best-fireplace-tv-stand-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Pocket Camera (2026)",
+  "slug": "best-pocket-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "pocket",
+  "tab_label": "Pocket"
+ },
+ {
+  "title": "Best Dog Water Bottle (2026)",
+  "slug": "best-dog-water-bottle-2026",
+  "category": "pets",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Black Hoodie (2026)",
+  "slug": "best-black-hoodie-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-hoodies-2026",
+  "tab": "black",
+  "tab_label": "Black"
+ },
+ {
+  "title": "Best Electric Scooter (2026)",
+  "slug": "best-electric-scooter-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
