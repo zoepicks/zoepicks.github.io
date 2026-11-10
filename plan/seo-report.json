@@ -1,84 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-11-10T10:39:35.398417+00:00",
+ "generated_at": "2026-11-10T23:05:57.406878+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-11-09T13:27:09.163772+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 51
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex15"
-   ],
-   "avg_words": 952,
-   "why": "schedule",
-   "indexnow": 2
-  },
-  {
-   "t": "2026-11-09T16:28:58.702257+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 40
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex4"
-   ],
-   "avg_words": 952,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-09T19:30:47.517540+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 48
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex12"
-   ],
-   "avg_words": 952,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-09T22:32:30.957288+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 42
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex6"
-   ],
-   "avg_words": 952,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-10T01:34:41.802354+00:00",
    "score": 94,
@@ -154,6 +78,82 @@
    "avg_words": 953,
    "why": "schedule",
    "indexnow": 8
+  },
+  {
+   "t": "2026-11-10T14:00:36.110716+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 41
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex5"
+   ],
+   "avg_words": 953,
+   "why": "schedule",
+   "indexnow": 3
+  },
+  {
+   "t": "2026-11-10T17:02:32.857304+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 67
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "slow_pagex31",
+    "desc_lengthx19",
+    "title_lengthx17"
+   ],
+   "avg_words": 953,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-10T20:04:17.707208+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 40
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex4"
+   ],
+   "avg_words": 953,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-10T23:05:57.406878+00:00",
+   "score": 94,
+   "pages": 298,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 43
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex7"
+   ],
+   "avg_words": 953,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
@@ -194,12 +194,12 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 9,
+   "count": 7,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-razor-blades-2026/",
-    "/g/best-self-cleaning-litter-boxes-2026/",
-    "/g/best-toys-for-3-year-olds-2026/"
+    "/g/best-chocolate-protein-powder-2026/",
+    "/g/best-imac-2026/",
+    "/g/best-crockpot-2026/"
    ],
    "detail": "load 3.1s"
   }
@@ -216,21 +216,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 45
+  "low": 43
  },
  "avg_guide_words": 953,
  "slowest": [
   {
-   "url": "/g/best-2-in-1-laptops-2026/",
-   "secs": 4.3
-  },
-  {
-   "url": "/g/best-laptops-for-programmers-2026/",
-   "secs": 4.29
-  },
-  {
-   "url": "/g/best-macbook-air-alternatives-2026/",
+   "url": "/g/best-crockpot-2026/",
    "secs": 3.59
+  },
+  {
+   "url": "/g/best-walking-pads-2026/",
+   "secs": 3.4
+  },
+  {
+   "url": "/g/best-laptop-charger-2026/",
+   "secs": 3.39
   }
  ],
  "broken_links": [],
@@ -403,7 +403,7 @@
    "t": 48,
    "d": 87,
    "w": 746,
-   "i": 0,
+   "i": 1,
    "h": "abdfdfd40d"
   },
   {
@@ -438,9 +438,9 @@
    "s": 200,
    "t": 34,
    "d": 89,
-   "w": 946,
+   "w": 821,
    "i": 0,
-   "h": "ba75963772"
+   "h": "f7fd255f6f"
   },
   {
    "u": "/g/best-mac-mini-vs-imac-2026/",
@@ -456,7 +456,7 @@
    "s": 200,
    "t": 34,
    "d": 116,
-   "w": 916,
+   "w": 918,
    "i": 0,
    "h": "8a45028efa"
   },
@@ -619,7 +619,7 @@
    "t": 36,
    "d": 90,
    "w": 745,
-   "i": 1,
+   "i": 0,
    "h": "64be687473"
   },
   {
@@ -654,7 +654,7 @@
    "s": 200,
    "t": 38,
    "d": 51,
-   "w": 632,
+   "w": 636,
    "i": 1,
    "h": "9e0dddf8b2"
   },
@@ -681,7 +681,7 @@
    "s": 200,
    "t": 40,
    "d": 112,
-   "w": 951,
+   "w": 954,
    "i": 0,
    "h": "8097c263b6"
   },
@@ -789,7 +789,7 @@
    "s": 200,
    "t": 41,
    "d": 89,
-   "w": 758,
+   "w": 762,
    "i": 0,
    "h": "c932ffa142"
   },
@@ -1141,7 +1141,7 @@
    "t": 28,
    "d": 89,
    "w": 843,
-   "i": 0,
+   "i": 1,
    "h": "6a30ec3cd3"
   },
   {
@@ -1329,7 +1329,7 @@
    "s": 200,
    "t": 57,
    "d": 109,
-   "w": 866,
+   "w": 868,
    "i": 0,
    "h": "274775bd28"
   },
@@ -1384,7 +1384,7 @@
    "t": 69,
    "d": 148,
    "w": 936,
-   "i": 2,
+   "i": 1,
    "h": "98abac05bd"
   },
   {
@@ -1393,7 +1393,7 @@
    "t": 43,
    "d": 86,
    "w": 1121,
-   "i": 1,
+   "i": 0,
    "h": "d6e503fa35"
   },
   {
@@ -1446,7 +1446,7 @@
    "s": 200,
    "t": 48,
    "d": 157,
-   "w": 947,
+   "w": 949,
    "i": 0,
    "h": "6ec1f07564"
   },
@@ -1500,9 +1500,9 @@
    "s": 200,
    "t": 44,
    "d": 82,
-   "w": 782,
+   "w": 946,
    "i": 0,
-   "h": "7ed17544b4"
+   "h": "ca2b950fcf"
   },
   {
    "u": "/g/best-black-water-bottle-2026/",
@@ -1519,7 +1519,7 @@
    "t": 32,
    "d": 150,
    "w": 981,
-   "i": 0,
+   "i": 1,
    "h": "5dab6d0ead"
   },
   {
@@ -1698,7 +1698,7 @@
    "s": 200,
    "t": 69,
    "d": 150,
-   "w": 569,
+   "w": 571,
    "i": 1,
    "h": "bb50ce972f"
   },
@@ -1843,7 +1843,7 @@
    "t": 38,
    "d": 153,
    "w": 1653,
-   "i": 0,
+   "i": 1,
    "h": "47e87274b2"
   },
   {
@@ -1879,7 +1879,7 @@
    "t": 52,
    "d": 155,
    "w": 868,
-   "i": 0,
+   "i": 1,
    "h": "b359c1c345"
   },
   {
@@ -2230,7 +2230,7 @@
    "t": 56,
    "d": 128,
    "w": 665,
-   "i": 0,
+   "i": 1,
    "h": "23129dc84d"
   },
   {
@@ -2328,7 +2328,7 @@
    "s": 200,
    "t": 63,
    "d": 129,
-   "w": 2163,
+   "w": 2176,
    "i": 0,
    "h": "79cdc4474a"
   },
@@ -2400,7 +2400,7 @@
    "s": 200,
    "t": 57,
    "d": 149,
-   "w": 1013,
+   "w": 1017,
    "i": 0,
    "h": "251e48a236"
   },
@@ -2518,7 +2518,7 @@
    "t": 54,
    "d": 143,
    "w": 1252,
-   "i": 1,
+   "i": 0,
    "h": "ec697c7d2f"
   },
   {
@@ -2526,9 +2526,9 @@
    "s": 200,
    "t": 61,
    "d": 138,
-   "w": 1499,
-   "i": 1,
-   "h": "a115b5f3f0"
+   "w": 1508,
+   "i": 0,
+   "h": "6da9af7216"
   },
   {
    "u": "/g/best-2-in-1-laptops-2026/",
@@ -2536,7 +2536,7 @@
    "t": 61,
    "d": 115,
    "w": 1302,
-   "i": 1,
+   "i": 0,
    "h": "5b7fb50cad"
   },
   {
@@ -2545,7 +2545,7 @@
    "t": 63,
    "d": 97,
    "w": 2231,
-   "i": 1,
+   "i": 0,
    "h": "dcc6338506"
   },
   {
@@ -2553,7 +2553,7 @@
    "s": 200,
    "t": 49,
    "d": 131,
-   "w": 1472,
+   "w": 1483,
    "i": 0,
    "h": "6c3d85f729"
   },
@@ -2563,7 +2563,7 @@
    "t": 48,
    "d": 110,
    "w": 1522,
-   "i": 1,
+   "i": 0,
    "h": "e2e18a0321"
   },
   {
@@ -2581,7 +2581,7 @@
    "t": 68,
    "d": 132,
    "w": 3177,
-   "i": 2,
+   "i": 1,
    "h": "c2f99175d5"
   },
   {
@@ -2734,7 +2734,7 @@
    "t": 48,
    "d": 154,
    "w": 727,
-   "i": 0,
+   "i": 1,
    "h": "9c6d4cd737"
   },
   {
@@ -2742,7 +2742,7 @@
    "s": 200,
    "t": 63,
    "d": 144,
-   "w": 878,
+   "w": 874,
    "i": 0,
    "h": "9d004739eb"
   },
@@ -2823,7 +2823,7 @@
    "s": 200,
    "t": 81,
    "d": 155,
-   "w": 932,
+   "w": 936,
    "i": 1,
    "h": "d622d82a27"
   },
@@ -2832,7 +2832,7 @@
    "s": 200,
    "t": 68,
    "d": 152,
-   "w": 1162,
+   "w": 1164,
    "i": 1,
    "h": "f7aba82be8"
   },
@@ -2920,34 +2920,6 @@
  ],
  "actions": [
   {
-   "t": "2026-11-09T07:05:27.669795+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-09T10:07:15.302034+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-09T13:27:09.163772+00:00",
-   "indexnow": {
-    "submitted": 2,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-09T16:28:58.702257+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
    "t": "2026-11-09T19:30:47.517540+00:00",
    "indexnow": {
     "submitted": 0,
@@ -2987,6 +2959,34 @@
    "indexnow": {
     "submitted": 8,
     "http": 200
+   }
+  },
+  {
+   "t": "2026-11-10T14:00:36.110716+00:00",
+   "indexnow": {
+    "submitted": 3,
+    "http": 200
+   }
+  },
+  {
+   "t": "2026-11-10T17:02:32.857304+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-10T20:04:17.707208+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-10T23:05:57.406878+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
    }
   }
  ]
