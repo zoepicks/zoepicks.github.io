@@ -28,9 +28,18 @@
    "best_for": "Active adults looking for a low‑sugar protein boost",
    "skip_if": "You avoid artificial sweeteners",
    "link": "https://www.amazon.com/s?k=Premier+Protein+Shake%2C+Limited+Edition%2C+Winter+Mint+Chocolate&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Nov 8, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0DDYDGCSD",
+   "image": "https://m.media-amazon.com/images/I/712htyeFQ-L.jpg",
+   "image_asin": "B0DDYDGCSD",
+   "amazon_price": "$31.99",
+   "amazon_price_asof": "Nov 9, 2026",
+   "amazon_listing": "Premier Protein LIMITED EDITION 30g Shake, Winter Mint Chocolate, 12 Pack | 160 Calories, ",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 2347,
+   "amazon_rating_asof": "Nov 9, 2026"
   },
   {
    "name": "Clean Simple Eats Chocolate Protein Powder",
@@ -52,9 +61,18 @@
    "best_for": "Consumers concerned about contaminants",
    "skip_if": "You need detailed nutrition info",
    "link": "https://www.amazon.com/s?k=Clean+Simple+Eats+Chocolate+Protein+Powder&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Nov 8, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0F25D7JRZ",
+   "image": "https://m.media-amazon.com/images/I/817p2-CaJML.jpg",
+   "image_asin": "B0F25D7JRZ",
+   "amazon_price": "$64.99",
+   "amazon_price_asof": "Nov 9, 2026",
+   "amazon_listing": "Clean Simple Eats Whey Protein Powder, Chocolate Peanut Butter, 30 Servings | 20g Grass Fe",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 242,
+   "amazon_rating_asof": "Nov 9, 2026"
   },
   {
    "name": "Equate Chocolate Protein Powder",
@@ -76,8 +94,8 @@
    "best_for": "Budget shoppers concerned about safety",
    "skip_if": "You need detailed nutrition info",
    "link": "https://www.amazon.com/s?k=Equate+Chocolate+Protein+Powder&tag=zoepicks00-20",
-   "fill_tries": 2,
-   "fill_last": "Nov 8, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 9, 2026",
    "fill_failed": false
   }
  ],
