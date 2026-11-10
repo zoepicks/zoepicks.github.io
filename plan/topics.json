@@ -6018,5 +6018,68 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Observatory Dome Motor (2026)",
+  "slug": "best-observatory-dome-motor-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Wall Mounted Shoe Rack (2026)",
+  "slug": "best-wall-mounted-shoe-rack-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-shoe-racks-2026",
+  "tab": "wall-mounted",
+  "tab_label": "Wall Mounted"
+ },
+ {
+  "title": "Best Non-Smart Tv (2026)",
+  "slug": "best-non-smart-tv-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vhs-tv-2026",
+  "tab": "non-smart",
+  "tab_label": "Non Smart"
+ },
+ {
+  "title": "Best Portable Power Station (2026)",
+  "slug": "best-portable-power-station-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Makeup Products (2026)",
+  "slug": "best-makeup-products-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-skincare-product-2026",
+  "tab": "makeup",
+  "tab_label": "Makeup"
+ },
+ {
+  "title": "Best Tv With Commercial Mute (2026)",
+  "slug": "best-tv-with-commercial-mute-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
