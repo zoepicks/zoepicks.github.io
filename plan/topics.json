@@ -6396,5 +6396,68 @@
   "parent": "best-ps5-or-gaming-pc-2026",
   "tab": "prebuilt",
   "tab_label": "Prebuilt"
+ },
+ {
+  "title": "Best Ps5 Hall Effect Controller (2026)",
+  "slug": "best-ps5-hall-effect-controller-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Hair Loss Shampoo (2026)",
+  "slug": "best-hair-loss-shampoo-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-shampoo-2026",
+  "tab": "hair-loss",
+  "tab_label": "Hair Loss"
+ },
+ {
+  "title": "Best Shower Water Filter (2026)",
+  "slug": "best-shower-water-filter-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Lipstick (2026)",
+  "slug": "best-lipstick-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Unscented Body Moisturizer (2026)",
+  "slug": "best-unscented-body-moisturizer-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-moisturizer-2026",
+  "tab": "unscented-body",
+  "tab_label": "Unscented Body"
+ },
+ {
+  "title": "Best Quiet Blender (2026)",
+  "slug": "best-quiet-blender-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-blenders-2026",
+  "tab": "quiet",
+  "tab_label": "Quiet"
  }
 ]
