@@ -6433,14 +6433,14 @@
   },
   "other:washing-machine": {
    "label": "Washing Machine",
-   "tries": 10,
+   "tries": 11,
    "items": [
     {
      "asin": "B0H7RVLHHV",
      "name": "Portable Washing Machine Full Automatic 17.7lbs Small…",
      "pct": 10,
      "rating": 4.3,
-     "t": 1794180490,
+     "t": 1794331192,
      "img": "https://m.media-amazon.com/images/I/61+WjXMkM-L.jpg",
      "link": "https://www.amazon.com/dp/B0H7RVLHHV?tag=zoepicks00-20",
      "now": "224.99",
@@ -6451,39 +6451,11 @@
      "_price": 224.99
     },
     {
-     "asin": "B01ALBMIEI",
-     "name": "Giantex Portable Mini Compact Twin Tub Washing Machine…",
-     "pct": 10,
-     "rating": 4.2,
-     "t": 1794180490,
-     "img": "https://m.media-amazon.com/images/I/61ydHx1s19L.jpg",
-     "link": "https://www.amazon.com/dp/B01ALBMIEI?tag=zoepicks00-20",
-     "now": "134.99",
-     "was": "149.99",
-     "reviews": 15352,
-     "_title": "Giantex Portable Mini Compact Twin Tub Washing Machine 20lbs Washer Spain Spinner Portable Washing Machine, Blue+ White",
-     "_price": 134.99
-    },
-    {
-     "asin": "B0D6WK5P6C",
-     "name": "Giantex Portable Washing Machine",
-     "pct": 10,
-     "rating": 4.2,
-     "t": 1794180490,
-     "img": "https://m.media-amazon.com/images/I/61Z7oP1UStL.jpg",
-     "link": "https://www.amazon.com/dp/B0D6WK5P6C?tag=zoepicks00-20",
-     "now": "134.99",
-     "was": "149.99",
-     "reviews": 15352,
-     "_title": "Giantex Portable Washing Machine, 20lbs Washer and Spinner Combo, Twin Tub 12lbs Wash & 8lbs Spin, Mini Compact Laundry Cl...",
-     "_price": 134.99
-    },
-    {
      "asin": "B07J9J8HPK",
      "name": "ZenStyle Portable Washer Compact Twin Tub 9.9 LB Mini Top…",
      "pct": 10,
      "rating": 4.2,
-     "t": 1794180490,
+     "t": 1794331192,
      "img": "https://m.media-amazon.com/images/I/71o98EFJhkL.jpg",
      "link": "https://www.amazon.com/dp/B07J9J8HPK?tag=zoepicks00-20",
      "now": "98.99",
@@ -6498,7 +6470,7 @@
      "name": "OLIXIS 1.06 Cu.Ft. Portable Washing Machine",
      "pct": 10,
      "rating": 4.0,
-     "t": 1794180490,
+     "t": 1794331192,
      "img": "https://m.media-amazon.com/images/I/61JGMFrY8XL.jpg",
      "link": "https://www.amazon.com/dp/B0HCZGHWCL?tag=zoepicks00-20",
      "now": "152.97",
@@ -6509,7 +6481,7 @@
      "_price": 152.97
     }
    ],
-   "scanned": "2026-11-08T23:28:10.329805+00:00"
+   "scanned": "2026-11-10T17:19:52.635200+00:00"
   },
   "beauty_health:electric-shavers": {
    "label": "Electric Shavers",
