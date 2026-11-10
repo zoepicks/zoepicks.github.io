@@ -119,12 +119,12 @@
    "asin": "B0GVDDZ8CZ",
    "image": "https://m.media-amazon.com/images/I/41ZQTD9yPcL.jpg",
    "image_asin": "B0GVDDZ8CZ",
-   "amazon_price": "$264.99",
-   "amazon_price_asof": "Nov 6, 2026",
-   "amazon_listing": "YOSUDA PRO Magnetic Exercise Bike Friction Bike 400-300 lbs Weight Capacity | Indoor Cycli",
-   "amazon_rating": "4.3",
-   "amazon_reviews": 5024,
-   "amazon_rating_asof": "Nov 6, 2026"
+   "amazon_price": "$199.99",
+   "amazon_price_asof": "Nov 9, 2026",
+   "amazon_listing": "YOSUDA Exercise Bike, Magnetic Friction Stationary Bike with App Training | Indoor Cycling",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 25877,
+   "amazon_rating_asof": "Nov 9, 2026"
   },
   {
    "name": "Mod Easy 3 with Sidecar",
@@ -154,8 +154,8 @@
    "tabs": [
     "road"
    ],
-   "fill_tries": 4,
-   "fill_last": "Nov 3, 2026",
+   "fill_tries": 5,
+   "fill_last": "Nov 9, 2026",
    "fill_failed": true
   },
   {
@@ -193,7 +193,7 @@
    "image": "https://m.media-amazon.com/images/I/71rXtQx1H6L.jpg",
    "image_asin": "B0GPXZD9RB",
    "amazon_price": "$43.99",
-   "amazon_price_asof": "Nov 6, 2026",
+   "amazon_price_asof": "Nov 9, 2026",
    "amazon_listing": "Bike Computer Mount for BMC Teammachine R 01 Cockpit - Garmin Edge 1xx/5xx/8xx and Accesso"
   },
   {
@@ -281,7 +281,10 @@
    "link": "https://www.amazon.com/s?k=Santa+Cruz+Hightower&tag=zoepicks00-20",
    "tabs": [
     "mountain"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 9, 2026",
+   "fill_failed": false
   },
   {
    "name": "Santa Cruz Tallboy",
@@ -306,7 +309,16 @@
    "link": "https://www.amazon.com/s?k=Santa+Cruz+Tallboy&tag=zoepicks00-20",
    "tabs": [
     "mountain"
-   ]
+   ],
+   "asin": "B00DQU7AE0",
+   "image": "https://m.media-amazon.com/images/I/41xIn+tA5KL.jpg",
+   "image_asin": "B00DQU7AE0",
+   "amazon_price": "$31.89",
+   "amazon_price_asof": "Nov 9, 2026",
+   "amazon_listing": "Pilo D173 Derailleur Hanger for Santa Cruz Blur, Tallboy, Nomad, Highball",
+   "amazon_rating": "5",
+   "amazon_reviews": 1,
+   "amazon_rating_asof": "Nov 9, 2026"
   },
   {
    "name": "Specialized Stumpjumper 15",
@@ -331,7 +343,13 @@
    "link": "https://www.amazon.com/s?k=Specialized+Stumpjumper+15&tag=zoepicks00-20",
    "tabs": [
     "mountain"
-   ]
+   ],
+   "asin": "B0HH6P355T",
+   "image": "https://m.media-amazon.com/images/I/61ywgH5TiRL.jpg",
+   "image_asin": "B0HH6P355T",
+   "amazon_price": "$43.99",
+   "amazon_price_asof": "Nov 9, 2026",
+   "amazon_listing": "Bike Pedals for Specialized Stumpjumper Gen15 2025–2026 | Aluminum Alloy Bike Pedals, 3 Be"
   }
  ],
  "tabs": [
