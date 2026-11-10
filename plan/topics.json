@@ -5790,5 +5790,65 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Electronic Components (2026)",
+  "slug": "best-electronic-components-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best 16 Inch Macbook Air (2026)",
+  "slug": "best-16-inch-macbook-air-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Cordless Vacuum Cleaner (2026)",
+  "slug": "best-cordless-vacuum-cleaner-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vacuum-cleaner-2026",
+  "tab": "cordless",
+  "tab_label": "Cordless"
+ },
+ {
+  "title": "Best Paper Cutter (2026)",
+  "slug": "best-paper-cutter-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Ps5 External Storage (2026)",
+  "slug": "best-ps5-external-storage-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Large Office Chair (2026)",
+  "slug": "best-large-office-chair-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-office-chairs-2026",
+  "tab": "large",
+  "tab_label": "Large"
  }
 ]
