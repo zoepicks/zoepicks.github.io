@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-10T10:58:29.037211+00:00",
+ "generated_at": "2026-11-10T23:06:03.748775+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 45
+   "low": 43
   },
   "avg_guide_words": 953,
   "todo": [
@@ -51,12 +51,12 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 9,
+    "count": 7,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-razor-blades-2026/",
-     "/g/best-self-cleaning-litter-boxes-2026/",
-     "/g/best-toys-for-3-year-olds-2026/"
+     "/g/best-chocolate-protein-powder-2026/",
+     "/g/best-imac-2026/",
+     "/g/best-crockpot-2026/"
     ],
     "detail": "load 3.1s"
    }
@@ -74,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-10T04:36:20.360597+00:00",
+    "t": "2026-11-10T17:02:32.857304+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-10T07:37:54.267389+00:00",
+    "t": "2026-11-10T20:04:17.707208+00:00",
     "indexnow": {
-     "submitted": 1,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-10T10:39:35.398417+00:00",
+    "t": "2026-11-10T23:05:57.406878+00:00",
     "indexnow": {
-     "submitted": 8,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 145,
-   "warn": 2,
+   "info": 223,
+   "warn": 6,
    "error": 1
   },
   "last7d": {
-   "info": 916,
-   "warn": 41,
+   "info": 994,
+   "warn": 45,
    "error": 1
   },
   "modules_with_errors_7d": [
@@ -167,16 +167,16 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 41
+    "warnings": 45
    }
   ],
   "collector": {
    "today": {
-    "total": 11,
+    "total": 19,
     "ok": 0,
-    "failed": 10,
+    "failed": 19,
     "cancelled": 0,
-    "running": 1,
+    "running": 0,
     "failed_runs": [
      {
       "run": 361,
@@ -241,11 +241,11 @@
     ]
    },
    "last7d": {
-    "total": 98,
+    "total": 106,
     "ok": 58,
-    "failed": 39,
+    "failed": 48,
     "cancelled": 0,
-    "running": 1,
+    "running": 0,
     "failed_runs": [
      {
       "run": 332,
@@ -312,18 +312,18 @@
   },
   "site_deploys": {
    "today": {
-    "total": 103,
-    "ok": 103,
+    "total": 127,
+    "ok": 125,
     "failed": 0,
-    "cancelled": 0,
+    "cancelled": 2,
     "running": 0,
     "failed_runs": []
    },
    "last7d": {
     "total": 300,
-    "ok": 298,
-    "failed": 2,
-    "cancelled": 0,
+    "ok": 297,
+    "failed": 1,
+    "cancelled": 2,
     "running": 0,
     "failed_runs": [
      {
@@ -331,17 +331,31 @@
       "at": "2026-11-06T12:21:36Z",
       "event": "push",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42217059299"
-     },
-     {
-      "run": 2673,
-      "at": "2026-11-06T09:40:54Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42196800420"
      }
     ]
    }
   },
   "recent_problems": [
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
    {
     "module": "ZOESEO",
     "level": "w",
@@ -361,26 +375,6 @@
     "module": "ZOESEO",
     "level": "w",
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
@@ -393,7 +387,7 @@
   },
   "missing_new": {
    "today": 0,
-   "d7": 77,
+   "d7": 70,
    "d30": 200
   },
   "open_topics": []
@@ -744,8 +738,8 @@
     "live_pages_crawled": 298
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
