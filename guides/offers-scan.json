@@ -842,66 +842,38 @@
   },
   "laptops:macbooks": {
    "label": "MacBooks",
-   "tries": 20,
+   "tries": 21,
    "items": [
     {
-     "asin": "B0GPWK7THQ",
-     "name": "TobenONE 16-in-2 MacBook Docking Station Dual 4K@60Hz",
-     "pct": 28,
-     "rating": 4.2,
-     "t": 1794154572,
-     "img": "https://m.media-amazon.com/images/I/61XNbulzVHL.jpg",
-     "link": "https://www.amazon.com/dp/B0GPWK7THQ?tag=zoepicks00-20",
-     "now": "93.59",
-     "was": "129.99",
-     "reviews": 152,
-     "_title": "TobenONE 16-in-2 MacBook Docking Station Dual 4K@60Hz, 7 USB, 2 HDMI | 100W PD Fast Charging, Gigabit Ethernet,Plug-and-Pl...",
-     "_price": 93.59
-    },
-    {
-     "asin": "B0GR1FSY63",
+     "asin": "B0GR1JTFP8",
      "name": "Apple 2026 MacBook Air 13-inch Laptop",
-     "pct": 16,
+     "pct": 15,
      "rating": 4.7,
-     "t": 1794154572,
+     "t": 1794330714,
      "img": "https://m.media-amazon.com/images/I/71pkfQGcMKL.jpg",
-     "link": "https://www.amazon.com/dp/B0GR1FSY63?tag=zoepicks00-20",
-     "now": "1,349.00",
-     "was": "1,599.00",
-     "reviews": 269,
-     "_title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 1T...",
-     "_price": 1349.0
+     "link": "https://www.amazon.com/dp/B0GR1JTFP8?tag=zoepicks00-20",
+     "now": "1,099.99",
+     "was": "1,299.00",
+     "reviews": 1369,
+     "_title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 51...",
+     "_price": 1099.99
     },
     {
      "asin": "B0GR114BV7",
      "name": "Apple 2026 MacBook Air 15-inch Laptop",
      "pct": 13,
      "rating": 4.7,
-     "t": 1794154572,
+     "t": 1794330714,
      "img": "https://m.media-amazon.com/images/I/71N5EbSaQqL.jpg",
      "link": "https://www.amazon.com/dp/B0GR114BV7?tag=zoepicks00-20",
-     "now": "1,299.00",
+     "now": "1,299.99",
      "was": "1,499.00",
-     "reviews": 793,
+     "reviews": 797,
      "_title": "Apple 2026 MacBook Air 15-inch Laptop with M5 chip: Built for AI, 15.3-inch Liquid Retina Display, 16GB Unified Memory, 51...",
-     "_price": 1299.0
-    },
-    {
-     "asin": "B0FWD623D1",
-     "name": "Apple 2025 MacBook Pro Laptop",
-     "pct": 10,
-     "rating": 4.7,
-     "t": 1794154572,
-     "img": "https://m.media-amazon.com/images/I/6112T6g2P-L.jpg",
-     "link": "https://www.amazon.com/dp/B0FWD623D1?tag=zoepicks00-20",
-     "now": "1,799.00",
-     "was": "1,999.00",
-     "reviews": 351,
-     "_title": "Apple 2025 MacBook Pro Laptop with Apple M5 chip with 10‑core CPU and 10‑core GPU: Built for AI, 14.2-inch Liquid Retina X...",
-     "_price": 1799.0
+     "_price": 1299.99
     }
    ],
-   "scanned": "2026-11-08T16:16:12.211272+00:00",
+   "scanned": "2026-11-10T17:11:54.362560+00:00",
    "via": "sweep"
   },
   "mobiles:iphones": {
