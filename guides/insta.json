@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-10T13:00:07Z",
+ "updated": "2026-11-10T19:00:35Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,27 +26,39 @@
  "items": {
   "fashion": [
    {
-    "asin": "B0GG9YVT8D",
-    "name": "BAGSMART Canvas Tote Bag",
-    "pct": 42,
-    "rating": 4.6,
-    "t": 1794252570,
-    "img": "https://m.media-amazon.com/images/I/81WLEPyE-kL.jpg",
-    "link": "https://www.amazon.com/dp/B0GG9YVT8D?tag=zoepicks00-20",
-    "now": "13.97",
-    "was": "23.99",
-    "cat": "fashion"
-   },
-   {
     "asin": "B0D77Z2TC1",
     "name": "WANDER+® Anti Theft Crossbody Travel Bag",
     "pct": 39,
     "rating": 4.5,
-    "t": 1794250356,
+    "t": 1794328515,
     "img": "https://m.media-amazon.com/images/I/71sXejpG8SL.jpg",
     "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
     "now": "30.59",
     "was": "49.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0FPCT515S",
+    "name": "LOVEVOOK Purses for Women,Leather Tote Purse and…",
+    "pct": 27,
+    "rating": 4.6,
+    "t": 1794328515,
+    "img": "https://m.media-amazon.com/images/I/71wEdyBpebL.jpg",
+    "link": "https://www.amazon.com/dp/B0FPCT515S?tag=zoepicks00-20",
+    "now": "28.48",
+    "was": "38.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0CL8ZM6BN",
+    "name": "BAGSMART Crush Tote Bag",
+    "pct": 24,
+    "rating": 4.7,
+    "t": 1794308663,
+    "img": "https://m.media-amazon.com/images/I/71U-1ifsKNL.jpg",
+    "link": "https://www.amazon.com/dp/B0CL8ZM6BN?tag=zoepicks00-20",
+    "now": "16.63",
+    "was": "21.99",
     "cat": "fashion"
    }
   ],
