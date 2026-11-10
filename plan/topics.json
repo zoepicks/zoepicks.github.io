@@ -6963,5 +6963,65 @@
   "parent": "best-winter-coats-2026",
   "tab": "casual",
   "tab_label": "Casual"
+ },
+ {
+  "title": "Best Skeleton Beanie (2026)",
+  "slug": "best-skeleton-beanie-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Hot Wheels Car Set (2026)",
+  "slug": "best-hot-wheels-car-set-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tool-sets-2026",
+  "tab": "hot-wheel-car",
+  "tab_label": "Hot Wheel Car"
+ },
+ {
+  "title": "Best Godzilla Blu Ray Disc (2026)",
+  "slug": "best-godzilla-blu-ray-disc-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Heated Massage Pad (2026)",
+  "slug": "best-heated-massage-pad-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-heating-pad-2026",
+  "tab": "heated-massage",
+  "tab_label": "Heated Massage"
+ },
+ {
+  "title": "Best Small Lamp (2026)",
+  "slug": "best-small-lamp-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Bedroom Furniture Set (2026)",
+  "slug": "best-bedroom-furniture-set-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
