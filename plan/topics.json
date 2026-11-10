@@ -5961,5 +5961,62 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Tea Kettle (2026)",
+  "slug": "best-tea-kettle-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Automatic Chicken Coop Door (2026)",
+  "slug": "best-automatic-chicken-coop-door-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Infant Car Seat Stroller (2026)",
+  "slug": "best-infant-car-seat-stroller-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Wrist Brace (2026)",
+  "slug": "best-wrist-brace-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best 2 Seater Sofa (2026)",
+  "slug": "best-2-seater-sofa-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sofas-under-1000-2026",
+  "tab": "2-seater",
+  "tab_label": "2 Seater"
+ },
+ {
+  "title": "Best Colorful Bath Towels (2026)",
+  "slug": "best-colorful-bath-towels-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
