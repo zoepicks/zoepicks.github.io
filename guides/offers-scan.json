@@ -13230,53 +13230,54 @@
   },
   "other:chocolate-protein-powder": {
    "label": "Chocolate Protein Powder",
-   "tries": 2,
+   "tries": 3,
    "items": [
+    {
+     "asin": "B0842YHRJ9",
+     "name": "Chike Chocolate Peanut Butter High Protein Iced Coffee",
+     "pct": 25,
+     "rating": 4.5,
+     "t": 1794283892,
+     "img": "https://m.media-amazon.com/images/I/61J4WTvLm2L.jpg",
+     "link": "https://www.amazon.com/dp/B0842YHRJ9?tag=zoepicks00-20",
+     "now": "29.99",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 359,
+     "_title": "Chike Chocolate Peanut Butter High Protein Iced Coffee, Powder Whey | 14 Servings, 2 espresso shots, 150mg caffeine, 20G W...",
+     "_price": 29.99
+    },
+    {
+     "asin": "B0DJ1SQ38T",
+     "name": "Chike White Chocolate Peppermint Protein Iced Coffee",
+     "pct": 25,
+     "rating": 4.4,
+     "t": 1794283892,
+     "img": "https://m.media-amazon.com/images/I/71Qe5f3-e1L.jpg",
+     "link": "https://www.amazon.com/dp/B0DJ1SQ38T?tag=zoepicks00-20",
+     "now": "29.99",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 51,
+     "_title": "Chike White Chocolate Peppermint Protein Iced Coffee, Protein Coffee Mix | White Chocolate Peppermint Protein Powder, 2 Sh...",
+     "_price": 29.99
+    },
     {
      "asin": "B00ZFONQZW",
      "name": "Optimum Nutrition Gold Standard Whey Protein",
      "pct": 23,
      "rating": 4.7,
-     "t": 1794153047,
+     "t": 1794283892,
      "img": "https://m.media-amazon.com/images/I/81NX2zFV4-L.jpg",
      "link": "https://www.amazon.com/dp/B00ZFONQZW?tag=zoepicks00-20",
      "now": "154.24",
      "was": "199.99",
-     "reviews": 30356,
+     "reviews": 30329,
      "_title": "Optimum Nutrition Gold Standard Whey Protein, Extreme Milk Chocolate, 10 LB | 24g of 100% Whey Protein Powder Per Serving,...",
      "_price": 154.24
-    },
-    {
-     "asin": "B06XTD74VD",
-     "name": "Ora Organic Vegan Protein Powder",
-     "pct": 17,
-     "rating": 4.1,
-     "t": 1794153047,
-     "img": "https://m.media-amazon.com/images/I/51a-ccYJ4tL.jpg",
-     "link": "https://www.amazon.com/dp/B06XTD74VD?tag=zoepicks00-20",
-     "now": "49.98",
-     "was": "59.99",
-     "deal": "Limited time deal",
-     "reviews": 2301,
-     "_title": "Ora Organic Vegan Protein Powder for Women & Men - Chocolate, 20 Servings | Third-party tested | Stevia-free | Gluten-free...",
-     "_price": 49.98
-    },
-    {
-     "asin": "B0H6R93LSL",
-     "name": "Isopure Low Carb Whey Isolate Protein Powder",
-     "pct": 6,
-     "rating": 4.5,
-     "t": 1794153047,
-     "img": "https://m.media-amazon.com/images/I/61pkLkW70RL.jpg",
-     "link": "https://www.amazon.com/dp/B0H6R93LSL?tag=zoepicks00-20",
-     "now": "32.80",
-     "was": "34.99",
-     "reviews": 3829,
-     "_title": "Isopure Low Carb Whey Isolate Protein Powder, Dutch Chocolate 1 LB | 25g Protein Per Serving, 100% Whey Protein Isolate, G...",
-     "_price": 32.8
     }
    ],
-   "scanned": "2026-11-08T15:50:47.635699+00:00"
+   "scanned": "2026-11-10T04:11:32.029111+00:00"
   },
   "gaming:nintendo-switch-controller": {
    "label": "Nintendo Switch Controller",
