@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-11T11:30:28.577752+00:00",
+ "generated_at": "2026-11-11T23:37:58.504475+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 298,
+  "pages": 297,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 38
+   "low": 46
   },
-  "avg_guide_words": 950,
+  "avg_guide_words": 948,
   "todo": [
    {
     "sev": "high",
@@ -51,13 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 2,
+    "count": 10,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-monitors-for-mac-2026/",
-     "/g/best-pc-controllers-2026/"
+     "/g/best-baby-carrier-2026/",
+     "/g/best-gaming-monitor-32-inch-2026/",
+     "/g/best-vacuum-cleaner-2026/"
     ],
-    "detail": "load 3.11s"
+    "detail": "load 3.19s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -65,7 +66,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 292,
+   "guides_live": 291,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -73,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-11T05:09:43.754107+00:00",
+    "t": "2026-11-11T17:34:25.305801+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-11T08:11:22.559503+00:00",
+    "t": "2026-11-11T20:36:07.203694+00:00",
     "indexnow": {
-     "submitted": 11,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-11T11:13:03.962300+00:00",
+    "t": "2026-11-11T23:37:52.751764+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -148,13 +149,13 @@
  },
  "bots": {
   "today": {
-   "info": 65,
-   "warn": 3,
+   "info": 109,
+   "warn": 7,
    "error": 0
   },
   "last7d": {
-   "info": 1017,
-   "warn": 44,
+   "info": 1061,
+   "warn": 48,
    "error": 1
   },
   "modules_with_errors_7d": [
@@ -166,17 +167,23 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 44
+    "warnings": 48
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
+    "total": 4,
     "ok": 0,
-    "failed": 2,
+    "failed": 3,
     "cancelled": 0,
-    "running": 0,
+    "running": 1,
     "failed_runs": [
+     {
+      "run": 374,
+      "at": "2026-11-11T14:30:55Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43039197290"
+     },
      {
       "run": 373,
       "at": "2026-11-11T08:30:19Z",
@@ -192,11 +199,11 @@
     ]
    },
    "last7d": {
-    "total": 102,
+    "total": 104,
     "ok": 51,
-    "failed": 51,
+    "failed": 52,
     "cancelled": 0,
-    "running": 0,
+    "running": 1,
     "failed_runs": [
      {
       "run": 332,
@@ -263,8 +270,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 7,
-    "ok": 7,
+    "total": 10,
+    "ok": 10,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -305,32 +312,32 @@
    {
     "module": "ZOESEO",
     "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+   },
+   {
+    "module": "ZOESEO",
+    "level": "w",
     "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    }
   ]
  },
  "content": {
-  "live_guides": 292,
+  "live_guides": 291,
   "missing_topics_by_status": {
    "queued": 100,
    "covered": 23,
@@ -338,7 +345,7 @@
   },
   "missing_new": {
    "today": 0,
-   "d7": 70,
+   "d7": 60,
    "d30": 200
   },
   "open_topics": []
@@ -678,13 +685,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 298,
+    "urls": 297,
     "other_host_urls": 0,
-    "live_pages_crawled": 298
+    "live_pages_crawled": 297
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
