@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-11T02:08:10.541816+00:00",
+ "updated": "2026-11-11T05:09:47.207646+00:00",
  "boots_total": 55,
  "recent_boots_utc": [
   "2026-10-29T04:56:40",
@@ -14,23 +14,17 @@
   "2026-11-06T20:51:38",
   "2026-11-07T07:55:02"
  ],
- "last_run_ts": 1794362888.8995833,
+ "last_run_ts": 1794373786.1035953,
  "last_report_ts": 1794351992.3336318,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
-  "high": 2,
+  "high": 1,
   "med": 0,
-  "low": 38
+  "low": 40
  },
  "recent_runs": [
-  {
-   "t": "2026-11-09T22:32:30",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-10T01:34:41",
    "score": 94,
@@ -84,19 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-11T05:09:43",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-10T17:02:34",
-   "what": "SEO check: score 94 (+0), 298 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-10T20:04:19",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
   {
    "t": "2026-11-10T20:04:19",
    "what": "SEO check: score 94 (+0), 298 pages, 1 high issue",
@@ -125,6 +115,16 @@
   {
    "t": "2026-11-11T02:08:08",
    "what": "SEO check: score 94 (+0), 298 pages, 2 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-11T05:09:46",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-11T05:09:46",
+   "what": "SEO check: score 94 (+0), 298 pages, 1 high issue",
    "ok": true
   }
  ]
