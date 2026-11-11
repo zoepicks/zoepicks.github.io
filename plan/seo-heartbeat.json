@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-11T20:36:13.719221+00:00",
+ "updated": "2026-11-11T23:38:28.565327+00:00",
  "boots_total": 55,
  "recent_boots_utc": [
   "2026-10-29T04:56:40",
@@ -14,8 +14,8 @@
   "2026-11-06T20:51:38",
   "2026-11-07T07:55:02"
  ],
- "last_run_ts": 1794429371.9891052,
- "last_report_ts": 1794396657.314038,
+ "last_run_ts": 1794440275.3230584,
+ "last_report_ts": 1794440307.9322107,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
@@ -25,12 +25,6 @@
   "low": 46
  },
  "recent_runs": [
-  {
-   "t": "2026-11-10T17:02:32",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-10T20:04:17",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-11T23:37:52",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-11T11:30:57",
-   "what": "Report + Claude brief repo me likhe",
-   "ok": true
-  },
-  {
-   "t": "2026-11-11T14:32:41",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-11T14:32:41",
-   "what": "SEO check: score 94 (+0), 297 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-11-11T14:32:41",
    "what": "IndexNow: 1 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-11-11T20:36:11",
    "what": "SEO check: score 94 (+0), 297 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-11T23:37:55",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-11T23:37:55",
+   "what": "SEO check: score 94 (+0), 297 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-11T23:38:27",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
