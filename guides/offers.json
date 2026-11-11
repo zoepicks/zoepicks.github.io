@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-11T20:13:33Z",
+ "updated": "2026-11-11T22:13:45Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -309,14 +309,16 @@
   ],
   "home_kitchen": [
    {
-    "asin": "B0FZBVNTT6",
-    "name": "COOKEERS Titanium Cutting Board Double Sided",
-    "pct": 50,
-    "rating": 4.5,
-    "t": 1794376982,
-    "img": "https://m.media-amazon.com/images/I/81EFPnETFSL.jpg",
-    "link": "https://www.amazon.com/dp/B0FZBVNTT6?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B08L5MNLCP",
+    "name": "Barenthal Cutting Boards",
+    "pct": 58,
+    "rating": 4.3,
+    "t": 1794434442,
+    "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
+    "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
+    "now": "19.31",
+    "was": "45.99",
+    "reviews": 469,
     "tier": "budget"
    },
    {
@@ -724,18 +726,6 @@
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
-     },
-     {
-      "asin": "B0GJ4WYQ5B",
-      "name": "AOC GK330 75% Wireless Mechanical Gaming Keyboard",
-      "pct": 26,
-      "rating": 4.6,
-      "t": 1794301105,
-      "img": "https://m.media-amazon.com/images/I/71hsglnMKhL.jpg",
-      "link": "https://www.amazon.com/dp/B0GJ4WYQ5B?tag=zoepicks00-20",
-      "now": "36.97",
-      "was": "49.99",
-      "reviews": 95
      }
     ]
    },
@@ -1260,32 +1250,18 @@
     "label": "Electric Shavers",
     "items": [
      {
-      "asin": "B0FFHB92CT",
-      "name": "Beanify Electric Razors",
-      "pct": 10,
-      "rating": 4.2,
+      "asin": "B0FFHJKDLQ",
+      "name": "Beanify 2-in-1 Electric Shaver & Bikini Trimmer",
+      "pct": 40,
+      "rating": 5.0,
       "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/71LA58Ry-jL.jpg",
-      "link": "https://www.amazon.com/dp/B0FFHB92CT?tag=zoepicks00-20",
-      "now": "15.29",
-      "was": "16.99",
+      "img": "https://m.media-amazon.com/images/I/61RAgn0t3TL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFHJKDLQ?tag=zoepicks00-20",
+      "now": "23.98",
+      "was": "39.99",
       "deal": "Limited time deal",
-      "reviews": 157,
+      "reviews": 30,
       "tier": "budget"
-     },
-     {
-      "asin": "B0H3KW42B7",
-      "name": "NKTMXY Electric Foil Shavers",
-      "pct": 43,
-      "rating": 4.4,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/71gQ6snhOaL.jpg",
-      "link": "https://www.amazon.com/dp/B0H3KW42B7?tag=zoepicks00-20",
-      "now": "35.14",
-      "was": "61.99",
-      "deal": "Limited time deal",
-      "reviews": 247,
-      "tier": "mid"
      },
      {
       "asin": "B0HG113QY3",
@@ -1299,6 +1275,86 @@
       "was": "99.99",
       "deal": "Limited time deal",
       "reviews": 51,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HG1N3RY4",
+      "name": "LONKEEN 5D Electric Razor",
+      "pct": 64,
+      "rating": 4.7,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/71SkCyloj2L.jpg",
+      "link": "https://www.amazon.com/dp/B0HG1N3RY4?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "111.08",
+      "deal": "Limited time deal",
+      "reviews": 111,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "razor-blades",
+    "label": "Razor Blades",
+    "items": [
+     {
+      "asin": "B0H3KW42B7",
+      "name": "NKTMXY Electric Foil Shavers",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/71gQ6snhOaL.jpg",
+      "link": "https://www.amazon.com/dp/B0H3KW42B7?tag=zoepicks00-20",
+      "now": "35.14",
+      "was": "61.99",
+      "deal": "Limited time deal",
+      "reviews": 247
+     }
+    ]
+   },
+   {
+    "key": "sunscreen",
+    "label": "Sunscreen",
+    "items": [
+     {
+      "asin": "B0CVF8R2DJ",
+      "name": "NYX PROFESSIONAL MAKEUP Blurscreen SPF 30 Primer",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1794421130,
+      "img": "https://m.media-amazon.com/images/I/71l60ZaiQzL.jpg",
+      "link": "https://www.amazon.com/dp/B0CVF8R2DJ?tag=zoepicks00-20",
+      "now": "11.90",
+      "was": "14.00",
+      "deal": "Limited time deal",
+      "reviews": 520,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08CJ3MVYP",
+      "name": "Glytone Hydra Lipid UV Mineral Sunscreen",
+      "pct": 42,
+      "rating": 4.6,
+      "t": 1794434441,
+      "img": "https://m.media-amazon.com/images/I/51KvenHnOqL.jpg",
+      "link": "https://www.amazon.com/dp/B08CJ3MVYP?tag=zoepicks00-20",
+      "now": "24.50",
+      "was": "42.00",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F38RYX9F",
+      "name": "Sun Bum Original SPF 30 Sheer Body Sunscreen Spray",
+      "pct": 18,
+      "rating": 4.8,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/816+4HZBiKL.jpg",
+      "link": "https://www.amazon.com/dp/B0F38RYX9F?tag=zoepicks00-20",
+      "now": "24.60",
+      "was": "30.06",
+      "deal": "Limited time deal",
+      "reviews": 11448,
       "tier": "premium"
      }
     ]
@@ -1312,12 +1368,13 @@
       "name": "Tripeptide-Infused Biotin Hair Growth Shampoo and…",
       "pct": 40,
       "rating": 4.4,
-      "t": 1794396726,
+      "t": 1794420274,
       "img": "https://m.media-amazon.com/images/I/81Z65iFtTlL.jpg",
       "link": "https://www.amazon.com/dp/B0GXLCKD59?tag=zoepicks00-20",
       "now": "19.98",
       "was": "33.39",
-      "reviews": 853,
+      "deal": "Limited time deal",
+      "reviews": 870,
       "tier": "budget"
      },
      {
@@ -1416,53 +1473,6 @@
     ]
    },
    {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B07S1BNNYD",
-      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
-      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
-      "now": "14.98",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 27524,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09GX2C6N2",
-      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
-      "pct": 27,
-      "rating": 4.6,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
-      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
-      "now": "15.99",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 6396,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H9ZQJC9X",
-      "name": "HAPPY NUTS Whole Body Deodorant Men Use Daily As Aluminum…",
-      "pct": 38,
-      "rating": 4.5,
-      "t": 1794396727,
-      "img": "https://m.media-amazon.com/images/I/819pRYLwXqL.jpg",
-      "link": "https://www.amazon.com/dp/B0H9ZQJC9X?tag=zoepicks00-20",
-      "now": "24.98",
-      "was": "39.99",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "hair-styling-brush",
     "label": "Hair Styling Brush",
     "items": [
@@ -1505,6 +1515,38 @@
       "was": "69.00",
       "reviews": 23941,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "deodorants",
+    "label": "Deodorants",
+    "items": [
+     {
+      "asin": "B09GX2C6N2",
+      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
+      "pct": 27,
+      "rating": 4.6,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
+      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 6396
+     },
+     {
+      "asin": "B07S1BNNYD",
+      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
+      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
+      "now": "14.98",
+      "was": "19.99",
+      "deal": "Limited time deal",
+      "reviews": 27524
      }
     ]
    },
@@ -1599,38 +1641,6 @@
     ]
    },
    {
-    "key": "sunscreen",
-    "label": "Sunscreen",
-    "items": [
-     {
-      "asin": "B0F38RYX9F",
-      "name": "Sun Bum Original SPF 30 Sheer Body Sunscreen Spray",
-      "pct": 18,
-      "rating": 4.8,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/816+4HZBiKL.jpg",
-      "link": "https://www.amazon.com/dp/B0F38RYX9F?tag=zoepicks00-20",
-      "now": "24.60",
-      "was": "30.06",
-      "deal": "Limited time deal",
-      "reviews": 11448
-     },
-     {
-      "asin": "B0CVF8R2DJ",
-      "name": "NYX PROFESSIONAL MAKEUP Blurscreen SPF 30 Primer",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1794421130,
-      "img": "https://m.media-amazon.com/images/I/71l60ZaiQzL.jpg",
-      "link": "https://www.amazon.com/dp/B0CVF8R2DJ?tag=zoepicks00-20",
-      "now": "11.90",
-      "was": "14.00",
-      "deal": "Limited time deal",
-      "reviews": 520
-     }
-    ]
-   },
-   {
     "key": "face-wash",
     "label": "Face Wash",
     "items": [
@@ -1721,11 +1731,6 @@
    {
     "key": "protein-powder",
     "label": "Protein Powder",
-    "items": []
-   },
-   {
-    "key": "razor-blades",
-    "label": "Razor Blades",
     "items": []
    },
    {
@@ -2216,14 +2221,16 @@
       "tier": "mid"
      },
      {
-      "asin": "B0753DMS4L",
+      "asin": "B0753FLT1D",
       "name": "GEEK LIGHTING Hoodies",
       "pct": 53,
       "rating": 4.4,
-      "t": 1794379008,
+      "t": 1794434442,
       "img": "https://m.media-amazon.com/images/I/61Fyew+X5jL.jpg",
-      "link": "https://www.amazon.com/dp/B0753DMS4L?tag=zoepicks00-20",
-      "reviews": 0,
+      "link": "https://www.amazon.com/dp/B0753FLT1D?tag=zoepicks00-20",
+      "now": "32.98",
+      "was": "69.99",
+      "reviews": 4204,
       "tier": "premium"
      }
     ]
@@ -2233,13 +2240,15 @@
     "label": "Running Shoes",
     "items": [
      {
-      "asin": "B0GSDDNV4Z",
+      "asin": "B0GSDNQ6BS",
       "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
       "pct": 55,
-      "rating": 4.5,
-      "t": 1794378585,
-      "img": "https://m.media-amazon.com/images/I/61xv4t4UsiL.jpg",
-      "link": "https://www.amazon.com/dp/B0GSDDNV4Z?tag=zoepicks00-20",
+      "rating": 4.6,
+      "t": 1794434442,
+      "img": "https://m.media-amazon.com/images/I/61zC+W9Bi5L.jpg",
+      "link": "https://www.amazon.com/dp/B0GSDNQ6BS?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "65.95",
       "reviews": 0,
       "tier": "budget"
      },
@@ -2288,13 +2297,13 @@
       "tier": "budget"
      },
      {
-      "asin": "B0GS9PFXLT",
+      "asin": "B0GSDDNV4Z",
       "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
       "pct": 55,
       "rating": 4.5,
-      "t": 1794378587,
-      "img": "https://m.media-amazon.com/images/I/61t2682OQVL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS9PFXLT?tag=zoepicks00-20",
+      "t": 1794378585,
+      "img": "https://m.media-amazon.com/images/I/61xv4t4UsiL.jpg",
+      "link": "https://www.amazon.com/dp/B0GSDDNV4Z?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
      },
@@ -3373,12 +3382,11 @@
       "name": "FLEXISPOT 71\"x32\" Electric Standing Desk",
       "pct": 18,
       "rating": 4.5,
-      "t": 1794420892,
+      "t": 1794432943,
       "img": "https://m.media-amazon.com/images/I/711B4jsfPYL.jpg",
       "link": "https://www.amazon.com/dp/B0FZV72WQS?tag=zoepicks00-20",
       "now": "279.97",
       "was": "339.99",
-      "deal": "Limited time deal",
       "reviews": 1764,
       "tier": "premium"
      }
@@ -4006,6 +4014,49 @@
     ]
    },
    {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B0FZBVNTT6",
+      "name": "COOKEERS Titanium Cutting Board Double Sided",
+      "pct": 50,
+      "rating": 4.5,
+      "t": 1794376982,
+      "img": "https://m.media-amazon.com/images/I/81EFPnETFSL.jpg",
+      "link": "https://www.amazon.com/dp/B0FZBVNTT6?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08L5MNLCP",
+      "name": "Barenthal Cutting Boards",
+      "pct": 58,
+      "rating": 4.3,
+      "t": 1794434442,
+      "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
+      "now": "19.31",
+      "was": "45.99",
+      "reviews": 469,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H3FJD6MX",
+      "name": "UFJEG 2PCS Large Stainless Steel Cutting Boards",
+      "pct": 24,
+      "rating": 4.5,
+      "t": 1794353849,
+      "img": "https://m.media-amazon.com/images/I/71hzt3zgL5L.jpg",
+      "link": "https://www.amazon.com/dp/B0H3FJD6MX?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "49.99",
+      "reviews": 149,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "humidifiers",
     "label": "Humidifiers",
     "items": [
@@ -4094,49 +4145,6 @@
       "was": "159.99",
       "deal": "Limited time deal",
       "reviews": 160,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "cutting-board",
-    "label": "Cutting Board",
-    "items": [
-     {
-      "asin": "B0FZBVNTT6",
-      "name": "COOKEERS Titanium Cutting Board Double Sided",
-      "pct": 50,
-      "rating": 4.5,
-      "t": 1794376982,
-      "img": "https://m.media-amazon.com/images/I/81EFPnETFSL.jpg",
-      "link": "https://www.amazon.com/dp/B0FZBVNTT6?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FPX7N5RT",
-      "name": "Washour Titanium Cutting Board",
-      "pct": 17,
-      "rating": 4.4,
-      "t": 1794353856,
-      "img": "https://m.media-amazon.com/images/I/71vu8eoZw+L.jpg",
-      "link": "https://www.amazon.com/dp/B0FPX7N5RT?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "23.98",
-      "reviews": 1152,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H3FJD6MX",
-      "name": "UFJEG 2PCS Large Stainless Steel Cutting Boards",
-      "pct": 24,
-      "rating": 4.5,
-      "t": 1794353849,
-      "img": "https://m.media-amazon.com/images/I/71hzt3zgL5L.jpg",
-      "link": "https://www.amazon.com/dp/B0H3FJD6MX?tag=zoepicks00-20",
-      "now": "37.98",
-      "was": "49.99",
-      "reviews": 149,
       "tier": "premium"
      }
     ]
@@ -5593,24 +5601,6 @@
     ]
    },
    {
-    "key": "white-noise-machine",
-    "label": "White Noise Machine",
-    "items": [
-     {
-      "asin": "B0BP1PLQQQ",
-      "name": "White Noise Machine Sound Machine",
-      "pct": 19,
-      "rating": 4.4,
-      "t": 1794299341,
-      "img": "https://m.media-amazon.com/images/I/71CH6KlYGtL.jpg",
-      "link": "https://www.amazon.com/dp/B0BP1PLQQQ?tag=zoepicks00-20",
-      "now": "18.55",
-      "was": "22.97",
-      "reviews": 2942
-     }
-    ]
-   },
-   {
     "key": "washing-machine",
     "label": "Washing Machine",
     "items": [
@@ -5721,6 +5711,11 @@
     "items": []
    },
    {
+    "key": "white-noise-machine",
+    "label": "White Noise Machine",
+    "items": []
+   },
+   {
     "key": "18v-battery",
     "label": "18v Battery",
     "items": []
@@ -5817,6 +5812,17 @@
     "label": "Dog Leash",
     "items": [
      {
+      "asin": "B07NSB92RY",
+      "name": "Carhartt Shock Absorbing Dog Leash Carhartt Brown",
+      "pct": 38,
+      "rating": 4.4,
+      "t": 1794377176,
+      "img": "https://m.media-amazon.com/images/I/81YcN9D0kmL.jpg",
+      "link": "https://www.amazon.com/dp/B07NSB92RY?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
       "asin": "B09FLKMMK6",
       "name": "Fida Heavy Duty Dog Leash",
       "pct": 19,
@@ -5826,32 +5832,7 @@
       "link": "https://www.amazon.com/dp/B09FLKMMK6?tag=zoepicks00-20",
       "now": "17.78",
       "was": "21.99",
-      "reviews": 6578,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08D3RCWQ7",
-      "name": "Fida Retractable Dog Leash",
-      "pct": 23,
-      "rating": 4.5,
-      "t": 1794300259,
-      "img": "https://m.media-amazon.com/images/I/61VVz19JwdL.jpg",
-      "link": "https://www.amazon.com/dp/B08D3RCWQ7?tag=zoepicks00-20",
-      "now": "22.98",
-      "was": "29.99",
-      "reviews": 7690,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07NSB92RY",
-      "name": "Carhartt Shock Absorbing Dog Leash Carhartt Brown",
-      "pct": 38,
-      "rating": 4.4,
-      "t": 1794377176,
-      "img": "https://m.media-amazon.com/images/I/81YcN9D0kmL.jpg",
-      "link": "https://www.amazon.com/dp/B07NSB92RY?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 6578
      }
     ]
    },
