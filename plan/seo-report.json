@@ -1,84 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-11-11T11:13:03.962300+00:00",
+ "generated_at": "2026-11-11T23:37:52.751764+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-11-10T14:00:36.110716+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 41
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex5"
-   ],
-   "avg_words": 953,
-   "why": "schedule",
-   "indexnow": 3
-  },
-  {
-   "t": "2026-11-10T17:02:32.857304+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 67
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "slow_pagex31",
-    "desc_lengthx19",
-    "title_lengthx17"
-   ],
-   "avg_words": 953,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-10T20:04:17.707208+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 40
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex4"
-   ],
-   "avg_words": 953,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-10T23:05:57.406878+00:00",
-   "score": 94,
-   "pages": 298,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 43
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx17",
-    "slow_pagex7"
-   ],
-   "avg_words": 953,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-11T02:08:06.900786+00:00",
    "score": 94,
@@ -155,6 +79,82 @@
    "avg_words": 950,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-11T14:32:38.505624+00:00",
+   "score": 94,
+   "pages": 297,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 46
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex10"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 1
+  },
+  {
+   "t": "2026-11-11T17:34:25.305801+00:00",
+   "score": 94,
+   "pages": 297,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 43
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex7"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-11T20:36:07.203694+00:00",
+   "score": 94,
+   "pages": 297,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 46
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex10"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-11T23:37:52.751764+00:00",
+   "score": 94,
+   "pages": 297,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 46
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx17",
+    "slow_pagex10"
+   ],
+   "avg_words": 948,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
@@ -195,19 +195,20 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 2,
+   "count": 10,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-monitors-for-mac-2026/",
-    "/g/best-pc-controllers-2026/"
+    "/g/best-baby-carrier-2026/",
+    "/g/best-gaming-monitor-32-inch-2026/",
+    "/g/best-vacuum-cleaner-2026/"
    ],
-   "detail": "load 3.11s"
+   "detail": "load 3.19s"
   }
  ],
  "adsense_checklist": {
   "policy_pages_live": true,
   "contact_email_set": false,
-  "guides_live": 292,
+  "guides_live": 291,
   "guides_enough_20plus": true,
   "thin_guides": 0,
   "own_domain": false,
@@ -216,21 +217,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 38
+  "low": 46
  },
- "avg_guide_words": 950,
+ "avg_guide_words": 948,
  "slowest": [
   {
-   "url": "/g/best-monitors-for-mac-2026/",
-   "secs": 3.11
+   "url": "/g/best-gaming-monitor-32-inch-2026/",
+   "secs": 4.6
   },
   {
-   "url": "/g/best-pc-controllers-2026/",
-   "secs": 3.01
+   "url": "/g/best-drawing-tablets-2026/",
+   "secs": 3.89
   },
   {
-   "url": "/g/best-phone-case-2026/",
-   "secs": 2.99
+   "url": "/g/best-kindle-case-2026/",
+   "secs": 3.7
   }
  ],
  "broken_links": [],
@@ -853,7 +854,7 @@
    "t": 36,
    "d": 110,
    "w": 870,
-   "i": 0,
+   "i": 1,
    "h": "12ba31212e"
   },
   {
@@ -889,7 +890,7 @@
    "t": 46,
    "d": 82,
    "w": 768,
-   "i": 0,
+   "i": 1,
    "h": "92d10932da"
   },
   {
@@ -907,7 +908,7 @@
    "t": 38,
    "d": 151,
    "w": 1365,
-   "i": 0,
+   "i": 1,
    "h": "c10729171e"
   },
   {
@@ -961,7 +962,7 @@
    "t": 35,
    "d": 157,
    "w": 802,
-   "i": 0,
+   "i": 1,
    "h": "7b45c1678a"
   },
   {
@@ -1213,7 +1214,7 @@
    "t": 53,
    "d": 59,
    "w": 988,
-   "i": 2,
+   "i": 1,
    "h": "6530a9a4c8"
   },
   {
@@ -1339,7 +1340,7 @@
    "t": 52,
    "d": 74,
    "w": 800,
-   "i": 0,
+   "i": 1,
    "h": "f94dc55bbd"
   },
   {
@@ -1384,7 +1385,7 @@
    "t": 69,
    "d": 148,
    "w": 936,
-   "i": 1,
+   "i": 2,
    "h": "98abac05bd"
   },
   {
@@ -1618,7 +1619,7 @@
    "t": 48,
    "d": 154,
    "w": 660,
-   "i": 1,
+   "i": 0,
    "h": "36048c43d3"
   },
   {
@@ -2211,9 +2212,9 @@
    "s": 200,
    "t": 44,
    "d": 151,
-   "w": 1813,
+   "w": 1353,
    "i": 0,
-   "h": "100308635b"
+   "h": "dbf1baae64"
   },
   {
    "u": "/g/best-phone-gimbal-2026/",
@@ -2410,7 +2411,7 @@
    "t": 50,
    "d": 152,
    "w": 1482,
-   "i": 0,
+   "i": 1,
    "h": "f848ae0d2d"
   },
   {
@@ -2599,7 +2600,7 @@
    "t": 52,
    "d": 100,
    "w": 1579,
-   "i": 0,
+   "i": 1,
    "h": "23242bc63e"
   },
   {
@@ -2617,7 +2618,7 @@
    "t": 45,
    "d": 151,
    "w": 837,
-   "i": 0,
+   "i": 1,
    "h": "cd1395ea3f"
   },
   {
@@ -2626,7 +2627,7 @@
    "t": 50,
    "d": 151,
    "w": 790,
-   "i": 0,
+   "i": 1,
    "h": "d007356ed0"
   },
   {
@@ -2783,15 +2784,6 @@
    "h": "20ae7e72ac"
   },
   {
-   "u": "/g/best-hoodies-2026/oversized/",
-   "s": 200,
-   "t": 55,
-   "d": 153,
-   "w": 1179,
-   "i": 0,
-   "h": "fe7615a474"
-  },
-  {
    "u": "/g/best-wireless-earbuds-2026/under-100/",
    "s": 200,
    "t": 65,
@@ -2920,34 +2912,6 @@
  ],
  "actions": [
   {
-   "t": "2026-11-10T07:37:54.267389+00:00",
-   "indexnow": {
-    "submitted": 1,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-10T10:39:35.398417+00:00",
-   "indexnow": {
-    "submitted": 8,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-10T14:00:36.110716+00:00",
-   "indexnow": {
-    "submitted": 3,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-10T17:02:32.857304+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
    "t": "2026-11-10T20:04:17.707208+00:00",
    "indexnow": {
     "submitted": 0,
@@ -2984,6 +2948,34 @@
   },
   {
    "t": "2026-11-11T11:13:03.962300+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-11T14:32:38.505624+00:00",
+   "indexnow": {
+    "submitted": 1,
+    "http": 200
+   }
+  },
+  {
+   "t": "2026-11-11T17:34:25.305801+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-11T20:36:07.203694+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-11T23:37:52.751764+00:00",
    "indexnow": {
     "submitted": 0,
     "note": "koi page change nahi"
