@@ -12575,24 +12575,53 @@
   },
   "accessories:5g-router": {
    "label": "5g Router",
-   "tries": 3,
+   "tries": 4,
    "items": [
     {
      "asin": "B0B711GG7N",
      "name": "Cudy 5G SA/NSA AX3000 4-Port Gigabit Wi-Fi 6 Router",
      "pct": 17,
      "rating": 4.3,
-     "t": 1794252607,
+     "t": 1794420983,
      "img": "https://m.media-amazon.com/images/I/61q4PrVlMBL.jpg",
      "link": "https://www.amazon.com/dp/B0B711GG7N?tag=zoepicks00-20",
-     "now": "329.99",
+     "now": "329.98",
      "was": "399.90",
-     "reviews": 529,
+     "reviews": 528,
      "_title": "Cudy 5G SA/NSA AX3000 4-Port Gigabit Wi-Fi 6 Router, Dual SIM Slots, P5 | 2x Nano SIM Slot, Rel.16 5G 3.4 Gbps DL, 2402+57...",
-     "_price": 329.99
+     "_price": 329.98
+    },
+    {
+     "asin": "B0DW27FNG3",
+     "name": "NETGEAR Nighthawk WiFi 7 Router RS90",
+     "pct": 10,
+     "rating": 4.2,
+     "t": 1794420983,
+     "img": "https://m.media-amazon.com/images/I/41VlTprOFdL.jpg",
+     "link": "https://www.amazon.com/dp/B0DW27FNG3?tag=zoepicks00-20",
+     "now": "89.88",
+     "was": "99.88",
+     "deal": "Limited time deal",
+     "reviews": 1649,
+     "_title": "NETGEAR Nighthawk WiFi 7 Router RS90, Up to 2,000 sq ft, 3.6 Gbps | Reliable Performance, Easy Set Up, 50 devices, 1× 2.5G...",
+     "_price": 89.88
+    },
+    {
+     "asin": "B0G4XP7JMR",
+     "name": "NETGEAR Nighthawk M7 5G Mobile Hotspot",
+     "pct": 10,
+     "rating": 3.5,
+     "t": 1794420983,
+     "img": "https://m.media-amazon.com/images/I/617XcGu5qDL.jpg",
+     "link": "https://www.amazon.com/dp/B0G4XP7JMR?tag=zoepicks00-20",
+     "now": "449.99",
+     "was": "499.99",
+     "reviews": 99,
+     "_title": "NETGEAR Nighthawk M7 5G Mobile Hotspot with eSIM, WiFi 7, Up to 3.6 Gbps | Unlocked Portable Travel Router, 140 countries,...",
+     "_price": 449.99
     }
    ],
-   "scanned": "2026-11-09T19:30:07.279626+00:00"
+   "scanned": "2026-11-11T18:16:23.003511+00:00"
   },
   "electronics:mac-studio": {
    "label": "Mac Studio",
