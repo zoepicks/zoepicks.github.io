@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-11T12:12:35Z",
+ "updated": "2026-11-11T14:12:53Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -715,17 +715,15 @@
     "label": "Mechanical Keyboards",
     "items": [
      {
-      "asin": "B0D8775YNN",
-      "name": "SbocKeeb 75% Retro Mechanical Keyboard Gasket",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1794274612,
-      "img": "https://m.media-amazon.com/images/I/714SXAoMJQL.jpg",
-      "link": "https://www.amazon.com/dp/B0D8775YNN?tag=zoepicks00-20",
-      "now": "24.49",
-      "was": "34.99",
-      "reviews": 217,
-      "tier": "budget"
+      "asin": "B0FNRJNHW8",
+      "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
+      "pct": 50,
+      "rating": 4.7,
+      "t": 1794379492,
+      "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
+      "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
      },
      {
       "asin": "B0GJ4WYQ5B",
@@ -737,19 +735,7 @@
       "link": "https://www.amazon.com/dp/B0GJ4WYQ5B?tag=zoepicks00-20",
       "now": "36.97",
       "was": "49.99",
-      "reviews": 95,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FNRJNHW8",
-      "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
-      "pct": 50,
-      "rating": 4.7,
-      "t": 1794379492,
-      "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
-      "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 95
      }
     ]
    },
@@ -2900,24 +2886,6 @@
     ]
    },
    {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B0FJWGJR75",
-      "name": "SaphiRose Women's Waterproof Rain Jacket",
-      "pct": 17,
-      "rating": 4.5,
-      "t": 1794274601,
-      "img": "https://m.media-amazon.com/images/I/71tlKBTgRrL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJWGJR75?tag=zoepicks00-20",
-      "now": "49.97",
-      "was": "59.99",
-      "reviews": 287
-     }
-    ]
-   },
-   {
     "key": "sandals",
     "label": "Sandals",
     "items": [
@@ -2938,6 +2906,11 @@
    {
     "key": "medium-luggage",
     "label": "Medium Luggage",
+    "items": []
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
     "items": []
    },
    {
@@ -5185,6 +5158,20 @@
     "label": "USB C Monitors",
     "items": [
      {
+      "asin": "B0G1XCS834",
+      "name": "Computer Speakers for Desktop PC Monitor",
+      "pct": 33,
+      "rating": 4.1,
+      "t": 1794329509,
+      "img": "https://m.media-amazon.com/images/I/51Gl+wvRA3L.jpg",
+      "link": "https://www.amazon.com/dp/B0G1XCS834?tag=zoepicks00-20",
+      "now": "20.22",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 61,
+      "tier": "budget"
+     },
+     {
       "asin": "B0G252J82Y",
       "name": "SANSUI 15.6 Inch Portable Monitor",
       "pct": 33,
@@ -5196,20 +5183,6 @@
       "was": "74.99",
       "deal": "Limited time deal",
       "reviews": 5488,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HDCF9D8J",
-      "name": "Laptop Screen Extender 14.2\"",
-      "pct": 31,
-      "rating": 4.8,
-      "t": 1794329509,
-      "img": "https://m.media-amazon.com/images/I/81c+6qGms4L.jpg",
-      "link": "https://www.amazon.com/dp/B0HDCF9D8J?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "129.99",
-      "deal": "Limited time deal",
-      "reviews": 26,
       "tier": "mid"
      },
      {
@@ -5258,16 +5231,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0CWL14K13",
-      "name": "SANSUI Gaming Monitor 27\" 1440p 260hz/240hz WQHD 2K",
-      "pct": 31,
+      "asin": "B0FNQDNGXY",
+      "name": "Samsung 27” Odyssey OLED G5",
+      "pct": 36,
       "rating": 4.4,
       "t": 1794329509,
-      "img": "https://m.media-amazon.com/images/I/71H04VRAlYL.jpg",
-      "link": "https://www.amazon.com/dp/B0CWL14K13?tag=zoepicks00-20",
-      "now": "179.98",
-      "was": "259.99",
-      "reviews": 5062,
+      "img": "https://m.media-amazon.com/images/I/818+AiwCClL.jpg",
+      "link": "https://www.amazon.com/dp/B0FNQDNGXY?tag=zoepicks00-20",
+      "now": "319.99",
+      "was": "499.99",
+      "deal": "Limited time deal",
+      "reviews": 518,
       "tier": "premium"
      }
     ]
@@ -5304,17 +5278,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0H25VMK6H",
-      "name": "15.6\" Laptop Screen Extender",
+      "asin": "B0HGGCLYJT",
+      "name": "Wixzet 14\" Laptop Screen Extender",
       "pct": 30,
-      "rating": 4.3,
+      "rating": 4.7,
       "t": 1794329509,
-      "img": "https://m.media-amazon.com/images/I/71fwP0WYddL.jpg",
-      "link": "https://www.amazon.com/dp/B0H25VMK6H?tag=zoepicks00-20",
-      "now": "189.99",
-      "was": "269.99",
+      "img": "https://m.media-amazon.com/images/I/71g0uisqWXL.jpg",
+      "link": "https://www.amazon.com/dp/B0HGGCLYJT?tag=zoepicks00-20",
+      "now": "209.99",
+      "was": "299.99",
       "deal": "Limited time deal",
-      "reviews": 172,
+      "reviews": 88,
       "tier": "premium"
      }
     ]
@@ -6349,17 +6323,17 @@
     "label": "Soundbars",
     "items": [
      {
-      "asin": "B0HL8R37TY",
-      "name": "Monster Sound Bar for Smart TV",
-      "pct": 10,
-      "rating": 4.3,
-      "t": 1794329670,
-      "img": "https://m.media-amazon.com/images/I/71rtr0xFNVL.jpg",
-      "link": "https://www.amazon.com/dp/B0HL8R37TY?tag=zoepicks00-20",
-      "now": "59.99",
-      "was": "66.69",
+      "asin": "B0G1XCS834",
+      "name": "Computer Speakers for Desktop PC Monitor",
+      "pct": 33,
+      "rating": 4.1,
+      "t": 1794329509,
+      "img": "https://m.media-amazon.com/images/I/51Gl+wvRA3L.jpg",
+      "link": "https://www.amazon.com/dp/B0G1XCS834?tag=zoepicks00-20",
+      "now": "20.22",
+      "was": "29.99",
       "deal": "Limited time deal",
-      "reviews": 2107,
+      "reviews": 61,
       "tier": "budget"
      },
      {
