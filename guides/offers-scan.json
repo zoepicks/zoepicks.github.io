@@ -12800,54 +12800,53 @@
   },
   "other:chocolate-protein-powder": {
    "label": "Chocolate Protein Powder",
-   "tries": 3,
+   "tries": 4,
    "items": [
     {
+     "asin": "B0F79VG5RB",
+     "name": "Premier Protein Powder Plus Fiber",
+     "pct": 31,
+     "rating": 4.6,
+     "t": 1794504962,
+     "img": "https://m.media-amazon.com/images/I/61Vdb1C02TL.jpg",
+     "link": "https://www.amazon.com/dp/B0F79VG5RB?tag=zoepicks00-20",
+     "now": "29.99",
+     "was": "43.27",
+     "reviews": 1019,
+     "_title": "Premier Protein Powder Plus Fiber, Chocolate, 25g Protein, 7g Fiber to Support Gut Health, No Added Sugar (17 Servings)",
+     "_price": 29.99
+    },
+    {
      "asin": "B0842YHRJ9",
-     "name": "Chike Chocolate Peanut Butter High Protein Iced Coffee",
+     "name": "Chike Chocolate Peanut Butter High Protein Iced Coffee…",
      "pct": 25,
      "rating": 4.5,
-     "t": 1794283892,
+     "t": 1794504962,
      "img": "https://m.media-amazon.com/images/I/61J4WTvLm2L.jpg",
      "link": "https://www.amazon.com/dp/B0842YHRJ9?tag=zoepicks00-20",
      "now": "29.99",
      "was": "39.99",
      "deal": "Limited time deal",
      "reviews": 359,
-     "_title": "Chike Chocolate Peanut Butter High Protein Iced Coffee, Powder Whey | 14 Servings, 2 espresso shots, 150mg caffeine, 20G W...",
+     "_title": "Chike Chocolate Peanut Butter High Protein Iced Coffee Powder, 20g Whey | Peanut Butter Protein Powder, Protein Coffee Mix...",
      "_price": 29.99
     },
     {
-     "asin": "B0DJ1SQ38T",
-     "name": "Chike White Chocolate Peppermint Protein Iced Coffee",
-     "pct": 25,
-     "rating": 4.4,
-     "t": 1794283892,
-     "img": "https://m.media-amazon.com/images/I/71Qe5f3-e1L.jpg",
-     "link": "https://www.amazon.com/dp/B0DJ1SQ38T?tag=zoepicks00-20",
-     "now": "29.99",
-     "was": "39.99",
-     "deal": "Limited time deal",
-     "reviews": 51,
-     "_title": "Chike White Chocolate Peppermint Protein Iced Coffee, Protein Coffee Mix | White Chocolate Peppermint Protein Powder, 2 Sh...",
-     "_price": 29.99
-    },
-    {
-     "asin": "B00ZFONQZW",
+     "asin": "B002DYIZHG",
      "name": "Optimum Nutrition Gold Standard Whey Protein",
-     "pct": 23,
+     "pct": 21,
      "rating": 4.7,
-     "t": 1794283892,
-     "img": "https://m.media-amazon.com/images/I/81NX2zFV4-L.jpg",
-     "link": "https://www.amazon.com/dp/B00ZFONQZW?tag=zoepicks00-20",
-     "now": "154.24",
-     "was": "199.99",
-     "reviews": 30329,
-     "_title": "Optimum Nutrition Gold Standard Whey Protein, Extreme Milk Chocolate, 10 LB | 24g of 100% Whey Protein Powder Per Serving,...",
-     "_price": 154.24
+     "t": 1794504962,
+     "img": "https://m.media-amazon.com/images/I/716lehIB91L.jpg",
+     "link": "https://www.amazon.com/dp/B002DYIZHG?tag=zoepicks00-20",
+     "now": "51.60",
+     "was": "64.99",
+     "reviews": 30352,
+     "_title": "Optimum Nutrition Gold Standard Whey Protein, Extreme Milk Chocolate, 2 LB | 24g of 100% Whey Protein Powder Per Serving, ...",
+     "_price": 51.6
     }
    ],
-   "scanned": "2026-11-10T04:11:32.029111+00:00"
+   "scanned": "2026-11-12T17:36:02.315524+00:00"
   },
   "gaming:nintendo-switch-controller": {
    "label": "Nintendo Switch Controller",
