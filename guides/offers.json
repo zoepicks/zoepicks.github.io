@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-11T22:13:45Z",
+ "updated": "2026-11-12T00:13:55Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -313,7 +313,7 @@
     "name": "Barenthal Cutting Boards",
     "pct": 58,
     "rating": 4.3,
-    "t": 1794434442,
+    "t": 1794436885,
     "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
     "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
     "now": "19.31",
@@ -1335,7 +1335,7 @@
       "name": "Glytone Hydra Lipid UV Mineral Sunscreen",
       "pct": 42,
       "rating": 4.6,
-      "t": 1794434441,
+      "t": 1794436885,
       "img": "https://m.media-amazon.com/images/I/51KvenHnOqL.jpg",
       "link": "https://www.amazon.com/dp/B08CJ3MVYP?tag=zoepicks00-20",
       "now": "24.50",
@@ -1368,13 +1368,12 @@
       "name": "Tripeptide-Infused Biotin Hair Growth Shampoo and…",
       "pct": 40,
       "rating": 4.4,
-      "t": 1794420274,
+      "t": 1794436887,
       "img": "https://m.media-amazon.com/images/I/81Z65iFtTlL.jpg",
       "link": "https://www.amazon.com/dp/B0GXLCKD59?tag=zoepicks00-20",
       "now": "19.98",
       "was": "33.39",
-      "deal": "Limited time deal",
-      "reviews": 870,
+      "reviews": 853,
       "tier": "budget"
      },
      {
@@ -1473,6 +1472,53 @@
     ]
    },
    {
+    "key": "deodorants",
+    "label": "Deodorants",
+    "items": [
+     {
+      "asin": "B07S1BNNYD",
+      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
+      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
+      "now": "14.98",
+      "was": "19.99",
+      "deal": "Limited time deal",
+      "reviews": 27524,
+      "tier": "budget"
+     },
+     {
+      "asin": "B09GX2C6N2",
+      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
+      "pct": 27,
+      "rating": 4.6,
+      "t": 1794420274,
+      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
+      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "21.99",
+      "deal": "Limited time deal",
+      "reviews": 6396,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H9ZQJC9X",
+      "name": "HAPPY NUTS Whole Body Deodorant Men Use Daily As Aluminum…",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1794436887,
+      "img": "https://m.media-amazon.com/images/I/819pRYLwXqL.jpg",
+      "link": "https://www.amazon.com/dp/B0H9ZQJC9X?tag=zoepicks00-20",
+      "now": "24.98",
+      "was": "39.99",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "hair-styling-brush",
     "label": "Hair Styling Brush",
     "items": [
@@ -1515,38 +1561,6 @@
       "was": "69.00",
       "reviews": 23941,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B09GX2C6N2",
-      "name": "HAPPY NUTS Comfort Powder Anti Chafing Men's Deodorant",
-      "pct": 27,
-      "rating": 4.6,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/61HDRuqxygL.jpg",
-      "link": "https://www.amazon.com/dp/B09GX2C6N2?tag=zoepicks00-20",
-      "now": "15.99",
-      "was": "21.99",
-      "deal": "Limited time deal",
-      "reviews": 6396
-     },
-     {
-      "asin": "B07S1BNNYD",
-      "name": "HAPPY NUTS Comfort Cream Anti Chafing Deodorant",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1794420274,
-      "img": "https://m.media-amazon.com/images/I/71MojygIx9L.jpg",
-      "link": "https://www.amazon.com/dp/B07S1BNNYD?tag=zoepicks00-20",
-      "now": "14.98",
-      "was": "19.99",
-      "deal": "Limited time deal",
-      "reviews": 27524
      }
     ]
    },
@@ -2225,7 +2239,7 @@
       "name": "GEEK LIGHTING Hoodies",
       "pct": 53,
       "rating": 4.4,
-      "t": 1794434442,
+      "t": 1794436886,
       "img": "https://m.media-amazon.com/images/I/61Fyew+X5jL.jpg",
       "link": "https://www.amazon.com/dp/B0753FLT1D?tag=zoepicks00-20",
       "now": "32.98",
@@ -2717,55 +2731,6 @@
     ]
    },
    {
-    "key": "wallets",
-    "label": "Wallets",
-    "items": [
-     {
-      "asin": "B0FQVBG3V4",
-      "name": "Ekster Aluminum Cardholder Pro Wallet",
-      "pct": 25,
-      "rating": 4.3,
-      "t": 1794308568,
-      "img": "https://m.media-amazon.com/images/I/41Q2MtMfmLL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQVBG3V4?tag=zoepicks00-20",
-      "now": "88.99",
-      "was": "119.00",
-      "reviews": 15181
-     }
-    ]
-   },
-   {
-    "key": "tote-bags",
-    "label": "Tote Bags",
-    "items": [
-     {
-      "asin": "B0CL8ZM6BN",
-      "name": "BAGSMART Crush Tote Bag",
-      "pct": 24,
-      "rating": 4.7,
-      "t": 1794308663,
-      "img": "https://m.media-amazon.com/images/I/71U-1ifsKNL.jpg",
-      "link": "https://www.amazon.com/dp/B0CL8ZM6BN?tag=zoepicks00-20",
-      "now": "16.63",
-      "was": "21.99",
-      "reviews": 1275
-     },
-     {
-      "asin": "B0G18CLZL9",
-      "name": "dassymia Tote Bag for Women Foldable Shoulder Bag Nylon…",
-      "pct": 15,
-      "rating": 4.1,
-      "t": 1794418756,
-      "img": "https://m.media-amazon.com/images/I/71aDuOkmXGL.jpg",
-      "link": "https://www.amazon.com/dp/B0G18CLZL9?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 395
-     }
-    ]
-   },
-   {
     "key": "winter-coats",
     "label": "Winter Coats",
     "items": [
@@ -2796,6 +2761,25 @@
     ]
    },
    {
+    "key": "tote-bags",
+    "label": "Tote Bags",
+    "items": [
+     {
+      "asin": "B0G18CLZL9",
+      "name": "dassymia Tote Bag for Women Foldable Shoulder Bag Nylon…",
+      "pct": 15,
+      "rating": 4.1,
+      "t": 1794418756,
+      "img": "https://m.media-amazon.com/images/I/71aDuOkmXGL.jpg",
+      "link": "https://www.amazon.com/dp/B0G18CLZL9?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "29.99",
+      "deal": "Limited time deal",
+      "reviews": 395
+     }
+    ]
+   },
+   {
     "key": "medium-luggage",
     "label": "Medium Luggage",
     "items": []
@@ -2818,6 +2802,11 @@
    {
     "key": "workout-clothes",
     "label": "Workout Clothes",
+    "items": []
+   },
+   {
+    "key": "wallets",
+    "label": "Wallets",
     "items": []
    }
   ],
@@ -4033,7 +4022,7 @@
       "name": "Barenthal Cutting Boards",
       "pct": 58,
       "rating": 4.3,
-      "t": 1794434442,
+      "t": 1794436885,
       "img": "https://m.media-amazon.com/images/I/6132OwZTTSL.jpg",
       "link": "https://www.amazon.com/dp/B08L5MNLCP?tag=zoepicks00-20",
       "now": "19.31",
@@ -4546,7 +4535,7 @@
       "name": "Himeet Queen Comforter Set",
       "pct": 37,
       "rating": 4.5,
-      "t": 1794341649,
+      "t": 1794436885,
       "img": "https://m.media-amazon.com/images/I/71Jm7YNsqCL.jpg",
       "link": "https://www.amazon.com/dp/B0CR694KQJ?tag=zoepicks00-20",
       "now": "26.98",
