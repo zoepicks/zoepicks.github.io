@@ -12606,9 +12606,24 @@
   },
   "beauty_health:real-time-translation-device": {
    "label": "Real Time Translation Device",
-   "tries": 5,
-   "items": [],
-   "scanned": "2026-11-10T02:43:24.049716+00:00"
+   "tries": 6,
+   "items": [
+    {
+     "asin": "B0HNRMFY6L",
+     "name": "Language Translator Device No Wifi Needed",
+     "pct": 13,
+     "rating": 5.0,
+     "t": 1794450828,
+     "img": "https://m.media-amazon.com/images/I/61l2S5cNAdL.jpg",
+     "link": "https://www.amazon.com/dp/B0HNRMFY6L?tag=zoepicks00-20",
+     "now": "129.99",
+     "was": "149.99",
+     "reviews": 20,
+     "_title": "Language Translator Device No Wifi Needed, High-end Upgraded Ai Translator, Offline Real-Time Voice Spainish Translation, ...",
+     "_price": 129.99
+    }
+   ],
+   "scanned": "2026-11-12T02:33:48.272030+00:00"
   },
   "home_kitchen:oscillating-heater": {
    "label": "Oscillating Heater",
