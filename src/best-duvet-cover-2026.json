@@ -34,8 +34,8 @@
    "best_for": "Budget shoppers",
    "skip_if": "You want premium luxury",
    "link": "https://www.amazon.com/s?k=Nest+Bamboo+Duvet+Cover&tag=zoepicks00-20",
-   "fill_tries": 6,
-   "fill_last": "Nov 5, 2026",
+   "fill_tries": 7,
+   "fill_last": "Nov 11, 2026",
    "fill_failed": true
   },
   {
@@ -66,8 +66,8 @@
    "best_for": "Eco‑conscious sleepers",
    "skip_if": "You don’t care about certifications",
    "link": "https://www.amazon.com/s?k=Or+%26+Zon+Organic+Percale+Duvet+Cover&tag=zoepicks00-20",
-   "fill_tries": 6,
-   "fill_last": "Nov 5, 2026",
+   "fill_tries": 7,
+   "fill_last": "Nov 11, 2026",
    "fill_failed": true
   },
   {
@@ -98,9 +98,18 @@
    "best_for": "Those who like a crisp, hotel‑style feel",
    "skip_if": "You prefer a silky or satin feel",
    "link": "https://www.amazon.com/s?k=Brooklinen+Classic+Percale+Duvet+Cover&tag=zoepicks00-20",
-   "fill_tries": 6,
+   "fill_tries": 0,
    "fill_last": "Nov 5, 2026",
-   "fill_failed": true
+   "fill_failed": false,
+   "asin": "B0DSQT38V7",
+   "image": "https://m.media-amazon.com/images/I/718jHtMjUJL.jpg",
+   "image_asin": "B0DSQT38V7",
+   "amazon_price": "$175.00",
+   "amazon_price_asof": "Nov 11, 2026",
+   "amazon_listing": "Brooklinen Classic Percale Cotton Duvet Cover - Full/Queen, Sky | Cool, crisp 100% cotton ",
+   "amazon_rating": "4",
+   "amazon_reviews": 169,
+   "amazon_rating_asof": "Nov 11, 2026"
   }
  ]
 }
