@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-12T18:15:54Z",
+ "updated": "2026-11-12T20:16:19Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -43,17 +43,6 @@
   ],
   "beauty_health": [
    {
-    "asin": "B0GNTLR45X",
-    "name": "Maybelline Lash Sensational Sky Tubes Tubing Mascara",
-    "pct": 77,
-    "rating": 4.3,
-    "t": 1794463869,
-    "img": "https://m.media-amazon.com/images/I/81gmj7reVNL.jpg",
-    "link": "https://www.amazon.com/dp/B0GNTLR45X?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
-   {
     "asin": "B018ZXEO50",
     "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
     "pct": 83,
@@ -61,6 +50,17 @@
     "t": 1794463809,
     "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
     "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B00P0Q0T28",
+    "name": "Too Faced Better Than Sex Volumizing Mascara",
+    "pct": 73,
+    "rating": 4.4,
+    "t": 1794463871,
+    "img": "https://m.media-amazon.com/images/I/71xZmq9JzYL.jpg",
+    "link": "https://www.amazon.com/dp/B00P0Q0T28?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -139,16 +139,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0H6BKZLKJ",
-    "name": "taopodo Smart Watches",
-    "pct": 64,
-    "rating": 4.7,
-    "t": 1794503564,
-    "img": "https://m.media-amazon.com/images/I/81y-JevfrhL.jpg",
-    "link": "https://www.amazon.com/dp/B0H6BKZLKJ?tag=zoepicks00-20",
-    "now": "35.99",
-    "was": "99.99",
-    "reviews": 98,
+    "asin": "B0HL84W23P",
+    "name": "Smart Watches for Women Android iPhone(Answer/Make Calls)",
+    "pct": 80,
+    "rating": 4.9,
+    "t": 1794507798,
+    "img": "https://m.media-amazon.com/images/I/81AlJk7vftL.jpg",
+    "link": "https://www.amazon.com/dp/B0HL84W23P?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "149.95",
+    "deal": "Limited time deal",
+    "reviews": 78,
     "tier": "mid"
    },
    {
@@ -168,6 +169,20 @@
   ],
   "fitness_outdoor": [
    {
+    "asin": "B092MXJFNS",
+    "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+    "pct": 54,
+    "rating": 4.6,
+    "t": 1794507914,
+    "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+    "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+    "now": "12.99",
+    "was": "28.49",
+    "deal": "Early Black Friday deal",
+    "reviews": 9968,
+    "tier": "budget"
+   },
+   {
     "asin": "B0DY1MDMPX",
     "name": "NINGO Men's Waterproof Hiking Boots",
     "pct": 50,
@@ -176,30 +191,20 @@
     "img": "https://m.media-amazon.com/images/I/71bOISVQEZL.jpg",
     "link": "https://www.amazon.com/dp/B0DY1MDMPX?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0C9J9H41B",
-    "name": "NORTIV 8 Women's Waterproof Hiking Boots Outdoor Trekking…",
-    "pct": 30,
-    "rating": 4.4,
-    "t": 1794466807,
-    "img": "https://m.media-amazon.com/images/I/610SIaPEFpL.jpg",
-    "link": "https://www.amazon.com/dp/B0C9J9H41B?tag=zoepicks00-20",
-    "now": "39.99",
-    "was": "56.99",
-    "reviews": 1797,
     "tier": "mid"
    },
    {
-    "asin": "B0GTM4PN4D",
-    "name": "WERHY Electric Scooter",
-    "pct": 39,
-    "rating": 4.2,
-    "t": 1794465204,
-    "img": "https://m.media-amazon.com/images/I/71ENL0nrKzL.jpg",
-    "link": "https://www.amazon.com/dp/B0GTM4PN4D?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B09R5QRVWG",
+    "name": "Sunny Health & Fitness Premium 44LB Flywheel Magnetic…",
+    "pct": 48,
+    "rating": 4.5,
+    "t": 1794507896,
+    "img": "https://m.media-amazon.com/images/I/71maUcW-49L.jpg",
+    "link": "https://www.amazon.com/dp/B09R5QRVWG?tag=zoepicks00-20",
+    "now": "465.49",
+    "was": "899.99",
+    "deal": "Limited time deal",
+    "reviews": 3520,
     "tier": "premium"
    }
   ],
@@ -243,17 +248,6 @@
   ],
   "gaming": [
    {
-    "asin": "B0F1R2437T",
-    "name": "Turtle Beach Airlite Fit Wired Gaming Headset",
-    "pct": 46,
-    "rating": 4.6,
-    "t": 1794466781,
-    "img": "https://m.media-amazon.com/images/I/71S15RUV9aL.jpg",
-    "link": "https://www.amazon.com/dp/B0F1R2437T?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
-   {
     "asin": "B0GV7DTQ6G",
     "name": "Ordtop 2.4GHz Wireless Gaming Headset",
     "pct": 60,
@@ -262,20 +256,31 @@
     "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
     "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0HJGH2KNZ",
+    "name": "Video Gaming Chair",
+    "pct": 67,
+    "rating": 4.6,
+    "t": 1794507947,
+    "img": "https://m.media-amazon.com/images/I/71-IHp2S-1L.jpg",
+    "link": "https://www.amazon.com/dp/B0HJGH2KNZ?tag=zoepicks00-20",
+    "now": "89.99",
+    "was": "269.99",
+    "deal": "Limited time deal",
+    "reviews": 243,
     "tier": "mid"
    },
    {
-    "asin": "B0HNJHLKTZ",
-    "name": "AOC PC Controller with Interactive Screen",
-    "pct": 50,
-    "rating": 4.7,
-    "t": 1794503088,
-    "img": "https://m.media-amazon.com/images/I/71qro5mkKvL.jpg",
-    "link": "https://www.amazon.com/dp/B0HNJHLKTZ?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "99.99",
-    "deal": "Limited time deal",
-    "reviews": 1365,
+    "asin": "B08B12P6CS",
+    "name": "GTPLAYER Gaming Chair",
+    "pct": 41,
+    "rating": 4.4,
+    "t": 1794466841,
+    "img": "https://m.media-amazon.com/images/I/61phC8Ix9bL.jpg",
+    "link": "https://www.amazon.com/dp/B08B12P6CS?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -411,16 +416,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0H6BKZLKJ",
-    "name": "taopodo Smart Watches",
-    "pct": 64,
-    "rating": 4.7,
+    "asin": "B0HNJF823S",
+    "name": "Smart Watch for Women,Health Monitor Fitness Watch",
+    "pct": 78,
+    "rating": 5.0,
     "t": 1794503564,
-    "img": "https://m.media-amazon.com/images/I/81y-JevfrhL.jpg",
-    "link": "https://www.amazon.com/dp/B0H6BKZLKJ?tag=zoepicks00-20",
+    "img": "https://m.media-amazon.com/images/I/71m2p9lydPL.jpg",
+    "link": "https://www.amazon.com/dp/B0HNJF823S?tag=zoepicks00-20",
     "now": "35.99",
-    "was": "99.99",
-    "reviews": 98,
+    "was": "159.99",
+    "deal": "Limited time deal",
+    "reviews": 27,
     "tier": "mid"
    },
    {
@@ -1828,6 +1834,51 @@
     ]
    },
    {
+    "key": "epilators",
+    "label": "Epilators",
+    "items": [
+     {
+      "asin": "B0C61S3SJY",
+      "name": "VOYOR Epilator for Women",
+      "pct": 5,
+      "rating": 3.7,
+      "t": 1794507843,
+      "img": "https://m.media-amazon.com/images/I/61DjgWZwsGL.jpg",
+      "link": "https://www.amazon.com/dp/B0C61S3SJY?tag=zoepicks00-20",
+      "now": "24.95",
+      "was": "26.34",
+      "reviews": 3207,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HFJD1V9X",
+      "name": "Epilator for Women",
+      "pct": 25,
+      "rating": 4.7,
+      "t": 1794507843,
+      "img": "https://m.media-amazon.com/images/I/613yZsrdz3L.jpg",
+      "link": "https://www.amazon.com/dp/B0HFJD1V9X?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "reviews": 45,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GNB94W8G",
+      "name": "Philips Epilator Series 8000",
+      "pct": 19,
+      "rating": 4.2,
+      "t": 1794507843,
+      "img": "https://m.media-amazon.com/images/I/71Q4V+cEwyL.jpg",
+      "link": "https://www.amazon.com/dp/B0GNB94W8G?tag=zoepicks00-20",
+      "now": "64.95",
+      "was": "79.99",
+      "reviews": 3407,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "sleep-mask",
     "label": "Sleep Mask",
     "items": [
@@ -2016,11 +2067,6 @@
     "key": "heating-pad",
     "label": "Heating Pad",
     "items": []
-   },
-   {
-    "key": "epilators",
-    "label": "Epilators",
-    "items": []
    }
   ],
   "electronics": [
@@ -2205,6 +2251,54 @@
     ]
    },
    {
+    "key": "drone",
+    "label": "Drone",
+    "items": [
+     {
+      "asin": "B0HGD5V2CL",
+      "name": "Oddire Drone with Camera",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1794507768,
+      "img": "https://m.media-amazon.com/images/I/71zH2wJRYHL.jpg",
+      "link": "https://www.amazon.com/dp/B0HGD5V2CL?tag=zoepicks00-20",
+      "now": "39.89",
+      "was": "65.99",
+      "deal": "Limited time deal",
+      "reviews": 57,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GPW71XRG",
+      "name": "Drone with Camera for Adults",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1794507768,
+      "img": "https://m.media-amazon.com/images/I/71O5wda+vbL.jpg",
+      "link": "https://www.amazon.com/dp/B0GPW71XRG?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "159.99",
+      "deal": "Limited time deal",
+      "reviews": 27,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HCNB82DM",
+      "name": "4K UHD GPS Drone with Camera",
+      "pct": 50,
+      "rating": 4.9,
+      "t": 1794507768,
+      "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
+      "now": "109.98",
+      "was": "219.98",
+      "deal": "Limited time deal",
+      "reviews": 65,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "surround-sound-system",
     "label": "Surround Sound System",
     "items": [
@@ -2252,18 +2346,49 @@
     ]
    },
    {
-    "key": "drone",
-    "label": "Drone",
+    "key": "cameras-beginners",
+    "label": "Cameras Beginners",
     "items": [
      {
-      "asin": "B0HHK12LGP",
-      "name": "Drones with Camera",
-      "pct": 40,
+      "asin": "B0HFQV651V",
+      "name": "Drone with Camera 1080P HD FPV",
+      "pct": 39,
+      "rating": 4.8,
+      "t": 1794507768,
+      "img": "https://m.media-amazon.com/images/I/71I2eDZjRwL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFQV651V?tag=zoepicks00-20",
+      "now": "45.98",
+      "was": "75.99",
+      "deal": "Limited time deal",
+      "reviews": 26,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DH28GGNZ",
+      "name": "4K Digital Camera for Beginners & Teens",
+      "pct": 25,
       "rating": 4.2,
-      "t": 1794464140,
-      "img": "https://m.media-amazon.com/images/I/714PJWxOGGL.jpg",
-      "link": "https://www.amazon.com/dp/B0HHK12LGP?tag=zoepicks00-20",
-      "reviews": 0
+      "t": 1794449019,
+      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
+      "now": "59.98",
+      "was": "79.99",
+      "deal": "Limited time deal",
+      "reviews": 1565,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HFCQFS6Z",
+      "name": "8K Digital Camera, 88MP Autofocus Camera",
+      "pct": 23,
+      "rating": 4.9,
+      "t": 1794449019,
+      "img": "https://m.media-amazon.com/images/I/71jTwdgseEL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFCQFS6Z?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "129.99",
+      "reviews": 37,
+      "tier": "premium"
      }
     ]
    },
@@ -2312,37 +2437,6 @@
       "deal": "Limited time deal",
       "reviews": 32,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "cameras-beginners",
-    "label": "Cameras Beginners",
-    "items": [
-     {
-      "asin": "B0DH28GGNZ",
-      "name": "4K Digital Camera for Beginners & Teens",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1794449019,
-      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
-      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
-      "now": "59.98",
-      "was": "79.99",
-      "deal": "Limited time deal",
-      "reviews": 1565
-     },
-     {
-      "asin": "B0HFCQFS6Z",
-      "name": "8K Digital Camera, 88MP Autofocus Camera",
-      "pct": 23,
-      "rating": 4.9,
-      "t": 1794449019,
-      "img": "https://m.media-amazon.com/images/I/71jTwdgseEL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFCQFS6Z?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "129.99",
-      "reviews": 37
      }
     ]
    },
@@ -2465,6 +2559,20 @@
       "tier": "budget"
      },
      {
+      "asin": "B0HL84W23P",
+      "name": "Smart Watches for Women Android iPhone(Answer/Make Calls)",
+      "pct": 80,
+      "rating": 4.9,
+      "t": 1794507798,
+      "img": "https://m.media-amazon.com/images/I/81AlJk7vftL.jpg",
+      "link": "https://www.amazon.com/dp/B0HL84W23P?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "149.95",
+      "deal": "Limited time deal",
+      "reviews": 78,
+      "tier": "mid"
+     },
+     {
       "asin": "B0H6BKZLKJ",
       "name": "taopodo Smart Watches",
       "pct": 64,
@@ -2475,20 +2583,6 @@
       "now": "35.99",
       "was": "99.99",
       "reviews": 98,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HFJ6MRBV",
-      "name": "Smart Watches for Women Android& iPhone",
-      "pct": 15,
-      "rating": 4.0,
-      "t": 1794503564,
-      "img": "https://m.media-amazon.com/images/I/81Jb8uiiciL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFJ6MRBV?tag=zoepicks00-20",
-      "now": "39.89",
-      "was": "46.93",
-      "deal": "Limited time deal",
-      "reviews": 295,
       "tier": "premium"
      }
     ]
@@ -2588,19 +2682,6 @@
     "label": "Running Shoes",
     "items": [
      {
-      "asin": "B0D678HF7L",
-      "name": "HOMASS Mens Walking Shoes Tennis Casual Fashion Running…",
-      "pct": 50,
-      "rating": 4.1,
-      "t": 1794483122,
-      "img": "https://m.media-amazon.com/images/I/71LPKnaBWhL.jpg",
-      "link": "https://www.amazon.com/dp/B0D678HF7L?tag=zoepicks00-20",
-      "now": "16.45",
-      "was": "32.90",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
       "asin": "B0GSDNQ6BS",
       "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
       "pct": 55,
@@ -2609,6 +2690,20 @@
       "img": "https://m.media-amazon.com/images/I/61zC+W9Bi5L.jpg",
       "link": "https://www.amazon.com/dp/B0GSDNQ6BS?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GRGPB5RP",
+      "name": "K-Swiss Men's Mellow Running Shoe",
+      "pct": 50,
+      "rating": 4.4,
+      "t": 1794507781,
+      "img": "https://m.media-amazon.com/images/I/71jHdB8tcQL.jpg",
+      "link": "https://www.amazon.com/dp/B0GRGPB5RP?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "59.59",
+      "deal": "Limited time deal",
+      "reviews": 70,
       "tier": "mid"
      },
      {
@@ -2677,16 +2772,16 @@
     "label": "Walking Shoes",
     "items": [
      {
-      "asin": "B0FC64BTWM",
-      "name": "Scurtain Mens Walking Shoes Wide Diabetic Orthopedic…",
-      "pct": 32,
-      "rating": 4.2,
-      "t": 1794462085,
-      "img": "https://m.media-amazon.com/images/I/7172FzI03dL.jpg",
-      "link": "https://www.amazon.com/dp/B0FC64BTWM?tag=zoepicks00-20",
-      "now": "19.72",
-      "was": "36.99",
-      "reviews": 691,
+      "asin": "B0D678HF7L",
+      "name": "HOMASS Mens Walking Shoes Tennis Casual Fashion Running…",
+      "pct": 50,
+      "rating": 4.1,
+      "t": 1794483122,
+      "img": "https://m.media-amazon.com/images/I/71LPKnaBWhL.jpg",
+      "link": "https://www.amazon.com/dp/B0D678HF7L?tag=zoepicks00-20",
+      "now": "16.45",
+      "was": "32.90",
+      "reviews": 0,
       "tier": "budget"
      },
      {
@@ -2756,6 +2851,53 @@
       "now": "109.98",
       "was": "149.99",
       "reviews": 103,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "travel-backpacks",
+    "label": "Travel Backpacks",
+    "items": [
+     {
+      "asin": "B0DZ68GNDT",
+      "name": "SKYSPER 10L Hiking Backpack Small Foldable Daypack Packable…",
+      "pct": 50,
+      "rating": 4.5,
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/81o1f4ZvpOL.jpg",
+      "link": "https://www.amazon.com/dp/B0DZ68GNDT?tag=zoepicks00-20",
+      "now": "13.49",
+      "was": "26.99",
+      "deal": "Limited time deal",
+      "reviews": 165,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DRNGBFMH",
+      "name": "SKYSPER Small Hiking Backpack",
+      "pct": 26,
+      "rating": 4.5,
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/61dXvd35jZL.jpg",
+      "link": "https://www.amazon.com/dp/B0DRNGBFMH?tag=zoepicks00-20",
+      "now": "25.19",
+      "was": "34.19",
+      "deal": "Limited time deal",
+      "reviews": 1321,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0G1YH4DZ7",
+      "name": "FIROVIAN 70L Travel Backpack",
+      "pct": 41,
+      "rating": 4.5,
+      "t": 1794463051,
+      "img": "https://m.media-amazon.com/images/I/71SFSuJflSL.jpg",
+      "link": "https://www.amazon.com/dp/B0G1YH4DZ7?tag=zoepicks00-20",
+      "now": "94.97",
+      "was": "159.99",
+      "reviews": 160,
       "tier": "premium"
      }
     ]
@@ -2874,53 +3016,6 @@
     ]
    },
    {
-    "key": "travel-backpacks",
-    "label": "Travel Backpacks",
-    "items": [
-     {
-      "asin": "B0G4MBCGLX",
-      "name": "Travel Backpack for Women",
-      "pct": 33,
-      "rating": 4.7,
-      "t": 1794503470,
-      "img": "https://m.media-amazon.com/images/I/81VY0So3LGL.jpg",
-      "link": "https://www.amazon.com/dp/B0G4MBCGLX?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "29.99",
-      "deal": "Limited time deal",
-      "reviews": 1442,
-      "tier": "budget"
-     },
-     {
-      "asin": "B092TQG5ZD",
-      "name": "DUSLANG 17 inch Travel Laptop Backpack",
-      "pct": 20,
-      "rating": 4.7,
-      "t": 1794503470,
-      "img": "https://m.media-amazon.com/images/I/810gZYpPz9L.jpg",
-      "link": "https://www.amazon.com/dp/B092TQG5ZD?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "31.99",
-      "deal": "Limited time deal",
-      "reviews": 3698,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0G1YH4DZ7",
-      "name": "FIROVIAN 70L Travel Backpack",
-      "pct": 41,
-      "rating": 4.5,
-      "t": 1794463051,
-      "img": "https://m.media-amazon.com/images/I/71SFSuJflSL.jpg",
-      "link": "https://www.amazon.com/dp/B0G1YH4DZ7?tag=zoepicks00-20",
-      "now": "94.97",
-      "was": "159.99",
-      "reviews": 160,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "carry-on-bags",
     "label": "Carry On Bags",
     "items": [
@@ -2989,16 +3084,18 @@
     "label": "Crossbody Bag",
     "items": [
      {
-      "asin": "B0D77Z2TC1",
-      "name": "WANDER+® Anti Theft Crossbody Travel Bag",
-      "pct": 39,
+      "asin": "B07T5D98RW",
+      "name": "WATERFLY Crossbody Sling Backpack Sling Bag Travel Hiking…",
+      "pct": 15,
       "rating": 4.5,
-      "t": 1794502759,
-      "img": "https://m.media-amazon.com/images/I/71sXejpG8SL.jpg",
-      "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
-      "now": "30.59",
-      "was": "49.99",
-      "reviews": 849
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/610QzKj7tLL.jpg",
+      "link": "https://www.amazon.com/dp/B07T5D98RW?tag=zoepicks00-20",
+      "now": "21.24",
+      "was": "24.99",
+      "deal": "Limited time deal",
+      "reviews": 48411,
+      "tier": "budget"
      },
      {
       "asin": "B0FPCT515S",
@@ -3011,7 +3108,21 @@
       "now": "28.48",
       "was": "38.99",
       "deal": "Limited time deal",
-      "reviews": 542
+      "reviews": 542,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D77Z2TC1",
+      "name": "WANDER+® Anti Theft Crossbody Travel Bag",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1794502759,
+      "img": "https://m.media-amazon.com/images/I/71sXejpG8SL.jpg",
+      "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
+      "now": "30.59",
+      "was": "49.99",
+      "reviews": 849,
+      "tier": "premium"
      }
     ]
    },
@@ -3221,6 +3332,101 @@
   ],
   "fitness_outdoor": [
    {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B092MXJFNS",
+      "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+      "pct": 54,
+      "rating": 4.6,
+      "t": 1794507914,
+      "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+      "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "28.49",
+      "deal": "Early Black Friday deal",
+      "reviews": 9968,
+      "tier": "budget"
+     },
+     {
+      "asin": "B096RTQL7Y",
+      "name": "BJPKPK 40oz Insulated Water Bottle",
+      "pct": 29,
+      "rating": 4.5,
+      "t": 1794507914,
+      "img": "https://m.media-amazon.com/images/I/61QkbojzZ8L.jpg",
+      "link": "https://www.amazon.com/dp/B096RTQL7Y?tag=zoepicks00-20",
+      "now": "13.44",
+      "was": "18.99",
+      "reviews": 11890,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H6N6WRHK",
+      "name": "WONSYGO 64oz Insulated Water Bottle Leak Proof",
+      "pct": 19,
+      "rating": 4.7,
+      "t": 1794507914,
+      "img": "https://m.media-amazon.com/images/I/71W+rv+yaxL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6N6WRHK?tag=zoepicks00-20",
+      "now": "21.97",
+      "was": "26.99",
+      "deal": "Limited time deal",
+      "reviews": 306,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "hiking-backpacks",
+    "label": "Hiking Backpacks",
+    "items": [
+     {
+      "asin": "B0DZ68GNDT",
+      "name": "SKYSPER 10L Hiking Backpack Small Foldable Daypack Packable…",
+      "pct": 50,
+      "rating": 4.5,
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/81o1f4ZvpOL.jpg",
+      "link": "https://www.amazon.com/dp/B0DZ68GNDT?tag=zoepicks00-20",
+      "now": "13.49",
+      "was": "26.99",
+      "deal": "Limited time deal",
+      "reviews": 165,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07T5D98RW",
+      "name": "WATERFLY Crossbody Sling Backpack Sling Bag Travel Hiking…",
+      "pct": 15,
+      "rating": 4.5,
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/610QzKj7tLL.jpg",
+      "link": "https://www.amazon.com/dp/B07T5D98RW?tag=zoepicks00-20",
+      "now": "21.24",
+      "was": "24.99",
+      "deal": "Limited time deal",
+      "reviews": 48411,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DRNGBFMH",
+      "name": "SKYSPER Small Hiking Backpack",
+      "pct": 26,
+      "rating": 4.5,
+      "t": 1794507752,
+      "img": "https://m.media-amazon.com/images/I/61dXvd35jZL.jpg",
+      "link": "https://www.amazon.com/dp/B0DRNGBFMH?tag=zoepicks00-20",
+      "now": "25.19",
+      "was": "34.19",
+      "deal": "Limited time deal",
+      "reviews": 1321,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "hiking-boots",
     "label": "Hiking Boots",
     "items": [
@@ -3266,6 +3472,54 @@
     ]
    },
    {
+    "key": "exercise-bikes",
+    "label": "Exercise Bikes",
+    "items": [
+     {
+      "asin": "B0HJYNGNB3",
+      "name": "Magnetic Exercise Bike",
+      "pct": 33,
+      "rating": 4.5,
+      "t": 1794507896,
+      "img": "https://m.media-amazon.com/images/I/71dvwLjh3PL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJYNGNB3?tag=zoepicks00-20",
+      "now": "99.98",
+      "was": "149.99",
+      "deal": "Limited time deal",
+      "reviews": 29,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CLBFJRW3",
+      "name": "Sunny Health & Fitness Smart Indoor Cycling Exercise Bike",
+      "pct": 35,
+      "rating": 4.3,
+      "t": 1794507896,
+      "img": "https://m.media-amazon.com/images/I/714WO0JiOgL.jpg",
+      "link": "https://www.amazon.com/dp/B0CLBFJRW3?tag=zoepicks00-20",
+      "now": "259.99",
+      "was": "399.99",
+      "deal": "Limited time deal",
+      "reviews": 5421,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09R5QRVWG",
+      "name": "Sunny Health & Fitness Premium 44LB Flywheel Magnetic…",
+      "pct": 48,
+      "rating": 4.5,
+      "t": 1794507896,
+      "img": "https://m.media-amazon.com/images/I/71maUcW-49L.jpg",
+      "link": "https://www.amazon.com/dp/B09R5QRVWG?tag=zoepicks00-20",
+      "now": "465.49",
+      "was": "899.99",
+      "deal": "Limited time deal",
+      "reviews": 3520,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "scooter",
     "label": "Scooter",
     "items": [
@@ -3277,8 +3531,7 @@
       "t": 1794465204,
       "img": "https://m.media-amazon.com/images/I/71ENL0nrKzL.jpg",
       "link": "https://www.amazon.com/dp/B0GTM4PN4D?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      },
      {
       "asin": "B0H3VTHV65",
@@ -3296,47 +3549,49 @@
     ]
    },
    {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
+    "key": "adjustable-dumbbells",
+    "label": "Adjustable Dumbbells",
     "items": [
      {
-      "asin": "B0GX2R7XG3",
-      "name": "Swigina Insulated Water Bottle",
+      "asin": "B0GFJFVPLX",
+      "name": "FDS4 Adjustable Dumbbell Set",
       "pct": 25,
-      "rating": 4.5,
-      "t": 1794468700,
-      "img": "https://m.media-amazon.com/images/I/61GlPdbRSrL.jpg",
-      "link": "https://www.amazon.com/dp/B0GX2R7XG3?tag=zoepicks00-20",
-      "now": "11.99",
-      "was": "15.99",
-      "reviews": 1480,
+      "rating": 4.2,
+      "t": 1794507876,
+      "img": "https://m.media-amazon.com/images/I/71zqdCjR-NL.jpg",
+      "link": "https://www.amazon.com/dp/B0GFJFVPLX?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 100,
       "tier": "budget"
      },
      {
-      "asin": "B0B69M1X8G",
-      "name": "Coldest Insulated Water Bottle",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1794450995,
-      "img": "https://m.media-amazon.com/images/I/41qZKjE3VYL.jpg",
-      "link": "https://www.amazon.com/dp/B0B69M1X8G?tag=zoepicks00-20",
-      "now": "37.60",
-      "was": "43.99",
+      "asin": "B0FCDY59GG",
+      "name": "BDSHE Adjustable Dumbbell Set",
+      "pct": 24,
+      "rating": 4.4,
+      "t": 1794507876,
+      "img": "https://m.media-amazon.com/images/I/81Ub7Swav5L.jpg",
+      "link": "https://www.amazon.com/dp/B0FCDY59GG?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "65.99",
       "deal": "Limited time deal",
-      "reviews": 21235,
+      "reviews": 642,
       "tier": "mid"
      },
      {
-      "asin": "B0CGV7GLFL",
-      "name": "WaterH BOOST Smart Water Bottle Tracker",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1794450995,
-      "img": "https://m.media-amazon.com/images/I/71mmVS1Fx6L.jpg",
-      "link": "https://www.amazon.com/dp/B0CGV7GLFL?tag=zoepicks00-20",
-      "now": "46.71",
-      "was": "54.99",
-      "reviews": 2705,
+      "asin": "B0H3L8X6FM",
+      "name": "FEIERDUN Adjustable Dumbbell Set 55 lb Pair",
+      "pct": 31,
+      "rating": 4.6,
+      "t": 1794507876,
+      "img": "https://m.media-amazon.com/images/I/712+VlhtIPL.jpg",
+      "link": "https://www.amazon.com/dp/B0H3L8X6FM?tag=zoepicks00-20",
+      "now": "239.98",
+      "was": "349.99",
+      "deal": "Limited time deal",
+      "reviews": 149,
       "tier": "premium"
      }
     ]
@@ -3389,23 +3644,8 @@
     ]
    },
    {
-    "key": "adjustable-dumbbells",
-    "label": "Adjustable Dumbbells",
-    "items": []
-   },
-   {
     "key": "camping-tents",
     "label": "Camping Tents",
-    "items": []
-   },
-   {
-    "key": "exercise-bikes",
-    "label": "Exercise Bikes",
-    "items": []
-   },
-   {
-    "key": "hiking-backpacks",
-    "label": "Hiking Backpacks",
     "items": []
    },
    {
@@ -3474,6 +3714,20 @@
     "label": "Hammocks",
     "items": [
      {
+      "asin": "B0952SGJK9",
+      "name": "ROOITY Indoor Hammock Double Brazilian",
+      "pct": 32,
+      "rating": 4.6,
+      "t": 1794507929,
+      "img": "https://m.media-amazon.com/images/I/81z84ri92lS.jpg",
+      "link": "https://www.amazon.com/dp/B0952SGJK9?tag=zoepicks00-20",
+      "now": "15.19",
+      "was": "22.39",
+      "deal": "Limited time deal",
+      "reviews": 334,
+      "tier": "budget"
+     },
+     {
       "asin": "B0C64N8HQJ",
       "name": "MOSFiATA Hammocks Portable Camping Hammock Upgraded 550lb…",
       "pct": 50,
@@ -3482,7 +3736,21 @@
       "img": "https://m.media-amazon.com/images/I/81rwZ-MfUiL.jpg",
       "link": "https://www.amazon.com/dp/B0C64N8HQJ?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
+      "tier": "mid"
+     },
+     {
+      "asin": "B0G476CQPN",
+      "name": "SONGMICS Quilted Double Hammock",
+      "pct": 33,
+      "rating": 4.3,
+      "t": 1794507929,
+      "img": "https://m.media-amazon.com/images/I/71WJ8arSUDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G476CQPN?tag=zoepicks00-20",
+      "now": "39.98",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 666,
+      "tier": "premium"
      }
     ]
    },
@@ -3539,6 +3807,19 @@
     "label": "Standing Desks",
     "items": [
      {
+      "asin": "B0HJZ4J2VF",
+      "name": "VASAGLE Standing Desk",
+      "pct": 25,
+      "rating": 4.3,
+      "t": 1794507970,
+      "img": "https://m.media-amazon.com/images/I/71YMaFSL2-L.jpg",
+      "link": "https://www.amazon.com/dp/B0HJZ4J2VF?tag=zoepicks00-20",
+      "now": "105.48",
+      "was": "139.99",
+      "reviews": 1074,
+      "tier": "budget"
+     },
+     {
       "asin": "B0GSZ4H122",
       "name": "Veken 63\"x28\" Wider Large Standing Desk",
       "pct": 32,
@@ -3547,20 +3828,6 @@
       "img": "https://m.media-amazon.com/images/I/71D8M0EB3ZL.jpg",
       "link": "https://www.amazon.com/dp/B0GSZ4H122?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F3318TCC",
-      "name": "Casaottima 63 Inch L Shaped Electric Standing Desk",
-      "pct": 10,
-      "rating": 4.6,
-      "t": 1794420892,
-      "img": "https://m.media-amazon.com/images/I/61OTHWfT2QL.jpg",
-      "link": "https://www.amazon.com/dp/B0F3318TCC?tag=zoepicks00-20",
-      "now": "179.98",
-      "was": "199.99",
-      "deal": "Limited time deal",
-      "reviews": 303,
       "tier": "mid"
      },
      {
@@ -3677,6 +3944,54 @@
   ],
   "gaming": [
    {
+    "key": "gaming-chairs",
+    "label": "Gaming Chairs",
+    "items": [
+     {
+      "asin": "B0HPKD4X28",
+      "name": "N-GEN GAMING Gaming Chair",
+      "pct": 10,
+      "rating": 4.5,
+      "t": 1794507947,
+      "img": "https://m.media-amazon.com/images/I/61ngIMiRgDL.jpg",
+      "link": "https://www.amazon.com/dp/B0HPKD4X28?tag=zoepicks00-20",
+      "now": "84.98",
+      "was": "94.42",
+      "deal": "Limited time deal",
+      "reviews": 4397,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HJGH2KNZ",
+      "name": "Video Gaming Chair",
+      "pct": 67,
+      "rating": 4.6,
+      "t": 1794507947,
+      "img": "https://m.media-amazon.com/images/I/71-IHp2S-1L.jpg",
+      "link": "https://www.amazon.com/dp/B0HJGH2KNZ?tag=zoepicks00-20",
+      "now": "89.99",
+      "was": "269.99",
+      "deal": "Limited time deal",
+      "reviews": 243,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HDSDRXPT",
+      "name": "GTPLAYER Big and Tall Gaming Chair 400lbs Heavy Duty Office…",
+      "pct": 28,
+      "rating": 4.5,
+      "t": 1794507947,
+      "img": "https://m.media-amazon.com/images/I/718kJka5IkL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDSDRXPT?tag=zoepicks00-20",
+      "now": "179.94",
+      "was": "249.99",
+      "deal": "Limited time deal",
+      "reviews": 6683,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "gaming-headsets",
     "label": "Gaming Headsets",
     "items": [
@@ -3730,24 +4045,7 @@
       "now": "49.99",
       "was": "99.99",
       "deal": "Limited time deal",
-      "reviews": 1365,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "gaming-chairs",
-    "label": "Gaming Chairs",
-    "items": [
-     {
-      "asin": "B08B12P6CS",
-      "name": "GTPLAYER Gaming Chair",
-      "pct": 41,
-      "rating": 4.4,
-      "t": 1794466841,
-      "img": "https://m.media-amazon.com/images/I/61phC8Ix9bL.jpg",
-      "link": "https://www.amazon.com/dp/B08B12P6CS?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 1365
      }
     ]
    },
@@ -3826,6 +4124,52 @@
       "was": "49.99",
       "deal": "Limited time deal",
       "reviews": 1900,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "gaming-desks",
+    "label": "Gaming Desks",
+    "items": [
+     {
+      "asin": "B0HKNGNNMS",
+      "name": "OLIXIS 47.2 Inch L Shaped Gaming Desk",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1794507970,
+      "img": "https://m.media-amazon.com/images/I/81VYfjLoZZL.jpg",
+      "link": "https://www.amazon.com/dp/B0HKNGNNMS?tag=zoepicks00-20",
+      "now": "67.98",
+      "was": "79.99",
+      "reviews": 275,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HN6QX9GV",
+      "name": "DUMOS 59” Reversible Gaming Computer Desk",
+      "pct": 22,
+      "rating": 4.6,
+      "t": 1794507970,
+      "img": "https://m.media-amazon.com/images/I/81tgiESHb5L.jpg",
+      "link": "https://www.amazon.com/dp/B0HN6QX9GV?tag=zoepicks00-20",
+      "now": "69.98",
+      "was": "89.99",
+      "deal": "Early Black Friday deal",
+      "reviews": 459,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HJZ4J2VF",
+      "name": "VASAGLE Standing Desk",
+      "pct": 25,
+      "rating": 4.3,
+      "t": 1794507970,
+      "img": "https://m.media-amazon.com/images/I/71YMaFSL2-L.jpg",
+      "link": "https://www.amazon.com/dp/B0HJZ4J2VF?tag=zoepicks00-20",
+      "now": "105.48",
+      "was": "139.99",
+      "reviews": 1074,
       "tier": "premium"
      }
     ]
@@ -3940,11 +4284,6 @@
    {
     "key": "game-controller",
     "label": "Game Controller",
-    "items": []
-   },
-   {
-    "key": "gaming-desks",
-    "label": "Gaming Desks",
     "items": []
    },
    {
@@ -4235,17 +4574,17 @@
     "label": "Vacuums",
     "items": [
      {
-      "asin": "B0DSJN71FS",
-      "name": "ZKIRON Compact Handheld Vacuum Sealer",
-      "pct": 50,
-      "rating": 4.3,
-      "t": 1794503319,
-      "img": "https://m.media-amazon.com/images/I/718WNURS+cL.jpg",
-      "link": "https://www.amazon.com/dp/B0DSJN71FS?tag=zoepicks00-20",
-      "now": "13.96",
-      "was": "27.92",
-      "deal": "Limited time deal",
-      "reviews": 131,
+      "asin": "B092MXJFNS",
+      "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+      "pct": 54,
+      "rating": 4.6,
+      "t": 1794507914,
+      "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+      "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "28.49",
+      "deal": "Early Black Friday deal",
+      "reviews": 9968,
       "tier": "budget"
      },
      {
@@ -4681,6 +5020,20 @@
     "label": "Pillows",
     "items": [
      {
+      "asin": "B0G476CQPN",
+      "name": "SONGMICS Quilted Double Hammock",
+      "pct": 33,
+      "rating": 4.3,
+      "t": 1794507929,
+      "img": "https://m.media-amazon.com/images/I/71WJ8arSUDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G476CQPN?tag=zoepicks00-20",
+      "now": "39.98",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 666,
+      "tier": "premium"
+     },
+     {
       "asin": "B074C9F45S",
       "name": "Lumbar Support Pillow",
       "pct": 31,
@@ -4948,6 +5301,50 @@
   ],
   "mobiles": [
    {
+    "key": "fitness-trackers",
+    "label": "Fitness Trackers",
+    "items": [
+     {
+      "asin": "B0HL84W23P",
+      "name": "Smart Watches for Women Android iPhone(Answer/Make Calls)",
+      "pct": 80,
+      "rating": 4.9,
+      "t": 1794507798,
+      "img": "https://m.media-amazon.com/images/I/81AlJk7vftL.jpg",
+      "link": "https://www.amazon.com/dp/B0HL84W23P?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "149.95",
+      "deal": "Limited time deal",
+      "reviews": 78,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H6BKZLKJ",
+      "name": "taopodo Smart Watches",
+      "pct": 64,
+      "rating": 4.7,
+      "t": 1794503564,
+      "img": "https://m.media-amazon.com/images/I/81y-JevfrhL.jpg",
+      "link": "https://www.amazon.com/dp/B0H6BKZLKJ?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "99.99",
+      "reviews": 98,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HKN6WY5X",
+      "name": "Smart Watch Fitness Tracker",
+      "pct": 50,
+      "rating": 5.0,
+      "t": 1794464355,
+      "img": "https://m.media-amazon.com/images/I/61xf+Solg0L.jpg",
+      "link": "https://www.amazon.com/dp/B0HKN6WY5X?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "smartwatch",
     "label": "Smartwatch",
     "items": [
@@ -4991,50 +5388,6 @@
       "was": "44.99",
       "deal": "Limited time deal",
       "reviews": 802,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "fitness-trackers",
-    "label": "Fitness Trackers",
-    "items": [
-     {
-      "asin": "B0HFW4CSGF",
-      "name": "Smart Watch for Men Women",
-      "pct": 79,
-      "rating": 4.8,
-      "t": 1794503564,
-      "img": "https://m.media-amazon.com/images/I/71Yn8Jwn3xL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFW4CSGF?tag=zoepicks00-20",
-      "now": "20.98",
-      "was": "99.98",
-      "deal": "Limited time deal",
-      "reviews": 69,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H6BKZLKJ",
-      "name": "taopodo Smart Watches",
-      "pct": 64,
-      "rating": 4.7,
-      "t": 1794503564,
-      "img": "https://m.media-amazon.com/images/I/81y-JevfrhL.jpg",
-      "link": "https://www.amazon.com/dp/B0H6BKZLKJ?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "99.99",
-      "reviews": 98,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HKN6WY5X",
-      "name": "Smart Watch Fitness Tracker",
-      "pct": 50,
-      "rating": 5.0,
-      "t": 1794464355,
-      "img": "https://m.media-amazon.com/images/I/61xf+Solg0L.jpg",
-      "link": "https://www.amazon.com/dp/B0HKN6WY5X?tag=zoepicks00-20",
-      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -5149,8 +5502,7 @@
       "now": "39.89",
       "was": "46.93",
       "deal": "Limited time deal",
-      "reviews": 295,
-      "tier": "premium"
+      "reviews": 295
      }
     ]
    }
@@ -5709,6 +6061,24 @@
     ]
    },
    {
+    "key": "imac",
+    "label": "Imac",
+    "items": [
+     {
+      "asin": "B0DL6NCGNC",
+      "name": "Apple 2024 iMac All-in-One Desktop Computer",
+      "pct": 13,
+      "rating": 4.8,
+      "t": 1794507703,
+      "img": "https://m.media-amazon.com/images/I/710VJPOatmL.jpg",
+      "link": "https://www.amazon.com/dp/B0DL6NCGNC?tag=zoepicks00-20",
+      "now": "1,649.00",
+      "was": "1,899.00",
+      "reviews": 228
+     }
+    ]
+   },
+   {
     "key": "carpet-stain-remover",
     "label": "Carpet Stain Remover",
     "items": []
@@ -5751,11 +6121,6 @@
    {
     "key": "washing-machine",
     "label": "Washing Machine",
-    "items": []
-   },
-   {
-    "key": "imac",
-    "label": "Imac",
     "items": []
    }
   ],
@@ -6168,12 +6533,11 @@
       "name": "[Netflix Included] VOPLLS Smart Mini Projector WiFi 6 &…",
       "pct": 50,
       "rating": 4.8,
-      "t": 1794503920,
+      "t": 1794512227,
       "img": "https://m.media-amazon.com/images/I/71nYLChG87L.jpg",
       "link": "https://www.amazon.com/dp/B0HJ5YRRJM?tag=zoepicks00-20",
       "now": "139.99",
       "was": "279.99",
-      "deal": "Limited time deal",
       "reviews": 66,
       "tier": "mid"
      },
@@ -6198,17 +6562,17 @@
     "label": "4K TVs",
     "items": [
      {
-      "asin": "B0GWQMMFSF",
-      "name": "TV Antenna for Smart TV Indoor,TV Antenna",
-      "pct": 32,
-      "rating": 4.1,
+      "asin": "B0FDQFZ6HM",
+      "name": "HAPPRUN 1500 ANSI Official Licensed Google TV Outdoor 4K…",
+      "pct": 36,
+      "rating": 4.4,
       "t": 1794503920,
-      "img": "https://m.media-amazon.com/images/I/71fT5M-4PFL.jpg",
-      "link": "https://www.amazon.com/dp/B0GWQMMFSF?tag=zoepicks00-20",
-      "now": "19.79",
-      "was": "29.00",
+      "img": "https://m.media-amazon.com/images/I/71PxH37BZ+L.jpg",
+      "link": "https://www.amazon.com/dp/B0FDQFZ6HM?tag=zoepicks00-20",
+      "now": "250.68",
+      "was": "389.99",
       "deal": "Limited time deal",
-      "reviews": 26046,
+      "reviews": 326,
       "tier": "budget"
      },
      {
@@ -6226,17 +6590,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0H719VQGF",
-      "name": "【Flagship Google TV & Ultra-Lumens】4K Outdoor Projector…",
-      "pct": 40,
-      "rating": 4.3,
+      "asin": "B0H3NHLCJ3",
+      "name": "HAPPRUN 2500 ANSI Google TV Built-in Smart Movie Projector",
+      "pct": 33,
+      "rating": 4.9,
       "t": 1794503920,
-      "img": "https://m.media-amazon.com/images/I/71qZmucObkL.jpg",
-      "link": "https://www.amazon.com/dp/B0H719VQGF?tag=zoepicks00-20",
-      "now": "299.99",
-      "was": "499.99",
+      "img": "https://m.media-amazon.com/images/I/713kLZJgXpL.jpg",
+      "link": "https://www.amazon.com/dp/B0H3NHLCJ3?tag=zoepicks00-20",
+      "now": "399.96",
+      "was": "599.99",
       "deal": "Limited time deal",
-      "reviews": 3470,
+      "reviews": 55,
       "tier": "premium"
      }
     ]
@@ -6510,7 +6874,7 @@
       "name": "4K Dash Cam Front and Rear",
       "pct": 30,
       "rating": 4.6,
-      "t": 1794504492,
+      "t": 1794510403,
       "img": "https://m.media-amazon.com/images/I/81QNc4AsVNL.jpg",
       "link": "https://www.amazon.com/dp/B0GX692JCS?tag=zoepicks00-20",
       "now": "109.99",
