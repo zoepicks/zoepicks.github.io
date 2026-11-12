@@ -10479,9 +10479,25 @@
   },
   "other:18v-battery": {
    "label": "18v Battery",
-   "tries": 12,
-   "items": [],
-   "scanned": "2026-11-10T02:59:20.088488+00:00"
+   "tries": 13,
+   "items": [
+    {
+     "asin": "B08WHC52B9",
+     "name": "Bosch GBA18V120 18V CORE18V® Lithium-Ion 12 Ah High Power…",
+     "pct": 21,
+     "rating": 4.7,
+     "t": 1794451014,
+     "img": "https://m.media-amazon.com/images/I/51-1FJQqHfL.jpg",
+     "link": "https://www.amazon.com/dp/B08WHC52B9?tag=zoepicks00-20",
+     "now": "189.00",
+     "was": "239.00",
+     "deal": "Limited time deal",
+     "reviews": 205,
+     "_title": "Bosch GBA18V120 18V CORE18V® Lithium-Ion 12 Ah High Power Battery | CoolPack heat management, charge-status indicator, hig...",
+     "_price": 189.0
+    }
+   ],
+   "scanned": "2026-11-12T02:36:54.233040+00:00"
   },
   "fashion:leggings": {
    "label": "Leggings",
