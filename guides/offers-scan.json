@@ -5802,24 +5802,9 @@
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
-   "tries": 22,
-   "items": [
-    {
-     "asin": "B09BZZ3MM7",
-     "name": "Amazon Fire TV Cube",
-     "pct": 45,
-     "rating": 4.4,
-     "t": 1794329670,
-     "img": "https://m.media-amazon.com/images/I/61CvilMENWL.jpg",
-     "link": "https://www.amazon.com/dp/B09BZZ3MM7?tag=zoepicks00-20",
-     "now": "109.99",
-     "was": "199.99",
-     "reviews": 16177,
-     "_title": "Amazon Fire TV Cube, with AI-powered Fire TV Search, Hands-free streaming device, find shows faster with Alexa+, Wi-Fi 6E,...",
-     "_price": 109.99
-    }
-   ],
-   "scanned": "2026-11-10T16:54:30.325284+00:00",
+   "tries": 23,
+   "items": [],
+   "scanned": "2026-11-12T17:45:07.861357+00:00",
    "via": "sweep"
   },
   "tools_auto:obd2-scanners": {
