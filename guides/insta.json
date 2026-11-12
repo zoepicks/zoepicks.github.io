@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-12T07:13:36Z",
+ "updated": "2026-11-12T09:13:44Z",
  "cats": [
   {
    "key": "fashion",
@@ -78,18 +78,6 @@
   ],
   "home": [
    {
-    "asin": "B0FLMGNBQR",
-    "name": "Chefman Obliterator 48 oz Countertop Blender",
-    "pct": 47,
-    "rating": 4.6,
-    "t": 1794341662,
-    "img": "https://m.media-amazon.com/images/I/71r9QmLW7iL.jpg",
-    "link": "https://www.amazon.com/dp/B0FLMGNBQR?tag=zoepicks00-20",
-    "now": "79.76",
-    "was": "149.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0H98XDVTK",
     "name": "Compct Vacuum Sealer",
     "pct": 42,
@@ -99,18 +87,6 @@
     "link": "https://www.amazon.com/dp/B0H98XDVTK?tag=zoepicks00-20",
     "now": "49.99",
     "was": "85.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0CR694KQJ",
-    "name": "Himeet Queen Comforter Set",
-    "pct": 37,
-    "rating": 4.5,
-    "t": 1794341649,
-    "img": "https://m.media-amazon.com/images/I/71Jm7YNsqCL.jpg",
-    "link": "https://www.amazon.com/dp/B0CR694KQJ?tag=zoepicks00-20",
-    "now": "26.98",
-    "was": "42.99",
     "cat": "home"
    },
    {
@@ -126,18 +102,6 @@
     "cat": "home"
    },
    {
-    "asin": "B0DQWC47JN",
-    "name": "De'Longhi Classic Signature Espresso Machine",
-    "pct": 35,
-    "rating": 4.4,
-    "t": 1794341669,
-    "img": "https://m.media-amazon.com/images/I/71yCSb0v5fL.jpg",
-    "link": "https://www.amazon.com/dp/B0DQWC47JN?tag=zoepicks00-20",
-    "now": "149.95",
-    "was": "229.95",
-    "cat": "home"
-   },
-   {
     "asin": "B074C9F45S",
     "name": "Lumbar Support Pillow",
     "pct": 31,
@@ -150,23 +114,11 @@
     "cat": "home"
    },
    {
-    "asin": "B09SHT43GV",
-    "name": "Bedsure Comforter Set Queen Size",
-    "pct": 29,
-    "rating": 4.6,
-    "t": 1794340737,
-    "img": "https://m.media-amazon.com/images/I/91Kti4GcqUL.jpg",
-    "link": "https://www.amazon.com/dp/B09SHT43GV?tag=zoepicks00-20",
-    "now": "49.98",
-    "was": "69.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0FR3QM75P",
     "name": "Plateful VacuFresh Vacuum Sealer",
     "pct": 29,
     "rating": 4.5,
-    "t": 1794392256,
+    "t": 1794467761,
     "img": "https://m.media-amazon.com/images/I/61lv6utxgfL.jpg",
     "link": "https://www.amazon.com/dp/B0FR3QM75P?tag=zoepicks00-20",
     "now": "49.98",
@@ -198,18 +150,6 @@
     "cat": "home"
    },
    {
-    "asin": "B07341Q7T7",
-    "name": "YnM Exclusive Weighted Blanket",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1794340729,
-    "img": "https://m.media-amazon.com/images/I/71jT6EJpwmL.jpg",
-    "link": "https://www.amazon.com/dp/B07341Q7T7?tag=zoepicks00-20",
-    "now": "44.98",
-    "was": "59.90",
-    "cat": "home"
-   },
-   {
     "asin": "B0H3FJD6MX",
     "name": "UFJEG 2PCS Large Stainless Steel Cutting Boards",
     "pct": 24,
@@ -231,6 +171,30 @@
     "link": "https://www.amazon.com/dp/B0FN44NCTQ?tag=zoepicks00-20",
     "now": "43.98",
     "was": "58.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0DFWGQQJL",
+    "name": "3 in 1 Electric Sandwich Maker",
+    "pct": 20,
+    "rating": 4.0,
+    "t": 1794469621,
+    "img": "https://m.media-amazon.com/images/I/81JQDdJthTL.jpg",
+    "link": "https://www.amazon.com/dp/B0DFWGQQJL?tag=zoepicks00-20",
+    "now": "31.98",
+    "was": "39.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0BCPR4CBH",
+    "name": "Amazon Basics 2-Slice Waffle Maker",
+    "pct": 20,
+    "rating": 4.0,
+    "t": 1794469626,
+    "img": "https://m.media-amazon.com/images/I/61TKZjv8g0L.jpg",
+    "link": "https://www.amazon.com/dp/B0BCPR4CBH?tag=zoepicks00-20",
+    "now": "12.76",
+    "was": "15.99",
     "cat": "home"
    }
   ],
