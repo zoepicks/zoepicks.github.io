@@ -5,11 +5,6 @@
 [collect] tavily key ...UJ3k 432 (limit/invalid) -> skipped for this run, 1 key(s) left
 [collect] tavily key ...sv86 432 (limit/invalid) -> skipped for this run, 0 key(s) left
 [collect] tavily multi fail all Tavily keys exhausted
-[collect] ddg fail nytimes.com/wirecutter HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=30)
-[collect] ddg fail rtings.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=30)
-[collect] ddg fail cnet.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=30)
-[collect] ddg fail pcmag.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Read timed out. (read timeout=30)
-[collect] ddg fail tomsguide.com ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
