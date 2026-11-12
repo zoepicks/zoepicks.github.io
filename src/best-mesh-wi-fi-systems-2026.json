@@ -41,12 +41,12 @@
    "asin": "B08ZK2BHP2",
    "image": "https://m.media-amazon.com/images/I/410xC44FlWL.jpg",
    "image_asin": "B08ZK2BHP2",
-   "amazon_price": "$299.99",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$199.99",
+   "amazon_price_asof": "Nov 11, 2026",
    "amazon_listing": "Amazon eero 6+ mesh wifi system - Supports internet plans up to a Gigabit, Coverage up to ",
    "amazon_rating": "4.4",
-   "amazon_reviews": 10611,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 10621,
+   "amazon_rating_asof": "Nov 11, 2026"
   },
   {
    "name": "TP-Link Deco BE23 BE3600",
@@ -78,12 +78,12 @@
    "asin": "B0F9KX2598",
    "image": "https://m.media-amazon.com/images/I/51Mv2fgwegL.jpg",
    "image_asin": "B0F9KX2598",
-   "amazon_price": "$21.59",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$22.79",
+   "amazon_price_asof": "Nov 11, 2026",
    "amazon_listing": "SURVADV® Wall Mount Holder for TP-Link Deco BE23 BE25 WiFi 7 Router 2-Pack | Fits Deco BE3",
    "amazon_rating": "4.6",
-   "amazon_reviews": 166,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 170,
+   "amazon_rating_asof": "Nov 11, 2026"
   },
   {
    "name": "TP-Link Deco S4",
@@ -108,11 +108,11 @@
    "image": "https://m.media-amazon.com/images/I/614CaSPw+BS.jpg",
    "image_asin": "B084GTH5LL",
    "amazon_price": "$95.96",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price_asof": "Nov 11, 2026",
    "amazon_listing": "TP-Link Deco S4 Mesh AC1900 WiFi System, Deco S4(3-Pack) | Up to 5,500 Sq.ft. Coverage, Re",
    "amazon_rating": "4.5",
-   "amazon_reviews": 29606,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 25980,
+   "amazon_rating_asof": "Nov 11, 2026"
   },
   {
    "name": "Bose Home Theater Set",
@@ -148,7 +148,10 @@
    "link": "https://www.amazon.com/s?k=Bose+Home+Theater+Set&tag=zoepicks00-20",
    "tabs": [
     "home-theater"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 11, 2026",
+   "fill_failed": false
   },
   {
    "name": "Vizio 2.1 Soundbar (SV210M)",
@@ -181,7 +184,10 @@
    "link": "https://www.amazon.com/s?k=Vizio+2.1+Soundbar+%28SV210M%29&tag=zoepicks00-20",
    "tabs": [
     "home-theater"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 11, 2026",
+   "fill_failed": false
   }
  ],
  "tabs": [
