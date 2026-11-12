@@ -861,19 +861,19 @@
   },
   "laptops:macbooks": {
    "label": "MacBooks",
-   "tries": 21,
+   "tries": 22,
    "items": [
     {
      "asin": "B0GR1JTFP8",
      "name": "Apple 2026 MacBook Air 13-inch Laptop",
      "pct": 15,
      "rating": 4.7,
-     "t": 1794330714,
+     "t": 1794505652,
      "img": "https://m.media-amazon.com/images/I/71pkfQGcMKL.jpg",
      "link": "https://www.amazon.com/dp/B0GR1JTFP8?tag=zoepicks00-20",
      "now": "1,099.99",
      "was": "1,299.00",
-     "reviews": 1369,
+     "reviews": 1382,
      "_title": "Apple 2026 MacBook Air 13-inch Laptop with M5 chip: Built for AI, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 51...",
      "_price": 1099.99
     },
@@ -882,17 +882,31 @@
      "name": "Apple 2026 MacBook Air 15-inch Laptop",
      "pct": 13,
      "rating": 4.7,
-     "t": 1794330714,
+     "t": 1794505652,
      "img": "https://m.media-amazon.com/images/I/71N5EbSaQqL.jpg",
      "link": "https://www.amazon.com/dp/B0GR114BV7?tag=zoepicks00-20",
      "now": "1,299.99",
      "was": "1,499.00",
-     "reviews": 797,
+     "reviews": 809,
      "_title": "Apple 2026 MacBook Air 15-inch Laptop with M5 chip: Built for AI, 15.3-inch Liquid Retina Display, 16GB Unified Memory, 51...",
      "_price": 1299.99
+    },
+    {
+     "asin": "B0FWD623D1",
+     "name": "Apple 2025 MacBook Pro Laptop",
+     "pct": 10,
+     "rating": 4.7,
+     "t": 1794505652,
+     "img": "https://m.media-amazon.com/images/I/6112T6g2P-L.jpg",
+     "link": "https://www.amazon.com/dp/B0FWD623D1?tag=zoepicks00-20",
+     "now": "1,799.00",
+     "was": "1,999.00",
+     "reviews": 357,
+     "_title": "Apple 2025 MacBook Pro Laptop with Apple M5 chip with 10‑core CPU and 10‑core GPU: Built for AI, 14.2-inch Liquid Retina X...",
+     "_price": 1799.0
     }
    ],
-   "scanned": "2026-11-10T17:11:54.362560+00:00",
+   "scanned": "2026-11-12T17:47:32.924470+00:00",
    "via": "sweep"
   },
   "mobiles:iphones": {
