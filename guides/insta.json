@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-11T23:13:04Z",
+ "updated": "2026-11-12T05:00:19Z",
  "cats": [
   {
    "key": "fashion",
@@ -38,7 +38,20 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [],
+  "beauty": [
+   {
+    "asin": "B0GNTLR45X",
+    "name": "Maybelline Lash Sensational Sky Tubes Tubing Mascara",
+    "pct": 23,
+    "rating": 4.3,
+    "t": 1794457441,
+    "img": "https://m.media-amazon.com/images/I/81gmj7reVNL.jpg",
+    "link": "https://www.amazon.com/dp/B0GNTLR45X?tag=zoepicks00-20",
+    "now": "10.82",
+    "was": "47.04",
+    "cat": "beauty"
+   }
+  ],
   "home": [
    {
     "asin": "B0FLMGNBQR",
