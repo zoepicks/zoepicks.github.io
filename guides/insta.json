@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-12T05:13:26Z",
+ "updated": "2026-11-12T07:13:36Z",
  "cats": [
   {
    "key": "fashion",
@@ -49,6 +49,18 @@
     "link": "https://www.amazon.com/dp/B0GNTLR45X?tag=zoepicks00-20",
     "now": "10.82",
     "was": "47.04",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B06XF2TR11",
+    "name": "L'Oreal Paris Makeup Voluminous Lash Paradise Mascara",
+    "pct": 22,
+    "rating": 4.4,
+    "t": 1794466794,
+    "img": "https://m.media-amazon.com/images/I/61j-EM7VW8L.jpg",
+    "link": "https://www.amazon.com/dp/B06XF2TR11?tag=zoepicks00-20",
+    "now": "10.97",
+    "was": "13.99",
     "cat": "beauty"
    },
    {
@@ -102,6 +114,18 @@
     "cat": "home"
    },
    {
+    "asin": "B0H1DBTXFP",
+    "name": "98kPa Smart Vacuum Sealer",
+    "pct": 35,
+    "rating": 4.7,
+    "t": 1794465842,
+    "img": "https://m.media-amazon.com/images/I/7102mbNt7mL.jpg",
+    "link": "https://www.amazon.com/dp/B0H1DBTXFP?tag=zoepicks00-20",
+    "now": "149.99",
+    "was": "229.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0DQWC47JN",
     "name": "De'Longhi Classic Signature Espresso Machine",
     "pct": 35,
@@ -133,6 +157,18 @@
     "t": 1794340737,
     "img": "https://m.media-amazon.com/images/I/91Kti4GcqUL.jpg",
     "link": "https://www.amazon.com/dp/B09SHT43GV?tag=zoepicks00-20",
+    "now": "49.98",
+    "was": "69.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FR3QM75P",
+    "name": "Plateful VacuFresh Vacuum Sealer",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1794392256,
+    "img": "https://m.media-amazon.com/images/I/61lv6utxgfL.jpg",
+    "link": "https://www.amazon.com/dp/B0FR3QM75P?tag=zoepicks00-20",
     "now": "49.98",
     "was": "69.99",
     "cat": "home"
