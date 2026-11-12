@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-12T09:13:44Z",
+ "updated": "2026-11-12T11:13:53Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,6 +26,30 @@
  "items": {
   "fashion": [
    {
+    "asin": "B0D4R9ZSTX",
+    "name": "Guess Women's Loven Sneaker",
+    "pct": 50,
+    "rating": 4.6,
+    "t": 1794477553,
+    "img": "https://m.media-amazon.com/images/I/71yRCmtMxZL.jpg",
+    "link": "https://www.amazon.com/dp/B0D4R9ZSTX?tag=zoepicks00-20",
+    "now": "58.50",
+    "was": "65.00",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DWNK1Q56",
+    "name": "Calvin Klein womens Edhen",
+    "pct": 40,
+    "rating": 4.6,
+    "t": 1794476252,
+    "img": "https://m.media-amazon.com/images/I/51Q1Zj5eD+L.jpg",
+    "link": "https://www.amazon.com/dp/B0DWNK1Q56?tag=zoepicks00-20",
+    "now": "41.40",
+    "was": "69.00",
+    "cat": "fashion"
+   },
+   {
     "asin": "B0D77Z2TC1",
     "name": "WANDER+® Anti Theft Crossbody Travel Bag",
     "pct": 39,
@@ -35,6 +59,126 @@
     "link": "https://www.amazon.com/dp/B0D77Z2TC1?tag=zoepicks00-20",
     "now": "30.59",
     "was": "49.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DNYVP8R8",
+    "name": "Womens Walking Shoes Comfortable Wide Diabetic Shoes…",
+    "pct": 38,
+    "rating": 4.2,
+    "t": 1794481877,
+    "img": "https://m.media-amazon.com/images/I/7117wPkgW2L.jpg",
+    "link": "https://www.amazon.com/dp/B0DNYVP8R8?tag=zoepicks00-20",
+    "now": "21.71",
+    "was": "36.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0F6RJL1W1",
+    "name": "Project Cloud 100% Genuine Leather Loafers",
+    "pct": 38,
+    "rating": 4.0,
+    "t": 1794476240,
+    "img": "https://m.media-amazon.com/images/I/71srYipJyCL.jpg",
+    "link": "https://www.amazon.com/dp/B0F6RJL1W1?tag=zoepicks00-20",
+    "now": "49.90",
+    "was": "79.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0FTWSS4KP",
+    "name": "Skechers Women's Glide-Step Sole Sneaker",
+    "pct": 32,
+    "rating": 4.6,
+    "t": 1794479986,
+    "img": "https://m.media-amazon.com/images/I/81E95GT2XsL.jpg",
+    "link": "https://www.amazon.com/dp/B0FTWSS4KP?tag=zoepicks00-20",
+    "now": "65.00",
+    "was": "95.00",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B075P915WN",
+    "name": "CUSHIONAIRE Lane Cork Slide Women's Sandals",
+    "pct": 30,
+    "rating": 4.5,
+    "t": 1794481870,
+    "img": "https://m.media-amazon.com/images/I/81suZ76XHpL.jpg",
+    "link": "https://www.amazon.com/dp/B075P915WN?tag=zoepicks00-20",
+    "now": "33.23",
+    "was": "49.95",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0D2HLWC3B",
+    "name": "Stratuxx Kaze Women's Open Toe Flat Dress Slide Sandals",
+    "pct": 30,
+    "rating": 4.4,
+    "t": 1794480000,
+    "img": "https://m.media-amazon.com/images/I/61eJ1aM2czL.jpg",
+    "link": "https://www.amazon.com/dp/B0D2HLWC3B?tag=zoepicks00-20",
+    "now": "22.99",
+    "was": "32.79",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0FPCT515S",
+    "name": "LOVEVOOK Purses for Women,Leather Tote Purse and…",
+    "pct": 27,
+    "rating": 4.6,
+    "t": 1794418756,
+    "img": "https://m.media-amazon.com/images/I/71wEdyBpebL.jpg",
+    "link": "https://www.amazon.com/dp/B0FPCT515S?tag=zoepicks00-20",
+    "now": "28.48",
+    "was": "38.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0GSPBL3C8",
+    "name": "Puma Womens 31147104",
+    "pct": 25,
+    "rating": 4.4,
+    "t": 1794475304,
+    "img": "https://m.media-amazon.com/images/I/61tZaNLUKLL.jpg",
+    "link": "https://www.amazon.com/dp/B0GSPBL3C8?tag=zoepicks00-20",
+    "now": "47.25",
+    "was": "63.00",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DP8BPVCF",
+    "name": "WHITIN Women's Wide Toe Box Running Shoes",
+    "pct": 23,
+    "rating": 4.2,
+    "t": 1794475290,
+    "img": "https://m.media-amazon.com/images/I/61iUUNZxA6L.jpg",
+    "link": "https://www.amazon.com/dp/B0DP8BPVCF?tag=zoepicks00-20",
+    "now": "45.99",
+    "was": "59.78",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0CNCL76HB",
+    "name": "DREAM PAIRS Women's Foldable Bowknot Ballet Flats",
+    "pct": 21,
+    "rating": 4.5,
+    "t": 1794477541,
+    "img": "https://m.media-amazon.com/images/I/81PM3NwCSgL.jpg",
+    "link": "https://www.amazon.com/dp/B0CNCL76HB?tag=zoepicks00-20",
+    "now": "21.58",
+    "was": "34.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0CTPXW43F",
+    "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
+    "pct": 20,
+    "rating": 4.3,
+    "t": 1794479054,
+    "img": "https://m.media-amazon.com/images/I/71YAFvflaqL.jpg",
+    "link": "https://www.amazon.com/dp/B0CTPXW43F?tag=zoepicks00-20",
+    "now": "47.99",
+    "was": "59.99",
     "cat": "fashion"
    }
   ],
