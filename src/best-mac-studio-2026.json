@@ -70,9 +70,18 @@
    "best_for": "Professional creators who need power but have a tighter budget",
    "skip_if": "You need the absolute top‑tier specs",
    "link": "https://www.amazon.com/s?k=Apple+Mac+Studio+%28M5+Max%29&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Nov 9, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0HGKSQMX6",
+   "image": "https://m.media-amazon.com/images/I/61de7t9G6sL.jpg",
+   "image_asin": "B0HGKSQMX6",
+   "amazon_price": "$2,299.99",
+   "amazon_price_asof": "Nov 11, 2026",
+   "amazon_listing": "Apple 2026 Mac Studio desktop computer M5 Max chip | A powerful platform for AI, with 18-c",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 17,
+   "amazon_rating_asof": "Nov 11, 2026"
   },
   {
    "name": "Apple Mac Studio (M4 Max)",
@@ -143,8 +152,8 @@
    "best_for": "Users who want strong performance but don’t need the latest M5 features",
    "skip_if": "You want the newest CPU/GPU architecture",
    "link": "https://www.amazon.com/s?k=Apple+Mac+Studio+%28M1+Ultra%29&tag=zoepicks00-20",
-   "fill_tries": 2,
-   "fill_last": "Nov 9, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 11, 2026",
    "fill_failed": false
   }
  ],
