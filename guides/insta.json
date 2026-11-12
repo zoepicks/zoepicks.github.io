@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-12T05:00:19Z",
+ "updated": "2026-11-12T05:13:26Z",
  "cats": [
   {
    "key": "fashion",
@@ -49,6 +49,18 @@
     "link": "https://www.amazon.com/dp/B0GNTLR45X?tag=zoepicks00-20",
     "now": "10.82",
     "was": "47.04",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B0FLKCQ9FV",
+    "name": "MUSICOZY 3D Bluetooth Sleep Mask Headphones",
+    "pct": 20,
+    "rating": 4.3,
+    "t": 1794460186,
+    "img": "https://m.media-amazon.com/images/I/81MMjh+FcuL.jpg",
+    "link": "https://www.amazon.com/dp/B0FLKCQ9FV?tag=zoepicks00-20",
+    "now": "39.97",
+    "was": "49.99",
     "cat": "beauty"
    }
   ],
