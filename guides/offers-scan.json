@@ -6596,25 +6596,55 @@
   },
   "home_kitchen:steam-mop": {
    "label": "Steam Mop",
-   "tries": 12,
+   "tries": 13,
    "items": [
+    {
+     "asin": "B0FLQ68XSW",
+     "name": "Tineco Corded 3-in-1 Wet Dry Vacuum Mop",
+     "pct": 44,
+     "rating": 4.2,
+     "t": 1794505728,
+     "img": "https://m.media-amazon.com/images/I/61YxVL4HTtL.jpg",
+     "link": "https://www.amazon.com/dp/B0FLQ68XSW?tag=zoepicks00-20",
+     "now": "279.00",
+     "was": "499.00",
+     "deal": "Limited time deal",
+     "reviews": 150,
+     "_title": "Tineco Corded 3-in-1 Wet Dry Vacuum Mop with Steam Function, Floor ONE S6 Stretch Steam, BoostSteam, 320℉ High-Temp Steam ...",
+     "_price": 279.0
+    },
     {
      "asin": "B082YPRJV3",
      "name": "BISSELL PowerSteamer Heavy Duty 3-in-1 Steam Mop",
      "pct": 23,
      "rating": 4.2,
-     "t": 1794330807,
+     "t": 1794505728,
      "img": "https://m.media-amazon.com/images/I/81AAroYEuaL.jpg",
      "link": "https://www.amazon.com/dp/B082YPRJV3?tag=zoepicks00-20",
      "now": "149.99",
      "was": "194.99",
      "deal": "Limited time deal",
-     "reviews": 9388,
+     "reviews": 9391,
      "_title": "BISSELL PowerSteamer Heavy Duty 3-in-1 Steam Mop, 2685A | Handheld SteamShot for versatility; works indoor & outdoor; 3-i...",
      "_price": 149.99
+    },
+    {
+     "asin": "B0H1X526LW",
+     "name": "DREAME Aero Ultra Steam Vacuum Mop",
+     "pct": 15,
+     "rating": 4.3,
+     "t": 1794505728,
+     "img": "https://m.media-amazon.com/images/I/61Yuy5vtWFL.jpg",
+     "link": "https://www.amazon.com/dp/B0H1X526LW?tag=zoepicks00-20",
+     "now": "679.98",
+     "was": "799.99",
+     "deal": "Limited time deal",
+     "reviews": 383,
+     "_title": "DREAME Aero Ultra Steam Vacuum Mop, 392℉ Steam, 194℉ Hot Water, FoamWash | Wet Dry Vacuum with 30kPa Suction, 3.88in Slim ...",
+     "_price": 679.98
     }
    ],
-   "scanned": "2026-11-10T17:13:27.636328+00:00"
+   "scanned": "2026-11-12T17:48:48.060163+00:00"
   },
   "home_kitchen:stove-pressure-cooker": {
    "label": "Stove Pressure Cooker",
