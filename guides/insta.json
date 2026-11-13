@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-12T23:14:44Z",
+ "updated": "2026-11-13T01:14:50Z",
  "cats": [
   {
    "key": "fashion",
@@ -294,6 +294,42 @@
   ],
   "home": [
    {
+    "asin": "B0DSJN71FS",
+    "name": "ZKIRON Compact Handheld Vacuum Sealer",
+    "pct": 50,
+    "rating": 4.3,
+    "t": 1794526843,
+    "img": "https://m.media-amazon.com/images/I/718WNURS+cL.jpg",
+    "link": "https://www.amazon.com/dp/B0DSJN71FS?tag=zoepicks00-20",
+    "now": "13.96",
+    "was": "27.92",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FLQ68XSW",
+    "name": "Tineco Corded 3-in-1 Wet Dry Vacuum Mop",
+    "pct": 44,
+    "rating": 4.2,
+    "t": 1794526837,
+    "img": "https://m.media-amazon.com/images/I/61YxVL4HTtL.jpg",
+    "link": "https://www.amazon.com/dp/B0FLQ68XSW?tag=zoepicks00-20",
+    "now": "279.00",
+    "was": "499.00",
+    "cat": "home"
+   },
+   {
+    "asin": "B07VHFMZHJ",
+    "name": "Instant Pot VORTEX Plus 6QT XL Air Fryer",
+    "pct": 40,
+    "rating": 4.5,
+    "t": 1794526822,
+    "img": "https://m.media-amazon.com/images/I/71GPWtT61gL.jpg",
+    "link": "https://www.amazon.com/dp/B07VHFMZHJ?tag=zoepicks00-20",
+    "now": "89.94",
+    "was": "149.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0F83ZRRKM",
     "name": "KOIOS Personal Blender",
     "pct": 40,
@@ -315,6 +351,18 @@
     "link": "https://www.amazon.com/dp/B0H1DBTXFP?tag=zoepicks00-20",
     "now": "149.99",
     "was": "229.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0H386LYBN",
+    "name": "Oster Vortex Plus Glass Blender",
+    "pct": 33,
+    "rating": 4.1,
+    "t": 1794525906,
+    "img": "https://m.media-amazon.com/images/I/61VfN+Pg1yL.jpg",
+    "link": "https://www.amazon.com/dp/B0H386LYBN?tag=zoepicks00-20",
+    "now": "59.99",
+    "was": "89.99",
     "cat": "home"
    },
    {
