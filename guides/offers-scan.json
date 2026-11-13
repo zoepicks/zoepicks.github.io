@@ -11785,24 +11785,38 @@
   },
   "accessories:graphics-card": {
    "label": "Graphics Card",
-   "tries": 5,
+   "tries": 6,
    "items": [
     {
-     "asin": "B0F4RZDFD5",
-     "name": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 Gaming Graphics…",
-     "pct": 5,
-     "rating": 4.7,
-     "t": 1794421031,
-     "img": "https://m.media-amazon.com/images/I/81aN+w8d4GL.jpg",
-     "link": "https://www.amazon.com/dp/B0F4RZDFD5?tag=zoepicks00-20",
+     "asin": "B0F4RVCY79",
+     "name": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Gaming…",
+     "pct": 6,
+     "rating": 4.6,
+     "t": 1794589461,
+     "img": "https://m.media-amazon.com/images/I/81DUf-juX8L.jpg",
+     "link": "https://www.amazon.com/dp/B0F4RVCY79?tag=zoepicks00-20",
      "now": "829.99",
-     "was": "869.99",
-     "reviews": 190,
-     "_title": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 Gaming Graphics Card | PCIe 5.0, HDMI/DP 2.1, 2.5-slot, Axial-tech Fans, Dual BIOS",
+     "was": "879.99",
+     "reviews": 250,
+     "_title": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Gaming Graphics Card | SFF-Ready, PCIe 5.0, HDMI/DP 2.1, 2.5-slot, Ax...",
      "_price": 829.99
+    },
+    {
+     "asin": "B0DRRMZDH6",
+     "name": "ASUS Prime Radeon RX 9070 XT 16GB GDDR6 OC Edition Gaming…",
+     "pct": 5,
+     "rating": 4.6,
+     "t": 1794589461,
+     "img": "https://m.media-amazon.com/images/I/81huTBuLV+L.jpg",
+     "link": "https://www.amazon.com/dp/B0DRRMZDH6?tag=zoepicks00-20",
+     "now": "1,028.00",
+     "was": "1,079.99",
+     "reviews": 699,
+     "_title": "ASUS Prime Radeon RX 9070 XT 16GB GDDR6 OC Edition Gaming Graphics Card | PCIe 5.0, HDMI/DP 2.1, 2.5-Slot, Axial-tech Fan...",
+     "_price": 1028.0
     }
    ],
-   "scanned": "2026-11-11T18:17:11.422255+00:00"
+   "scanned": "2026-11-13T17:04:21.579142+00:00"
   },
   "accessories:keyboard-function-keys": {
    "label": "Keyboard Function Keys",
