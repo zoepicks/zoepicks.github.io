@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-12T21:08:56.667507+00:00",
+ "updated": "2026-11-13T00:11:13.910879+00:00",
  "boots_total": 55,
  "recent_boots_utc": [
   "2026-10-29T04:56:40",
@@ -14,23 +14,17 @@
   "2026-11-06T20:51:38",
   "2026-11-07T07:55:02"
  ],
- "last_run_ts": 1794517734.8841333,
- "last_report_ts": 1794485022.8059645,
+ "last_run_ts": 1794528639.3571026,
+ "last_report_ts": 1794528673.2920992,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 64
+  "low": 37
  },
  "recent_runs": [
-  {
-   "t": "2026-11-11T17:34:25",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-11T20:36:07",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-13T00:10:37",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-12T12:03:42",
-   "what": "Report + Claude brief repo me likhe",
-   "ok": true
-  },
-  {
-   "t": "2026-11-12T15:05:21",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-12T15:05:21",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-11-12T15:05:21",
    "what": "IndexNow: 4 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-11-12T21:08:54",
    "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-13T00:10:39",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-13T00:10:39",
+   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-13T00:11:13",
+   "what": "Report + Claude brief repo me likhe",
    "ok": true
   }
  ]
