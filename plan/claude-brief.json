@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-13T00:10:43.482982+00:00",
+ "generated_at": "2026-11-13T12:37:52.033916+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,9 +10,9 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 37
+   "low": 48
   },
-  "avg_guide_words": 948,
+  "avg_guide_words": 946,
   "todo": [
    {
     "sev": "high",
@@ -51,13 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 2,
+    "count": 13,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-crossbody-bag-2026/",
-     "/g/best-hoodies-2026/"
+     "/g/best-camera-tripod-2026/",
+     "/g/best-3d-printer-kit-2026/",
+     "/g/best-baby-gate-2026/"
     ],
-    "detail": "load 3.5s"
+    "detail": "load 4.3s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -73,24 +74,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-12T18:06:56.605393+00:00",
+    "t": "2026-11-13T06:16:34.612374+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 9,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-12T21:08:52.511188+00:00",
+    "t": "2026-11-13T09:18:10.568132+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 1,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-13T00:10:37.101800+00:00",
+    "t": "2026-11-13T12:20:07.041142+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 3,
+     "http": 200
     }
    }
   ]
@@ -102,12 +103,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-11-06",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-11-07",
     "visitors": 0,
@@ -143,25 +138,31 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-13",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 130,
-   "warn": 7,
+   "info": 93,
+   "warn": 6,
    "error": 0
   },
   "last7d": {
-   "info": 1050,
-   "warn": 50,
+   "info": 984,
+   "warn": 46,
    "error": 2
   },
   "modules_with_errors_7d": [
    {
     "module": "Hot feed (home top discount)",
     "errors": 1,
-    "warnings": 2
+    "warnings": 5
    },
    {
     "module": "Missing topics queue",
@@ -171,41 +172,29 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 48
+    "warnings": 41
    }
   ],
   "collector": {
    "today": {
-    "total": 3,
-    "ok": 0,
-    "failed": 3,
+    "total": 2,
+    "ok": 1,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 380,
-      "at": "2026-11-12T20:38:47Z",
+      "run": 383,
+      "at": "2026-11-13T09:08:05Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43302360940"
-     },
-     {
-      "run": 379,
-      "at": "2026-11-12T14:33:05Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43238352345"
-     },
-     {
-      "run": 378,
-      "at": "2026-11-12T08:32:36Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43183800464"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43398770214"
      }
     ]
    },
    "last7d": {
-    "total": 97,
-    "ok": 39,
-    "failed": 57,
+    "total": 90,
+    "ok": 29,
+    "failed": 60,
     "cancelled": 0,
     "running": 1,
     "failed_runs": [
@@ -274,19 +263,12 @@
   },
   "site_deploys": {
    "today": {
-    "total": 150,
-    "ok": 149,
-    "failed": 1,
+    "total": 74,
+    "ok": 74,
+    "failed": 0,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 3128,
-      "at": "2026-11-12T12:50:35Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43221623932"
-     }
-    ]
+    "failed_runs": []
    },
    "last7d": {
     "total": 300,
@@ -321,19 +303,19 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
    },
    {
     "module": "ZOESEO",
@@ -350,16 +332,26 @@
  "content": {
   "live_guides": 290,
   "missing_topics_by_status": {
-   "queued": 101,
+   "open": 1,
+   "queued": 100,
    "covered": 23,
    "built": 76
   },
   "missing_new": {
-   "today": 0,
-   "d7": 50,
+   "today": 2,
+   "d7": 52,
    "d30": 200
   },
-  "open_topics": []
+  "open_topics": [
+   {
+    "topic": "comic book prints",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794572393",
+    "last_at": "1794572393"
+   }
+  ]
  },
  "search_console": {
   "ok": true,
@@ -517,7 +509,7 @@
    "https://zoepicks.github.io/g/best-plush-toy-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-12T11:45",
+   "last_submitted": "2026-11-13T12:20",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -581,13 +573,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-10-30",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-10-31",
     "indexed": 1,
@@ -678,6 +663,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-13",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -685,7 +677,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-12T11:45",
+    "last_submitted": "2026-11-13T12:20",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -701,8 +693,8 @@
     "live_pages_crawled": 296
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -713,7 +705,7 @@
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
-  "Bot errors (7 din): 3 - recent_problems dekho aur root cause fix karo.",
+  "Bot errors (7 din): 2 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
  ]
