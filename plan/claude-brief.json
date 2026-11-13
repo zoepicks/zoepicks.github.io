@@ -1,18 +1,18 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-12T12:03:11.607856+00:00",
+ "generated_at": "2026-11-13T00:10:43.482982+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
   "score_24h_ago": 94,
   "score_change_24h": 0,
-  "pages": 297,
+  "pages": 296,
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 44
+   "low": 37
   },
-  "avg_guide_words": 950,
+  "avg_guide_words": 948,
   "todo": [
    {
     "sev": "high",
@@ -39,7 +39,7 @@
    {
     "sev": "low",
     "code": "title_length",
-    "count": 17,
+    "count": 16,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
     "example": [
      "/g/best-hiking-backpacks-2026/",
@@ -51,14 +51,13 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 8,
+    "count": 2,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-internal-ssd-2026/",
-     "/g/best-toys-for-3-year-olds-2026/",
-     "/g/best-hiking-boots-2026/"
+     "/g/best-crossbody-bag-2026/",
+     "/g/best-hoodies-2026/"
     ],
-    "detail": "load 3.3s"
+    "detail": "load 3.5s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -66,7 +65,7 @@
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
-   "guides_live": 291,
+   "guides_live": 290,
    "guides_enough_20plus": true,
    "thin_guides": 0,
    "own_domain": false,
@@ -74,24 +73,24 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-12T05:41:48.793049+00:00",
+    "t": "2026-11-12T18:06:56.605393+00:00",
     "indexnow": {
-     "submitted": 1,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-12T08:43:28.562877+00:00",
+    "t": "2026-11-12T21:08:52.511188+00:00",
     "indexnow": {
-     "submitted": 5,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-12T11:45:11.199059+00:00",
+    "t": "2026-11-13T00:10:37.101800+00:00",
     "indexnow": {
-     "submitted": 8,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
@@ -149,13 +148,13 @@
  },
  "bots": {
   "today": {
-   "info": 81,
-   "warn": 3,
+   "info": 130,
+   "warn": 7,
    "error": 0
   },
   "last7d": {
-   "info": 1001,
-   "warn": 46,
+   "info": 1050,
+   "warn": 50,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -172,17 +171,29 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 44
+    "warnings": 48
    }
   ],
   "collector": {
    "today": {
-    "total": 1,
+    "total": 3,
     "ok": 0,
-    "failed": 1,
+    "failed": 3,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 380,
+      "at": "2026-11-12T20:38:47Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43302360940"
+     },
+     {
+      "run": 379,
+      "at": "2026-11-12T14:33:05Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43238352345"
+     },
      {
       "run": 378,
       "at": "2026-11-12T08:32:36Z",
@@ -192,9 +203,9 @@
     ]
    },
    "last7d": {
-    "total": 95,
+    "total": 97,
     "ok": 39,
-    "failed": 55,
+    "failed": 57,
     "cancelled": 0,
     "running": 1,
     "failed_runs": [
@@ -263,20 +274,34 @@
   },
   "site_deploys": {
    "today": {
-    "total": 137,
-    "ok": 137,
-    "failed": 0,
+    "total": 150,
+    "ok": 149,
+    "failed": 1,
     "cancelled": 0,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 3128,
+      "at": "2026-11-12T12:50:35Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43221623932"
+     }
+    ]
    },
    "last7d": {
     "total": 300,
-    "ok": 298,
-    "failed": 0,
+    "ok": 297,
+    "failed": 1,
     "cancelled": 2,
     "running": 0,
-    "failed_runs": []
+    "failed_runs": [
+     {
+      "run": 3128,
+      "at": "2026-11-12T12:50:35Z",
+      "event": "push",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43221623932"
+     }
+    ]
    }
   },
   "recent_problems": [
@@ -301,19 +326,19 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEHOT",
-    "level": "e",
-    "msg": "zoe hot tick error: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/contents/guides/hot."
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEHOT",
+    "module": "ZOESEO",
     "level": "w",
-    "msg": "zoe hot: site offers.json unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io/c"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEHOT",
+    "module": "ZOESEO",
     "level": "w",
-    "msg": "zoe hot: CI essentials rows unavailable: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zoepicks/zoepicks.github.io"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -323,15 +348,15 @@
   ]
  },
  "content": {
-  "live_guides": 291,
+  "live_guides": 290,
   "missing_topics_by_status": {
-   "queued": 100,
+   "queued": 101,
    "covered": 23,
-   "built": 77
+   "built": 76
   },
   "missing_new": {
    "today": 0,
-   "d7": 60,
+   "d7": 50,
    "d30": 200
   },
   "open_topics": []
@@ -671,13 +696,13 @@
    "live": {
     "http": 200,
     "valid_xml": true,
-    "urls": 297,
+    "urls": 296,
     "other_host_urls": 0,
-    "live_pages_crawled": 297
+    "live_pages_crawled": 296
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
