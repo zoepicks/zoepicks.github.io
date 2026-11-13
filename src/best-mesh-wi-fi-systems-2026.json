@@ -149,9 +149,15 @@
    "tabs": [
     "home-theater"
    ],
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Nov 12, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0GWRX8QL7",
+   "image": "https://m.media-amazon.com/images/I/61W8DjDkaoL.jpg",
+   "image_asin": "B0GWRX8QL7",
+   "amazon_price": "$2,296.00",
+   "amazon_price_asof": "Nov 13, 2026",
+   "amazon_listing": "Bose Home Theater Set (1 Lifestyle Ultra Soundbar, 2 Lifestyle Ultra Speakers, & 1 Subwoof"
   },
   {
    "name": "Vizio 2.1 Soundbar (SV210M)",
@@ -185,8 +191,8 @@
    "tabs": [
     "home-theater"
    ],
-   "fill_tries": 2,
-   "fill_last": "Nov 12, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 13, 2026",
    "fill_failed": false
   }
  ],
