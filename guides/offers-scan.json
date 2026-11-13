@@ -11065,19 +11065,34 @@
   },
   "electronics:stereo-system": {
    "label": "Stereo System",
-   "tries": 6,
+   "tries": 7,
    "items": [
+    {
+     "asin": "B0BX8TGZZF",
+     "name": "Daakro AK45 Stereo Audio Amplifier 300W Bluetooth 5.1",
+     "pct": 23,
+     "rating": 4.1,
+     "t": 1794590577,
+     "img": "https://m.media-amazon.com/images/I/71v1Rl3RBUL.jpg",
+     "link": "https://www.amazon.com/dp/B0BX8TGZZF?tag=zoepicks00-20",
+     "now": "30.99",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 3533,
+     "_title": "Daakro AK45 Stereo Audio Amplifier 300W Bluetooth 5.1 | 2 Channel Power Amplifier System, Home Amplifiers FM Radio, USB, S...",
+     "_price": 30.99
+    },
     {
      "asin": "B08PC83J4S",
      "name": "Philips Bluetooth Stereo System",
      "pct": 13,
      "rating": 4.2,
-     "t": 1794448241,
+     "t": 1794590577,
      "img": "https://m.media-amazon.com/images/I/51dlsCumnBL.jpg",
      "link": "https://www.amazon.com/dp/B08PC83J4S?tag=zoepicks00-20",
      "now": "199.99",
      "was": "229.99",
-     "reviews": 5590,
+     "reviews": 5592,
      "_title": "Philips Bluetooth Stereo System for Home with CD Player, Bluetooth 5.4 & Auracast, Upgraded 80W Stereo Sound, MP3, USB, Au...",
      "_price": 199.99
     },
@@ -11086,7 +11101,7 @@
      "name": "Philips Bluetooth & WiFi Stereo System",
      "pct": 10,
      "rating": 4.1,
-     "t": 1794448241,
+     "t": 1794590577,
      "img": "https://m.media-amazon.com/images/I/712lGb9eyUL.jpg",
      "link": "https://www.amazon.com/dp/B0CMJSB1HM?tag=zoepicks00-20",
      "now": "359.99",
@@ -11100,17 +11115,17 @@
      "name": "Compact Stereo System",
      "pct": 9,
      "rating": 4.2,
-     "t": 1794448241,
+     "t": 1794590577,
      "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
      "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
      "now": "85.90",
      "was": "94.80",
-     "reviews": 2191,
+     "reviews": 2194,
      "_title": "Compact Stereo System with CD Player for Home, 30W Crisp-Sound Speakers | LP‑886 Shelf Stereo System with Bluetooth, FM Ra...",
      "_price": 85.9
     }
    ],
-   "scanned": "2026-11-12T01:50:41.776172+00:00"
+   "scanned": "2026-11-13T17:22:57.064275+00:00"
   },
   "gaming:ps5-or-gaming-pc": {
    "label": "Ps5 Or Gaming PC",
