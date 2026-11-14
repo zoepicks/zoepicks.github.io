@@ -3734,33 +3734,33 @@
   },
   "beauty_health:epilators": {
    "label": "Epilators",
-   "tries": 13,
+   "tries": 14,
    "items": [
     {
      "asin": "B0HFJD1V9X",
      "name": "Epilator for Women",
-     "pct": 25,
-     "rating": 4.7,
-     "t": 1794507843,
+     "pct": 33,
+     "rating": 4.6,
+     "t": 1794674578,
      "img": "https://m.media-amazon.com/images/I/613yZsrdz3L.jpg",
      "link": "https://www.amazon.com/dp/B0HFJD1V9X?tag=zoepicks00-20",
-     "now": "29.99",
+     "now": "26.99",
      "was": "39.99",
      "reviews": 45,
      "_title": "Epilator for Women, Cordless Rechargeable Facial Epilator for Hair Removal | 2 Speeds Electric Hair Remover on Face, Legs,...",
-     "_price": 29.99
+     "_price": 26.99
     },
     {
      "asin": "B0GNB94W8G",
      "name": "Philips Epilator Series 8000",
      "pct": 19,
      "rating": 4.2,
-     "t": 1794507843,
+     "t": 1794674578,
      "img": "https://m.media-amazon.com/images/I/71Q4V+cEwyL.jpg",
      "link": "https://www.amazon.com/dp/B0GNB94W8G?tag=zoepicks00-20",
      "now": "64.95",
      "was": "79.99",
-     "reviews": 3407,
+     "reviews": 3410,
      "_title": "Philips Epilator Series 8000 - Cordless Wet and Dry Electric Epilator, Hair Removal for Legs and Body, with ProGuide, 3 Ac...",
      "_price": 64.95
     },
@@ -3769,26 +3769,54 @@
      "name": "Braun Epilator Silk-épil 9",
      "pct": 17,
      "rating": 4.1,
-     "t": 1794507843,
+     "t": 1794674578,
      "img": "https://m.media-amazon.com/images/I/81YhlKrTV8L.jpg",
      "link": "https://www.amazon.com/dp/B0CWJ94SYK?tag=zoepicks00-20",
      "now": "149.99",
      "was": "179.99",
-     "reviews": 764,
+     "reviews": 766,
      "_title": "Braun Epilator Silk-épil 9, Hair Removal Device, Women Shaver & Trimmer, Pivoting Head, Wet and Dry Epilator, Includes Sha...",
      "_price": 149.99
+    },
+    {
+     "asin": "B0FL7DMLGZ",
+     "name": "YHC 2-in-1 Epilator",
+     "pct": 17,
+     "rating": 3.7,
+     "t": 1794674578,
+     "img": "https://m.media-amazon.com/images/I/61XmrytfSpL.jpg",
+     "link": "https://www.amazon.com/dp/B0FL7DMLGZ?tag=zoepicks00-20",
+     "now": "14.99",
+     "was": "17.99",
+     "reviews": 67,
+     "_title": "YHC 2-in-1 Epilator for Women, Cordless Electric Razor for Legs & Body | 2-Speed Epilator for Hair Removal with 32 Tweezer...",
+     "_price": 14.99
+    },
+    {
+     "asin": "B0CWJ8Y85B",
+     "name": "Braun Silk-épil 5 Epilator",
+     "pct": 11,
+     "rating": 4.2,
+     "t": 1794674578,
+     "img": "https://m.media-amazon.com/images/I/71r88T+i06L.jpg",
+     "link": "https://www.amazon.com/dp/B0CWJ8Y85B?tag=zoepicks00-20",
+     "now": "79.97",
+     "was": "89.94",
+     "reviews": 190,
+     "_title": "Braun Silk-épil 5 Epilator, Hair Removal Device, Women Shaver & Trimmer, Wet and Dry, Includes Shaver Head and Trimmer Com...",
+     "_price": 79.97
     },
     {
      "asin": "B0BLGY25RX",
      "name": "VOGOE Epilator for Women-Cordless Epilators Hair Removal",
      "pct": 5,
      "rating": 3.9,
-     "t": 1794507843,
+     "t": 1794674578,
      "img": "https://m.media-amazon.com/images/I/61cDporbyYL.jpg",
      "link": "https://www.amazon.com/dp/B0BLGY25RX?tag=zoepicks00-20",
      "now": "26.09",
      "was": "27.59",
-     "reviews": 3282,
+     "reviews": 3286,
      "_title": "VOGOE Epilator for Women-Cordless Epilators Hair Removal for Body HR310 | 4-in-1 Electric Razor Hair Remover, 21 Tweezers,...",
      "_price": 26.09
     },
@@ -3797,7 +3825,7 @@
      "name": "VOYOR Epilator for Women",
      "pct": 5,
      "rating": 3.7,
-     "t": 1794507843,
+     "t": 1794674578,
      "img": "https://m.media-amazon.com/images/I/61DjgWZwsGL.jpg",
      "link": "https://www.amazon.com/dp/B0C61S3SJY?tag=zoepicks00-20",
      "now": "24.95",
@@ -3807,7 +3835,7 @@
      "_price": 24.95
     }
    ],
-   "scanned": "2026-11-12T18:24:03.616896+00:00"
+   "scanned": "2026-11-14T16:42:58.683326+00:00"
   },
   "beauty_health:men-s-colognes": {
    "label": "Men's Colognes",
