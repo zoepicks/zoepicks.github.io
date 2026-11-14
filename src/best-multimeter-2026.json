@@ -33,7 +33,10 @@
    ],
    "best_for": "Car owners and beginners",
    "skip_if": "You need advanced diagnostics or a clamp meter",
-   "link": "https://www.amazon.com/s?k=Fluke+115+Digital+Multimeter&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Fluke+115+Digital+Multimeter&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 14, 2026",
+   "fill_failed": false
   },
   {
    "name": "AstroAI Digital Multimeter",
@@ -61,7 +64,13 @@
    ],
    "best_for": "Automotive technicians and hobbyists",
    "skip_if": "You need a clamp meter or advanced diagnostics",
-   "link": "https://www.amazon.com/s?k=AstroAI+Digital+Multimeter&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=AstroAI+Digital+Multimeter&tag=zoepicks00-20",
+   "asin": "B071JL6LLL",
+   "image": "https://m.media-amazon.com/images/I/71Ug5K4iFNL.jpg",
+   "image_asin": "B071JL6LLL",
+   "amazon_price": "$33.99",
+   "amazon_price_asof": "Nov 14, 2026",
+   "amazon_listing": "AstroAI Digital Multimeter, True RMS 6000 Counts Auto-Ranging Volt Meter for Automotive & "
   },
   {
    "name": "Klein Tools MM400 Multimeter",
@@ -89,7 +98,10 @@
    ],
    "best_for": "Automotive technicians",
    "skip_if": "You need advanced diagnostics or a clamp meter",
-   "link": "https://www.amazon.com/s?k=Klein+Tools+MM400+Multimeter&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Klein+Tools+MM400+Multimeter&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 14, 2026",
+   "fill_failed": false
   }
  ]
 }
