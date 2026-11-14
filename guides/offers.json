@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-14T09:04:55Z",
+ "updated": "2026-11-14T11:05:16Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -167,16 +167,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0DRNGBFMH",
-    "name": "SKYSPER Small Hiking Backpack",
-    "pct": 26,
-    "rating": 4.5,
-    "t": 1794522237,
-    "img": "https://m.media-amazon.com/images/I/61dXvd35jZL.jpg",
-    "link": "https://www.amazon.com/dp/B0DRNGBFMH?tag=zoepicks00-20",
-    "now": "25.19",
-    "was": "34.19",
-    "reviews": 1321,
+    "asin": "B0GLGQFKFF",
+    "name": "Golabs Pop Up Camping Tent",
+    "pct": 25,
+    "rating": 4.3,
+    "t": 1794531584,
+    "img": "https://m.media-amazon.com/images/I/616qqGMfVeL.jpg",
+    "link": "https://www.amazon.com/dp/B0GLGQFKFF?tag=zoepicks00-20",
+    "now": "32.27",
+    "was": "42.99",
+    "deal": "Early Black Friday deal",
+    "reviews": 311,
     "tier": "mid"
    },
    {
@@ -2976,19 +2977,6 @@
       "link": "https://www.amazon.com/dp/B0DZ68GNDT?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
-     },
-     {
-      "asin": "B0DRNGBFMH",
-      "name": "SKYSPER Small Hiking Backpack",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1794522237,
-      "img": "https://m.media-amazon.com/images/I/61dXvd35jZL.jpg",
-      "link": "https://www.amazon.com/dp/B0DRNGBFMH?tag=zoepicks00-20",
-      "now": "25.19",
-      "was": "34.19",
-      "reviews": 1321,
-      "tier": "mid"
      }
     ]
    },
@@ -3157,36 +3145,6 @@
     ]
    },
    {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B096RTQL7Y",
-      "name": "BJPKPK 40oz Insulated Water Bottle",
-      "pct": 29,
-      "rating": 4.5,
-      "t": 1794518605,
-      "img": "https://m.media-amazon.com/images/I/61QkbojzZ8L.jpg",
-      "link": "https://www.amazon.com/dp/B096RTQL7Y?tag=zoepicks00-20",
-      "now": "13.44",
-      "was": "18.99",
-      "reviews": 11890
-     },
-     {
-      "asin": "B093CM99GL",
-      "name": "Coldest Insulated Water Bottle",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1794634378,
-      "img": "https://m.media-amazon.com/images/I/61SLs5TFGRL.jpg",
-      "link": "https://www.amazon.com/dp/B093CM99GL?tag=zoepicks00-20",
-      "now": "37.60",
-      "was": "43.99",
-      "reviews": 21237
-     }
-    ]
-   },
-   {
     "key": "camping-tents",
     "label": "Camping Tents",
     "items": [
@@ -3231,6 +3189,24 @@
       "deal": "Limited time deal",
       "reviews": 640,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B093CM99GL",
+      "name": "Coldest Insulated Water Bottle",
+      "pct": 15,
+      "rating": 4.5,
+      "t": 1794634378,
+      "img": "https://m.media-amazon.com/images/I/61SLs5TFGRL.jpg",
+      "link": "https://www.amazon.com/dp/B093CM99GL?tag=zoepicks00-20",
+      "now": "37.60",
+      "was": "43.99",
+      "reviews": 21237
      }
     ]
    },
@@ -5683,24 +5659,6 @@
     ]
    },
    {
-    "key": "stuffed-animal",
-    "label": "Stuffed Animal",
-    "items": [
-     {
-      "asin": "B0B5KMJML3",
-      "name": "The Petting Zoo Floppy Horse Stuffed Animal",
-      "pct": 15,
-      "rating": 4.8,
-      "t": 1794523176,
-      "img": "https://m.media-amazon.com/images/I/71XiBXb0mDL.jpg",
-      "link": "https://www.amazon.com/dp/B0B5KMJML3?tag=zoepicks00-20",
-      "now": "14.44",
-      "was": "16.99",
-      "reviews": 754
-     }
-    ]
-   },
-   {
     "key": "washing-machine",
     "label": "Washing Machine",
     "items": [
@@ -5789,6 +5747,11 @@
    {
     "key": "nail-polish",
     "label": "Nail Polish",
+    "items": []
+   },
+   {
+    "key": "stuffed-animal",
+    "label": "Stuffed Animal",
     "items": []
    },
    {
@@ -5923,32 +5886,6 @@
     "label": "Dog Leash",
     "items": [
      {
-      "asin": "B09GS1HX8Y",
-      "name": "26Ft Retractable Dog Leash",
-      "pct": 15,
-      "rating": 4.2,
-      "t": 1794523170,
-      "img": "https://m.media-amazon.com/images/I/61R-uNDrUUL.jpg",
-      "link": "https://www.amazon.com/dp/B09GS1HX8Y?tag=zoepicks00-20",
-      "now": "15.27",
-      "was": "17.97",
-      "reviews": 5935,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08D3QLDLR",
-      "name": "Fida Retractable Dog Leash",
-      "pct": 22,
-      "rating": 4.5,
-      "t": 1794523163,
-      "img": "https://m.media-amazon.com/images/I/61VVz19JwdL.jpg",
-      "link": "https://www.amazon.com/dp/B08D3QLDLR?tag=zoepicks00-20",
-      "now": "20.99",
-      "was": "26.99",
-      "reviews": 7693,
-      "tier": "mid"
-     },
-     {
       "asin": "B07NSB92RY",
       "name": "Carhartt Shock Absorbing Dog Leash Carhartt Brown",
       "pct": 38,
@@ -5956,8 +5893,20 @@
       "t": 1794636505,
       "img": "https://m.media-amazon.com/images/I/81YcN9D0kmL.jpg",
       "link": "https://www.amazon.com/dp/B07NSB92RY?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
+     },
+     {
+      "asin": "B08CKG31FJ",
+      "name": "Kuoser Waterproof Dog Coat",
+      "pct": 21,
+      "rating": 4.5,
+      "t": 1794588668,
+      "img": "https://m.media-amazon.com/images/I/7182W-HNhDL.jpg",
+      "link": "https://www.amazon.com/dp/B08CKG31FJ?tag=zoepicks00-20",
+      "now": "21.24",
+      "was": "26.99",
+      "deal": "Limited time deal",
+      "reviews": 59112
      }
     ]
    },
