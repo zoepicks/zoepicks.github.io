@@ -11371,19 +11371,33 @@
   },
   "fashion:medium-luggage": {
    "label": "Medium Luggage",
-   "tries": 6,
+   "tries": 7,
    "items": [
+    {
+     "asin": "B0FJPRMDXM",
+     "name": "American Tourister Stratum 3.0 Medium 24-Inch Spinner",
+     "pct": 20,
+     "rating": 4.4,
+     "t": 1794617073,
+     "img": "https://m.media-amazon.com/images/I/71HIGbBAG3L.jpg",
+     "link": "https://www.amazon.com/dp/B0FJPRMDXM?tag=zoepicks00-20",
+     "now": "103.95",
+     "was": "129.99",
+     "reviews": 713,
+     "_title": "American Tourister Stratum 3.0 Medium 24-Inch Spinner, Airline Approved, Durable Hardside Luggage, Expands 1.5\", RightHeig...",
+     "_price": 103.95
+    },
     {
      "asin": "B085B67R7W",
      "name": "Traveler's Choice Pagosa Hardshell Expandable Luggage",
      "pct": 16,
      "rating": 4.4,
-     "t": 1794449108,
+     "t": 1794617073,
      "img": "https://m.media-amazon.com/images/I/71cnfx6KsXL.jpg",
      "link": "https://www.amazon.com/dp/B085B67R7W?tag=zoepicks00-20",
      "now": "116.99",
      "was": "139.99",
-     "reviews": 5672,
+     "reviews": 5680,
      "_title": "Traveler's Choice Pagosa Hardshell Expandable Luggage with Spinner Wheels, Black, 27-Inch Medium",
      "_price": 116.99
     },
@@ -11392,17 +11406,45 @@
      "name": "Travelpro Maxlite 5 Softside Checked Luggage Spinner",
      "pct": 9,
      "rating": 4.4,
-     "t": 1794449108,
+     "t": 1794617073,
      "img": "https://m.media-amazon.com/images/I/91-g3HtzRZL.jpg",
      "link": "https://www.amazon.com/dp/B0B726MZKM?tag=zoepicks00-20",
      "now": "178.00",
      "was": "195.00",
-     "reviews": 12669,
-     "_title": "Travelpro Maxlite 5 Softside Checked Luggage Spinner, Blue, 25-Inch | Medium Checked Suitcase, Expandable With 4 Wheels, L...",
+     "reviews": 12673,
+     "_title": "Travelpro Maxlite 5 Softside Checked Luggage Spinner, Ensign Blue, 25-Inch | Medium Checked Suitcase, Expandable With 4 Wh...",
      "_price": 178.0
+    },
+    {
+     "asin": "B013WFNZRE",
+     "name": "Samsonite Omni PC Hardside Expandable Luggage",
+     "pct": 8,
+     "rating": 4.4,
+     "t": 1794617073,
+     "img": "https://m.media-amazon.com/images/I/91i3upw+o6L.jpg",
+     "link": "https://www.amazon.com/dp/B013WFNZRE?tag=zoepicks00-20",
+     "now": "140.93",
+     "was": "153.50",
+     "reviews": 30281,
+     "_title": "Samsonite Omni PC Hardside Expandable Luggage with Spinner Wheels, Teal, Checked-Medium 24-Inch",
+     "_price": 140.93
+    },
+    {
+     "asin": "B0D7PQK3HD",
+     "name": "Kono Checked Luggage 24in Expandable Spinner TSA Lock…",
+     "pct": 5,
+     "rating": 4.4,
+     "t": 1794617073,
+     "img": "https://m.media-amazon.com/images/I/61ydWRP+wGL.jpg",
+     "link": "https://www.amazon.com/dp/B0D7PQK3HD?tag=zoepicks00-20",
+     "now": "73.28",
+     "was": "77.14",
+     "reviews": 120,
+     "_title": "Kono Checked Luggage 24in Expandable Spinner TSA Lock ABS+PC Grey | Medium Size Spinner Wheels Lightweight Capacity and Li...",
+     "_price": 73.28
     }
    ],
-   "scanned": "2026-11-12T02:05:08.694231+00:00"
+   "scanned": "2026-11-14T00:44:33.618931+00:00"
   },
   "beauty_health:hair-raising-headband": {
    "label": "Hair Raising Headband",
