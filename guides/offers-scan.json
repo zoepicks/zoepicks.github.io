@@ -10200,25 +10200,39 @@
   },
   "other:18v-battery": {
    "label": "18v Battery",
-   "tries": 13,
+   "tries": 14,
    "items": [
     {
      "asin": "B08WHC52B9",
      "name": "Bosch GBA18V120 18V CORE18V® Lithium-Ion 12 Ah High Power…",
      "pct": 21,
      "rating": 4.7,
-     "t": 1794451014,
+     "t": 1794618325,
      "img": "https://m.media-amazon.com/images/I/51-1FJQqHfL.jpg",
      "link": "https://www.amazon.com/dp/B08WHC52B9?tag=zoepicks00-20",
      "now": "189.00",
      "was": "239.00",
      "deal": "Limited time deal",
-     "reviews": 205,
+     "reviews": 206,
      "_title": "Bosch GBA18V120 18V CORE18V® Lithium-Ion 12 Ah High Power Battery | CoolPack heat management, charge-status indicator, hig...",
      "_price": 189.0
+    },
+    {
+     "asin": "B015PVD9ME",
+     "name": "Makita BL1850B-2 18V LXT Lithium-Ion 5.0Ah Battery",
+     "pct": 8,
+     "rating": 4.7,
+     "t": 1794618325,
+     "img": "https://m.media-amazon.com/images/I/61af+3pOl5L.jpg",
+     "link": "https://www.amazon.com/dp/B015PVD9ME?tag=zoepicks00-20",
+     "now": "188.00",
+     "was": "204.99",
+     "reviews": 3946,
+     "_title": "Makita BL1850B-2 18V LXT Lithium-Ion 5.0Ah Battery, 2/pk, Black | Up to 65% more runtime, 45-minute charge time, impact-re...",
+     "_price": 188.0
     }
    ],
-   "scanned": "2026-11-12T02:36:54.233040+00:00"
+   "scanned": "2026-11-14T01:05:25.731021+00:00"
   },
   "fashion:leggings": {
    "label": "Leggings",
