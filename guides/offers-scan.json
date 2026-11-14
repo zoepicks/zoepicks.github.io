@@ -9747,24 +9747,39 @@
   },
   "fashion:polo-shirt": {
    "label": "Polo Shirt",
-   "tries": 11,
+   "tries": 12,
    "items": [
     {
-     "asin": "B01IXFQB9W",
+     "asin": "B07HRK78BV",
+     "name": "Nautica Men's Performance Pique Polo Shirt",
+     "pct": 43,
+     "rating": 4.6,
+     "t": 1794671216,
+     "img": "https://m.media-amazon.com/images/I/81cpwPVgP4L.jpg",
+     "link": "https://www.amazon.com/dp/B07HRK78BV?tag=zoepicks00-20",
+     "now": "11.56",
+     "was": "20.18",
+     "deal": "Early Black Friday Deal",
+     "reviews": 10018,
+     "_title": "Nautica Men's Performance Pique Polo Shirt | Designed Exclusively for Big & Tall Men",
+     "_price": 11.56
+    },
+    {
+     "asin": "B01IXFQBOM",
      "name": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
      "pct": 10,
      "rating": 4.3,
-     "t": 1794505096,
+     "t": 1794671216,
      "img": "https://m.media-amazon.com/images/I/91aVotHt1WL.jpg",
-     "link": "https://www.amazon.com/dp/B01IXFQB9W?tag=zoepicks00-20",
+     "link": "https://www.amazon.com/dp/B01IXFQBOM?tag=zoepicks00-20",
      "now": "13.70",
      "was": "15.30",
-     "reviews": 53595,
+     "reviews": 53583,
      "_title": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
      "_price": 13.7
     }
    ],
-   "scanned": "2026-11-12T17:38:16.734475+00:00"
+   "scanned": "2026-11-14T15:46:56.305441+00:00"
   },
   "fashion:running-shoes": {
    "label": "Running Shoes",
