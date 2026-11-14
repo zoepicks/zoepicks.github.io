@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-14T06:49:18.110801+00:00",
+ "updated": "2026-11-14T09:50:55.252668+00:00",
  "boots_total": 56,
  "recent_boots_utc": [
   "2026-10-29T05:26:39",
@@ -14,23 +14,17 @@
   "2026-11-07T07:55:02",
   "2026-11-13T05:00:02"
  ],
- "last_run_ts": 1794638956.3262951,
+ "last_run_ts": 1794649853.862,
  "last_report_ts": 1794617162.6678333,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
-  "high": 1,
+  "high": 2,
   "med": 0,
-  "low": 38
+  "low": 36
  },
  "recent_runs": [
-  {
-   "t": "2026-11-13T03:12:50",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-13T06:16:34",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-14T09:50:50",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 1
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-13T21:43:46",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-14T00:45:32",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-14T00:45:32",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-11-14T00:46:02",
    "what": "Report + Claude brief repo me likhe",
@@ -125,6 +110,21 @@
   {
    "t": "2026-11-14T06:49:16",
    "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-14T09:50:53",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-14T09:50:53",
+   "what": "SEO check: score 94 (+0), 296 pages, 2 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-14T09:50:53",
+   "what": "IndexNow: 1 URL Bing ko bheje",
    "ok": true
   }
  ]
