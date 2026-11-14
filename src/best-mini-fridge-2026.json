@@ -67,9 +67,9 @@
    "best_for": "Office workers and RV owners",
    "skip_if": "You need a freezer",
    "link": "https://www.amazon.com/s?k=Midea+3.1-Cubic+Foot+Compact+Refrigerator&tag=zoepicks00-20",
-   "fill_tries": 3,
-   "fill_last": "Nov 13, 2026",
-   "fill_failed": false
+   "fill_tries": 4,
+   "fill_last": "Nov 14, 2026",
+   "fill_failed": true
   },
   {
    "name": "Frigidaire 1.6-Cubic-Foot Compact Fridge",
@@ -94,8 +94,8 @@
    "best_for": "Small apartments",
    "skip_if": "You need a freezer",
    "link": "https://www.amazon.com/s?k=Frigidaire+1.6-Cubic-Foot+Compact+Fridge&tag=zoepicks00-20",
-   "fill_tries": 2,
-   "fill_last": "Nov 13, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 14, 2026",
    "fill_failed": false
   }
  ]
