@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-14T03:21:28Z",
+ "updated": "2026-11-14T05:00:22Z",
  "cats": [
   {
    "key": "fashion",
@@ -148,69 +148,32 @@
     "now": "59.99",
     "was": "89.99",
     "cat": "home"
+   },
+   {
+    "asin": "B07HGR3YZ7",
+    "name": "CamelBak Podium Chill Water Bottle 21oz",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1794627936,
+    "img": "https://m.media-amazon.com/images/I/51GP-SrfTOL.jpg",
+    "link": "https://www.amazon.com/dp/B07HGR3YZ7?tag=zoepicks00-20",
+    "now": "13.50",
+    "was": "18.00",
+    "cat": "home"
+   },
+   {
+    "asin": "B0CJSLZXPC",
+    "name": "CamelBak Podium Water Bottle 18oz",
+    "pct": 23,
+    "rating": 4.4,
+    "t": 1794627929,
+    "img": "https://m.media-amazon.com/images/I/61CeTl5rCqL.jpg",
+    "link": "https://www.amazon.com/dp/B0CJSLZXPC?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "39.00",
+    "cat": "home"
    }
   ],
-  "kids": [
-   {
-    "asin": "B092YYY6LH",
-    "name": "JOYIN 25-in-1 Construction Truck Toy Set",
-    "pct": 46,
-    "rating": 4.6,
-    "t": 1794500403,
-    "img": "https://m.media-amazon.com/images/I/91dK8iknFuL.jpg",
-    "link": "https://www.amazon.com/dp/B092YYY6LH?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "49.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B06XNQDR8J",
-    "name": "LeapFrog 2-in-1 LeapTop Touch",
-    "pct": 27,
-    "rating": 4.7,
-    "t": 1794500374,
-    "img": "https://m.media-amazon.com/images/I/71crrz-3XJL.jpg",
-    "link": "https://www.amazon.com/dp/B06XNQDR8J?tag=zoepicks00-20",
-    "now": "24.99",
-    "was": "29.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B08CLH6Q5J",
-    "name": "Melissa & Doug Super Smile Dentist Play Set",
-    "pct": 20,
-    "rating": 4.8,
-    "t": 1794499460,
-    "img": "https://m.media-amazon.com/images/I/718blo5EAhL.jpg",
-    "link": "https://www.amazon.com/dp/B08CLH6Q5J?tag=zoepicks00-20",
-    "now": "28.49",
-    "was": "29.97",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0CHX4W2HH",
-    "name": "5 In 1 Voice Changer",
-    "pct": 20,
-    "rating": 4.4,
-    "t": 1794499337,
-    "img": "https://m.media-amazon.com/images/I/81OvZlcB-mL.jpg",
-    "link": "https://www.amazon.com/dp/B0CHX4W2HH?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "24.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0BBZP9442",
-    "name": "JOYIN Kids Bow and Arrow Set",
-    "pct": 20,
-    "rating": 4.4,
-    "t": 1794500381,
-    "img": "https://m.media-amazon.com/images/I/81Cpwfh20zL.jpg",
-    "link": "https://www.amazon.com/dp/B0BBZP9442?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "24.99",
-    "cat": "kids"
-   }
-  ]
+  "kids": []
  }
 }
