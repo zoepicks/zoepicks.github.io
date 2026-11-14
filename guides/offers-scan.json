@@ -3713,14 +3713,42 @@
   },
   "beauty_health:men-s-colognes": {
    "label": "Men's Colognes",
-   "tries": 25,
+   "tries": 26,
    "items": [
+    {
+     "asin": "B003B8G5IY",
+     "name": "Curve for Men Cologne Spray",
+     "pct": 42,
+     "rating": 4.6,
+     "t": 1794618739,
+     "img": "https://m.media-amazon.com/images/I/71Fqkdj6jdL.jpg",
+     "link": "https://www.amazon.com/dp/B003B8G5IY?tag=zoepicks00-20",
+     "now": "24.16",
+     "was": "42.00",
+     "reviews": 19573,
+     "_title": "Curve for Men Cologne Spray, Spicy Woody Magnetic Scent for Day or Night, 4.2 fl oz",
+     "_price": 24.16
+    },
+    {
+     "asin": "B09231NL5H",
+     "name": "Bellavita Luxury Mini Cologne Set",
+     "pct": 28,
+     "rating": 4.2,
+     "t": 1794618739,
+     "img": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+     "link": "https://www.amazon.com/dp/B09231NL5H?tag=zoepicks00-20",
+     "now": "19.39",
+     "was": "26.99",
+     "reviews": 43534,
+     "_title": "Bellavita Luxury Mini Cologne Set for Men, 4 x 0.67 fl oz (20 ml) | Stocking Stuffers & Gifts for Him, CEO Man, G.O.A.T., ...",
+     "_price": 19.39
+    },
     {
      "asin": "B0DKN1PVSH",
      "name": "Davidoff Cool Water Eau de Toilette",
      "pct": 25,
      "rating": 4.8,
-     "t": 1794453324,
+     "t": 1794618739,
      "img": "https://m.media-amazon.com/images/I/61CgpUFy1HL.jpg",
      "link": "https://www.amazon.com/dp/B0DKN1PVSH?tag=zoepicks00-20",
      "now": "72.75",
@@ -3731,25 +3759,11 @@
      "_price": 72.75
     },
     {
-     "asin": "B0DKDH773R",
-     "name": "H HABIBI Cashmere Oud Perfume",
-     "pct": 15,
-     "rating": 4.4,
-     "t": 1794453324,
-     "img": "https://m.media-amazon.com/images/I/61t6gXKK3EL.jpg",
-     "link": "https://www.amazon.com/dp/B0DKDH773R?tag=zoepicks00-20",
-     "now": "103.70",
-     "was": "122.00",
-     "reviews": 32,
-     "_title": "H HABIBI Cashmere Oud Perfume for Men Eau de Parfum 75 ml | Made in USA. Long lasting Arabian cologne with spicy floral wo...",
-     "_price": 103.7
-    },
-    {
      "asin": "B0FQ5NS8PC",
      "name": "Ycz Men's Fragrance Duo",
      "pct": 10,
      "rating": 4.4,
-     "t": 1794453324,
+     "t": 1794618739,
      "img": "https://m.media-amazon.com/images/I/71mH01ESwhL.jpg",
      "link": "https://www.amazon.com/dp/B0FQ5NS8PC?tag=zoepicks00-20",
      "now": "25.16",
@@ -3760,7 +3774,7 @@
      "_price": 25.16
     }
    ],
-   "scanned": "2026-11-12T03:15:24.757635+00:00",
+   "scanned": "2026-11-14T01:12:19.731295+00:00",
    "via": "sweep"
   },
   "electronics:printers": {
