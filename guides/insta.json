@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-14T05:00:22Z",
+ "updated": "2026-11-14T09:22:10Z",
  "cats": [
   {
    "key": "fashion",
@@ -171,6 +171,18 @@
     "link": "https://www.amazon.com/dp/B0CJSLZXPC?tag=zoepicks00-20",
     "now": "29.99",
     "was": "39.00",
+    "cat": "home"
+   },
+   {
+    "asin": "B0HFHSHYB8",
+    "name": "Humidifier Large Room Bedroom",
+    "pct": 20,
+    "rating": 4.5,
+    "t": 1794641740,
+    "img": "https://m.media-amazon.com/images/I/51prx5z4igL.jpg",
+    "link": "https://www.amazon.com/dp/B0HFHSHYB8?tag=zoepicks00-20",
+    "now": "79.98",
+    "was": "99.99",
     "cat": "home"
    }
   ],
