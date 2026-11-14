@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-14T17:22:50Z",
+ "updated": "2026-11-14T19:22:59Z",
  "cats": [
   {
    "key": "fashion",
@@ -54,6 +54,18 @@
   ],
   "home": [
    {
+    "asin": "B0872G6XX2",
+    "name": "BLACK+DECKER Steam Mop",
+    "pct": 38,
+    "rating": 4.2,
+    "t": 1794678913,
+    "img": "https://m.media-amazon.com/images/I/61+ifHrFh1L.jpg",
+    "link": "https://www.amazon.com/dp/B0872G6XX2?tag=zoepicks00-20",
+    "now": "31.99",
+    "was": "52.00",
+    "cat": "home"
+   },
+   {
     "asin": "B0855B5Z6F",
     "name": "Ninja Professional Plus Blender",
     "pct": 33,
@@ -63,6 +75,18 @@
     "link": "https://www.amazon.com/dp/B0855B5Z6F?tag=zoepicks00-20",
     "now": "79.99",
     "was": "119.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B07H5T2T2S",
+    "name": "Cuisinart Electric Carving Knife Set",
+    "pct": 30,
+    "rating": 4.5,
+    "t": 1794679826,
+    "img": "https://m.media-amazon.com/images/I/61WbnHTseoL.jpg",
+    "link": "https://www.amazon.com/dp/B07H5T2T2S?tag=zoepicks00-20",
+    "now": "45.49",
+    "was": "64.95",
     "cat": "home"
    },
    {
