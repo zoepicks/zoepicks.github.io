@@ -10483,14 +10483,14 @@
   },
   "pets:dog-stroller": {
    "label": "Dog Stroller",
-   "tries": 10,
+   "tries": 11,
    "items": [
     {
      "asin": "B0DV6JC3TG",
      "name": "Pet Gear Travel Lite Plus Stroller",
      "pct": 18,
      "rating": 4.4,
-     "t": 1794453361,
+     "t": 1794620540,
      "img": "https://m.media-amazon.com/images/I/71u-O3v4rcL.jpg",
      "link": "https://www.amazon.com/dp/B0DV6JC3TG?tag=zoepicks00-20",
      "now": "60.10",
@@ -10505,7 +10505,7 @@
      "name": "Pet Stroller 4 Wheels Dog Cat Stroller",
      "pct": 14,
      "rating": 4.5,
-     "t": 1794453361,
+     "t": 1794620540,
      "img": "https://m.media-amazon.com/images/I/81PmT+cKhyL.jpg",
      "link": "https://www.amazon.com/dp/B0DFLRB695?tag=zoepicks00-20",
      "now": "64.99",
@@ -10516,21 +10516,37 @@
      "_price": 64.99
     },
     {
-     "asin": "B0HGLRT3CN",
+     "asin": "B0HF8K2B6G",
+     "name": "ELEMARA Large Dog Stroller",
+     "pct": 10,
+     "rating": 4.8,
+     "t": 1794620540,
+     "img": "https://m.media-amazon.com/images/I/81KaoDSRkwL.jpg",
+     "link": "https://www.amazon.com/dp/B0HF8K2B6G?tag=zoepicks00-20",
+     "now": "214.98",
+     "was": "239.99",
+     "deal": "Limited time deal",
+     "reviews": 21,
+     "_title": "ELEMARA Large Dog Stroller with Walk-in Ramp, up to 110 lbs – Heavy Duty Dog Stroller for Large Dogs & 2 Medium Dogs, All-...",
+     "_price": 214.98
+    },
+    {
+     "asin": "B0HGM456RP",
      "name": "GTPLAYER Foldable Pet Stroller",
      "pct": 10,
-     "rating": 4.3,
-     "t": 1794453361,
-     "img": "https://m.media-amazon.com/images/I/71O0ZKtydML.jpg",
-     "link": "https://www.amazon.com/dp/B0HGLRT3CN?tag=zoepicks00-20",
+     "rating": 4.2,
+     "t": 1794620540,
+     "img": "https://m.media-amazon.com/images/I/71wtF1vUozL.jpg",
+     "link": "https://www.amazon.com/dp/B0HGM456RP?tag=zoepicks00-20",
      "now": "53.99",
      "was": "59.99",
-     "reviews": 109,
+     "deal": "Limited time deal",
+     "reviews": 114,
      "_title": "GTPLAYER Foldable Pet Stroller for Small Dogs and Cats, Holds Up to 33 lb, 4-Wheel Stroller, Full Mesh Ultra Breathable, S...",
      "_price": 53.99
     }
    ],
-   "scanned": "2026-11-12T03:16:01.117924+00:00",
+   "scanned": "2026-11-14T01:42:20.914810+00:00",
    "via": "sweep"
   },
   "home_kitchen:cutting-board": {
