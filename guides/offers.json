@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-15T09:12:30Z",
+ "updated": "2026-11-15T11:12:53Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2768,24 +2768,6 @@
     ]
    },
    {
-    "key": "wallets",
-    "label": "Wallets",
-    "items": [
-     {
-      "asin": "B0FT27Y2CD",
-      "name": "RUNBOX Genuine Leather Wallet",
-      "pct": 18,
-      "rating": 4.5,
-      "t": 1794611215,
-      "img": "https://m.media-amazon.com/images/I/71q9FcYR2ZL.jpg",
-      "link": "https://www.amazon.com/dp/B0FT27Y2CD?tag=zoepicks00-20",
-      "now": "24.69",
-      "was": "29.99",
-      "reviews": 2189
-     }
-    ]
-   },
-   {
     "key": "gym-bags",
     "label": "Gym Bags",
     "items": []
@@ -2813,6 +2795,11 @@
    {
     "key": "workout-clothes",
     "label": "Workout Clothes",
+    "items": []
+   },
+   {
+    "key": "wallets",
+    "label": "Wallets",
     "items": []
    }
   ],
