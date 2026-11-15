@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15T05:00:08Z",
+ "updated": "2026-11-15T07:23:43Z",
  "cats": [
   {
    "key": "fashion",
@@ -38,7 +38,32 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [],
+  "beauty": [
+   {
+    "asin": "B0DK4Y2YP3",
+    "name": "celimax The Vita A Retinal Shot Tightening Booster",
+    "pct": 30,
+    "rating": 4.4,
+    "t": 1794720824,
+    "img": "https://m.media-amazon.com/images/I/51kKILsyWZL.jpg",
+    "link": "https://www.amazon.com/dp/B0DK4Y2YP3?tag=zoepicks00-20",
+    "now": "19.00",
+    "was": "24.00",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B0DG4WXBCF",
+    "name": "MEDITHERAPY Retinal Skin Booster Face&Body Serum",
+    "pct": 20,
+    "rating": 4.3,
+    "t": 1794722710,
+    "img": "https://m.media-amazon.com/images/I/612KbmIvogL.jpg",
+    "link": "https://www.amazon.com/dp/B0DG4WXBCF?tag=zoepicks00-20",
+    "now": "19.99",
+    "was": "24.99",
+    "cat": "beauty"
+   }
+  ],
   "home": [
    {
     "asin": "B0872G6XX2",
