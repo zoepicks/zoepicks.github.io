@@ -1,9 +1,8 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-15T20:29:26.440448+00:00",
- "boots_total": 57,
+ "updated": "2026-11-15T23:32:41.871713+00:00",
+ "boots_total": 58,
  "recent_boots_utc": [
-  "2026-10-31T05:13:16",
   "2026-10-31T07:14:24",
   "2026-11-01T03:11:09",
   "2026-11-01T06:31:10",
@@ -12,25 +11,20 @@
   "2026-11-06T20:51:38",
   "2026-11-07T07:55:02",
   "2026-11-13T05:00:02",
-  "2026-11-15T20:08:26"
+  "2026-11-15T20:08:26",
+  "2026-11-15T20:46:04"
  ],
- "last_run_ts": 1794774554.893996,
+ "last_run_ts": 1794785561.1326454,
  "last_report_ts": 1794774565.705032,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
- "score": 93,
+ "score": 94,
  "issues": {
-  "high": 2,
+  "high": 1,
   "med": 0,
-  "low": 139
+  "low": 45
  },
  "recent_runs": [
-  {
-   "t": "2026-11-14T09:50:50",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 1
-  },
   {
    "t": "2026-11-14T12:52:29",
    "score": 94,
@@ -84,19 +78,15 @@
    "score": 93,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-15T23:32:39",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-15T07:21:48",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-15T10:23:32",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
   {
    "t": "2026-11-15T10:23:32",
    "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
@@ -125,6 +115,16 @@
   {
    "t": "2026-11-15T20:29:25",
    "what": "Report + Claude brief repo me likhe",
+   "ok": true
+  },
+  {
+   "t": "2026-11-15T23:32:41",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-15T23:32:41",
+   "what": "SEO check: score 94 (+1), 296 pages, 1 high issue",
    "ok": true
   }
  ]
