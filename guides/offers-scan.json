@@ -6393,9 +6393,24 @@
   },
   "home_kitchen:stove-pressure-cooker": {
    "label": "Stove Pressure Cooker",
-   "tries": 16,
-   "items": [],
-   "scanned": "2026-11-14T00:46:17.877431+00:00"
+   "tries": 17,
+   "items": [
+    {
+     "asin": "B019B1X2EY",
+     "name": "Buffalo 15 Qt Pressure Cooker Stainless Steel",
+     "pct": 17,
+     "rating": 4.3,
+     "t": 1794709208,
+     "img": "https://m.media-amazon.com/images/I/71g7evbsX5L.jpg",
+     "link": "https://www.amazon.com/dp/B019B1X2EY?tag=zoepicks00-20",
+     "now": "330.65",
+     "was": "399.00",
+     "reviews": 62,
+     "_title": "Buffalo 15 Qt Pressure Cooker Stainless Steel - Large Stove Top Canner | 15 Quart Pressure Canners for Canning - Easy to C...",
+     "_price": 330.65
+    }
+   ],
+   "scanned": "2026-11-15T02:20:08.130162+00:00"
   },
   "other:washing-machine": {
    "label": "Washing Machine",
