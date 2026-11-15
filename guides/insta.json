@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-14T19:22:59Z",
+ "updated": "2026-11-15T01:23:22Z",
  "cats": [
   {
    "key": "fashion",
@@ -38,20 +38,7 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [
-   {
-    "asin": "B0HL8TYTZS",
-    "name": "Massage Gun Deep Tissue",
-    "pct": 30,
-    "rating": 4.8,
-    "t": 1794575054,
-    "img": "https://m.media-amazon.com/images/I/6102wzdgNkL.jpg",
-    "link": "https://www.amazon.com/dp/B0HL8TYTZS?tag=zoepicks00-20",
-    "now": "39.98",
-    "was": "56.99",
-    "cat": "beauty"
-   }
-  ],
+  "beauty": [],
   "home": [
    {
     "asin": "B0872G6XX2",
