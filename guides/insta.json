@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-15T20:08:03Z",
+ "updated": "2026-11-15T22:10:40Z",
  "cats": [
   {
    "key": "fashion",
@@ -30,7 +30,7 @@
     "name": "LOVEVOOK Purses for Women,Leather Tote Purse and…",
     "pct": 27,
     "rating": 4.6,
-    "t": 1794668978,
+    "t": 1794761154,
     "img": "https://m.media-amazon.com/images/I/71wEdyBpebL.jpg",
     "link": "https://www.amazon.com/dp/B0FPCT515S?tag=zoepicks00-20",
     "now": "28.48",
@@ -66,6 +66,54 @@
   ],
   "home": [
    {
+    "asin": "B081DNWG7N",
+    "name": "Mr. Coffee Programmable Coffee Maker",
+    "pct": 52,
+    "rating": 4.3,
+    "t": 1794779971,
+    "img": "https://m.media-amazon.com/images/I/81bs-ikI+IL.jpg",
+    "link": "https://www.amazon.com/dp/B081DNWG7N?tag=zoepicks00-20",
+    "now": "22.99",
+    "was": "47.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B08R6KMBQT",
+    "name": "Instant Pot Vortex Plus Mini 4 Qt 6-in-1 Air Fryer",
+    "pct": 49,
+    "rating": 4.5,
+    "t": 1794774689,
+    "img": "https://m.media-amazon.com/images/I/71XyGxT1ITL.jpg",
+    "link": "https://www.amazon.com/dp/B08R6KMBQT?tag=zoepicks00-20",
+    "now": "66.49",
+    "was": "129.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B07NLHMYH4",
+    "name": "Emeril Lagasse Everyday 360 Air Fryer Oven",
+    "pct": 48,
+    "rating": 4.4,
+    "t": 1794779959,
+    "img": "https://m.media-amazon.com/images/I/61aazm1BzHL.jpg",
+    "link": "https://www.amazon.com/dp/B07NLHMYH4?tag=zoepicks00-20",
+    "now": "99.99",
+    "was": "192.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B083TCZDMT",
+    "name": "Contigo Byron Vacuum-Insulated Stainless Steel Travel Mug",
+    "pct": 36,
+    "rating": 4.5,
+    "t": 1794778994,
+    "img": "https://m.media-amazon.com/images/I/615q4slnnEL.jpg",
+    "link": "https://www.amazon.com/dp/B083TCZDMT?tag=zoepicks00-20",
+    "now": "12.49",
+    "was": "19.49",
+    "cat": "home"
+   },
+   {
     "asin": "B0872G6XX2",
     "name": "BLACK+DECKER Steam Mop",
     "pct": 38,
@@ -75,6 +123,18 @@
     "link": "https://www.amazon.com/dp/B0872G6XX2?tag=zoepicks00-20",
     "now": "31.99",
     "was": "52.00",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FF42WG3M",
+    "name": "Tineco Floor One S7 Stretch Steam Cordless Wet Dry Vacuum…",
+    "pct": 36,
+    "rating": 4.4,
+    "t": 1794778979,
+    "img": "https://m.media-amazon.com/images/I/71RhC9mCSdL.jpg",
+    "link": "https://www.amazon.com/dp/B0FF42WG3M?tag=zoepicks00-20",
+    "now": "449.00",
+    "was": "699.00",
     "cat": "home"
    },
    {
@@ -99,6 +159,42 @@
     "link": "https://www.amazon.com/dp/B07H5T2T2S?tag=zoepicks00-20",
     "now": "45.49",
     "was": "64.95",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FBT84P65",
+    "name": "Crockpot® Programmable 7-Quart Cook and Carry Slow Cooker",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1794776161,
+    "img": "https://m.media-amazon.com/images/I/512mq5GWbhL.jpg",
+    "link": "https://www.amazon.com/dp/B0FBT84P65?tag=zoepicks00-20",
+    "now": "49.99",
+    "was": "69.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FRHCMBG3",
+    "name": "Oster Belgian Waffle Maker",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1794776169,
+    "img": "https://m.media-amazon.com/images/I/71+oLmsyOUL.jpg",
+    "link": "https://www.amazon.com/dp/B0FRHCMBG3?tag=zoepicks00-20",
+    "now": "19.99",
+    "was": "27.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B07BW1717J",
+    "name": "All-Clad Electric Deep Fryer",
+    "pct": 25,
+    "rating": 4.3,
+    "t": 1794779951,
+    "img": "https://m.media-amazon.com/images/I/712ZDfstwqL.jpg",
+    "link": "https://www.amazon.com/dp/B07BW1717J?tag=zoepicks00-20",
+    "now": "149.95",
+    "was": "199.99",
     "cat": "home"
    }
   ],
