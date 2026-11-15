@@ -1,19 +1,29 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-15T01:18:04.826726+00:00",
+ "generated_at": "2026-11-15T20:29:19.148460+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
-  "score": 94,
+  "score": 93,
   "score_24h_ago": 94,
-  "score_change_24h": 0,
+  "score_change_24h": -1,
   "pages": 296,
   "issue_counts": {
-   "high": 1,
+   "high": 2,
    "med": 0,
-   "low": 52
+   "low": 139
   },
-  "avg_guide_words": 945,
+  "avg_guide_words": 943,
   "todo": [
+   {
+    "sev": "high",
+    "code": "fetch_failed",
+    "count": 1,
+    "fix": "Page fetch nahi hua - site down to nahi?",
+    "example": [
+     "/g/best-ps5-or-gaming-pc-2026/"
+    ],
+    "detail": "page khul nahi raha: HTTPSConnectionPool(host='zoepicks.github.io', port=443): Max retries exceeded w"
+   },
    {
     "sev": "high",
     "code": "contact_email_placeholder",
@@ -23,6 +33,18 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 104,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-nintendo-switch-controller-2026/",
+     "/g/best-chocolate-protein-powder-2026/",
+     "/g/best-crossbody-bag-2026/"
+    ],
+    "detail": "load 3.5s"
    },
    {
     "sev": "low",
@@ -38,18 +60,6 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 17,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-makeup-vanity-bag-2026/",
-     "/g/best-desks-for-small-spaces-2026/",
-     "/g/best-walking-pads-2026/"
-    ],
-    "detail": "load 3.2s"
-   },
-   {
-    "sev": "low",
     "code": "title_length",
     "count": 16,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -61,34 +71,36 @@
     "detail": "title 66 chars (best 25-65)"
    }
   ],
-  "new_issue_types_since_last_brief": [],
+  "new_issue_types_since_last_brief": [
+   "fetch_failed"
+  ],
   "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
    "guides_live": 290,
    "guides_enough_20plus": true,
-   "thin_guides": 0,
+   "thin_guides": 1,
    "own_domain": false,
    "no_broken_links": true
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-14T19:14:31.115812+00:00",
+    "t": "2026-11-15T07:21:46.909415+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-14T22:16:09.506833+00:00",
+    "t": "2026-11-15T10:23:29.767038+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 1,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-15T01:17:59.371722+00:00",
+    "t": "2026-11-15T20:11:21.011075+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -103,12 +115,6 @@
   "total_views": 858,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-11-08",
-    "visitors": 0,
-    "views": 0,
-    "clicks": 0
-   },
    {
     "day": "2026-11-09",
     "visitors": 0,
@@ -144,18 +150,24 @@
     "visitors": 0,
     "views": 0,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-15",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 129,
-   "warn": 7,
+   "info": 28,
+   "warn": 2,
    "error": 0
   },
   "last7d": {
-   "info": 1034,
-   "warn": 51,
+   "info": 925,
+   "warn": 46,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -172,56 +184,50 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 46
+    "warnings": 40
    }
   ],
   "collector": {
    "today": {
-    "total": 9,
-    "ok": 4,
-    "failed": 5,
+    "total": 4,
+    "ok": 1,
+    "failed": 3,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 396,
-      "at": "2026-11-15T00:18:29Z",
+      "run": 402,
+      "at": "2026-11-15T20:11:22Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43657518811"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43756635852"
      },
      {
-      "run": 394,
-      "at": "2026-11-14T16:17:22Z",
+      "run": 401,
+      "at": "2026-11-15T08:49:59Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43614781107"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43696327565"
      },
      {
-      "run": 392,
-      "at": "2026-11-14T15:47:14Z",
+      "run": 400,
+      "at": "2026-11-15T06:02:51Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43612040791"
-     },
-     {
-      "run": 391,
-      "at": "2026-11-14T09:46:40Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43582144924"
-     },
-     {
-      "run": 390,
-      "at": "2026-11-14T05:20:13Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43561032843"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43683659582"
      }
     ]
    },
    "last7d": {
-    "total": 91,
-    "ok": 22,
-    "failed": 68,
+    "total": 86,
+    "ok": 15,
+    "failed": 70,
     "cancelled": 0,
     "running": 1,
     "failed_runs": [
+     {
+      "run": 333,
+      "at": "2026-11-09T20:19:55Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42691933122"
+     },
      {
       "run": 332,
       "at": "2026-11-09T20:14:48Z",
@@ -275,20 +281,14 @@
       "at": "2026-11-09T08:42:24Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42587894971"
-     },
-     {
-      "run": 317,
-      "at": "2026-11-09T04:30:05Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/42562167748"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 143,
-    "ok": 143,
+    "total": 84,
+    "ok": 84,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -296,25 +296,23 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 298,
-    "failed": 1,
+    "ok": 299,
+    "failed": 0,
     "cancelled": 1,
     "running": 0,
-    "failed_runs": [
-     {
-      "run": 3128,
-      "at": "2026-11-12T12:50:35Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43221623932"
-     }
-    ]
+    "failed_runs": []
    }
   },
   "recent_problems": [
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 2 HIGH issue(s): fetch_failed, contact_email_placeholder"
+   },
+   {
+    "module": "ZOEMATCH",
+    "level": "w",
+    "msg": "zoe guide best-cutting-board-2026: <urlopen error [Errno 104] Connection reset by peer>"
    },
    {
     "module": "ZOESEO",
@@ -335,11 +333,6 @@
     "module": "ZOESEO",
     "level": "w",
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 2 HIGH issue(s): http_error, contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -356,17 +349,81 @@
  "content": {
   "live_guides": 290,
   "missing_topics_by_status": {
-   "queued": 83,
-   "open": 37,
-   "built": 58,
+   "queued": 77,
+   "open": 44,
+   "built": 57,
    "covered": 22
   },
   "missing_new": {
-   "today": 18,
-   "d7": 72,
-   "d30": 200
+   "today": 0,
+   "d7": 62,
+   "d30": 195
   },
   "open_topics": [
+   {
+    "topic": "aew full gear dvd",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794717982",
+    "last_at": "1794718126"
+   },
+   {
+    "topic": "hooded cape",
+    "leads": "2",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794717362",
+    "last_at": "1794717536"
+   },
+   {
+    "topic": "seat cushion",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794716168",
+    "last_at": "1794716168"
+   },
+   {
+    "topic": "moots knife",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794713251",
+    "last_at": "1794713251"
+   },
+   {
+    "topic": "pink headphones",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794711108",
+    "last_at": "1794711108"
+   },
+   {
+    "topic": "square studio light",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794708256",
+    "last_at": "1794708256"
+   },
+   {
+    "topic": "makeup mirror with lights",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794708226",
+    "last_at": "1794708226"
+   },
+   {
+    "topic": "laptop for kids",
+    "leads": "1",
+    "budget": null,
+    "status": "open",
+    "first_at": "1794707712",
+    "last_at": "1794707712"
+   },
    {
     "topic": "full range speaker driver",
     "leads": "1",
@@ -376,76 +433,12 @@
     "last_at": "1794704370"
    },
    {
-    "topic": "record player with speakers",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794704171",
-    "last_at": "1794704336"
-   },
-   {
     "topic": "mobility scooter",
     "leads": "1",
     "budget": null,
     "status": "open",
     "first_at": "1794704140",
     "last_at": "1794704140"
-   },
-   {
-    "topic": "cast iron skillet set",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794703331",
-    "last_at": "1794703331"
-   },
-   {
-    "topic": "kindle page turner",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794699688",
-    "last_at": "1794699688"
-   },
-   {
-    "topic": "cordless stain remover",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794695260",
-    "last_at": "1794695595"
-   },
-   {
-    "topic": "phone mount",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794694742",
-    "last_at": "1794695167"
-   },
-   {
-    "topic": "medical tent",
-    "leads": "2",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794692666",
-    "last_at": "1794692813"
-   },
-   {
-    "topic": "resin printer",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794687632",
-    "last_at": "1794687632"
-   },
-   {
-    "topic": "shirt",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1794686273",
-    "last_at": "1794686273"
    }
   ]
  },
@@ -605,7 +598,7 @@
    "https://zoepicks.github.io/g/best-plush-toy-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-14T12:52",
+   "last_submitted": "2026-11-15T20:11",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -618,21 +611,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-11-04",
-     "clicks": 0,
-     "impr": 0
-    },
-    {
-     "d": "2026-11-05",
-     "clicks": 0,
-     "impr": 0
-    },
-    {
-     "d": "2026-11-06",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-11-07",
      "clicks": 0,
@@ -652,6 +630,21 @@
      "d": "2026-11-10",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-11",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-11-12",
+     "clicks": 0,
+     "impr": 0
+    },
+    {
+     "d": "2026-11-13",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -669,13 +662,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-11-01",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 0
-   },
    {
     "d": "2026-11-02",
     "indexed": 1,
@@ -766,6 +752,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-15",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -773,7 +766,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-14T12:52",
+    "last_submitted": "2026-11-15T20:11",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -786,11 +779,11 @@
     "valid_xml": true,
     "urls": 296,
     "other_host_urls": 0,
-    "live_pages_crawled": 296
+    "live_pages_crawled": 295
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -801,6 +794,7 @@
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
   "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
+  "HIGH SEO: Page fetch nahi hua - site down to nahi? (1 page)",
   "Bot errors (7 din): 2 - recent_problems dekho aur root cause fix karo.",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
