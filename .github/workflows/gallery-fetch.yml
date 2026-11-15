@@ -4,6 +4,7 @@ name: Amazon Gallery Fetch
 # Runs HERE (public repo = free Actions minutes). Logic lives in the private Naami repo (x/gallery_ci.py), checked out with ZOE_GH_TOKEN.
 # Triggered by the Naami discount-reel warm-up on Render (repository_dispatch: gallery_fetch, payload {job_id, asins}).
 # Result is pushed to .github/gallery-results/<job_id>.json in THIS repo so Render can read it back (Render deletes it after reading).
+# Seller clips are downloaded on the runner and published to the `clip-pool` branch of THIS repo (see the Publish seller clips step).
 # Needs secret ZOE_GH_TOKEN (same one zoe-deal-scan uses: write access to this repo, read access to Naami).
 
 on:
@@ -59,6 +60,17 @@ jobs:
           JOB_ID: ${{ github.event.client_payload.job_id || github.run_id }}
           ASINS: ${{ github.event.client_payload.asins && toJson(github.event.client_payload.asins) || github.event.inputs.asins }}
         run: python -m x.gallery_ci
+
+      # 2026-11-16 Render-bandwidth fix: x/gallery_ci.py downloads each product's seller clip here (./clip_out/<asin>.mp4); this step puts
+      # them on the PUBLIC branch `clip-pool` of this repo (one orphan commit, files expire after 36h) and adds clip_refs to the result
+      # JSON, so Render stores only a URL and the reel render job fetches the clip from raw.githubusercontent.com instead of from Render.
+      # Never fails the job: without clip_refs Render falls back to its old clip download.
+      - name: Publish seller clips (public clip-pool branch)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLIP_REPO: ${{ github.repository }}
+        run: python3 tools/publish_clips.py || true
 
       - name: Push result (so Render can read it back)
         if: always()
