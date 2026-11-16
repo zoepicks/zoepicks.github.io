@@ -13266,9 +13266,55 @@
   },
   "home_kitchen:oscillating-heater": {
    "label": "Oscillating Heater",
-   "tries": 6,
-   "items": [],
-   "scanned": "2026-11-14T01:43:25.850693+00:00"
+   "tries": 7,
+   "items": [
+    {
+     "asin": "B000TTV2QS",
+     "name": "Lasko Digital Space Heater",
+     "pct": 27,
+     "rating": 4.4,
+     "t": 1794855983,
+     "img": "https://m.media-amazon.com/images/I/614Yjb2kppL.jpg",
+     "link": "https://www.amazon.com/dp/B000TTV2QS?tag=zoepicks00-20",
+     "now": "57.99",
+     "was": "78.98",
+     "deal": "Limited time deal",
+     "reviews": 33183,
+     "_title": "Lasko Digital Space Heater for Indoor Use, Oscillating Electric Heater | Fast Heat, 23'' Tower Heater with Thermostat, Qui...",
+     "_price": 57.99
+    },
+    {
+     "asin": "B000TTSXNI",
+     "name": "Lasko Space Heater",
+     "pct": 26,
+     "rating": 4.5,
+     "t": 1794855983,
+     "img": "https://m.media-amazon.com/images/I/71Ul9ZUdnIL.jpg",
+     "link": "https://www.amazon.com/dp/B000TTSXNI?tag=zoepicks00-20",
+     "now": "59.49",
+     "was": "79.99",
+     "deal": "Limited time deal",
+     "reviews": 40834,
+     "_title": "Lasko Space Heater for Indoor Use, Portable Electric Heater, Thermostat | Fast Heat, 23'' Oscillating Heater, Ceramic Towe...",
+     "_price": 59.49
+    },
+    {
+     "asin": "B0HJ1KWKZG",
+     "name": "AEROZY 1500W 60° Oscillating Electric Patio Heaters",
+     "pct": 10,
+     "rating": 4.9,
+     "t": 1794855983,
+     "img": "https://m.media-amazon.com/images/I/71ndervhtyL.jpg",
+     "link": "https://www.amazon.com/dp/B0HJ1KWKZG?tag=zoepicks00-20",
+     "now": "129.98",
+     "was": "144.99",
+     "deal": "Limited time deal",
+     "reviews": 25,
+     "_title": "AEROZY 1500W 60° Oscillating Electric Patio Heaters, 31.7\" Infrared Heaters | Portable, Instant Heating, 9 Heat Settings, ...",
+     "_price": 129.98
+    }
+   ],
+   "scanned": "2026-11-16T19:06:23.806534+00:00"
   },
   "accessories:5g-router": {
    "label": "5g Router",
