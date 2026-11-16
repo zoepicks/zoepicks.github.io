@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-16T08:37:51.043022+00:00",
+ "generated_at": "2026-11-16T21:02:39.072403+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 38
+   "low": 43
   },
   "avg_guide_words": 945,
   "todo": [
@@ -51,20 +51,18 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 3,
+    "count": 8,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-smart-displays-2026/",
      "/g/best-tote-bags-2026/",
-     "/g/best-insulated-water-bottles-2026/"
+     "/g/best-nintendo-switch-skin-2026/",
+     "/g/best-oled-monitors-2026/"
     ],
-    "detail": "load 4.2s"
+    "detail": "load 3.41s"
    }
   ],
   "new_issue_types_since_last_brief": [],
-  "fixed_issue_types_since_last_brief": [
-   "fetch_failed"
-  ],
+  "fixed_issue_types_since_last_brief": [],
   "adsense_checklist": {
    "policy_pages_live": true,
    "contact_email_set": false,
@@ -76,33 +74,33 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-16T02:34:22.032447+00:00",
+    "t": "2026-11-16T14:41:33.238364+00:00",
+    "indexnow": {
+     "submitted": 1,
+     "http": 200
+    }
+   },
+   {
+    "t": "2026-11-16T17:43:12.041956+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-16T05:36:07.957495+00:00",
+    "t": "2026-11-16T20:44:51.224265+00:00",
     "indexnow": {
-     "submitted": 6,
-     "http": 200
-    }
-   },
-   {
-    "t": "2026-11-16T08:37:45.025017+00:00",
-    "indexnow": {
-     "submitted": 3,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 0,
-  "today_views": 0,
-  "total_visitors": 124,
-  "total_views": 859,
+  "today_visitors": 1,
+  "today_views": 1,
+  "total_visitors": 125,
+  "total_views": 860,
   "since": "2026-10-16",
   "last7": [
    {
@@ -143,21 +141,21 @@
    },
    {
     "day": "2026-11-16",
-    "visitors": 0,
-    "views": 0,
+    "visitors": 1,
+    "views": 1,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 56,
-   "warn": 2,
+   "info": 140,
+   "warn": 6,
    "error": 0
   },
   "last7d": {
-   "info": 747,
-   "warn": 40,
+   "info": 831,
+   "warn": 44,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -174,17 +172,29 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 35
+    "warnings": 39
    }
   ],
   "collector": {
    "today": {
-    "total": 1,
+    "total": 3,
     "ok": 0,
-    "failed": 1,
+    "failed": 3,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 411,
+      "at": "2026-11-16T17:26:38Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43918419297"
+     },
+     {
+      "run": 410,
+      "at": "2026-11-16T11:25:53Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/43857676875"
+     },
      {
       "run": 409,
       "at": "2026-11-16T05:24:58Z",
@@ -194,9 +204,9 @@
     ]
    },
    "last7d": {
-    "total": 58,
+    "total": 60,
     "ok": 12,
-    "failed": 45,
+    "failed": 47,
     "cancelled": 0,
     "running": 1,
     "failed_runs": [
@@ -265,8 +275,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 54,
-    "ok": 54,
+    "total": 92,
+    "ok": 92,
     "failed": 0,
     "cancelled": 0,
     "running": 0,
@@ -274,9 +284,9 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 299,
+    "ok": 300,
     "failed": 0,
-    "cancelled": 1,
+    "cancelled": 0,
     "running": 0,
     "failed_runs": []
    }
@@ -305,12 +315,12 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 2 HIGH issue(s): fetch_failed, contact_email_placeholder"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEMATCH",
+    "module": "ZOESEO",
     "level": "w",
-    "msg": "zoe guide best-cutting-board-2026: <urlopen error [Errno 104] Connection reset by peer>"
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -327,96 +337,96 @@
  "content": {
   "live_guides": 290,
   "missing_topics_by_status": {
-   "covered": 26,
-   "built": 52,
-   "open": 53,
-   "queued": 69
+   "built": 38,
+   "open": 74,
+   "covered": 24,
+   "queued": 64
   },
   "missing_new": {
-   "today": 0,
-   "d7": 81,
-   "d30": 192
+   "today": 21,
+   "d7": 98,
+   "d30": 193
   },
   "open_topics": [
    {
-    "topic": "firm pillow",
-    "leads": "1",
+    "topic": "osmo pocket camera",
+    "leads": "13",
     "budget": null,
     "status": "open",
-    "first_at": "1794802439",
-    "last_at": "1794802439"
+    "first_at": "1794859366",
+    "last_at": "1794862175"
    },
    {
-    "topic": "puffer jacket",
-    "leads": "1",
+    "topic": "winter sneakers",
+    "leads": "9",
     "budget": null,
     "status": "open",
-    "first_at": "1794793447",
-    "last_at": "1794793447"
+    "first_at": "1794860419",
+    "last_at": "1794861920"
    },
    {
-    "topic": "original xbox",
+    "topic": "photo prints",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1794790341",
-    "last_at": "1794790341"
+    "first_at": "1794861896",
+    "last_at": "1794861896"
    },
    {
-    "topic": "framed tv",
+    "topic": "usb c bluetooth mouse",
     "leads": "1",
     "budget": null,
     "status": "open",
-    "first_at": "1794790323",
-    "last_at": "1794790323"
+    "first_at": "1794859228",
+    "last_at": "1794859228"
    },
    {
-    "topic": "vegan laxative capsules",
-    "leads": "1",
+    "topic": "custom beanie",
+    "leads": "2",
     "budget": null,
     "status": "open",
-    "first_at": "1794789713",
-    "last_at": "1794789713"
+    "first_at": "1794858510",
+    "last_at": "1794858660"
    },
    {
-    "topic": "vanilla scented perfume",
-    "leads": "1",
+    "topic": "kids tv",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1794786059",
-    "last_at": "1794786059"
+    "first_at": "1794857532",
+    "last_at": "1794858334"
    },
    {
-    "topic": "step stool",
-    "leads": "1",
+    "topic": "non slip restaurant shoes",
+    "leads": "9",
     "budget": null,
     "status": "open",
-    "first_at": "1794784412",
-    "last_at": "1794784412"
+    "first_at": "1794854434",
+    "last_at": "1794857348"
    },
    {
-    "topic": "49ers shirt",
-    "leads": "1",
+    "topic": "seal install tool set",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1794782970",
-    "last_at": "1794782970"
+    "first_at": "1794854588",
+    "last_at": "1794854972"
    },
    {
-    "topic": "adjustable bed frame",
-    "leads": "1",
+    "topic": "5 meter usb-c cable",
+    "leads": "3",
     "budget": null,
     "status": "open",
-    "first_at": "1794779033",
-    "last_at": "1794779033"
+    "first_at": "1794853540",
+    "last_at": "1794853885"
    },
    {
-    "topic": "small kitchen tv",
-    "leads": "1",
+    "topic": "small mattress",
+    "leads": "6",
     "budget": null,
     "status": "open",
-    "first_at": "1794778757",
-    "last_at": "1794778757"
+    "first_at": "1794832915",
+    "last_at": "1794852744"
    }
   ]
  },
@@ -576,7 +586,7 @@
    "https://zoepicks.github.io/g/best-plush-toy-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-15T20:11",
+   "last_submitted": "2026-11-16T20:44",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -589,11 +599,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-11-07",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-11-08",
      "clicks": 0,
@@ -623,6 +628,11 @@
      "d": "2026-11-13",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-14",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -640,13 +650,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-11-02",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 2
-   },
    {
     "d": "2026-11-03",
     "indexed": 1,
@@ -737,6 +740,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-16",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -744,7 +754,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-15T20:11",
+    "last_submitted": "2026-11-16T20:44",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -760,8 +770,8 @@
     "live_pages_crawled": 296
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
