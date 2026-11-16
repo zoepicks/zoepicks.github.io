@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-16T18:12:24Z",
+ "updated": "2026-11-16T20:12:39Z",
  "cats": [
   {
    "key": "fashion",
@@ -35,6 +35,18 @@
     "link": "https://www.amazon.com/dp/B0FPCT515S?tag=zoepicks00-20",
     "now": "28.48",
     "was": "38.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DF5NPY4Y",
+    "name": "Kenneth Cole REACTION Ryder Coated Polyester Tech Crossbody…",
+    "pct": 25,
+    "rating": 4.5,
+    "t": 1794853751,
+    "img": "https://m.media-amazon.com/images/I/717IU8FjNHL.jpg",
+    "link": "https://www.amazon.com/dp/B0DF5NPY4Y?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "39.99",
     "cat": "fashion"
    }
   ],
