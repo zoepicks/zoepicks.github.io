@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-16T20:50:38Z",
+ "updated": "2026-11-16T22:50:46Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2431,17 +2431,30 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B0CGMBFF6W",
-      "name": "JMIERR Mens Fleece Lined Oversized Hoodie Pullover…",
-      "pct": 50,
-      "rating": 4.6,
-      "t": 1794853751,
-      "img": "https://m.media-amazon.com/images/I/61QVJLwkEcL.jpg",
-      "link": "https://www.amazon.com/dp/B0CGMBFF6W?tag=zoepicks00-20",
-      "now": "19.98",
-      "was": "39.99",
-      "reviews": 3441,
+      "asin": "B0FHSVCYGK",
+      "name": "AEROPOSTALE Men's New York Pullover Hoodie",
+      "pct": 57,
+      "rating": 4.5,
+      "t": 1794862666,
+      "img": "https://m.media-amazon.com/images/I/81EusapoJnL.jpg",
+      "link": "https://www.amazon.com/dp/B0FHSVCYGK?tag=zoepicks00-20",
+      "now": "15.17",
+      "was": "35.36",
+      "reviews": 0,
       "tier": "budget"
+     },
+     {
+      "asin": "B0CBC4BZGX",
+      "name": "Trendy Queen Womens Zip Up Hoodies Cropped Jackets Fall…",
+      "pct": 50,
+      "rating": 4.4,
+      "t": 1794862673,
+      "img": "https://m.media-amazon.com/images/I/719D1cF59JL.jpg",
+      "link": "https://www.amazon.com/dp/B0CBC4BZGX?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "39.99",
+      "reviews": 0,
+      "tier": "mid"
      },
      {
       "asin": "B091JYX54W",
@@ -2451,19 +2464,6 @@
       "t": 1794810207,
       "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
       "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B098JKWQ4K",
-      "name": "SCODI Hoodies for Men Zip Up Heavyweight Fleece Sweatshirt…",
-      "pct": 57,
-      "rating": 4.5,
-      "t": 1794828787,
-      "img": "https://m.media-amazon.com/images/I/51ATh39LHgL.jpg",
-      "link": "https://www.amazon.com/dp/B098JKWQ4K?tag=zoepicks00-20",
-      "now": "32.95",
-      "was": "75.99",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2657,7 +2657,7 @@
       "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
       "pct": 50,
       "rating": 4.3,
-      "t": 1794828792,
+      "t": 1794862673,
       "img": "https://m.media-amazon.com/images/I/913mdduASTL.jpg",
       "link": "https://www.amazon.com/dp/B0FZDG4ZKV?tag=zoepicks00-20",
       "now": "16.45",
@@ -3234,7 +3234,7 @@
       "name": "NINGO Men's Waterproof Hiking Boots",
       "pct": 50,
       "rating": 4.4,
-      "t": 1794781051,
+      "t": 1794862674,
       "img": "https://m.media-amazon.com/images/I/71AGwnLD8xL.jpg",
       "link": "https://www.amazon.com/dp/B0DY1MGTSF?tag=zoepicks00-20",
       "now": "24.99",
@@ -4324,6 +4324,52 @@
     ]
    },
    {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B0D7CZ9Y7D",
+      "name": "SNOWCLAD Stainless Steel Cutting Board,Non Toxic chopping",
+      "pct": 33,
+      "rating": 4.4,
+      "t": 1794763316,
+      "img": "https://m.media-amazon.com/images/I/71HUymfqQJL.jpg",
+      "link": "https://www.amazon.com/dp/B0D7CZ9Y7D?tag=zoepicks00-20",
+      "now": "19.97",
+      "was": "29.99",
+      "reviews": 5025,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0D5D3P832",
+      "name": "COOK WITH COLOR Non-Slip Cutting Board Set",
+      "pct": 28,
+      "rating": 4.6,
+      "t": 1794763316,
+      "img": "https://m.media-amazon.com/images/I/71TFLv5qHYL.jpg",
+      "link": "https://www.amazon.com/dp/B0D5D3P832?tag=zoepicks00-20",
+      "now": "21.49",
+      "was": "29.99",
+      "deal": "Early Black Friday Deal",
+      "reviews": 1761,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HPV7593Z",
+      "name": "Katori Titanium Cutting Board -100% Pure Vanotium Titanium…",
+      "pct": 44,
+      "rating": 4.7,
+      "t": 1794862668,
+      "img": "https://m.media-amazon.com/images/I/71URbiroH5L.jpg",
+      "link": "https://www.amazon.com/dp/B0HPV7593Z?tag=zoepicks00-20",
+      "now": "44.85",
+      "was": "79.85",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "steam-mop",
     "label": "Steam Mop",
     "items": [
@@ -4368,6 +4414,24 @@
       "deal": "Early Black Friday Deal",
       "reviews": 155,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "pillows",
+    "label": "Pillows",
+    "items": [
+     {
+      "asin": "B0869F6JYB",
+      "name": "INTEX 16.5in Queen Dura-Beam Pillow Rest Air Mattress",
+      "pct": 44,
+      "rating": 4.3,
+      "t": 1794862668,
+      "img": "https://m.media-amazon.com/images/I/61haLEz9mlL.jpg",
+      "link": "https://www.amazon.com/dp/B0869F6JYB?tag=zoepicks00-20",
+      "now": "26.76",
+      "was": "47.99",
+      "reviews": 0
      }
     ]
    },
@@ -4645,53 +4709,6 @@
     ]
    },
    {
-    "key": "cutting-board",
-    "label": "Cutting Board",
-    "items": [
-     {
-      "asin": "B0C2SV37J1",
-      "name": "Paris Hilton Cutting Boards",
-      "pct": 19,
-      "rating": 4.7,
-      "t": 1794763316,
-      "img": "https://m.media-amazon.com/images/I/61qoVewsSrL.jpg",
-      "link": "https://www.amazon.com/dp/B0C2SV37J1?tag=zoepicks00-20",
-      "now": "12.99",
-      "was": "15.99",
-      "deal": "Early Black Friday Deal",
-      "reviews": 1535,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D7CZ9Y7D",
-      "name": "SNOWCLAD Stainless Steel Cutting Board,Non Toxic chopping",
-      "pct": 33,
-      "rating": 4.4,
-      "t": 1794763316,
-      "img": "https://m.media-amazon.com/images/I/71HUymfqQJL.jpg",
-      "link": "https://www.amazon.com/dp/B0D7CZ9Y7D?tag=zoepicks00-20",
-      "now": "19.97",
-      "was": "29.99",
-      "reviews": 5025,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H3FJD6MX",
-      "name": "UFJEG 2PCS Large Stainless Steel Cutting Boards",
-      "pct": 24,
-      "rating": 4.5,
-      "t": 1794763316,
-      "img": "https://m.media-amazon.com/images/I/71hzt3zgL5L.jpg",
-      "link": "https://www.amazon.com/dp/B0H3FJD6MX?tag=zoepicks00-20",
-      "now": "37.98",
-      "was": "49.99",
-      "deal": "Limited time deal",
-      "reviews": 162,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "french-press",
     "label": "French Press",
     "items": [
@@ -4948,11 +4965,6 @@
     "key": "white-refrigerator",
     "label": "White Refrigerator",
     "items": []
-   },
-   {
-    "key": "pillows",
-    "label": "Pillows",
-    "items": []
    }
   ],
   "laptops": [
@@ -5040,7 +5052,7 @@
       "name": "Apple 2026 MacBook Air 15-inch Laptop",
       "pct": 17,
       "rating": 4.7,
-      "t": 1794861343,
+      "t": 1794866620,
       "img": "https://m.media-amazon.com/images/I/71N5EbSaQqL.jpg",
       "link": "https://www.amazon.com/dp/B0GR114BV7?tag=zoepicks00-20",
       "now": "1,249.99",
@@ -5150,20 +5162,6 @@
     "label": "iPhones",
     "items": [
      {
-      "asin": "B0FML44M42",
-      "name": "Sony IER-EX15C USB-C Plug",
-      "pct": 57,
-      "rating": 4.1,
-      "t": 1794854521,
-      "img": "https://m.media-amazon.com/images/I/51Ly+vFB8PL.jpg",
-      "link": "https://www.amazon.com/dp/B0FML44M42?tag=zoepicks00-20",
-      "now": "13.00",
-      "was": "29.99",
-      "deal": "Early Black Friday Deal",
-      "reviews": 202,
-      "tier": "budget"
-     },
-     {
       "asin": "B00GD1BGYO",
       "name": "OMOTON Ultra-Slim Bluetooth Keyboard",
       "pct": 29,
@@ -5175,6 +5173,20 @@
       "was": "23.99",
       "deal": "Limited time deal",
       "reviews": 27214,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DJ79NKXK",
+      "name": "TELESIN C03 Magnetic Selfie Light",
+      "pct": 10,
+      "rating": 4.5,
+      "t": 1794854521,
+      "img": "https://m.media-amazon.com/images/I/61G5Jhtv9+L.jpg",
+      "link": "https://www.amazon.com/dp/B0DJ79NKXK?tag=zoepicks00-20",
+      "now": "20.21",
+      "was": "22.46",
+      "deal": "Limited time deal",
+      "reviews": 1333,
       "tier": "mid"
      },
      {
@@ -5453,17 +5465,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0H85TLJML",
-      "name": "Samsung 32\" ViewFinity S7",
-      "pct": 31,
-      "rating": 4.5,
+      "asin": "B0FLLGSJFT",
+      "name": "LG 32UR550K-B 32-inch Ultrafine 4K UHD",
+      "pct": 29,
+      "rating": 4.4,
       "t": 1794854685,
-      "img": "https://m.media-amazon.com/images/I/71pdw79S1XL.jpg",
-      "link": "https://www.amazon.com/dp/B0H85TLJML?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "289.99",
+      "img": "https://m.media-amazon.com/images/I/81jl0VvT1KL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLLGSJFT?tag=zoepicks00-20",
+      "now": "249.99",
+      "was": "349.99",
       "deal": "Limited time deal",
-      "reviews": 123,
+      "reviews": 128,
       "tier": "mid"
      },
      {
@@ -6062,12 +6074,11 @@
       "name": "Amazon Basics Large Capacity Pet Water Fountain",
       "pct": 15,
       "rating": 4.0,
-      "t": 1794858696,
+      "t": 1794866608,
       "img": "https://m.media-amazon.com/images/I/615nCnLDpTL.jpg",
       "link": "https://www.amazon.com/dp/B0CDW931RC?tag=zoepicks00-20",
       "now": "24.28",
       "was": "28.59",
-      "deal": "Early Black Friday Deal",
       "reviews": 390,
       "tier": "mid"
      },
@@ -6287,30 +6298,31 @@
     "label": "4K TVs",
     "items": [
      {
-      "asin": "B0DF44RTTP",
-      "name": "Roku Ultra, Ultimate Streaming Player",
-      "pct": 34,
-      "rating": 4.4,
-      "t": 1794856126,
-      "img": "https://m.media-amazon.com/images/I/71+N77h+qZL.jpg",
-      "link": "https://www.amazon.com/dp/B0DF44RTTP?tag=zoepicks00-20",
-      "now": "99.00",
-      "was": "149.99",
-      "reviews": 9166,
+      "asin": "B0HFSDT6GX",
+      "name": "【Official Licensed Google TV】VOPLLS 4K Smart Outdoor…",
+      "pct": 44,
+      "rating": 4.3,
+      "t": 1794854836,
+      "img": "https://m.media-amazon.com/images/I/71HcphPoFVL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFSDT6GX?tag=zoepicks00-20",
+      "now": "239.99",
+      "was": "429.99",
+      "deal": "Limited time deal",
+      "reviews": 3472,
       "tier": "budget"
      },
      {
-      "asin": "B0HDPN6KYB",
-      "name": "[VIDAA Live TV & 8000 ANSI & Now",
-      "pct": 50,
-      "rating": 4.7,
+      "asin": "B0HDN32NF5",
+      "name": "[8000 ANSI & VIDAA Live TV & Now",
+      "pct": 47,
+      "rating": 4.4,
       "t": 1794854836,
-      "img": "https://m.media-amazon.com/images/I/71riE7e-G+L.jpg",
-      "link": "https://www.amazon.com/dp/B0HDPN6KYB?tag=zoepicks00-20",
+      "img": "https://m.media-amazon.com/images/I/71xS9zvt8fL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDN32NF5?tag=zoepicks00-20",
       "now": "299.99",
-      "was": "599.99",
+      "was": "569.99",
       "deal": "Limited time deal",
-      "reviews": 119,
+      "reviews": 2033,
       "tier": "mid"
      },
      {
@@ -6347,6 +6359,19 @@
       "tier": "budget"
      },
      {
+      "asin": "B0CTBF4MKS",
+      "name": "Roku Streambar SE, 4K Soundbar",
+      "pct": 34,
+      "rating": 4.4,
+      "t": 1794866592,
+      "img": "https://m.media-amazon.com/images/I/81lLZeWlenL.jpg",
+      "link": "https://www.amazon.com/dp/B0CTBF4MKS?tag=zoepicks00-20",
+      "now": "98.98",
+      "was": "149.99",
+      "reviews": 3557,
+      "tier": "mid"
+     },
+     {
       "asin": "B0CXZTT4MT",
       "name": "Amazon Fire TV Soundbar Plus",
       "pct": 44,
@@ -6357,39 +6382,7 @@
       "now": "139.99",
       "was": "249.99",
       "reviews": 2203,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GSBXP3XB",
-      "name": "Sony BRAVIA Theater Trio 3-Unit Home Theater Audio System…",
-      "pct": 32,
-      "rating": 4.1,
-      "t": 1794788694,
-      "img": "https://m.media-amazon.com/images/I/51MpjIUxFQL.jpg",
-      "link": "https://www.amazon.com/dp/B0GSBXP3XB?tag=zoepicks00-20",
-      "now": "1,498.00",
-      "was": "2,199.99",
-      "reviews": 40,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "streaming-devices",
-    "label": "Streaming Devices",
-    "items": [
-     {
-      "asin": "B0CTBF4MKS",
-      "name": "Roku Streambar SE, 4K Soundbar",
-      "pct": 34,
-      "rating": 4.4,
-      "t": 1794856126,
-      "img": "https://m.media-amazon.com/images/I/81lLZeWlenL.jpg",
-      "link": "https://www.amazon.com/dp/B0CTBF4MKS?tag=zoepicks00-20",
-      "now": "98.98",
-      "was": "149.99",
-      "deal": "Limited time deal",
-      "reviews": 3557
      }
     ]
    },
@@ -6418,6 +6411,11 @@
     "key": "smart-displays",
     "label": "Smart Displays",
     "items": []
+   },
+   {
+    "key": "streaming-devices",
+    "label": "Streaming Devices",
+    "items": []
    }
   ],
   "tools_auto": [
@@ -6444,12 +6442,11 @@
       "name": "JOCRELA 4K+4K Dash Cam Front and Rear",
       "pct": 47,
       "rating": 4.3,
-      "t": 1794855562,
+      "t": 1794866587,
       "img": "https://m.media-amazon.com/images/I/71VW6Hc4KLL.jpg",
       "link": "https://www.amazon.com/dp/B0H3PD5W3B?tag=zoepicks00-20",
       "now": "99.98",
       "was": "189.99",
-      "deal": "Limited time deal",
       "reviews": 134,
       "tier": "mid"
      },
