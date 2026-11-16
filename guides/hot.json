@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-15T22:45:34Z",
+ "updated": "2026-11-16T00:45:51Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -390,12 +390,11 @@
    "name": "Mr. Coffee Programmable Coffee Maker",
    "pct": 52,
    "rating": 4.3,
-   "t": 1794761716,
+   "t": 1794779971,
    "img": "https://m.media-amazon.com/images/I/81bs-ikI+IL.jpg",
    "link": "https://www.amazon.com/dp/B081DNWG7N?tag=zoepicks00-20",
    "now": "22.99",
    "was": "47.99",
-   "deal": "Early Black Friday Deal",
    "reviews": 10667,
    "tier": "budget"
   },
@@ -1577,6 +1576,20 @@
    "icon": "🍂"
   },
   {
+   "asin": "B0BN79JWGF",
+   "name": "SCODI Men's Flannel Shirt Jacket Fleece Sherpa Lined Plaid…",
+   "pct": 50,
+   "rating": 4.5,
+   "t": 1794785685,
+   "img": "https://m.media-amazon.com/images/I/61nqHKST+bL.jpg",
+   "link": "https://www.amazon.com/dp/B0BN79JWGF?tag=zoepicks00-20",
+   "now": "39.98",
+   "was": "79.99",
+   "theme": "fall",
+   "label": "Fall cozy",
+   "icon": "🍂"
+  },
+  {
    "asin": "B0D2XRXNGY",
    "name": "Soundcore V20i by Anker Open Ear Earbuds",
    "pct": 50,
@@ -1933,20 +1946,6 @@
    "theme": "winter",
    "label": "Winter ready",
    "icon": "🧣"
-  },
-  {
-   "asin": "B095TKYNR2",
-   "name": "Nature's Eats Endurance Cranberry Mix",
-   "pct": 32,
-   "rating": 4.6,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/819ZACl036L.jpg",
-   "link": "https://www.amazon.com/dp/B095TKYNR2?tag=zoepicks00-20",
-   "now": "10.23",
-   "was": "14.98",
-   "theme": "thanksgiving",
-   "label": "Thanksgiving",
-   "icon": "🦃"
   }
  ],
  "themes": [
@@ -1954,11 +1953,6 @@
    "key": "fall",
    "label": "Fall cozy",
    "icon": "🍂"
-  },
-  {
-   "key": "thanksgiving",
-   "label": "Thanksgiving",
-   "icon": "🦃"
   },
   {
    "key": "blackfriday",
