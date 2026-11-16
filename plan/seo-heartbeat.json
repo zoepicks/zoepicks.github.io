@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-16T11:39:58.884602+00:00",
+ "updated": "2026-11-16T14:41:37.645069+00:00",
  "boots_total": 58,
  "recent_boots_utc": [
   "2026-10-31T07:14:24",
@@ -14,7 +14,7 @@
   "2026-11-15T20:08:26",
   "2026-11-15T20:46:04"
  ],
- "last_run_ts": 1794829198.1396077,
+ "last_run_ts": 1794840095.9381216,
  "last_report_ts": 1794818298.3201923,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
@@ -22,15 +22,9 @@
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 49
+  "low": 41
  },
  "recent_runs": [
-  {
-   "t": "2026-11-15T01:17:59",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-15T04:20:09",
    "score": 94,
@@ -84,24 +78,15 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 2
+  },
+  {
+   "t": "2026-11-16T14:41:33",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 1
   }
  ],
  "recent_tasks": [
-  {
-   "t": "2026-11-16T05:36:10",
-   "what": "IndexNow: 6 URL Bing ko bheje",
-   "ok": true
-  },
-  {
-   "t": "2026-11-16T08:37:47",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-16T08:37:47",
-   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
-   "ok": true
-  },
   {
    "t": "2026-11-16T08:37:47",
    "what": "IndexNow: 3 URL Bing ko bheje",
@@ -125,6 +110,21 @@
   {
    "t": "2026-11-16T11:39:58",
    "what": "IndexNow: 2 URL Bing ko bheje",
+   "ok": true
+  },
+  {
+   "t": "2026-11-16T14:41:35",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-16T14:41:35",
+   "what": "SEO check: score 94 (+0), 296 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-16T14:41:35",
+   "what": "IndexNow: 1 URL Bing ko bheje",
    "ok": true
   }
  ]
