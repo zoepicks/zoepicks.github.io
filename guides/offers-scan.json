@@ -11163,14 +11163,14 @@
   },
   "fitness_outdoor:scooter": {
    "label": "Scooter",
-   "tries": 13,
+   "tries": 14,
    "items": [
     {
      "asin": "B0H3VTHV65",
      "name": "VOLPAM Electric Scooter",
      "pct": 30,
      "rating": 4.1,
-     "t": 1794761222,
+     "t": 1794853831,
      "img": "https://m.media-amazon.com/images/I/6106dw+52JL.jpg",
      "link": "https://www.amazon.com/dp/B0H3VTHV65?tag=zoepicks00-20",
      "now": "159.98",
@@ -11181,7 +11181,7 @@
      "_price": 159.98
     }
    ],
-   "scanned": "2026-11-15T16:47:02.512905+00:00",
+   "scanned": "2026-11-16T18:30:31.859325+00:00",
    "via": "sweep"
   },
   "home_kitchen:dishwasher": {
@@ -13687,10 +13687,10 @@
    "types": 22
   },
   "fitness_outdoor": {
-   "at": "2026-11-15T16:47:02.512905+00:00",
+   "at": "2026-11-16T18:30:31.859325+00:00",
    "pages": 5,
    "cards": 120,
-   "offer_cards": 117,
+   "offer_cards": 118,
    "types_hit": 1,
    "types": 11
   },
