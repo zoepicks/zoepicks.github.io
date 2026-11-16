@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-16T06:11:15Z",
+ "updated": "2026-11-16T08:11:23Z",
  "cats": [
   {
    "key": "fashion",
@@ -207,6 +207,18 @@
     "link": "https://www.amazon.com/dp/B07BW1717J?tag=zoepicks00-20",
     "now": "149.95",
     "was": "199.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FF6TNXNV",
+    "name": "Simple Modern Water Bottle",
+    "pct": 25,
+    "rating": 4.1,
+    "t": 1794810225,
+    "img": "https://m.media-amazon.com/images/I/61hg43frQBL.jpg",
+    "link": "https://www.amazon.com/dp/B0FF6TNXNV?tag=zoepicks00-20",
+    "now": "18.74",
+    "was": "24.99",
     "cat": "home"
    }
   ],
