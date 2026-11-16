@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-16T12:49:39Z",
+ "updated": "2026-11-16T14:49:59Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -170,16 +170,16 @@
     "tier": "budget"
    },
    {
-    "asin": "B0CB75SK67",
-    "name": "Coleman Pro 17-Quart Insulated Hard Cooler",
-    "pct": 30,
-    "rating": 4.6,
-    "t": 1794810231,
-    "img": "https://m.media-amazon.com/images/I/816lSwpuzpL.jpg",
-    "link": "https://www.amazon.com/dp/B0CB75SK67?tag=zoepicks00-20",
-    "now": "69.99",
-    "was": "99.99",
-    "reviews": 211,
+    "asin": "B0DY1MGTSF",
+    "name": "NINGO Men's Waterproof Hiking Boots",
+    "pct": 50,
+    "rating": 4.4,
+    "t": 1794781051,
+    "img": "https://m.media-amazon.com/images/I/71AGwnLD8xL.jpg",
+    "link": "https://www.amazon.com/dp/B0DY1MGTSF?tag=zoepicks00-20",
+    "now": "24.99",
+    "was": "49.98",
+    "reviews": 204,
     "tier": "mid"
    },
    {
@@ -490,17 +490,16 @@
     "tier": "budget"
    },
    {
-    "asin": "B0GWGS6JM8",
-    "name": "STRMAC Magnetic Glass Dry Erase Board",
+    "asin": "B0GRY4FRBX",
+    "name": "VIZ-PRO Magnetic Dry Erase Board",
     "pct": 10,
-    "rating": 4.7,
+    "rating": 4.6,
     "t": 1794786714,
-    "img": "https://m.media-amazon.com/images/I/61wTYUk+QML.jpg",
-    "link": "https://www.amazon.com/dp/B0GWGS6JM8?tag=zoepicks00-20",
-    "now": "116.99",
-    "was": "129.99",
-    "deal": "Limited time deal",
-    "reviews": 20,
+    "img": "https://m.media-amazon.com/images/I/51zuJQo84fL.jpg",
+    "link": "https://www.amazon.com/dp/B0GRY4FRBX?tag=zoepicks00-20",
+    "now": "53.91",
+    "was": "59.90",
+    "reviews": 7550,
     "tier": "mid"
    },
    {
@@ -1006,24 +1005,6 @@
     ]
    },
    {
-    "key": "sd-card",
-    "label": "Sd Card",
-    "items": [
-     {
-      "asin": "B0GL4N9YQV",
-      "name": "msi Claw A8 PC Gaming Handheld: AMD Ryzen Z2 Extreme",
-      "pct": 6,
-      "rating": 3.5,
-      "t": 1794708978,
-      "img": "https://m.media-amazon.com/images/I/71+FiHBiNJL.jpg",
-      "link": "https://www.amazon.com/dp/B0GL4N9YQV?tag=zoepicks00-20",
-      "now": "1,218.11",
-      "was": "1,299.99",
-      "reviews": 24
-     }
-    ]
-   },
-   {
     "key": "graphics-card",
     "label": "Graphics Card",
     "items": [
@@ -1089,6 +1070,11 @@
     "items": []
    },
    {
+    "key": "sd-card",
+    "label": "Sd Card",
+    "items": []
+   },
+   {
     "key": "travel-adapters",
     "label": "Travel Adapters",
     "items": []
@@ -1131,24 +1117,6 @@
       "link": "https://www.amazon.com/dp/B00WJ7P95I?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "eye-makeup",
-    "label": "Eye Makeup",
-    "items": [
-     {
-      "asin": "B0BB6B581W",
-      "name": "tarte tartelette tubing mascara",
-      "pct": 73,
-      "rating": 4.4,
-      "t": 1794705459,
-      "img": "https://m.media-amazon.com/images/I/61T4ildEA3L.jpg",
-      "link": "https://www.amazon.com/dp/B0BB6B581W?tag=zoepicks00-20",
-      "now": "23.00",
-      "was": "85.19",
-      "reviews": 4667
      }
     ]
    },
@@ -1506,6 +1474,11 @@
     "items": []
    },
    {
+    "key": "eye-makeup",
+    "label": "Eye Makeup",
+    "items": []
+   },
+   {
     "key": "face-wash",
     "label": "Face Wash",
     "items": []
@@ -1810,24 +1783,6 @@
     ]
    },
    {
-    "key": "record-players",
-    "label": "Record Players",
-    "items": [
-     {
-      "asin": "B0DXKDYSTD",
-      "name": "Vinyl Record Player",
-      "pct": 29,
-      "rating": 4.4,
-      "t": 1794708629,
-      "img": "https://m.media-amazon.com/images/I/51-YMZDH+pL.jpg",
-      "link": "https://www.amazon.com/dp/B0DXKDYSTD?tag=zoepicks00-20",
-      "now": "99.98",
-      "was": "139.99",
-      "reviews": 514
-     }
-    ]
-   },
-   {
     "key": "cameras-beginners",
     "label": "Cameras Beginners",
     "items": [
@@ -1944,6 +1899,11 @@
    {
     "key": "kobo-case",
     "label": "Kobo Case",
+    "items": []
+   },
+   {
+    "key": "record-players",
+    "label": "Record Players",
     "items": []
    },
    {
@@ -2846,8 +2806,7 @@
       "link": "https://www.amazon.com/dp/B0CB75SK67?tag=zoepicks00-20",
       "now": "69.99",
       "was": "99.99",
-      "reviews": 211,
-      "tier": "budget"
+      "reviews": 211
      },
      {
       "asin": "B0DBM3ZJJW",
@@ -2859,21 +2818,7 @@
       "link": "https://www.amazon.com/dp/B0DBM3ZJJW?tag=zoepicks00-20",
       "now": "75.00",
       "was": "100.00",
-      "reviews": 3517,
-      "tier": "mid"
-     },
-     {
-      "asin": "B08TYCLGBC",
-      "name": "Coleman Marine Cooler",
-      "pct": 30,
-      "rating": 4.7,
-      "t": 1794707692,
-      "img": "https://m.media-amazon.com/images/I/71zUOpgc0ZL.jpg",
-      "link": "https://www.amazon.com/dp/B08TYCLGBC?tag=zoepicks00-20",
-      "now": "94.49",
-      "was": "134.99",
-      "reviews": 269,
-      "tier": "premium"
+      "reviews": 3517
      }
     ]
    },
@@ -3365,26 +3310,13 @@
     ]
    },
    {
-    "key": "handheld-gaming-pcs",
-    "label": "Handheld Gaming PCs",
-    "items": [
-     {
-      "asin": "B0GL4N9YQV",
-      "name": "msi Claw A8 PC Gaming Handheld: AMD Ryzen Z2 Extreme",
-      "pct": 6,
-      "rating": 3.5,
-      "t": 1794708978,
-      "img": "https://m.media-amazon.com/images/I/71+FiHBiNJL.jpg",
-      "link": "https://www.amazon.com/dp/B0GL4N9YQV?tag=zoepicks00-20",
-      "now": "1,218.11",
-      "was": "1,299.99",
-      "reviews": 24
-     }
-    ]
-   },
-   {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
+    "items": []
+   },
+   {
+    "key": "handheld-gaming-pcs",
+    "label": "Handheld Gaming PCs",
     "items": []
    },
    {
@@ -3904,24 +3836,6 @@
     ]
    },
    {
-    "key": "comforter-sets",
-    "label": "Comforter Sets",
-    "items": [
-     {
-      "asin": "B0FP4T54YX",
-      "name": "CozyLux King Size Comforter Set",
-      "pct": 33,
-      "rating": 4.4,
-      "t": 1794706024,
-      "img": "https://m.media-amazon.com/images/I/81PEOyKxrML.jpg",
-      "link": "https://www.amazon.com/dp/B0FP4T54YX?tag=zoepicks00-20",
-      "now": "49.99",
-      "was": "74.99",
-      "reviews": 11307
-     }
-    ]
-   },
-   {
     "key": "cookware-set",
     "label": "Cookware Set",
     "items": [
@@ -4187,26 +4101,13 @@
     ]
    },
    {
-    "key": "white-refrigerator",
-    "label": "White Refrigerator",
-    "items": [
-     {
-      "asin": "B0FKSZZ6J1",
-      "name": "BANGSON 7.5 Cu.Ft Retro Refrigerator",
-      "pct": 14,
-      "rating": 4.2,
-      "t": 1794705412,
-      "img": "https://m.media-amazon.com/images/I/51HkB3q-qPL.jpg",
-      "link": "https://www.amazon.com/dp/B0FKSZZ6J1?tag=zoepicks00-20",
-      "now": "479.99",
-      "was": "559.99",
-      "reviews": 34
-     }
-    ]
-   },
-   {
     "key": "stove-pressure-cooker",
     "label": "Stove Pressure Cooker",
+    "items": []
+   },
+   {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
     "items": []
    },
    {
@@ -4232,6 +4133,11 @@
    {
     "key": "weighted-blanket",
     "label": "Weighted Blanket",
+    "items": []
+   },
+   {
+    "key": "white-refrigerator",
+    "label": "White Refrigerator",
     "items": []
    },
    {
@@ -4712,25 +4618,6 @@
     ]
    },
    {
-    "key": "monitors-home-office",
-    "label": "Monitors Home Office",
-    "items": [
-     {
-      "asin": "B0B17KHCQN",
-      "name": "SANSUI Monitor 24 inch 100Hz 120Hz PC Computer Monitor",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1794705351,
-      "img": "https://m.media-amazon.com/images/I/71Ufpo6jZTL.jpg",
-      "link": "https://www.amazon.com/dp/B0B17KHCQN?tag=zoepicks00-20",
-      "now": "84.98",
-      "was": "99.99",
-      "deal": "Limited time deal",
-      "reviews": 6873
-     }
-    ]
-   },
-   {
     "key": "monitors-mac",
     "label": "Monitors Mac",
     "items": [
@@ -4748,6 +4635,11 @@
       "reviews": 780
      }
     ]
+   },
+   {
+    "key": "monitors-home-office",
+    "label": "Monitors Home Office",
+    "items": []
    }
   ],
   "office_books": [
@@ -4802,18 +4694,6 @@
     "key": "document-scanners",
     "label": "Document Scanners",
     "items": [
-     {
-      "asin": "B08NSJQ65L",
-      "name": "CZUR Shine Ultra Smart Portable Document Scanner",
-      "pct": 15,
-      "rating": 4.2,
-      "t": 1794708640,
-      "img": "https://m.media-amazon.com/images/I/51qiIOqsU-L.jpg",
-      "link": "https://www.amazon.com/dp/B08NSJQ65L?tag=zoepicks00-20",
-      "now": "169.15",
-      "was": "199.00",
-      "reviews": 509
-     },
      {
       "asin": "B08JLQ8SNN",
       "name": "CZUR Shine800A3 Pro 8MP A3&A4 Document Scanner",
@@ -5796,24 +5676,6 @@
     ]
    },
    {
-    "key": "pressure-washers",
-    "label": "Pressure Washers",
-    "items": [
-     {
-      "asin": "B085284YHK",
-      "name": "CRAFTSMAN Electric Pressure Washer",
-      "pct": 30,
-      "rating": 4.3,
-      "t": 1794706006,
-      "img": "https://m.media-amazon.com/images/I/71D9KCnDwhL.jpg",
-      "link": "https://www.amazon.com/dp/B085284YHK?tag=zoepicks00-20",
-      "now": "167.30",
-      "was": "239.00",
-      "reviews": 1095
-     }
-    ]
-   },
-   {
     "key": "obd2-scanners",
     "label": "Obd2 Scanners",
     "items": [
@@ -5896,6 +5758,11 @@
    {
     "key": "steering-wheel-cover",
     "label": "Steering Wheel Cover",
+    "items": []
+   },
+   {
+    "key": "pressure-washers",
+    "label": "Pressure Washers",
     "items": []
    }
   ],
