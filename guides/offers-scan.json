@@ -10563,14 +10563,29 @@
   },
   "other:18v-battery": {
    "label": "18v Battery",
-   "tries": 14,
+   "tries": 15,
    "items": [
+    {
+     "asin": "B084Q7RBMK",
+     "name": "BOSCH GBA18V40-2PK 18V CORE18V® Lithium-Ion 4 Ah Advanced…",
+     "pct": 38,
+     "rating": 4.6,
+     "t": 1794795300,
+     "img": "https://m.media-amazon.com/images/I/51mTelo+zUL.jpg",
+     "link": "https://www.amazon.com/dp/B084Q7RBMK?tag=zoepicks00-20",
+     "now": "129.00",
+     "was": "209.00",
+     "deal": "Limited time deal",
+     "reviews": 454,
+     "_title": "BOSCH GBA18V40-2PK 18V CORE18V® Lithium-Ion 4 Ah Advanced Power Battery, 2-Pack",
+     "_price": 129.0
+    },
     {
      "asin": "B08WHC52B9",
      "name": "Bosch GBA18V120 18V CORE18V® Lithium-Ion 12 Ah High Power…",
      "pct": 21,
      "rating": 4.7,
-     "t": 1794618325,
+     "t": 1794795300,
      "img": "https://m.media-amazon.com/images/I/51-1FJQqHfL.jpg",
      "link": "https://www.amazon.com/dp/B08WHC52B9?tag=zoepicks00-20",
      "now": "189.00",
@@ -10585,17 +10600,17 @@
      "name": "Makita BL1850B-2 18V LXT Lithium-Ion 5.0Ah Battery",
      "pct": 8,
      "rating": 4.7,
-     "t": 1794618325,
+     "t": 1794795300,
      "img": "https://m.media-amazon.com/images/I/61af+3pOl5L.jpg",
      "link": "https://www.amazon.com/dp/B015PVD9ME?tag=zoepicks00-20",
      "now": "188.00",
-     "was": "204.99",
-     "reviews": 3946,
+     "was": "204.00",
+     "reviews": 3947,
      "_title": "Makita BL1850B-2 18V LXT Lithium-Ion 5.0Ah Battery, 2/pk, Black | Up to 65% more runtime, 45-minute charge time, impact-re...",
      "_price": 188.0
     }
    ],
-   "scanned": "2026-11-14T01:05:25.731021+00:00"
+   "scanned": "2026-11-16T02:15:00.318205+00:00"
   },
   "fashion:leggings": {
    "label": "Leggings",
