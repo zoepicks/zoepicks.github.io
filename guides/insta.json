@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-17T16:14:03Z",
+ "updated": "2026-11-17T20:19:44Z",
  "cats": [
   {
    "key": "fashion",
@@ -24,7 +24,44 @@
   }
  ],
  "items": {
-  "fashion": [],
+  "fashion": [
+   {
+    "asin": "B0D6FWQ7HY",
+    "name": "BAGSMART Tote Bag for Women",
+    "pct": 43,
+    "rating": 4.6,
+    "t": 1794939972,
+    "img": "https://m.media-amazon.com/images/I/61OsEV2AvWL.jpg",
+    "link": "https://www.amazon.com/dp/B0D6FWQ7HY?tag=zoepicks00-20",
+    "now": "18.23",
+    "was": "31.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0H4YRMGTX",
+    "name": "BAGSMART Puffy Tote Bag",
+    "pct": 34,
+    "rating": 4.5,
+    "t": 1794939972,
+    "img": "https://m.media-amazon.com/images/I/71kxVtJApSL.jpg",
+    "link": "https://www.amazon.com/dp/B0H4YRMGTX?tag=zoepicks00-20",
+    "now": "19.79",
+    "was": "29.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0CL8ZM6BN",
+    "name": "BAGSMART Crush Tote Bag",
+    "pct": 24,
+    "rating": 4.7,
+    "t": 1794939972,
+    "img": "https://m.media-amazon.com/images/I/71U-1ifsKNL.jpg",
+    "link": "https://www.amazon.com/dp/B0CL8ZM6BN?tag=zoepicks00-20",
+    "now": "16.63",
+    "was": "21.99",
+    "cat": "fashion"
+   }
+  ],
   "beauty": [],
   "home": [
    {
@@ -36,6 +73,18 @@
     "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
     "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
     "now": "64.49",
+    "was": "129.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0BZQPXV2L",
+    "name": "nutribullet® Full-Size Blender Combo",
+    "pct": 42,
+    "rating": 4.5,
+    "t": 1794944175,
+    "img": "https://m.media-amazon.com/images/I/71iNNhneDCL.jpg",
+    "link": "https://www.amazon.com/dp/B0BZQPXV2L?tag=zoepicks00-20",
+    "now": "74.99",
     "was": "129.99",
     "cat": "home"
    },
@@ -85,6 +134,18 @@
     "link": "https://www.amazon.com/dp/B0GR4LWYRF?tag=zoepicks00-20",
     "now": "167.99",
     "was": "279.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FSZY4HWQ",
+    "name": "Turelar Immersion Blender Corded 400W",
+    "pct": 37,
+    "rating": 4.6,
+    "t": 1794944180,
+    "img": "https://m.media-amazon.com/images/I/61VjSHEtK1L.jpg",
+    "link": "https://www.amazon.com/dp/B0FSZY4HWQ?tag=zoepicks00-20",
+    "now": "18.87",
+    "was": "29.99",
     "cat": "home"
    },
    {
@@ -169,18 +230,6 @@
     "link": "https://www.amazon.com/dp/B00357YS3A?tag=zoepicks00-20",
     "now": "129.95",
     "was": "169.95",
-    "cat": "home"
-   },
-   {
-    "asin": "B0FF6TNXNV",
-    "name": "Simple Modern Water Bottle",
-    "pct": 25,
-    "rating": 4.1,
-    "t": 1794810225,
-    "img": "https://m.media-amazon.com/images/I/61hg43frQBL.jpg",
-    "link": "https://www.amazon.com/dp/B0FF6TNXNV?tag=zoepicks00-20",
-    "now": "18.74",
-    "was": "24.99",
     "cat": "home"
    }
   ],
