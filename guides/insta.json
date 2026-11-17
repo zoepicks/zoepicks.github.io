@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-17T10:13:33Z",
+ "updated": "2026-11-17T12:13:41Z",
  "cats": [
   {
    "key": "fashion",
@@ -24,20 +24,7 @@
   }
  ],
  "items": {
-  "fashion": [
-   {
-    "asin": "B0DF5NPY4Y",
-    "name": "Kenneth Cole REACTION Ryder Coated Polyester Tech Crossbody…",
-    "pct": 25,
-    "rating": 4.5,
-    "t": 1794853751,
-    "img": "https://m.media-amazon.com/images/I/717IU8FjNHL.jpg",
-    "link": "https://www.amazon.com/dp/B0DF5NPY4Y?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "39.99",
-    "cat": "fashion"
-   }
-  ],
+  "fashion": [],
   "beauty": [],
   "home": [
    {
@@ -49,18 +36,6 @@
     "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
     "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
     "now": "64.49",
-    "was": "129.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B08R6KMBQT",
-    "name": "Instant Pot Vortex Plus Mini 4 Qt 6-in-1 Air Fryer",
-    "pct": 49,
-    "rating": 4.5,
-    "t": 1794781006,
-    "img": "https://m.media-amazon.com/images/I/71XyGxT1ITL.jpg",
-    "link": "https://www.amazon.com/dp/B08R6KMBQT?tag=zoepicks00-20",
-    "now": "66.49",
     "was": "129.99",
     "cat": "home"
    },
