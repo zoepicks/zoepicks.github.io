@@ -6302,14 +6302,29 @@
   },
   "accessories:webcams": {
    "label": "Webcams",
-   "tries": 14,
+   "tries": 15,
    "items": [
+    {
+     "asin": "B0CH3P9K1X",
+     "name": "Elgato Prompter, Teleprompter",
+     "pct": 27,
+     "rating": 4.3,
+     "t": 1794885233,
+     "img": "https://m.media-amazon.com/images/I/711FhPjsfqL.jpg",
+     "link": "https://www.amazon.com/dp/B0CH3P9K1X?tag=zoepicks00-20",
+     "now": "219.99",
+     "was": "299.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 1422,
+     "_title": "Elgato Prompter, Teleprompter with Built-in Screen | Drag-and-drop display, Supports DSLR, webcam, smartphone, Read chat o...",
+     "_price": 219.99
+    },
     {
      "asin": "B0HF4DMCJJ",
      "name": "Webcam for PC,PDAF Autofocus 4K/30 FPS webcam",
      "pct": 20,
      "rating": 4.5,
-     "t": 1794699975,
+     "t": 1794885233,
      "img": "https://m.media-amazon.com/images/I/61XWrLYz1FL.jpg",
      "link": "https://www.amazon.com/dp/B0HF4DMCJJ?tag=zoepicks00-20",
      "now": "39.99",
@@ -6324,7 +6339,7 @@
      "name": "POHO 4K Webcam for PC",
      "pct": 19,
      "rating": 4.8,
-     "t": 1794699975,
+     "t": 1794885233,
      "img": "https://m.media-amazon.com/images/I/61orlmOtEQL.jpg",
      "link": "https://www.amazon.com/dp/B0H8CJBMXX?tag=zoepicks00-20",
      "now": "28.99",
@@ -6339,32 +6354,18 @@
      "name": "EMEET 1080P Webcam",
      "pct": 17,
      "rating": 4.4,
-     "t": 1794699975,
+     "t": 1794885233,
      "img": "https://m.media-amazon.com/images/I/61-K2lXmHQL.jpg",
      "link": "https://www.amazon.com/dp/B07M6Y7355?tag=zoepicks00-20",
      "now": "33.14",
      "was": "39.99",
      "deal": "Limited time deal",
-     "reviews": 33959,
+     "reviews": 33967,
      "_title": "EMEET 1080P Webcam with Microphone, C960 Web Camera 2 Mics Streaming Webcam | 90°FOV Computer Camera, Plug and Play USB We...",
      "_price": 33.14
-    },
-    {
-     "asin": "B0GYQXZKZM",
-     "name": "Angetube 4K Webcam",
-     "pct": 10,
-     "rating": 4.4,
-     "t": 1794699975,
-     "img": "https://m.media-amazon.com/images/I/71bqTyJwNCL.jpg",
-     "link": "https://www.amazon.com/dp/B0GYQXZKZM?tag=zoepicks00-20",
-     "now": "40.47",
-     "was": "44.97",
-     "reviews": 6922,
-     "_title": "Angetube 4K Webcam with Ring Light, Computer Web Camera for Desktop, Laptop | 4K@30FPS, PDAF Autofocus, 1080P@60FPS, 2 Mic...",
-     "_price": 40.47
     }
    ],
-   "scanned": "2026-11-14T23:46:15.364726+00:00"
+   "scanned": "2026-11-17T03:13:53.480447+00:00"
   },
   "fashion:tote-bags": {
    "label": "Tote Bags",
