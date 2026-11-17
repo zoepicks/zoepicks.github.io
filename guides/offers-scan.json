@@ -11146,25 +11146,24 @@
   },
   "fitness_outdoor:scooter": {
    "label": "Scooter",
-   "tries": 14,
+   "tries": 15,
    "items": [
     {
      "asin": "B0H3VTHV65",
      "name": "VOLPAM Electric Scooter",
      "pct": 30,
-     "rating": 4.1,
-     "t": 1794853831,
+     "rating": 4.2,
+     "t": 1794937636,
      "img": "https://m.media-amazon.com/images/I/6106dw+52JL.jpg",
      "link": "https://www.amazon.com/dp/B0H3VTHV65?tag=zoepicks00-20",
      "now": "159.98",
      "was": "229.99",
-     "deal": "Limited time deal",
-     "reviews": 2255,
+     "reviews": 2249,
      "_title": "VOLPAM Electric Scooter, 350W/500W Motor, 21/28/40 Miles Long Range | 19 MPH Max Speed, 8.5\"/10'' Solid Tire, Lightweight ...",
      "_price": 159.98
     }
    ],
-   "scanned": "2026-11-16T18:30:31.859325+00:00",
+   "scanned": "2026-11-17T17:47:16.395251+00:00",
    "via": "sweep"
   },
   "home_kitchen:dishwasher": {
@@ -13479,10 +13478,10 @@
    "types": 22
   },
   "fitness_outdoor": {
-   "at": "2026-11-16T18:30:31.859325+00:00",
+   "at": "2026-11-17T17:47:16.395251+00:00",
    "pages": 5,
    "cards": 120,
-   "offer_cards": 118,
+   "offer_cards": 119,
    "types_hit": 1,
    "types": 11
   },
