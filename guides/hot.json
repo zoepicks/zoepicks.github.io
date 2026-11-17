@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-17T00:54:05Z",
+ "updated": "2026-11-17T04:54:44Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -165,7 +165,7 @@
    "was": "101.99",
    "deal": "Limited time deal",
    "reviews": 165,
-   "tier": "mid"
+   "tier": "budget"
   },
   {
    "asin": "B0H418VYD6",
@@ -193,6 +193,20 @@
    "deal": "Limited time deal",
    "reviews": 22,
    "tier": "premium"
+  },
+  {
+   "asin": "B083DRWNY9",
+   "name": "Bedsure Pillows Standard Size Set of 2",
+   "pct": 65,
+   "rating": 4.4,
+   "t": 1794885337,
+   "img": "https://m.media-amazon.com/images/I/71DFXnN1CnL.jpg",
+   "link": "https://www.amazon.com/dp/B083DRWNY9?tag=zoepicks00-20",
+   "now": "32.99",
+   "was": "92.99",
+   "deal": "Limited time deal",
+   "reviews": 17484,
+   "tier": "budget"
   },
   {
    "asin": "B0BLZXLHKD",
@@ -376,6 +390,20 @@
    "tier": "premium"
   },
   {
+   "asin": "B092MXJFNS",
+   "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+   "pct": 54,
+   "rating": 4.6,
+   "t": 1794883898,
+   "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+   "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+   "now": "12.99",
+   "was": "28.49",
+   "deal": "Early Black Friday Deal",
+   "reviews": 9976,
+   "tier": "mid"
+  },
+  {
    "asin": "B0FZG17R2M",
    "name": "Romswi 3-Piece Set Expandable Luggage Set 20/24/28 Inch",
    "pct": 53,
@@ -388,34 +416,6 @@
    "deal": "Limited time deal",
    "reviews": 238,
    "tier": "mid"
-  },
-  {
-   "asin": "B0GN1XZMGF",
-   "name": "NIMO 15.6\" FHD Light-Gaming-Laptop",
-   "pct": 54,
-   "rating": 4.5,
-   "t": 1794854448,
-   "img": "https://m.media-amazon.com/images/I/71k-N7m+7YL.jpg",
-   "link": "https://www.amazon.com/dp/B0GN1XZMGF?tag=zoepicks00-20",
-   "now": "599.99",
-   "was": "1,299.99",
-   "deal": "Limited time deal",
-   "reviews": 85,
-   "tier": "premium"
-  },
-  {
-   "asin": "B0GYC8MYFC",
-   "name": "12 Pack 9\"x12\" Small White Board",
-   "pct": 50,
-   "rating": 4.8,
-   "t": 1794786714,
-   "img": "https://m.media-amazon.com/images/I/81zZOMxlvXL.jpg",
-   "link": "https://www.amazon.com/dp/B0GYC8MYFC?tag=zoepicks00-20",
-   "now": "14.49",
-   "was": "28.99",
-   "deal": "Limited time deal",
-   "reviews": 27,
-   "tier": "budget"
   }
  ],
  "ess": [
@@ -571,15 +571,15 @@
    "icon": "👕"
   },
   {
-   "asin": "B08RSN7HTT",
-   "name": "Contigo Ashland 2.0 Water Bottle",
-   "pct": 55,
-   "rating": 4.3,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/61zVEiz7KjL.jpg",
-   "link": "https://www.amazon.com/dp/B08RSN7HTT?tag=zoepicks00-20",
-   "now": "11.99",
-   "was": "26.79",
+   "asin": "B092MXJFNS",
+   "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+   "pct": 54,
+   "rating": 4.6,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+   "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+   "now": "12.99",
+   "was": "28.49",
    "deal": "Early Black Friday Deal",
    "cat": "bottles",
    "label": "Bottles & tumblers",
@@ -644,20 +644,6 @@
    "icon": "🧴"
   },
   {
-   "asin": "B0HJRWGTWC",
-   "name": "Naturally Fresh Quick Clumping Litter 16 lb Two Pack",
-   "pct": 38,
-   "rating": 4.6,
-   "t": 1794852874,
-   "img": "https://m.media-amazon.com/images/I/71hh5Qs9nFL.jpg",
-   "link": "https://www.amazon.com/dp/B0HJRWGTWC?tag=zoepicks00-20",
-   "now": "24.64",
-   "was": "39.99",
-   "cat": "cat",
-   "label": "Cat food & litter",
-   "icon": "🐱"
-  },
-  {
    "asin": "B0H9ZQJC9X",
    "name": "HAPPY NUTS Whole Body Deodorant Men Use Daily As Aluminum…",
    "pct": 38,
@@ -671,6 +657,20 @@
    "cat": "deodorant",
    "label": "Deodorant",
    "icon": "🧴"
+  },
+  {
+   "asin": "B0HJRWGTWC",
+   "name": "Naturally Fresh Quick Clumping Litter 16 lb Two Pack",
+   "pct": 38,
+   "rating": 4.6,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71hh5Qs9nFL.jpg",
+   "link": "https://www.amazon.com/dp/B0HJRWGTWC?tag=zoepicks00-20",
+   "now": "24.64",
+   "was": "39.99",
+   "cat": "cat",
+   "label": "Cat food & litter",
+   "icon": "🐱"
   },
   {
    "asin": "B0CW1R212H",
@@ -790,34 +790,6 @@
    "icon": "🧼"
   },
   {
-   "asin": "B0GS1D264B",
-   "name": "Delxo 30-33 Gallon Trash Bags",
-   "pct": 25,
-   "rating": 4.1,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/71Y3yRZXYWL.jpg",
-   "link": "https://www.amazon.com/dp/B0GS1D264B?tag=zoepicks00-20",
-   "now": "29.98",
-   "was": "39.99",
-   "cat": "trash_bags",
-   "label": "Trash bags",
-   "icon": "🗑️"
-  },
-  {
-   "asin": "B0D3BVTSXG",
-   "name": "Eulnars Reusable Paper Towels",
-   "pct": 22,
-   "rating": 4.7,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/81oPBvzFPjL.jpg",
-   "link": "https://www.amazon.com/dp/B0D3BVTSXG?tag=zoepicks00-20",
-   "now": "13.98",
-   "was": "17.99",
-   "cat": "paper_towels",
-   "label": "Paper towels",
-   "icon": "🧻"
-  },
-  {
    "asin": "B00E1Z145U",
    "name": "Badia Garam Masala Indian Blend",
    "pct": 22,
@@ -892,6 +864,21 @@
    "icon": "🍽️"
   },
   {
+   "asin": "B09T87PM9J",
+   "name": "White Cloud Ultra PRO Paper Towel",
+   "pct": 18,
+   "rating": 4.7,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71o-bP97DJL.jpg",
+   "link": "https://www.amazon.com/dp/B09T87PM9J?tag=zoepicks00-20",
+   "now": "23.39",
+   "was": "28.49",
+   "deal": "Limited time deal",
+   "cat": "paper_towels",
+   "label": "Paper towels",
+   "icon": "🧻"
+  },
+  {
    "asin": "B0FF1HZL7Q",
    "name": "HAPPY NUTS Nut & Body Wash",
    "pct": 16,
@@ -905,6 +892,21 @@
    "cat": "body_wash",
    "label": "Body wash",
    "icon": "🚿"
+  },
+  {
+   "asin": "B00OY288UE",
+   "name": "Plasticplace 35 Gallon Trash Bags │ 1.5 Mil │ Black Heavy…",
+   "pct": 15,
+   "rating": 4.6,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/51lw5nAXuML.jpg",
+   "link": "https://www.amazon.com/dp/B00OY288UE?tag=zoepicks00-20",
+   "now": "34.20",
+   "was": "40.39",
+   "deal": "Early Black Friday Deal",
+   "cat": "trash_bags",
+   "label": "Trash bags",
+   "icon": "🗑️"
   },
   {
    "asin": "B0CJMQ4VLQ",
@@ -1006,15 +1008,15 @@
    "icon": "👟"
   },
   {
-   "asin": "B00JN3CFSK",
-   "name": "Nautica Men's Classic Fit Pocket T-Shirt",
+   "asin": "B07QK9LVDR",
+   "name": "Puma Men's Men's 3 Pack Crew Neck T-Shirts",
    "pct": 55,
-   "rating": 4.6,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/51-gfx4gWLL.jpg",
-   "link": "https://www.amazon.com/dp/B00JN3CFSK?tag=zoepicks00-20",
-   "now": "15.65",
-   "was": "34.50",
+   "rating": 4.3,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71guukTbgYL.jpg",
+   "link": "https://www.amazon.com/dp/B07QK9LVDR?tag=zoepicks00-20",
+   "now": "10.23",
+   "was": "22.80",
    "deal": "Early Black Friday Deal",
    "cat": "tees",
    "label": "T-shirts",
@@ -1051,16 +1053,15 @@
    "icon": "🏃"
   },
   {
-   "asin": "B0916P4BHV",
-   "name": "Eddie Bauer - Twin Sheet Set",
+   "asin": "B0869F6JYB",
+   "name": "INTEX 16.5in Queen Dura-Beam Pillow Rest Air Mattress",
    "pct": 44,
    "rating": 4.3,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/61r-5eryotL.jpg",
-   "link": "https://www.amazon.com/dp/B0916P4BHV?tag=zoepicks00-20",
-   "now": "27.99",
-   "was": "49.99",
-   "deal": "Early Black Friday Deal",
+   "t": 1794862668,
+   "img": "https://m.media-amazon.com/images/I/61haLEz9mlL.jpg",
+   "link": "https://www.amazon.com/dp/B0869F6JYB?tag=zoepicks00-20",
+   "now": "26.76",
+   "was": "47.99",
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
@@ -1108,15 +1109,15 @@
    "icon": "🧥"
   },
   {
-   "asin": "B0GHRJLKP7",
+   "asin": "B0GHRQTH24",
    "name": "BAGSMART Yoga Pilates Tote Bag",
-   "pct": 21,
+   "pct": 15,
    "rating": 4.5,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/61HC7Pd4rEL.jpg",
-   "link": "https://www.amazon.com/dp/B0GHRJLKP7?tag=zoepicks00-20",
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71eEug9QB1L.jpg",
+   "link": "https://www.amazon.com/dp/B0GHRQTH24?tag=zoepicks00-20",
    "now": "21.99",
-   "was": "27.99",
+   "was": "25.99",
    "deal": "Limited time deal",
    "cat": "bags",
    "label": "Backpacks",
@@ -1150,15 +1151,15 @@
    "icon": "👟"
   },
   {
-   "asin": "B0777572ZZ",
-   "name": "Lucky Brand Men's Venice Burnout Notch Neck Tee Shirt",
-   "pct": 52,
-   "rating": 4.5,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/81H0f6l3sJL.jpg",
-   "link": "https://www.amazon.com/dp/B0777572ZZ?tag=zoepicks00-20",
-   "now": "16.45",
-   "was": "34.50",
+   "asin": "B0846KX5BR",
+   "name": "Nautica Men's Nautica Men's Navtech Colorblock Tee",
+   "pct": 25,
+   "rating": 4.6,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/81nQP4nF0IL.jpg",
+   "link": "https://www.amazon.com/dp/B0846KX5BR?tag=zoepicks00-20",
+   "now": "14.44",
+   "was": "19.19",
    "deal": "Early Black Friday Deal",
    "cat": "tees",
    "label": "T-shirts",
@@ -1180,15 +1181,16 @@
    "icon": "🥤"
   },
   {
-   "asin": "B0869F6JYB",
-   "name": "INTEX 16.5in Queen Dura-Beam Pillow Rest Air Mattress",
-   "pct": 44,
-   "rating": 4.3,
-   "t": 1794862668,
-   "img": "https://m.media-amazon.com/images/I/61haLEz9mlL.jpg",
-   "link": "https://www.amazon.com/dp/B0869F6JYB?tag=zoepicks00-20",
-   "now": "26.76",
-   "was": "47.99",
+   "asin": "B094FMHTKN",
+   "name": "Cathay Home Queen Sheet Set",
+   "pct": 40,
+   "rating": 4.6,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71qt84FDqLL.jpg",
+   "link": "https://www.amazon.com/dp/B094FMHTKN?tag=zoepicks00-20",
+   "now": "13.22",
+   "was": "21.99",
+   "deal": "Limited time deal",
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
@@ -1264,15 +1266,16 @@
    "icon": "👟"
   },
   {
-   "asin": "B07G9VT7CQ",
-   "name": "Levi's Men's Graphic Tees",
-   "pct": 41,
-   "rating": 4.6,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/71K3P3dqpzL.jpg",
-   "link": "https://www.amazon.com/dp/B07G9VT7CQ?tag=zoepicks00-20",
-   "now": "14.84",
-   "was": "24.95",
+   "asin": "B07RD8RBJB",
+   "name": "Disney Shirts Camp Rock Logo Graphic Tees T Shirts",
+   "pct": 15,
+   "rating": 4.7,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/61LNylt4ajL.jpg",
+   "link": "https://www.amazon.com/dp/B07RD8RBJB?tag=zoepicks00-20",
+   "now": "16.99",
+   "was": "19.99",
+   "deal": "Limited time deal",
    "cat": "tees",
    "label": "T-shirts",
    "icon": "👕"
@@ -1291,21 +1294,6 @@
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
-  },
-  {
-   "asin": "B0D73163YM",
-   "name": "VESPRO 30 Pack Bulk Hand Cream and Bulk Lip Balm Sets",
-   "pct": 15,
-   "rating": 4.7,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/81cYREcfk4L.jpg",
-   "link": "https://www.amazon.com/dp/B0D73163YM?tag=zoepicks00-20",
-   "now": "22.08",
-   "was": "25.99",
-   "deal": "Limited time deal",
-   "cat": "care",
-   "label": "Personal care",
-   "icon": "🪒"
   },
   {
    "asin": "B0H7RF8J94",
@@ -1349,15 +1337,16 @@
    "icon": "👟"
   },
   {
-   "asin": "B0D25Y5QPD",
-   "name": "CozyLux Queen Comforter Set",
-   "pct": 33,
+   "asin": "B09SHT43GV",
+   "name": "Bedsure Comforter Set Queen Size",
+   "pct": 29,
    "rating": 4.6,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/71WQODcJxQL.jpg",
-   "link": "https://www.amazon.com/dp/B0D25Y5QPD?tag=zoepicks00-20",
-   "now": "21.98",
-   "was": "32.99",
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/91Kti4GcqUL.jpg",
+   "link": "https://www.amazon.com/dp/B09SHT43GV?tag=zoepicks00-20",
+   "now": "49.98",
+   "was": "69.99",
+   "deal": "Limited time deal",
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
@@ -1462,37 +1451,9 @@
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
-  },
-  {
-   "asin": "B0CT3G8SD8",
-   "name": "LARNMERN Steel Toe Loafers Women Slip On Work Safety Shoes…",
-   "pct": 15,
-   "rating": 4.5,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/71+WVhsz6pL.jpg",
-   "link": "https://www.amazon.com/dp/B0CT3G8SD8?tag=zoepicks00-20",
-   "now": "37.32",
-   "was": "43.90",
-   "cat": "shoes",
-   "label": "Shoes",
-   "icon": "👟"
   }
  ],
  "trend": [
-  {
-   "asin": "B0HH3QY96L",
-   "name": "Wireless Earbuds, ANC Noise Cancelling Ear Buds",
-   "pct": 76,
-   "rating": 4.8,
-   "t": 1794760284,
-   "img": "https://m.media-amazon.com/images/I/61z35Yvxm4L.jpg",
-   "link": "https://www.amazon.com/dp/B0HH3QY96L?tag=zoepicks00-20",
-   "now": "16.99",
-   "was": "69.99",
-   "theme": "blackfriday",
-   "label": "Black Friday",
-   "icon": "🛍️"
-  },
   {
    "asin": "B0B1N7LJD3",
    "name": "Blink Outdoor 4 – Wireless smart security camera",
@@ -1711,6 +1672,20 @@
    "icon": "🛍️"
   },
   {
+   "asin": "B0CXZTT4MT",
+   "name": "Amazon Fire TV Soundbar Plus",
+   "pct": 44,
+   "rating": 4.3,
+   "t": 1794776140,
+   "img": "https://m.media-amazon.com/images/I/71PmvIthA6L.jpg",
+   "link": "https://www.amazon.com/dp/B0CXZTT4MT?tag=zoepicks00-20",
+   "now": "139.99",
+   "was": "249.99",
+   "theme": "blackfriday",
+   "label": "Black Friday",
+   "icon": "🛍️"
+  },
+  {
    "asin": "B0H711VPX8",
    "name": "Space Heaters for Indoor Use",
    "pct": 41,
@@ -1896,6 +1871,21 @@
    "theme": "christmas",
    "label": "Christmas gifts",
    "icon": "🎁"
+  },
+  {
+   "asin": "B0D9H3MJWV",
+   "name": "EoBeKee Thermal Underwear",
+   "pct": 25,
+   "rating": 4.5,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/71kTP+4sFyL.jpg",
+   "link": "https://www.amazon.com/dp/B0D9H3MJWV?tag=zoepicks00-20",
+   "now": "14.99",
+   "was": "19.99",
+   "deal": "Limited time deal",
+   "theme": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
   },
   {
    "asin": "B095TKYNR2",
