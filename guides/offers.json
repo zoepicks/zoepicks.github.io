@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-17T14:52:50Z",
+ "updated": "2026-11-17T16:53:01Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -804,24 +804,6 @@
     ]
    },
    {
-    "key": "phone-gimbal",
-    "label": "Phone Gimbal",
-    "items": [
-     {
-      "asin": "B0BK52KFP8",
-      "name": "DJI OM 5 Smartphone Gimbal Stabilizer",
-      "pct": 42,
-      "rating": 4.6,
-      "t": 1794802889,
-      "img": "https://m.media-amazon.com/images/I/510uNFl2WjL.jpg",
-      "link": "https://www.amazon.com/dp/B0BK52KFP8?tag=zoepicks00-20",
-      "now": "59.00",
-      "was": "101.01",
-      "reviews": 203
-     }
-    ]
-   },
-   {
     "key": "computer-mouse",
     "label": "Computer Mouse",
     "items": [
@@ -983,6 +965,11 @@
    {
     "key": "phone-case",
     "label": "Phone Case",
+    "items": []
+   },
+   {
+    "key": "phone-gimbal",
+    "label": "Phone Gimbal",
     "items": []
    },
    {
@@ -2597,24 +2584,6 @@
     ]
    },
    {
-    "key": "rain-jackets",
-    "label": "Rain Jackets",
-    "items": [
-     {
-      "asin": "B0GCMYDDL6",
-      "name": "Women's Long Rain Jacket Waterproof Packable Hooded Raincoat",
-      "pct": 23,
-      "rating": 4.5,
-      "t": 1794802868,
-      "img": "https://m.media-amazon.com/images/I/71b8w9tQ6lL.jpg",
-      "link": "https://www.amazon.com/dp/B0GCMYDDL6?tag=zoepicks00-20",
-      "now": "45.99",
-      "was": "59.99",
-      "reviews": 674
-     }
-    ]
-   },
-   {
     "key": "travel-backpacks",
     "label": "Travel Backpacks",
     "items": [
@@ -2701,6 +2670,11 @@
    {
     "key": "medium-luggage",
     "label": "Medium Luggage",
+    "items": []
+   },
+   {
+    "key": "rain-jackets",
+    "label": "Rain Jackets",
     "items": []
    },
    {
@@ -4849,16 +4823,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0BK52KFP8",
-      "name": "DJI OM 5 Smartphone Gimbal Stabilizer",
-      "pct": 42,
-      "rating": 4.6,
-      "t": 1794802889,
-      "img": "https://m.media-amazon.com/images/I/510uNFl2WjL.jpg",
-      "link": "https://www.amazon.com/dp/B0BK52KFP8?tag=zoepicks00-20",
-      "now": "59.00",
-      "was": "101.01",
-      "reviews": 203,
+      "asin": "B0DJ79NKXK",
+      "name": "TELESIN C03 Magnetic Selfie Light",
+      "pct": 10,
+      "rating": 4.5,
+      "t": 1794854521,
+      "img": "https://m.media-amazon.com/images/I/61G5Jhtv9+L.jpg",
+      "link": "https://www.amazon.com/dp/B0DJ79NKXK?tag=zoepicks00-20",
+      "now": "20.21",
+      "was": "22.46",
+      "deal": "Limited time deal",
+      "reviews": 1333,
       "tier": "mid"
      },
      {
