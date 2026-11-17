@@ -29,9 +29,12 @@
    "best_for": "Players who want the official Nintendo experience",
    "skip_if": "You need specialized features like turbo or retro styling",
    "link": "https://www.amazon.com/s?k=Nintendo+Switch+Pro+Controller&tag=zoepicks00-20",
-   "fill_tries": 2,
+   "fill_tries": 0,
    "fill_last": "Nov 16, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B01NAWKYZ0",
+   "image": "https://m.media-amazon.com/images/I/71F5nnoo8gL.jpg",
+   "image_asin": "B01NAWKYZ0"
   },
   {
    "name": "PowerA Advantage",
@@ -54,7 +57,13 @@
    ],
    "best_for": "Budget‑conscious gamers",
    "skip_if": "You require wireless play",
-   "link": "https://www.amazon.com/s?k=PowerA+Advantage&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=PowerA+Advantage&tag=zoepicks00-20",
+   "asin": "B0CCW9BDHB",
+   "image": "https://m.media-amazon.com/images/I/71kmtMkd+OL.jpg",
+   "image_asin": "B0CCW9BDHB",
+   "amazon_price": "$34.99",
+   "amazon_price_asof": "Nov 17, 2026",
+   "amazon_listing": "PowerA Advantage Wired Controller for Xbox Series X|S with Lumectra - Black, gamepad, wire"
   },
   {
    "name": "8BitDo Ultimate",
@@ -77,7 +86,13 @@
    ],
    "best_for": "Fans of retro‑styled controllers",
    "skip_if": "You prefer the official Nintendo feel",
-   "link": "https://www.amazon.com/s?k=8BitDo+Ultimate&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=8BitDo+Ultimate&tag=zoepicks00-20",
+   "asin": "B0DR8V899R",
+   "image": "https://m.media-amazon.com/images/I/718TLhNbG-L.jpg",
+   "image_asin": "B0DR8V899R",
+   "amazon_price": "$59.99",
+   "amazon_price_asof": "Nov 17, 2026",
+   "amazon_listing": "8Bitdo Ultimate 2 Wireless Controller for PC, Apple, Steam & Android, Black | TMR Joystick"
   }
  ],
  "verdict": {
