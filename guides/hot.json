@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-17T06:54:54Z",
+ "updated": "2026-11-17T08:55:03Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -237,20 +237,6 @@
    "tier": "premium"
   },
   {
-   "asin": "B09SW6GCGL",
-   "name": "Gran Turismo 7 Standard Edition",
-   "pct": 57,
-   "rating": 4.7,
-   "t": 1794854051,
-   "img": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg",
-   "link": "https://www.amazon.com/dp/B09SW6GCGL?tag=zoepicks00-20",
-   "now": "29.99",
-   "was": "69.99",
-   "deal": "Early Black Friday Deal",
-   "reviews": 2292,
-   "tier": "mid"
-  },
-  {
    "asin": "B0F95XVBFS",
    "name": "Blink Outdoor 2K+ (newest model)",
    "pct": 66,
@@ -411,6 +397,19 @@
    "was": "35.00",
    "reviews": 164934,
    "tier": "mid"
+  },
+  {
+   "asin": "B0HFQV651V",
+   "name": "Drone with Camera 1080P HD FPV",
+   "pct": 47,
+   "rating": 4.8,
+   "t": 1794883745,
+   "img": "https://m.media-amazon.com/images/I/71I2eDZjRwL.jpg",
+   "link": "https://www.amazon.com/dp/B0HFQV651V?tag=zoepicks00-20",
+   "now": "39.99",
+   "was": "75.99",
+   "reviews": 36,
+   "tier": "budget"
   }
  ],
  "ess": [
@@ -1053,21 +1052,6 @@
    "icon": "👕"
   },
   {
-   "asin": "B0BJV1JM39",
-   "name": "nuveti Large Exercise Mat",
-   "pct": 20,
-   "rating": 4.6,
-   "t": 1794852874,
-   "img": "https://m.media-amazon.com/images/I/71th12IdbyL.jpg",
-   "link": "https://www.amazon.com/dp/B0BJV1JM39?tag=zoepicks00-20",
-   "now": "63.99",
-   "was": "79.99",
-   "deal": "Limited time deal",
-   "cat": "fitness",
-   "label": "Fitness basics",
-   "icon": "🏃"
-  },
-  {
    "asin": "B0GX13VWXJ",
    "name": "Termitor Latest H13/9008 & H10 LED Bulbs Combo",
    "pct": 22,
@@ -1181,16 +1165,15 @@
    "icon": "🥤"
   },
   {
-   "asin": "B0846KX5BR",
-   "name": "Nautica Men's Nautica Men's Navtech Colorblock Tee",
-   "pct": 25,
-   "rating": 4.6,
-   "t": 1794852874,
-   "img": "https://m.media-amazon.com/images/I/81nQP4nF0IL.jpg",
-   "link": "https://www.amazon.com/dp/B0846KX5BR?tag=zoepicks00-20",
-   "now": "14.44",
-   "was": "19.19",
-   "deal": "Early Black Friday Deal",
+   "asin": "B01IXFQBOM",
+   "name": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
+   "pct": 29,
+   "rating": 4.3,
+   "t": 1794900510,
+   "img": "https://m.media-amazon.com/images/I/91aVotHt1WL.jpg",
+   "link": "https://www.amazon.com/dp/B01IXFQBOM?tag=zoepicks00-20",
+   "now": "10.80",
+   "was": "15.30",
    "cat": "tees",
    "label": "T-shirts",
    "icon": "👕"
@@ -1283,16 +1266,16 @@
    "icon": "👟"
   },
   {
-   "asin": "B07RD8RBJB",
-   "name": "Disney Shirts Camp Rock Logo Graphic Tees T Shirts",
-   "pct": 15,
-   "rating": 4.7,
+   "asin": "B0846KX5BR",
+   "name": "Nautica Men's Nautica Men's Navtech Colorblock Tee",
+   "pct": 25,
+   "rating": 4.6,
    "t": 1794852874,
-   "img": "https://m.media-amazon.com/images/I/61LNylt4ajL.jpg",
-   "link": "https://www.amazon.com/dp/B07RD8RBJB?tag=zoepicks00-20",
-   "now": "16.99",
-   "was": "19.99",
-   "deal": "Limited time deal",
+   "img": "https://m.media-amazon.com/images/I/81nQP4nF0IL.jpg",
+   "link": "https://www.amazon.com/dp/B0846KX5BR?tag=zoepicks00-20",
+   "now": "14.44",
+   "was": "19.19",
+   "deal": "Early Black Friday Deal",
    "cat": "tees",
    "label": "T-shirts",
    "icon": "👕"
@@ -1354,6 +1337,21 @@
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
+  },
+  {
+   "asin": "B07RD8RBJB",
+   "name": "Disney Shirts Camp Rock Logo Graphic Tees T Shirts",
+   "pct": 15,
+   "rating": 4.7,
+   "t": 1794852874,
+   "img": "https://m.media-amazon.com/images/I/61LNylt4ajL.jpg",
+   "link": "https://www.amazon.com/dp/B07RD8RBJB?tag=zoepicks00-20",
+   "now": "16.99",
+   "was": "19.99",
+   "deal": "Limited time deal",
+   "cat": "tees",
+   "label": "T-shirts",
+   "icon": "👕"
   },
   {
    "asin": "B08JHMT4KS",
