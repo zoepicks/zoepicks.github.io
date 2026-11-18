@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-18T06:57:53Z",
+ "updated": "2026-11-18T08:58:04Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -14,7 +14,7 @@
    "was": "159.99",
    "deal": "Limited time deal",
    "reviews": 25,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B0HK399ZQQ",
@@ -113,18 +113,6 @@
    "tier": "premium"
   },
   {
-   "asin": "B089GBFM7G",
-   "name": "ColourPop Nude Mood Eyeshadow Palette",
-   "pct": 70,
-   "rating": 4.5,
-   "t": 1794861104,
-   "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
-   "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
-   "now": "14.00",
-   "was": "46.67",
-   "reviews": 5428
-  },
-  {
    "asin": "B0HGZJMY6L",
    "name": "Swimming Headphones Bone Conduction Bluetooth 6.0 IPX8…",
    "pct": 61,
@@ -163,7 +151,7 @@
    "was": "92.99",
    "deal": "Limited time deal",
    "reviews": 17484,
-   "tier": "budget"
+   "tier": "mid"
   },
   {
    "asin": "B0HFZTYH9G",
@@ -249,20 +237,6 @@
    "tier": "budget"
   },
   {
-   "asin": "B0DV4WPXNM",
-   "name": "Blink Outdoor 4 XR",
-   "pct": 65,
-   "rating": 4.0,
-   "t": 1794938674,
-   "img": "https://m.media-amazon.com/images/I/41m2iCrMakL.jpg",
-   "link": "https://www.amazon.com/dp/B0DV4WPXNM?tag=zoepicks00-20",
-   "now": "58.99",
-   "was": "169.99",
-   "deal": "Limited time deal",
-   "reviews": 6176,
-   "tier": "mid"
-  },
-  {
    "asin": "B0HMGGY24K",
    "name": "Sencre Ice Makers Countertop",
    "pct": 52,
@@ -277,6 +251,20 @@
    "tier": "premium"
   },
   {
+   "asin": "B0DV4WPXNM",
+   "name": "Blink Outdoor 4 XR",
+   "pct": 65,
+   "rating": 4.0,
+   "t": 1794938674,
+   "img": "https://m.media-amazon.com/images/I/41m2iCrMakL.jpg",
+   "link": "https://www.amazon.com/dp/B0DV4WPXNM?tag=zoepicks00-20",
+   "now": "58.99",
+   "was": "169.99",
+   "deal": "Limited time deal",
+   "reviews": 6176,
+   "tier": "premium"
+  },
+  {
    "asin": "B0FHSVCYGK",
    "name": "AEROPOSTALE Men's New York Pullover Hoodie",
    "pct": 57,
@@ -288,6 +276,20 @@
    "was": "35.36",
    "reviews": 0,
    "tier": "budget"
+  },
+  {
+   "asin": "B0GGDX4WLC",
+   "name": "Blink Outdoor XR+ — Extended Range Wireless Outdoor 4 Camera",
+   "pct": 65,
+   "rating": 3.9,
+   "t": 1794938674,
+   "img": "https://m.media-amazon.com/images/I/41q0bXmkCEL.jpg",
+   "link": "https://www.amazon.com/dp/B0GGDX4WLC?tag=zoepicks00-20",
+   "now": "174.99",
+   "was": "499.99",
+   "deal": "Limited time deal",
+   "reviews": 789,
+   "tier": "mid"
   },
   {
    "asin": "B0HHCVY2QS",
@@ -315,7 +317,7 @@
    "was": "28.49",
    "deal": "Early Black Friday Deal",
    "reviews": 9976,
-   "tier": "mid"
+   "tier": "budget"
   },
   {
    "asin": "B0GN1XZMGF",
@@ -343,20 +345,6 @@
    "deal": "Limited time deal",
    "reviews": 70,
    "tier": "premium"
-  },
-  {
-   "asin": "B09DS3FG6P",
-   "name": "Sunyear Quilted Camping Hammock",
-   "pct": 50,
-   "rating": 4.7,
-   "t": 1794883912,
-   "img": "https://m.media-amazon.com/images/I/61n6hyc3RpL.jpg",
-   "link": "https://www.amazon.com/dp/B09DS3FG6P?tag=zoepicks00-20",
-   "now": "29.99",
-   "was": "59.99",
-   "deal": "Limited time deal",
-   "reviews": 46,
-   "tier": "mid"
   },
   {
    "asin": "B0HNJHLKTZ",
@@ -387,6 +375,20 @@
    "tier": "mid"
   },
   {
+   "asin": "B09DS3FG6P",
+   "name": "Sunyear Quilted Camping Hammock",
+   "pct": 50,
+   "rating": 4.7,
+   "t": 1794883912,
+   "img": "https://m.media-amazon.com/images/I/61n6hyc3RpL.jpg",
+   "link": "https://www.amazon.com/dp/B09DS3FG6P?tag=zoepicks00-20",
+   "now": "29.99",
+   "was": "59.99",
+   "deal": "Limited time deal",
+   "reviews": 46,
+   "tier": "mid"
+  },
+  {
    "asin": "B0CPL1ZK6Q",
    "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
    "pct": 57,
@@ -400,18 +402,18 @@
    "tier": "budget"
   },
   {
-   "asin": "B0HNRSRX9V",
-   "name": "AOC Wireless Gaming Headset",
+   "asin": "B08DH7CVCR",
+   "name": "Armani Beauty My Way Eau de Parfum",
    "pct": 50,
    "rating": 4.6,
-   "t": 1794937864,
-   "img": "https://m.media-amazon.com/images/I/71jCe3Tp9LL.jpg",
-   "link": "https://www.amazon.com/dp/B0HNRSRX9V?tag=zoepicks00-20",
-   "now": "39.99",
-   "was": "79.99",
-   "deal": "Limited time deal",
-   "reviews": 719,
-   "tier": "budget"
+   "t": 1794939084,
+   "img": "https://m.media-amazon.com/images/I/61HPUKHEiFL.jpg",
+   "link": "https://www.amazon.com/dp/B08DH7CVCR?tag=zoepicks00-20",
+   "now": "87.00",
+   "was": "174.00",
+   "deal": "Early Black Friday Deal",
+   "reviews": 6922,
+   "tier": "premium"
   }
  ],
  "ess": [
@@ -1594,20 +1596,6 @@
    "icon": "🛍️"
   },
   {
-   "asin": "B0HDPN6KYB",
-   "name": "[VIDAA Live TV & 8000 ANSI & Now",
-   "pct": 50,
-   "rating": 4.7,
-   "t": 1794862536,
-   "img": "https://m.media-amazon.com/images/I/71riE7e-G+L.jpg",
-   "link": "https://www.amazon.com/dp/B0HDPN6KYB?tag=zoepicks00-20",
-   "now": "299.99",
-   "was": "599.99",
-   "theme": "blackfriday",
-   "label": "Black Friday",
-   "icon": "🛍️"
-  },
-  {
    "asin": "B0FM3674YY",
    "name": "Laptop Bag for Women",
    "pct": 50,
@@ -1675,6 +1663,18 @@
    "theme": "winter",
    "label": "Winter ready",
    "icon": "🧣"
+  },
+  {
+   "asin": "B07NLHMYH4",
+   "name": "Emeril Lagasse Everyday 360 Air Fryer Oven",
+   "pct": 48,
+   "rating": 4.4,
+   "t": 1794981743,
+   "img": "https://m.media-amazon.com/images/I/61aazm1BzHL.jpg",
+   "link": "https://www.amazon.com/dp/B07NLHMYH4?tag=zoepicks00-20",
+   "theme": "blackfriday",
+   "label": "Black Friday",
+   "icon": "🛍️"
   },
   {
    "asin": "B0D4YMV3D3",
