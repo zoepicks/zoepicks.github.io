@@ -439,14 +439,14 @@
   },
   "gaming:playstation": {
    "label": "Playstation",
-   "tries": 34,
+   "tries": 35,
    "items": [
     {
      "asin": "B0B61YDF5V",
      "name": "God of War Ragnarök",
      "pct": 57,
      "rating": 4.8,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/81Pagnfx1DL.jpg",
      "link": "https://www.amazon.com/dp/B0B61YDF5V?tag=zoepicks00-20",
      "now": "29.99",
@@ -461,13 +461,13 @@
      "name": "Gran Turismo 7 Standard Edition",
      "pct": 57,
      "rating": 4.7,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg",
      "link": "https://www.amazon.com/dp/B09SW6GCGL?tag=zoepicks00-20",
      "now": "29.99",
      "was": "69.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 2293,
+     "reviews": 2294,
      "_title": "Gran Turismo 7 Standard Edition - PlayStation 5",
      "_price": 29.99
     },
@@ -476,7 +476,7 @@
      "name": "EA SPORTS NHL 27 - Physical Disc",
      "pct": 50,
      "rating": 4.4,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/61EdXiKSHjL.jpg",
      "link": "https://www.amazon.com/dp/B0H8QND851?tag=zoepicks00-20",
      "now": "35.00",
@@ -487,11 +487,26 @@
      "_price": 35.0
     },
     {
+     "asin": "B08QFWWJ8K",
+     "name": "Marvel's Spider-Man: Miles Morales Ultimate Edition",
+     "pct": 43,
+     "rating": 4.8,
+     "t": 1795023127,
+     "img": "https://m.media-amazon.com/images/I/81k2F67bOfL.jpg",
+     "link": "https://www.amazon.com/dp/B08QFWWJ8K?tag=zoepicks00-20",
+     "now": "39.97",
+     "was": "69.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 2204,
+     "_title": "Marvel's Spider-Man: Miles Morales Ultimate Edition - PlayStation 5",
+     "_price": 39.97
+    },
+    {
      "asin": "B0GWGFCHFP",
      "name": "EA Sports UFC 6 Sony PlayStation 5",
      "pct": 43,
      "rating": 4.4,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/81rnWZ7H3bL.jpg",
      "link": "https://www.amazon.com/dp/B0GWGFCHFP?tag=zoepicks00-20",
      "now": "39.99",
@@ -506,37 +521,22 @@
      "name": "Turtle Beach Victrix Pro BFG Reloaded Wireless Gaming…",
      "pct": 38,
      "rating": 4.0,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71K9LzSWkZL.jpg",
      "link": "https://www.amazon.com/dp/B0DYVVZ4F6?tag=zoepicks00-20",
      "now": "129.99",
      "was": "209.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 654,
+     "reviews": 659,
      "_title": "Turtle Beach Victrix Pro BFG Reloaded Wireless Gaming Controller for PS5 | PS5, PS4, PlayStation, PC, Modular, Fightpad Mo...",
      "_price": 129.99
-    },
-    {
-     "asin": "B0GTR8FFJV",
-     "name": "Mouse: P.I. For Hire",
-     "pct": 33,
-     "rating": 4.8,
-     "t": 1794937864,
-     "img": "https://m.media-amazon.com/images/I/71CREONaJeL.jpg",
-     "link": "https://www.amazon.com/dp/B0GTR8FFJV?tag=zoepicks00-20",
-     "now": "19.99",
-     "was": "29.99",
-     "deal": "Early Black Friday Deal",
-     "reviews": 210,
-     "_title": "Mouse: P.I. For Hire - PlayStation 5",
-     "_price": 19.99
     },
     {
      "asin": "B0G3BFGGMB",
      "name": "Star Wars: Dark Forces Remaster",
      "pct": 33,
      "rating": 4.8,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/816K1f2TCcL.jpg",
      "link": "https://www.amazon.com/dp/B0G3BFGGMB?tag=zoepicks00-20",
      "now": "19.99",
@@ -551,18 +551,18 @@
      "name": "Marvel Tōkon: Fighting Souls- PlayStation 5",
      "pct": 33,
      "rating": 4.7,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/91Dt1IIsOFL.jpg",
      "link": "https://www.amazon.com/dp/B0GNT5PJS7?tag=zoepicks00-20",
      "now": "39.97",
      "was": "59.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 212,
+     "reviews": 214,
      "_title": "Marvel Tōkon: Fighting Souls- PlayStation 5",
      "_price": 39.97
     }
    ],
-   "scanned": "2026-11-17T17:51:04.726803+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "hobby_music:usb-microphones": {
@@ -3345,14 +3345,14 @@
   },
   "gaming:gaming-controllers": {
    "label": "Gaming Controllers",
-   "tries": 33,
+   "tries": 34,
    "items": [
     {
      "asin": "B0FD69BD3P",
      "name": "Turtle Beach Victrix Pro BFG Reloaded Wireless Gaming…",
      "pct": 38,
      "rating": 4.2,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71XIPUZy-kL.jpg",
      "link": "https://www.amazon.com/dp/B0FD69BD3P?tag=zoepicks00-20",
      "now": "129.99",
@@ -3363,25 +3363,24 @@
      "_price": 129.99
     }
    ],
-   "scanned": "2026-11-17T17:51:04.726803+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "gaming:gaming-headsets": {
    "label": "Gaming Headsets",
-   "tries": 33,
+   "tries": 34,
    "items": [
     {
      "asin": "B0HNRSRX9V",
      "name": "AOC Wireless Gaming Headset",
      "pct": 50,
      "rating": 4.6,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71jCe3Tp9LL.jpg",
      "link": "https://www.amazon.com/dp/B0HNRSRX9V?tag=zoepicks00-20",
      "now": "39.99",
      "was": "79.99",
-     "deal": "Limited time deal",
-     "reviews": 719,
+     "reviews": 720,
      "_title": "AOC\nWireless\nGaming\nHeadset\nfor\nPS5,\nPS4,\nNintendo\nSwitch,\nPC-\nBlack | Bluetooth 5.4 & 2.4GHz Gaming Headphones with Noise...",
      "_price": 39.99
     },
@@ -3390,13 +3389,13 @@
      "name": "Turtle Beach Airlite Fit Wired Gaming Headset",
      "pct": 46,
      "rating": 4.6,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71S15RUV9aL.jpg",
      "link": "https://www.amazon.com/dp/B0F1R2437T?tag=zoepicks00-20",
      "now": "14.99",
      "was": "27.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 540,
+     "reviews": 543,
      "_title": "Turtle Beach Airlite Fit Wired Gaming Headset for Nintendo Switch 2, Lite | Also works with Nintendo Switch OLED, Flip-to-...",
      "_price": 14.99
     },
@@ -3404,14 +3403,13 @@
      "asin": "B0HJH57M9R",
      "name": "Gaming Headset Wireless",
      "pct": 43,
-     "rating": 5.0,
-     "t": 1794937864,
+     "rating": 4.0,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71bAWMl-wYL.jpg",
      "link": "https://www.amazon.com/dp/B0HJH57M9R?tag=zoepicks00-20",
      "now": "33.99",
      "was": "59.99",
-     "deal": "Limited time deal",
-     "reviews": 24,
+     "reviews": 107,
      "_title": "Gaming Headset Wireless with Mic for PS5, PS4, PC, Laptop 20ms Low Latency | 2.4GHz USB & Bluetooth 5.4 Gaming Headphones,...",
      "_price": 33.99
     },
@@ -3420,62 +3418,32 @@
      "name": "HyperX Cloud Flight 2",
      "pct": 38,
      "rating": 4.3,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71dz62R5BBL.jpg",
      "link": "https://www.amazon.com/dp/B0FP1YT84W?tag=zoepicks00-20",
      "now": "79.99",
      "was": "129.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 299,
+     "reviews": 300,
      "_title": "HyperX Cloud Flight 2 – Wireless Gaming Headset for PS5, PS4, Switch, PC, Mac, and Mobile, Up to 100-Hour (2.4GHz) / 150-H...",
      "_price": 79.99
-    },
-    {
-     "asin": "B0HKFQSNFQ",
-     "name": "BENGOO 60H Wireless Gaming Headset",
-     "pct": 25,
-     "rating": 4.5,
-     "t": 1794937864,
-     "img": "https://m.media-amazon.com/images/I/61EreGujcIL.jpg",
-     "link": "https://www.amazon.com/dp/B0HKFQSNFQ?tag=zoepicks00-20",
-     "now": "29.98",
-     "was": "39.99",
-     "reviews": 738,
-     "_title": "BENGOO 60H Wireless Gaming Headset with RGB Lights for PS5 PS4 PC | 7.1 Surround Sound, Noise Cancelling Mic, Bluetooth 5....",
-     "_price": 29.98
-    },
-    {
-     "asin": "B07XHGLSGF",
-     "name": "EKSA E1000 USB PC Gaming Headset",
-     "pct": 20,
-     "rating": 4.3,
-     "t": 1794937864,
-     "img": "https://m.media-amazon.com/images/I/71PcR7eUIwL.jpg",
-     "link": "https://www.amazon.com/dp/B07XHGLSGF?tag=zoepicks00-20",
-     "now": "25.49",
-     "was": "31.99",
-     "deal": "Limited time deal",
-     "reviews": 10964,
-     "_title": "EKSA E1000 USB PC Gaming Headset with Mic , 7.1 Surround Sound | Computer Headphones with Microphone Noise Cancelling, RGB...",
-     "_price": 25.49
     },
     {
      "asin": "B08141GQQG",
      "name": "Logitech G733 Lightspeed Wireless Gaming Headset",
      "pct": 17,
      "rating": 4.4,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71vbwAtkcsL.jpg",
      "link": "https://www.amazon.com/dp/B08141GQQG?tag=zoepicks00-20",
      "now": "99.99",
      "was": "119.99",
-     "deal": "Limited time deal",
-     "reviews": 19915,
+     "reviews": 19916,
      "_title": "Logitech G733 Lightspeed Wireless Gaming Headset - White | Suspension headband, LIGHTSYNC RGB, Blue VO!CE mic technology, ...",
      "_price": 99.99
     }
    ],
-   "scanned": "2026-11-17T17:51:04.726803+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "home_kitchen:blenders": {
@@ -6319,20 +6287,19 @@
   },
   "gaming:pc-controllers": {
    "label": "PC Controllers",
-   "tries": 33,
+   "tries": 34,
    "items": [
     {
      "asin": "B0HNJHLKTZ",
      "name": "AOC PC Controller with Interactive Screen",
      "pct": 50,
      "rating": 4.7,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71qro5mkKvL.jpg",
      "link": "https://www.amazon.com/dp/B0HNJHLKTZ?tag=zoepicks00-20",
      "now": "49.99",
      "was": "99.99",
-     "deal": "Limited time deal",
-     "reviews": 1367,
+     "reviews": 1370,
      "_title": "AOC PC Controller with Interactive Screen, Hall Effect Sticks & Triggers | for PC/Switch/Switch 2/PS4/iOS/Android/Steam De...",
      "_price": 49.99
     },
@@ -6341,7 +6308,7 @@
      "name": "Turtle Beach Victrix Pro BFG Reloaded Wireless Gaming…",
      "pct": 38,
      "rating": 4.2,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71XIPUZy-kL.jpg",
      "link": "https://www.amazon.com/dp/B0FD69BD3P?tag=zoepicks00-20",
      "now": "129.99",
@@ -6356,18 +6323,18 @@
      "name": "PlayStation DualSense™ Wireless Controller",
      "pct": 28,
      "rating": 4.7,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/61GNEp3auhL.jpg",
      "link": "https://www.amazon.com/dp/B0FY6Y9WZT?tag=zoepicks00-20",
      "now": "54.00",
      "was": "74.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 51527,
+     "reviews": 51573,
      "_title": "PlayStation DualSense™ Wireless Controller – Midnight Black - For PS5, PC, MAC & Mobile",
      "_price": 54.0
     }
    ],
-   "scanned": "2026-11-17T17:51:04.726803+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "smart_home:mesh-wi-fi-systems": {
@@ -8052,25 +8019,40 @@
   },
   "gaming:nintendo-switch-lite": {
    "label": "Nintendo Switch Lite",
-   "tries": 29,
+   "tries": 30,
    "items": [
+    {
+     "asin": "B08DRRJBC6",
+     "name": "PowerA Enhanced Wireless Controller",
+     "pct": 54,
+     "rating": 4.3,
+     "t": 1795023127,
+     "img": "https://m.media-amazon.com/images/I/71MlKoonK-L.jpg",
+     "link": "https://www.amazon.com/dp/B08DRRJBC6?tag=zoepicks00-20",
+     "now": "31.89",
+     "was": "69.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 5183,
+     "_title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2 / Switch Lite/OLED Model - Black - Gamepad, game controll...",
+     "_price": 31.89
+    },
     {
      "asin": "B0F1R2437T",
      "name": "Turtle Beach Airlite Fit Wired Gaming Headset",
      "pct": 46,
      "rating": 4.6,
-     "t": 1794937864,
+     "t": 1795023127,
      "img": "https://m.media-amazon.com/images/I/71S15RUV9aL.jpg",
      "link": "https://www.amazon.com/dp/B0F1R2437T?tag=zoepicks00-20",
      "now": "14.99",
      "was": "27.99",
      "deal": "Early Black Friday Deal",
-     "reviews": 540,
+     "reviews": 543,
      "_title": "Turtle Beach Airlite Fit Wired Gaming Headset for Nintendo Switch 2, Lite | Also works with Nintendo Switch OLED, Flip-to-...",
      "_price": 14.99
     }
    ],
-   "scanned": "2026-11-17T17:51:04.726803+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "home_kitchen:vacuums": {
@@ -8800,9 +8782,26 @@
   },
   "gaming:game-controller": {
    "label": "Game Controller",
-   "tries": 19,
-   "items": [],
-   "scanned": "2026-11-18T03:51:23.632979+00:00"
+   "tries": 20,
+   "items": [
+    {
+     "asin": "B08DRRJBC6",
+     "name": "PowerA Enhanced Wireless Controller",
+     "pct": 54,
+     "rating": 4.3,
+     "t": 1795023127,
+     "img": "https://m.media-amazon.com/images/I/71MlKoonK-L.jpg",
+     "link": "https://www.amazon.com/dp/B08DRRJBC6?tag=zoepicks00-20",
+     "now": "31.89",
+     "was": "69.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 5183,
+     "_title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2 / Switch Lite/OLED Model - Black - Gamepad, game controll...",
+     "_price": 31.89
+    }
+   ],
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
+   "via": "sweep"
   },
   "home_kitchen:stanley-lunch-box": {
    "label": "Stanley Lunch Box",
@@ -12061,9 +12060,26 @@
   },
   "gaming:nintendo-switch-games": {
    "label": "Nintendo Switch Games",
-   "tries": 9,
-   "items": [],
-   "scanned": "2026-11-18T02:39:12.582583+00:00"
+   "tries": 10,
+   "items": [
+    {
+     "asin": "B08DRRJBC6",
+     "name": "PowerA Enhanced Wireless Controller",
+     "pct": 54,
+     "rating": 4.3,
+     "t": 1795023127,
+     "img": "https://m.media-amazon.com/images/I/71MlKoonK-L.jpg",
+     "link": "https://www.amazon.com/dp/B08DRRJBC6?tag=zoepicks00-20",
+     "now": "31.89",
+     "was": "69.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 5183,
+     "_title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2 / Switch Lite/OLED Model - Black - Gamepad, game controll...",
+     "_price": 31.89
+    }
+   ],
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
+   "via": "sweep"
   },
   "home_kitchen:white-refrigerator": {
    "label": "White Refrigerator",
@@ -12719,25 +12735,25 @@
   },
   "gaming:nintendo-switch-controller": {
    "label": "Nintendo Switch Controller",
-   "tries": 11,
+   "tries": 12,
    "items": [
     {
-     "asin": "B0CX1NCM8X",
-     "name": "Spican Switch Controllers",
-     "pct": 17,
-     "rating": 4.5,
-     "t": 1794854051,
-     "img": "https://m.media-amazon.com/images/I/71sr5AtqnwL.jpg",
-     "link": "https://www.amazon.com/dp/B0CX1NCM8X?tag=zoepicks00-20",
-     "now": "33.29",
-     "was": "39.99",
-     "deal": "Limited time deal",
-     "reviews": 2455,
-     "_title": "Spican Switch Controllers for Nintendo Switch/Switch OLED, Hall Effect Switch Wireless Pro Controller One-Piece Joypad, Fu...",
-     "_price": 33.29
+     "asin": "B08DRRJBC6",
+     "name": "PowerA Enhanced Wireless Controller",
+     "pct": 54,
+     "rating": 4.3,
+     "t": 1795023127,
+     "img": "https://m.media-amazon.com/images/I/71MlKoonK-L.jpg",
+     "link": "https://www.amazon.com/dp/B08DRRJBC6?tag=zoepicks00-20",
+     "now": "31.89",
+     "was": "69.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 5183,
+     "_title": "PowerA Enhanced Wireless Controller for Nintendo Switch/Switch 2 / Switch Lite/OLED Model - Black - Gamepad, game controll...",
+     "_price": 31.89
     }
    ],
-   "scanned": "2026-11-16T18:34:11.053864+00:00",
+   "scanned": "2026-11-18T17:32:07.688183+00:00",
    "via": "sweep"
   },
   "other:multimeter": {
@@ -13143,11 +13159,11 @@
    "types": 7
   },
   "gaming": {
-   "at": "2026-11-17T17:51:04.726803+00:00",
+   "at": "2026-11-18T17:32:07.688183+00:00",
    "pages": 5,
    "cards": 80,
    "offer_cards": 73,
-   "types_hit": 5,
+   "types_hit": 8,
    "types": 18
   },
   "hobby_music": {
