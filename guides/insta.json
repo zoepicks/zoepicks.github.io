@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T20:23:45Z",
+ "updated": "2026-11-18T22:23:52Z",
  "cats": [
   {
    "key": "fashion",
@@ -78,6 +78,18 @@
   ],
   "home": [
    {
+    "asin": "B08FPBY5XD",
+    "name": "Intelligent Design Queen Comforter Set",
+    "pct": 53,
+    "rating": 4.5,
+    "t": 1795036993,
+    "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
+    "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
+    "now": "23.93",
+    "was": "50.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0BZQPXV2L",
     "name": "nutribullet® Full-Size Blender Combo",
     "pct": 42,
@@ -99,18 +111,6 @@
     "link": "https://www.amazon.com/dp/B0FSZY4HWQ?tag=zoepicks00-20",
     "now": "18.87",
     "was": "29.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B07BKLQR7R",
-    "name": "Cuisinart Smart Stick 2-Speed Hand Blender",
-    "pct": 37,
-    "rating": 4.4,
-    "t": 1794905179,
-    "img": "https://m.media-amazon.com/images/I/614d3XL8+kL.jpg",
-    "link": "https://www.amazon.com/dp/B07BKLQR7R?tag=zoepicks00-20",
-    "now": "37.95",
-    "was": "59.95",
     "cat": "home"
    },
    {
@@ -159,18 +159,6 @@
     "link": "https://www.amazon.com/dp/B0GY4QTR2T?tag=zoepicks00-20",
     "now": "49.99",
     "was": "65.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B00357YS3A",
-    "name": "Breville BOV650XL Compact Smart Oven and Countertop Toaster",
-    "pct": 24,
-    "rating": 4.4,
-    "t": 1794905172,
-    "img": "https://m.media-amazon.com/images/I/512NdV5cj8L.jpg",
-    "link": "https://www.amazon.com/dp/B00357YS3A?tag=zoepicks00-20",
-    "now": "129.95",
-    "was": "169.95",
     "cat": "home"
    },
    {
