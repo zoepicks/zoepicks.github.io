@@ -7896,5 +7896,47 @@
   "parent": "best-projectors-2026",
   "tab": "art",
   "tab_label": "Art"
+ },
+ {
+  "title": "Best Small Camera (2026)",
+  "slug": "best-small-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "small",
+  "tab_label": "Small"
+ },
+ {
+  "title": "Best Small Mattress (2026)",
+  "slug": "best-small-mattress-2026",
+  "category": "furniture_decor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-bed-mattress-2026",
+  "tab": "small",
+  "tab_label": "Small"
+ },
+ {
+  "title": "Best Waterproof Notebook (2026)",
+  "slug": "best-waterproof-notebook-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Controller Grip Cream (2026)",
+  "slug": "best-controller-grip-cream-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
