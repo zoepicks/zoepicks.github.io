@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T14:21:10Z",
+ "updated": "2026-11-18T20:23:45Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,6 +26,18 @@
  "items": {
   "fashion": [
    {
+    "asin": "B06XWGMMJW",
+    "name": "Tommy Hilfiger Women's Jaden Satchel Crossbody Bag",
+    "pct": 75,
+    "rating": 4.6,
+    "t": 1795022799,
+    "img": "https://m.media-amazon.com/images/I/816VM6IC9GL.jpg",
+    "link": "https://www.amazon.com/dp/B06XWGMMJW?tag=zoepicks00-20",
+    "now": "34.84",
+    "was": "138.00",
+    "cat": "fashion"
+   },
+   {
     "asin": "B0D6FWQ7HY",
     "name": "BAGSMART Tote Bag for Women",
     "pct": 43,
@@ -35,18 +47,6 @@
     "link": "https://www.amazon.com/dp/B0D6FWQ7HY?tag=zoepicks00-20",
     "now": "18.23",
     "was": "31.99",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0H4YRMGTX",
-    "name": "BAGSMART Puffy Tote Bag",
-    "pct": 34,
-    "rating": 4.5,
-    "t": 1794947045,
-    "img": "https://m.media-amazon.com/images/I/71kxVtJApSL.jpg",
-    "link": "https://www.amazon.com/dp/B0H4YRMGTX?tag=zoepicks00-20",
-    "now": "19.79",
-    "was": "29.99",
     "cat": "fashion"
    },
    {
@@ -78,18 +78,6 @@
   ],
   "home": [
    {
-    "asin": "B07N41G198",
-    "name": "Madison Park Marina Comforter Quilt Combo Set",
-    "pct": 50,
-    "rating": 4.5,
-    "t": 1794896718,
-    "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
-    "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
-    "now": "64.49",
-    "was": "129.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0BZQPXV2L",
     "name": "nutribullet® Full-Size Blender Combo",
     "pct": 42,
@@ -99,18 +87,6 @@
     "link": "https://www.amazon.com/dp/B0BZQPXV2L?tag=zoepicks00-20",
     "now": "74.99",
     "was": "129.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0D4YMV3D3",
-    "name": "Bedsure Christmas Comforter Set Queen",
-    "pct": 40,
-    "rating": 4.6,
-    "t": 1794896725,
-    "img": "https://m.media-amazon.com/images/I/91vS-RoPnyL.jpg",
-    "link": "https://www.amazon.com/dp/B0D4YMV3D3?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "82.99",
     "cat": "home"
    },
    {
@@ -138,18 +114,6 @@
     "cat": "home"
    },
    {
-    "asin": "B0BF434ZJG",
-    "name": "Topcee Weighted Blanket",
-    "pct": 35,
-    "rating": 4.5,
-    "t": 1794896713,
-    "img": "https://m.media-amazon.com/images/I/71GAjd9YZ+L.jpg",
-    "link": "https://www.amazon.com/dp/B0BF434ZJG?tag=zoepicks00-20",
-    "now": "16.98",
-    "was": "25.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0GVQS3W18",
     "name": "4-Tier Medicine Organizer",
     "pct": 35,
@@ -159,30 +123,6 @@
     "link": "https://www.amazon.com/dp/B0GVQS3W18?tag=zoepicks00-20",
     "now": "27.97",
     "was": "42.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0BPH9K19C",
-    "name": "CuteKing Weighted Blanket",
-    "pct": 33,
-    "rating": 4.5,
-    "t": 1794896707,
-    "img": "https://m.media-amazon.com/images/I/61IKgv1-ZFL.jpg",
-    "link": "https://www.amazon.com/dp/B0BPH9K19C?tag=zoepicks00-20",
-    "now": "29.94",
-    "was": "44.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0GGGPVFDW",
-    "name": "zibroges Cervical Neck Pillow",
-    "pct": 32,
-    "rating": 4.5,
-    "t": 1794896736,
-    "img": "https://m.media-amazon.com/images/I/81gS0gbUdOL.jpg",
-    "link": "https://www.amazon.com/dp/B0GGGPVFDW?tag=zoepicks00-20",
-    "now": "39.98",
-    "was": "58.99",
     "cat": "home"
    },
    {
