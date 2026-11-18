@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T02:20:14Z",
+ "updated": "2026-11-18T04:20:21Z",
  "cats": [
   {
    "key": "fashion",
@@ -62,7 +62,20 @@
     "cat": "fashion"
    }
   ],
-  "beauty": [],
+  "beauty": [
+   {
+    "asin": "B08H43738R",
+    "name": "Maybelline Lash Sensational Sky High Waterproof Mascara",
+    "pct": 23,
+    "rating": 4.5,
+    "t": 1794972536,
+    "img": "https://m.media-amazon.com/images/I/71WQw-edm9L.jpg",
+    "link": "https://www.amazon.com/dp/B08H43738R?tag=zoepicks00-20",
+    "now": "10.82",
+    "was": "54.10",
+    "cat": "beauty"
+   }
+  ],
   "home": [
    {
     "asin": "B07N41G198",
@@ -233,6 +246,30 @@
     "cat": "home"
    },
    {
+    "asin": "B00NONCLDO",
+    "name": "STANLEY Classic Lunch Box",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1794970764,
+    "img": "https://m.media-amazon.com/images/I/71BD0wTYpmL.jpg",
+    "link": "https://www.amazon.com/dp/B00NONCLDO?tag=zoepicks00-20",
+    "now": "41.25",
+    "was": "55.00",
+    "cat": "home"
+   },
+   {
+    "asin": "B0DTN46Q7Z",
+    "name": "STANLEY Quick Flip GO Bottle",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1794972522,
+    "img": "https://m.media-amazon.com/images/I/61UwPURB5aL.jpg",
+    "link": "https://www.amazon.com/dp/B0DTN46Q7Z?tag=zoepicks00-20",
+    "now": "21.00",
+    "was": "28.00",
+    "cat": "home"
+   },
+   {
     "asin": "B0GY4QTR2T",
     "name": "Fieetra Fireproof Document Box",
     "pct": 24,
@@ -254,6 +291,18 @@
     "link": "https://www.amazon.com/dp/B00357YS3A?tag=zoepicks00-20",
     "now": "129.95",
     "was": "169.95",
+    "cat": "home"
+   },
+   {
+    "asin": "B002QZ11J6",
+    "name": "Dr Infrared Heater DR-968 Portable Space Heater",
+    "pct": 21,
+    "rating": 4.5,
+    "t": 1794972516,
+    "img": "https://m.media-amazon.com/images/I/91BfDvRKGRL.jpg",
+    "link": "https://www.amazon.com/dp/B002QZ11J6?tag=zoepicks00-20",
+    "now": "98.80",
+    "was": "124.98",
     "cat": "home"
    },
    {
