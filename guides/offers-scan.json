@@ -11630,38 +11630,52 @@
   },
   "gaming:game-console": {
    "label": "Game Console",
-   "tries": 8,
+   "tries": 9,
    "items": [
+    {
+     "asin": "B0BT3XY8XG",
+     "name": "My Arcade Atari Pocket Player-Console preloaded",
+     "pct": 11,
+     "rating": 4.2,
+     "t": 1795026056,
+     "img": "https://m.media-amazon.com/images/I/71opqZDlpOL.jpg",
+     "link": "https://www.amazon.com/dp/B0BT3XY8XG?tag=zoepicks00-20",
+     "now": "39.99",
+     "was": "44.99",
+     "reviews": 738,
+     "_title": "My Arcade Atari Pocket Player-Console preloaded with 100 Games, 2.8\" Screen | Retro Gaming, Portable Game, Gifts for Birth...",
+     "_price": 39.99
+    },
     {
      "asin": "B0HNRCXCFP",
      "name": "20,000 + Games Handheld Game Console 4 Inch IPS Linux…",
-     "pct": 14,
+     "pct": 7,
      "rating": 5.0,
-     "t": 1794861244,
+     "t": 1795026056,
      "img": "https://m.media-amazon.com/images/I/81PUl9QOciL.jpg",
      "link": "https://www.amazon.com/dp/B0HNRCXCFP?tag=zoepicks00-20",
-     "now": "59.99",
+     "now": "64.99",
      "was": "69.99",
-     "reviews": 26,
+     "reviews": 27,
      "_title": "20,000 + Games Handheld Game Console 4 Inch IPS Linux Gaming Console | 64GB Card Rechargeable Portable Video Game Console ...",
-     "_price": 59.99
+     "_price": 64.99
     },
     {
      "asin": "B0BT36XWTS",
      "name": "My Arcade Atari Game Station Pro: Retro Video Game Console",
      "pct": 7,
      "rating": 3.8,
-     "t": 1794861244,
+     "t": 1795026056,
      "img": "https://m.media-amazon.com/images/I/71BsGaR3TxL.jpg",
      "link": "https://www.amazon.com/dp/B0BT36XWTS?tag=zoepicks00-20",
      "now": "92.99",
      "was": "99.99",
-     "reviews": 1320,
+     "reviews": 1321,
      "_title": "My Arcade Atari Game Station Pro: Retro Video Game Console with 200+ Games, Wireless Joysticks, RGB LED Lights",
      "_price": 92.99
     }
    ],
-   "scanned": "2026-11-16T20:34:04.413265+00:00"
+   "scanned": "2026-11-18T18:20:56.905903+00:00"
   },
   "tools_auto:steering-wheel-cover": {
    "label": "Steering Wheel Cover",
