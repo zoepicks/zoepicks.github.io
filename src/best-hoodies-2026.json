@@ -111,12 +111,12 @@
    "fill_last": "Oct 18, 2026",
    "fill_failed": false,
    "asin": "B0DFYYGRS9",
-   "amazon_price": "$127.95",
-   "amazon_price_asof": "Nov 16, 2026",
+   "amazon_price": "$128.00",
+   "amazon_price_asof": "Nov 17, 2026",
    "amazon_listing": "REIGNING CHAMP Men's Midweight Terry Standard Hoodie | Midweight Terry Standard Hoodie com",
    "amazon_rating": "4.5",
    "amazon_reviews": 11,
-   "amazon_rating_asof": "Nov 16, 2026",
+   "amazon_rating_asof": "Nov 17, 2026",
    "image": "https://m.media-amazon.com/images/I/71mtLUOGLlL.jpg",
    "image_asin": "B0DFYYGRS9"
   },
@@ -157,11 +157,11 @@
    "image": "https://m.media-amazon.com/images/I/61S3xORPw4L.jpg",
    "image_asin": "B000GBS1EU",
    "amazon_price": "$52.52",
-   "amazon_price_asof": "Nov 16, 2026",
+   "amazon_price_asof": "Nov 17, 2026",
    "amazon_listing": "Champion Men's Men' Reverse Weave Fleece Pullover Hood",
    "amazon_rating": "4.3",
    "amazon_reviews": 1454,
-   "amazon_rating_asof": "Nov 16, 2026"
+   "amazon_rating_asof": "Nov 17, 2026"
   },
   {
    "name": "Reigning Champ Midweight Terry Standard Hoodie",
@@ -197,11 +197,11 @@
    "image": "https://m.media-amazon.com/images/I/61vTj8q62VL.jpg",
    "image_asin": "B0DX3GNY99",
    "amazon_price": "$138.00",
-   "amazon_price_asof": "Nov 16, 2026",
+   "amazon_price_asof": "Nov 17, 2026",
    "amazon_listing": "REIGNING CHAMP Men's Mid-Weight Terry Standard Zip Hoodie | Midweight Terry Classic Zip Ho",
    "amazon_rating": "4",
    "amazon_reviews": 9,
-   "amazon_rating_asof": "Nov 16, 2026"
+   "amazon_rating_asof": "Nov 17, 2026"
   },
   {
    "name": "Carhartt Rain Defender Loose Fit Heavyweight Hoodie",
@@ -340,8 +340,8 @@
    "tabs": [
     "oversized"
    ],
-   "fill_tries": 4,
-   "fill_last": "Nov 11, 2026",
+   "fill_tries": 5,
+   "fill_last": "Nov 17, 2026",
    "fill_failed": true
   },
   {
@@ -374,8 +374,8 @@
    "tabs": [
     "oversized"
    ],
-   "fill_tries": 4,
-   "fill_last": "Nov 11, 2026",
+   "fill_tries": 5,
+   "fill_last": "Nov 17, 2026",
    "fill_failed": true
   },
   {
@@ -408,9 +408,18 @@
    "tabs": [
     "oversized"
    ],
-   "fill_tries": 4,
+   "fill_tries": 0,
    "fill_last": "Nov 11, 2026",
-   "fill_failed": true
+   "fill_failed": false,
+   "asin": "B0746SDSGQ",
+   "image": "https://m.media-amazon.com/images/I/71UorXY8CwL.jpg",
+   "image_asin": "B0746SDSGQ",
+   "amazon_price": "$30.19",
+   "amazon_price_asof": "Nov 17, 2026",
+   "amazon_listing": "Champion Men's Reverse Weave Joggers, C Applique",
+   "amazon_rating": "4.3",
+   "amazon_reviews": 2701,
+   "amazon_rating_asof": "Nov 17, 2026"
   }
  ],
  "tips": {
