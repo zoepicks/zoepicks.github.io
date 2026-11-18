@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T10:20:44Z",
+ "updated": "2026-11-18T12:20:55Z",
  "cats": [
   {
    "key": "fashion",
@@ -102,18 +102,6 @@
     "cat": "home"
    },
    {
-    "asin": "B0G4V5X47W",
-    "name": "Fanttik V8 Mate Upgraded Cordless Car Vacuum",
-    "pct": 43,
-    "rating": 4.3,
-    "t": 1794870004,
-    "img": "https://m.media-amazon.com/images/I/61MYuT5LMoL.jpg",
-    "link": "https://www.amazon.com/dp/B0G4V5X47W?tag=zoepicks00-20",
-    "now": "45.99",
-    "was": "79.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0D4YMV3D3",
     "name": "Bedsure Christmas Comforter Set Queen",
     "pct": 40,
@@ -123,18 +111,6 @@
     "link": "https://www.amazon.com/dp/B0D4YMV3D3?tag=zoepicks00-20",
     "now": "49.99",
     "was": "82.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B000MDHH06",
-    "name": "Breville BJE200XL Juice Fountain Compact Centrifugal Machine",
-    "pct": 40,
-    "rating": 4.5,
-    "t": 1794870019,
-    "img": "https://m.media-amazon.com/images/I/71lXEv3tnoL.jpg",
-    "link": "https://www.amazon.com/dp/B000MDHH06?tag=zoepicks00-20",
-    "now": "59.95",
-    "was": "99.95",
     "cat": "home"
    },
    {
@@ -219,18 +195,6 @@
     "link": "https://www.amazon.com/dp/B0BPH9K19C?tag=zoepicks00-20",
     "now": "29.94",
     "was": "44.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B003R28HWQ",
-    "name": "Breville JE98XL Juice Fountain Plus",
-    "pct": 33,
-    "rating": 4.5,
-    "t": 1794870012,
-    "img": "https://m.media-amazon.com/images/I/51GtiTNHXrL.jpg",
-    "link": "https://www.amazon.com/dp/B003R28HWQ?tag=zoepicks00-20",
-    "now": "99.95",
-    "was": "149.95",
     "cat": "home"
    },
    {
@@ -332,6 +296,90 @@
   ],
   "kids": [
    {
+    "asin": "B00MOD31XY",
+    "name": "Deer Stags Boys' Wise Slip On Youth Dress Shoes Loafers",
+    "pct": 60,
+    "rating": 4.5,
+    "t": 1794999587,
+    "img": "https://m.media-amazon.com/images/I/61V3gn1yZ2L.jpg",
+    "link": "https://www.amazon.com/dp/B00MOD31XY?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "75.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0FDBJML3F",
+    "name": "PROJECT CLOUD Kids Boots 100% Genuine Leather Fur-Lined…",
+    "pct": 52,
+    "rating": 4.6,
+    "t": 1795001437,
+    "img": "https://m.media-amazon.com/images/I/81g5f9DTc1L.jpg",
+    "link": "https://www.amazon.com/dp/B0FDBJML3F?tag=zoepicks00-20",
+    "now": "42.90",
+    "was": "89.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B08LKDZY9K",
+    "name": "Galaxy-Print School-Bag Backpack",
+    "pct": 32,
+    "rating": 4.7,
+    "t": 1795001853,
+    "img": "https://m.media-amazon.com/images/I/71rsc3LKlJL.jpg",
+    "link": "https://www.amazon.com/dp/B08LKDZY9K?tag=zoepicks00-20",
+    "now": "22.99",
+    "was": "33.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0F2G7L3CG",
+    "name": "adidas Boys Grand Court 3.0 Sneakers Shoes",
+    "pct": 29,
+    "rating": 4.6,
+    "t": 1794999560,
+    "img": "https://m.media-amazon.com/images/I/61s27Zw46uL.jpg",
+    "link": "https://www.amazon.com/dp/B0F2G7L3CG?tag=zoepicks00-20",
+    "now": "38.99",
+    "was": "55.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0FWT7ZRXY",
+    "name": "adidas Boys Runfalcon 6 Sneakers Shoes",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1794999581,
+    "img": "https://m.media-amazon.com/images/I/61rEjYRZ2KL.jpg",
+    "link": "https://www.amazon.com/dp/B0FWT7ZRXY?tag=zoepicks00-20",
+    "now": "41.25",
+    "was": "55.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0F2G735TF",
+    "name": "adidas Kids Girls Streettalk Sneakers Shoes",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1795001840,
+    "img": "https://m.media-amazon.com/images/I/61RTN7AYnpL.jpg",
+    "link": "https://www.amazon.com/dp/B0F2G735TF?tag=zoepicks00-20",
+    "now": "33.70",
+    "was": "45.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0792FK7TW",
+    "name": "PUMA Kids' Meridian Backpack",
+    "pct": 24,
+    "rating": 4.7,
+    "t": 1795001864,
+    "img": "https://m.media-amazon.com/images/I/71r89B5NhRL.jpg",
+    "link": "https://www.amazon.com/dp/B0792FK7TW?tag=zoepicks00-20",
+    "now": "16.03",
+    "was": "21.23",
+    "cat": "kids"
+   },
+   {
     "asin": "B0F8Q3L5D7",
     "name": "Nike Kids' Lebron Witness IX Basketball Shoes",
     "pct": 23,
@@ -341,6 +389,18 @@
     "link": "https://www.amazon.com/dp/B0F8Q3L5D7?tag=zoepicks00-20",
     "now": "62.83",
     "was": "82.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0CNY6R8T9",
+    "name": "Skechers Boys' Bounder Brisk-Burst",
+    "pct": 20,
+    "rating": 4.5,
+    "t": 1794997723,
+    "img": "https://m.media-amazon.com/images/I/81gmOKqiB+L.jpg",
+    "link": "https://www.amazon.com/dp/B0CNY6R8T9?tag=zoepicks00-20",
+    "now": "32.35",
+    "was": "40.35",
     "cat": "kids"
    }
   ]
