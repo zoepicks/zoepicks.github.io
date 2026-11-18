@@ -7971,5 +7971,47 @@
   "parent": "best-printers-2026",
   "tab": "thermal",
   "tab_label": "Thermal"
+ },
+ {
+  "title": "Best Lego Advent Calendar (2026)",
+  "slug": "best-lego-advent-calendar-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Baby Winter Coat (2026)",
+  "slug": "best-baby-winter-coat-2026",
+  "category": "toys_kids",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Seal Install Tool Set (2026)",
+  "slug": "best-seal-install-tool-set-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tool-sets-2026",
+  "tab": "seal-install",
+  "tab_label": "Seal Install"
+ },
+ {
+  "title": "Best 5 Meter Usb-C Cable (2026)",
+  "slug": "best-5-meter-usb-c-cable-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-usb-charger-cable-2026",
+  "tab": "5-meter-c",
+  "tab_label": "5 Meter C"
  }
 ]
