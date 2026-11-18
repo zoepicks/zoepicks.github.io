@@ -8061,5 +8061,35 @@
   "parent": "best-street-photography-camera-2026",
   "tab": "handcam",
   "tab_label": "Handcam"
+ },
+ {
+  "title": "Best Pink Game Controller (2026)",
+  "slug": "best-pink-game-controller-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-game-controller-2026",
+  "tab": "pink",
+  "tab_label": "Pink"
+ },
+ {
+  "title": "Best Custom Beanie (2026)",
+  "slug": "best-custom-beanie-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Plush Notebook (2026)",
+  "slug": "best-plush-notebook-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
