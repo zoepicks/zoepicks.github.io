@@ -10522,9 +10522,55 @@
   },
   "other:stuffed-animal": {
    "label": "Stuffed Animal",
-   "tries": 12,
-   "items": [],
-   "scanned": "2026-11-16T20:36:11.795784+00:00"
+   "tries": 13,
+   "items": [
+    {
+     "asin": "B0C3QT5T53",
+     "name": "Microwavable Weighted Highland Cow Stuffed Animal",
+     "pct": 47,
+     "rating": 4.5,
+     "t": 1794973936,
+     "img": "https://m.media-amazon.com/images/I/71SIuNycn-L.jpg",
+     "link": "https://www.amazon.com/dp/B0C3QT5T53?tag=zoepicks00-20",
+     "now": "16.99",
+     "was": "31.99",
+     "deal": "Limited time deal",
+     "reviews": 3407,
+     "_title": "Microwavable Weighted Highland Cow Stuffed Animal for Women, Gifts for Kids | Heatable Coolable Highland Cow Plush Heating...",
+     "_price": 16.99
+    },
+    {
+     "asin": "B000NV6D16",
+     "name": "Melissa & Doug Giant Elephant",
+     "pct": 39,
+     "rating": 4.8,
+     "t": 1794973936,
+     "img": "https://m.media-amazon.com/images/I/811xf4fMiiL.jpg",
+     "link": "https://www.amazon.com/dp/B000NV6D16?tag=zoepicks00-20",
+     "now": "56.49",
+     "was": "92.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 860,
+     "_title": "Melissa & Doug Giant Elephant - Lifelike Stuffed Animal (Over 3 feet Long)",
+     "_price": 56.49
+    },
+    {
+     "asin": "B0GFBG38MS",
+     "name": "Emotional Support Pals Sloths",
+     "pct": 25,
+     "rating": 4.8,
+     "t": 1794973936,
+     "img": "https://m.media-amazon.com/images/I/71WWboTIObL.jpg",
+     "link": "https://www.amazon.com/dp/B0GFBG38MS?tag=zoepicks00-20",
+     "now": "12.74",
+     "was": "16.99",
+     "deal": "Early Black Friday Deal",
+     "reviews": 1762,
+     "_title": "Emotional Support Pals Sloths, Cute Stuffed Animals by Relatable | Plushies, Great Gift Ideas for Loved Ones of All Ages, ...",
+     "_price": 12.74
+    }
+   ],
+   "scanned": "2026-11-18T03:52:16.334639+00:00"
   },
   "gaming:ear-gaming-headphones": {
    "label": "Ear Gaming Headphones",
