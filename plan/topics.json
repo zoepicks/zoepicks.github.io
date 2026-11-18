@@ -8091,5 +8091,35 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Mini Walking Pad (2026)",
+  "slug": "best-mini-walking-pad-2026",
+  "category": "fitness_outdoor",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-walking-pads-2026",
+  "tab": "mini",
+  "tab_label": "Mini"
+ },
+ {
+  "title": "Best Cordless Stain Remover (2026)",
+  "slug": "best-cordless-stain-remover-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Phone Mount (2026)",
+  "slug": "best-phone-mount-2026",
+  "category": "mobiles",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
