@@ -8013,5 +8013,53 @@
   "parent": "best-usb-charger-cable-2026",
   "tab": "5-meter-c",
   "tab_label": "5 Meter C"
+ },
+ {
+  "title": "Best Pink Tote Bag (2026)",
+  "slug": "best-pink-tote-bag-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tote-bags-2026",
+  "tab": "pink",
+  "tab_label": "Pink"
+ },
+ {
+  "title": "Best Skincare Set (2026)",
+  "slug": "best-skincare-set-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-makeup-brush-set-2026",
+  "tab": "skincare",
+  "tab_label": "Skincare"
+ },
+ {
+  "title": "Best Trail Running Shoes (2026)",
+  "slug": "best-trail-running-shoes-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-running-shoes-2026",
+  "tab": "trail",
+  "tab_label": "Trail"
+ },
+ {
+  "title": "Best Handcam Camera (2026)",
+  "slug": "best-handcam-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "handcam",
+  "tab_label": "Handcam"
  }
 ]
