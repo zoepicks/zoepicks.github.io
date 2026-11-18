@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T08:20:36Z",
+ "updated": "2026-11-18T10:20:44Z",
  "cats": [
   {
    "key": "fashion",
@@ -330,6 +330,19 @@
     "cat": "home"
    }
   ],
-  "kids": []
+  "kids": [
+   {
+    "asin": "B0F8Q3L5D7",
+    "name": "Nike Kids' Lebron Witness IX Basketball Shoes",
+    "pct": 23,
+    "rating": 4.6,
+    "t": 1794994995,
+    "img": "https://m.media-amazon.com/images/I/61O40tzJ1UL.jpg",
+    "link": "https://www.amazon.com/dp/B0F8Q3L5D7?tag=zoepicks00-20",
+    "now": "62.83",
+    "was": "82.00",
+    "cat": "kids"
+   }
+  ]
  }
 }
