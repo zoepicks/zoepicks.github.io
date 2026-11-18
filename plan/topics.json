@@ -7938,5 +7938,38 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Laptop Mouse (2026)",
+  "slug": "best-laptop-mouse-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Handheld Camera (2026)",
+  "slug": "best-handheld-camera-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-street-photography-camera-2026",
+  "tab": "handheld",
+  "tab_label": "Handheld"
+ },
+ {
+  "title": "Best Thermal Printer (2026)",
+  "slug": "best-thermal-printer-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-printers-2026",
+  "tab": "thermal",
+  "tab_label": "Thermal"
  }
 ]
