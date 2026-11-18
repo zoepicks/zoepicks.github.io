@@ -293,7 +293,7 @@
    "tabs": [
     "mugler"
    ],
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Nov 18, 2026",
    "fill_failed": false
   },
@@ -326,7 +326,7 @@
    "tabs": [
     "mugler"
    ],
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Nov 18, 2026",
    "fill_failed": false
   },
@@ -544,7 +544,7 @@
    "tabs": [
     "dior"
    ],
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Nov 18, 2026",
    "fill_failed": false
   },
@@ -579,7 +579,7 @@
    "tabs": [
     "dior"
    ],
-   "fill_tries": 2,
+   "fill_tries": 3,
    "fill_last": "Nov 18, 2026",
    "fill_failed": false
   },
@@ -613,7 +613,7 @@
    "tabs": [
     "women-s"
    ],
-   "fill_tries": 1,
+   "fill_tries": 2,
    "fill_last": "Nov 18, 2026",
    "fill_failed": false
   },
@@ -646,7 +646,13 @@
    "link": "https://www.amazon.com/s?k=Chanel+Coco+Mademoiselle+eau+de+parfum&tag=zoepicks00-20",
    "tabs": [
     "women-s"
-   ]
+   ],
+   "asin": "B07PLLBL2D",
+   "image": "https://m.media-amazon.com/images/I/51PobvhJJ3L.jpg",
+   "image_asin": "B07PLLBL2D",
+   "amazon_price": "$221.95",
+   "amazon_price_asof": "Nov 18, 2026",
+   "amazon_listing": "Chanel Coco Mademoiselle Intense Eau de parfum 35 ml"
   },
   {
    "name": "Parfums de Marly Valaya eau de parfum",
@@ -677,7 +683,13 @@
    "link": "https://www.amazon.com/s?k=Parfums+de+Marly+Valaya+eau+de+parfum&tag=zoepicks00-20",
    "tabs": [
     "women-s"
-   ]
+   ],
+   "asin": "B0FMPYGNBJ",
+   "image": "https://m.media-amazon.com/images/I/61QKHH44aDL.jpg",
+   "image_asin": "B0FMPYGNBJ",
+   "amazon_price": "$265.00",
+   "amazon_price_asof": "Nov 18, 2026",
+   "amazon_listing": "Parfums de Marly Valaya Exclusif Eau de Parfum – Parfum for Women – 1 Fl Oz"
   },
   {
    "name": "Diem Dare You eau de parfum",
@@ -708,7 +720,10 @@
    "link": "https://www.amazon.com/s?k=Diem+Dare+You+eau+de+parfum&tag=zoepicks00-20",
    "tabs": [
     "women-s"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 18, 2026",
+   "fill_failed": false
   },
   {
    "name": "Jo Malone London Lime Basil and Mandarin cologne",
@@ -739,7 +754,10 @@
    "link": "https://www.amazon.com/s?k=Jo+Malone+London+Lime+Basil+and+Mandarin+cologne&tag=zoepicks00-20",
    "tabs": [
     "women-s"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 18, 2026",
+   "fill_failed": false
   }
  ],
  "intro": [
