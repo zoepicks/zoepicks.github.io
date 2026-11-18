@@ -5553,9 +5553,55 @@
   },
   "pets:fish-tanks": {
    "label": "Fish Tanks",
-   "tries": 15,
-   "items": [],
-   "scanned": "2026-11-17T03:12:55.248225+00:00"
+   "tries": 16,
+   "items": [
+    {
+     "asin": "B0CRZPVXN8",
+     "name": "Clarence the Clarifier Fish",
+     "pct": 34,
+     "rating": 4.1,
+     "t": 1795028073,
+     "img": "https://m.media-amazon.com/images/I/81va3D65tOL.jpg",
+     "link": "https://www.amazon.com/dp/B0CRZPVXN8?tag=zoepicks00-20",
+     "now": "15.95",
+     "was": "23.99",
+     "deal": "Limited time deal",
+     "reviews": 797,
+     "_title": "Clarence the Clarifier Fish - 3 pk, Purple - Aquarium Treatment, Clear Cloudy Fresh-Saltwater, Fish-Plant Safe, 10gal Tank...",
+     "_price": 15.95
+    },
+    {
+     "asin": "B0FB91V3JM",
+     "name": "Large Fish Tank Background 35.4\" x 118 in",
+     "pct": 20,
+     "rating": 4.6,
+     "t": 1795028073,
+     "img": "https://m.media-amazon.com/images/I/71ib8Z-CAaL.jpg",
+     "link": "https://www.amazon.com/dp/B0FB91V3JM?tag=zoepicks00-20",
+     "now": "31.99",
+     "was": "39.99",
+     "deal": "Limited time deal",
+     "reviews": 53,
+     "_title": "Large Fish Tank Background 35.4\" x 118 in, Static Cling Black Aquarium Background, Blackout Window Film for Bedroom, Aquar...",
+     "_price": 31.99
+    },
+    {
+     "asin": "B0GHZ3L83Q",
+     "name": "Generic Artificial Coral Reef Aquarium Ornament",
+     "pct": 16,
+     "rating": 4.4,
+     "t": 1795028073,
+     "img": "https://m.media-amazon.com/images/I/61CIUEkj7QL.jpg",
+     "link": "https://www.amazon.com/dp/B0GHZ3L83Q?tag=zoepicks00-20",
+     "now": "12.37",
+     "was": "14.69",
+     "deal": "Limited time deal",
+     "reviews": 24,
+     "_title": "Generic Artificial Coral Reef Aquarium Ornament, Polyresin & Plastic Fish Tank Decoration for Marine Landscape, Beach Coas...",
+     "_price": 12.37
+    }
+   ],
+   "scanned": "2026-11-18T18:54:33.257814+00:00"
   },
   "smart_home:streaming-devices": {
    "label": "Streaming Devices",
