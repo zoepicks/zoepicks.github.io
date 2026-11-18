@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-18T10:55:08Z",
+ "updated": "2026-11-18T12:55:23Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -124,12 +124,13 @@
     "name": "shoeslocker Men's Slippers Indoor Outdoor Warm Soft Plush…",
     "pct": 58,
     "rating": 4.5,
-    "t": 1794984105,
+    "t": 1794937551,
     "img": "https://m.media-amazon.com/images/I/81yAhtvYSYL.jpg",
     "link": "https://www.amazon.com/dp/B07WVY1N9H?tag=zoepicks00-20",
     "now": "12.27",
     "was": "28.99",
-    "reviews": 13856,
+    "deal": "Limited time deal",
+    "reviews": 13889,
     "tier": "budget"
    },
    {
@@ -167,7 +168,7 @@
     "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
     "pct": 57,
     "rating": 4.1,
-    "t": 1794984099,
+    "t": 1794900498,
     "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
     "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
     "now": "12.12",
@@ -355,7 +356,7 @@
     "name": "Madison Park Marina Comforter Quilt Combo Set",
     "pct": 50,
     "rating": 4.5,
-    "t": 1794984098,
+    "t": 1795001462,
     "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
     "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
     "now": "64.49",
@@ -2561,16 +2562,17 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B0FHSVCYGK",
-      "name": "AEROPOSTALE Men's New York Pullover Hoodie",
-      "pct": 57,
-      "rating": 4.5,
-      "t": 1794984098,
-      "img": "https://m.media-amazon.com/images/I/81EusapoJnL.jpg",
-      "link": "https://www.amazon.com/dp/B0FHSVCYGK?tag=zoepicks00-20",
-      "now": "15.17",
-      "was": "35.36",
-      "reviews": 0,
+      "asin": "B0CBC4BZGX",
+      "name": "Trendy Queen Womens Zip Up Hoodies Cropped Jackets Fall…",
+      "pct": 50,
+      "rating": 4.4,
+      "t": 1794937551,
+      "img": "https://m.media-amazon.com/images/I/719D1cF59JL.jpg",
+      "link": "https://www.amazon.com/dp/B0CBC4BZGX?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "39.99",
+      "deal": "Limited time deal",
+      "reviews": 1471,
       "tier": "budget"
      },
      {
@@ -2608,12 +2610,13 @@
       "name": "shoeslocker Men's Slippers Indoor Outdoor Warm Soft Plush…",
       "pct": 58,
       "rating": 4.5,
-      "t": 1794984105,
+      "t": 1794937551,
       "img": "https://m.media-amazon.com/images/I/81yAhtvYSYL.jpg",
       "link": "https://www.amazon.com/dp/B07WVY1N9H?tag=zoepicks00-20",
       "now": "12.27",
       "was": "28.99",
-      "reviews": 13856,
+      "deal": "Limited time deal",
+      "reviews": 13889,
       "tier": "budget"
      },
      {
@@ -2738,6 +2741,53 @@
     ]
    },
    {
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
+    "items": [
+     {
+      "asin": "B0FWBT17XT",
+      "name": "IIV Women Wide Toe Box Walking Shoes Arch Support Plantar…",
+      "pct": 50,
+      "rating": 4.1,
+      "t": 1795001462,
+      "img": "https://m.media-amazon.com/images/I/71pE9rvyLwL.jpg",
+      "link": "https://www.amazon.com/dp/B0FWBT17XT?tag=zoepicks00-20",
+      "now": "23.49",
+      "was": "46.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B09PNFQ8K6",
+      "name": "ALEADER Women's Energycloud Lightweight Slip On Walking…",
+      "pct": 40,
+      "rating": 4.3,
+      "t": 1794885322,
+      "img": "https://m.media-amazon.com/images/I/71ePaHoAuXL.jpg",
+      "link": "https://www.amazon.com/dp/B09PNFQ8K6?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "59.99",
+      "deal": "Limited time deal",
+      "reviews": 14969,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HBWS3WZV",
+      "name": "Men's Wide Fit Leather Orthopedic Shoes",
+      "pct": 38,
+      "rating": 4.6,
+      "t": 1794885322,
+      "img": "https://m.media-amazon.com/images/I/91LTph4nvSL.jpg",
+      "link": "https://www.amazon.com/dp/B0HBWS3WZV?tag=zoepicks00-20",
+      "now": "79.98",
+      "was": "129.99",
+      "deal": "Limited time deal",
+      "reviews": 28,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "tote-bags",
     "label": "Tote Bags",
     "items": [
@@ -2812,54 +2862,6 @@
       "now": "19.95",
       "was": "22.95",
       "reviews": 117
-     }
-    ]
-   },
-   {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
-    "items": [
-     {
-      "asin": "B09PNFQ8K6",
-      "name": "ALEADER Women's Energycloud Lightweight Slip On Walking…",
-      "pct": 40,
-      "rating": 4.3,
-      "t": 1794885322,
-      "img": "https://m.media-amazon.com/images/I/71ePaHoAuXL.jpg",
-      "link": "https://www.amazon.com/dp/B09PNFQ8K6?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 14969,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CTQHH5JR",
-      "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
-      "pct": 25,
-      "rating": 4.3,
-      "t": 1794885322,
-      "img": "https://m.media-amazon.com/images/I/71OiPI55UWL.jpg",
-      "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
-      "now": "44.99",
-      "was": "59.99",
-      "deal": "Limited time deal",
-      "reviews": 6199,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HBWS3WZV",
-      "name": "Men's Wide Fit Leather Orthopedic Shoes",
-      "pct": 38,
-      "rating": 4.6,
-      "t": 1794885322,
-      "img": "https://m.media-amazon.com/images/I/91LTph4nvSL.jpg",
-      "link": "https://www.amazon.com/dp/B0HBWS3WZV?tag=zoepicks00-20",
-      "now": "79.98",
-      "was": "129.99",
-      "deal": "Limited time deal",
-      "reviews": 28,
-      "tier": "premium"
      }
     ]
    },
@@ -2981,7 +2983,7 @@
       "name": "BAGSMART Gym Tote Bag",
       "pct": 38,
       "rating": 4.6,
-      "t": 1794947955,
+      "t": 1795001467,
       "img": "https://m.media-amazon.com/images/I/718BJPFWntL.jpg",
       "link": "https://www.amazon.com/dp/B08CGYJP9L?tag=zoepicks00-20",
       "now": "19.82",
@@ -3322,7 +3324,7 @@
       "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
       "pct": 57,
       "rating": 4.1,
-      "t": 1794984099,
+      "t": 1794900498,
       "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
       "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
       "now": "12.12",
@@ -4526,12 +4528,13 @@
       "name": "Fanttik V8 Mate Upgraded Cordless Car Vacuum",
       "pct": 43,
       "rating": 4.3,
-      "t": 1794870004,
+      "t": 1794939322,
       "img": "https://m.media-amazon.com/images/I/61MYuT5LMoL.jpg",
       "link": "https://www.amazon.com/dp/B0G4V5X47W?tag=zoepicks00-20",
       "now": "45.99",
       "was": "79.99",
-      "reviews": 157,
+      "deal": "Early Black Friday Deal",
+      "reviews": 159,
       "tier": "premium"
      }
     ]
@@ -4658,7 +4661,7 @@
       "name": "Madison Park Marina Comforter Quilt Combo Set",
       "pct": 50,
       "rating": 4.5,
-      "t": 1794984098,
+      "t": 1795001462,
       "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
       "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
       "now": "64.49",
@@ -4923,18 +4926,6 @@
     "label": "Juicers",
     "items": [
      {
-      "asin": "B0GR4LWYRF",
-      "name": "Canoly 3-in-1 Cold Press Juicer C09",
-      "pct": 40,
-      "rating": 4.3,
-      "t": 1794879440,
-      "img": "https://m.media-amazon.com/images/I/7169dEzxV+L.jpg",
-      "link": "https://www.amazon.com/dp/B0GR4LWYRF?tag=zoepicks00-20",
-      "now": "167.99",
-      "was": "279.99",
-      "reviews": 109
-     },
-     {
       "asin": "B0DQKPLXMB",
       "name": "EUHOMY Cold Press Juicer Machines",
       "pct": 37,
@@ -4944,7 +4935,35 @@
       "link": "https://www.amazon.com/dp/B0DQKPLXMB?tag=zoepicks00-20",
       "now": "56.94",
       "was": "89.99",
-      "reviews": 811
+      "reviews": 811,
+      "tier": "budget"
+     },
+     {
+      "asin": "B000MDHH06",
+      "name": "Breville BJE200XL Juice Fountain Compact Centrifugal Machine",
+      "pct": 40,
+      "rating": 4.5,
+      "t": 1794938106,
+      "img": "https://m.media-amazon.com/images/I/71lXEv3tnoL.jpg",
+      "link": "https://www.amazon.com/dp/B000MDHH06?tag=zoepicks00-20",
+      "now": "59.95",
+      "was": "99.95",
+      "deal": "Early Black Friday Deal",
+      "reviews": 12964,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GR4LWYRF",
+      "name": "Canoly 3-in-1 Cold Press Juicer C09",
+      "pct": 40,
+      "rating": 4.3,
+      "t": 1794879440,
+      "img": "https://m.media-amazon.com/images/I/7169dEzxV+L.jpg",
+      "link": "https://www.amazon.com/dp/B0GR4LWYRF?tag=zoepicks00-20",
+      "now": "167.99",
+      "was": "279.99",
+      "reviews": 109,
+      "tier": "premium"
      }
     ]
    },
@@ -5258,24 +5277,6 @@
     ]
    },
    {
-    "key": "mini-fridge",
-    "label": "Mini Fridge",
-    "items": [
-     {
-      "asin": "B0GGZR15LS",
-      "name": "COWSAR 1.7 Cu Ft Beverage Refrigerator and Mini Fridge…",
-      "pct": 20,
-      "rating": 4.2,
-      "t": 1794870029,
-      "img": "https://m.media-amazon.com/images/I/81Upr0iOgeL.jpg",
-      "link": "https://www.amazon.com/dp/B0GGZR15LS?tag=zoepicks00-20",
-      "now": "149.98",
-      "was": "186.98",
-      "reviews": 319
-     }
-    ]
-   },
-   {
     "key": "stove-pressure-cooker",
     "label": "Stove Pressure Cooker",
     "items": []
@@ -5288,6 +5289,11 @@
    {
     "key": "duvet-cover",
     "label": "Duvet Cover",
+    "items": []
+   },
+   {
+    "key": "mini-fridge",
+    "label": "Mini Fridge",
     "items": []
    },
    {
@@ -5354,20 +5360,7 @@
    {
     "key": "macbooks",
     "label": "MacBooks",
-    "items": [
-     {
-      "asin": "B0GR1J6T45",
-      "name": "Apple 2026 MacBook Air 13-inch Laptop",
-      "pct": 15,
-      "rating": 4.7,
-      "t": 1794869998,
-      "img": "https://m.media-amazon.com/images/I/714mf1PUL4L.jpg",
-      "link": "https://www.amazon.com/dp/B0GR1J6T45?tag=zoepicks00-20",
-      "now": "1,099.00",
-      "was": "1,299.00",
-      "reviews": 1401
-     }
-    ]
+    "items": []
    }
   ],
   "mobiles": [
@@ -6950,12 +6943,13 @@
       "name": "Fanttik V8 Mate Upgraded Cordless Car Vacuum",
       "pct": 43,
       "rating": 4.3,
-      "t": 1794870004,
+      "t": 1794939322,
       "img": "https://m.media-amazon.com/images/I/61MYuT5LMoL.jpg",
       "link": "https://www.amazon.com/dp/B0G4V5X47W?tag=zoepicks00-20",
       "now": "45.99",
       "was": "79.99",
-      "reviews": 157,
+      "deal": "Early Black Friday Deal",
+      "reviews": 159,
       "tier": "premium"
      }
     ]
