@@ -8688,5 +8688,29 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Ps5 Internal Ssd (2026)",
+  "slug": "best-ps5-internal-ssd-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-ps5-compatible-ssd-2026",
+  "tab": "internal",
+  "tab_label": "Internal"
+ },
+ {
+  "title": "Best Wired Computer Mouse (2026)",
+  "slug": "best-wired-computer-mouse-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-computer-mouse-2026",
+  "tab": "wired",
+  "tab_label": "Wired"
  }
 ]
