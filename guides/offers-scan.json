@@ -4178,6 +4178,52 @@
    ],
    "scanned": "2026-11-19T18:29:31.225453+00:00",
    "via": "sweep"
+  },
+  "pets:cat-litter": {
+   "label": "Cat Litter",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B07NJ5SR5G",
+     "name": "Pieviev Cat Litter Mat",
+     "pct": 19,
+     "rating": 4.4,
+     "t": 1795113350,
+     "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
+     "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
+     "now": "11.30",
+     "was": "13.99",
+     "deal": "Black Friday Deal",
+     "reviews": 74343,
+     "_title": "Pieviev Cat Litter Mat, Double-Layer Waterproof Litter Trap, 24\" x 15\" Gray | Honeycomb Design Catches Scattered Particles...",
+     "_price": 11.3
+    }
+   ],
+   "scanned": "2026-11-19T18:35:50.181464+00:00",
+   "via": "sweep"
+  },
+  "pets:pet-cameras": {
+   "label": "Pet Cameras",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0829KDY9X",
+     "name": "Tapo 1080p Pan/Tilt Security Camera",
+     "pct": 26,
+     "rating": 4.5,
+     "t": 1795113350,
+     "img": "https://m.media-amazon.com/images/I/41tRa2xorHL.jpg",
+     "link": "https://www.amazon.com/dp/B0829KDY9X?tag=zoepicks00-20",
+     "now": "19.99",
+     "was": "26.99",
+     "deal": "Black Friday Deal",
+     "reviews": 42951,
+     "_title": "Tapo 1080p Pan/Tilt Security Camera for Baby Monitor, Pet Camera, C200 | Motion Detection, 2-Way Audio, Night Vision, Clou...",
+     "_price": 19.99
+    }
+   ],
+   "scanned": "2026-11-19T18:35:50.181464+00:00",
+   "via": "sweep"
   }
  },
  "essentials": {
@@ -18098,6 +18144,14 @@
    "offer_cards": 143,
    "types_hit": 0,
    "types": 3
+  },
+  "pets": {
+   "at": "2026-11-19T18:35:50.181464+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 2,
+   "types": 9
   }
  }
 }
