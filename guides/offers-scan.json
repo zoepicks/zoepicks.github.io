@@ -1560,6 +1560,97 @@
    ],
    "scanned": "2026-11-19T18:13:37.338323+00:00",
    "via": "sweep"
+  },
+  "furniture_decor:floor-lamps": {
+   "label": "Floor Lamps",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B08Z36X6B4",
+     "name": "SUNMORY Floor Lamp",
+     "pct": 34,
+     "rating": 4.7,
+     "t": 1795112182,
+     "img": "https://m.media-amazon.com/images/I/71YNhyHG-IL.jpg",
+     "link": "https://www.amazon.com/dp/B08Z36X6B4?tag=zoepicks00-20",
+     "now": "30.39",
+     "was": "45.99",
+     "deal": "Black Friday Deal",
+     "reviews": 7667,
+     "_title": "SUNMORY Floor Lamp with Shelves, Standing Lamps for Living Room, Black | 3 CCT LED Bulb Include, 4-Tier Display Bookshelf,...",
+     "_price": 30.39
+    }
+   ],
+   "scanned": "2026-11-19T18:16:22.889088+00:00",
+   "via": "sweep"
+  },
+  "furniture_decor:mattresses": {
+   "label": "Mattresses",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0H96BHVDX",
+     "name": "Full Size Mattress",
+     "pct": 42,
+     "rating": 4.6,
+     "t": 1795112182,
+     "img": "https://m.media-amazon.com/images/I/71+JfomKVbL.jpg",
+     "link": "https://www.amazon.com/dp/B0H96BHVDX?tag=zoepicks00-20",
+     "now": "189.98",
+     "was": "329.99",
+     "deal": "Black Friday Deal",
+     "reviews": 79,
+     "_title": "Full Size Mattress, 14 Inch Full Mattress-Hybrid Mattresses with Individual Pocket Springs for Motion Isolation & Pressure...",
+     "_price": 189.98
+    },
+    {
+     "asin": "B0HQ6655GF",
+     "name": "VILASOAR 14 Inch Queen Mattress",
+     "pct": 30,
+     "rating": 4.6,
+     "t": 1795112182,
+     "img": "https://m.media-amazon.com/images/I/81khI4bCOoL.jpg",
+     "link": "https://www.amazon.com/dp/B0HQ6655GF?tag=zoepicks00-20",
+     "now": "265.99",
+     "was": "379.99",
+     "deal": "Black Friday Deal",
+     "reviews": 62,
+     "_title": "VILASOAR 14 Inch Queen Mattress, Hybrid Mattresses in a Box with Gel Memory Foam, Pressure Relief & Medium Firm for Back &...",
+     "_price": 265.99
+    },
+    {
+     "asin": "B0HK7WGHBT",
+     "name": "Extra Firm King Mattress 12 inch Pain Relieving Hybrid…",
+     "pct": 30,
+     "rating": 4.3,
+     "t": 1795112182,
+     "img": "https://m.media-amazon.com/images/I/916DZy5DxrL.jpg",
+     "link": "https://www.amazon.com/dp/B0HK7WGHBT?tag=zoepicks00-20",
+     "now": "265.98",
+     "was": "379.99",
+     "deal": "Black Friday Deal",
+     "reviews": 356,
+     "_title": "Extra Firm King Mattress 12 inch Pain Relieving Hybrid Mattresses in a Box 365 Night Trial - Extra Lumbar & Hip Support - ...",
+     "_price": 265.98
+    },
+    {
+     "asin": "B0FV8DR9GV",
+     "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
+     "pct": 21,
+     "rating": 4.4,
+     "t": 1795112182,
+     "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
+     "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
+     "now": "205.19",
+     "was": "259.99",
+     "deal": "Black Friday Deal",
+     "reviews": 263,
+     "_title": "Queen Mattress 12 Inch,Queen Size Mattresses in a Box,Cooling Mattress | Memory Foam＆7-Zone Pocket Spring, Midium Firm, Ba...",
+     "_price": 205.19
+    }
+   ],
+   "scanned": "2026-11-19T18:16:22.889088+00:00",
+   "via": "sweep"
   }
  },
  "essentials": {
@@ -15416,6 +15507,14 @@
    "offer_cards": 118,
    "types_hit": 0,
    "types": 11
+  },
+  "furniture_decor": {
+   "at": "2026-11-19T18:16:22.889088+00:00",
+   "pages": 10,
+   "cards": 236,
+   "offer_cards": 236,
+   "types_hit": 2,
+   "types": 7
   }
  }
 }
