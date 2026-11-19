@@ -8628,5 +8628,26 @@
   "parent": "best-moisturizer-2026",
   "tab": "skin",
   "tab_label": "Skin"
+ },
+ {
+  "title": "Best Facial Moisturizer (2026)",
+  "slug": "best-facial-moisturizer-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-moisturizer-2026",
+  "tab": "facial",
+  "tab_label": "Facial"
+ },
+ {
+  "title": "Best Nail Polish Remover (2026)",
+  "slug": "best-nail-polish-remover-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
