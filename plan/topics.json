@@ -8331,5 +8331,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Men'S Skincare (2026)",
+  "slug": "best-men-s-skincare-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-facial-skincare-2026",
+  "tab": "men-s",
+  "tab_label": "Men S"
+ },
+ {
+  "title": "Best Kling 4 0 (2026)",
+  "slug": "best-kling-4-0-2026",
+  "category": "other",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
