@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-19T10:37:48Z",
+ "updated": "2026-11-19T12:37:57Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1175,6 +1175,53 @@
     ]
    },
    {
+    "key": "face-wash",
+    "label": "Face Wash",
+    "items": [
+     {
+      "asin": "B0183SN7H8",
+      "name": "Cleanbear Washcloths Set",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1795024264,
+      "img": "https://m.media-amazon.com/images/I/81ndyimdurL.jpg",
+      "link": "https://www.amazon.com/dp/B0183SN7H8?tag=zoepicks00-20",
+      "now": "11.84",
+      "was": "13.93",
+      "reviews": 16332,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DX45N5S1",
+      "name": "Kiehl's - Ultra Facial Barrier-Hydrating Cleanser",
+      "pct": 50,
+      "rating": 4.7,
+      "t": 1795024264,
+      "img": "https://m.media-amazon.com/images/I/61nmUB2JVRL.jpg",
+      "link": "https://www.amazon.com/dp/B0DX45N5S1?tag=zoepicks00-20",
+      "now": "14.50",
+      "was": "29.00",
+      "deal": "Limited time deal",
+      "reviews": 416,
+      "tier": "mid"
+     },
+     {
+      "asin": "B08KVJSFX5",
+      "name": "Dermalogica Clear Start Breakout Clearing Foaming Wash",
+      "pct": 30,
+      "rating": 4.6,
+      "t": 1795024264,
+      "img": "https://m.media-amazon.com/images/I/51gl8eV20hL.jpg",
+      "link": "https://www.amazon.com/dp/B08KVJSFX5?tag=zoepicks00-20",
+      "now": "20.65",
+      "was": "29.50",
+      "deal": "Early Black Friday Deal",
+      "reviews": 2621,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "perfumes",
     "label": "Perfumes",
     "items": [
@@ -1534,37 +1581,6 @@
       "was": "64.99",
       "reviews": 101148,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "face-wash",
-    "label": "Face Wash",
-    "items": [
-     {
-      "asin": "B08KVJSFX5",
-      "name": "Dermalogica Clear Start Breakout Clearing Foaming Wash",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1795024264,
-      "img": "https://m.media-amazon.com/images/I/51gl8eV20hL.jpg",
-      "link": "https://www.amazon.com/dp/B08KVJSFX5?tag=zoepicks00-20",
-      "now": "20.65",
-      "was": "29.50",
-      "deal": "Early Black Friday Deal",
-      "reviews": 2621
-     },
-     {
-      "asin": "B0183SN7H8",
-      "name": "Cleanbear Washcloths Set",
-      "pct": 15,
-      "rating": 4.7,
-      "t": 1795024264,
-      "img": "https://m.media-amazon.com/images/I/81ndyimdurL.jpg",
-      "link": "https://www.amazon.com/dp/B0183SN7H8?tag=zoepicks00-20",
-      "now": "11.84",
-      "was": "13.93",
-      "reviews": 16332
      }
     ]
    },
@@ -2446,17 +2462,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0DPGL1LMF",
-      "name": "Nike Men's Club Full-zip Fleece Hoodie",
-      "pct": 35,
-      "rating": 4.6,
+      "asin": "B0DPGLQLKX",
+      "name": "Nike Men's Club Pullover Fleece Hoodie",
+      "pct": 36,
+      "rating": 4.7,
       "t": 1795022799,
-      "img": "https://m.media-amazon.com/images/I/71EH1MZqP0L.jpg",
-      "link": "https://www.amazon.com/dp/B0DPGL1LMF?tag=zoepicks00-20",
-      "now": "49.00",
-      "was": "75.00",
+      "img": "https://m.media-amazon.com/images/I/61uKpuECeHL.jpg",
+      "link": "https://www.amazon.com/dp/B0DPGLQLKX?tag=zoepicks00-20",
+      "now": "44.73",
+      "was": "70.00",
       "deal": "Limited time deal",
-      "reviews": 900,
+      "reviews": 1285,
       "tier": "premium"
      }
     ]
@@ -2501,24 +2517,6 @@
       "was": "32.99",
       "reviews": 47488,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "sandals",
-    "label": "Sandals",
-    "items": [
-     {
-      "asin": "B085WW97VY",
-      "name": "DOCKERS Men's Sunland Slide Sandal",
-      "pct": 54,
-      "rating": 4.4,
-      "t": 1795069070,
-      "img": "https://m.media-amazon.com/images/I/61+1dBN3hBL.jpg",
-      "link": "https://www.amazon.com/dp/B085WW97VY?tag=zoepicks00-20",
-      "now": "18.38",
-      "was": "39.98",
-      "reviews": 12105
      }
     ]
    },
@@ -3007,6 +3005,11 @@
    {
     "key": "workout-clothes",
     "label": "Workout Clothes",
+    "items": []
+   },
+   {
+    "key": "sandals",
+    "label": "Sandals",
     "items": []
    }
   ],
@@ -4164,7 +4167,7 @@
       "name": "Intelligent Design Queen Comforter Set",
       "pct": 53,
       "rating": 4.5,
-      "t": 1795069075,
+      "t": 1795036993,
       "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
       "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
       "now": "23.93",
