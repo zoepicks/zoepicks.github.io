@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-19T00:34:29Z",
+ "updated": "2026-11-19T04:34:53Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -123,7 +123,7 @@
    "name": "ColourPop Nude Mood Eyeshadow Palette",
    "pct": 70,
    "rating": 4.5,
-   "t": 1795025110,
+   "t": 1795053661,
    "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
    "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
    "now": "14.00",
@@ -142,7 +142,7 @@
    "now": "89.99",
    "was": "269.99",
    "reviews": 257,
-   "tier": "premium"
+   "tier": "mid"
   },
   {
    "asin": "B0HGZJMY6L",
@@ -169,6 +169,19 @@
    "was": "60.61",
    "reviews": 5415,
    "tier": "premium"
+  },
+  {
+   "asin": "B083DRWNY9",
+   "name": "Bedsure Pillows Standard Size Set of 2",
+   "pct": 65,
+   "rating": 4.4,
+   "t": 1795052763,
+   "img": "https://m.media-amazon.com/images/I/71gDrf9i3xL.jpg",
+   "link": "https://www.amazon.com/dp/B083DRWNY9?tag=zoepicks00-20",
+   "now": "32.99",
+   "was": "92.99",
+   "reviews": 17498,
+   "tier": "budget"
   },
   {
    "asin": "B0HFZTYH9G",
@@ -385,19 +398,6 @@
    "was": "1,299.99",
    "reviews": 79,
    "tier": "premium"
-  },
-  {
-   "asin": "B08FPBY5XD",
-   "name": "Intelligent Design Queen Comforter Set",
-   "pct": 53,
-   "rating": 4.5,
-   "t": 1795036993,
-   "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
-   "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
-   "now": "23.93",
-   "was": "50.99",
-   "reviews": 2615,
-   "tier": "budget"
   }
  ],
  "ess": [
@@ -586,21 +586,6 @@
    "icon": "👶"
   },
   {
-   "asin": "B0DX45N5S1",
-   "name": "Kiehl's - Ultra Facial Barrier-Hydrating Cleanser",
-   "pct": 50,
-   "rating": 4.7,
-   "t": 1795021800,
-   "img": "https://m.media-amazon.com/images/I/61nmUB2JVRL.jpg",
-   "link": "https://www.amazon.com/dp/B0DX45N5S1?tag=zoepicks00-20",
-   "now": "14.50",
-   "was": "29.00",
-   "deal": "Limited time deal",
-   "cat": "energy",
-   "label": "Energy & sports drinks",
-   "icon": "⚡"
-  },
-  {
    "asin": "B0BXJBDZ83",
    "name": "ALLEN & MATE Yoga Mat Bag",
    "pct": 50,
@@ -614,6 +599,21 @@
    "cat": "fitness",
    "label": "Fitness basics",
    "icon": "🏃"
+  },
+  {
+   "asin": "B0DX45N5S1",
+   "name": "Kiehl's - Ultra Facial Barrier-Hydrating Cleanser",
+   "pct": 50,
+   "rating": 4.7,
+   "t": 1795021800,
+   "img": "https://m.media-amazon.com/images/I/61nmUB2JVRL.jpg",
+   "link": "https://www.amazon.com/dp/B0DX45N5S1?tag=zoepicks00-20",
+   "now": "14.50",
+   "was": "29.00",
+   "deal": "Limited time deal",
+   "cat": "energy",
+   "label": "Energy & sports drinks",
+   "icon": "⚡"
   },
   {
    "asin": "B01MG1XFAW",
@@ -1111,15 +1111,15 @@
    "icon": "🛏️"
   },
   {
-   "asin": "B0CSYNW3X3",
-   "name": "BAGSMART Gym Bag for Women",
-   "pct": 19,
-   "rating": 4.6,
-   "t": 1794947032,
-   "img": "https://m.media-amazon.com/images/I/61WKa4fHYkL.jpg",
-   "link": "https://www.amazon.com/dp/B0CSYNW3X3?tag=zoepicks00-20",
-   "now": "24.21",
-   "was": "29.99",
+   "asin": "B0CVSH5HGN",
+   "name": "Carhartt Utility 55L Duffel Carhartt Brown",
+   "pct": 25,
+   "rating": 4.8,
+   "t": 1795060518,
+   "img": "https://m.media-amazon.com/images/I/91nxvlsonxL.jpg",
+   "link": "https://www.amazon.com/dp/B0CVSH5HGN?tag=zoepicks00-20",
+   "now": "63.74",
+   "was": "84.99",
    "cat": "bags",
    "label": "Backpacks",
    "icon": "🎒"
@@ -1238,6 +1238,20 @@
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
+  },
+  {
+   "asin": "B0CSYNW3X3",
+   "name": "BAGSMART Gym Bag for Women",
+   "pct": 19,
+   "rating": 4.6,
+   "t": 1794947032,
+   "img": "https://m.media-amazon.com/images/I/61WKa4fHYkL.jpg",
+   "link": "https://www.amazon.com/dp/B0CSYNW3X3?tag=zoepicks00-20",
+   "now": "24.21",
+   "was": "29.99",
+   "cat": "bags",
+   "label": "Backpacks",
+   "icon": "🎒"
   },
   {
    "asin": "B0FJHYKFCQ",
