@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-19T15:22:10Z",
+ "updated": "2026-11-19T17:22:25Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -13,7 +13,7 @@
    "now": "35.99",
    "was": "159.99",
    "reviews": 25,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B0HFW4CSGF",
@@ -51,7 +51,8 @@
    "link": "https://www.amazon.com/dp/B0HN4ZRJ5C?tag=zoepicks00-20",
    "now": "29.99",
    "was": "99.99",
-   "reviews": 168
+   "reviews": 168,
+   "tier": "mid"
   },
   {
    "asin": "B0HHSCDMZ1",
@@ -184,6 +185,19 @@
    "was": "99.99",
    "deal": "Limited time deal",
    "reviews": 2742,
+   "tier": "mid"
+  },
+  {
+   "asin": "B0FZG17R2M",
+   "name": "Romswi 3-Piece Set Expandable Luggage Set 20/24/28 Inch",
+   "pct": 53,
+   "rating": 4.6,
+   "t": 1795022799,
+   "img": "https://m.media-amazon.com/images/I/61lmxAR+IuL.jpg",
+   "link": "https://www.amazon.com/dp/B0FZG17R2M?tag=zoepicks00-20",
+   "now": "79.99",
+   "was": "169.99",
+   "reviews": 239,
    "tier": "mid"
   },
   {
@@ -387,20 +401,6 @@
    "was": "49.99",
    "deal": "Early Black Friday Deal",
    "reviews": 20521,
-   "tier": "budget"
-  },
-  {
-   "asin": "B0FNWCYLZN",
-   "name": "soundcore P31i by Anker Translation Earbuds",
-   "pct": 50,
-   "rating": 4.4,
-   "t": 1795024826,
-   "img": "https://m.media-amazon.com/images/I/71fEWG6n4aL.jpg",
-   "link": "https://www.amazon.com/dp/B0FNWCYLZN?tag=zoepicks00-20",
-   "now": "29.99",
-   "was": "59.99",
-   "deal": "Early Black Friday Deal",
-   "reviews": 11872,
    "tier": "budget"
   }
  ],
@@ -1712,20 +1712,6 @@
    "icon": "🧣"
   },
   {
-   "asin": "B002QZ11J6",
-   "name": "Dr Infrared Heater DR-968 Portable Space Heater",
-   "pct": 21,
-   "rating": 4.5,
-   "t": 1794972516,
-   "img": "https://m.media-amazon.com/images/I/91BfDvRKGRL.jpg",
-   "link": "https://www.amazon.com/dp/B002QZ11J6?tag=zoepicks00-20",
-   "now": "98.80",
-   "was": "124.98",
-   "theme": "winter",
-   "label": "Winter ready",
-   "icon": "🧣"
-  },
-  {
    "asin": "B07QGGRL7R",
    "name": "Amazon Essentials Men's Slim Fit Thermal Long Johns…",
    "pct": 20,
@@ -1765,6 +1751,21 @@
    "link": "https://www.amazon.com/dp/B0C9QH87MQ?tag=zoepicks00-20",
    "now": "38.01",
    "was": "45.99",
+   "theme": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
+  },
+  {
+   "asin": "B07PC4T7FG",
+   "name": "Amazon Essentials Men's Regular Fit Sherpa-Lined Pullover…",
+   "pct": 16,
+   "rating": 4.6,
+   "t": 1795021800,
+   "img": "https://m.media-amazon.com/images/I/81P+awwpr7L.jpg",
+   "link": "https://www.amazon.com/dp/B07PC4T7FG?tag=zoepicks00-20",
+   "now": "20.55",
+   "was": "24.40",
+   "deal": "Early Black Friday Deal",
    "theme": "winter",
    "label": "Winter ready",
    "icon": "🧣"
