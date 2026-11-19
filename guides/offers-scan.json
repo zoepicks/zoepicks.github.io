@@ -1,6 +1,60 @@
 {
  "v": 1,
- "types": {},
+ "types": {
+  "accessories:wireless-mouse": {
+   "label": "Wireless Mouse",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B08SYJ32T3",
+     "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
+     "pct": 53,
+     "rating": 4.6,
+     "t": 1795111665,
+     "img": "https://m.media-amazon.com/images/I/51nZTcH5HVL.jpg",
+     "link": "https://www.amazon.com/dp/B08SYJ32T3?tag=zoepicks00-20",
+     "now": "27.99",
+     "was": "59.99",
+     "deal": "Black Friday Deal",
+     "reviews": 40735,
+     "_title": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse, Hero 12K Sensor - Mint | 12,000 DPI, lightweight, 6 programmable buttons, ...",
+     "_price": 27.99
+    },
+    {
+     "asin": "B072JX77X6",
+     "name": "Logitech MK335 Full Size Quiet Wireless Keyboard Mouse Combo",
+     "pct": 29,
+     "rating": 4.4,
+     "t": 1795111665,
+     "img": "https://m.media-amazon.com/images/I/5110JBRA1-L.jpg",
+     "link": "https://www.amazon.com/dp/B072JX77X6?tag=zoepicks00-20",
+     "now": "28.48",
+     "was": "39.99",
+     "deal": "Black Friday Deal",
+     "reviews": 9919,
+     "_title": "Logitech MK335 Full Size Quiet Wireless Keyboard Mouse Combo - Black/Silver | Full size low-profile quiet keyboard, full s...",
+     "_price": 28.48
+    },
+    {
+     "asin": "B0H196BVWH",
+     "name": "Wireless Keyboard and Mouse Combo Silent Ergonomic Curved…",
+     "pct": 15,
+     "rating": 4.3,
+     "t": 1795111665,
+     "img": "https://m.media-amazon.com/images/I/61x0KMcOndL.jpg",
+     "link": "https://www.amazon.com/dp/B0H196BVWH?tag=zoepicks00-20",
+     "now": "23.79",
+     "was": "27.99",
+     "deal": "Black Friday Deal",
+     "reviews": 429,
+     "_title": "Wireless Keyboard and Mouse Combo Silent Ergonomic Curved Design for Office",
+     "_price": 23.79
+    }
+   ],
+   "scanned": "2026-11-19T18:07:45.470826+00:00",
+   "via": "sweep"
+  }
+ },
  "essentials": {
   "q": {
    "toilet paper": "2026-11-19T17:55:11.104211+00:00",
@@ -13813,6 +13867,16 @@
     "deal_text": "Black Friday Deal",
     "deal_checked_at": "2026-11-19T17:55:11.104211+00:00"
    }
+  }
+ },
+ "sweeps": {
+  "accessories": {
+   "at": "2026-11-19T18:07:45.470826+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 1,
+   "types": 18
   }
  }
 }
