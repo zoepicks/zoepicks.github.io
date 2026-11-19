@@ -8373,5 +8373,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Framed Tv (2026)",
+  "slug": "best-framed-tv-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vhs-tv-2026",
+  "tab": "framed",
+  "tab_label": "Framed"
+ },
+ {
+  "title": "Best Vegan Laxative Capsules (2026)",
+  "slug": "best-vegan-laxative-capsules-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
