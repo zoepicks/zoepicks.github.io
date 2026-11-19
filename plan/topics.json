@@ -8547,5 +8547,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Resin Printer (2026)",
+  "slug": "best-resin-printer-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-printers-2026",
+  "tab": "resin",
+  "tab_label": "Resin"
+ },
+ {
+  "title": "Best Bracelet (2026)",
+  "slug": "best-bracelet-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
