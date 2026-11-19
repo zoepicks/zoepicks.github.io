@@ -10954,9 +10954,24 @@
   },
   "beauty_health:eye-makeup": {
    "label": "Eye Makeup",
-   "tries": 9,
-   "items": [],
-   "scanned": "2026-11-17T04:13:36.045029+00:00",
+   "tries": 10,
+   "items": [
+    {
+     "asin": "B089GBFM7G",
+     "name": "ColourPop Nude Mood Eyeshadow Palette",
+     "pct": 70,
+     "rating": 4.5,
+     "t": 1795053661,
+     "img": "https://m.media-amazon.com/images/I/71sQZYFmP1L.jpg",
+     "link": "https://www.amazon.com/dp/B089GBFM7G?tag=zoepicks00-20",
+     "now": "14.00",
+     "was": "46.67",
+     "reviews": 5442,
+     "_title": "ColourPop Nude Mood Eyeshadow Palette - Brown & Copper Palette with Metallic and Matte Finishes - High-Pigment Eye Makeup ...",
+     "_price": 14.0
+    }
+   ],
+   "scanned": "2026-11-19T02:01:01.338843+00:00",
    "via": "sweep"
   },
   "beauty_health:moisturizer": {
