@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-19T12:24:44Z",
+ "updated": "2026-11-19T13:43:19Z",
  "cats": [
   {
    "key": "fashion",
@@ -25,6 +25,30 @@
  ],
  "items": {
   "fashion": [
+   {
+    "asin": "B0HDTB9GKJ",
+    "name": "Zeagoo 3/4 Sleeve Dress",
+    "pct": 43,
+    "rating": 4.3,
+    "t": 1795031531,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71D+HP3EVrL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDTB9GKJ?tag=zoepicks00-20",
+    "now": "19.98",
+    "was": "34.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0HJB15CPT",
+    "name": "CUSHIONAIRE Daley Genuine Suede Penny Loafers",
+    "pct": 26,
+    "rating": 4.6,
+    "t": 1795031535,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81mhtIlj4+L.jpg",
+    "link": "https://www.amazon.com/dp/B0HJB15CPT?tag=zoepicks00-20",
+    "now": "69.99",
+    "was": "94.99",
+    "cat": "fashion"
+   },
    {
     "asin": "B0DF5NPY4Y",
     "name": "Kenneth Cole REACTION Ryder Coated Polyester Tech Crossbody…",
@@ -78,6 +102,19 @@
     "cat": "home"
    },
    {
+    "asin": "B0FLQ68XSW",
+    "name": "Tineco Corded 3-in-1 Wet Dry Vacuum Mop",
+    "pct": 44,
+    "rating": 4.2,
+    "t": 1795026165,
+    "img": "https://m.media-amazon.com/images/I/61YxVL4HTtL.jpg",
+    "link": "https://www.amazon.com/dp/B0FLQ68XSW?tag=zoepicks00-20",
+    "now": "279.00",
+    "was": "499.00",
+    "deal": "Early Black Friday Deal",
+    "cat": "home"
+   },
+   {
     "asin": "B0CT4X5R29",
     "name": "Wemore Weighted Blanket",
     "pct": 25,
@@ -111,18 +148,6 @@
     "link": "https://www.amazon.com/dp/B0DTN46Q7Z?tag=zoepicks00-20",
     "now": "21.00",
     "was": "28.00",
-    "cat": "home"
-   },
-   {
-    "asin": "B0GY4QTR2T",
-    "name": "Fieetra Fireproof Document Box",
-    "pct": 24,
-    "rating": 4.5,
-    "t": 1794962157,
-    "img": "https://m.media-amazon.com/images/I/81E82kuopPL.jpg",
-    "link": "https://www.amazon.com/dp/B0GY4QTR2T?tag=zoepicks00-20",
-    "now": "49.99",
-    "was": "65.99",
     "cat": "home"
    },
    {
@@ -212,18 +237,6 @@
     "cat": "kids"
    },
    {
-    "asin": "B0FWT7ZRXY",
-    "name": "adidas Boys Runfalcon 6 Sneakers Shoes",
-    "pct": 25,
-    "rating": 4.7,
-    "t": 1794999581,
-    "img": "https://m.media-amazon.com/images/I/61rEjYRZ2KL.jpg",
-    "link": "https://www.amazon.com/dp/B0FWT7ZRXY?tag=zoepicks00-20",
-    "now": "41.25",
-    "was": "55.00",
-    "cat": "kids"
-   },
-   {
     "asin": "B0F2G735TF",
     "name": "adidas Kids Girls Streettalk Sneakers Shoes",
     "pct": 25,
@@ -233,6 +246,18 @@
     "link": "https://www.amazon.com/dp/B0F2G735TF?tag=zoepicks00-20",
     "now": "33.70",
     "was": "45.00",
+    "cat": "kids"
+   },
+   {
+    "asin": "B0FWT7ZRXY",
+    "name": "adidas Boys Runfalcon 6 Sneakers Shoes",
+    "pct": 25,
+    "rating": 4.7,
+    "t": 1794999581,
+    "img": "https://m.media-amazon.com/images/I/61rEjYRZ2KL.jpg",
+    "link": "https://www.amazon.com/dp/B0FWT7ZRXY?tag=zoepicks00-20",
+    "now": "41.25",
+    "was": "55.00",
     "cat": "kids"
    },
    {
