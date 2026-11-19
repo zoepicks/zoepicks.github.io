@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-19T08:35:16Z",
+ "updated": "2026-11-19T10:35:31Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -302,8 +302,7 @@
    "link": "https://www.amazon.com/dp/B085WW97VY?tag=zoepicks00-20",
    "now": "18.38",
    "was": "39.98",
-   "reviews": 12105,
-   "tier": "budget"
+   "reviews": 12105
   },
   {
    "asin": "B09DS3FG6P",
@@ -330,19 +329,6 @@
    "now": "49.99",
    "was": "99.99",
    "reviews": 1370,
-   "tier": "budget"
-  },
-  {
-   "asin": "B0FJLX5BPN",
-   "name": "Google TV Projector 4K Support",
-   "pct": 54,
-   "rating": 4.3,
-   "t": 1794948934,
-   "img": "https://m.media-amazon.com/images/I/713Fzc6qptL.jpg",
-   "link": "https://www.amazon.com/dp/B0FJLX5BPN?tag=zoepicks00-20",
-   "now": "161.49",
-   "was": "349.99",
-   "reviews": 710,
    "tier": "budget"
   },
   {
@@ -386,16 +372,30 @@
    "tier": "budget"
   },
   {
-   "asin": "B0FM3674YY",
-   "name": "Laptop Bag for Women",
+   "asin": "B0C9L8ZR6Q",
+   "name": "Skullcandy Crusher ANC 2 Noise Cancelling Wireless…",
    "pct": 50,
    "rating": 4.6,
-   "t": 1794948927,
-   "img": "https://m.media-amazon.com/images/I/81R1ohomvOL.jpg",
-   "link": "https://www.amazon.com/dp/B0FM3674YY?tag=zoepicks00-20",
-   "now": "13.99",
-   "was": "27.99",
-   "reviews": 220,
+   "t": 1795024826,
+   "img": "https://m.media-amazon.com/images/I/71ew5pFViAL.jpg",
+   "link": "https://www.amazon.com/dp/B0C9L8ZR6Q?tag=zoepicks00-20",
+   "now": "119.99",
+   "was": "239.99",
+   "deal": "Early Black Friday Deal",
+   "reviews": 4891,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0C123W4J8",
+   "name": "The Children's Place Newborn Fleece Hoodie Zip-front…",
+   "pct": 50,
+   "rating": 4.6,
+   "t": 1795073360,
+   "img": "https://m.media-amazon.com/images/I/61XbEos9OYL.jpg",
+   "link": "https://www.amazon.com/dp/B0C123W4J8?tag=zoepicks00-20",
+   "now": "29.98",
+   "was": "59.95",
+   "reviews": 529,
    "tier": "budget"
   }
  ],
@@ -979,15 +979,15 @@
    "icon": "🛏️"
   },
   {
-   "asin": "B08CGYJP9L",
-   "name": "BAGSMART Gym Tote Bag",
-   "pct": 38,
-   "rating": 4.6,
-   "t": 1794947955,
-   "img": "https://m.media-amazon.com/images/I/718BJPFWntL.jpg",
-   "link": "https://www.amazon.com/dp/B08CGYJP9L?tag=zoepicks00-20",
-   "now": "19.82",
-   "was": "31.99",
+   "asin": "B0CVSH5HGN",
+   "name": "Carhartt Utility 55L Duffel Carhartt Brown",
+   "pct": 25,
+   "rating": 4.8,
+   "t": 1795060518,
+   "img": "https://m.media-amazon.com/images/I/91nxvlsonxL.jpg",
+   "link": "https://www.amazon.com/dp/B0CVSH5HGN?tag=zoepicks00-20",
+   "now": "63.74",
+   "was": "84.99",
    "cat": "bags",
    "label": "Backpacks",
    "icon": "🎒"
@@ -1116,20 +1116,6 @@
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
-  },
-  {
-   "asin": "B0CVSH5HGN",
-   "name": "Carhartt Utility 55L Duffel Carhartt Brown",
-   "pct": 25,
-   "rating": 4.8,
-   "t": 1795060518,
-   "img": "https://m.media-amazon.com/images/I/91nxvlsonxL.jpg",
-   "link": "https://www.amazon.com/dp/B0CVSH5HGN?tag=zoepicks00-20",
-   "now": "63.74",
-   "was": "84.99",
-   "cat": "bags",
-   "label": "Backpacks",
-   "icon": "🎒"
   },
   {
    "asin": "B0FJHYKFCQ",
@@ -1501,20 +1487,6 @@
    "icon": "🛍️"
   },
   {
-   "asin": "B0FJLX5BPN",
-   "name": "Google TV Projector 4K Support",
-   "pct": 54,
-   "rating": 4.3,
-   "t": 1794948934,
-   "img": "https://m.media-amazon.com/images/I/713Fzc6qptL.jpg",
-   "link": "https://www.amazon.com/dp/B0FJLX5BPN?tag=zoepicks00-20",
-   "now": "161.49",
-   "was": "349.99",
-   "theme": "blackfriday",
-   "label": "Black Friday",
-   "icon": "🛍️"
-  },
-  {
    "asin": "B0HCNB82DM",
    "name": "4K UHD GPS Drone with Camera",
    "pct": 50,
@@ -1522,20 +1494,6 @@
    "t": 1795068741,
    "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
    "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
-   "theme": "blackfriday",
-   "label": "Black Friday",
-   "icon": "🛍️"
-  },
-  {
-   "asin": "B0FM3674YY",
-   "name": "Laptop Bag for Women",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1794948927,
-   "img": "https://m.media-amazon.com/images/I/81R1ohomvOL.jpg",
-   "link": "https://www.amazon.com/dp/B0FM3674YY?tag=zoepicks00-20",
-   "now": "13.99",
-   "was": "27.99",
    "theme": "blackfriday",
    "label": "Black Friday",
    "icon": "🛍️"
@@ -1634,6 +1592,30 @@
    "now": "29.95",
    "was": "54.95",
    "deal": "Early Black Friday Deal",
+   "theme": "blackfriday",
+   "label": "Black Friday",
+   "icon": "🛍️"
+  },
+  {
+   "asin": "B0HH9CBL44",
+   "name": "Laptop Screen Extender 14.1\" 1080P",
+   "pct": 40,
+   "rating": 4.8,
+   "t": 1795068903,
+   "img": "https://m.media-amazon.com/images/I/71idJLU6G2L.jpg",
+   "link": "https://www.amazon.com/dp/B0HH9CBL44?tag=zoepicks00-20",
+   "theme": "blackfriday",
+   "label": "Black Friday",
+   "icon": "🛍️"
+  },
+  {
+   "asin": "B0FF7L83XD",
+   "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
+   "pct": 40,
+   "rating": 4.6,
+   "t": 1795068903,
+   "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
+   "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
    "theme": "blackfriday",
    "label": "Black Friday",
    "icon": "🛍️"
