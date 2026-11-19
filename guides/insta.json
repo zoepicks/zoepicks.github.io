@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-19T16:32:21Z",
+ "updated": "2026-11-19T20:32:39Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,6 +26,18 @@
  "items": {
   "fashion": [
    {
+    "asin": "B0DK485R17",
+    "name": "Coach Women's Legacy Zip Top Crossbody Bag",
+    "pct": 50,
+    "rating": 4.5,
+    "t": 1795112017,
+    "img": "https://m.media-amazon.com/images/I/81fnZWBQdzL.jpg",
+    "link": "https://www.amazon.com/dp/B0DK485R17?tag=zoepicks00-20",
+    "now": "97.50",
+    "was": "195.00",
+    "cat": "fashion"
+   },
+   {
     "asin": "B0HDTB9GKJ",
     "name": "Zeagoo 3/4 Sleeve Dress",
     "pct": 43,
@@ -47,18 +59,6 @@
     "link": "https://www.amazon.com/dp/B0HJB15CPT?tag=zoepicks00-20",
     "now": "69.99",
     "was": "94.99",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0DF5NPY4Y",
-    "name": "Kenneth Cole REACTION Ryder Coated Polyester Tech Crossbody…",
-    "pct": 25,
-    "rating": 4.5,
-    "t": 1795022799,
-    "img": "https://m.media-amazon.com/images/I/717IU8FjNHL.jpg",
-    "link": "https://www.amazon.com/dp/B0DF5NPY4Y?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "39.99",
     "cat": "fashion"
    }
   ],
@@ -112,18 +112,6 @@
     "link": "https://www.amazon.com/dp/B0CT4X5R29?tag=zoepicks00-20",
     "now": "34.48",
     "was": "45.98",
-    "cat": "home"
-   },
-   {
-    "asin": "B0FH7C3WBF",
-    "name": "Simple Modern Water Bottle",
-    "pct": 25,
-    "rating": 4.1,
-    "t": 1794985774,
-    "img": "https://m.media-amazon.com/images/I/61hg43frQBL.jpg",
-    "link": "https://www.amazon.com/dp/B0FH7C3WBF?tag=zoepicks00-20",
-    "now": "20.24",
-    "was": "26.99",
     "cat": "home"
    }
   ],
