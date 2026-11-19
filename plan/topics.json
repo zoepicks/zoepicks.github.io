@@ -8121,5 +8121,41 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Game Boy Charger (2026)",
+  "slug": "best-game-boy-charger-2026",
+  "category": "accessories",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptop-charger-2026",
+  "tab": "game-boy",
+  "tab_label": "Game Boy"
+ },
+ {
+  "title": "Best Crt Tv (2026)",
+  "slug": "best-crt-tv-2026",
+  "category": "smart_home",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vhs-tv-2026",
+  "tab": "crt",
+  "tab_label": "Crt"
+ },
+ {
+  "title": "Best Non-Apple Laptop (2026)",
+  "slug": "best-non-apple-laptop-2026",
+  "category": "laptops",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-laptops-under-1000-2026",
+  "tab": "non-apple",
+  "tab_label": "Non Apple"
  }
 ]
