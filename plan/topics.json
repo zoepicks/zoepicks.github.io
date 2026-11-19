@@ -8394,5 +8394,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Vanilla Scented Perfume (2026)",
+  "slug": "best-vanilla-scented-perfume-2026",
+  "category": "beauty_health",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-perfumes-2026",
+  "tab": "vanilla-scented",
+  "tab_label": "Vanilla Scented"
+ },
+ {
+  "title": "Best Step Stool (2026)",
+  "slug": "best-step-stool-2026",
+  "category": "tools_auto",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
