@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-19T15:24:22Z",
+ "updated": "2026-11-19T17:24:36Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2302,6 +2302,19 @@
     "label": "Suitcase",
     "items": [
      {
+      "asin": "B0FZG17R2M",
+      "name": "Romswi 3-Piece Set Expandable Luggage Set 20/24/28 Inch",
+      "pct": 53,
+      "rating": 4.6,
+      "t": 1795022799,
+      "img": "https://m.media-amazon.com/images/I/61lmxAR+IuL.jpg",
+      "link": "https://www.amazon.com/dp/B0FZG17R2M?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "169.99",
+      "reviews": 239,
+      "tier": "mid"
+     },
+     {
       "asin": "B0GQB8CCQL",
       "name": "MANGOSTAN Black Bluetooth Suitcase Record Player",
       "pct": 34,
@@ -2314,33 +2327,6 @@
       "deal": "Limited time deal",
       "reviews": 46,
       "tier": "budget"
-     },
-     {
-      "asin": "B0DDXLR85B",
-      "name": "MANGOSTAN Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1795028131,
-      "img": "https://m.media-amazon.com/images/I/81mC0xBjhxL.jpg",
-      "link": "https://www.amazon.com/dp/B0DDXLR85B?tag=zoepicks00-20",
-      "now": "39.19",
-      "was": "55.99",
-      "deal": "Limited time deal",
-      "reviews": 187,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FZG17R2M",
-      "name": "Romswi 3-Piece Set Expandable Luggage Set 20/24/28 Inch",
-      "pct": 53,
-      "rating": 4.6,
-      "t": 1795022799,
-      "img": "https://m.media-amazon.com/images/I/61lmxAR+IuL.jpg",
-      "link": "https://www.amazon.com/dp/B0FZG17R2M?tag=zoepicks00-20",
-      "now": "79.99",
-      "was": "169.99",
-      "reviews": 239,
-      "tier": "premium"
      }
     ]
    },
@@ -4528,24 +4514,6 @@
     ]
    },
    {
-    "key": "space-heaters",
-    "label": "Space Heaters",
-    "items": [
-     {
-      "asin": "B002QZ11J6",
-      "name": "Dr Infrared Heater DR-968 Portable Space Heater",
-      "pct": 21,
-      "rating": 4.5,
-      "t": 1794972516,
-      "img": "https://m.media-amazon.com/images/I/91BfDvRKGRL.jpg",
-      "link": "https://www.amazon.com/dp/B002QZ11J6?tag=zoepicks00-20",
-      "now": "98.80",
-      "was": "124.98",
-      "reviews": 28418
-     }
-    ]
-   },
-   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": []
@@ -4573,6 +4541,11 @@
    {
     "key": "french-press",
     "label": "French Press",
+    "items": []
+   },
+   {
+    "key": "space-heaters",
+    "label": "Space Heaters",
     "items": []
    },
    {
@@ -5220,7 +5193,7 @@
       "now": "79.99",
       "was": "169.99",
       "reviews": 239,
-      "tier": "premium"
+      "tier": "mid"
      }
     ]
    },
