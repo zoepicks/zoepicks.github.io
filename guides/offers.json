@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T11:17:24Z",
+ "updated": "2026-11-20T12:01:33Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -119,13 +119,13 @@
   ],
   "fashion": [
    {
-    "asin": "B01HIUTCTY",
+    "asin": "B01HIUTCA8",
     "name": "Champion Men's Powerblend Pullover Hoodie",
     "pct": 64,
     "rating": 4.7,
-    "t": 1795155039,
-    "img": "https://m.media-amazon.com/images/I/71sFO3FqXBL.jpg",
-    "link": "https://www.amazon.com/dp/B01HIUTCTY?tag=zoepicks00-20",
+    "t": 1795174286,
+    "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
+    "link": "https://www.amazon.com/dp/B01HIUTCA8?tag=zoepicks00-20",
     "now": "18.04",
     "was": "50.00",
     "reviews": 0,
@@ -311,13 +311,15 @@
   ],
   "home_kitchen": [
    {
-    "asin": "B081DNWG7N",
-    "name": "Mr. Coffee Programmable Coffee Maker",
-    "pct": 52,
-    "rating": 4.3,
-    "t": 1795154509,
-    "img": "https://m.media-amazon.com/images/I/81bs-ikI+IL.jpg",
-    "link": "https://www.amazon.com/dp/B081DNWG7N?tag=zoepicks00-20",
+    "asin": "B07WFF17BQ",
+    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+    "pct": 55,
+    "rating": 4.5,
+    "t": 1795174287,
+    "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
+    "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
+    "now": "18.03",
+    "was": "39.97",
     "reviews": 0,
     "tier": "budget"
    },
@@ -2688,26 +2690,26 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B0FJL9K6R5",
-      "name": "EFAN Mens Oversized Hoodies Fleece Lined Sweatshirts",
+      "asin": "B0CGMCKTZD",
+      "name": "JMIERR Mens Fleece Lined Oversized Hoodie Pullover…",
       "pct": 64,
       "rating": 4.6,
-      "t": 1795155040,
-      "img": "https://m.media-amazon.com/images/I/61J7FTJaGYL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJL9K6R5?tag=zoepicks00-20",
+      "t": 1795174287,
+      "img": "https://m.media-amazon.com/images/I/61QVJLwkEcL.jpg",
+      "link": "https://www.amazon.com/dp/B0CGMCKTZD?tag=zoepicks00-20",
       "now": "14.24",
-      "was": "39.98",
+      "was": "39.99",
       "reviews": 0,
       "tier": "budget"
      },
      {
-      "asin": "B01HIUTCTY",
+      "asin": "B01HIUTCA8",
       "name": "Champion Men's Powerblend Pullover Hoodie",
       "pct": 64,
       "rating": 4.7,
-      "t": 1795155039,
-      "img": "https://m.media-amazon.com/images/I/71sFO3FqXBL.jpg",
-      "link": "https://www.amazon.com/dp/B01HIUTCTY?tag=zoepicks00-20",
+      "t": 1795174286,
+      "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
+      "link": "https://www.amazon.com/dp/B01HIUTCA8?tag=zoepicks00-20",
       "now": "18.04",
       "was": "50.00",
       "reviews": 0,
@@ -2731,19 +2733,6 @@
     "label": "Slippers",
     "items": [
      {
-      "asin": "B07WVY1N9H",
-      "name": "shoeslocker Men's Slippers Indoor Outdoor Warm Soft Plush…",
-      "pct": 58,
-      "rating": 4.5,
-      "t": 1795155040,
-      "img": "https://m.media-amazon.com/images/I/81yAhtvYSYL.jpg",
-      "link": "https://www.amazon.com/dp/B07WVY1N9H?tag=zoepicks00-20",
-      "now": "12.27",
-      "was": "28.99",
-      "reviews": 13856,
-      "tier": "budget"
-     },
-     {
       "asin": "B0BYNYWKC7",
       "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
       "pct": 63,
@@ -2752,6 +2741,20 @@
       "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
       "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07CLXD2V4",
+      "name": "VeraCosy Men's Two-Tone House Slippers Memory Foam Indoor…",
+      "pct": 62,
+      "rating": 4.5,
+      "t": 1795112017,
+      "img": "https://m.media-amazon.com/images/I/81awKn+wuaL.jpg",
+      "link": "https://www.amazon.com/dp/B07CLXD2V4?tag=zoepicks00-20",
+      "now": "13.29",
+      "was": "35.00",
+      "deal": "Black Friday Deal",
+      "reviews": 42069,
       "tier": "mid"
      },
      {
@@ -4532,6 +4535,52 @@
     ]
    },
    {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B0GX57TRXD",
+      "name": "Astercook Large Bamboo Cutting Board",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795112595,
+      "img": "https://m.media-amazon.com/images/I/81A3GIdqrOL.jpg",
+      "link": "https://www.amazon.com/dp/B0GX57TRXD?tag=zoepicks00-20",
+      "now": "14.24",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 210,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07WFF17BQ",
+      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+      "pct": 55,
+      "rating": 4.5,
+      "t": 1795174287,
+      "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
+      "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
+      "now": "18.03",
+      "was": "39.97",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DQG2VHKJ",
+      "name": "Titanium Cutting Board",
+      "pct": 32,
+      "rating": 4.4,
+      "t": 1795130882,
+      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
+      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
+      "now": "26.59",
+      "was": "38.99",
+      "reviews": 8215,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "coffee-makers",
     "label": "Coffee Makers",
     "items": [
@@ -4649,53 +4698,6 @@
       "was": "24.99",
       "deal": "Black Friday Deal",
       "reviews": 14582
-     }
-    ]
-   },
-   {
-    "key": "cutting-board",
-    "label": "Cutting Board",
-    "items": [
-     {
-      "asin": "B0GX57TRXD",
-      "name": "Astercook Large Bamboo Cutting Board",
-      "pct": 43,
-      "rating": 4.4,
-      "t": 1795112595,
-      "img": "https://m.media-amazon.com/images/I/81A3GIdqrOL.jpg",
-      "link": "https://www.amazon.com/dp/B0GX57TRXD?tag=zoepicks00-20",
-      "now": "14.24",
-      "was": "24.99",
-      "deal": "Black Friday Deal",
-      "reviews": 210,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DQG2VHKJ",
-      "name": "Titanium Cutting Board",
-      "pct": 32,
-      "rating": 4.4,
-      "t": 1795130882,
-      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
-      "now": "26.59",
-      "was": "38.99",
-      "reviews": 8215,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0D2P1HSCV",
-      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-      "pct": 43,
-      "rating": 4.5,
-      "t": 1795112595,
-      "img": "https://m.media-amazon.com/images/I/71z8Dl7JP5L.jpg",
-      "link": "https://www.amazon.com/dp/B0D2P1HSCV?tag=zoepicks00-20",
-      "now": "28.49",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 54101,
-      "tier": "premium"
      }
     ]
    },
