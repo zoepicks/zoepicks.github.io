@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T20:07:38Z",
+ "updated": "2026-11-20T22:07:52Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -132,6 +132,17 @@
     "tier": "budget"
    },
    {
+    "asin": "B0GS9PNXB5",
+    "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
+    "pct": 61,
+    "rating": 4.5,
+    "t": 1795155063,
+    "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
+    "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
     "asin": "B0HPNWLF3R",
     "name": "Fitness Tracker, Smart Watches",
     "pct": 62,
@@ -140,19 +151,6 @@
     "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
     "link": "https://www.amazon.com/dp/B0HPNWLF3R?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0HDSMB23G",
-    "name": "Smart Watches for Women",
-    "pct": 53,
-    "rating": 5.0,
-    "t": 1795141376,
-    "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
-    "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
-    "now": "46.54",
-    "was": "99.99",
-    "reviews": 68,
     "tier": "premium"
    }
   ],
@@ -387,17 +385,17 @@
   ],
   "mobiles": [
    {
-    "asin": "B0HQNYDXW8",
-    "name": "Smart Watch for Men Women",
-    "pct": 73,
-    "rating": 4.8,
+    "asin": "B0HQ35L2DB",
+    "name": "Smart Watch for Women Men",
+    "pct": 77,
+    "rating": 4.7,
     "t": 1795199298,
-    "img": "https://m.media-amazon.com/images/I/611cRe5IIWL.jpg",
-    "link": "https://www.amazon.com/dp/B0HQNYDXW8?tag=zoepicks00-20",
-    "now": "23.99",
-    "was": "89.99",
+    "img": "https://m.media-amazon.com/images/I/71PVwGTVgeL.jpg",
+    "link": "https://www.amazon.com/dp/B0HQ35L2DB?tag=zoepicks00-20",
+    "now": "29.99",
+    "was": "129.99",
     "deal": "Black Friday Deal",
-    "reviews": 38,
+    "reviews": 657,
     "tier": "budget"
    },
    {
@@ -975,17 +973,16 @@
       "tier": "mid"
      },
      {
-      "asin": "B081QSHG1K",
-      "name": "SANDISK 256GB Ultra",
-      "pct": 17,
+      "asin": "B0GF84H8VM",
+      "name": "SANDISK 256GB Extreme PRO USB-C Flash Drive",
+      "pct": 16,
       "rating": 4.6,
-      "t": 1795200520,
-      "img": "https://m.media-amazon.com/images/I/61TuPtmTScL.jpg",
-      "link": "https://www.amazon.com/dp/B081QSHG1K?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "41.99",
-      "deal": "Black Friday Deal",
-      "reviews": 53744,
+      "t": 1795208871,
+      "img": "https://m.media-amazon.com/images/I/51GwgWygc9L.jpg",
+      "link": "https://www.amazon.com/dp/B0GF84H8VM?tag=zoepicks00-20",
+      "now": "63.99",
+      "was": "75.99",
+      "reviews": 163,
       "tier": "premium"
      }
     ]
@@ -1825,34 +1822,6 @@
     "label": "Tablets",
     "items": [
      {
-      "asin": "B0GF84H8VM",
-      "name": "SANDISK 256GB Extreme PRO USB-C Flash Drive",
-      "pct": 16,
-      "rating": 4.6,
-      "t": 1795200520,
-      "img": "https://m.media-amazon.com/images/I/51GwgWygc9L.jpg",
-      "link": "https://www.amazon.com/dp/B0GF84H8VM?tag=zoepicks00-20",
-      "now": "63.99",
-      "was": "75.99",
-      "deal": "Black Friday Deal",
-      "reviews": 163,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CN9SD8JF",
-      "name": "THE NORTH FACE Borealis Laptop Backpack",
-      "pct": 30,
-      "rating": 4.7,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
-      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
-      "now": "80.50",
-      "was": "115.00",
-      "deal": "Black Friday Deal",
-      "reviews": 16538,
-      "tier": "mid"
-     },
-     {
       "asin": "B0DN7GYYV2",
       "name": "Amazon Alexa Tablet 11",
       "pct": 33,
@@ -1862,8 +1831,20 @@
       "link": "https://www.amazon.com/dp/B0DN7GYYV2?tag=zoepicks00-20",
       "now": "219.99",
       "was": "329.99",
-      "reviews": 124,
-      "tier": "premium"
+      "reviews": 124
+     },
+     {
+      "asin": "B0CNBCZGRZ",
+      "name": "THE NORTH FACE Recon Everyday Laptop Backpack",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81-9WJkkB3L.jpg",
+      "link": "https://www.amazon.com/dp/B0CNBCZGRZ?tag=zoepicks00-20",
+      "now": "87.50",
+      "was": "125.00",
+      "deal": "Black Friday Deal",
+      "reviews": 6605
      }
     ]
    },
@@ -2337,17 +2318,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0CN9SD8JF",
-      "name": "THE NORTH FACE Borealis Laptop Backpack",
+      "asin": "B0CNBCZGRZ",
+      "name": "THE NORTH FACE Recon Everyday Laptop Backpack",
       "pct": 30,
       "rating": 4.7,
       "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
-      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
-      "now": "80.50",
-      "was": "115.00",
+      "img": "https://m.media-amazon.com/images/I/81-9WJkkB3L.jpg",
+      "link": "https://www.amazon.com/dp/B0CNBCZGRZ?tag=zoepicks00-20",
+      "now": "87.50",
+      "was": "125.00",
       "deal": "Black Friday Deal",
-      "reviews": 16538,
+      "reviews": 6605,
       "tier": "premium"
      }
     ]
@@ -3117,20 +3098,6 @@
     "label": "Playstation",
     "items": [
      {
-      "asin": "B0B4862QNJ",
-      "name": "KontrolFreek FPS Freek Galaxy Black",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1795198843,
-      "img": "https://m.media-amazon.com/images/I/71Esgpg57PL.jpg",
-      "link": "https://www.amazon.com/dp/B0B4862QNJ?tag=zoepicks00-20",
-      "now": "11.89",
-      "was": "16.99",
-      "deal": "Black Friday Deal",
-      "reviews": 6473,
-      "tier": "budget"
-     },
-     {
       "asin": "B0CTVK7GBM",
       "name": "Stellar Blade - PlayStation 5",
       "pct": 57,
@@ -3142,19 +3109,34 @@
       "was": "69.99",
       "deal": "Black Friday Deal",
       "reviews": 1596,
+      "tier": "budget"
+     },
+     {
+      "asin": "B09SW6GCGL",
+      "name": "Gran Turismo 7 Standard Edition",
+      "pct": 57,
+      "rating": 4.7,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg",
+      "link": "https://www.amazon.com/dp/B09SW6GCGL?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "69.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2296,
       "tier": "mid"
      },
      {
-      "asin": "B0DQF6GRT8",
-      "name": "Split Fiction Playstation 5",
+      "asin": "B0DSQSX7FB",
+      "name": "PlayStation Pulse Explore Wireless Earbuds",
       "pct": 40,
-      "rating": 4.8,
-      "t": 1795135661,
-      "img": "https://m.media-amazon.com/images/I/81kaLB9OCBL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQF6GRT8?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
-      "reviews": 847,
+      "rating": 3.9,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/51OkyIdum9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DSQSX7FB?tag=zoepicks00-20",
+      "now": "119.00",
+      "was": "199.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1328,
       "tier": "premium"
      }
     ]
@@ -3415,12 +3397,11 @@
       "name": "Cuisinart Coffee Maker",
       "pct": 53,
       "rating": 4.4,
-      "t": 1795199075,
+      "t": 1795208853,
       "img": "https://m.media-amazon.com/images/I/71VjOhqSY7L.jpg",
       "link": "https://www.amazon.com/dp/B00MVWGQX0?tag=zoepicks00-20",
       "now": "56.95",
       "was": "119.95",
-      "deal": "Black Friday Deal",
       "reviews": 44589,
       "tier": "mid"
      },
@@ -3653,12 +3634,11 @@
       "name": "Nespresso Vertuo Pop+ Coffee and Espresso Machine by…",
       "pct": 31,
       "rating": 4.2,
-      "t": 1795199075,
+      "t": 1795207936,
       "img": "https://m.media-amazon.com/images/I/51VFGnvK+dL.jpg",
       "link": "https://www.amazon.com/dp/B0DVD67F76?tag=zoepicks00-20",
       "now": "89.00",
       "was": "129.00",
-      "deal": "Black Friday Deal",
       "reviews": 1603
      }
     ]
@@ -3672,12 +3652,11 @@
       "name": "Cuisinart Food Processor",
       "pct": 33,
       "rating": 4.5,
-      "t": 1795199075,
+      "t": 1795207929,
       "img": "https://m.media-amazon.com/images/I/61gr+QeFrvL.jpg",
       "link": "https://www.amazon.com/dp/B01AXM4WV2?tag=zoepicks00-20",
       "now": "199.95",
       "was": "299.95",
-      "deal": "Black Friday Deal",
       "reviews": 15343
      }
     ]
@@ -3990,17 +3969,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0HJ5LZ27V",
-      "name": "Smart Watch for Women/Men",
-      "pct": 72,
-      "rating": 4.9,
+      "asin": "B0HGR9N8MR",
+      "name": "Smart Watch, 1.85’’ Ultra-Clear Screen Fitness Tracker Watch",
+      "pct": 70,
+      "rating": 4.8,
       "t": 1795199298,
-      "img": "https://m.media-amazon.com/images/I/91699mbSiRL.jpg",
-      "link": "https://www.amazon.com/dp/B0HJ5LZ27V?tag=zoepicks00-20",
-      "now": "27.99",
+      "img": "https://m.media-amazon.com/images/I/91hMI99hl6L.jpg",
+      "link": "https://www.amazon.com/dp/B0HGR9N8MR?tag=zoepicks00-20",
+      "now": "29.99",
       "was": "99.99",
       "deal": "Black Friday Deal",
-      "reviews": 33,
+      "reviews": 49,
       "tier": "mid"
      },
      {
@@ -4024,17 +4003,17 @@
     "label": "Smartphones",
     "items": [
      {
-      "asin": "B0HFGG4S3T",
-      "name": "Fitness Tracker Watch",
-      "pct": 27,
-      "rating": 4.0,
+      "asin": "B08HMRY8NG",
+      "name": "AGPTEK Smart Watch",
+      "pct": 16,
+      "rating": 4.1,
       "t": 1795199298,
-      "img": "https://m.media-amazon.com/images/I/61OKInHeoXL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFGG4S3T?tag=zoepicks00-20",
-      "now": "16.14",
-      "was": "21.99",
+      "img": "https://m.media-amazon.com/images/I/61+wwNBP7aL.jpg",
+      "link": "https://www.amazon.com/dp/B08HMRY8NG?tag=zoepicks00-20",
+      "now": "21.89",
+      "was": "25.99",
       "deal": "Black Friday Deal",
-      "reviews": 5728,
+      "reviews": 60708,
       "tier": "budget"
      },
      {
@@ -4070,21 +4049,7 @@
    {
     "key": "smartwatches",
     "label": "Smartwatches",
-    "items": [
-     {
-      "asin": "B09VBVG4JX",
-      "name": "Choiknbo Smart Watch",
-      "pct": 15,
-      "rating": 4.1,
-      "t": 1795199298,
-      "img": "https://m.media-amazon.com/images/I/61NFp3Y3C+L.jpg",
-      "link": "https://www.amazon.com/dp/B09VBVG4JX?tag=zoepicks00-20",
-      "now": "17.84",
-      "was": "20.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4080
-     }
-    ]
+    "items": []
    }
   ],
   "monitors": [
@@ -4138,31 +4103,29 @@
     "label": "4K Monitors",
     "items": [
      {
+      "asin": "B0FFM6Z28R",
+      "name": "Gawfolk 27 Inch 4K Monitor IPS 60Hz",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1795208882,
+      "img": "https://m.media-amazon.com/images/I/81i53jkIF8L.jpg",
+      "link": "https://www.amazon.com/dp/B0FFM6Z28R?tag=zoepicks00-20",
+      "now": "135.99",
+      "was": "159.99",
+      "reviews": 750,
+      "tier": "budget"
+     },
+     {
       "asin": "B0C7G6F8BY",
       "name": "ASUS VP327Q 32 Inch 4K UHD Computer Monitor",
       "pct": 32,
       "rating": 4.1,
-      "t": 1795199458,
+      "t": 1795207902,
       "img": "https://m.media-amazon.com/images/I/81b7x9uLpAL.jpg",
       "link": "https://www.amazon.com/dp/B0C7G6F8BY?tag=zoepicks00-20",
       "now": "168.99",
       "was": "249.00",
-      "deal": "Black Friday Deal",
       "reviews": 195,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0H85TLJML",
-      "name": "Samsung 32\" ViewFinity S7",
-      "pct": 31,
-      "rating": 4.5,
-      "t": 1795199458,
-      "img": "https://m.media-amazon.com/images/I/71pdw79S1XL.jpg",
-      "link": "https://www.amazon.com/dp/B0H85TLJML?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "289.99",
-      "deal": "Black Friday Deal",
-      "reviews": 144,
       "tier": "mid"
      },
      {
@@ -4177,54 +4140,6 @@
       "was": "349.99",
       "deal": "Black Friday Deal",
       "reviews": 82,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "usb-c-monitors",
-    "label": "USB C Monitors",
-    "items": [
-     {
-      "asin": "B0874M3KW4",
-      "name": "Anker Laptop Docking Station Dual Monitor",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795199230,
-      "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
-      "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
-      "now": "37.98",
-      "was": "53.99",
-      "deal": "Black Friday Deal",
-      "reviews": 35345,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F1GFD44G",
-      "name": "Dell 27 Monitor S2725QC",
-      "pct": 29,
-      "rating": 4.4,
-      "t": 1795199458,
-      "img": "https://m.media-amazon.com/images/I/71lQNQPr+OL.jpg",
-      "link": "https://www.amazon.com/dp/B0F1GFD44G?tag=zoepicks00-20",
-      "now": "249.99",
-      "was": "349.99",
-      "deal": "Black Friday Deal",
-      "reviews": 963,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0BLT79X2G",
-      "name": "SAMSUNG Viewfinity S65UA Series 34-Inch Ultrawide QHD…",
-      "pct": 39,
-      "rating": 4.3,
-      "t": 1795199458,
-      "img": "https://m.media-amazon.com/images/I/91h5HRAzGKL.jpg",
-      "link": "https://www.amazon.com/dp/B0BLT79X2G?tag=zoepicks00-20",
-      "now": "329.99",
-      "was": "539.99",
-      "deal": "Black Friday Deal",
-      "reviews": 374,
       "tier": "premium"
      }
     ]
@@ -4353,6 +4268,54 @@
       "tier": "mid"
      },
      {
+      "asin": "B0BY199WV7",
+      "name": "INNOCN 49\" Curved Gaming Monitor 144Hz Ultrawide 32:9 WDFHD…",
+      "pct": 29,
+      "rating": 4.4,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/61Jf+2Fo+LL.jpg",
+      "link": "https://www.amazon.com/dp/B0BY199WV7?tag=zoepicks00-20",
+      "now": "474.95",
+      "was": "664.99",
+      "deal": "Black Friday Deal",
+      "reviews": 284,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "usb-c-monitors",
+    "label": "USB C Monitors",
+    "items": [
+     {
+      "asin": "B0874M3KW4",
+      "name": "Anker Laptop Docking Station Dual Monitor",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795199230,
+      "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
+      "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "53.99",
+      "deal": "Black Friday Deal",
+      "reviews": 35345,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08L5SRCZJ",
+      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
+      "now": "118.72",
+      "was": "169.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2673,
+      "tier": "mid"
+     },
+     {
       "asin": "B0CRGJF7WL",
       "name": "Samsung 49” Business Curved Ultrawide Dual QHD Computer…",
       "pct": 33,
@@ -4371,21 +4334,7 @@
    {
     "key": "monitors-home-office",
     "label": "Monitors Home Office",
-    "items": [
-     {
-      "asin": "B0FFM6Z28R",
-      "name": "Gawfolk 27 Inch 4K Monitor IPS 60Hz",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1795199458,
-      "img": "https://m.media-amazon.com/images/I/81i53jkIF8L.jpg",
-      "link": "https://www.amazon.com/dp/B0FFM6Z28R?tag=zoepicks00-20",
-      "now": "135.99",
-      "was": "159.99",
-      "deal": "Black Friday Deal",
-      "reviews": 750
-     }
-    ]
+    "items": []
    },
    {
     "key": "monitors-mac",
@@ -4807,12 +4756,11 @@
       "name": "HAPPRUN 1500 ANSI Smart Outdoor Projector",
       "pct": 39,
       "rating": 4.5,
-      "t": 1795199949,
+      "t": 1795206980,
       "img": "https://m.media-amazon.com/images/I/71MGKR6NXGL.jpg",
       "link": "https://www.amazon.com/dp/B0FDQFD1R7?tag=zoepicks00-20",
       "now": "151.96",
       "was": "249.96",
-      "deal": "Black Friday Deal",
       "reviews": 160,
       "tier": "mid"
      },
