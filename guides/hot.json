@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T07:29:26Z",
+ "updated": "2026-11-20T09:29:41Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -42,7 +42,7 @@
    "was": "99.99",
    "deal": "Black Friday Deal",
    "reviews": 48,
-   "tier": "budget"
+   "tier": "mid"
   },
   {
    "asin": "B0H7111XBY",
@@ -179,7 +179,7 @@
    "was": "99.99",
    "deal": "Black Friday Deal",
    "reviews": 26,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B09SW6GCGL",
@@ -278,6 +278,20 @@
    "tier": "premium"
   },
   {
+   "asin": "B0HCMZYZ2H",
+   "name": "Smart Watch for Men/Women",
+   "pct": 63,
+   "rating": 4.0,
+   "t": 1795112834,
+   "img": "https://m.media-amazon.com/images/I/719a2hEpiTL.jpg",
+   "link": "https://www.amazon.com/dp/B0HCMZYZ2H?tag=zoepicks00-20",
+   "now": "23.99",
+   "was": "64.99",
+   "deal": "Black Friday Deal",
+   "reviews": 36,
+   "tier": "budget"
+  },
+  {
    "asin": "B0H1GNCT7Q",
    "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
    "pct": 55,
@@ -289,20 +303,6 @@
    "was": "2,199.00",
    "deal": "Black Friday Deal",
    "reviews": 28,
-   "tier": "premium"
-  },
-  {
-   "asin": "B0HBX562Z1",
-   "name": "LIGE Military Smart Watch",
-   "pct": 57,
-   "rating": 4.3,
-   "t": 1795112834,
-   "img": "https://m.media-amazon.com/images/I/81mMG97zkcL.jpg",
-   "link": "https://www.amazon.com/dp/B0HBX562Z1?tag=zoepicks00-20",
-   "now": "46.99",
-   "was": "109.99",
-   "deal": "Black Friday Deal",
-   "reviews": 285,
    "tier": "premium"
   },
   {
@@ -346,19 +346,6 @@
    "deal": "Black Friday Deal",
    "reviews": 15046,
    "tier": "premium"
-  },
-  {
-   "asin": "B08FPBY5XD",
-   "name": "Intelligent Design Queen Comforter Set",
-   "pct": 53,
-   "rating": 4.5,
-   "t": 1795036993,
-   "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
-   "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
-   "now": "23.93",
-   "was": "50.99",
-   "reviews": 2615,
-   "tier": "budget"
   },
   {
    "asin": "B09JP2TRK4",
@@ -414,6 +401,20 @@
    "deal": "Black Friday Deal",
    "reviews": 22,
    "tier": "budget"
+  },
+  {
+   "asin": "B074NBSF9N",
+   "name": "HyperX Cloud Alpha",
+   "pct": 55,
+   "rating": 4.2,
+   "t": 1795112357,
+   "img": "https://m.media-amazon.com/images/I/71++S+DNJ+L.jpg",
+   "link": "https://www.amazon.com/dp/B074NBSF9N?tag=zoepicks00-20",
+   "now": "44.99",
+   "was": "99.99",
+   "deal": "Black Friday Deal",
+   "reviews": 17154,
+   "tier": "premium"
   }
  ],
  "ess": [
@@ -997,15 +998,13 @@
    "icon": "🩲"
   },
   {
-   "asin": "B08FPBY5XD",
-   "name": "Intelligent Design Queen Comforter Set",
-   "pct": 53,
+   "asin": "B07N41G198",
+   "name": "Madison Park Marina Comforter Quilt Combo Set",
+   "pct": 50,
    "rating": 4.5,
-   "t": 1795036993,
-   "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
-   "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
-   "now": "23.93",
-   "was": "50.99",
+   "t": 1795154571,
+   "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
+   "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
    "cat": "bedding",
    "label": "Bedding & towels",
    "icon": "🛏️"
