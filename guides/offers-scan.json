@@ -2837,6 +2837,119 @@
    ],
    "scanned": "2026-11-20T18:24:35.365547+00:00",
    "via": "sweep"
+  },
+  "laptops:laptops": {
+   "label": "Laptops",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0CR9JFD7S",
+     "name": "Taygeer Travel Laptop Backpack",
+     "pct": 43,
+     "rating": 4.7,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/61mBPzS4IeL.jpg",
+     "link": "https://www.amazon.com/dp/B0CR9JFD7S?tag=zoepicks00-20",
+     "now": "22.78",
+     "was": "39.99",
+     "deal": "Black Friday Deal",
+     "reviews": 31132,
+     "_title": "Taygeer Travel Laptop Backpack for Men, Airplane Approved Travel Backpack | 15.6inch Laptop Backpacks with Water Bottle Po...",
+     "_price": 22.78
+    },
+    {
+     "asin": "B0874M3KW4",
+     "name": "Anker Laptop Docking Station Dual Monitor",
+     "pct": 30,
+     "rating": 4.5,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
+     "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
+     "now": "37.98",
+     "was": "53.99",
+     "deal": "Black Friday Deal",
+     "reviews": 35345,
+     "_title": "Anker Laptop Docking Station Dual Monitor, 8-in-1 USB C Hub with 4K HDMI | Dual HDMI USB C Dock, 1Gbps Ethernet, 85W Max P...",
+     "_price": 37.98
+    },
+    {
+     "asin": "B0DK9CSBQP",
+     "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
+     "pct": 25,
+     "rating": 4.4,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
+     "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
+     "now": "42.72",
+     "was": "56.99",
+     "deal": "Black Friday Deal",
+     "reviews": 752,
+     "_title": "Gloryang Bluetooth Thermal Shipping Label Printer, 4X6 Inkless Label Machine for iOS, Android, Laptop, Wireless Printer fo...",
+     "_price": 42.72
+    },
+    {
+     "asin": "B092TQG5ZD",
+     "name": "DUSLANG 17 inch Travel Laptop Backpack",
+     "pct": 24,
+     "rating": 4.7,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/810gZYpPz9L.jpg",
+     "link": "https://www.amazon.com/dp/B092TQG5ZD?tag=zoepicks00-20",
+     "now": "24.22",
+     "was": "31.99",
+     "deal": "Black Friday Deal",
+     "reviews": 3725,
+     "_title": "DUSLANG 17 inch Travel Laptop Backpack for Men/Women College Computer Bag | Water Resistant 17 inch laptop backpack with p...",
+     "_price": 24.22
+    },
+    {
+     "asin": "B0GTFH1DNL",
+     "name": "Acer Aspire Go 15 AI Ready Laptop",
+     "pct": 23,
+     "rating": 4.2,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/71H8XhwlwpL.jpg",
+     "link": "https://www.amazon.com/dp/B0GTFH1DNL?tag=zoepicks00-20",
+     "now": "299.99",
+     "was": "390.70",
+     "deal": "Black Friday Deal",
+     "reviews": 43,
+     "_title": "Acer Aspire Go 15 AI Ready Laptop | 15.6\" FHD (1920 x 1080) IPS Display | Intel Core 3 Processor N355 | Intel Graphics | 8...",
+     "_price": 299.99
+    },
+    {
+     "asin": "B07V4R4Z77",
+     "name": "SHRRADOO Extra Large Travel Laptop Backpack",
+     "pct": 19,
+     "rating": 4.7,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
+     "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
+     "now": "24.22",
+     "was": "29.99",
+     "deal": "Black Friday Deal",
+     "reviews": 44167,
+     "_title": "SHRRADOO Extra Large Travel Laptop Backpack for Men, Work College Backpacks | Fit 17 Inch Laptops, with Combination Lock, ...",
+     "_price": 24.22
+    },
+    {
+     "asin": "B0H5X2GC1Y",
+     "name": "Dell 15.6 Laptop, FHD",
+     "pct": 17,
+     "rating": 4.3,
+     "t": 1795199230,
+     "img": "https://m.media-amazon.com/images/I/71Jz4wLU8JL.jpg",
+     "link": "https://www.amazon.com/dp/B0H5X2GC1Y?tag=zoepicks00-20",
+     "now": "399.99",
+     "was": "479.46",
+     "deal": "Black Friday Deal",
+     "reviews": 48,
+     "_title": "Dell 15.6 Laptop, FHD, Intel Core 3 100U, 8GB RAM, Windows 11 Home | 300 nits Anti-Glare WVA, Intel UHD Graphics, DDR5, 51...",
+     "_price": 399.99
+    }
+   ],
+   "scanned": "2026-11-20T18:27:10.125599+00:00",
+   "via": "sweep"
   }
  },
  "essentials": {
@@ -16437,6 +16550,14 @@
    "offer_cards": 213,
    "types_hit": 12,
    "types": 29
+  },
+  "laptops": {
+   "at": "2026-11-20T18:27:10.125599+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 1,
+   "types": 2
   }
  }
 }
