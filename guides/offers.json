@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T09:27:50Z",
+ "updated": "2026-11-20T10:49:21Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -263,17 +263,14 @@
     "tier": "mid"
    },
    {
-    "asin": "B074NBSF9N",
-    "name": "HyperX Cloud Alpha",
-    "pct": 55,
-    "rating": 4.2,
-    "t": 1795112357,
-    "img": "https://m.media-amazon.com/images/I/71++S+DNJ+L.jpg",
-    "link": "https://www.amazon.com/dp/B074NBSF9N?tag=zoepicks00-20",
-    "now": "44.99",
-    "was": "99.99",
-    "deal": "Black Friday Deal",
-    "reviews": 17154,
+    "asin": "B0F6NZWPTC",
+    "name": "HyperX Cloud III S Wireless Gaming Headset",
+    "pct": 45,
+    "rating": 4.3,
+    "t": 1795155103,
+    "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
+    "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -626,12 +623,11 @@
     "name": "REDTIGER F7NP 4K Dash Cam Front Rear",
     "pct": 35,
     "rating": 4.1,
-    "t": 1795113587,
+    "t": 1795168960,
     "img": "https://m.media-amazon.com/images/I/71Eh7FYCybL.jpg",
     "link": "https://www.amazon.com/dp/B098WVKF19?tag=zoepicks00-20",
     "now": "109.99",
     "was": "169.99",
-    "deal": "Black Friday Deal",
     "reviews": 26467,
     "tier": "premium"
    }
@@ -891,12 +887,11 @@
       "name": "Insta360 Link 2 - PTZ 4K Webcam",
       "pct": 25,
       "rating": 4.6,
-      "t": 1795114934,
+      "t": 1795168954,
       "img": "https://m.media-amazon.com/images/I/51R6zRz7EVL.jpg",
       "link": "https://www.amazon.com/dp/B0DDTH3HX8?tag=zoepicks00-20",
       "now": "149.99",
       "was": "199.99",
-      "deal": "Black Friday Deal",
       "reviews": 1597,
       "tier": "premium"
      }
@@ -2126,12 +2121,11 @@
       "name": "UCANBE 86 Colors Makeup Palette",
       "pct": 20,
       "rating": 4.7,
-      "t": 1795139244,
+      "t": 1795169913,
       "img": "https://m.media-amazon.com/images/I/81YGlEBleNL.jpg",
       "link": "https://www.amazon.com/dp/B0G1H1QGFT?tag=zoepicks00-20",
       "now": "15.19",
       "was": "18.99",
-      "deal": "Black Friday Deal",
       "reviews": 6514,
       "tier": "premium"
      }
@@ -2362,54 +2356,6 @@
     ]
    },
    {
-    "key": "bluetooth-speakers",
-    "label": "Bluetooth Speakers",
-    "items": [
-     {
-      "asin": "B07N3WYLKZ",
-      "name": "Vinyl Record Player Turntable",
-      "pct": 50,
-      "rating": 4.3,
-      "t": 1795139892,
-      "img": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
-      "link": "https://www.amazon.com/dp/B07N3WYLKZ?tag=zoepicks00-20",
-      "now": "29.98",
-      "was": "59.99",
-      "deal": "Black Friday Deal",
-      "reviews": 12669,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0B28G5Y4R",
-      "name": "HAPPRUN Native 1080P Bluetooth Projector",
-      "pct": 48,
-      "rating": 4.3,
-      "t": 1795111933,
-      "img": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
-      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
-      "now": "56.99",
-      "was": "109.99",
-      "deal": "Black Friday Deal",
-      "reviews": 14211,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DN2ZCZX6",
-      "name": "JBL Charge 6 - Portable Waterproof & DropProof Bluetooth…",
-      "pct": 30,
-      "rating": 4.6,
-      "t": 1795111933,
-      "img": "https://m.media-amazon.com/images/I/81pM9-KLvqL.jpg",
-      "link": "https://www.amazon.com/dp/B0DN2ZCZX6?tag=zoepicks00-20",
-      "now": "139.95",
-      "was": "199.95",
-      "deal": "Black Friday Deal",
-      "reviews": 6906,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "cameras-beginners",
     "label": "Cameras Beginners",
     "items": [
@@ -2458,6 +2404,100 @@
     ]
    },
    {
+    "key": "record-players",
+    "label": "Record Players",
+    "items": [
+     {
+      "asin": "B07N3WYLKZ",
+      "name": "Vinyl Record Player Turntable",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1795145270,
+      "img": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
+      "link": "https://www.amazon.com/dp/B07N3WYLKZ?tag=zoepicks00-20",
+      "now": "29.98",
+      "was": "59.99",
+      "reviews": 12669,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GL98DMW4",
+      "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795168942,
+      "img": "https://m.media-amazon.com/images/I/71AZiV1vlOL.jpg",
+      "link": "https://www.amazon.com/dp/B0GL98DMW4?tag=zoepicks00-20",
+      "now": "139.99",
+      "was": "199.99",
+      "reviews": 27008,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0G96H73JD",
+      "name": "Sony PS-LX3BT Wireless Bluetooth Turntable",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1795139892,
+      "img": "https://m.media-amazon.com/images/I/61DLdH5-oDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G96H73JD?tag=zoepicks00-20",
+      "now": "238.00",
+      "was": "398.00",
+      "deal": "Black Friday Deal",
+      "reviews": 99,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "bluetooth-speakers",
+    "label": "Bluetooth Speakers",
+    "items": [
+     {
+      "asin": "B01MTB55WH",
+      "name": "Anker soundcore 2 Portable Bluetooth Speaker",
+      "pct": 37,
+      "rating": 4.5,
+      "t": 1795111933,
+      "img": "https://m.media-amazon.com/images/I/61ad7wmJ5lL.jpg",
+      "link": "https://www.amazon.com/dp/B01MTB55WH?tag=zoepicks00-20",
+      "now": "28.48",
+      "was": "44.99",
+      "deal": "Black Friday Deal",
+      "reviews": 159213,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0B28G5Y4R",
+      "name": "HAPPRUN Native 1080P Bluetooth Projector",
+      "pct": 48,
+      "rating": 4.3,
+      "t": 1795111933,
+      "img": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
+      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
+      "now": "56.99",
+      "was": "109.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14211,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D6WD2QSQ",
+      "name": "Bose SoundLink Flex Bluetooth Speaker",
+      "pct": 34,
+      "rating": 4.7,
+      "t": 1795111933,
+      "img": "https://m.media-amazon.com/images/I/7192Qca-fUL.jpg",
+      "link": "https://www.amazon.com/dp/B0D6WD2QSQ?tag=zoepicks00-20",
+      "now": "99.00",
+      "was": "149.00",
+      "deal": "Black Friday Deal",
+      "reviews": 13952,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "mac-studio",
     "label": "Mac Studio",
     "items": [
@@ -2466,7 +2506,7 @@
       "name": "MAC - Studio Fix Powder Plus Foundation",
       "pct": 48,
       "rating": 4.5,
-      "t": 1795139795,
+      "t": 1795169886,
       "img": "https://m.media-amazon.com/images/I/71f-Hon0CsL.jpg",
       "link": "https://www.amazon.com/dp/B0002DO1RS?tag=zoepicks00-20",
       "now": "54.95",
@@ -2498,12 +2538,11 @@
       "name": "Amazon Alexa Tablet 11",
       "pct": 33,
       "rating": 4.0,
-      "t": 1795139982,
+      "t": 1795168948,
       "img": "https://m.media-amazon.com/images/I/61MfxKC1UXL.jpg",
       "link": "https://www.amazon.com/dp/B0DN7GYYV2?tag=zoepicks00-20",
       "now": "219.99",
       "was": "329.99",
-      "deal": "Black Friday Deal",
       "reviews": 124,
       "tier": "mid"
      },
@@ -2524,82 +2563,9 @@
     ]
    },
    {
-    "key": "record-players",
-    "label": "Record Players",
-    "items": [
-     {
-      "asin": "B0DTH4V8Q2",
-      "name": "Retrolife® Vinyl Record Player",
-      "pct": 36,
-      "rating": 4.5,
-      "t": 1795038691,
-      "img": "https://m.media-amazon.com/images/I/61mCOUoif1L.jpg",
-      "link": "https://www.amazon.com/dp/B0DTH4V8Q2?tag=zoepicks00-20",
-      "now": "89.98",
-      "was": "139.99",
-      "reviews": 301,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GL98DMW4",
-      "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795139892,
-      "img": "https://m.media-amazon.com/images/I/71AZiV1vlOL.jpg",
-      "link": "https://www.amazon.com/dp/B0GL98DMW4?tag=zoepicks00-20",
-      "now": "139.99",
-      "was": "199.99",
-      "deal": "Black Friday Deal",
-      "reviews": 27008,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0G96H73JD",
-      "name": "Sony PS-LX3BT Wireless Bluetooth Turntable",
-      "pct": 40,
-      "rating": 4.8,
-      "t": 1795139892,
-      "img": "https://m.media-amazon.com/images/I/61DLdH5-oDL.jpg",
-      "link": "https://www.amazon.com/dp/B0G96H73JD?tag=zoepicks00-20",
-      "now": "238.00",
-      "was": "398.00",
-      "deal": "Black Friday Deal",
-      "reviews": 99,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "printers",
     "label": "Printers",
     "items": [
-     {
-      "asin": "B0DK9CSBQP",
-      "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1795141390,
-      "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
-      "now": "42.72",
-      "was": "56.99",
-      "reviews": 749,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09TDXSBXZ",
-      "name": "Rongta 80mm Thermal POS Receipt Printer Black",
-      "pct": 22,
-      "rating": 4.0,
-      "t": 1795038683,
-      "img": "https://m.media-amazon.com/images/I/611FygCtKPL.jpg",
-      "link": "https://www.amazon.com/dp/B09TDXSBXZ?tag=zoepicks00-20",
-      "now": "70.02",
-      "was": "89.99",
-      "reviews": 161,
-      "tier": "mid"
-     },
      {
       "asin": "B09XHYNHB2",
       "name": "Liene M100 4x6'' Photo Printer",
@@ -2611,8 +2577,19 @@
       "now": "135.99",
       "was": "219.99",
       "deal": "Black Friday Deal",
-      "reviews": 4633,
-      "tier": "premium"
+      "reviews": 4633
+     },
+     {
+      "asin": "B0DK9CSBQP",
+      "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1795141390,
+      "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
+      "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
+      "now": "42.72",
+      "was": "56.99",
+      "reviews": 749
      }
     ]
    },
@@ -3226,17 +3203,17 @@
     "label": "Travel Backpacks",
     "items": [
      {
-      "asin": "B0DQD7TC9D",
-      "name": "MIYCOO Gym Bag with Shoes Compartment",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1795140013,
-      "img": "https://m.media-amazon.com/images/I/81w26mTP0yL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQD7TC9D?tag=zoepicks00-20",
-      "now": "18.56",
-      "was": "24.99",
+      "asin": "B0D2Q61QF4",
+      "name": "ZORFIN 26L Black Backpack",
+      "pct": 20,
+      "rating": 4.6,
+      "t": 1795112017,
+      "img": "https://m.media-amazon.com/images/I/81viDwch+yL.jpg",
+      "link": "https://www.amazon.com/dp/B0D2Q61QF4?tag=zoepicks00-20",
+      "now": "14.39",
+      "was": "17.99",
       "deal": "Black Friday Deal",
-      "reviews": 2192,
+      "reviews": 4609,
       "tier": "budget"
      },
      {
@@ -5341,6 +5318,20 @@
     "label": "4K Monitors",
     "items": [
      {
+      "asin": "B0H85TLJML",
+      "name": "Samsung 32\" ViewFinity S7",
+      "pct": 31,
+      "rating": 4.5,
+      "t": 1795112971,
+      "img": "https://m.media-amazon.com/images/I/71pdw79S1XL.jpg",
+      "link": "https://www.amazon.com/dp/B0H85TLJML?tag=zoepicks00-20",
+      "now": "199.99",
+      "was": "289.99",
+      "deal": "Black Friday Deal",
+      "reviews": 142,
+      "tier": "budget"
+     },
+     {
       "asin": "B0F765XFX8",
       "name": "Acer Nitro 27in 4K 3840x2160 IPS 160Hz DFR 320Hz Gaming…",
       "pct": 40,
@@ -5352,20 +5343,6 @@
       "was": "349.99",
       "deal": "Black Friday Deal",
       "reviews": 82,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DQFF7FBS",
-      "name": "LG 27UP850K-W 27-inch UltraFine 4K UHD IPS DisplayHDR 400…",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1795112971,
-      "img": "https://m.media-amazon.com/images/I/81WBedkWpUL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQFF7FBS?tag=zoepicks00-20",
-      "now": "259.99",
-      "was": "349.99",
-      "deal": "Black Friday Deal",
-      "reviews": 384,
       "tier": "mid"
      },
      {
@@ -6236,12 +6213,11 @@
       "name": "REDTIGER F7NP 4K Dash Cam Front Rear",
       "pct": 35,
       "rating": 4.1,
-      "t": 1795113587,
+      "t": 1795168960,
       "img": "https://m.media-amazon.com/images/I/71Eh7FYCybL.jpg",
       "link": "https://www.amazon.com/dp/B098WVKF19?tag=zoepicks00-20",
       "now": "109.99",
       "was": "169.99",
-      "deal": "Black Friday Deal",
       "reviews": 26467,
       "tier": "mid"
      },
