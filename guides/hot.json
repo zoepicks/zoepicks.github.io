@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T01:28:32Z",
+ "updated": "2026-11-20T03:28:44Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -43,6 +43,20 @@
    "deal": "Black Friday Deal",
    "reviews": 48,
    "tier": "budget"
+  },
+  {
+   "asin": "B0H7111XBY",
+   "name": "Exercise Bike, Stationary Bicycle Indoor Spin Bike",
+   "pct": 70,
+   "rating": 4.7,
+   "t": 1795142259,
+   "img": "https://m.media-amazon.com/images/I/616HbLhAEQL.jpg",
+   "link": "https://www.amazon.com/dp/B0H7111XBY?tag=zoepicks00-20",
+   "now": "119.99",
+   "was": "399.99",
+   "deal": "Black Friday Deal",
+   "reviews": 249,
+   "tier": "mid"
   },
   {
    "asin": "B0HPF6776W",
@@ -97,7 +111,8 @@
    "now": "15.99",
    "was": "45.69",
    "deal": "Black Friday Deal",
-   "reviews": 11188
+   "reviews": 11188,
+   "tier": "budget"
   },
   {
    "asin": "B0BYNYWKC7",
@@ -139,6 +154,20 @@
    "deal": "Black Friday Deal",
    "reviews": 281,
    "tier": "premium"
+  },
+  {
+   "asin": "B0GS9PNXB5",
+   "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
+   "pct": 61,
+   "rating": 4.5,
+   "t": 1795141994,
+   "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
+   "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
+   "now": "25.49",
+   "was": "65.95",
+   "deal": "Black Friday Deal",
+   "reviews": 113,
+   "tier": "budget"
   },
   {
    "asin": "B00JUM4DKC",
@@ -194,20 +223,33 @@
    "was": "349.99",
    "deal": "Black Friday Deal",
    "reviews": 5719,
-   "tier": "premium"
+   "tier": "mid"
   },
   {
    "asin": "B0HDSMB23G",
    "name": "Smart Watches for Women",
    "pct": 53,
    "rating": 5.0,
-   "t": 1795112834,
+   "t": 1795141376,
    "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
    "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
    "now": "46.54",
    "was": "99.99",
-   "deal": "Black Friday Deal",
    "reviews": 68,
+   "tier": "premium"
+  },
+  {
+   "asin": "B000W8WVN4",
+   "name": "Rockport Men's Eureka Walking Shoe",
+   "pct": 61,
+   "rating": 4.3,
+   "t": 1795142030,
+   "img": "https://m.media-amazon.com/images/I/71GxSR0LBlL.jpg",
+   "link": "https://www.amazon.com/dp/B000W8WVN4?tag=zoepicks00-20",
+   "now": "51.31",
+   "was": "129.95",
+   "deal": "Black Friday Deal",
+   "reviews": 30107,
    "tier": "premium"
   },
   {
@@ -221,6 +263,76 @@
    "now": "32.95",
    "was": "75.99",
    "reviews": 0,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0HCNB82DM",
+   "name": "4K UHD GPS Drone with Camera",
+   "pct": 53,
+   "rating": 4.8,
+   "t": 1795139458,
+   "img": "https://m.media-amazon.com/images/I/718zdUA4-xL.jpg",
+   "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
+   "now": "104.48",
+   "was": "219.98",
+   "deal": "Black Friday Deal",
+   "reviews": 147,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0GGDX4WLC",
+   "name": "Blink Outdoor XR+ — Extended Range Wireless Outdoor 4 Camera",
+   "pct": 65,
+   "rating": 3.9,
+   "t": 1795113424,
+   "img": "https://m.media-amazon.com/images/I/41q0bXmkCEL.jpg",
+   "link": "https://www.amazon.com/dp/B0GGDX4WLC?tag=zoepicks00-20",
+   "now": "174.99",
+   "was": "499.99",
+   "deal": "Black Friday Deal",
+   "reviews": 796,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0H1GNCT7Q",
+   "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
+   "pct": 55,
+   "rating": 4.5,
+   "t": 1795139965,
+   "img": "https://m.media-amazon.com/images/I/7189t8qrtiL.jpg",
+   "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
+   "now": "999.00",
+   "was": "2,199.00",
+   "deal": "Black Friday Deal",
+   "reviews": 28,
+   "tier": "premium"
+  },
+  {
+   "asin": "B0FJPS25NB",
+   "name": "LAURA GELLER Makeup Brushes",
+   "pct": 52,
+   "rating": 4.7,
+   "t": 1795139227,
+   "img": "https://m.media-amazon.com/images/I/61M6vmOMOwL.jpg",
+   "link": "https://www.amazon.com/dp/B0FJPS25NB?tag=zoepicks00-20",
+   "now": "23.28",
+   "was": "49.00",
+   "deal": "Black Friday Deal",
+   "reviews": 872,
+   "tier": "premium"
+  },
+  {
+   "asin": "B00MRR0YJQ",
+   "name": "Marc Jacobs Daisy Dream Eau de Toilette",
+   "pct": 52,
+   "rating": 4.7,
+   "t": 1795139305,
+   "img": "https://m.media-amazon.com/images/I/51Wsx-eDV-L.jpg",
+   "link": "https://www.amazon.com/dp/B00MRR0YJQ?tag=zoepicks00-20",
+   "now": "69.35",
+   "was": "146.00",
+   "deal": "Black Friday Deal",
+   "reviews": 3824,
    "tier": "premium"
   },
   {
@@ -262,8 +374,7 @@
    "now": "89.99",
    "was": "199.99",
    "deal": "Black Friday Deal",
-   "reviews": 16227,
-   "tier": "mid"
+   "reviews": 16227
   },
   {
    "asin": "B0G625WMBN",
@@ -279,6 +390,20 @@
    "reviews": 2588
   },
   {
+   "asin": "B07P1SFHK3",
+   "name": "MATEIN Carry on Backpack",
+   "pct": 51,
+   "rating": 4.7,
+   "t": 1795139999,
+   "img": "https://m.media-amazon.com/images/I/7102m7fZj0L.jpg",
+   "link": "https://www.amazon.com/dp/B07P1SFHK3?tag=zoepicks00-20",
+   "now": "21.37",
+   "was": "43.97",
+   "deal": "Black Friday Deal",
+   "reviews": 15046,
+   "tier": "mid"
+  },
+  {
    "asin": "B08FPBY5XD",
    "name": "Intelligent Design Queen Comforter Set",
    "pct": 53,
@@ -290,127 +415,6 @@
    "was": "50.99",
    "reviews": 2615,
    "tier": "budget"
-  },
-  {
-   "asin": "B09JP2TRK4",
-   "name": "EverFoams Women’s Soft Curly Slippers Memory Foam…",
-   "pct": 53,
-   "rating": 4.5,
-   "t": 1795112017,
-   "img": "https://m.media-amazon.com/images/I/71FYfNYs0SL.jpg",
-   "link": "https://www.amazon.com/dp/B09JP2TRK4?tag=zoepicks00-20",
-   "now": "14.99",
-   "was": "31.99",
-   "deal": "Black Friday Deal",
-   "reviews": 27279,
-   "tier": "premium"
-  },
-  {
-   "asin": "B07VWT4XRG",
-   "name": "FITRELL 3 Pairs Compression Socks",
-   "pct": 54,
-   "rating": 4.4,
-   "t": 1795112017,
-   "img": "https://m.media-amazon.com/images/I/71CUmyhYe2L.jpg",
-   "link": "https://www.amazon.com/dp/B07VWT4XRG?tag=zoepicks00-20",
-   "now": "12.34",
-   "was": "26.99",
-   "deal": "Black Friday Deal",
-   "reviews": 40932,
-   "tier": "mid"
-  },
-  {
-   "asin": "B0HG1CHYT5",
-   "name": "4G Kids Smart Watch",
-   "pct": 56,
-   "rating": 4.2,
-   "t": 1795112834,
-   "img": "https://m.media-amazon.com/images/I/71WOf++yc3L.jpg",
-   "link": "https://www.amazon.com/dp/B0HG1CHYT5?tag=zoepicks00-20",
-   "now": "56.98",
-   "was": "129.99",
-   "deal": "Black Friday Deal",
-   "reviews": 1408,
-   "tier": "premium"
-  },
-  {
-   "asin": "B0DYYDN9HR",
-   "name": "Brewin Knife Set, 8PC Kitchen Knife Set",
-   "pct": 49,
-   "rating": 4.7,
-   "t": 1795087993,
-   "img": "https://m.media-amazon.com/images/I/71o6RJD0oGL.jpg",
-   "link": "https://www.amazon.com/dp/B0DYYDN9HR?tag=zoepicks00-20",
-   "now": "19.98",
-   "was": "39.18",
-   "reviews": 0
-  },
-  {
-   "asin": "B00N1YPXW2",
-   "name": "Logitech Creators Blue Yeti USB Microphone",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1795112442,
-   "img": "https://m.media-amazon.com/images/I/61IPJI9ezKL.jpg",
-   "link": "https://www.amazon.com/dp/B00N1YPXW2?tag=zoepicks00-20",
-   "now": "69.99",
-   "was": "139.99",
-   "deal": "Black Friday Deal",
-   "reviews": 57241,
-   "tier": "mid"
-  },
-  {
-   "asin": "B00HFQQ0VU",
-   "name": "Waterpik Aquarius Countertop Water Flosser",
-   "pct": 50,
-   "rating": 4.6,
-   "t": 1795111756,
-   "img": "https://m.media-amazon.com/images/I/71wBPSRpgeL.jpg",
-   "link": "https://www.amazon.com/dp/B00HFQQ0VU?tag=zoepicks00-20",
-   "now": "49.99",
-   "was": "99.99",
-   "deal": "Black Friday Deal",
-   "reviews": 158987
-  },
-  {
-   "asin": "B0CRTYZG5C",
-   "name": "soundcore P30i by Anker Noise Cancelling Earbuds",
-   "pct": 53,
-   "rating": 4.3,
-   "t": 1795111933,
-   "img": "https://m.media-amazon.com/images/I/51HbL1WS+KL.jpg",
-   "link": "https://www.amazon.com/dp/B0CRTYZG5C?tag=zoepicks00-20",
-   "now": "23.74",
-   "was": "49.99",
-   "deal": "Black Friday Deal",
-   "reviews": 47493,
-   "tier": "budget"
-  },
-  {
-   "asin": "B08DXN4RR4",
-   "name": "Snug Leaves Women's Fuzzy Scuff Slippers Memory Foam…",
-   "pct": 49,
-   "rating": 4.6,
-   "t": 1795112017,
-   "img": "https://m.media-amazon.com/images/I/81Z1oWsl4hL.jpg",
-   "link": "https://www.amazon.com/dp/B08DXN4RR4?tag=zoepicks00-20",
-   "now": "12.63",
-   "was": "24.99",
-   "deal": "Black Friday Deal",
-   "reviews": 14582
-  },
-  {
-   "asin": "B0DK485R17",
-   "name": "Coach Women's Legacy Zip Top Crossbody Bag",
-   "pct": 50,
-   "rating": 4.5,
-   "t": 1795112017,
-   "img": "https://m.media-amazon.com/images/I/81fnZWBQdzL.jpg",
-   "link": "https://www.amazon.com/dp/B0DK485R17?tag=zoepicks00-20",
-   "now": "97.50",
-   "was": "195.00",
-   "deal": "Black Friday Deal",
-   "reviews": 273
   }
  ],
  "ess": [
@@ -969,6 +973,20 @@
    "icon": "🪒"
   },
   {
+   "asin": "B07HQM6NH8",
+   "name": "THE GYM PEOPLE Women's Thick High Waist Yoga Pants Workout…",
+   "pct": 20,
+   "rating": 4.4,
+   "t": 1795141269,
+   "img": "https://m.media-amazon.com/images/I/61IqZD8hYDL.jpg",
+   "link": "https://www.amazon.com/dp/B07HQM6NH8?tag=zoepicks00-20",
+   "now": "19.99",
+   "was": "24.99",
+   "cat": "jeans",
+   "label": "Jeans & pants",
+   "icon": "👖"
+  },
+  {
    "asin": "B0DQKDZJKG",
    "name": "ROSTITCH Men's underwear Cotton Boxer Briefs Multipack",
    "pct": 60,
@@ -1331,15 +1349,15 @@
    "icon": "🥤"
   },
   {
-   "asin": "B09H7DP2Z8",
-   "name": "G Gradual Men's Sweatpants",
-   "pct": 33,
-   "rating": 4.5,
-   "t": 1795137505,
-   "img": "https://m.media-amazon.com/images/I/71E9cr3vZAL.jpg",
-   "link": "https://www.amazon.com/dp/B09H7DP2Z8?tag=zoepicks00-20",
-   "now": "19.99",
-   "was": "29.99",
+   "asin": "B0FG27QSLG",
+   "name": "YEOREO Ease Workout Leggings Womens Straight Leggings Eddiy…",
+   "pct": 37,
+   "rating": 4.2,
+   "t": 1795141261,
+   "img": "https://m.media-amazon.com/images/I/51ALuls6oZL.jpg",
+   "link": "https://www.amazon.com/dp/B0FG27QSLG?tag=zoepicks00-20",
+   "now": "22.76",
+   "was": "35.99",
    "cat": "hoodies",
    "label": "Hoodies & jackets",
    "icon": "🧥"
@@ -1403,6 +1421,20 @@
    "cat": "cookware",
    "label": "Kitchen basics",
    "icon": "🍳"
+  },
+  {
+   "asin": "B09H7DP2Z8",
+   "name": "G Gradual Men's Sweatpants",
+   "pct": 33,
+   "rating": 4.5,
+   "t": 1795137505,
+   "img": "https://m.media-amazon.com/images/I/71E9cr3vZAL.jpg",
+   "link": "https://www.amazon.com/dp/B09H7DP2Z8?tag=zoepicks00-20",
+   "now": "19.99",
+   "was": "29.99",
+   "cat": "hoodies",
+   "label": "Hoodies & jackets",
+   "icon": "🧥"
   },
   {
    "asin": "B0D3QTB6BK",
@@ -1815,6 +1847,20 @@
    "icon": "🎁"
   },
   {
+   "asin": "B0DK9CSBQP",
+   "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
+   "pct": 25,
+   "rating": 4.4,
+   "t": 1795141390,
+   "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
+   "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
+   "now": "42.72",
+   "was": "56.99",
+   "theme": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
+  },
+  {
    "asin": "B0CKTVBKXK",
    "name": "ZOA Zero Sugar Energy Drink",
    "pct": 24,
@@ -1948,30 +1994,15 @@
    "icon": "🎁"
   },
   {
-   "asin": "B0C9QH87MQ",
-   "name": "1500W Ceramic Space Heater,Oscillating Heater",
-   "pct": 17,
+   "asin": "B09GFM15Y9",
+   "name": "Gihuo Women’s Winter Cropped Puffer Jacket Coat Short Warm…",
+   "pct": 18,
    "rating": 4.4,
-   "t": 1795031381,
-   "img": "https://m.media-amazon.com/images/I/71Xn2LBPPyL.jpg",
-   "link": "https://www.amazon.com/dp/B0C9QH87MQ?tag=zoepicks00-20",
-   "now": "38.01",
-   "was": "45.99",
-   "theme": "winter",
-   "label": "Winter ready",
-   "icon": "🧣"
-  },
-  {
-   "asin": "B0BGQMDM64",
-   "name": "Palouse Brand Glyphosate Residue Free Red Winter Wheat…",
-   "pct": 15,
-   "rating": 4.8,
-   "t": 1795110911,
-   "img": "https://m.media-amazon.com/images/I/81TYR2LqtfL.jpg",
-   "link": "https://www.amazon.com/dp/B0BGQMDM64?tag=zoepicks00-20",
-   "now": "60.31",
-   "was": "70.95",
-   "deal": "Black Friday Deal",
+   "t": 1795141275,
+   "img": "https://m.media-amazon.com/images/I/61NGMuX75ZL.jpg",
+   "link": "https://www.amazon.com/dp/B09GFM15Y9?tag=zoepicks00-20",
+   "now": "32.79",
+   "was": "39.99",
    "theme": "winter",
    "label": "Winter ready",
    "icon": "🧣"
