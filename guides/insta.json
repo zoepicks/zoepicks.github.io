@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-19T22:32:47Z",
+ "updated": "2026-11-20T00:33:02Z",
  "cats": [
   {
    "key": "fashion",
@@ -90,6 +90,30 @@
     "cat": "home"
    },
    {
+    "asin": "B0788F3R8X",
+    "name": "Keurig K-Elite Single Serve K-Cup Pod Coffee Maker",
+    "pct": 43,
+    "rating": 4.6,
+    "t": 1795132866,
+    "img": "https://m.media-amazon.com/images/I/71zUY9qXunL.jpg",
+    "link": "https://www.amazon.com/dp/B0788F3R8X?tag=zoepicks00-20",
+    "now": "119.99",
+    "was": "209.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0GZJ28GWJ",
+    "name": "nutribullet® Turbo Personal Blender",
+    "pct": 43,
+    "rating": 4.3,
+    "t": 1795130863,
+    "img": "https://m.media-amazon.com/images/I/41RpSy4VQ9L.jpg",
+    "link": "https://www.amazon.com/dp/B0GZJ28GWJ?tag=zoepicks00-20",
+    "now": "56.99",
+    "was": "99.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0FLQ68XSW",
     "name": "Tineco Corded 3-in-1 Wet Dry Vacuum Mop",
     "pct": 44,
@@ -103,6 +127,42 @@
     "cat": "home"
    },
    {
+    "asin": "B0DPNJKMPX",
+    "name": "bella Fits-Anywhere™ 6qt Slim Air Fryer",
+    "pct": 40,
+    "rating": 4.6,
+    "t": 1795132859,
+    "img": "https://m.media-amazon.com/images/I/61TgBmRpXnL.jpg",
+    "link": "https://www.amazon.com/dp/B0DPNJKMPX?tag=zoepicks00-20",
+    "now": "47.99",
+    "was": "79.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0DJM4QW9B",
+    "name": "Ganiza Smoothie Blender",
+    "pct": 37,
+    "rating": 4.4,
+    "t": 1795130868,
+    "img": "https://m.media-amazon.com/images/I/81RRa6fuKBL.jpg",
+    "link": "https://www.amazon.com/dp/B0DJM4QW9B?tag=zoepicks00-20",
+    "now": "28.48",
+    "was": "44.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0DQG2VHKJ",
+    "name": "Titanium Cutting Board",
+    "pct": 32,
+    "rating": 4.4,
+    "t": 1795130882,
+    "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
+    "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
+    "now": "26.59",
+    "was": "38.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0CT4X5R29",
     "name": "Wemore Weighted Blanket",
     "pct": 25,
@@ -113,33 +173,33 @@
     "now": "34.48",
     "was": "45.98",
     "cat": "home"
+   },
+   {
+    "asin": "B07YKYLZ4Y",
+    "name": "Hamilton Beach 6 Quart Slow Cooker With 3 Cooking Settings",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1795129944,
+    "img": "https://m.media-amazon.com/images/I/710VPeEQWhL.jpg",
+    "link": "https://www.amazon.com/dp/B07YKYLZ4Y?tag=zoepicks00-20",
+    "now": "29.95",
+    "was": "39.95",
+    "cat": "home"
+   },
+   {
+    "asin": "B0FYG24Z96",
+    "name": "Electric Mason Jar Vacuum Sealer",
+    "pct": 22,
+    "rating": 4.3,
+    "t": 1795130858,
+    "img": "https://m.media-amazon.com/images/I/71KujDtzBWL.jpg",
+    "link": "https://www.amazon.com/dp/B0FYG24Z96?tag=zoepicks00-20",
+    "now": "18.99",
+    "was": "24.29",
+    "cat": "home"
    }
   ],
   "kids": [
-   {
-    "asin": "B00MOD31XY",
-    "name": "Deer Stags Boys' Wise Slip On Youth Dress Shoes Loafers",
-    "pct": 60,
-    "rating": 4.5,
-    "t": 1794999587,
-    "img": "https://m.media-amazon.com/images/I/61V3gn1yZ2L.jpg",
-    "link": "https://www.amazon.com/dp/B00MOD31XY?tag=zoepicks00-20",
-    "now": "29.99",
-    "was": "75.00",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0FDBJML3F",
-    "name": "PROJECT CLOUD Kids Boots 100% Genuine Leather Fur-Lined…",
-    "pct": 52,
-    "rating": 4.6,
-    "t": 1795001437,
-    "img": "https://m.media-amazon.com/images/I/81g5f9DTc1L.jpg",
-    "link": "https://www.amazon.com/dp/B0FDBJML3F?tag=zoepicks00-20",
-    "now": "42.90",
-    "was": "89.99",
-    "cat": "kids"
-   },
    {
     "asin": "B08XTG3QSF",
     "name": "Melissa & Doug PAW Patrol Pup Pack Backpack",
@@ -150,66 +210,6 @@
     "link": "https://www.amazon.com/dp/B08XTG3QSF?tag=zoepicks00-20",
     "now": "23.49",
     "was": "46.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B08LKDZY9K",
-    "name": "Galaxy-Print School-Bag Backpack",
-    "pct": 32,
-    "rating": 4.7,
-    "t": 1795001853,
-    "img": "https://m.media-amazon.com/images/I/71rsc3LKlJL.jpg",
-    "link": "https://www.amazon.com/dp/B08LKDZY9K?tag=zoepicks00-20",
-    "now": "22.99",
-    "was": "33.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0F2G7L3CG",
-    "name": "adidas Boys Grand Court 3.0 Sneakers Shoes",
-    "pct": 29,
-    "rating": 4.6,
-    "t": 1794999560,
-    "img": "https://m.media-amazon.com/images/I/61s27Zw46uL.jpg",
-    "link": "https://www.amazon.com/dp/B0F2G7L3CG?tag=zoepicks00-20",
-    "now": "38.99",
-    "was": "55.00",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0F2G735TF",
-    "name": "adidas Kids Girls Streettalk Sneakers Shoes",
-    "pct": 25,
-    "rating": 4.7,
-    "t": 1795001840,
-    "img": "https://m.media-amazon.com/images/I/61RTN7AYnpL.jpg",
-    "link": "https://www.amazon.com/dp/B0F2G735TF?tag=zoepicks00-20",
-    "now": "33.70",
-    "was": "45.00",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0FWT7ZRXY",
-    "name": "adidas Boys Runfalcon 6 Sneakers Shoes",
-    "pct": 25,
-    "rating": 4.7,
-    "t": 1794999581,
-    "img": "https://m.media-amazon.com/images/I/61rEjYRZ2KL.jpg",
-    "link": "https://www.amazon.com/dp/B0FWT7ZRXY?tag=zoepicks00-20",
-    "now": "41.25",
-    "was": "55.00",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0792FK7TW",
-    "name": "PUMA Kids' Meridian Backpack",
-    "pct": 24,
-    "rating": 4.7,
-    "t": 1795001864,
-    "img": "https://m.media-amazon.com/images/I/71r89B5NhRL.jpg",
-    "link": "https://www.amazon.com/dp/B0792FK7TW?tag=zoepicks00-20",
-    "now": "16.03",
-    "was": "21.23",
     "cat": "kids"
    },
    {
