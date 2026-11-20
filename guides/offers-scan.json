@@ -4283,48 +4283,63 @@
   },
   "pets:cat-litter": {
    "label": "Cat Litter",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
-     "asin": "B07NJ5SR5G",
-     "name": "Pieviev Cat Litter Mat",
-     "pct": 19,
-     "rating": 4.4,
-     "t": 1795113350,
-     "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
-     "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
-     "now": "11.30",
-     "was": "13.99",
+     "asin": "B005F6EIBG",
+     "name": "Boxie Premium Unscented Clumping Cat Litter 30+ Day Odor…",
+     "pct": 28,
+     "rating": 4.2,
+     "t": 1795195123,
+     "img": "https://m.media-amazon.com/images/I/613pXXR0QpL.jpg",
+     "link": "https://www.amazon.com/dp/B005F6EIBG?tag=zoepicks00-20",
+     "now": "15.18",
+     "was": "20.99",
      "deal": "Black Friday Deal",
-     "reviews": 74343,
-     "_title": "Pieviev Cat Litter Mat, Double-Layer Waterproof Litter Trap, 24\" x 15\" Gray | Honeycomb Design Catches Scattered Particles...",
-     "_price": 11.3
+     "reviews": 10047,
+     "_title": "Boxie Premium Unscented Clumping Cat Litter 30+ Day Odor Control 16 lb | Hard Flat Top clumps stay on top for faster scoop...",
+     "_price": 15.18
+    },
+    {
+     "asin": "B0GHPKXGWJ",
+     "name": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day…",
+     "pct": 24,
+     "rating": 4.1,
+     "t": 1795195123,
+     "img": "https://m.media-amazon.com/images/I/71pYVTaQGNL.jpg",
+     "link": "https://www.amazon.com/dp/B0GHPKXGWJ?tag=zoepicks00-20",
+     "now": "19.74",
+     "was": "25.99",
+     "deal": "Black Friday Deal",
+     "reviews": 12188,
+     "_title": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day Odor Control 16 lb | Fast clumps resist sticking, smearing, and br...",
+     "_price": 19.74
     }
    ],
-   "scanned": "2026-11-19T18:35:50.181464+00:00",
+   "scanned": "2026-11-20T17:18:43.721412+00:00",
    "via": "sweep"
   },
   "pets:pet-cameras": {
    "label": "Pet Cameras",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
      "asin": "B0829KDY9X",
      "name": "Tapo 1080p Pan/Tilt Security Camera",
      "pct": 26,
      "rating": 4.5,
-     "t": 1795113350,
+     "t": 1795195123,
      "img": "https://m.media-amazon.com/images/I/41tRa2xorHL.jpg",
      "link": "https://www.amazon.com/dp/B0829KDY9X?tag=zoepicks00-20",
      "now": "19.99",
      "was": "26.99",
      "deal": "Black Friday Deal",
-     "reviews": 42951,
+     "reviews": 42963,
      "_title": "Tapo 1080p Pan/Tilt Security Camera for Baby Monitor, Pet Camera, C200 | Motion Detection, 2-Way Audio, Night Vision, Clou...",
      "_price": 19.99
     }
    ],
-   "scanned": "2026-11-19T18:35:50.181464+00:00",
+   "scanned": "2026-11-20T17:18:43.721412+00:00",
    "via": "sweep"
   },
   "smart_home:4k-tvs": {
@@ -27087,7 +27102,7 @@
    "types": 3
   },
   "pets": {
-   "at": "2026-11-19T18:35:50.181464+00:00",
+   "at": "2026-11-20T17:18:43.721412+00:00",
    "pages": 5,
    "cards": 120,
    "offer_cards": 120,
