@@ -4254,6 +4254,29 @@
    ],
    "scanned": "2026-11-20T18:30:58.599102+00:00",
    "via": "sweep"
+  },
+  "pets:cat-litter": {
+   "label": "Cat Litter",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0GHPKXGWJ",
+     "name": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day…",
+     "pct": 24,
+     "rating": 4.1,
+     "t": 1795199831,
+     "img": "https://m.media-amazon.com/images/I/71pYVTaQGNL.jpg",
+     "link": "https://www.amazon.com/dp/B0GHPKXGWJ?tag=zoepicks00-20",
+     "now": "19.74",
+     "was": "25.99",
+     "deal": "Black Friday Deal",
+     "reviews": 12187,
+     "_title": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day Odor Control 16 lb | Fast clumps resist sticking, smearing, and br...",
+     "_price": 19.74
+    }
+   ],
+   "scanned": "2026-11-20T18:37:11.911505+00:00",
+   "via": "sweep"
   }
  },
  "essentials": {
@@ -17886,6 +17909,14 @@
    "offer_cards": 184,
    "types_hit": 0,
    "types": 3
+  },
+  "pets": {
+   "at": "2026-11-20T18:37:11.911505+00:00",
+   "pages": 3,
+   "cards": 72,
+   "offer_cards": 72,
+   "types_hit": 1,
+   "types": 9
   }
  }
 }
