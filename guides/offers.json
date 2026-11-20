@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T12:01:33Z",
+ "updated": "2026-11-20T14:01:48Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -680,14 +680,16 @@
     "label": "Wireless Mouse",
     "items": [
      {
-      "asin": "B0C4H2YNPC",
-      "name": "Wireless Keyboard and Mouse Combo",
-      "pct": 50,
+      "asin": "B0GS5ZHY87",
+      "name": "Acer Wireless Mouse",
+      "pct": 20,
       "rating": 4.3,
-      "t": 1795155080,
-      "img": "https://m.media-amazon.com/images/I/6198WeaaUIL.jpg",
-      "link": "https://www.amazon.com/dp/B0C4H2YNPC?tag=zoepicks00-20",
-      "reviews": 0,
+      "t": 1795181313,
+      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
+      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
+      "now": "11.99",
+      "was": "14.99",
+      "reviews": 1040,
       "tier": "budget"
      },
      {
@@ -1032,20 +1034,6 @@
     "label": "Keyboards Typing",
     "items": [
      {
-      "asin": "B0DSBTGC8D",
-      "name": "Wired Keyboard with White Backlit",
-      "pct": 20,
-      "rating": 4.4,
-      "t": 1795114146,
-      "img": "https://m.media-amazon.com/images/I/61WQCHvgC5L.jpg",
-      "link": "https://www.amazon.com/dp/B0DSBTGC8D?tag=zoepicks00-20",
-      "now": "22.39",
-      "was": "27.99",
-      "deal": "Black Friday Deal",
-      "reviews": 610,
-      "tier": "budget"
-     },
-     {
       "asin": "B0H8D6VSFQ",
       "name": "Frixalox Wired Ergonomic Split Keyboard",
       "pct": 24,
@@ -1056,8 +1044,7 @@
       "now": "37.98",
       "was": "49.99",
       "deal": "Black Friday Deal",
-      "reviews": 56,
-      "tier": "mid"
+      "reviews": 56
      },
      {
       "asin": "B0BTNY72VD",
@@ -1069,39 +1056,7 @@
       "link": "https://www.amazon.com/dp/B0BTNY72VD?tag=zoepicks00-20",
       "now": "54.99",
       "was": "69.99",
-      "reviews": 1881,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "computer-mouse",
-    "label": "Computer Mouse",
-    "items": [
-     {
-      "asin": "B0GS5ZHY87",
-      "name": "Acer Wireless Mouse",
-      "pct": 20,
-      "rating": 4.3,
-      "t": 1795113933,
-      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
-      "now": "11.99",
-      "was": "14.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1040
-     },
-     {
-      "asin": "B005EJH6Z4",
-      "name": "Amazon Basics 2.4 GHz Wireless Optical Computer Mouse",
-      "pct": 19,
-      "rating": 4.5,
-      "t": 1795113933,
-      "img": "https://m.media-amazon.com/images/I/61YQeAUIboL.jpg",
-      "link": "https://www.amazon.com/dp/B005EJH6Z4?tag=zoepicks00-20",
-      "now": "10.99",
-      "was": "13.50",
-      "reviews": 70312
+      "reviews": 1881
      }
     ]
    },
@@ -1114,28 +1069,12 @@
       "name": "SOYO GeForce GT 740 4GB DDR3 Low Profile Graphics Card",
       "pct": 20,
       "rating": 4.4,
-      "t": 1795114042,
+      "t": 1795180318,
       "img": "https://m.media-amazon.com/images/I/71heUFOXwTL.jpg",
       "link": "https://www.amazon.com/dp/B0FCFB6Q6P?tag=zoepicks00-20",
       "now": "55.99",
       "was": "69.99",
-      "deal": "Black Friday Deal",
-      "reviews": 147,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08VHWFWSD",
-      "name": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming…",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1795114042,
-      "img": "https://m.media-amazon.com/images/I/61XVfz1tHpL.jpg",
-      "link": "https://www.amazon.com/dp/B08VHWFWSD?tag=zoepicks00-20",
-      "now": "96.04",
-      "was": "112.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1771,
-      "tier": "mid"
+      "reviews": 147
      },
      {
       "asin": "B0F4RZDFD5",
@@ -1147,8 +1086,25 @@
       "link": "https://www.amazon.com/dp/B0F4RZDFD5?tag=zoepicks00-20",
       "now": "829.99",
       "was": "869.99",
-      "reviews": 194,
-      "tier": "premium"
+      "reviews": 194
+     }
+    ]
+   },
+   {
+    "key": "computer-mouse",
+    "label": "Computer Mouse",
+    "items": [
+     {
+      "asin": "B005EJH6Z4",
+      "name": "Amazon Basics 2.4 GHz Wireless Optical Computer Mouse",
+      "pct": 19,
+      "rating": 4.5,
+      "t": 1795180327,
+      "img": "https://m.media-amazon.com/images/I/61YQeAUIboL.jpg",
+      "link": "https://www.amazon.com/dp/B005EJH6Z4?tag=zoepicks00-20",
+      "now": "10.99",
+      "was": "13.50",
+      "reviews": 70312
      }
     ]
    },
@@ -1156,20 +1112,6 @@
     "key": "5g-router",
     "label": "5g Router",
     "items": [
-     {
-      "asin": "B0DW27FNG3",
-      "name": "NETGEAR Nighthawk WiFi 7 Router RS90",
-      "pct": 15,
-      "rating": 4.2,
-      "t": 1795113912,
-      "img": "https://m.media-amazon.com/images/I/41VlTprOFdL.jpg",
-      "link": "https://www.amazon.com/dp/B0DW27FNG3?tag=zoepicks00-20",
-      "now": "84.79",
-      "was": "99.88",
-      "deal": "Black Friday Deal",
-      "reviews": 1663,
-      "tier": "budget"
-     },
      {
       "asin": "B0CP7S3117",
       "name": "GL.iNet GL-MT6000 Flint 2 Wi-Fi 6 Gaming Router Dual 2.5G…",
@@ -1181,7 +1123,7 @@
       "now": "144.49",
       "was": "169.99",
       "reviews": 3180,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B0C5RCQ8N5",
@@ -1194,6 +1136,20 @@
       "now": "322.99",
       "was": "379.99",
       "reviews": 939,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C6XVCM6L",
+      "name": "GL.iNet GL-XE3000 Puli AX 5G Router",
+      "pct": 15,
+      "rating": 4.2,
+      "t": 1795113912,
+      "img": "https://m.media-amazon.com/images/I/51obAKkKprL.jpg",
+      "link": "https://www.amazon.com/dp/B0C6XVCM6L?tag=zoepicks00-20",
+      "now": "348.48",
+      "was": "409.99",
+      "deal": "Black Friday Deal",
+      "reviews": 222,
       "tier": "premium"
      }
     ]
@@ -4380,26 +4336,6 @@
     ]
    },
    {
-    "key": "gaming-gpu",
-    "label": "Gaming Gpu",
-    "items": [
-     {
-      "asin": "B08VHWFWSD",
-      "name": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming…",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1795114042,
-      "img": "https://m.media-amazon.com/images/I/61XVfz1tHpL.jpg",
-      "link": "https://www.amazon.com/dp/B08VHWFWSD?tag=zoepicks00-20",
-      "now": "96.04",
-      "was": "112.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1771,
-      "tier": "mid"
-     }
-    ]
-   },
-   {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
     "items": []
@@ -4462,6 +4398,11 @@
    {
     "key": "gaming-desks",
     "label": "Gaming Desks",
+    "items": []
+   },
+   {
+    "key": "gaming-gpu",
+    "label": "Gaming Gpu",
     "items": []
    }
   ],
