@@ -1,20 +1,9 @@
 {
  "v": 3,
- "updated": "2026-11-20T18:07:30Z",
+ "updated": "2026-11-20T20:07:38Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
-   {
-    "asin": "B0C4H2YNPC",
-    "name": "Wireless Keyboard and Mouse Combo",
-    "pct": 50,
-    "rating": 4.3,
-    "t": 1795155080,
-    "img": "https://m.media-amazon.com/images/I/6198WeaaUIL.jpg",
-    "link": "https://www.amazon.com/dp/B0C4H2YNPC?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "budget"
-   },
    {
     "asin": "B08SYJ32T3",
     "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
@@ -24,17 +13,31 @@
     "img": "https://m.media-amazon.com/images/I/51nZTcH5HVL.jpg",
     "link": "https://www.amazon.com/dp/B08SYJ32T3?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0FNRJNHW8",
+    "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
+    "pct": 50,
+    "rating": 4.7,
+    "t": 1795155080,
+    "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
+    "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "mid"
    },
    {
-    "asin": "B07XZLN9KM",
-    "name": "PNY CS900 500GB 2.5\" SATA III Internal SSD",
-    "pct": 38,
-    "rating": 4.6,
-    "t": 1795155112,
-    "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
-    "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0DX2DPJZ5",
+    "name": "Samsung SSD 9100 PRO 2TB",
+    "pct": 49,
+    "rating": 4.7,
+    "t": 1795200572,
+    "img": "https://m.media-amazon.com/images/I/71qygJIcKnL.jpg",
+    "link": "https://www.amazon.com/dp/B0DX2DPJZ5?tag=zoepicks00-20",
+    "now": "349.99",
+    "was": "679.97",
+    "deal": "Black Friday Deal",
+    "reviews": 2088,
     "tier": "premium"
    }
   ],
@@ -51,14 +54,17 @@
     "tier": "budget"
    },
    {
-    "asin": "B0DKJ347ZJ",
-    "name": "d'alba Piedmont White Truffle Waterfull Essence Sunscreen",
-    "pct": 54,
+    "asin": "B08TPCHYLW",
+    "name": "Lancôme Lash Idôle Mascara",
+    "pct": 73,
     "rating": 4.4,
-    "t": 1795155087,
-    "img": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
-    "link": "https://www.amazon.com/dp/B0DKJ347ZJ?tag=zoepicks00-20",
-    "reviews": 0,
+    "t": 1795198268,
+    "img": "https://m.media-amazon.com/images/I/51Nj0hcoopL.jpg",
+    "link": "https://www.amazon.com/dp/B08TPCHYLW?tag=zoepicks00-20",
+    "now": "14.00",
+    "was": "51.85",
+    "deal": "Black Friday Deal",
+    "reviews": 11280,
     "tier": "mid"
    },
    {
@@ -86,6 +92,20 @@
     "tier": "budget"
    },
    {
+    "asin": "B08FCGH2RL",
+    "name": "Skullcandy Crusher Evo Wireless Multi-Sensory Bass…",
+    "pct": 57,
+    "rating": 4.7,
+    "t": 1795198440,
+    "img": "https://m.media-amazon.com/images/I/61TuQdBSgsL.jpg",
+    "link": "https://www.amazon.com/dp/B08FCGH2RL?tag=zoepicks00-20",
+    "now": "89.99",
+    "was": "209.99",
+    "deal": "Black Friday Deal",
+    "reviews": 19962,
+    "tier": "mid"
+   },
+   {
     "asin": "B0HMQNMD26",
     "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
     "pct": 58,
@@ -93,17 +113,6 @@
     "t": 1795155095,
     "img": "https://m.media-amazon.com/images/I/71KLbAa5atL.jpg",
     "link": "https://www.amazon.com/dp/B0HMQNMD26?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0HCNB82DM",
-    "name": "4K UHD GPS Drone with Camera",
-    "pct": 53,
-    "rating": 4.8,
-    "t": 1795155005,
-    "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
-    "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -197,54 +206,48 @@
     "tier": "budget"
    },
    {
-    "asin": "B0F93XX5J1",
-    "name": "Vintage Floor Lamp",
-    "pct": 50,
-    "rating": 4.6,
-    "t": 1795155071,
-    "img": "https://m.media-amazon.com/images/I/81nLFvtf8bL.jpg",
-    "link": "https://www.amazon.com/dp/B0F93XX5J1?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0GZ2BCN74",
+    "name": "Full Size Mattress",
+    "pct": 30,
+    "rating": 4.4,
+    "t": 1795198693,
+    "img": "https://m.media-amazon.com/images/I/81o5yQ+AlmL.jpg",
+    "link": "https://www.amazon.com/dp/B0GZ2BCN74?tag=zoepicks00-20",
+    "now": "209.99",
+    "was": "299.99",
+    "deal": "Black Friday Deal",
+    "reviews": 74,
     "tier": "mid"
    },
    {
-    "asin": "B09RMD7R15",
-    "name": "VIVO Electric Standing Desk",
-    "pct": 25,
-    "rating": 4.5,
-    "t": 1795154270,
-    "img": "https://m.media-amazon.com/images/I/610UM+fiMzL.jpg",
-    "link": "https://www.amazon.com/dp/B09RMD7R15?tag=zoepicks00-20",
-    "now": "224.99",
-    "was": "299.99",
-    "reviews": 6356,
+    "asin": "B0HQ66R9PL",
+    "name": "VILASOAR 14 Inch Full Mattress",
+    "pct": 31,
+    "rating": 4.6,
+    "t": 1795198693,
+    "img": "https://m.media-amazon.com/images/I/81khI4bCOoL.jpg",
+    "link": "https://www.amazon.com/dp/B0HQ66R9PL?tag=zoepicks00-20",
+    "now": "246.99",
+    "was": "359.99",
+    "deal": "Black Friday Deal",
+    "reviews": 62,
     "tier": "premium"
    }
   ],
   "gaming": [
    {
-    "asin": "B0DQF6GRT8",
-    "name": "Split Fiction Playstation 5",
-    "pct": 40,
+    "asin": "B0CTVK7GBM",
+    "name": "Stellar Blade - PlayStation 5",
+    "pct": 57,
     "rating": 4.8,
-    "t": 1795135661,
-    "img": "https://m.media-amazon.com/images/I/81kaLB9OCBL.jpg",
-    "link": "https://www.amazon.com/dp/B0DQF6GRT8?tag=zoepicks00-20",
-    "now": "34.99",
-    "was": "49.99",
-    "reviews": 847,
+    "t": 1795198843,
+    "img": "https://m.media-amazon.com/images/I/81nygCl+G3L.jpg",
+    "link": "https://www.amazon.com/dp/B0CTVK7GBM?tag=zoepicks00-20",
+    "now": "29.97",
+    "was": "69.99",
+    "deal": "Black Friday Deal",
+    "reviews": 1596,
     "tier": "budget"
-   },
-   {
-    "asin": "B0HNRSRX9V",
-    "name": "AOC Wireless Gaming Headset",
-    "pct": 53,
-    "rating": 4.6,
-    "t": 1795155005,
-    "img": "https://m.media-amazon.com/images/I/71jCe3Tp9LL.jpg",
-    "link": "https://www.amazon.com/dp/B0HNRSRX9V?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
    },
    {
     "asin": "B0GV7DTQ6G",
@@ -254,6 +257,17 @@
     "t": 1795155101,
     "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
     "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0F6NZWPTC",
+    "name": "HyperX Cloud III S Wireless Gaming Headset",
+    "pct": 45,
+    "rating": 4.3,
+    "t": 1795155103,
+    "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
+    "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -319,14 +333,17 @@
     "tier": "mid"
    },
    {
-    "asin": "B07N41G198",
-    "name": "Madison Park Marina Comforter Quilt Combo Set",
+    "asin": "B08DL8WH9V",
+    "name": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie",
     "pct": 50,
-    "rating": 4.5,
-    "t": 1795154571,
-    "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
-    "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
-    "reviews": 0,
+    "rating": 4.3,
+    "t": 1795199075,
+    "img": "https://m.media-amazon.com/images/I/711yiK2g06L.jpg",
+    "link": "https://www.amazon.com/dp/B08DL8WH9V?tag=zoepicks00-20",
+    "now": "69.99",
+    "was": "139.99",
+    "deal": "Black Friday Deal",
+    "reviews": 52374,
     "tier": "premium"
    }
   ],
@@ -354,45 +371,65 @@
     "tier": "mid"
    },
    {
-    "asin": "B0GS4WJB24",
-    "name": "Blackview Laptop Screen Extender",
-    "pct": 33,
-    "rating": 4.1,
-    "t": 1795072432,
-    "img": "https://m.media-amazon.com/images/I/81YDYFBVZxL.jpg",
-    "link": "https://www.amazon.com/dp/B0GS4WJB24?tag=zoepicks00-20",
-    "now": "224.99",
-    "was": "336.99",
-    "reviews": 80,
+    "asin": "B0F99864F1",
+    "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
+    "pct": 28,
+    "rating": 4.8,
+    "t": 1795199458,
+    "img": "https://m.media-amazon.com/images/I/819hErzOz0L.jpg",
+    "link": "https://www.amazon.com/dp/B0F99864F1?tag=zoepicks00-20",
+    "now": "207.99",
+    "was": "289.99",
+    "deal": "Black Friday Deal",
+    "reviews": 1368,
     "tier": "premium"
    }
   ],
   "mobiles": [
    {
-    "asin": "B0HPNWLF3R",
-    "name": "Fitness Tracker, Smart Watches",
-    "pct": 62,
-    "rating": 4.9,
-    "t": 1795155063,
-    "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
-    "link": "https://www.amazon.com/dp/B0HPNWLF3R?tag=zoepicks00-20",
-    "reviews": 0
+    "asin": "B0HQNYDXW8",
+    "name": "Smart Watch for Men Women",
+    "pct": 73,
+    "rating": 4.8,
+    "t": 1795199298,
+    "img": "https://m.media-amazon.com/images/I/611cRe5IIWL.jpg",
+    "link": "https://www.amazon.com/dp/B0HQNYDXW8?tag=zoepicks00-20",
+    "now": "23.99",
+    "was": "89.99",
+    "deal": "Black Friday Deal",
+    "reviews": 38,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0HNJF823S",
+    "name": "Smart Watch for Women,Health Monitor Fitness Watch",
+    "pct": 79,
+    "rating": 4.7,
+    "t": 1795199298,
+    "img": "https://m.media-amazon.com/images/I/81-Jw6chcFL.jpg",
+    "link": "https://www.amazon.com/dp/B0HNJF823S?tag=zoepicks00-20",
+    "now": "34.19",
+    "was": "159.99",
+    "deal": "Black Friday Deal",
+    "reviews": 31,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0HK3V2GCT",
+    "name": "Tensky Smart Watch",
+    "pct": 57,
+    "rating": 4.8,
+    "t": 1795199298,
+    "img": "https://m.media-amazon.com/images/I/617gZ5DhKeL.jpg",
+    "link": "https://www.amazon.com/dp/B0HK3V2GCT?tag=zoepicks00-20",
+    "now": "42.55",
+    "was": "99.99",
+    "deal": "Black Friday Deal",
+    "reviews": 26,
+    "tier": "premium"
    }
   ],
   "monitors": [
-   {
-    "asin": "B0H5FWBBXG",
-    "name": "New! Sceptre Curved 24-inch Prime Gaming Monitor 1080p…",
-    "pct": 28,
-    "rating": 4.4,
-    "t": 1795126145,
-    "img": "https://m.media-amazon.com/images/I/71GjEAvY4nL.jpg",
-    "link": "https://www.amazon.com/dp/B0H5FWBBXG?tag=zoepicks00-20",
-    "now": "77.97",
-    "was": "107.97",
-    "reviews": 292,
-    "tier": "budget"
-   },
    {
     "asin": "B0FF7L83XD",
     "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
@@ -402,18 +439,33 @@
     "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
     "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0FLLKBNY7",
+    "name": "LG 27G640A-B 27-inch Ultragear QHD",
+    "pct": 49,
+    "rating": 4.4,
+    "t": 1795199458,
+    "img": "https://m.media-amazon.com/images/I/81ryaV511VL.jpg",
+    "link": "https://www.amazon.com/dp/B0FLLKBNY7?tag=zoepicks00-20",
+    "now": "229.99",
+    "was": "449.99",
+    "deal": "Black Friday Deal",
+    "reviews": 305,
     "tier": "mid"
    },
    {
     "asin": "B0CZSGWLD5",
     "name": "Alienware AW2725DF OLED Gaming Monitor",
-    "pct": 28,
+    "pct": 42,
     "rating": 4.4,
-    "t": 1795126127,
+    "t": 1795199458,
     "img": "https://m.media-amazon.com/images/I/71Ffs81KPQL.jpg",
     "link": "https://www.amazon.com/dp/B0CZSGWLD5?tag=zoepicks00-20",
-    "now": "469.99",
+    "now": "379.00",
     "was": "649.99",
+    "deal": "Black Friday Deal",
     "reviews": 447,
     "tier": "premium"
    }
@@ -454,41 +506,34 @@
     "tier": "mid"
    },
    {
-    "asin": "B0CW9WBF76",
-    "name": "UKEIN Luggage Sets 3Piece",
-    "pct": 15,
-    "rating": 4.6,
-    "t": 1795119482,
-    "img": "https://m.media-amazon.com/images/I/816KmZeZ4QL.jpg",
-    "link": "https://www.amazon.com/dp/B0CW9WBF76?tag=zoepicks00-20",
-    "now": "67.99",
-    "was": "79.99",
-    "reviews": 2938,
+    "asin": "B0D3LDFKRP",
+    "name": "Cosbarn Luggage Sets",
+    "pct": 39,
+    "rating": 4.5,
+    "t": 1795198510,
+    "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+    "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+    "now": "104.49",
+    "was": "169.99",
+    "deal": "Black Friday Deal",
+    "reviews": 2042,
     "tier": "premium"
    }
   ],
   "pets": [
    {
-    "asin": "B07NJ5SR5G",
-    "name": "Pieviev Cat Litter Mat",
-    "pct": 19,
+    "asin": "B0F3BB8D37",
+    "name": "Blink Mini 2K+ (newest model)",
+    "pct": 60,
     "rating": 4.4,
-    "t": 1795154995,
-    "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
-    "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
-    "reviews": 0,
+    "t": 1795199949,
+    "img": "https://m.media-amazon.com/images/I/51zmndEGfFL.jpg",
+    "link": "https://www.amazon.com/dp/B0F3BB8D37?tag=zoepicks00-20",
+    "now": "15.99",
+    "was": "39.99",
+    "deal": "Black Friday Deal",
+    "reviews": 10289,
     "tier": "budget"
-   },
-   {
-    "asin": "B07GYZPM94",
-    "name": "GORILLA GRIP Cat Litter Mat",
-    "pct": 39,
-    "rating": 4.5,
-    "t": 1795154994,
-    "img": "https://m.media-amazon.com/images/I/81peja4FzvL.jpg",
-    "link": "https://www.amazon.com/dp/B07GYZPM94?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
    },
    {
     "asin": "B07NSB92RY",
@@ -499,23 +544,24 @@
     "img": "https://m.media-amazon.com/images/I/81YcN9D0kmL.jpg",
     "link": "https://www.amazon.com/dp/B07NSB92RY?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B08JCS7QKL",
+    "name": "LaView Security Cameras 4pcs",
+    "pct": 53,
+    "rating": 4.2,
+    "t": 1795199949,
+    "img": "https://m.media-amazon.com/images/I/61x2SlR1E8L.jpg",
+    "link": "https://www.amazon.com/dp/B08JCS7QKL?tag=zoepicks00-20",
+    "now": "47.49",
+    "was": "99.99",
+    "deal": "Black Friday Deal",
+    "reviews": 12570,
     "tier": "premium"
    }
   ],
   "smart_home": [
-   {
-    "asin": "B089655HQV",
-    "name": "TiVo Stream 4K – Every Streaming App and Live TV on One…",
-    "pct": 50,
-    "rating": 4.2,
-    "t": 1795119470,
-    "img": "https://m.media-amazon.com/images/I/61CI2BW3JLL.jpg",
-    "link": "https://www.amazon.com/dp/B089655HQV?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "39.99",
-    "reviews": 10058,
-    "tier": "budget"
-   },
    {
     "asin": "B0B1N7LJD3",
     "name": "Blink Outdoor 4 – Wireless smart security camera",
@@ -525,6 +571,20 @@
     "img": "https://m.media-amazon.com/images/I/41HqQuiOi2L.jpg",
     "link": "https://www.amazon.com/dp/B0B1N7LJD3?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0F95XH6ZM",
+    "name": "Blink Outdoor 2K+ (newest model)",
+    "pct": 66,
+    "rating": 4.1,
+    "t": 1795199949,
+    "img": "https://m.media-amazon.com/images/I/51gv8NP2mnL.jpg",
+    "link": "https://www.amazon.com/dp/B0F95XH6ZM?tag=zoepicks00-20",
+    "now": "30.99",
+    "was": "89.99",
+    "deal": "Black Friday Deal",
+    "reviews": 5731,
     "tier": "mid"
    },
    {
@@ -576,14 +636,17 @@
   ],
   "toys_kids": [
    {
-    "asin": "B076KQHGC9",
-    "name": "KeaBabies Baby Wrap Carrier",
-    "pct": 19,
-    "rating": 4.5,
-    "t": 1795155123,
-    "img": "https://m.media-amazon.com/images/I/71qhrarX+-L.jpg",
-    "link": "https://www.amazon.com/dp/B076KQHGC9?tag=zoepicks00-20",
-    "reviews": 0,
+    "asin": "B0866S3D82",
+    "name": "Tapo 1080P Indoor Security Camera",
+    "pct": 32,
+    "rating": 4.4,
+    "t": 1795200248,
+    "img": "https://m.media-amazon.com/images/I/719LWqwDgVL.jpg",
+    "link": "https://www.amazon.com/dp/B0866S3D82?tag=zoepicks00-20",
+    "now": "16.99",
+    "was": "24.99",
+    "deal": "Black Friday Deal",
+    "reviews": 29562,
     "tier": "budget"
    },
    {
@@ -658,6 +721,20 @@
     "label": "Mechanical Keyboards",
     "items": [
      {
+      "asin": "B0H4FCHN3C",
+      "name": "ProtoArc K310 Pro Backlit Bluetooth Mechanical Keyboard",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795200743,
+      "img": "https://m.media-amazon.com/images/I/817a8MnWsrL.jpg",
+      "link": "https://www.amazon.com/dp/B0H4FCHN3C?tag=zoepicks00-20",
+      "now": "42.73",
+      "was": "74.99",
+      "deal": "Black Friday Deal",
+      "reviews": 86,
+      "tier": "budget"
+     },
+     {
       "asin": "B0FNRJNHW8",
       "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
       "pct": 50,
@@ -665,7 +742,22 @@
       "t": 1795155080,
       "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C8QYB8W6",
+      "name": "Razer BlackWidow V4 X Mechanical Gaming Keyboard",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1795200743,
+      "img": "https://m.media-amazon.com/images/I/71m+Xv1JKML.jpg",
+      "link": "https://www.amazon.com/dp/B0C8QYB8W6?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "129.99",
+      "deal": "Black Friday Deal",
+      "reviews": 563,
+      "tier": "premium"
      }
     ]
    },
@@ -682,7 +774,67 @@
       "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
       "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07Y5VDNT9",
+      "name": "PNY CS900 1TB 2.5\" SATA III Internal SSD",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795200572,
+      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+      "link": "https://www.amazon.com/dp/B07Y5VDNT9?tag=zoepicks00-20",
+      "now": "119.99",
+      "was": "159.99",
+      "deal": "Black Friday Deal",
+      "reviews": 19459,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DX2DPJZ5",
+      "name": "Samsung SSD 9100 PRO 2TB",
+      "pct": 49,
+      "rating": 4.7,
+      "t": 1795200572,
+      "img": "https://m.media-amazon.com/images/I/71qygJIcKnL.jpg",
+      "link": "https://www.amazon.com/dp/B0DX2DPJZ5?tag=zoepicks00-20",
+      "now": "349.99",
+      "was": "679.97",
+      "deal": "Black Friday Deal",
+      "reviews": 2088,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "mouse-skates",
+    "label": "Mouse Skates",
+    "items": [
+     {
+      "asin": "B0FMY384QQ",
+      "name": "Wallhack UHMW-PE Dot Silent Mouse Skates",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1795200755,
+      "img": "https://m.media-amazon.com/images/I/71UFaIRB1iL.jpg",
+      "link": "https://www.amazon.com/dp/B0FMY384QQ?tag=zoepicks00-20",
+      "now": "16.50",
+      "was": "22.00",
+      "deal": "Black Friday Deal",
+      "reviews": 248
+     },
+     {
+      "asin": "B0BG1SH5VY",
+      "name": "Superglide Glass Mouse Skates",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1795200755,
+      "img": "https://m.media-amazon.com/images/I/61K5NCTi7yL.jpg",
+      "link": "https://www.amazon.com/dp/B0BG1SH5VY?tag=zoepicks00-20",
+      "now": "19.96",
+      "was": "24.95",
+      "deal": "Black Friday Deal",
+      "reviews": 408
      }
     ]
    },
@@ -705,6 +857,25 @@
     ]
    },
    {
+    "key": "keyboard-function-keys",
+    "label": "Keyboard Function Keys",
+    "items": [
+     {
+      "asin": "B0HJR7LFTB",
+      "name": "Wired Teal Gaming Keyboard and Mouse Combo",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1795200594,
+      "img": "https://m.media-amazon.com/images/I/713fgNcuc9L.jpg",
+      "link": "https://www.amazon.com/dp/B0HJR7LFTB?tag=zoepicks00-20",
+      "now": "21.59",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 402
+     }
+    ]
+   },
+   {
     "key": "graphics-card",
     "label": "Graphics Card",
     "items": [
@@ -719,6 +890,37 @@
       "now": "55.99",
       "was": "69.99",
       "reviews": 147
+     },
+     {
+      "asin": "B0F4RZDFD5",
+      "name": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 Gaming Graphics…",
+      "pct": 5,
+      "rating": 4.7,
+      "t": 1795200542,
+      "img": "https://m.media-amazon.com/images/I/81aN+w8d4GL.jpg",
+      "link": "https://www.amazon.com/dp/B0F4RZDFD5?tag=zoepicks00-20",
+      "now": "829.99",
+      "was": "869.99",
+      "reviews": 195
+     }
+    ]
+   },
+   {
+    "key": "keyboards-typing",
+    "label": "Keyboards Typing",
+    "items": [
+     {
+      "asin": "B0DBG86Y9Q",
+      "name": "Gel Cloud Keyboard and Mouse Wrist Rest",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1795198175,
+      "img": "https://m.media-amazon.com/images/I/61ZaCdDBVHL.jpg",
+      "link": "https://www.amazon.com/dp/B0DBG86Y9Q?tag=zoepicks00-20",
+      "now": "23.19",
+      "was": "28.99",
+      "deal": "Black Friday Deal",
+      "reviews": 639
      }
     ]
    },
@@ -741,6 +943,54 @@
     ]
    },
    {
+    "key": "flash-drive",
+    "label": "Flash Drive",
+    "items": [
+     {
+      "asin": "B015CH1PJU",
+      "name": "SANDISK 128GB Ultra Flair",
+      "pct": 15,
+      "rating": 4.6,
+      "t": 1795200520,
+      "img": "https://m.media-amazon.com/images/I/61DaP3ryRKL.jpg",
+      "link": "https://www.amazon.com/dp/B015CH1PJU?tag=zoepicks00-20",
+      "now": "21.99",
+      "was": "25.99",
+      "deal": "Black Friday Deal",
+      "reviews": 212160,
+      "tier": "budget"
+     },
+     {
+      "asin": "B01EZ0X55C",
+      "name": "SANDISK 128GB Ultra Dual Drive",
+      "pct": 17,
+      "rating": 4.5,
+      "t": 1795200520,
+      "img": "https://m.media-amazon.com/images/I/51QJkYH6qcL.jpg",
+      "link": "https://www.amazon.com/dp/B01EZ0X55C?tag=zoepicks00-20",
+      "now": "24.99",
+      "was": "29.98",
+      "deal": "Black Friday Deal",
+      "reviews": 121558,
+      "tier": "mid"
+     },
+     {
+      "asin": "B081QSHG1K",
+      "name": "SANDISK 256GB Ultra",
+      "pct": 17,
+      "rating": 4.6,
+      "t": 1795200520,
+      "img": "https://m.media-amazon.com/images/I/61TuPtmTScL.jpg",
+      "link": "https://www.amazon.com/dp/B081QSHG1K?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "41.99",
+      "deal": "Black Friday Deal",
+      "reviews": 53744,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "5g-router",
     "label": "5g Router",
     "items": [
@@ -754,7 +1004,8 @@
       "link": "https://www.amazon.com/dp/B0CP7S3117?tag=zoepicks00-20",
       "now": "144.49",
       "was": "169.99",
-      "reviews": 3180
+      "reviews": 3180,
+      "tier": "budget"
      },
      {
       "asin": "B0C5RCQ8N5",
@@ -766,28 +1017,28 @@
       "link": "https://www.amazon.com/dp/B0C5RCQ8N5?tag=zoepicks00-20",
       "now": "322.99",
       "was": "379.99",
-      "reviews": 939
+      "reviews": 939,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C6XVCM6L",
+      "name": "GL.iNet GL-XE3000 Puli AX 5G Router",
+      "pct": 15,
+      "rating": 4.2,
+      "t": 1795200405,
+      "img": "https://m.media-amazon.com/images/I/51obAKkKprL.jpg",
+      "link": "https://www.amazon.com/dp/B0C6XVCM6L?tag=zoepicks00-20",
+      "now": "348.48",
+      "was": "409.99",
+      "deal": "Black Friday Deal",
+      "reviews": 223,
+      "tier": "premium"
      }
     ]
    },
    {
-    "key": "keyboard-function-keys",
-    "label": "Keyboard Function Keys",
-    "items": []
-   },
-   {
     "key": "drawing-stylus",
     "label": "Drawing Stylus",
-    "items": []
-   },
-   {
-    "key": "flash-drive",
-    "label": "Flash Drive",
-    "items": []
-   },
-   {
-    "key": "keyboards-typing",
-    "label": "Keyboards Typing",
     "items": []
    },
    {
@@ -798,11 +1049,6 @@
    {
     "key": "laptop-stands",
     "label": "Laptop Stands",
-    "items": []
-   },
-   {
-    "key": "mouse-skates",
-    "label": "Mouse Skates",
     "items": []
    },
    {
@@ -867,6 +1113,25 @@
     ]
    },
    {
+    "key": "eye-makeup",
+    "label": "Eye Makeup",
+    "items": [
+     {
+      "asin": "B09SZ5JX2Y",
+      "name": "d'alba Piedmont White Truffle Double Serum All-in-one Multi…",
+      "pct": 65,
+      "rating": 4.5,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/51PiPB7KKcL.jpg",
+      "link": "https://www.amazon.com/dp/B09SZ5JX2Y?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "45.69",
+      "deal": "Black Friday Deal",
+      "reviews": 11228
+     }
+    ]
+   },
+   {
     "key": "sunscreen",
     "label": "Sunscreen",
     "items": [
@@ -879,7 +1144,201 @@
       "img": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
       "link": "https://www.amazon.com/dp/B0DKJ347ZJ?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FXH5LHN8",
+      "name": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV",
+      "pct": 27,
+      "rating": 4.5,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/615uRMMos1L.jpg",
+      "link": "https://www.amazon.com/dp/B0FXH5LHN8?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "17.89",
+      "deal": "Black Friday Deal",
+      "reviews": 11036,
       "tier": "mid"
+     },
+     {
+      "asin": "B0DKJ3BX2F",
+      "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
+      "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
+      "now": "16.00",
+      "was": "28.00",
+      "deal": "Black Friday Deal",
+      "reviews": 6510,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "water-flossers",
+    "label": "Water Flossers",
+    "items": [
+     {
+      "asin": "B00HFQQ0VU",
+      "name": "Waterpik Aquarius Countertop Water Flosser",
+      "pct": 50,
+      "rating": 4.6,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71wBPSRpgeL.jpg",
+      "link": "https://www.amazon.com/dp/B00HFQQ0VU?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 159001
+     }
+    ]
+   },
+   {
+    "key": "moisturizer",
+    "label": "Moisturizer",
+    "items": [
+     {
+      "asin": "B0BPXT3GBN",
+      "name": "medicube Triple Collagen Cream",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61qcv-tUtDL.jpg",
+      "link": "https://www.amazon.com/dp/B0BPXT3GBN?tag=zoepicks00-20",
+      "now": "13.93",
+      "was": "19.90",
+      "deal": "Black Friday Deal",
+      "reviews": 12705,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DWFLY18Y",
+      "name": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream",
+      "pct": 38,
+      "rating": 4.6,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61HPLwL7omL.jpg",
+      "link": "https://www.amazon.com/dp/B0DWFLY18Y?tag=zoepicks00-20",
+      "now": "16.80",
+      "was": "27.00",
+      "deal": "Black Friday Deal",
+      "reviews": 7863,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DFY92NDB",
+      "name": "CENTELLIAN 24 Madeca Cream Time Reverse",
+      "pct": 47,
+      "rating": 4.6,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/51hxp0A8ZsL.jpg",
+      "link": "https://www.amazon.com/dp/B0DFY92NDB?tag=zoepicks00-20",
+      "now": "17.01",
+      "was": "32.00",
+      "deal": "Black Friday Deal",
+      "reviews": 8988,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "shampoo",
+    "label": "Shampoo",
+    "items": [
+     {
+      "asin": "B0BBBSMV94",
+      "name": "Native Coconut & Vanilla Shampoo and Conditioner Contain…",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71r9Zwpw9lL.jpg",
+      "link": "https://www.amazon.com/dp/B0BBBSMV94?tag=zoepicks00-20",
+      "now": "13.85",
+      "was": "20.18",
+      "deal": "Black Friday Deal",
+      "reviews": 16194,
+      "tier": "budget"
+     },
+     {
+      "asin": "B086S4Q7JH",
+      "name": "Herbal Essences Shampoo & Conditioner Set",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/81jre+Jf-uL.jpg",
+      "link": "https://www.amazon.com/dp/B086S4Q7JH?tag=zoepicks00-20",
+      "now": "15.71",
+      "was": "22.44",
+      "deal": "Black Friday Deal",
+      "reviews": 21364,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07BHCB9Y2",
+      "name": "PURA D'OR Gold Label Anti-Thinning Biotin Shampoo Regrowth…",
+      "pct": 40,
+      "rating": 4.3,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/81Jo+XvQGrL.jpg",
+      "link": "https://www.amazon.com/dp/B07BHCB9Y2?tag=zoepicks00-20",
+      "now": "23.98",
+      "was": "39.99",
+      "deal": "Black Friday Deal",
+      "reviews": 45547,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "hair-dryers",
+    "label": "Hair Dryers",
+    "items": [
+     {
+      "asin": "B0C5R836QJ",
+      "name": "Wavytalk Blown Away Ionic Hair Dryer",
+      "pct": 37,
+      "rating": 4.3,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61SQTwMX9UL.jpg",
+      "link": "https://www.amazon.com/dp/B0C5R836QJ?tag=zoepicks00-20",
+      "now": "31.55",
+      "was": "49.99",
+      "deal": "Black Friday Deal",
+      "reviews": 28178
+     },
+     {
+      "asin": "B01LSUQSB0",
+      "name": "REVLON One-Step Volumizer Hair Dryer and Styler",
+      "pct": 30,
+      "rating": 4.6,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61SrWfdHa1L.jpg",
+      "link": "https://www.amazon.com/dp/B01LSUQSB0?tag=zoepicks00-20",
+      "now": "34.99",
+      "was": "49.99",
+      "deal": "Black Friday Deal",
+      "reviews": 353200
+     }
+    ]
+   },
+   {
+    "key": "massage-guns",
+    "label": "Massage Guns",
+    "items": [
+     {
+      "asin": "B083L8RNJR",
+      "name": "TOLOCO Massage Gun",
+      "pct": 37,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71Jot9nj6qL.jpg",
+      "link": "https://www.amazon.com/dp/B083L8RNJR?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 62525
      }
     ]
    },
@@ -898,6 +1357,133 @@
       "now": "15.38",
       "was": "23.99",
       "reviews": 1476
+     }
+    ]
+   },
+   {
+    "key": "face-wash",
+    "label": "Face Wash",
+    "items": [
+     {
+      "asin": "B09MFMCTRK",
+      "name": "VALITIC Kojic Acid Dark Spot Remover Soap Bars",
+      "pct": 35,
+      "rating": 4.2,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71FF60ZljPL.jpg",
+      "link": "https://www.amazon.com/dp/B09MFMCTRK?tag=zoepicks00-20",
+      "now": "10.02",
+      "was": "15.49",
+      "deal": "Black Friday Deal",
+      "reviews": 76738
+     }
+    ]
+   },
+   {
+    "key": "hair-straighteners",
+    "label": "Hair Straighteners",
+    "items": [
+     {
+      "asin": "B0FVXPLCKX",
+      "name": "Wavytalk Steam Hair Straightener Steam Sesh",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61FqQ4ZzTcL.jpg",
+      "link": "https://www.amazon.com/dp/B0FVXPLCKX?tag=zoepicks00-20",
+      "now": "54.06",
+      "was": "79.00",
+      "deal": "Black Friday Deal",
+      "reviews": 2666
+     }
+    ]
+   },
+   {
+    "key": "men-s-colognes",
+    "label": "Men's Colognes",
+    "items": [
+     {
+      "asin": "B09231NL5H",
+      "name": "Bellavita Luxury Mini Cologne Set",
+      "pct": 32,
+      "rating": 4.2,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/61NdXB09WSL.jpg",
+      "link": "https://www.amazon.com/dp/B09231NL5H?tag=zoepicks00-20",
+      "now": "18.42",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 43707
+     }
+    ]
+   },
+   {
+    "key": "makeup-setting-spray",
+    "label": "Makeup Setting Spray",
+    "items": [
+     {
+      "asin": "B0DZMMBF3J",
+      "name": "TIRTIR Waterproof Setting Spray",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/41gkdCXlC9L.jpg",
+      "link": "https://www.amazon.com/dp/B0DZMMBF3J?tag=zoepicks00-20",
+      "now": "10.50",
+      "was": "15.00",
+      "deal": "Black Friday Deal",
+      "reviews": 8208
+     }
+    ]
+   },
+   {
+    "key": "makeup-primers",
+    "label": "Makeup Primers",
+    "items": [
+     {
+      "asin": "B007PM1A82",
+      "name": "Embryolisse Lait-Crème Concentré Face Moisturizer and…",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71hr7paDmJL.jpg",
+      "link": "https://www.amazon.com/dp/B007PM1A82?tag=zoepicks00-20",
+      "now": "24.00",
+      "was": "32.00",
+      "deal": "Black Friday Deal",
+      "reviews": 35537
+     }
+    ]
+   },
+   {
+    "key": "razor-blades",
+    "label": "Razor Blades",
+    "items": [
+     {
+      "asin": "B07CZCQ481",
+      "name": "Amazon Basics 5-Blade MotionSphere Men's Razor",
+      "pct": 24,
+      "rating": 4.3,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/81sF8xSb7rL.jpg",
+      "link": "https://www.amazon.com/dp/B07CZCQ481?tag=zoepicks00-20",
+      "now": "17.05",
+      "was": "22.57",
+      "deal": "Black Friday Deal",
+      "reviews": 62118
+     },
+     {
+      "asin": "B07CYN88NJ",
+      "name": "Amazon Essentials 5-Blade Razor",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/71Vyr6h95QL.jpg",
+      "link": "https://www.amazon.com/dp/B07CYN88NJ?tag=zoepicks00-20",
+      "now": "13.93",
+      "was": "16.39",
+      "deal": "Black Friday Deal",
+      "reviews": 27366
      }
     ]
    },
@@ -940,11 +1526,6 @@
     "items": []
    },
    {
-    "key": "makeup-setting-spray",
-    "label": "Makeup Setting Spray",
-    "items": []
-   },
-   {
     "key": "makeup-vanity-bag",
     "label": "Makeup Vanity Bag",
     "items": []
@@ -955,28 +1536,8 @@
     "items": []
    },
    {
-    "key": "eye-makeup",
-    "label": "Eye Makeup",
-    "items": []
-   },
-   {
-    "key": "face-wash",
-    "label": "Face Wash",
-    "items": []
-   },
-   {
     "key": "facial-skincare",
     "label": "Facial Skincare",
-    "items": []
-   },
-   {
-    "key": "hair-dryers",
-    "label": "Hair Dryers",
-    "items": []
-   },
-   {
-    "key": "hair-straighteners",
-    "label": "Hair Straighteners",
     "items": []
    },
    {
@@ -985,38 +1546,13 @@
     "items": []
    },
    {
-    "key": "makeup-primers",
-    "label": "Makeup Primers",
-    "items": []
-   },
-   {
-    "key": "massage-guns",
-    "label": "Massage Guns",
-    "items": []
-   },
-   {
-    "key": "men-s-colognes",
-    "label": "Men's Colognes",
-    "items": []
-   },
-   {
     "key": "protein-powder",
     "label": "Protein Powder",
     "items": []
    },
    {
-    "key": "razor-blades",
-    "label": "Razor Blades",
-    "items": []
-   },
-   {
     "key": "sleep-mask",
     "label": "Sleep Mask",
-    "items": []
-   },
-   {
-    "key": "water-flossers",
-    "label": "Water Flossers",
     "items": []
    },
    {
@@ -1030,18 +1566,8 @@
     "items": []
    },
    {
-    "key": "moisturizer",
-    "label": "Moisturizer",
-    "items": []
-   },
-   {
     "key": "perfumes",
     "label": "Perfumes",
-    "items": []
-   },
-   {
-    "key": "shampoo",
-    "label": "Shampoo",
     "items": []
    }
   ],
@@ -1050,17 +1576,6 @@
     "key": "noise-cancelling-headphones",
     "label": "Noise Cancelling Headphones",
     "items": [
-     {
-      "asin": "B0HMQNMD26",
-      "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
-      "pct": 58,
-      "rating": 4.8,
-      "t": 1795155095,
-      "img": "https://m.media-amazon.com/images/I/71KLbAa5atL.jpg",
-      "link": "https://www.amazon.com/dp/B0HMQNMD26?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
      {
       "asin": "B0CRTYZG5C",
       "name": "Soundcore P30i by Anker Noise Cancelling Earbuds",
@@ -1071,6 +1586,79 @@
       "link": "https://www.amazon.com/dp/B0CRTYZG5C?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "budget"
+     },
+     {
+      "asin": "B0FNWCYLZN",
+      "name": "soundcore P31i by Anker Translation Earbuds",
+      "pct": 50,
+      "rating": 4.4,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/71fEWG6n4aL.jpg",
+      "link": "https://www.amazon.com/dp/B0FNWCYLZN?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 12008,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HMQNMD26",
+      "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
+      "pct": 58,
+      "rating": 4.8,
+      "t": 1795155095,
+      "img": "https://m.media-amazon.com/images/I/71KLbAa5atL.jpg",
+      "link": "https://www.amazon.com/dp/B0HMQNMD26?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
+    "items": [
+     {
+      "asin": "B0GHY4PR3N",
+      "name": "JBL Tune 530BT (2026)",
+      "pct": 50,
+      "rating": 4.4,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/71bxgOa0vCL.jpg",
+      "link": "https://www.amazon.com/dp/B0GHY4PR3N?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "59.95",
+      "deal": "Black Friday Deal",
+      "reviews": 302,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08FCGH2RL",
+      "name": "Skullcandy Crusher Evo Wireless Multi-Sensory Bass…",
+      "pct": 57,
+      "rating": 4.7,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/61TuQdBSgsL.jpg",
+      "link": "https://www.amazon.com/dp/B08FCGH2RL?tag=zoepicks00-20",
+      "now": "89.99",
+      "was": "209.99",
+      "deal": "Black Friday Deal",
+      "reviews": 19962,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0C9L8ZR6Q",
+      "name": "Skullcandy Crusher ANC 2 Noise Cancelling Wireless…",
+      "pct": 50,
+      "rating": 4.6,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/71ew5pFViAL.jpg",
+      "link": "https://www.amazon.com/dp/B0C9L8ZR6Q?tag=zoepicks00-20",
+      "now": "119.99",
+      "was": "239.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4903,
+      "tier": "premium"
      }
     ]
    },
@@ -1086,8 +1674,7 @@
       "t": 1795155005,
       "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
       "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -1137,6 +1724,54 @@
     ]
    },
    {
+    "key": "bluetooth-speakers",
+    "label": "Bluetooth Speakers",
+    "items": [
+     {
+      "asin": "B01MTB55WH",
+      "name": "Anker soundcore 2 Portable Bluetooth Speaker",
+      "pct": 37,
+      "rating": 4.5,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/61ad7wmJ5lL.jpg",
+      "link": "https://www.amazon.com/dp/B01MTB55WH?tag=zoepicks00-20",
+      "now": "28.48",
+      "was": "44.99",
+      "deal": "Black Friday Deal",
+      "reviews": 159266,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0B28G5Y4R",
+      "name": "HAPPRUN Native 1080P Bluetooth Projector",
+      "pct": 48,
+      "rating": 4.3,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
+      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
+      "now": "56.99",
+      "was": "109.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14217,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D6WD2QSQ",
+      "name": "Bose SoundLink Flex Bluetooth Speaker",
+      "pct": 34,
+      "rating": 4.7,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/7192Qca-fUL.jpg",
+      "link": "https://www.amazon.com/dp/B0D6WD2QSQ?tag=zoepicks00-20",
+      "now": "99.00",
+      "was": "149.00",
+      "deal": "Black Friday Deal",
+      "reviews": 13975,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "mac-studio",
     "label": "Mac Studio",
     "items": [
@@ -1155,9 +1790,68 @@
     ]
    },
    {
+    "key": "printers",
+    "label": "Printers",
+    "items": [
+     {
+      "asin": "B09XHYNHB2",
+      "name": "Liene M100 4x6'' Photo Printer",
+      "pct": 38,
+      "rating": 4.4,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/71I9r0ghJeL.jpg",
+      "link": "https://www.amazon.com/dp/B09XHYNHB2?tag=zoepicks00-20",
+      "now": "135.99",
+      "was": "219.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4639
+     },
+     {
+      "asin": "B0DK9CSBQP",
+      "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
+      "pct": 25,
+      "rating": 4.4,
+      "t": 1795141390,
+      "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
+      "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
+      "now": "42.72",
+      "was": "56.99",
+      "reviews": 749
+     }
+    ]
+   },
+   {
     "key": "tablets",
     "label": "Tablets",
     "items": [
+     {
+      "asin": "B0GF84H8VM",
+      "name": "SANDISK 256GB Extreme PRO USB-C Flash Drive",
+      "pct": 16,
+      "rating": 4.6,
+      "t": 1795200520,
+      "img": "https://m.media-amazon.com/images/I/51GwgWygc9L.jpg",
+      "link": "https://www.amazon.com/dp/B0GF84H8VM?tag=zoepicks00-20",
+      "now": "63.99",
+      "was": "75.99",
+      "deal": "Black Friday Deal",
+      "reviews": 163,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CN9SD8JF",
+      "name": "THE NORTH FACE Borealis Laptop Backpack",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
+      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
+      "now": "80.50",
+      "was": "115.00",
+      "deal": "Black Friday Deal",
+      "reviews": 16538,
+      "tier": "mid"
+     },
      {
       "asin": "B0DN7GYYV2",
       "name": "Amazon Alexa Tablet 11",
@@ -1168,7 +1862,8 @@
       "link": "https://www.amazon.com/dp/B0DN7GYYV2?tag=zoepicks00-20",
       "now": "219.99",
       "was": "329.99",
-      "reviews": 124
+      "reviews": 124,
+      "tier": "premium"
      }
     ]
    },
@@ -1187,24 +1882,6 @@
       "now": "199.00",
       "was": "279.99",
       "reviews": 100
-     }
-    ]
-   },
-   {
-    "key": "printers",
-    "label": "Printers",
-    "items": [
-     {
-      "asin": "B0DK9CSBQP",
-      "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1795141390,
-      "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
-      "now": "42.72",
-      "was": "56.99",
-      "reviews": 749
      }
     ]
    },
@@ -1269,11 +1946,6 @@
     "items": []
    },
    {
-    "key": "bluetooth-speakers",
-    "label": "Bluetooth Speakers",
-    "items": []
-   },
-   {
     "key": "camera-tripod",
     "label": "Camera Tripod",
     "items": []
@@ -1291,11 +1963,6 @@
    {
     "key": "kobo-case",
     "label": "Kobo Case",
-    "items": []
-   },
-   {
-    "key": "wireless-earbuds",
-    "label": "Wireless Earbuds",
     "items": []
    }
   ],
@@ -1355,7 +2022,36 @@
       "t": 1795155062,
       "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
       "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07CLXD2V4",
+      "name": "VeraCosy Men's Two-Tone House Slippers Memory Foam Indoor…",
+      "pct": 62,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81awKn+wuaL.jpg",
+      "link": "https://www.amazon.com/dp/B07CLXD2V4?tag=zoepicks00-20",
+      "now": "13.29",
+      "was": "35.00",
+      "deal": "Black Friday Deal",
+      "reviews": 42112,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09JP2TRK4",
+      "name": "EverFoams Women’s Soft Curly Slippers Memory Foam…",
+      "pct": 53,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71FYfNYs0SL.jpg",
+      "link": "https://www.amazon.com/dp/B09JP2TRK4?tag=zoepicks00-20",
+      "now": "14.99",
+      "was": "31.99",
+      "deal": "Black Friday Deal",
+      "reviews": 27310,
+      "tier": "premium"
      }
     ]
    },
@@ -1439,6 +2135,54 @@
       "now": "49.39",
       "was": "69.99",
       "reviews": 3312,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "compression-socks",
+    "label": "Compression Socks",
+    "items": [
+     {
+      "asin": "B074MW1MTW",
+      "name": "FuelMeFoot 3 Pack Copper Compression Socks",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/61AK78IB57L.jpg",
+      "link": "https://www.amazon.com/dp/B074MW1MTW?tag=zoepicks00-20",
+      "now": "10.44",
+      "was": "12.99",
+      "deal": "Black Friday Deal",
+      "reviews": 69113,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FD21WM9H",
+      "name": "Compression Socks for Women and Men,15-20 mmHg Support(3…",
+      "pct": 52,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81hJNZZwcjL.jpg",
+      "link": "https://www.amazon.com/dp/B0FD21WM9H?tag=zoepicks00-20",
+      "now": "11.99",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2029,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07VWT4XRG",
+      "name": "FITRELL 3 Pairs Compression Socks",
+      "pct": 54,
+      "rating": 4.4,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71CUmyhYe2L.jpg",
+      "link": "https://www.amazon.com/dp/B07VWT4XRG?tag=zoepicks00-20",
+      "now": "12.34",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 40950,
       "tier": "premium"
      }
     ]
@@ -1568,6 +2312,20 @@
     "label": "Travel Backpacks",
     "items": [
      {
+      "asin": "B0D2Q61QF4",
+      "name": "ZORFIN 26L Black Backpack",
+      "pct": 20,
+      "rating": 4.6,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81viDwch+yL.jpg",
+      "link": "https://www.amazon.com/dp/B0D2Q61QF4?tag=zoepicks00-20",
+      "now": "14.39",
+      "was": "17.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4615,
+      "tier": "budget"
+     },
+     {
       "asin": "B0CR9JFD7S",
       "name": "Taygeer Travel Laptop Backpack",
       "pct": 43,
@@ -1576,19 +2334,69 @@
       "img": "https://m.media-amazon.com/images/I/61mBPzS4IeL.jpg",
       "link": "https://www.amazon.com/dp/B0CR9JFD7S?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CN9SD8JF",
+      "name": "THE NORTH FACE Borealis Laptop Backpack",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
+      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
+      "now": "80.50",
+      "was": "115.00",
+      "deal": "Black Friday Deal",
+      "reviews": 16538,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "suitcase",
+    "label": "Suitcase",
+    "items": [
+     {
+      "asin": "B0CLVYTLFB",
+      "name": "Aerotrunk Compression Packing Cubes",
+      "pct": 20,
+      "rating": 4.6,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/91Q1Dukt+DL.jpg",
+      "link": "https://www.amazon.com/dp/B0CLVYTLFB?tag=zoepicks00-20",
+      "now": "47.99",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2609,
       "tier": "budget"
      },
      {
-      "asin": "B0FVKL68FF",
-      "name": "UtiaMiaoGonGo 15L Small Hiking Backpack Travel Daypack…",
-      "pct": 20,
-      "rating": 4.6,
-      "t": 1795157039,
-      "img": "https://m.media-amazon.com/images/I/71U6-8NLoYL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVKL68FF?tag=zoepicks00-20",
-      "now": "19.71",
-      "was": "24.64",
-      "reviews": 261
+      "asin": "B0DWWSBR26",
+      "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
+      "pct": 25,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
+      "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
+      "now": "104.48",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1214,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D3LDFKRP",
+      "name": "Cosbarn Luggage Sets",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+      "now": "104.49",
+      "was": "169.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2042,
+      "tier": "premium"
      }
     ]
    },
@@ -1606,7 +2414,36 @@
       "link": "https://www.amazon.com/dp/B0FG27QSLG?tag=zoepicks00-20",
       "now": "22.76",
       "was": "35.99",
-      "reviews": 4528
+      "reviews": 4528,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07WYCL3D8",
+      "name": "baleaf Women's Fleece Lined Leggings Thermal Warm Tights…",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/51F8j5gqoAL.jpg",
+      "link": "https://www.amazon.com/dp/B07WYCL3D8?tag=zoepicks00-20",
+      "now": "23.79",
+      "was": "33.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14608,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DBHGRDCH",
+      "name": "IUGA Compression Leggings",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/61zE+aYVWyL.jpg",
+      "link": "https://www.amazon.com/dp/B0DBHGRDCH?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "36.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14032,
+      "tier": "premium"
      }
     ]
    },
@@ -1625,6 +2462,19 @@
       "now": "19.99",
       "was": "29.99",
       "reviews": 13822
+     },
+     {
+      "asin": "B09ZCDYPR6",
+      "name": "PURE CHAMP Sweatpants",
+      "pct": 19,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/91XUMIlN-fL.jpg",
+      "link": "https://www.amazon.com/dp/B09ZCDYPR6?tag=zoepicks00-20",
+      "now": "32.29",
+      "was": "39.99",
+      "deal": "Black Friday Deal",
+      "reviews": 24069
      }
     ]
    },
@@ -1709,18 +2559,54 @@
       "now": "41.21",
       "was": "54.95",
       "reviews": 247
+     }
+    ]
+   },
+   {
+    "key": "wallets",
+    "label": "Wallets",
+    "items": [
+     {
+      "asin": "B07SVPD6PX",
+      "name": "Buffway Slim Minimalist Front Pocket RFID Blocking Leather…",
+      "pct": 15,
+      "rating": 4.6,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71HYKrPNYEL.jpg",
+      "link": "https://www.amazon.com/dp/B07SVPD6PX?tag=zoepicks00-20",
+      "now": "13.59",
+      "was": "15.99",
+      "deal": "Black Friday Deal",
+      "reviews": 116470,
+      "tier": "budget"
      },
      {
-      "asin": "B0F16K7LWM",
-      "name": "Nike Men's Promina Walking Shoes",
-      "pct": 19,
-      "rating": 4.5,
-      "t": 1795072447,
-      "img": "https://m.media-amazon.com/images/I/61QxYuq3qVL.jpg",
-      "link": "https://www.amazon.com/dp/B0F16K7LWM?tag=zoepicks00-20",
-      "now": "56.81",
-      "was": "70.00",
-      "reviews": 1661
+      "asin": "B09QX38X5M",
+      "name": "Sigtrenx Leather Wallets",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/813j4MJby6L.jpg",
+      "link": "https://www.amazon.com/dp/B09QX38X5M?tag=zoepicks00-20",
+      "now": "22.94",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 3813,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FYR14JVY",
+      "name": "Carhartt Oil Tan Leather Passcase Wallet Brown",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/817xaonDF5L.jpg",
+      "link": "https://www.amazon.com/dp/B0FYR14JVY?tag=zoepicks00-20",
+      "now": "32.23",
+      "was": "42.99",
+      "deal": "Black Friday Deal",
+      "reviews": 303,
+      "tier": "premium"
      }
     ]
    },
@@ -1743,18 +2629,27 @@
     ]
    },
    {
-    "key": "carry-on-bags",
-    "label": "Carry On Bags",
-    "items": []
-   },
-   {
-    "key": "compression-socks",
-    "label": "Compression Socks",
-    "items": []
-   },
-   {
     "key": "tote-bags",
     "label": "Tote Bags",
+    "items": [
+     {
+      "asin": "B0FFLJG6QM",
+      "name": "Bagstellar Puffer Tote Bag",
+      "pct": 15,
+      "rating": 4.6,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/61Gkb9p5oXL.jpg",
+      "link": "https://www.amazon.com/dp/B0FFLJG6QM?tag=zoepicks00-20",
+      "now": "25.48",
+      "was": "29.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2522
+     }
+    ]
+   },
+   {
+    "key": "carry-on-bags",
+    "label": "Carry On Bags",
     "items": []
    },
    {
@@ -1765,16 +2660,6 @@
    {
     "key": "workout-clothes",
     "label": "Workout Clothes",
-    "items": []
-   },
-   {
-    "key": "suitcase",
-    "label": "Suitcase",
-    "items": []
-   },
-   {
-    "key": "wallets",
-    "label": "Wallets",
     "items": []
    }
   ],
@@ -2066,8 +2951,7 @@
       "t": 1795155071,
       "img": "https://m.media-amazon.com/images/I/81nLFvtf8bL.jpg",
       "link": "https://www.amazon.com/dp/B0F93XX5J1?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
+      "reviews": 0
      },
      {
       "asin": "B08Z36X6B4",
@@ -2112,6 +2996,54 @@
     ]
    },
    {
+    "key": "mattresses",
+    "label": "Mattresses",
+    "items": [
+     {
+      "asin": "B0GZ2BCN74",
+      "name": "Full Size Mattress",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1795198693,
+      "img": "https://m.media-amazon.com/images/I/81o5yQ+AlmL.jpg",
+      "link": "https://www.amazon.com/dp/B0GZ2BCN74?tag=zoepicks00-20",
+      "now": "209.99",
+      "was": "299.99",
+      "deal": "Black Friday Deal",
+      "reviews": 74,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HQ66R9PL",
+      "name": "VILASOAR 14 Inch Full Mattress",
+      "pct": 31,
+      "rating": 4.6,
+      "t": 1795198693,
+      "img": "https://m.media-amazon.com/images/I/81khI4bCOoL.jpg",
+      "link": "https://www.amazon.com/dp/B0HQ66R9PL?tag=zoepicks00-20",
+      "now": "246.99",
+      "was": "359.99",
+      "deal": "Black Friday Deal",
+      "reviews": 62,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HK7WGHBT",
+      "name": "Extra Firm King Mattress 12 inch Pain Relieving Hybrid…",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1795198693,
+      "img": "https://m.media-amazon.com/images/I/916DZy5DxrL.jpg",
+      "link": "https://www.amazon.com/dp/B0HK7WGHBT?tag=zoepicks00-20",
+      "now": "265.98",
+      "was": "379.99",
+      "deal": "Black Friday Deal",
+      "reviews": 379,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "standing-desks",
     "label": "Standing Desks",
     "items": [
@@ -2125,26 +3057,7 @@
       "link": "https://www.amazon.com/dp/B09RMD7R15?tag=zoepicks00-20",
       "now": "224.99",
       "was": "299.99",
-      "reviews": 6356,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "mattresses",
-    "label": "Mattresses",
-    "items": [
-     {
-      "asin": "B0FV8DR9GV",
-      "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
-      "pct": 21,
-      "rating": 4.4,
-      "t": 1795137492,
-      "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
-      "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
-      "now": "205.19",
-      "was": "259.99",
-      "reviews": 263
+      "reviews": 6356
      }
     ]
    },
@@ -2176,17 +3089,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0HNRSRX9V",
-      "name": "AOC Wireless Gaming Headset",
-      "pct": 53,
-      "rating": 4.6,
-      "t": 1795155005,
-      "img": "https://m.media-amazon.com/images/I/71jCe3Tp9LL.jpg",
-      "link": "https://www.amazon.com/dp/B0HNRSRX9V?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
       "asin": "B0GV7DTQ6G",
       "name": "Ordtop 2.4GHz Wireless Gaming Headset",
       "pct": 60,
@@ -2194,6 +3096,17 @@
       "t": 1795155101,
       "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
       "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F6NZWPTC",
+      "name": "HyperX Cloud III S Wireless Gaming Headset",
+      "pct": 45,
+      "rating": 4.3,
+      "t": 1795155103,
+      "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
+      "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2203,6 +3116,34 @@
     "key": "playstation",
     "label": "Playstation",
     "items": [
+     {
+      "asin": "B0B4862QNJ",
+      "name": "KontrolFreek FPS Freek Galaxy Black",
+      "pct": 30,
+      "rating": 4.6,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/71Esgpg57PL.jpg",
+      "link": "https://www.amazon.com/dp/B0B4862QNJ?tag=zoepicks00-20",
+      "now": "11.89",
+      "was": "16.99",
+      "deal": "Black Friday Deal",
+      "reviews": 6473,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CTVK7GBM",
+      "name": "Stellar Blade - PlayStation 5",
+      "pct": 57,
+      "rating": 4.8,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/81nygCl+G3L.jpg",
+      "link": "https://www.amazon.com/dp/B0CTVK7GBM?tag=zoepicks00-20",
+      "now": "29.97",
+      "was": "69.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1596,
+      "tier": "mid"
+     },
      {
       "asin": "B0DQF6GRT8",
       "name": "Split Fiction Playstation 5",
@@ -2214,7 +3155,26 @@
       "now": "34.99",
       "was": "49.99",
       "reviews": 847,
-      "tier": "budget"
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "ear-gaming-headphones",
+    "label": "Ear Gaming Headphones",
+    "items": [
+     {
+      "asin": "B01H6GUCCQ",
+      "name": "BENGOO G9000 Stereo Gaming Headset",
+      "pct": 35,
+      "rating": 4.3,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/61CGHv6kmWL.jpg",
+      "link": "https://www.amazon.com/dp/B01H6GUCCQ?tag=zoepicks00-20",
+      "now": "18.94",
+      "was": "28.99",
+      "deal": "Black Friday Deal",
+      "reviews": 122535
      }
     ]
    },
@@ -2222,6 +3182,19 @@
     "key": "pc-controllers",
     "label": "PC Controllers",
     "items": [
+     {
+      "asin": "B0FY6Y9WZT",
+      "name": "PlayStation DualSense™ Wireless Controller",
+      "pct": 28,
+      "rating": 4.7,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/61GNEp3auhL.jpg",
+      "link": "https://www.amazon.com/dp/B0FY6Y9WZT?tag=zoepicks00-20",
+      "now": "54.00",
+      "was": "74.99",
+      "deal": "Black Friday Deal",
+      "reviews": 51725
+     },
      {
       "asin": "B0F3D25PD3",
       "name": "GameSir Nova Lite 2 Wireless PC Controller Hall Effect…",
@@ -2239,11 +3212,6 @@
    {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
-    "items": []
-   },
-   {
-    "key": "ear-gaming-headphones",
-    "label": "Ear Gaming Headphones",
     "items": []
    },
    {
@@ -2386,6 +3354,20 @@
     "label": "Cutting Board",
     "items": [
      {
+      "asin": "B0GX57TRXD",
+      "name": "Astercook Large Bamboo Cutting Board",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/81A3GIdqrOL.jpg",
+      "link": "https://www.amazon.com/dp/B0GX57TRXD?tag=zoepicks00-20",
+      "now": "14.24",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 213,
+      "tier": "budget"
+     },
+     {
       "asin": "B07WFF17BQ",
       "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
       "pct": 55,
@@ -2396,7 +3378,7 @@
       "now": "18.03",
       "was": "39.97",
       "reviews": 0,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B0DQG2VHKJ",
@@ -2408,7 +3390,8 @@
       "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
       "now": "26.59",
       "was": "38.99",
-      "reviews": 8215
+      "reviews": 8215,
+      "tier": "premium"
      }
     ]
    },
@@ -2428,14 +3411,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B09715G57M",
-      "name": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker",
-      "pct": 45,
-      "rating": 4.3,
-      "t": 1795154698,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71xuVr0CPbL.jpg",
-      "link": "https://www.amazon.com/dp/B09715G57M?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B00MVWGQX0",
+      "name": "Cuisinart Coffee Maker",
+      "pct": 53,
+      "rating": 4.4,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71VjOhqSY7L.jpg",
+      "link": "https://www.amazon.com/dp/B00MVWGQX0?tag=zoepicks00-20",
+      "now": "56.95",
+      "was": "119.95",
+      "deal": "Black Friday Deal",
+      "reviews": 44589,
       "tier": "mid"
      },
      {
@@ -2454,6 +3440,51 @@
     ]
    },
    {
+    "key": "air-fryers",
+    "label": "Air Fryers",
+    "items": [
+     {
+      "asin": "B0CNY1F31S",
+      "name": "Chefman Air Fryer – 4 QT Compact Airfryer",
+      "pct": 50,
+      "rating": 4.6,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71Ld+1SBc5L.jpg",
+      "link": "https://www.amazon.com/dp/B0CNY1F31S?tag=zoepicks00-20",
+      "now": "49.99",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 7609,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08DL8WH9V",
+      "name": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/711yiK2g06L.jpg",
+      "link": "https://www.amazon.com/dp/B08DL8WH9V?tag=zoepicks00-20",
+      "now": "69.99",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 52374,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GVVJZDQV",
+      "name": "Cuisinart Air Fryer Toaster Oven Combo",
+      "pct": 48,
+      "rating": 4.6,
+      "t": 1795154697,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71K0ElolqVL.jpg",
+      "link": "https://www.amazon.com/dp/B0GVVJZDQV?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "comforter-sets",
     "label": "Comforter Sets",
     "items": [
@@ -2465,36 +3496,26 @@
       "t": 1795154571,
       "img": "https://m.media-amazon.com/images/I/81VU6q-TPgL.jpg",
       "link": "https://www.amazon.com/dp/B07N41G198?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
    {
-    "key": "air-fryers",
-    "label": "Air Fryers",
+    "key": "pillows",
+    "label": "Pillows",
     "items": [
      {
-      "asin": "B0GVVJZDQV",
-      "name": "Cuisinart Air Fryer Toaster Oven Combo",
-      "pct": 48,
+      "asin": "B08DXN4RR4",
+      "name": "Snug Leaves Women's Fuzzy Scuff Slippers Memory Foam…",
+      "pct": 49,
       "rating": 4.6,
-      "t": 1795154697,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71K0ElolqVL.jpg",
-      "link": "https://www.amazon.com/dp/B0GVVJZDQV?tag=zoepicks00-20",
-      "reviews": 0
-     },
-     {
-      "asin": "B0DPNJKMPX",
-      "name": "bella Fits-Anywhere™ 6qt Slim Air Fryer",
-      "pct": 40,
-      "rating": 4.6,
-      "t": 1795132859,
-      "img": "https://m.media-amazon.com/images/I/61TgBmRpXnL.jpg",
-      "link": "https://www.amazon.com/dp/B0DPNJKMPX?tag=zoepicks00-20",
-      "now": "47.99",
-      "was": "79.99",
-      "reviews": 1185
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81Z1oWsl4hL.jpg",
+      "link": "https://www.amazon.com/dp/B08DXN4RR4?tag=zoepicks00-20",
+      "now": "12.63",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14593
      }
     ]
    },
@@ -2502,18 +3523,6 @@
     "key": "blenders",
     "label": "Blenders",
     "items": [
-     {
-      "asin": "B0GZJ28GWJ",
-      "name": "nutribullet® Turbo Personal Blender",
-      "pct": 43,
-      "rating": 4.3,
-      "t": 1795130863,
-      "img": "https://m.media-amazon.com/images/I/41RpSy4VQ9L.jpg",
-      "link": "https://www.amazon.com/dp/B0GZJ28GWJ?tag=zoepicks00-20",
-      "now": "56.99",
-      "was": "99.99",
-      "reviews": 89
-     },
      {
       "asin": "B0DJM4QW9B",
       "name": "Ganiza Smoothie Blender",
@@ -2524,7 +3533,54 @@
       "link": "https://www.amazon.com/dp/B0DJM4QW9B?tag=zoepicks00-20",
       "now": "28.48",
       "was": "44.99",
-      "reviews": 3900
+      "reviews": 3900,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BVD58786",
+      "name": "Ganiza Immersion Blender 5 in 1 Hand Blender Max 1000W…",
+      "pct": 43,
+      "rating": 4.5,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71lu4jmuo5L.jpg",
+      "link": "https://www.amazon.com/dp/B0BVD58786?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "52.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4292,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GZJ28GWJ",
+      "name": "nutribullet® Turbo Personal Blender",
+      "pct": 43,
+      "rating": 4.3,
+      "t": 1795130863,
+      "img": "https://m.media-amazon.com/images/I/41RpSy4VQ9L.jpg",
+      "link": "https://www.amazon.com/dp/B0GZJ28GWJ?tag=zoepicks00-20",
+      "now": "56.99",
+      "was": "99.99",
+      "reviews": 89,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "knife-set",
+    "label": "Knife Set",
+    "items": [
+     {
+      "asin": "B0C1YBPJ43",
+      "name": "Astercook Knife Set",
+      "pct": 37,
+      "rating": 4.8,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/61TheuxRpFL.jpg",
+      "link": "https://www.amazon.com/dp/B0C1YBPJ43?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4297
      }
     ]
    },
@@ -2532,6 +3588,20 @@
     "key": "vacuums",
     "label": "Vacuums",
     "items": [
+     {
+      "asin": "B083TCZDMT",
+      "name": "Contigo Byron Vacuum-Insulated Stainless Steel Travel Mug",
+      "pct": 36,
+      "rating": 4.5,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/615q4slnnEL.jpg",
+      "link": "https://www.amazon.com/dp/B083TCZDMT?tag=zoepicks00-20",
+      "now": "12.49",
+      "was": "19.49",
+      "deal": "Black Friday Deal",
+      "reviews": 45515,
+      "tier": "budget"
+     },
      {
       "asin": "B0FYG24Z96",
       "name": "Electric Mason Jar Vacuum Sealer",
@@ -2542,7 +3612,130 @@
       "link": "https://www.amazon.com/dp/B0FYG24Z96?tag=zoepicks00-20",
       "now": "18.99",
       "was": "24.29",
-      "reviews": 1912
+      "reviews": 1912,
+      "tier": "mid"
+     },
+     {
+      "asin": "B01D5TM5QE",
+      "name": "FoodSaver Vacuum Sealer Bags",
+      "pct": 26,
+      "rating": 4.8,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71HsFQ2tBlL.jpg",
+      "link": "https://www.amazon.com/dp/B01D5TM5QE?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 19771,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "espresso-machines",
+    "label": "Espresso Machines",
+    "items": [
+     {
+      "asin": "B0DQWC47JN",
+      "name": "De'Longhi Classic Signature Espresso Machine",
+      "pct": 35,
+      "rating": 4.2,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71yCSb0v5fL.jpg",
+      "link": "https://www.amazon.com/dp/B0DQWC47JN?tag=zoepicks00-20",
+      "now": "149.95",
+      "was": "229.95",
+      "deal": "Black Friday Deal",
+      "reviews": 1121
+     },
+     {
+      "asin": "B0DVD67F76",
+      "name": "Nespresso Vertuo Pop+ Coffee and Espresso Machine by…",
+      "pct": 31,
+      "rating": 4.2,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/51VFGnvK+dL.jpg",
+      "link": "https://www.amazon.com/dp/B0DVD67F76?tag=zoepicks00-20",
+      "now": "89.00",
+      "was": "129.00",
+      "deal": "Black Friday Deal",
+      "reviews": 1603
+     }
+    ]
+   },
+   {
+    "key": "food-processors",
+    "label": "Food Processors",
+    "items": [
+     {
+      "asin": "B01AXM4WV2",
+      "name": "Cuisinart Food Processor",
+      "pct": 33,
+      "rating": 4.5,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/61gr+QeFrvL.jpg",
+      "link": "https://www.amazon.com/dp/B01AXM4WV2?tag=zoepicks00-20",
+      "now": "199.95",
+      "was": "299.95",
+      "deal": "Black Friday Deal",
+      "reviews": 15343
+     }
+    ]
+   },
+   {
+    "key": "dishwasher",
+    "label": "Dishwasher",
+    "items": [
+     {
+      "asin": "B0DC11YH4J",
+      "name": "CHEFMAN 2 Qt Mini Air Fryer",
+      "pct": 33,
+      "rating": 4.5,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71rj5PBTfZL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC11YH4J?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 30258
+     }
+    ]
+   },
+   {
+    "key": "toaster-ovens",
+    "label": "Toaster Ovens",
+    "items": [
+     {
+      "asin": "B09B7SB46R",
+      "name": "Emeril Lagasse 26QT French Door Multi-Function Air Fryer…",
+      "pct": 29,
+      "rating": 4.3,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/81AUxm--7pL.jpg",
+      "link": "https://www.amazon.com/dp/B09B7SB46R?tag=zoepicks00-20",
+      "now": "149.99",
+      "was": "209.99",
+      "deal": "Black Friday Deal",
+      "reviews": 18389
+     }
+    ]
+   },
+   {
+    "key": "waffle-maker",
+    "label": "Waffle Maker",
+    "items": [
+     {
+      "asin": "B0FRHCMBG3",
+      "name": "Oster Belgian Waffle Maker",
+      "pct": 29,
+      "rating": 4.5,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71+oLmsyOUL.jpg",
+      "link": "https://www.amazon.com/dp/B0FRHCMBG3?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "27.99",
+      "deal": "Black Friday Deal",
+      "reviews": 48199
      }
     ]
    },
@@ -2590,23 +3783,8 @@
     "items": []
    },
    {
-    "key": "espresso-machines",
-    "label": "Espresso Machines",
-    "items": []
-   },
-   {
-    "key": "food-processors",
-    "label": "Food Processors",
-    "items": []
-   },
-   {
     "key": "french-press",
     "label": "French Press",
-    "items": []
-   },
-   {
-    "key": "knife-set",
-    "label": "Knife Set",
     "items": []
    },
    {
@@ -2635,16 +3813,6 @@
     "items": []
    },
    {
-    "key": "toaster-ovens",
-    "label": "Toaster Ovens",
-    "items": []
-   },
-   {
-    "key": "waffle-maker",
-    "label": "Waffle Maker",
-    "items": []
-   },
-   {
     "key": "weighted-blanket",
     "label": "Weighted Blanket",
     "items": []
@@ -2657,16 +3825,6 @@
    {
     "key": "crockpot",
     "label": "Crockpot",
-    "items": []
-   },
-   {
-    "key": "dishwasher",
-    "label": "Dishwasher",
-    "items": []
-   },
-   {
-    "key": "pillows",
-    "label": "Pillows",
     "items": []
    }
   ],
@@ -2698,16 +3856,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0GS4WJB24",
-      "name": "Blackview Laptop Screen Extender",
-      "pct": 33,
-      "rating": 4.1,
-      "t": 1795072432,
-      "img": "https://m.media-amazon.com/images/I/81YDYFBVZxL.jpg",
-      "link": "https://www.amazon.com/dp/B0GS4WJB24?tag=zoepicks00-20",
-      "now": "224.99",
-      "was": "336.99",
-      "reviews": 80,
+      "asin": "B0F99864F1",
+      "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
+      "pct": 28,
+      "rating": 4.8,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/819hErzOz0L.jpg",
+      "link": "https://www.amazon.com/dp/B0F99864F1?tag=zoepicks00-20",
+      "now": "207.99",
+      "was": "289.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1368,
       "tier": "premium"
      }
     ]
@@ -2720,9 +3879,85 @@
   ],
   "mobiles": [
    {
+    "key": "iphones",
+    "label": "iPhones",
+    "items": [
+     {
+      "asin": "B0HCMZYZ2H",
+      "name": "Smart Watch for Men/Women",
+      "pct": 63,
+      "rating": 4.0,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/719a2hEpiTL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCMZYZ2H?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "64.99",
+      "deal": "Black Friday Deal",
+      "reviews": 36,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HNJF823S",
+      "name": "Smart Watch for Women,Health Monitor Fitness Watch",
+      "pct": 79,
+      "rating": 4.7,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/81-Jw6chcFL.jpg",
+      "link": "https://www.amazon.com/dp/B0HNJF823S?tag=zoepicks00-20",
+      "now": "34.19",
+      "was": "159.99",
+      "deal": "Black Friday Deal",
+      "reviews": 31,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GVHCZDWB",
+      "name": "Yoever Smart Watches",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/71nOmJWJuaL.jpg",
+      "link": "https://www.amazon.com/dp/B0GVHCZDWB?tag=zoepicks00-20",
+      "now": "40.14",
+      "was": "58.45",
+      "deal": "Black Friday Deal",
+      "reviews": 546,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "fitness-trackers",
     "label": "Fitness Trackers",
     "items": [
+     {
+      "asin": "B09J8SKX9G",
+      "name": "GRV Smart Watch for Men Women",
+      "pct": 29,
+      "rating": 4.0,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/61uC5wH8-QL.jpg",
+      "link": "https://www.amazon.com/dp/B09J8SKX9G?tag=zoepicks00-20",
+      "now": "24.22",
+      "was": "33.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14513,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HQ35L2DB",
+      "name": "Smart Watch for Women Men",
+      "pct": 77,
+      "rating": 4.7,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/71PVwGTVgeL.jpg",
+      "link": "https://www.amazon.com/dp/B0HQ35L2DB?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "129.99",
+      "deal": "Black Friday Deal",
+      "reviews": 657,
+      "tier": "mid"
+     },
      {
       "asin": "B0HPNWLF3R",
       "name": "Fitness Tracker, Smart Watches",
@@ -2732,29 +3967,124 @@
       "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
       "link": "https://www.amazon.com/dp/B0HPNWLF3R?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
+      "tier": "premium"
      }
     ]
    },
    {
-    "key": "iphones",
-    "label": "iPhones",
-    "items": []
+    "key": "smartwatch",
+    "label": "Smartwatch",
+    "items": [
+     {
+      "asin": "B0HQNYDXW8",
+      "name": "Smart Watch for Men Women",
+      "pct": 73,
+      "rating": 4.8,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/611cRe5IIWL.jpg",
+      "link": "https://www.amazon.com/dp/B0HQNYDXW8?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "89.99",
+      "deal": "Black Friday Deal",
+      "reviews": 38,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HJ5LZ27V",
+      "name": "Smart Watch for Women/Men",
+      "pct": 72,
+      "rating": 4.9,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/91699mbSiRL.jpg",
+      "link": "https://www.amazon.com/dp/B0HJ5LZ27V?tag=zoepicks00-20",
+      "now": "27.99",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 33,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HQTSXB6P",
+      "name": "Smart Watch for Women-3 Straps,1.83\" HD Smartwatch",
+      "pct": 72,
+      "rating": 4.8,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/71W77XOIwGL.jpg",
+      "link": "https://www.amazon.com/dp/B0HQTSXB6P?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "129.99",
+      "deal": "Black Friday Deal",
+      "reviews": 123,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "smartphones",
     "label": "Smartphones",
-    "items": []
-   },
-   {
-    "key": "smartwatch",
-    "label": "Smartwatch",
-    "items": []
+    "items": [
+     {
+      "asin": "B0HFGG4S3T",
+      "name": "Fitness Tracker Watch",
+      "pct": 27,
+      "rating": 4.0,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/61OKInHeoXL.jpg",
+      "link": "https://www.amazon.com/dp/B0HFGG4S3T?tag=zoepicks00-20",
+      "now": "16.14",
+      "was": "21.99",
+      "deal": "Black Friday Deal",
+      "reviews": 5728,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H2DB8JN4",
+      "name": "JrTrack 5 SE Kids Smart Watch by Cosmo",
+      "pct": 42,
+      "rating": 3.9,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/6159PGihk5L.jpg",
+      "link": "https://www.amazon.com/dp/B0H2DB8JN4?tag=zoepicks00-20",
+      "now": "74.99",
+      "was": "129.99",
+      "deal": "Black Friday Deal",
+      "reviews": 84,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0HFYGM4WS",
+      "name": "JrTrack Pro Kids Smart Watch by Cosmo",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/7174B3E3v1L.jpg",
+      "link": "https://www.amazon.com/dp/B0HFYGM4WS?tag=zoepicks00-20",
+      "now": "89.99",
+      "was": "179.99",
+      "deal": "Black Friday Deal",
+      "reviews": 31,
+      "tier": "premium"
+     }
+    ]
    },
    {
     "key": "smartwatches",
     "label": "Smartwatches",
-    "items": []
+    "items": [
+     {
+      "asin": "B09VBVG4JX",
+      "name": "Choiknbo Smart Watch",
+      "pct": 15,
+      "rating": 4.1,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/61NFp3Y3C+L.jpg",
+      "link": "https://www.amazon.com/dp/B09VBVG4JX?tag=zoepicks00-20",
+      "now": "17.84",
+      "was": "20.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4080
+     }
+    ]
    }
   ],
   "monitors": [
@@ -2762,19 +4092,6 @@
     "key": "gaming-monitors",
     "label": "Gaming Monitors",
     "items": [
-     {
-      "asin": "B0H5FWBBXG",
-      "name": "New! Sceptre Curved 24-inch Prime Gaming Monitor 1080p…",
-      "pct": 28,
-      "rating": 4.4,
-      "t": 1795126145,
-      "img": "https://m.media-amazon.com/images/I/71GjEAvY4nL.jpg",
-      "link": "https://www.amazon.com/dp/B0H5FWBBXG?tag=zoepicks00-20",
-      "now": "77.97",
-      "was": "107.97",
-      "reviews": 292,
-      "tier": "budget"
-     },
      {
       "asin": "B0FF7L83XD",
       "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
@@ -2784,19 +4101,176 @@
       "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
       "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
       "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FLLKBNY7",
+      "name": "LG 27G640A-B 27-inch Ultragear QHD",
+      "pct": 49,
+      "rating": 4.4,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/81ryaV511VL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLLKBNY7?tag=zoepicks00-20",
+      "now": "229.99",
+      "was": "449.99",
+      "deal": "Black Friday Deal",
+      "reviews": 305,
       "tier": "mid"
      },
      {
       "asin": "B0CZSGWLD5",
       "name": "Alienware AW2725DF OLED Gaming Monitor",
-      "pct": 28,
+      "pct": 42,
       "rating": 4.4,
-      "t": 1795126127,
+      "t": 1795199458,
       "img": "https://m.media-amazon.com/images/I/71Ffs81KPQL.jpg",
       "link": "https://www.amazon.com/dp/B0CZSGWLD5?tag=zoepicks00-20",
-      "now": "469.99",
+      "now": "379.00",
       "was": "649.99",
+      "deal": "Black Friday Deal",
       "reviews": 447,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "4k-monitors",
+    "label": "4K Monitors",
+    "items": [
+     {
+      "asin": "B0C7G6F8BY",
+      "name": "ASUS VP327Q 32 Inch 4K UHD Computer Monitor",
+      "pct": 32,
+      "rating": 4.1,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/81b7x9uLpAL.jpg",
+      "link": "https://www.amazon.com/dp/B0C7G6F8BY?tag=zoepicks00-20",
+      "now": "168.99",
+      "was": "249.00",
+      "deal": "Black Friday Deal",
+      "reviews": 195,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0H85TLJML",
+      "name": "Samsung 32\" ViewFinity S7",
+      "pct": 31,
+      "rating": 4.5,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71pdw79S1XL.jpg",
+      "link": "https://www.amazon.com/dp/B0H85TLJML?tag=zoepicks00-20",
+      "now": "199.99",
+      "was": "289.99",
+      "deal": "Black Friday Deal",
+      "reviews": 144,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F765XFX8",
+      "name": "Acer Nitro 27in 4K 3840x2160 IPS 160Hz DFR 320Hz Gaming…",
+      "pct": 40,
+      "rating": 4.3,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/719o0dEUZmL.jpg",
+      "link": "https://www.amazon.com/dp/B0F765XFX8?tag=zoepicks00-20",
+      "now": "208.99",
+      "was": "349.99",
+      "deal": "Black Friday Deal",
+      "reviews": 82,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "usb-c-monitors",
+    "label": "USB C Monitors",
+    "items": [
+     {
+      "asin": "B0874M3KW4",
+      "name": "Anker Laptop Docking Station Dual Monitor",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795199230,
+      "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
+      "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "53.99",
+      "deal": "Black Friday Deal",
+      "reviews": 35345,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F1GFD44G",
+      "name": "Dell 27 Monitor S2725QC",
+      "pct": 29,
+      "rating": 4.4,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71lQNQPr+OL.jpg",
+      "link": "https://www.amazon.com/dp/B0F1GFD44G?tag=zoepicks00-20",
+      "now": "249.99",
+      "was": "349.99",
+      "deal": "Black Friday Deal",
+      "reviews": 963,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BLT79X2G",
+      "name": "SAMSUNG Viewfinity S65UA Series 34-Inch Ultrawide QHD…",
+      "pct": 39,
+      "rating": 4.3,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/91h5HRAzGKL.jpg",
+      "link": "https://www.amazon.com/dp/B0BLT79X2G?tag=zoepicks00-20",
+      "now": "329.99",
+      "was": "539.99",
+      "deal": "Black Friday Deal",
+      "reviews": 374,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "oled-monitors",
+    "label": "OLED Monitors",
+    "items": [
+     {
+      "asin": "B0D682HF6R",
+      "name": "AOC AGON Pro 27 Inch Gaming Monitor QD OLED 240Hz 0.03ms",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1795126139,
+      "img": "https://m.media-amazon.com/images/I/71sLDCcIl5L.jpg",
+      "link": "https://www.amazon.com/dp/B0D682HF6R?tag=zoepicks00-20",
+      "now": "297.49",
+      "was": "349.99",
+      "reviews": 432,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GV155YQM",
+      "name": "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1795126132,
+      "img": "https://m.media-amazon.com/images/I/71o0PSgCBYL.jpg",
+      "link": "https://www.amazon.com/dp/B0GV155YQM?tag=zoepicks00-20",
+      "now": "297.49",
+      "was": "349.99",
+      "reviews": 98,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FP152SJW",
+      "name": "ASUS ROG XG27AQWMG 27 Inch 1440p 280Hz Tandem OLED G-SYNC…",
+      "pct": 38,
+      "rating": 4.0,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/91UlQpj-YkL.jpg",
+      "link": "https://www.amazon.com/dp/B0FP152SJW?tag=zoepicks00-20",
+      "now": "399.99",
+      "was": "649.00",
+      "deal": "Black Friday Deal",
+      "reviews": 255,
       "tier": "premium"
      }
     ]
@@ -2847,58 +4321,75 @@
     ]
    },
    {
-    "key": "oled-monitors",
-    "label": "OLED Monitors",
+    "key": "ultrawide-monitors",
+    "label": "Ultrawide Monitors",
     "items": [
      {
-      "asin": "B0D682HF6R",
-      "name": "AOC AGON Pro 27 Inch Gaming Monitor QD OLED 240Hz 0.03ms",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1795126139,
-      "img": "https://m.media-amazon.com/images/I/71sLDCcIl5L.jpg",
-      "link": "https://www.amazon.com/dp/B0D682HF6R?tag=zoepicks00-20",
-      "now": "297.49",
-      "was": "349.99",
-      "reviews": 432
+      "asin": "B0FDVNJ8ST",
+      "name": "Sceptre 34-Inch Curved Ultrawide WQHD Monitor",
+      "pct": 34,
+      "rating": 4.3,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71PRv5wDJZL.jpg",
+      "link": "https://www.amazon.com/dp/B0FDVNJ8ST?tag=zoepicks00-20",
+      "now": "189.97",
+      "was": "289.97",
+      "deal": "Black Friday Deal",
+      "reviews": 355,
+      "tier": "budget"
      },
      {
-      "asin": "B0GV155YQM",
-      "name": "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1795126132,
-      "img": "https://m.media-amazon.com/images/I/71o0PSgCBYL.jpg",
-      "link": "https://www.amazon.com/dp/B0GV155YQM?tag=zoepicks00-20",
-      "now": "297.49",
+      "asin": "B0H85H25TW",
+      "name": "Samsung 34\" ViewFinity S5",
+      "pct": 29,
+      "rating": 4.5,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71bwZku3pwL.jpg",
+      "link": "https://www.amazon.com/dp/B0H85H25TW?tag=zoepicks00-20",
+      "now": "246.99",
       "was": "349.99",
-      "reviews": 98
+      "deal": "Black Friday Deal",
+      "reviews": 62,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CRGJF7WL",
+      "name": "Samsung 49” Business Curved Ultrawide Dual QHD Computer…",
+      "pct": 33,
+      "rating": 4.5,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/617SkPgMZpL.jpg",
+      "link": "https://www.amazon.com/dp/B0CRGJF7WL?tag=zoepicks00-20",
+      "now": "799.99",
+      "was": "1,199.99",
+      "deal": "Black Friday Deal",
+      "reviews": 278,
+      "tier": "premium"
      }
     ]
    },
    {
     "key": "monitors-home-office",
     "label": "Monitors Home Office",
-    "items": []
-   },
-   {
-    "key": "usb-c-monitors",
-    "label": "USB C Monitors",
-    "items": []
-   },
-   {
-    "key": "4k-monitors",
-    "label": "4K Monitors",
-    "items": []
+    "items": [
+     {
+      "asin": "B0FFM6Z28R",
+      "name": "Gawfolk 27 Inch 4K Monitor IPS 60Hz",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/81i53jkIF8L.jpg",
+      "link": "https://www.amazon.com/dp/B0FFM6Z28R?tag=zoepicks00-20",
+      "now": "135.99",
+      "was": "159.99",
+      "deal": "Black Friday Deal",
+      "reviews": 750
+     }
+    ]
    },
    {
     "key": "monitors-mac",
     "label": "Monitors Mac",
-    "items": []
-   },
-   {
-    "key": "ultrawide-monitors",
-    "label": "Ultrawide Monitors",
     "items": []
    }
   ],
@@ -2980,6 +4471,34 @@
       "now": "67.99",
       "was": "79.99",
       "reviews": 2938,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DWWSBR26",
+      "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
+      "pct": 25,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
+      "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
+      "now": "104.48",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1214,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D3LDFKRP",
+      "name": "Cosbarn Luggage Sets",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+      "now": "104.49",
+      "was": "169.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2042,
       "tier": "premium"
      }
     ]
@@ -3052,9 +4571,68 @@
   ],
   "pets": [
    {
+    "key": "pet-cameras",
+    "label": "Pet Cameras",
+    "items": [
+     {
+      "asin": "B0F3BB8D37",
+      "name": "Blink Mini 2K+ (newest model)",
+      "pct": 60,
+      "rating": 4.4,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/51zmndEGfFL.jpg",
+      "link": "https://www.amazon.com/dp/B0F3BB8D37?tag=zoepicks00-20",
+      "now": "15.99",
+      "was": "39.99",
+      "deal": "Black Friday Deal",
+      "reviews": 10289,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0829KDY9X",
+      "name": "Tapo 1080p Pan/Tilt Security Camera",
+      "pct": 26,
+      "rating": 4.5,
+      "t": 1795200248,
+      "img": "https://m.media-amazon.com/images/I/41tRa2xorHL.jpg",
+      "link": "https://www.amazon.com/dp/B0829KDY9X?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "26.99",
+      "deal": "Black Friday Deal",
+      "reviews": 42963,
+      "tier": "mid"
+     },
+     {
+      "asin": "B08JCS7QKL",
+      "name": "LaView Security Cameras 4pcs",
+      "pct": 53,
+      "rating": 4.2,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/61x2SlR1E8L.jpg",
+      "link": "https://www.amazon.com/dp/B08JCS7QKL?tag=zoepicks00-20",
+      "now": "47.49",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 12570,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "cat-litter",
     "label": "Cat Litter",
     "items": [
+     {
+      "asin": "B07NJ5SR5G",
+      "name": "Pieviev Cat Litter Mat",
+      "pct": 19,
+      "rating": 4.4,
+      "t": 1795154995,
+      "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
+      "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
      {
       "asin": "B07GYZPM94",
       "name": "GORILLA GRIP Cat Litter Mat",
@@ -3067,15 +4645,18 @@
       "tier": "mid"
      },
      {
-      "asin": "B07NJ5SR5G",
-      "name": "Pieviev Cat Litter Mat",
-      "pct": 19,
-      "rating": 4.4,
-      "t": 1795154995,
-      "img": "https://m.media-amazon.com/images/I/71coNXh1bWL.jpg",
-      "link": "https://www.amazon.com/dp/B07NJ5SR5G?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
+      "asin": "B0GHPKXGWJ",
+      "name": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day…",
+      "pct": 24,
+      "rating": 4.1,
+      "t": 1795199831,
+      "img": "https://m.media-amazon.com/images/I/71pYVTaQGNL.jpg",
+      "link": "https://www.amazon.com/dp/B0GHPKXGWJ?tag=zoepicks00-20",
+      "now": "19.74",
+      "was": "25.99",
+      "deal": "Black Friday Deal",
+      "reviews": 12187,
+      "tier": "premium"
      }
     ]
    },
@@ -3092,7 +4673,7 @@
       "img": "https://m.media-amazon.com/images/I/81YcN9D0kmL.jpg",
       "link": "https://www.amazon.com/dp/B07NSB92RY?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
+      "tier": "mid"
      }
     ]
    },
@@ -3136,11 +4717,6 @@
     "key": "dog-stroller",
     "label": "Dog Stroller",
     "items": []
-   },
-   {
-    "key": "pet-cameras",
-    "label": "Pet Cameras",
-    "items": []
    }
   ],
   "smart_home": [
@@ -3148,6 +4724,20 @@
     "key": "security-cameras",
     "label": "Security Cameras",
     "items": [
+     {
+      "asin": "B0GZLXWN8X",
+      "name": "Blink Mini Pan-Tilt 2K+",
+      "pct": 60,
+      "rating": 4.6,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/51d8aU-vasL.jpg",
+      "link": "https://www.amazon.com/dp/B0GZLXWN8X?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "49.99",
+      "deal": "Black Friday Deal",
+      "reviews": 180,
+      "tier": "budget"
+     },
      {
       "asin": "B0B1N7LJD3",
       "name": "Blink Outdoor 4 – Wireless smart security camera",
@@ -3158,6 +4748,39 @@
       "link": "https://www.amazon.com/dp/B0B1N7LJD3?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
+     },
+     {
+      "asin": "B0F95XH6ZM",
+      "name": "Blink Outdoor 2K+ (newest model)",
+      "pct": 66,
+      "rating": 4.1,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/51gv8NP2mnL.jpg",
+      "link": "https://www.amazon.com/dp/B0F95XH6ZM?tag=zoepicks00-20",
+      "now": "30.99",
+      "was": "89.99",
+      "deal": "Black Friday Deal",
+      "reviews": 5731,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "video-doorbells",
+    "label": "Video Doorbells",
+    "items": [
+     {
+      "asin": "B0G62LKVGT",
+      "name": "Blink Wired Doorbell 2K+",
+      "pct": 56,
+      "rating": 4.2,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/51JJTKsf+uL.jpg",
+      "link": "https://www.amazon.com/dp/B0G62LKVGT?tag=zoepicks00-20",
+      "now": "21.99",
+      "was": "49.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1868
      }
     ]
    },
@@ -3165,6 +4788,34 @@
     "key": "projectors",
     "label": "Projectors",
     "items": [
+     {
+      "asin": "B0B28G5Y4R",
+      "name": "HAPPRUN Native 1080P Bluetooth Projector",
+      "pct": 48,
+      "rating": 4.3,
+      "t": 1795198440,
+      "img": "https://m.media-amazon.com/images/I/711z8yjktHL.jpg",
+      "link": "https://www.amazon.com/dp/B0B28G5Y4R?tag=zoepicks00-20",
+      "now": "56.99",
+      "was": "109.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14217,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FDQFD1R7",
+      "name": "HAPPRUN 1500 ANSI Smart Outdoor Projector",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/71MGKR6NXGL.jpg",
+      "link": "https://www.amazon.com/dp/B0FDQFD1R7?tag=zoepicks00-20",
+      "now": "151.96",
+      "was": "249.96",
+      "deal": "Black Friday Deal",
+      "reviews": 160,
+      "tier": "mid"
+     },
      {
       "asin": "B0HC72D2BH",
       "name": "Boldever Roku TV Smart-Outdoor-Projector",
@@ -3175,18 +4826,6 @@
       "link": "https://www.amazon.com/dp/B0HC72D2BH?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
-     },
-     {
-      "asin": "B0H93MFZ34",
-      "name": "Philoent Mini Projector",
-      "pct": 36,
-      "rating": 4.4,
-      "t": 1795119475,
-      "img": "https://m.media-amazon.com/images/I/81UtHNvB1gL.jpg",
-      "link": "https://www.amazon.com/dp/B0H93MFZ34?tag=zoepicks00-20",
-      "now": "69.99",
-      "was": "109.99",
-      "reviews": 8029
      }
     ]
    },
@@ -3204,8 +4843,106 @@
       "link": "https://www.amazon.com/dp/B089655HQV?tag=zoepicks00-20",
       "now": "19.99",
       "was": "39.99",
-      "reviews": 10058,
+      "reviews": 10058
+     },
+     {
+      "asin": "B0H3NHLCJ3",
+      "name": "HAPPRUN 2500 ANSI Google TV Built-in Smart Movie Projector",
+      "pct": 37,
+      "rating": 4.9,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/713kLZJgXpL.jpg",
+      "link": "https://www.amazon.com/dp/B0H3NHLCJ3?tag=zoepicks00-20",
+      "now": "379.96",
+      "was": "599.99",
+      "deal": "Black Friday Deal",
+      "reviews": 56
+     }
+    ]
+   },
+   {
+    "key": "soundbars",
+    "label": "Soundbars",
+    "items": [
+     {
+      "asin": "B0C4BZ28PG",
+      "name": "Amazon Fire TV Soundbar",
+      "pct": 38,
+      "rating": 4.2,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/71izIXUYy0L.jpg",
+      "link": "https://www.amazon.com/dp/B0C4BZ28PG?tag=zoepicks00-20",
+      "now": "74.99",
+      "was": "119.99",
+      "deal": "Black Friday Deal",
+      "reviews": 6889,
       "tier": "budget"
+     },
+     {
+      "asin": "B0CXZTT4MT",
+      "name": "Amazon Fire TV Soundbar Plus",
+      "pct": 44,
+      "rating": 4.3,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/71PmvIthA6L.jpg",
+      "link": "https://www.amazon.com/dp/B0CXZTT4MT?tag=zoepicks00-20",
+      "now": "139.99",
+      "was": "249.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2213,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09GPYL7BJ",
+      "name": "Sonos Beam Gen 2 - Black",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/51kIR1gKWYL.jpg",
+      "link": "https://www.amazon.com/dp/B09GPYL7BJ?tag=zoepicks00-20",
+      "now": "339.00",
+      "was": "499.00",
+      "deal": "Black Friday Deal",
+      "reviews": 2038,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "smart-displays",
+    "label": "Smart Displays",
+    "items": [
+     {
+      "asin": "B09B2SBHQK",
+      "name": "Amazon Echo Show 5",
+      "pct": 40,
+      "rating": 4.2,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/61gwIm-iSnL.jpg",
+      "link": "https://www.amazon.com/dp/B09B2SBHQK?tag=zoepicks00-20",
+      "now": "59.99",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 74320
+     }
+    ]
+   },
+   {
+    "key": "smart-thermostats",
+    "label": "Smart Thermostats",
+    "items": [
+     {
+      "asin": "B08J4C8871",
+      "name": "Amazon Smart Thermostat",
+      "pct": 29,
+      "rating": 4.0,
+      "t": 1795199949,
+      "img": "https://m.media-amazon.com/images/I/41Cyh8v+OjL.jpg",
+      "link": "https://www.amazon.com/dp/B08J4C8871?tag=zoepicks00-20",
+      "now": "56.99",
+      "was": "79.99",
+      "deal": "Black Friday Deal",
+      "reviews": 25698
      }
     ]
    },
@@ -3215,28 +4952,8 @@
     "items": []
    },
    {
-    "key": "smart-displays",
-    "label": "Smart Displays",
-    "items": []
-   },
-   {
-    "key": "smart-thermostats",
-    "label": "Smart Thermostats",
-    "items": []
-   },
-   {
     "key": "streaming-devices",
     "label": "Streaming Devices",
-    "items": []
-   },
-   {
-    "key": "video-doorbells",
-    "label": "Video Doorbells",
-    "items": []
-   },
-   {
-    "key": "soundbars",
-    "label": "Soundbars",
     "items": []
    }
   ],
@@ -3324,7 +5041,22 @@
       "t": 1795155117,
       "img": "https://m.media-amazon.com/images/I/71E8Cc-0ctL.jpg",
       "link": "https://www.amazon.com/dp/B0CS3B7MD8?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GGGTLJ9F",
+      "name": "AstroAI H2 Pro Cordless Tire Inflator Portable Air…",
+      "pct": 40,
+      "rating": 4.4,
+      "t": 1795200105,
+      "img": "https://m.media-amazon.com/images/I/71yWSeTLEUL.jpg",
+      "link": "https://www.amazon.com/dp/B0GGGTLJ9F?tag=zoepicks00-20",
+      "now": "37.99",
+      "was": "62.99",
+      "deal": "Black Friday Deal",
+      "reviews": 3670,
+      "tier": "mid"
      },
      {
       "asin": "B09YD2D96V",
@@ -3336,7 +5068,27 @@
       "link": "https://www.amazon.com/dp/B09YD2D96V?tag=zoepicks00-20",
       "now": "59.99",
       "was": "89.99",
-      "reviews": 6721
+      "reviews": 6721,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "obd2-scanners",
+    "label": "Obd2 Scanners",
+    "items": [
+     {
+      "asin": "B0GL9RL3XS",
+      "name": "BlueDriver OBD2 Scanner Bluetooth",
+      "pct": 26,
+      "rating": 4.5,
+      "t": 1795200105,
+      "img": "https://m.media-amazon.com/images/I/81MtYALMWyL.jpg",
+      "link": "https://www.amazon.com/dp/B0GL9RL3XS?tag=zoepicks00-20",
+      "now": "69.95",
+      "was": "94.95",
+      "deal": "Black Friday Deal",
+      "reviews": 63413
      }
     ]
    },
@@ -3361,11 +5113,6 @@
     "items": []
    },
    {
-    "key": "obd2-scanners",
-    "label": "Obd2 Scanners",
-    "items": []
-   },
-   {
     "key": "pressure-washers",
     "label": "Pressure Washers",
     "items": []
@@ -3376,6 +5123,20 @@
     "key": "baby-monitors",
     "label": "Baby Monitors",
     "items": [
+     {
+      "asin": "B0866S3D82",
+      "name": "Tapo 1080P Indoor Security Camera",
+      "pct": 32,
+      "rating": 4.4,
+      "t": 1795200248,
+      "img": "https://m.media-amazon.com/images/I/719LWqwDgVL.jpg",
+      "link": "https://www.amazon.com/dp/B0866S3D82?tag=zoepicks00-20",
+      "now": "16.99",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 29562,
+      "tier": "budget"
+     },
      {
       "asin": "B0CYCDTZ6G",
       "name": "HelloBaby 6'' No WiFi Video Baby Monitor",
@@ -3444,8 +5205,7 @@
       "t": 1795155123,
       "img": "https://m.media-amazon.com/images/I/71qhrarX+-L.jpg",
       "link": "https://www.amazon.com/dp/B076KQHGC9?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
+      "reviews": 0
      }
     ]
    },
