@@ -1,6 +1,30 @@
 {
  "v": 1,
- "types": {},
+ "types": {
+  "accessories:keyboards-typing": {
+   "label": "Keyboards Typing",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0DBG86Y9Q",
+     "name": "Gel Cloud Keyboard and Mouse Wrist Rest",
+     "pct": 20,
+     "rating": 4.4,
+     "t": 1795198175,
+     "img": "https://m.media-amazon.com/images/I/61ZaCdDBVHL.jpg",
+     "link": "https://www.amazon.com/dp/B0DBG86Y9Q?tag=zoepicks00-20",
+     "now": "23.19",
+     "was": "28.99",
+     "deal": "Black Friday Deal",
+     "reviews": 639,
+     "_title": "Gel Cloud Keyboard and Mouse Wrist Rest, Cute Wrist Support and Arm Support Keyboard Rest for Keyboard and Mouse Typing Pa...",
+     "_price": 23.19
+    }
+   ],
+   "scanned": "2026-11-20T18:09:35.364523+00:00",
+   "via": "sweep"
+  }
+ },
  "essentials": {
   "q": {
    "toilet paper": "2026-11-20T17:57:59.508846+00:00",
@@ -13525,6 +13549,16 @@
     "deal_text": "Black Friday Deal",
     "deal_checked_at": "2026-11-20T17:57:59.508846+00:00"
    }
+  }
+ },
+ "sweeps": {
+  "accessories": {
+   "at": "2026-11-20T18:09:35.364523+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 1,
+   "types": 18
   }
  }
 }
