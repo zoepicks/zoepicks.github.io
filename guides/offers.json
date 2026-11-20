@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T14:01:48Z",
+ "updated": "2026-11-20T16:01:59Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -621,16 +621,14 @@
     "tier": "mid"
    },
    {
-    "asin": "B098WVKF19",
-    "name": "REDTIGER F7NP 4K Dash Cam Front Rear",
-    "pct": 35,
-    "rating": 4.1,
-    "t": 1795168960,
-    "img": "https://m.media-amazon.com/images/I/71Eh7FYCybL.jpg",
-    "link": "https://www.amazon.com/dp/B098WVKF19?tag=zoepicks00-20",
-    "now": "109.99",
-    "was": "169.99",
-    "reviews": 26467,
+    "asin": "B0F917RFMN",
+    "name": "GREENWORKS 24V 1/2” Brushless Cordless Drill",
+    "pct": 45,
+    "rating": 4.4,
+    "t": 1795155116,
+    "img": "https://m.media-amazon.com/images/I/81w8WxnLSSL.jpg",
+    "link": "https://www.amazon.com/dp/B0F917RFMN?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -3695,16 +3693,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B08GV7DXC1",
-      "name": "Igloo Hard Cooler | Polar & Party Bar Series",
-      "pct": 34,
-      "rating": 4.6,
-      "t": 1795145924,
-      "img": "https://m.media-amazon.com/images/I/714iJ1AAVOL.jpg",
-      "link": "https://www.amazon.com/dp/B08GV7DXC1?tag=zoepicks00-20",
-      "now": "86.44",
-      "was": "129.99",
-      "reviews": 11533,
+      "asin": "B0FVF17J9F",
+      "name": "Coleman Snap 'N Go Collapsible Hard Cooler",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795142240,
+      "img": "https://m.media-amazon.com/images/I/71Mez9iJ4HL.jpg",
+      "link": "https://www.amazon.com/dp/B0FVF17J9F?tag=zoepicks00-20",
+      "now": "153.99",
+      "was": "219.99",
+      "deal": "Black Friday Deal",
+      "reviews": 615,
       "tier": "premium"
      }
     ]
@@ -3853,16 +3852,17 @@
     "label": "Adjustable Dumbbells",
     "items": [
      {
-      "asin": "B0FVBF9N46",
-      "name": "FEIERDUN 5-in-1 Adjustable Dumbbell Set",
-      "pct": 28,
-      "rating": 4.8,
-      "t": 1795060500,
-      "img": "https://m.media-amazon.com/images/I/710SBP6UooL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVBF9N46?tag=zoepicks00-20",
-      "now": "35.98",
-      "was": "49.99",
-      "reviews": 755,
+      "asin": "B0D7QPVVL3",
+      "name": "CAP 40 LB Adjustable Cement Dumbbell Set",
+      "pct": 24,
+      "rating": 4.5,
+      "t": 1795142207,
+      "img": "https://m.media-amazon.com/images/I/71W1KEFRhyL.jpg",
+      "link": "https://www.amazon.com/dp/B0D7QPVVL3?tag=zoepicks00-20",
+      "now": "18.99",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 927,
       "tier": "budget"
      },
      {
@@ -4851,24 +4851,6 @@
     ]
    },
    {
-    "key": "weighted-blanket",
-    "label": "Weighted Blanket",
-    "items": [
-     {
-      "asin": "B0CT4X5R29",
-      "name": "Wemore Weighted Blanket",
-      "pct": 25,
-      "rating": 4.7,
-      "t": 1795056815,
-      "img": "https://m.media-amazon.com/images/I/71Am55V-kJL.jpg",
-      "link": "https://www.amazon.com/dp/B0CT4X5R29?tag=zoepicks00-20",
-      "now": "34.48",
-      "was": "45.98",
-      "reviews": 1440
-     }
-    ]
-   },
-   {
     "key": "juicers",
     "label": "Juicers",
     "items": [
@@ -4944,6 +4926,11 @@
    {
     "key": "steam-mop",
     "label": "Steam Mop",
+    "items": []
+   },
+   {
+    "key": "weighted-blanket",
+    "label": "Weighted Blanket",
     "items": []
    },
    {
@@ -6132,7 +6119,8 @@
       "t": 1795155116,
       "img": "https://m.media-amazon.com/images/I/81w8WxnLSSL.jpg",
       "link": "https://www.amazon.com/dp/B0F917RFMN?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "premium"
      }
     ]
    },
@@ -6243,24 +6231,6 @@
     ]
    },
    {
-    "key": "pressure-washers",
-    "label": "Pressure Washers",
-    "items": [
-     {
-      "asin": "B09ZHG2NDM",
-      "name": "DeWalt 3300 PSI Gas Pressure Washer",
-      "pct": 20,
-      "rating": 4.2,
-      "t": 1795056798,
-      "img": "https://m.media-amazon.com/images/I/71DnH4sHrsL.jpg",
-      "link": "https://www.amazon.com/dp/B09ZHG2NDM?tag=zoepicks00-20",
-      "now": "358.00",
-      "was": "449.00",
-      "reviews": 986
-     }
-    ]
-   },
-   {
     "key": "steering-wheel-cover",
     "label": "Steering Wheel Cover",
     "items": []
@@ -6278,6 +6248,11 @@
    {
     "key": "lawn-mowers",
     "label": "Lawn Mowers",
+    "items": []
+   },
+   {
+    "key": "pressure-washers",
+    "label": "Pressure Washers",
     "items": []
    }
   ],
