@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-20T00:33:02Z",
+ "updated": "2026-11-20T04:33:31Z",
  "cats": [
   {
    "key": "fashion",
@@ -73,6 +73,18 @@
     "link": "https://www.amazon.com/dp/B0F9QR4JPT?tag=zoepicks00-20",
     "now": "56.00",
     "was": "140.00",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B0FM28JLHG",
+    "name": "ordele Electric Shavers",
+    "pct": 36,
+    "rating": 4.5,
+    "t": 1795144991,
+    "img": "https://m.media-amazon.com/images/I/713KQDaFLRL.jpg",
+    "link": "https://www.amazon.com/dp/B0FM28JLHG?tag=zoepicks00-20",
+    "now": "15.38",
+    "was": "23.99",
     "cat": "beauty"
    }
   ],
