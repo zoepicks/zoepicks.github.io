@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-20T11:04:19.880378+00:00",
+ "generated_at": "2026-11-20T23:28:29.634557+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,9 +10,9 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 37
+   "low": 41
   },
-  "avg_guide_words": 941,
+  "avg_guide_words": 940,
   "todo": [
    {
     "sev": "high",
@@ -51,13 +51,14 @@
    {
     "sev": "low",
     "code": "slow_page",
-    "count": 2,
+    "count": 6,
     "fix": "Slow pages ki images/HTML size kam karo.",
     "example": [
-     "/g/best-gaming-gpu-2026/",
-     "/g/best-smartphones-2026/"
+     "/g/best-standing-desks-2026/",
+     "/g/best-smart-displays-2026/",
+     "/g/best-mesh-wi-fi-systems-2026/"
     ],
-    "detail": "load 3.01s"
+    "detail": "load 3.69s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -73,21 +74,21 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-20T04:59:07.597155+00:00",
+    "t": "2026-11-20T17:07:47.459594+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-20T08:00:48.813731+00:00",
+    "t": "2026-11-20T20:09:20.540531+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-20T11:04:14.206998+00:00",
+    "t": "2026-11-20T23:10:56.747478+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
@@ -97,9 +98,9 @@
  },
  "traffic": {
   "today_visitors": 1,
-  "today_views": 2,
+  "today_views": 3,
   "total_visitors": 127,
-  "total_views": 863,
+  "total_views": 864,
   "since": "2026-10-16",
   "last7": [
    {
@@ -141,37 +142,43 @@
    {
     "day": "2026-11-20",
     "visitors": 1,
-    "views": 2,
+    "views": 3,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 23,
-   "warn": 1,
+   "info": 63,
+   "warn": 6,
    "error": 0
   },
   "last7d": {
-   "info": 671,
-   "warn": 38,
+   "info": 711,
+   "warn": 43,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 38
+    "warnings": 41
    }
   ],
   "collector": {
    "today": {
-    "total": 2,
-    "ok": 0,
-    "failed": 2,
+    "total": 6,
+    "ok": 3,
+    "failed": 3,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 475,
+      "at": "2026-11-20T22:33:55Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44829985479"
+     },
      {
       "run": 471,
       "at": "2026-11-20T10:33:23Z",
@@ -187,9 +194,9 @@
     ]
    },
    "last7d": {
-    "total": 82,
-    "ok": 17,
-    "failed": 65,
+    "total": 86,
+    "ok": 20,
+    "failed": 66,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -258,8 +265,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 80,
-    "ok": 79,
+    "total": 108,
+    "ok": 107,
     "failed": 1,
     "cancelled": 0,
     "running": 0,
@@ -336,9 +343,14 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEDEALSCAN",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe deal scan: could not read guides/offers-scan.json: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "module": "ZOEHOT",
+    "level": "w",
+    "msg": "zoe hot: CI essentials rows unavailable: Expecting value: line 1 column 1 (char 0)"
    },
    {
     "module": "ZOESEO",
@@ -348,17 +360,12 @@
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "SEO: 3 HIGH issue(s): http_error, contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
     "level": "w",
-    "msg": "SEO heartbeat write failed: GitHub PUT contents/plan/seo-heartbeat.json -> 409: {\"message\":\"is at 04addfe0c5948b17ac9defe36ac21a08a25deaa2 but expected 1100af57"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "Claude brief write failed: GitHub PUT contents/plan/brief-history.json -> 409: {\"message\":\"is at cace4fdbe3cd1844f46f878019e2787cf60ba34e but expected bd16ea483"
    },
    {
     "module": "ZOESEO",
@@ -370,14 +377,14 @@
  "content": {
   "live_guides": 288,
   "missing_topics_by_status": {
-   "covered": 37,
    "built": 23,
-   "queued": 140
+   "queued": 141,
+   "covered": 36
   },
   "missing_new": {
-   "today": 0,
-   "d7": 133,
-   "d30": 175
+   "today": 3,
+   "d7": 112,
+   "d30": 172
   },
   "open_topics": []
  },
@@ -388,19 +395,13 @@
   "inspected": 150,
   "states": {
    "Submitted and indexed": 1,
-   "URL is unknown to Google": 123,
-   "ERROR": 26
+   "URL is unknown to Google": 149
   },
   "diagnosis": [
    {
     "state": "URL is unknown to Google",
-    "pages": 123,
+    "pages": 149,
     "fix": "Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta)."
-   },
-   {
-    "state": "ERROR",
-    "pages": 26,
-    "fix": "Google ka reason dekho: ERROR"
    }
   ],
   "not_indexed": [
@@ -501,18 +502,18 @@
    },
    {
     "u": "/g/best-protein-powder-2026/",
-    "why": "HTTPSConnectionPool(host='searchconsole.googleapis.com', port=443): Read timed out. (read timeout=30",
-    "crawled": null
+    "why": "URL is unknown to Google",
+    "crawled": ""
    },
    {
     "u": "/g/best-dog-food-2026/",
-    "why": "HTTPSConnectionPool(host='searchconsole.googleapis.com', port=443): Read timed out. (read timeout=30",
-    "crawled": null
+    "why": "URL is unknown to Google",
+    "crawled": ""
    },
    {
     "u": "/g/best-gaming-gpu-2026/",
-    "why": "HTTPSConnectionPool(host='searchconsole.googleapis.com', port=443): Read timed out. (read timeout=30",
-    "crawled": null
+    "why": "URL is unknown to Google",
+    "crawled": ""
    },
    {
     "u": "/g/best-mac-mini-vs-imac-2026/",
@@ -543,7 +544,7 @@
    "https://zoepicks.github.io/g/best-plush-toy-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-19T22:27",
+   "last_submitted": "2026-11-20T23:10",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -556,11 +557,6 @@
    "clicks_28d": 0,
    "impressions_28d": 3,
    "last_days": [
-    {
-     "d": "2026-11-11",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-11-12",
      "clicks": 0,
@@ -590,6 +586,11 @@
      "d": "2026-11-17",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-18",
+     "clicks": 0,
+     "impr": 0
     }
    ],
    "top_pages": [
@@ -607,13 +608,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-11-06",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 3
-   },
    {
     "d": "2026-11-07",
     "indexed": 1,
@@ -704,6 +698,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-20",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 3
    }
   ],
   "sitemap_check": {
@@ -711,7 +712,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-19T22:27",
+    "last_submitted": "2026-11-20T23:10",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -727,8 +728,8 @@
     "live_pages_crawled": 294
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
@@ -737,8 +738,7 @@
  "suggested_focus": [
   "Sitemap Google me OK nahi (pending): Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
   "Google ne 150 me se 149 pages abhi index nahi kiye - search_console.not_indexed me wajah dekho (naya site hai to time lagta hai).",
-  "Google reason 'URL is unknown to Google' (123 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
-  "Google reason 'ERROR' (26 pages): Google ka reason dekho: ERROR",
+  "Google reason 'URL is unknown to Google' (149 pages): Sitemap ki dikkat: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai. Internal links badhte rehna chahiye; 'Request indexing' sirf optional speed-up hai (Google ise API se allow nahi karta).",
   "Contact email abhi placeholder hai - owner se email lekar contact.html/privacy.html me lagao (AdSense blocker).",
   "Collector runs fail hue - GitHub Actions logs check karo.",
   "Traffic bahut kam (7 din me <20 visitors) - indexing/backlinks/social distribution pe kaam karo, AdSense ke liye traffic bhi chahiye."
