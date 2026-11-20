@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-20T03:28:44Z",
+ "updated": "2026-11-20T05:28:58Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -253,6 +253,20 @@
    "tier": "premium"
   },
   {
+   "asin": "B01CS31NV6",
+   "name": "NICETOWN Thermal Insulated Grommet Blackout Curtains",
+   "pct": 56,
+   "rating": 4.6,
+   "t": 1795145531,
+   "img": "https://m.media-amazon.com/images/I/61XwmZLvaNL.jpg",
+   "link": "https://www.amazon.com/dp/B01CS31NV6?tag=zoepicks00-20",
+   "now": "10.40",
+   "was": "23.45",
+   "deal": "Black Friday Deal",
+   "reviews": 134845,
+   "tier": "budget"
+  },
+  {
    "asin": "B098JNG3M7",
    "name": "SCODI Hoodies for Men Zip Up Heavyweight Fleece Sweatshirt…",
    "pct": 57,
@@ -264,6 +278,20 @@
    "was": "75.99",
    "reviews": 0,
    "tier": "premium"
+  },
+  {
+   "asin": "B01EN6LTBA",
+   "name": "Razor Scooter A3 Model Kick Scooter",
+   "pct": 53,
+   "rating": 4.8,
+   "t": 1795145450,
+   "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
+   "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
+   "now": "28.28",
+   "was": "59.99",
+   "deal": "Black Friday Deal",
+   "reviews": 4527,
+   "tier": "budget"
   },
   {
    "asin": "B0HCNB82DM",
@@ -388,33 +416,6 @@
    "was": "69.99",
    "deal": "Black Friday Deal",
    "reviews": 2588
-  },
-  {
-   "asin": "B07P1SFHK3",
-   "name": "MATEIN Carry on Backpack",
-   "pct": 51,
-   "rating": 4.7,
-   "t": 1795139999,
-   "img": "https://m.media-amazon.com/images/I/7102m7fZj0L.jpg",
-   "link": "https://www.amazon.com/dp/B07P1SFHK3?tag=zoepicks00-20",
-   "now": "21.37",
-   "was": "43.97",
-   "deal": "Black Friday Deal",
-   "reviews": 15046,
-   "tier": "mid"
-  },
-  {
-   "asin": "B08FPBY5XD",
-   "name": "Intelligent Design Queen Comforter Set",
-   "pct": 53,
-   "rating": 4.5,
-   "t": 1795036993,
-   "img": "https://m.media-amazon.com/images/I/91p4VZb+SSL.jpg",
-   "link": "https://www.amazon.com/dp/B08FPBY5XD?tag=zoepicks00-20",
-   "now": "23.93",
-   "was": "50.99",
-   "reviews": 2615,
-   "tier": "budget"
   }
  ],
  "ess": [
@@ -630,6 +631,20 @@
    "icon": "⚡"
   },
   {
+   "asin": "B0D2292JM9",
+   "name": "ONCAI Women's Flip Flops Comfortable Arch Support Yoga Mat…",
+   "pct": 47,
+   "rating": 4.3,
+   "t": 1795145942,
+   "img": "https://m.media-amazon.com/images/I/71iVIX1IyIL.jpg",
+   "link": "https://www.amazon.com/dp/B0D2292JM9?tag=zoepicks00-20",
+   "now": "13.28",
+   "was": "24.99",
+   "cat": "fitness",
+   "label": "Fitness basics",
+   "icon": "🏃"
+  },
+  {
    "asin": "B01EOWEC8A",
    "name": "McCormick Grill Mates Brown Sugar Bourbon Seasoning",
    "pct": 47,
@@ -732,21 +747,6 @@
    "cat": "cat",
    "label": "Cat food & litter",
    "icon": "🐱"
-  },
-  {
-   "asin": "B0D8RTHJDX",
-   "name": "CAP Rubber Coated Dumbbell Weights",
-   "pct": 38,
-   "rating": 4.6,
-   "t": 1795110911,
-   "img": "https://m.media-amazon.com/images/I/81QeMo5Z2EL.jpg",
-   "link": "https://www.amazon.com/dp/B0D8RTHJDX?tag=zoepicks00-20",
-   "now": "28.98",
-   "was": "46.99",
-   "deal": "Black Friday Deal",
-   "cat": "fitness",
-   "label": "Fitness basics",
-   "icon": "🏃"
   },
   {
    "asin": "B00UZX8V0S",
@@ -1085,6 +1085,21 @@
    "icon": "🥤"
   },
   {
+   "asin": "B0D8RTHJDX",
+   "name": "CAP Rubber Coated Dumbbell Weights",
+   "pct": 38,
+   "rating": 4.6,
+   "t": 1795110911,
+   "img": "https://m.media-amazon.com/images/I/81QeMo5Z2EL.jpg",
+   "link": "https://www.amazon.com/dp/B0D8RTHJDX?tag=zoepicks00-20",
+   "now": "28.98",
+   "was": "46.99",
+   "deal": "Black Friday Deal",
+   "cat": "fitness",
+   "label": "Fitness basics",
+   "icon": "🏃"
+  },
+  {
    "asin": "B0DTY7W97L",
    "name": "Govee E12 Led Bulb",
    "pct": 40,
@@ -1098,21 +1113,6 @@
    "cat": "bulbs",
    "label": "Light bulbs",
    "icon": "💡"
-  },
-  {
-   "asin": "B0BYFLL1LV",
-   "name": "Gaiam Dry-Grip Yoga Mat",
-   "pct": 34,
-   "rating": 4.2,
-   "t": 1795110911,
-   "img": "https://m.media-amazon.com/images/I/81Lo9SozfQL.jpg",
-   "link": "https://www.amazon.com/dp/B0BYFLL1LV?tag=zoepicks00-20",
-   "now": "33.21",
-   "was": "49.94",
-   "deal": "Black Friday Deal",
-   "cat": "fitness",
-   "label": "Fitness basics",
-   "icon": "🏃"
   },
   {
    "asin": "B01HIUTCTY",
@@ -1452,6 +1452,20 @@
    "icon": "🪒"
   },
   {
+   "asin": "B0DRGGX9ZJ",
+   "name": "HMLHML Mens Recovery Slides",
+   "pct": 53,
+   "rating": 4.4,
+   "t": 1795148745,
+   "img": "https://m.media-amazon.com/images/I/51ZQcBCdlUL.jpg",
+   "link": "https://www.amazon.com/dp/B0DRGGX9ZJ?tag=zoepicks00-20",
+   "now": "14.24",
+   "was": "29.99",
+   "cat": "shoes",
+   "label": "Shoes",
+   "icon": "👟"
+  },
+  {
    "asin": "B0FDBJML3F",
    "name": "PROJECT CLOUD Kids Boots 100% Genuine Leather Fur-Lined…",
    "pct": 52,
@@ -1461,6 +1475,20 @@
    "link": "https://www.amazon.com/dp/B0FDBJML3F?tag=zoepicks00-20",
    "now": "42.90",
    "was": "89.99",
+   "cat": "shoes",
+   "label": "Shoes",
+   "icon": "👟"
+  },
+  {
+   "asin": "B0CNYDR78V",
+   "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
+   "pct": 50,
+   "rating": 4.3,
+   "t": 1795148738,
+   "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
+   "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
+   "now": "20.10",
+   "was": "39.90",
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
