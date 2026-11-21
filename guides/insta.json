@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-20T22:35:39Z",
+ "updated": "2026-11-21T00:35:50Z",
  "cats": [
   {
    "key": "fashion",
@@ -98,18 +98,6 @@
     "cat": "fashion"
    },
    {
-    "asin": "B0CNBCZGRZ",
-    "name": "THE NORTH FACE Recon Everyday Laptop Backpack",
-    "pct": 30,
-    "rating": 4.7,
-    "t": 1795198510,
-    "img": "https://m.media-amazon.com/images/I/81-9WJkkB3L.jpg",
-    "link": "https://www.amazon.com/dp/B0CNBCZGRZ?tag=zoepicks00-20",
-    "now": "87.50",
-    "was": "125.00",
-    "cat": "fashion"
-   },
-   {
     "asin": "B0DBHGRDCH",
     "name": "IUGA Compression Leggings",
     "pct": 31,
@@ -179,6 +167,18 @@
     "link": "https://www.amazon.com/dp/B0FYR14JVY?tag=zoepicks00-20",
     "now": "32.23",
     "was": "42.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B092TQG5ZD",
+    "name": "DUSLANG 17 inch Travel Laptop Backpack",
+    "pct": 24,
+    "rating": 4.7,
+    "t": 1795198510,
+    "img": "https://m.media-amazon.com/images/I/810gZYpPz9L.jpg",
+    "link": "https://www.amazon.com/dp/B092TQG5ZD?tag=zoepicks00-20",
+    "now": "24.22",
+    "was": "31.99",
     "cat": "fashion"
    },
    {
@@ -642,18 +642,6 @@
     "cat": "home"
    },
    {
-    "asin": "B0HQ66R9PL",
-    "name": "VILASOAR 14 Inch Full Mattress",
-    "pct": 31,
-    "rating": 4.6,
-    "t": 1795198693,
-    "img": "https://m.media-amazon.com/images/I/81khI4bCOoL.jpg",
-    "link": "https://www.amazon.com/dp/B0HQ66R9PL?tag=zoepicks00-20",
-    "now": "246.99",
-    "was": "359.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0DQG2VHKJ",
     "name": "Titanium Cutting Board",
     "pct": 32,
@@ -663,18 +651,6 @@
     "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
     "now": "26.59",
     "was": "38.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0GZ2BCN74",
-    "name": "Full Size Mattress",
-    "pct": 30,
-    "rating": 4.4,
-    "t": 1795198693,
-    "img": "https://m.media-amazon.com/images/I/81o5yQ+AlmL.jpg",
-    "link": "https://www.amazon.com/dp/B0GZ2BCN74?tag=zoepicks00-20",
-    "now": "209.99",
-    "was": "299.99",
     "cat": "home"
    },
    {
@@ -784,33 +760,32 @@
     "now": "18.99",
     "was": "24.29",
     "cat": "home"
-   }
-  ],
-  "kids": [
-   {
-    "asin": "B08XTG3QSF",
-    "name": "Melissa & Doug PAW Patrol Pup Pack Backpack",
-    "pct": 50,
-    "rating": 4.7,
-    "t": 1795090328,
-    "img": "https://m.media-amazon.com/images/I/81IzEmhj9aS.jpg",
-    "link": "https://www.amazon.com/dp/B08XTG3QSF?tag=zoepicks00-20",
-    "now": "23.49",
-    "was": "46.99",
-    "cat": "kids"
    },
    {
-    "asin": "B0DBLGKJ39",
-    "name": "festooning Boys Girls Winter Snow Boots Waterproof Outdoor…",
-    "pct": 23,
-    "rating": 4.7,
-    "t": 1795090304,
-    "img": "https://m.media-amazon.com/images/I/81Hc0C26NeL.jpg",
-    "link": "https://www.amazon.com/dp/B0DBLGKJ39?tag=zoepicks00-20",
-    "now": "19.99",
-    "was": "29.99",
-    "cat": "kids"
+    "asin": "B0FV8DR9GV",
+    "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
+    "pct": 21,
+    "rating": 4.4,
+    "t": 1795137492,
+    "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
+    "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
+    "now": "205.19",
+    "was": "259.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0HPTDS5M6",
+    "name": "JEEKEA Queen Mattress 12 Inch",
+    "pct": 20,
+    "rating": 4.6,
+    "t": 1795198693,
+    "img": "https://m.media-amazon.com/images/I/81K7o+FeEmL.jpg",
+    "link": "https://www.amazon.com/dp/B0HPTDS5M6?tag=zoepicks00-20",
+    "now": "254.79",
+    "was": "319.79",
+    "cat": "home"
    }
-  ]
+  ],
+  "kids": []
  }
 }
