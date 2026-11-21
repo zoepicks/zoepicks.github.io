@@ -4345,25 +4345,40 @@
   },
   "pets:cat-litter": {
    "label": "Cat Litter",
-   "tries": 1,
+   "tries": 2,
    "items": [
+    {
+     "asin": "B005F6EIBG",
+     "name": "Boxie Premium Unscented Clumping Cat Litter 30+ Day Odor…",
+     "pct": 28,
+     "rating": 4.2,
+     "t": 1795278465,
+     "img": "https://m.media-amazon.com/images/I/613pXXR0QpL.jpg",
+     "link": "https://www.amazon.com/dp/B005F6EIBG?tag=zoepicks00-20",
+     "now": "15.18",
+     "was": "20.99",
+     "deal": "Black Friday Deal",
+     "reviews": 10046,
+     "_title": "Boxie Premium Unscented Clumping Cat Litter 30+ Day Odor Control 16 lb | Hard Flat Top clumps stay on top for faster scoop...",
+     "_price": 15.18
+    },
     {
      "asin": "B0GHPKXGWJ",
      "name": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day…",
      "pct": 24,
      "rating": 4.1,
-     "t": 1795199831,
+     "t": 1795278465,
      "img": "https://m.media-amazon.com/images/I/71pYVTaQGNL.jpg",
      "link": "https://www.amazon.com/dp/B0GHPKXGWJ?tag=zoepicks00-20",
      "now": "19.74",
      "was": "25.99",
      "deal": "Black Friday Deal",
-     "reviews": 12187,
+     "reviews": 12193,
      "_title": "BoxiePro Bot Probiotic Cat Litter Automatic Box 40+ Day Odor Control 16 lb | Fast clumps resist sticking, smearing, and br...",
      "_price": 19.74
     }
    ],
-   "scanned": "2026-11-20T18:37:11.911505+00:00",
+   "scanned": "2026-11-21T16:27:45.999814+00:00",
    "via": "sweep"
   },
   "smart_home:4k-tvs": {
@@ -8966,6 +8981,29 @@
     }
    ],
    "scanned": "2026-11-21T16:17:55.143207+00:00",
+   "via": "sweep"
+  },
+  "pets:dog-food": {
+   "label": "Dog Food",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0C2H8L94B",
+     "name": "Amazon Basics Wet Dog Food Variety Pack",
+     "pct": 15,
+     "rating": 4.4,
+     "t": 1795278465,
+     "img": "https://m.media-amazon.com/images/I/7122HHLbdfL.jpg",
+     "link": "https://www.amazon.com/dp/B0C2H8L94B?tag=zoepicks00-20",
+     "now": "14.32",
+     "was": "16.85",
+     "deal": "Black Friday Deal",
+     "reviews": 1374,
+     "_title": "Amazon Basics Wet Dog Food Variety Pack, Country Stew Flavor and Cuts in Gravy with Beef, Made with Natural Ingredients, 1...",
+     "_price": 14.32
+    }
+   ],
+   "scanned": "2026-11-21T16:27:45.999814+00:00",
    "via": "sweep"
   }
  },
@@ -25301,11 +25339,11 @@
    "types": 3
   },
   "pets": {
-   "at": "2026-11-20T18:37:11.911505+00:00",
-   "pages": 3,
-   "cards": 72,
-   "offer_cards": 72,
-   "types_hit": 1,
+   "at": "2026-11-21T16:27:45.999814+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 2,
    "types": 9
   },
   "smart_home": {
