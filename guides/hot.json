@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T00:00:46Z",
+ "updated": "2026-11-21T02:01:02Z",
  "hot": [
   {
    "asin": "B0HNJF823S",
@@ -158,28 +158,13 @@
    "name": "Stellar Blade - PlayStation 5",
    "pct": 57,
    "rating": 4.8,
-   "t": 1795198843,
+   "t": 1795216242,
    "img": "https://m.media-amazon.com/images/I/81nygCl+G3L.jpg",
    "link": "https://www.amazon.com/dp/B0CTVK7GBM?tag=zoepicks00-20",
    "now": "29.97",
    "was": "69.99",
-   "deal": "Black Friday Deal",
    "reviews": 1596,
    "tier": "budget"
-  },
-  {
-   "asin": "B0HK3V2GCT",
-   "name": "Tensky Smart Watch",
-   "pct": 57,
-   "rating": 4.8,
-   "t": 1795199298,
-   "img": "https://m.media-amazon.com/images/I/617gZ5DhKeL.jpg",
-   "link": "https://www.amazon.com/dp/B0HK3V2GCT?tag=zoepicks00-20",
-   "now": "42.55",
-   "was": "99.99",
-   "deal": "Black Friday Deal",
-   "reviews": 26,
-   "tier": "premium"
   },
   {
    "asin": "B0F95XH6ZM",
@@ -359,20 +344,6 @@
    "tier": "mid"
   },
   {
-   "asin": "B0DX2DPJZ5",
-   "name": "Samsung SSD 9100 PRO 2TB",
-   "pct": 49,
-   "rating": 4.7,
-   "t": 1795200572,
-   "img": "https://m.media-amazon.com/images/I/71qygJIcKnL.jpg",
-   "link": "https://www.amazon.com/dp/B0DX2DPJZ5?tag=zoepicks00-20",
-   "now": "349.99",
-   "was": "679.97",
-   "deal": "Black Friday Deal",
-   "reviews": 2088,
-   "tier": "premium"
-  },
-  {
    "asin": "B00HFQQ0VU",
    "name": "Waterpik Aquarius Countertop Water Flosser",
    "pct": 50,
@@ -412,6 +383,33 @@
    "deal": "Black Friday Deal",
    "reviews": 7609,
    "tier": "budget"
+  },
+  {
+   "asin": "B08DXN4RR4",
+   "name": "Snug Leaves Women's Fuzzy Scuff Slippers Memory Foam…",
+   "pct": 49,
+   "rating": 4.6,
+   "t": 1795198510,
+   "img": "https://m.media-amazon.com/images/I/81Z1oWsl4hL.jpg",
+   "link": "https://www.amazon.com/dp/B08DXN4RR4?tag=zoepicks00-20",
+   "now": "12.63",
+   "was": "24.99",
+   "deal": "Black Friday Deal",
+   "reviews": 14593
+  },
+  {
+   "asin": "B08JCS7QKL",
+   "name": "LaView Security Cameras 4pcs",
+   "pct": 53,
+   "rating": 4.2,
+   "t": 1795199949,
+   "img": "https://m.media-amazon.com/images/I/61x2SlR1E8L.jpg",
+   "link": "https://www.amazon.com/dp/B08JCS7QKL?tag=zoepicks00-20",
+   "now": "47.49",
+   "was": "99.99",
+   "deal": "Black Friday Deal",
+   "reviews": 12570,
+   "tier": "premium"
   }
  ],
  "ess": [
@@ -1858,20 +1856,6 @@
    "icon": "🦃"
   },
   {
-   "asin": "B0DBLGKJ39",
-   "name": "festooning Boys Girls Winter Snow Boots Waterproof Outdoor…",
-   "pct": 23,
-   "rating": 4.7,
-   "t": 1795090304,
-   "img": "https://m.media-amazon.com/images/I/81Hc0C26NeL.jpg",
-   "link": "https://www.amazon.com/dp/B0DBLGKJ39?tag=zoepicks00-20",
-   "now": "19.99",
-   "was": "29.99",
-   "theme": "winter",
-   "label": "Winter ready",
-   "icon": "🧣"
-  },
-  {
    "asin": "B09GYLVDVB",
    "name": "Gift Baskets for Men",
    "pct": 21,
@@ -1945,6 +1929,21 @@
    "theme": "christmas",
    "label": "Christmas gifts",
    "icon": "🎁"
+  },
+  {
+   "asin": "B0CH5QW5DX",
+   "name": "Alvada Mens Merino Wool Crew Socks Thermal and Warm Socks",
+   "pct": 19,
+   "rating": 4.5,
+   "t": 1795197479,
+   "img": "https://m.media-amazon.com/images/I/91LgxO+8F+L.jpg",
+   "link": "https://www.amazon.com/dp/B0CH5QW5DX?tag=zoepicks00-20",
+   "now": "12.10",
+   "was": "14.99",
+   "deal": "Black Friday Deal",
+   "theme": "winter",
+   "label": "Winter ready",
+   "icon": "🧣"
   }
  ],
  "themes": [
