@@ -3,14 +3,14 @@
  "types": {
   "accessories:keyboards-typing": {
    "label": "Keyboards Typing",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
      "asin": "B0DBG86Y9Q",
      "name": "Gel Cloud Keyboard and Mouse Wrist Rest",
      "pct": 20,
      "rating": 4.4,
-     "t": 1795198175,
+     "t": 1795276845,
      "img": "https://m.media-amazon.com/images/I/61ZaCdDBVHL.jpg",
      "link": "https://www.amazon.com/dp/B0DBG86Y9Q?tag=zoepicks00-20",
      "now": "23.19",
@@ -21,7 +21,7 @@
      "_price": 23.19
     }
    ],
-   "scanned": "2026-11-20T18:09:35.364523+00:00",
+   "scanned": "2026-11-21T16:00:45.568459+00:00",
    "via": "sweep"
   },
   "beauty_health:eye-makeup": {
@@ -5937,130 +5937,41 @@
   },
   "accessories:wireless-mouse": {
    "label": "Wireless Mouse",
-   "tries": 1,
+   "tries": 2,
    "items": [
     {
-     "asin": "B00M55BIXG",
-     "name": "Logitech M317 Compact Ambidextrous 2.4 GHz Wireless Mouse",
-     "pct": 48,
-     "rating": 4.5,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/71aeNguWgrL.jpg",
-     "link": "https://www.amazon.com/dp/B00M55BIXG?tag=zoepicks00-20",
-     "now": "11.98",
-     "was": "22.99",
-     "deal": "Black Friday Deal",
-     "reviews": 12276,
-     "_title": "Logitech M317 Compact Ambidextrous 2.4 GHz Wireless Mouse - Black | Ambidextrous with 2.4 GHz USB-A Nano Receiver, 1000 dp...",
-     "_price": 11.98
-    },
-    {
-     "asin": "B07CMS5Q6P",
-     "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
-     "pct": 46,
-     "rating": 4.6,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/51sg9BLSMTL.jpg",
-     "link": "https://www.amazon.com/dp/B07CMS5Q6P?tag=zoepicks00-20",
-     "now": "26.99",
-     "was": "49.99",
-     "deal": "Black Friday Deal",
-     "reviews": 40749,
-     "_title": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse, Hero 12K Sensor - Black | 12,000 DPI, lightweight, 6 programmable buttons,...",
-     "_price": 26.99
-    },
-    {
-     "asin": "B0BXNR9DB6",
-     "name": "Logitech M240 Compact Silent Bluetooth Wireless Mouse",
-     "pct": 43,
+     "asin": "B07VD4Q84X",
+     "name": "Logitech MK470 Slim Wireless Combo Compact Keyboard and…",
+     "pct": 37,
      "rating": 4.4,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/51+zmcWK3cL.jpg",
-     "link": "https://www.amazon.com/dp/B0BXNR9DB6?tag=zoepicks00-20",
-     "now": "12.99",
-     "was": "22.99",
-     "deal": "Black Friday Deal",
-     "reviews": 12212,
-     "_title": "Logitech M240 Compact Silent Bluetooth Wireless Mouse - Graphite | Bluetooth connectivity, no USB receiver, quiet clicks, ...",
-     "_price": 12.99
-    },
-    {
-     "asin": "B09Y8K2HJN",
-     "name": "HP X3000 G3 Wireless Mouse",
-     "pct": 42,
-     "rating": 4.5,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/610qzHRTFOL.jpg",
-     "link": "https://www.amazon.com/dp/B09Y8K2HJN?tag=zoepicks00-20",
-     "now": "10.99",
-     "was": "18.99",
-     "deal": "Black Friday Deal",
-     "reviews": 11151,
-     "_title": "HP X3000 G3 Wireless Mouse - Black, 15-Month Battery, Side Grips for Control, Travel-Friendly, Blue LED, Powerful 1600 DPI...",
-     "_price": 10.99
-    },
-    {
-     "asin": "B01JPOLKDW",
-     "name": "Logitech M330 Silent Plus Full Size 2.4 GHz Wireless Mouse",
-     "pct": 35,
-     "rating": 4.5,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/61qm452yy-L.jpg",
-     "link": "https://www.amazon.com/dp/B01JPOLKDW?tag=zoepicks00-20",
-     "now": "14.99",
-     "was": "22.99",
-     "deal": "Black Friday Deal",
-     "reviews": 25327,
-     "_title": "Logitech M330 Silent Plus Full Size 2.4 GHz Wireless Mouse - Black | Silent, lightweight, 2.4 GHz USB-A Nano Receiver, 100...",
-     "_price": 14.99
-    },
-    {
-     "asin": "B087Z733CM",
-     "name": "Logitech M705 Marathon Full Size 2.4 GHz Wireless Mouse",
-     "pct": 29,
-     "rating": 4.5,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/51TkFs1HUqL.jpg",
-     "link": "https://www.amazon.com/dp/B087Z733CM?tag=zoepicks00-20",
-     "now": "28.48",
-     "was": "39.99",
-     "deal": "Black Friday Deal",
-     "reviews": 12388,
-     "_title": "Logitech M705 Marathon Full Size 2.4 GHz Wireless Mouse - Black | Hyper-fast wheel, USB-A Nano Receiver, 5 customizable bu...",
-     "_price": 28.48
-    },
-    {
-     "asin": "B0BBQ3ZYNY",
-     "name": "Logitech Ergo M575S Wireless Bluetooth Trackball Mouse",
-     "pct": 24,
-     "rating": 4.5,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/51ncb3XF4ML.jpg",
-     "link": "https://www.amazon.com/dp/B0BBQ3ZYNY?tag=zoepicks00-20",
-     "now": "37.98",
+     "t": 1795276845,
+     "img": "https://m.media-amazon.com/images/I/617Z1AjGmgL.jpg",
+     "link": "https://www.amazon.com/dp/B07VD4Q84X?tag=zoepicks00-20",
+     "now": "31.34",
      "was": "49.99",
      "deal": "Black Friday Deal",
-     "reviews": 2585,
-     "_title": "Logitech Ergo M575S Wireless Bluetooth Trackball Mouse - Graphite Blue Ball | Easy thumb control, precise and smooth track...",
-     "_price": 37.98
+     "reviews": 8381,
+     "_title": "Logitech MK470 Slim Wireless Combo Compact Keyboard and Mouse - Graphite | Compact low-profile quiet keyboard, slim ambide...",
+     "_price": 31.34
     },
     {
-     "asin": "B0G12HGHGM",
-     "name": "Logitech G PRO X2 SUPERSTRIKE Wireless Gaming Mouse",
-     "pct": 17,
-     "rating": 4.6,
-     "t": 1795223437,
-     "img": "https://m.media-amazon.com/images/I/51+51Ur4jzL.jpg",
-     "link": "https://www.amazon.com/dp/B0G12HGHGM?tag=zoepicks00-20",
-     "now": "149.99",
-     "was": "179.99",
+     "asin": "B0DDT75R2R",
+     "name": "Wireless Keyboard and Mouse Combo Silent",
+     "pct": 15,
+     "rating": 4.2,
+     "t": 1795276845,
+     "img": "https://m.media-amazon.com/images/I/71vulVx1+8L.jpg",
+     "link": "https://www.amazon.com/dp/B0DDT75R2R?tag=zoepicks00-20",
+     "now": "16.99",
+     "was": "19.99",
      "deal": "Black Friday Deal",
-     "reviews": 804,
-     "_title": "Logitech G PRO X2 SUPERSTRIKE Wireless Gaming Mouse - Black/White | Customizable Rapid Trigger Magnetic Analog Switches, A...",
-     "_price": 149.99
+     "reviews": 3262,
+     "_title": "Wireless Keyboard and Mouse Combo Silent for Office and Home(Avocado Green) | 2.4G Full Size Silent Cordless Keyboard with...",
+     "_price": 16.99
     }
    ],
-   "scanned": "2026-11-21T01:10:37.747699+00:00"
+   "scanned": "2026-11-21T16:00:45.568459+00:00",
+   "via": "sweep"
   },
   "beauty_health:deodorants": {
    "label": "Deodorants",
@@ -25233,11 +25144,11 @@
  },
  "sweeps": {
   "accessories": {
-   "at": "2026-11-20T18:09:35.364523+00:00",
+   "at": "2026-11-21T16:00:45.568459+00:00",
    "pages": 5,
    "cards": 120,
    "offer_cards": 120,
-   "types_hit": 1,
+   "types_hit": 2,
    "types": 18
   },
   "beauty_health": {
