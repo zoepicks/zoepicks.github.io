@@ -1,81 +1,5 @@
 [
  {
-  "t": "2026-11-13T03:12:50.442629+00:00",
-  "score": 94,
-  "pages": 296,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 38
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx19",
-   "title_lengthx16",
-   "slow_pagex3"
-  ],
-  "avg_words": 948,
-  "why": "schedule",
-  "indexnow": 0
- },
- {
-  "t": "2026-11-13T06:16:34.612374+00:00",
-  "score": 94,
-  "pages": 296,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 38
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx19",
-   "title_lengthx16",
-   "slow_pagex3"
-  ],
-  "avg_words": 945,
-  "why": "schedule",
-  "indexnow": 9
- },
- {
-  "t": "2026-11-13T09:18:10.568132+00:00",
-  "score": 94,
-  "pages": 296,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 37
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx19",
-   "title_lengthx16",
-   "slow_pagex2"
-  ],
-  "avg_words": 945,
-  "why": "schedule",
-  "indexnow": 1
- },
- {
-  "t": "2026-11-13T12:20:07.041142+00:00",
-  "score": 94,
-  "pages": 296,
-  "issues": {
-   "high": 1,
-   "med": 0,
-   "low": 48
-  },
-  "top": [
-   "contact_email_placeholderx1",
-   "desc_lengthx19",
-   "title_lengthx16",
-   "slow_pagex13"
-  ],
-  "avg_words": 946,
-  "why": "schedule",
-  "indexnow": 3
- },
- {
   "t": "2026-11-13T15:40:16.215191+00:00",
   "score": 94,
   "pages": 296,
@@ -1143,6 +1067,83 @@
    "slow_pagex6"
   ],
   "avg_words": 940,
+  "why": "schedule",
+  "indexnow": 0
+ },
+ {
+  "t": "2026-11-21T02:30:33.674495+00:00",
+  "score": 94,
+  "pages": 294,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 42
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "desc_lengthx19",
+   "title_lengthx16",
+   "slow_pagex7"
+  ],
+  "avg_words": 940,
+  "why": "schedule",
+  "indexnow": 0
+ },
+ {
+  "t": "2026-11-21T05:32:10.258516+00:00",
+  "score": 94,
+  "pages": 294,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 43
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "desc_lengthx19",
+   "title_lengthx16",
+   "slow_pagex8"
+  ],
+  "avg_words": 940,
+  "why": "schedule",
+  "indexnow": 0
+ },
+ {
+  "t": "2026-11-21T08:33:48.065337+00:00",
+  "score": 94,
+  "pages": 294,
+  "issues": {
+   "high": 1,
+   "med": 0,
+   "low": 46
+  },
+  "top": [
+   "contact_email_placeholderx1",
+   "desc_lengthx19",
+   "title_lengthx16",
+   "slow_pagex11"
+  ],
+  "avg_words": 939,
+  "why": "schedule",
+  "indexnow": 8
+ },
+ {
+  "t": "2026-11-21T11:39:40.744024+00:00",
+  "score": 88,
+  "pages": 294,
+  "issues": {
+   "high": 3,
+   "med": 0,
+   "low": 43
+  },
+  "top": [
+   "http_errorx1",
+   "policy_missingx1",
+   "contact_email_placeholderx1",
+   "desc_lengthx19",
+   "title_lengthx16"
+  ],
+  "avg_words": 939,
   "why": "schedule",
   "indexnow": 0
  }
