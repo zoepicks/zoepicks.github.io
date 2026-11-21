@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T02:08:26Z",
+ "updated": "2026-11-21T04:08:34Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -92,20 +92,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B08FCGH2RL",
-    "name": "Skullcandy Crusher Evo Wireless Multi-Sensory Bass…",
-    "pct": 57,
-    "rating": 4.7,
-    "t": 1795198440,
-    "img": "https://m.media-amazon.com/images/I/61TuQdBSgsL.jpg",
-    "link": "https://www.amazon.com/dp/B08FCGH2RL?tag=zoepicks00-20",
-    "now": "89.99",
-    "was": "209.99",
-    "deal": "Black Friday Deal",
-    "reviews": 19962,
-    "tier": "mid"
-   },
-   {
     "asin": "B0HMQNMD26",
     "name": "TAGRY Hybrid Active Noise Cancelling Headphones 100H…",
     "pct": 58,
@@ -114,6 +100,20 @@
     "img": "https://m.media-amazon.com/images/I/71KLbAa5atL.jpg",
     "link": "https://www.amazon.com/dp/B0HMQNMD26?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0H1GNCT7Q",
+    "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
+    "pct": 55,
+    "rating": 4.5,
+    "t": 1795229358,
+    "img": "https://m.media-amazon.com/images/I/7189t8qrtiL.jpg",
+    "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
+    "now": "999.00",
+    "was": "2,199.00",
+    "deal": "Black Friday Deal",
+    "reviews": 29,
     "tier": "premium"
    }
   ],
@@ -132,17 +132,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B0GS9PNXB5",
-    "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
-    "pct": 61,
-    "rating": 4.5,
-    "t": 1795155063,
-    "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
-    "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
     "asin": "B0HPNWLF3R",
     "name": "Fitness Tracker, Smart Watches",
     "pct": 62,
@@ -151,23 +140,24 @@
     "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
     "link": "https://www.amazon.com/dp/B0HPNWLF3R?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B000W8WVD4",
+    "name": "Rockport Men's Eureka Walking Shoe",
+    "pct": 62,
+    "rating": 4.3,
+    "t": 1795231099,
+    "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
+    "link": "https://www.amazon.com/dp/B000W8WVD4?tag=zoepicks00-20",
+    "now": "48.98",
+    "was": "129.95",
+    "deal": "Black Friday Deal",
+    "reviews": 30108,
     "tier": "premium"
    }
   ],
   "fitness_outdoor": [
-   {
-    "asin": "B0D2292JM9",
-    "name": "ONCAI Women's Flip Flops Comfortable Arch Support Yoga Mat…",
-    "pct": 47,
-    "rating": 4.3,
-    "t": 1795145942,
-    "img": "https://m.media-amazon.com/images/I/71iVIX1IyIL.jpg",
-    "link": "https://www.amazon.com/dp/B0D2292JM9?tag=zoepicks00-20",
-    "now": "13.28",
-    "was": "24.99",
-    "reviews": 3013,
-    "tier": "budget"
-   },
    {
     "asin": "B01EN6LTBA",
     "name": "Razor Scooter A3 Model Kick Scooter",
@@ -177,6 +167,20 @@
     "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
     "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0GH8TTJ43",
+    "name": "Igloo Marine Ultra 150 Qt Latitude Hard Cooler",
+    "pct": 47,
+    "rating": 4.7,
+    "t": 1795231291,
+    "img": "https://m.media-amazon.com/images/I/61VqJZpeXZL.jpg",
+    "link": "https://www.amazon.com/dp/B0GH8TTJ43?tag=zoepicks00-20",
+    "now": "84.99",
+    "was": "158.99",
+    "deal": "Black Friday Deal",
+    "reviews": 43,
     "tier": "mid"
    },
    {
@@ -681,12 +685,11 @@
       "name": "Logitech M317 Compact Ambidextrous 2.4 GHz Wireless Mouse",
       "pct": 48,
       "rating": 4.5,
-      "t": 1795223437,
+      "t": 1795229754,
       "img": "https://m.media-amazon.com/images/I/71aeNguWgrL.jpg",
       "link": "https://www.amazon.com/dp/B00M55BIXG?tag=zoepicks00-20",
       "now": "11.98",
       "was": "22.99",
-      "deal": "Black Friday Deal",
       "reviews": 12276,
       "tier": "budget"
      },
@@ -840,12 +843,11 @@
       "name": "Insta360 Link 2C - 4K Webcam",
       "pct": 33,
       "rating": 4.6,
-      "t": 1795223417,
+      "t": 1795229747,
       "img": "https://m.media-amazon.com/images/I/51uYRPGe5VL.jpg",
       "link": "https://www.amazon.com/dp/B0DDTGY8FG?tag=zoepicks00-20",
       "now": "99.99",
       "was": "149.99",
-      "deal": "Black Friday Deal",
       "reviews": 1359,
       "tier": "premium"
      }
@@ -918,13 +920,13 @@
       "tier": "budget"
      },
      {
-      "asin": "B0DPKV8LP7",
-      "name": "Insta360 Flow 2 Pro Grey",
+      "asin": "B0DPKRKLHY",
+      "name": "Insta360 Flow 2 Pro White",
       "pct": 28,
       "rating": 4.3,
       "t": 1795223340,
-      "img": "https://m.media-amazon.com/images/I/51sS3Y+zTxL.jpg",
-      "link": "https://www.amazon.com/dp/B0DPKV8LP7?tag=zoepicks00-20",
+      "img": "https://m.media-amazon.com/images/I/51iwp39X63L.jpg",
+      "link": "https://www.amazon.com/dp/B0DPKRKLHY?tag=zoepicks00-20",
       "now": "114.99",
       "was": "159.99",
       "deal": "Black Friday Deal",
@@ -2163,6 +2165,54 @@
     ]
    },
    {
+    "key": "surround-sound-system",
+    "label": "Surround Sound System",
+    "items": [
+     {
+      "asin": "B0FPF6CX34",
+      "name": "ULTIMEA 7.1ch Sound Bar",
+      "pct": 50,
+      "rating": 4.5,
+      "t": 1795229358,
+      "img": "https://m.media-amazon.com/images/I/617auFmHEfL.jpg",
+      "link": "https://www.amazon.com/dp/B0FPF6CX34?tag=zoepicks00-20",
+      "now": "129.99",
+      "was": "259.99",
+      "deal": "Black Friday Deal",
+      "reviews": 28,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FLK5VJD2",
+      "name": "ULTIMEA Skywave X40 5.1.2ch Sound Bar",
+      "pct": 35,
+      "rating": 4.6,
+      "t": 1795229358,
+      "img": "https://m.media-amazon.com/images/I/812GLPJn2aL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLK5VJD2?tag=zoepicks00-20",
+      "now": "299.00",
+      "was": "459.00",
+      "deal": "Black Friday Deal",
+      "reviews": 266,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0H1GNCT7Q",
+      "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
+      "pct": 55,
+      "rating": 4.5,
+      "t": 1795229358,
+      "img": "https://m.media-amazon.com/images/I/7189t8qrtiL.jpg",
+      "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
+      "now": "999.00",
+      "was": "2,199.00",
+      "deal": "Black Friday Deal",
+      "reviews": 29,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "drone",
     "label": "Drone",
     "items": [
@@ -2225,29 +2275,31 @@
       "tier": "budget"
      },
      {
-      "asin": "B0DDXLR85B",
-      "name": "MANGOSTAN Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1795104902,
-      "img": "https://m.media-amazon.com/images/I/81mC0xBjhxL.jpg",
-      "link": "https://www.amazon.com/dp/B0DDXLR85B?tag=zoepicks00-20",
-      "now": "39.19",
-      "was": "55.99",
-      "reviews": 187,
+      "asin": "B06XHVDF6R",
+      "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
+      "pct": 35,
+      "rating": 4.5,
+      "t": 1795229278,
+      "img": "https://m.media-amazon.com/images/I/61B26yufuML.jpg",
+      "link": "https://www.amazon.com/dp/B06XHVDF6R?tag=zoepicks00-20",
+      "now": "129.99",
+      "was": "199.99",
+      "deal": "Black Friday Deal",
+      "reviews": 27015,
       "tier": "mid"
      },
      {
-      "asin": "B0GL98DMW4",
-      "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795168942,
-      "img": "https://m.media-amazon.com/images/I/71AZiV1vlOL.jpg",
-      "link": "https://www.amazon.com/dp/B0GL98DMW4?tag=zoepicks00-20",
-      "now": "139.99",
-      "was": "199.99",
-      "reviews": 27008,
+      "asin": "B0G96H73JD",
+      "name": "Sony PS-LX3BT Wireless Bluetooth Turntable",
+      "pct": 40,
+      "rating": 4.8,
+      "t": 1795229278,
+      "img": "https://m.media-amazon.com/images/I/61DLdH5-oDL.jpg",
+      "link": "https://www.amazon.com/dp/B0G96H73JD?tag=zoepicks00-20",
+      "now": "238.00",
+      "was": "398.00",
+      "deal": "Black Friday Deal",
+      "reviews": 100,
       "tier": "premium"
      }
     ]
@@ -2257,17 +2309,17 @@
     "label": "Bluetooth Speakers",
     "items": [
      {
-      "asin": "B01MTB55WH",
-      "name": "Anker soundcore 2 Portable Bluetooth Speaker",
-      "pct": 37,
+      "asin": "B0DC616MCH",
+      "name": "Mersoco Vinyl Record Player",
+      "pct": 49,
       "rating": 4.5,
-      "t": 1795198440,
-      "img": "https://m.media-amazon.com/images/I/61ad7wmJ5lL.jpg",
-      "link": "https://www.amazon.com/dp/B01MTB55WH?tag=zoepicks00-20",
-      "now": "28.48",
-      "was": "44.99",
+      "t": 1795229278,
+      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "69.99",
       "deal": "Black Friday Deal",
-      "reviews": 159266,
+      "reviews": 3467,
       "tier": "budget"
      },
      {
@@ -2315,6 +2367,53 @@
       "now": "54.95",
       "was": "105.67",
       "reviews": 1306
+     }
+    ]
+   },
+   {
+    "key": "tablets",
+    "label": "Tablets",
+    "items": [
+     {
+      "asin": "B0F1NHSFMF",
+      "name": "Lenovo Tab One - Lightweight Tablet",
+      "pct": 29,
+      "rating": 4.2,
+      "t": 1795229377,
+      "img": "https://m.media-amazon.com/images/I/713r2sAaC+L.jpg",
+      "link": "https://www.amazon.com/dp/B0F1NHSFMF?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 958,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0HK3PKW2M",
+      "name": "Android 17 Tablet, 10.1 inch Tablets",
+      "pct": 48,
+      "rating": 4.5,
+      "t": 1795229377,
+      "img": "https://m.media-amazon.com/images/I/81RX09IAs+L.jpg",
+      "link": "https://www.amazon.com/dp/B0HK3PKW2M?tag=zoepicks00-20",
+      "now": "104.48",
+      "was": "199.99",
+      "deal": "Black Friday Deal",
+      "reviews": 118,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DN7GYYV2",
+      "name": "Amazon Alexa Tablet 11",
+      "pct": 33,
+      "rating": 4.0,
+      "t": 1795229377,
+      "img": "https://m.media-amazon.com/images/I/61MfxKC1UXL.jpg",
+      "link": "https://www.amazon.com/dp/B0DN7GYYV2?tag=zoepicks00-20",
+      "now": "219.99",
+      "was": "329.99",
+      "reviews": 128,
+      "tier": "premium"
      }
     ]
    },
@@ -2420,29 +2519,31 @@
     "label": "Stereo System",
     "items": [
      {
-      "asin": "B0DRD8G2WJ",
-      "name": "Greadio Stereo System",
-      "pct": 15,
+      "asin": "B0DKHVTSQM",
+      "name": "Compact Stereo System",
+      "pct": 16,
       "rating": 4.2,
-      "t": 1795152436,
-      "img": "https://m.media-amazon.com/images/I/71FqUW3TNUL.jpg",
-      "link": "https://www.amazon.com/dp/B0DRD8G2WJ?tag=zoepicks00-20",
-      "now": "80.73",
-      "was": "94.98",
-      "reviews": 242,
+      "t": 1795229295,
+      "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
+      "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
+      "now": "79.98",
+      "was": "94.80",
+      "deal": "Black Friday Deal",
+      "reviews": 2207,
       "tier": "budget"
      },
      {
-      "asin": "B0HDYXB2ZL",
-      "name": "LONPOO Bluetooth CD Stereo System",
-      "pct": 15,
-      "rating": 4.4,
-      "t": 1795151523,
-      "img": "https://m.media-amazon.com/images/I/61SCdjhDbwL.jpg",
-      "link": "https://www.amazon.com/dp/B0HDYXB2ZL?tag=zoepicks00-20",
-      "now": "84.82",
-      "was": "99.80",
-      "reviews": 195,
+      "asin": "B0FRLCCTW1",
+      "name": "WISCENT Bluetooth Stereo System 40W",
+      "pct": 20,
+      "rating": 4.0,
+      "t": 1795229295,
+      "img": "https://m.media-amazon.com/images/I/61DDVwA5moL.jpg",
+      "link": "https://www.amazon.com/dp/B0FRLCCTW1?tag=zoepicks00-20",
+      "now": "87.20",
+      "was": "109.00",
+      "deal": "Black Friday Deal",
+      "reviews": 134,
       "tier": "mid"
      },
      {
@@ -2471,11 +2572,6 @@
     "items": []
    },
    {
-    "key": "surround-sound-system",
-    "label": "Surround Sound System",
-    "items": []
-   },
-   {
     "key": "camera-tripod",
     "label": "Camera Tripod",
     "items": []
@@ -2488,11 +2584,6 @@
    {
     "key": "kobo-case",
     "label": "Kobo Case",
-    "items": []
-   },
-   {
-    "key": "tablets",
-    "label": "Tablets",
     "items": []
    }
   ],
@@ -2586,6 +2677,53 @@
     ]
    },
    {
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
+    "items": [
+     {
+      "asin": "B0G5TBQYQL",
+      "name": "Reebok Rapid Strike Walking Shoes",
+      "pct": 25,
+      "rating": 4.0,
+      "t": 1795157973,
+      "img": "https://m.media-amazon.com/images/I/711GefgdNxL.jpg",
+      "link": "https://www.amazon.com/dp/B0G5TBQYQL?tag=zoepicks00-20",
+      "now": "41.21",
+      "was": "54.95",
+      "reviews": 247,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CTQHH5JR",
+      "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
+      "pct": 29,
+      "rating": 4.3,
+      "t": 1795231099,
+      "img": "https://m.media-amazon.com/images/I/71OiPI55UWL.jpg",
+      "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
+      "now": "42.74",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 6223,
+      "tier": "mid"
+     },
+     {
+      "asin": "B000W8WVD4",
+      "name": "Rockport Men's Eureka Walking Shoe",
+      "pct": 62,
+      "rating": 4.3,
+      "t": 1795231099,
+      "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
+      "link": "https://www.amazon.com/dp/B000W8WVD4?tag=zoepicks00-20",
+      "now": "48.98",
+      "was": "129.95",
+      "deal": "Black Friday Deal",
+      "reviews": 30108,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "watches",
     "label": "Watches",
     "items": [
@@ -2642,29 +2780,31 @@
       "tier": "budget"
      },
      {
-      "asin": "B0GRF31R6H",
-      "name": "K-Swiss Men's Mellow Running Shoe",
-      "pct": 57,
+      "asin": "B0F4LZ74B3",
+      "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
+      "pct": 46,
       "rating": 4.3,
-      "t": 1795174288,
-      "img": "https://m.media-amazon.com/images/I/71YogEhe68L.jpg",
-      "link": "https://www.amazon.com/dp/B0GRF31R6H?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "59.59",
-      "reviews": 0,
+      "t": 1795231066,
+      "img": "https://m.media-amazon.com/images/I/51YDmta2EDL.jpg",
+      "link": "https://www.amazon.com/dp/B0F4LZ74B3?tag=zoepicks00-20",
+      "now": "42.92",
+      "was": "79.99",
+      "deal": "Black Friday Deal",
+      "reviews": 8256,
       "tier": "mid"
      },
      {
-      "asin": "B0F4LZMVSV",
-      "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
-      "pct": 29,
+      "asin": "B0FG2MJFH4",
+      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
+      "pct": 27,
       "rating": 4.4,
-      "t": 1795148765,
-      "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
-      "now": "49.39",
+      "t": 1795231066,
+      "img": "https://m.media-amazon.com/images/I/71ETn1+NPtL.jpg",
+      "link": "https://www.amazon.com/dp/B0FG2MJFH4?tag=zoepicks00-20",
+      "now": "51.29",
       "was": "69.99",
-      "reviews": 3312,
+      "deal": "Black Friday Deal",
+      "reviews": 1643,
       "tier": "premium"
      }
     ]
@@ -2722,6 +2862,20 @@
     "label": "Sandals",
     "items": [
      {
+      "asin": "B0CSMN1X4W",
+      "name": "ODOLY Unisex Cork Footbed Slide Sandals",
+      "pct": 50,
+      "rating": 4.5,
+      "t": 1795231086,
+      "img": "https://m.media-amazon.com/images/I/61iYsM+H9QL.jpg",
+      "link": "https://www.amazon.com/dp/B0CSMN1X4W?tag=zoepicks00-20",
+      "now": "17.09",
+      "was": "33.99",
+      "deal": "Black Friday Deal",
+      "reviews": 10063,
+      "tier": "budget"
+     },
+     {
       "asin": "B0CNYDR78V",
       "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
       "pct": 50,
@@ -2732,32 +2886,68 @@
       "now": "20.10",
       "was": "39.90",
       "reviews": 10462,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F59XYFPP",
-      "name": "Aomigoct Dressy Womens Sandals Summer: Comfortable Strappy…",
-      "pct": 34,
-      "rating": 4.4,
-      "t": 1795148752,
-      "img": "https://m.media-amazon.com/images/I/81+8g3PFJLL.jpg",
-      "link": "https://www.amazon.com/dp/B0F59XYFPP?tag=zoepicks00-20",
-      "now": "28.21",
-      "was": "42.99",
-      "reviews": 1237,
       "tier": "mid"
      },
      {
-      "asin": "B0DND8W8G4",
-      "name": "Crocs Women's Getaway Toe Loop Platform Sandals",
-      "pct": 25,
+      "asin": "B075P61LL7",
+      "name": "CUSHIONAIRE Lane Cork Slide Women's Sandals",
+      "pct": 34,
       "rating": 4.5,
-      "t": 1795157034,
-      "img": "https://m.media-amazon.com/images/I/71kzuL2oa8L.jpg",
-      "link": "https://www.amazon.com/dp/B0DND8W8G4?tag=zoepicks00-20",
-      "now": "33.74",
-      "was": "44.99",
-      "reviews": 3276,
+      "t": 1795231086,
+      "img": "https://m.media-amazon.com/images/I/81suZ76XHpL.jpg",
+      "link": "https://www.amazon.com/dp/B075P61LL7?tag=zoepicks00-20",
+      "now": "32.76",
+      "was": "49.95",
+      "deal": "Black Friday Deal",
+      "reviews": 75869,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "suitcase",
+    "label": "Suitcase",
+    "items": [
+     {
+      "asin": "B0DC616MCH",
+      "name": "Mersoco Vinyl Record Player",
+      "pct": 49,
+      "rating": 4.5,
+      "t": 1795229278,
+      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "69.99",
+      "deal": "Black Friday Deal",
+      "reviews": 3467,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DWWSBR26",
+      "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
+      "pct": 25,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
+      "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
+      "now": "104.48",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1214,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D3LDFKRP",
+      "name": "Cosbarn Luggage Sets",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+      "now": "104.49",
+      "was": "169.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2042,
       "tier": "premium"
      }
     ]
@@ -2766,6 +2956,20 @@
     "key": "rain-jackets",
     "label": "Rain Jackets",
     "items": [
+     {
+      "asin": "B0G665ZJLW",
+      "name": "Uposiut Mens Windbreaker Rain Jacket Waterproof Raincoat",
+      "pct": 29,
+      "rating": 4.2,
+      "t": 1795231048,
+      "img": "https://m.media-amazon.com/images/I/71cuBGWYjHL.jpg",
+      "link": "https://www.amazon.com/dp/B0G665ZJLW?tag=zoepicks00-20",
+      "now": "14.22",
+      "was": "19.99",
+      "deal": "Black Friday Deal",
+      "reviews": 321,
+      "tier": "budget"
+     },
      {
       "asin": "B0FYHWZCS2",
       "name": "Columbia Men’s Glennaker Lake II Rain Jacket",
@@ -2776,7 +2980,8 @@
       "link": "https://www.amazon.com/dp/B0FYHWZCS2?tag=zoepicks00-20",
       "now": "37.24",
       "was": "70.00",
-      "reviews": 4896
+      "reviews": 4896,
+      "tier": "mid"
      },
      {
       "asin": "B0CLQZZVSK",
@@ -2788,7 +2993,8 @@
       "link": "https://www.amazon.com/dp/B0CLQZZVSK?tag=zoepicks00-20",
       "now": "59.84",
       "was": "100.00",
-      "reviews": 3340
+      "reviews": 3340,
+      "tier": "premium"
      }
     ]
    },
@@ -2810,6 +3016,20 @@
       "tier": "budget"
      },
      {
+      "asin": "B085B5NXPG",
+      "name": "Traveler's Choice Pagosa Hardshell Expandable Luggage",
+      "pct": 32,
+      "rating": 4.4,
+      "t": 1795230984,
+      "img": "https://m.media-amazon.com/images/I/71lasAcNY0L.jpg",
+      "link": "https://www.amazon.com/dp/B085B5NXPG?tag=zoepicks00-20",
+      "now": "95.75",
+      "was": "139.99",
+      "deal": "Black Friday Deal",
+      "reviews": 5698,
+      "tier": "mid"
+     },
+     {
       "asin": "B08BX9BFLY",
       "name": "Samsonite Omni 2 24-Inch Medium Checked Hardside Luggage",
       "pct": 45,
@@ -2820,19 +3040,52 @@
       "now": "109.00",
       "was": "199.99",
       "reviews": 1253,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "polo-shirt",
+    "label": "Polo Shirt",
+    "items": [
+     {
+      "asin": "B01IXFQBOM",
+      "name": "Amazon Essentials Men's Regular-Fit Cotton Pique Polo Shirt",
+      "pct": 29,
+      "rating": 4.3,
+      "t": 1795231007,
+      "img": "https://m.media-amazon.com/images/I/91aVotHt1WL.jpg",
+      "link": "https://www.amazon.com/dp/B01IXFQBOM?tag=zoepicks00-20",
+      "now": "10.80",
+      "was": "15.30",
+      "reviews": 53612,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07HRK78BV",
+      "name": "Nautica Men's Performance Pique Polo Shirt",
+      "pct": 43,
+      "rating": 4.6,
+      "t": 1795231007,
+      "img": "https://m.media-amazon.com/images/I/81cpwPVgP4L.jpg",
+      "link": "https://www.amazon.com/dp/B07HRK78BV?tag=zoepicks00-20",
+      "now": "11.56",
+      "was": "20.30",
+      "deal": "Black Friday Deal",
+      "reviews": 10045,
       "tier": "mid"
      },
      {
-      "asin": "B0B31MT8SC",
-      "name": "Samsonite Freeform Medium Luggage",
-      "pct": 22,
-      "rating": 4.2,
-      "t": 1795147793,
-      "img": "https://m.media-amazon.com/images/I/71qFzVOyQeL.jpg",
-      "link": "https://www.amazon.com/dp/B0B31MT8SC?tag=zoepicks00-20",
-      "now": "119.00",
-      "was": "152.99",
-      "reviews": 3297,
+      "asin": "B07FMYT338",
+      "name": "POLO RALPH LAUREN Men's T-Shirt",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795146877,
+      "img": "https://m.media-amazon.com/images/I/616jMr6z94L.jpg",
+      "link": "https://www.amazon.com/dp/B07FMYT338?tag=zoepicks00-20",
+      "now": "38.50",
+      "was": "55.00",
+      "reviews": 14648,
       "tier": "premium"
      }
     ]
@@ -2883,49 +3136,49 @@
     ]
    },
    {
-    "key": "suitcase",
-    "label": "Suitcase",
+    "key": "crossbody-bag",
+    "label": "Crossbody Bag",
     "items": [
      {
-      "asin": "B0CLVYTLFB",
-      "name": "Aerotrunk Compression Packing Cubes",
-      "pct": 20,
-      "rating": 4.6,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/91Q1Dukt+DL.jpg",
-      "link": "https://www.amazon.com/dp/B0CLVYTLFB?tag=zoepicks00-20",
-      "now": "47.99",
-      "was": "59.99",
+      "asin": "B0F4XNBY4Y",
+      "name": "BAGSMART Cross Body Purse",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795229413,
+      "img": "https://m.media-amazon.com/images/I/71jFGLYFp7L.jpg",
+      "link": "https://www.amazon.com/dp/B0F4XNBY4Y?tag=zoepicks00-20",
+      "now": "12.10",
+      "was": "19.99",
       "deal": "Black Friday Deal",
-      "reviews": 2609,
+      "reviews": 2812,
       "tier": "budget"
      },
      {
-      "asin": "B0DWWSBR26",
-      "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
-      "pct": 25,
+      "asin": "B0756VCN94",
+      "name": "Realer Hobo Crossbody Bag",
+      "pct": 39,
       "rating": 4.3,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
-      "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
-      "now": "104.48",
-      "was": "139.99",
+      "t": 1795229413,
+      "img": "https://m.media-amazon.com/images/I/71tDlPKr3vL.jpg",
+      "link": "https://www.amazon.com/dp/B0756VCN94?tag=zoepicks00-20",
+      "now": "26.98",
+      "was": "43.99",
       "deal": "Black Friday Deal",
-      "reviews": 1214,
+      "reviews": 27426,
       "tier": "mid"
      },
      {
-      "asin": "B0D3LDFKRP",
-      "name": "Cosbarn Luggage Sets",
-      "pct": 39,
-      "rating": 4.5,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
-      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
-      "now": "104.49",
-      "was": "169.99",
+      "asin": "B07DKHC9DM",
+      "name": "Michael Kors Women's Jet Set Large Crossbody Bag",
+      "pct": 34,
+      "rating": 4.7,
+      "t": 1795229413,
+      "img": "https://m.media-amazon.com/images/I/71g57JeuNsL.jpg",
+      "link": "https://www.amazon.com/dp/B07DKHC9DM?tag=zoepicks00-20",
+      "now": "79.00",
+      "was": "119.50",
       "deal": "Black Friday Deal",
-      "reviews": 2042,
+      "reviews": 5551,
       "tier": "premium"
      }
     ]
@@ -3009,38 +3262,50 @@
     ]
    },
    {
-    "key": "polo-shirt",
-    "label": "Polo Shirt",
+    "key": "carry-on-bags",
+    "label": "Carry On Bags",
     "items": [
      {
-      "asin": "B07FMYT338",
-      "name": "POLO RALPH LAUREN Men's T-Shirt",
-      "pct": 30,
+      "asin": "B0G7J7BSJJ",
+      "name": "Carry On Luggage 22x14x9 Airline Approved",
+      "pct": 15,
       "rating": 4.5,
-      "t": 1795146877,
-      "img": "https://m.media-amazon.com/images/I/616jMr6z94L.jpg",
-      "link": "https://www.amazon.com/dp/B07FMYT338?tag=zoepicks00-20",
-      "now": "38.50",
-      "was": "55.00",
-      "reviews": 14648
-     }
-    ]
-   },
-   {
-    "key": "crossbody-bag",
-    "label": "Crossbody Bag",
-    "items": [
+      "t": 1795229393,
+      "img": "https://m.media-amazon.com/images/I/61B+qKzMLQL.jpg",
+      "link": "https://www.amazon.com/dp/B0G7J7BSJJ?tag=zoepicks00-20",
+      "now": "17.84",
+      "was": "20.99",
+      "deal": "Black Friday Deal",
+      "reviews": 228,
+      "tier": "budget"
+     },
      {
-      "asin": "B0DK485R17",
-      "name": "Coach Women's Legacy Zip Top Crossbody Bag",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1795141370,
-      "img": "https://m.media-amazon.com/images/I/81fnZWBQdzL.jpg",
-      "link": "https://www.amazon.com/dp/B0DK485R17?tag=zoepicks00-20",
-      "now": "97.50",
-      "was": "195.00",
-      "reviews": 273
+      "asin": "B09D2Z3YRZ",
+      "name": "Uarition Gym Bag for Men & Women",
+      "pct": 24,
+      "rating": 4.4,
+      "t": 1795229426,
+      "img": "https://m.media-amazon.com/images/I/71YpEU8+8HL.jpg",
+      "link": "https://www.amazon.com/dp/B09D2Z3YRZ?tag=zoepicks00-20",
+      "now": "18.99",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 747,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CSYNW3X3",
+      "name": "BAGSMART Gym Bag for Women",
+      "pct": 32,
+      "rating": 4.6,
+      "t": 1795229393,
+      "img": "https://m.media-amazon.com/images/I/61WKa4fHYkL.jpg",
+      "link": "https://www.amazon.com/dp/B0CSYNW3X3?tag=zoepicks00-20",
+      "now": "20.36",
+      "was": "29.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4078,
+      "tier": "premium"
      }
     ]
    },
@@ -3048,6 +3313,20 @@
     "key": "gym-bags",
     "label": "Gym Bags",
     "items": [
+     {
+      "asin": "B0DYJRHJ79",
+      "name": "JELUTAR Drawstring Backpack Gym Bag",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795229426,
+      "img": "https://m.media-amazon.com/images/I/61qpm47oV1L.jpg",
+      "link": "https://www.amazon.com/dp/B0DYJRHJ79?tag=zoepicks00-20",
+      "now": "13.28",
+      "was": "18.98",
+      "deal": "Black Friday Deal",
+      "reviews": 1218,
+      "tier": "budget"
+     },
      {
       "asin": "B0DQD7TC9D",
       "name": "MIYCOO Gym Bag with Shoes Compartment",
@@ -3058,7 +3337,8 @@
       "link": "https://www.amazon.com/dp/B0DQD7TC9D?tag=zoepicks00-20",
       "now": "18.56",
       "was": "24.99",
-      "reviews": 2192
+      "reviews": 2192,
+      "tier": "mid"
      },
      {
       "asin": "B0D2L3HNBM",
@@ -3070,25 +3350,8 @@
       "link": "https://www.amazon.com/dp/B0D2L3HNBM?tag=zoepicks00-20",
       "now": "37.99",
       "was": "48.99",
-      "reviews": 983
-     }
-    ]
-   },
-   {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
-    "items": [
-     {
-      "asin": "B0G5TBQYQL",
-      "name": "Reebok Rapid Strike Walking Shoes",
-      "pct": 25,
-      "rating": 4.0,
-      "t": 1795157973,
-      "img": "https://m.media-amazon.com/images/I/711GefgdNxL.jpg",
-      "link": "https://www.amazon.com/dp/B0G5TBQYQL?tag=zoepicks00-20",
-      "now": "41.21",
-      "was": "54.95",
-      "reviews": 247
+      "reviews": 983,
+      "tier": "premium"
      }
     ]
    },
@@ -3178,11 +3441,6 @@
     ]
    },
    {
-    "key": "carry-on-bags",
-    "label": "Carry On Bags",
-    "items": []
-   },
-   {
     "key": "watch-band",
     "label": "Watch Band",
     "items": []
@@ -3207,7 +3465,7 @@
       "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
       "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B0GLPFSK4D",
@@ -3264,8 +3522,7 @@
       "link": "https://www.amazon.com/dp/B0D2292JM9?tag=zoepicks00-20",
       "now": "13.28",
       "was": "24.99",
-      "reviews": 3013,
-      "tier": "budget"
+      "reviews": 3013
      },
      {
       "asin": "B086BSKM92",
@@ -3278,22 +3535,6 @@
       "now": "28.07",
       "was": "34.99",
       "reviews": 22259
-     }
-    ]
-   },
-   {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B0DFMYHT4D",
-      "name": "ZULU Base 24oz Insulated Stainless Steel Water Bottle",
-      "pct": 44,
-      "rating": 4.5,
-      "t": 1795155056,
-      "img": "https://m.media-amazon.com/images/I/61+-Wyhf4FL.jpg",
-      "link": "https://www.amazon.com/dp/B0DFMYHT4D?tag=zoepicks00-20",
-      "reviews": 0
      }
     ]
    },
@@ -3315,29 +3556,95 @@
       "tier": "budget"
      },
      {
-      "asin": "B08GV7DXC1",
-      "name": "Igloo Hard Cooler | Polar & Party Bar Series",
-      "pct": 34,
-      "rating": 4.6,
-      "t": 1795145924,
-      "img": "https://m.media-amazon.com/images/I/714iJ1AAVOL.jpg",
-      "link": "https://www.amazon.com/dp/B08GV7DXC1?tag=zoepicks00-20",
-      "now": "86.44",
-      "was": "129.99",
-      "reviews": 11533,
+      "asin": "B0GH8TTJ43",
+      "name": "Igloo Marine Ultra 150 Qt Latitude Hard Cooler",
+      "pct": 47,
+      "rating": 4.7,
+      "t": 1795231291,
+      "img": "https://m.media-amazon.com/images/I/61VqJZpeXZL.jpg",
+      "link": "https://www.amazon.com/dp/B0GH8TTJ43?tag=zoepicks00-20",
+      "now": "84.99",
+      "was": "158.99",
+      "deal": "Black Friday Deal",
+      "reviews": 43,
       "tier": "mid"
      },
      {
-      "asin": "B0FVF17J9F",
-      "name": "Coleman Snap 'N Go Collapsible Hard Cooler",
-      "pct": 30,
+      "asin": "B0G62VTKS1",
+      "name": "YETI Hopper Flip 12 Portable Cooler",
+      "pct": 35,
+      "rating": 4.7,
+      "t": 1795231291,
+      "img": "https://m.media-amazon.com/images/I/71VQVNELSbL.jpg",
+      "link": "https://www.amazon.com/dp/B0G62VTKS1?tag=zoepicks00-20",
+      "now": "162.50",
+      "was": "250.00",
+      "deal": "Black Friday Deal",
+      "reviews": 4901,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B0DFMYHT4D",
+      "name": "ZULU Base 24oz Insulated Stainless Steel Water Bottle",
+      "pct": 44,
       "rating": 4.5,
-      "t": 1795191858,
-      "img": "https://m.media-amazon.com/images/I/71Mez9iJ4HL.jpg",
-      "link": "https://www.amazon.com/dp/B0FVF17J9F?tag=zoepicks00-20",
-      "now": "153.99",
-      "was": "219.99",
-      "reviews": 615,
+      "t": 1795155056,
+      "img": "https://m.media-amazon.com/images/I/61+-Wyhf4FL.jpg",
+      "link": "https://www.amazon.com/dp/B0DFMYHT4D?tag=zoepicks00-20",
+      "reviews": 0
+     }
+    ]
+   },
+   {
+    "key": "camping-tents",
+    "label": "Camping Tents",
+    "items": [
+     {
+      "asin": "B0D7QHY574",
+      "name": "Coleman Sundome Camping Tent",
+      "pct": 31,
+      "rating": 4.6,
+      "t": 1795231272,
+      "img": "https://m.media-amazon.com/images/I/71lYlWGZLDL.jpg",
+      "link": "https://www.amazon.com/dp/B0D7QHY574?tag=zoepicks00-20",
+      "now": "81.67",
+      "was": "117.99",
+      "deal": "Black Friday Deal",
+      "reviews": 23201,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0D7QL1LHC",
+      "name": "Coleman Skydome 2/4/6/8 Person Camping Tent",
+      "pct": 34,
+      "rating": 4.3,
+      "t": 1795231272,
+      "img": "https://m.media-amazon.com/images/I/61jcR12+JtL.jpg",
+      "link": "https://www.amazon.com/dp/B0D7QL1LHC?tag=zoepicks00-20",
+      "now": "124.99",
+      "was": "189.99",
+      "deal": "Black Friday Deal",
+      "reviews": 486,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0D2W12RYZ",
+      "name": "FanttikOutdoor Alpha C4 Ultra Camping Tent 4 Person Pop Up…",
+      "pct": 34,
+      "rating": 4.5,
+      "t": 1795231272,
+      "img": "https://m.media-amazon.com/images/I/61AUqDgCBmL.jpg",
+      "link": "https://www.amazon.com/dp/B0D2W12RYZ?tag=zoepicks00-20",
+      "now": "186.18",
+      "was": "279.99",
+      "deal": "Black Friday Deal",
+      "reviews": 554,
       "tier": "premium"
      }
     ]
@@ -3438,12 +3745,21 @@
    {
     "key": "home-gym-equipment",
     "label": "Home Gym Equipment",
-    "items": []
-   },
-   {
-    "key": "camping-tents",
-    "label": "Camping Tents",
-    "items": []
+    "items": [
+     {
+      "asin": "B00A21NRNO",
+      "name": "PowerBlock Elite EXP 90 Adjustable Dumbbells",
+      "pct": 15,
+      "rating": 4.6,
+      "t": 1795231259,
+      "img": "https://m.media-amazon.com/images/I/71hFnjGFvVL.jpg",
+      "link": "https://www.amazon.com/dp/B00A21NRNO?tag=zoepicks00-20",
+      "now": "339.15",
+      "was": "399.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2691
+     }
+    ]
    },
    {
     "key": "walking-pads",
@@ -3531,19 +3847,6 @@
     "label": "Mattresses",
     "items": [
      {
-      "asin": "B0FV8DR9GV",
-      "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
-      "pct": 21,
-      "rating": 4.4,
-      "t": 1795137492,
-      "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
-      "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
-      "now": "205.19",
-      "was": "259.99",
-      "reviews": 263,
-      "tier": "budget"
-     },
-     {
       "asin": "B0HK7WGHBT",
       "name": "Extra Firm King Mattress 12 inch Pain Relieving Hybrid…",
       "pct": 30,
@@ -3555,21 +3858,19 @@
       "was": "379.99",
       "deal": "Black Friday Deal",
       "reviews": 379,
-      "tier": "mid"
+      "tier": "premium"
      },
      {
-      "asin": "B0G43459KR",
-      "name": "BedStory Queen Size Mattress",
-      "pct": 29,
+      "asin": "B0FV8DR9GV",
+      "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
+      "pct": 21,
       "rating": 4.4,
-      "t": 1795198693,
-      "img": "https://m.media-amazon.com/images/I/81zJs2J-fiL.jpg",
-      "link": "https://www.amazon.com/dp/B0G43459KR?tag=zoepicks00-20",
-      "now": "278.86",
-      "was": "393.54",
-      "deal": "Black Friday Deal",
-      "reviews": 869,
-      "tier": "premium"
+      "t": 1795137492,
+      "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
+      "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
+      "now": "205.19",
+      "was": "259.99",
+      "reviews": 263
      }
     ]
    },
@@ -5389,20 +5690,6 @@
     "label": "Soundbars",
     "items": [
      {
-      "asin": "B0C4BZ28PG",
-      "name": "Amazon Fire TV Soundbar",
-      "pct": 38,
-      "rating": 4.2,
-      "t": 1795199949,
-      "img": "https://m.media-amazon.com/images/I/71izIXUYy0L.jpg",
-      "link": "https://www.amazon.com/dp/B0C4BZ28PG?tag=zoepicks00-20",
-      "now": "74.99",
-      "was": "119.99",
-      "deal": "Black Friday Deal",
-      "reviews": 6889,
-      "tier": "budget"
-     },
-     {
       "asin": "B0CXZTT4MT",
       "name": "Amazon Fire TV Soundbar Plus",
       "pct": 44,
@@ -5414,20 +5701,34 @@
       "was": "249.99",
       "deal": "Black Friday Deal",
       "reviews": 2213,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FLK5VJD2",
+      "name": "ULTIMEA Skywave X40 5.1.2ch Sound Bar",
+      "pct": 35,
+      "rating": 4.6,
+      "t": 1795229358,
+      "img": "https://m.media-amazon.com/images/I/812GLPJn2aL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLK5VJD2?tag=zoepicks00-20",
+      "now": "299.00",
+      "was": "459.00",
+      "deal": "Black Friday Deal",
+      "reviews": 266,
       "tier": "mid"
      },
      {
-      "asin": "B09GPYL7BJ",
-      "name": "Sonos Beam Gen 2 - Black",
-      "pct": 32,
-      "rating": 4.3,
-      "t": 1795199949,
-      "img": "https://m.media-amazon.com/images/I/51kIR1gKWYL.jpg",
-      "link": "https://www.amazon.com/dp/B09GPYL7BJ?tag=zoepicks00-20",
-      "now": "339.00",
-      "was": "499.00",
+      "asin": "B0FP5G4CYG",
+      "name": "ULTIMEA Skywave X50 5.1.4ch Wireless Surround Sound System",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1795229358,
+      "img": "https://m.media-amazon.com/images/I/61fPGvOOl1L.jpg",
+      "link": "https://www.amazon.com/dp/B0FP5G4CYG?tag=zoepicks00-20",
+      "now": "399.00",
+      "was": "599.00",
       "deal": "Black Friday Deal",
-      "reviews": 2038,
+      "reviews": 316,
       "tier": "premium"
      }
     ]
