@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T13:10:10Z",
+ "updated": "2026-11-21T15:10:22Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2462,12 +2462,13 @@
       "name": "Gloryang Bluetooth Thermal Shipping Label Printer",
       "pct": 25,
       "rating": 4.4,
-      "t": 1795141390,
+      "t": 1795199230,
       "img": "https://m.media-amazon.com/images/I/71bPT9YfczL.jpg",
       "link": "https://www.amazon.com/dp/B0DK9CSBQP?tag=zoepicks00-20",
       "now": "42.72",
       "was": "56.99",
-      "reviews": 749
+      "deal": "Black Friday Deal",
+      "reviews": 752
      }
     ]
    },
@@ -2776,12 +2777,13 @@
       "name": "Smart Watches for Women",
       "pct": 53,
       "rating": 5.0,
-      "t": 1795141376,
+      "t": 1795199298,
       "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
       "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
       "now": "46.54",
       "was": "99.99",
-      "reviews": 68,
+      "deal": "Black Friday Deal",
+      "reviews": 69,
       "tier": "premium"
      }
     ]
@@ -2880,6 +2882,54 @@
     ]
    },
    {
+    "key": "suitcase",
+    "label": "Suitcase",
+    "items": [
+     {
+      "asin": "B0DC616MCH",
+      "name": "Mersoco Vinyl Record Player",
+      "pct": 49,
+      "rating": 4.5,
+      "t": 1795229278,
+      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
+      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
+      "now": "35.99",
+      "was": "69.99",
+      "deal": "Black Friday Deal",
+      "reviews": 3467,
+      "tier": "budget"
+     },
+     {
+      "asin": "B014TMV5YE",
+      "name": "SwissGear Sion Softside Expandable Spinner Luggage Durable…",
+      "pct": 38,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/71+fbnFgmPL.jpg",
+      "link": "https://www.amazon.com/dp/B014TMV5YE?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "160.00",
+      "deal": "Black Friday Deal",
+      "reviews": 26810,
+      "tier": "mid"
+     },
+     {
+      "asin": "B01M0A3BKH",
+      "name": "Samsonite Freeform Hardside Carry-On Luggage",
+      "pct": 51,
+      "rating": 4.3,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/81UKNDaQDkL.jpg",
+      "link": "https://www.amazon.com/dp/B01M0A3BKH?tag=zoepicks00-20",
+      "now": "108.00",
+      "was": "219.99",
+      "deal": "Black Friday Deal",
+      "reviews": 8894,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "sandals",
     "label": "Sandals",
     "items": [
@@ -2921,54 +2971,6 @@
       "now": "32.76",
       "was": "49.95",
       "reviews": 75869,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "suitcase",
-    "label": "Suitcase",
-    "items": [
-     {
-      "asin": "B0DC616MCH",
-      "name": "Mersoco Vinyl Record Player",
-      "pct": 49,
-      "rating": 4.5,
-      "t": 1795229278,
-      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
-      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "69.99",
-      "deal": "Black Friday Deal",
-      "reviews": 3467,
-      "tier": "budget"
-     },
-     {
-      "asin": "B014TMV5YE",
-      "name": "SwissGear Sion Softside Expandable Spinner Luggage Durable…",
-      "pct": 38,
-      "rating": 4.3,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71+fbnFgmPL.jpg",
-      "link": "https://www.amazon.com/dp/B014TMV5YE?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "160.00",
-      "deal": "Black Friday Deal",
-      "reviews": 26810,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0D3LDFKRP",
-      "name": "Cosbarn Luggage Sets",
-      "pct": 39,
-      "rating": 4.5,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
-      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
-      "now": "104.49",
-      "was": "169.99",
-      "deal": "Black Friday Deal",
-      "reviews": 2042,
       "tier": "premium"
      }
     ]
@@ -3208,30 +3210,31 @@
     "label": "Leggings",
     "items": [
      {
+      "asin": "B07HQM6NH8",
+      "name": "THE GYM PEOPLE Women's Thick High Waist Yoga Pants Workout…",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1795198510,
+      "img": "https://m.media-amazon.com/images/I/612eTmq3hVL.jpg",
+      "link": "https://www.amazon.com/dp/B07HQM6NH8?tag=zoepicks00-20",
+      "now": "19.99",
+      "was": "24.99",
+      "deal": "Black Friday Deal",
+      "reviews": 70828,
+      "tier": "budget"
+     },
+     {
       "asin": "B0FG27QSLG",
       "name": "YEOREO Ease Workout Leggings Womens Straight Leggings Eddiy…",
       "pct": 37,
       "rating": 4.2,
-      "t": 1795141261,
+      "t": 1795198510,
       "img": "https://m.media-amazon.com/images/I/51ALuls6oZL.jpg",
       "link": "https://www.amazon.com/dp/B0FG27QSLG?tag=zoepicks00-20",
       "now": "22.76",
       "was": "35.99",
-      "reviews": 4528,
-      "tier": "budget"
-     },
-     {
-      "asin": "B07WYCL3D8",
-      "name": "baleaf Women's Fleece Lined Leggings Thermal Warm Tights…",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/51F8j5gqoAL.jpg",
-      "link": "https://www.amazon.com/dp/B07WYCL3D8?tag=zoepicks00-20",
-      "now": "23.79",
-      "was": "33.99",
       "deal": "Black Friday Deal",
-      "reviews": 14608,
+      "reviews": 4538,
       "tier": "mid"
      },
      {
@@ -3259,12 +3262,13 @@
       "name": "G Gradual Men's Sweatpants",
       "pct": 33,
       "rating": 4.5,
-      "t": 1795137505,
+      "t": 1795198510,
       "img": "https://m.media-amazon.com/images/I/71E9cr3vZAL.jpg",
       "link": "https://www.amazon.com/dp/B09H7DP2Z8?tag=zoepicks00-20",
       "now": "19.99",
       "was": "29.99",
-      "reviews": 13822
+      "deal": "Black Friday Deal",
+      "reviews": 13829
      },
      {
       "asin": "B09ZCDYPR6",
@@ -3403,12 +3407,13 @@
       "name": "Gihuo Women’s Winter Cropped Puffer Jacket Coat Short Warm…",
       "pct": 18,
       "rating": 4.4,
-      "t": 1795141275,
+      "t": 1795198510,
       "img": "https://m.media-amazon.com/images/I/61NGMuX75ZL.jpg",
       "link": "https://www.amazon.com/dp/B09GFM15Y9?tag=zoepicks00-20",
       "now": "32.79",
       "was": "39.99",
-      "reviews": 1822
+      "deal": "Black Friday Deal",
+      "reviews": 1825
      }
     ]
    },
@@ -3823,12 +3828,13 @@
       "name": "Queen Mattress 12 Inch,Queen Size Mattresses in a…",
       "pct": 21,
       "rating": 4.4,
-      "t": 1795137492,
+      "t": 1795198693,
       "img": "https://m.media-amazon.com/images/I/81QKiAMz0KL.jpg",
       "link": "https://www.amazon.com/dp/B0FV8DR9GV?tag=zoepicks00-20",
       "now": "205.19",
       "was": "259.99",
-      "reviews": 263
+      "deal": "Black Friday Deal",
+      "reviews": 265
      }
     ]
    },
@@ -4808,17 +4814,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0G64QDV8J",
-      "name": "Insta360 Flow 2 Pro Gimbal Stabilizer",
-      "pct": 32,
-      "rating": 4.4,
-      "t": 1795223340,
-      "img": "https://m.media-amazon.com/images/I/61dGNe-hU0L.jpg",
-      "link": "https://www.amazon.com/dp/B0G64QDV8J?tag=zoepicks00-20",
-      "now": "154.99",
-      "was": "227.99",
+      "asin": "B0HDSMB23G",
+      "name": "Smart Watches for Women",
+      "pct": 53,
+      "rating": 5.0,
+      "t": 1795199298,
+      "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
+      "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
+      "now": "46.54",
+      "was": "99.99",
       "deal": "Black Friday Deal",
-      "reviews": 605,
+      "reviews": 69,
       "tier": "premium"
      }
     ]
