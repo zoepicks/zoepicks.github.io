@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-21T05:00:22Z",
+ "updated": "2026-11-21T06:36:36Z",
  "cats": [
   {
    "key": "fashion",
@@ -25,6 +25,30 @@
  ],
  "items": {
   "fashion": [
+   {
+    "asin": "B0HPNWLF3R",
+    "name": "Fitness Tracker, Smart Watches",
+    "pct": 62,
+    "rating": 4.8,
+    "t": 1795199298,
+    "img": "https://m.media-amazon.com/images/I/71QYBSKVYqL.jpg",
+    "link": "https://www.amazon.com/dp/B0HPNWLF3R?tag=zoepicks00-20",
+    "now": "37.99",
+    "was": "99.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0BYNYWKC7",
+    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
+    "pct": 63,
+    "rating": 4.6,
+    "t": 1795198510,
+    "img": "https://m.media-amazon.com/images/I/71yhTG8TNrL.jpg",
+    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
+    "now": "13.27",
+    "was": "35.99",
+    "cat": "fashion"
+   },
    {
     "asin": "B0HDSMB23G",
     "name": "Smart Watches for Women",
@@ -74,6 +98,18 @@
     "cat": "fashion"
    },
    {
+    "asin": "B0C65S55Q2",
+    "name": "Trendy Queen Womens Hoodies Oversized Sweatshirt",
+    "pct": 49,
+    "rating": 4.5,
+    "t": 1795198510,
+    "img": "https://m.media-amazon.com/images/I/61glUTGQnUL.jpg",
+    "link": "https://www.amazon.com/dp/B0C65S55Q2?tag=zoepicks00-20",
+    "now": "18.99",
+    "was": "36.99",
+    "cat": "fashion"
+   },
+   {
     "asin": "B0DC616MCH",
     "name": "Mersoco Vinyl Record Player",
     "pct": 49,
@@ -98,15 +134,15 @@
     "cat": "fashion"
    },
    {
-    "asin": "B0F4XNBY4Y",
-    "name": "BAGSMART Cross Body Purse",
-    "pct": 39,
-    "rating": 4.5,
-    "t": 1795229413,
-    "img": "https://m.media-amazon.com/images/I/71jFGLYFp7L.jpg",
-    "link": "https://www.amazon.com/dp/B0F4XNBY4Y?tag=zoepicks00-20",
-    "now": "12.10",
-    "was": "19.99",
+    "asin": "B0CR9JFD7S",
+    "name": "Taygeer Travel Laptop Backpack",
+    "pct": 43,
+    "rating": 4.7,
+    "t": 1795198510,
+    "img": "https://m.media-amazon.com/images/I/61mBPzS4IeL.jpg",
+    "link": "https://www.amazon.com/dp/B0CR9JFD7S?tag=zoepicks00-20",
+    "now": "22.78",
+    "was": "39.99",
     "cat": "fashion"
    },
    {
@@ -114,7 +150,7 @@
     "name": "Realer Hobo Crossbody Bag",
     "pct": 39,
     "rating": 4.3,
-    "t": 1795229413,
+    "t": 1795240026,
     "img": "https://m.media-amazon.com/images/I/71tDlPKr3vL.jpg",
     "link": "https://www.amazon.com/dp/B0756VCN94?tag=zoepicks00-20",
     "now": "26.98",
@@ -150,7 +186,7 @@
     "name": "CUSHIONAIRE Lane Cork Slide Women's Sandals",
     "pct": 34,
     "rating": 4.5,
-    "t": 1795231086,
+    "t": 1795240039,
     "img": "https://m.media-amazon.com/images/I/81suZ76XHpL.jpg",
     "link": "https://www.amazon.com/dp/B075P61LL7?tag=zoepicks00-20",
     "now": "32.76",
@@ -206,15 +242,27 @@
     "cat": "fashion"
    },
    {
-    "asin": "B0CTQHH5JR",
-    "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
+    "asin": "B0C8CHJLH1",
+    "name": "RUIMEN Smart Watches",
+    "pct": 32,
+    "rating": 4.1,
+    "t": 1795199298,
+    "img": "https://m.media-amazon.com/images/I/61PajHLMflL.jpg",
+    "link": "https://www.amazon.com/dp/B0C8CHJLH1?tag=zoepicks00-20",
+    "now": "24.63",
+    "was": "35.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0F4LZMVSV",
+    "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
     "pct": 29,
-    "rating": 4.3,
-    "t": 1795231099,
-    "img": "https://m.media-amazon.com/images/I/71OiPI55UWL.jpg",
-    "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
-    "now": "42.74",
-    "was": "59.99",
+    "rating": 4.4,
+    "t": 1795148765,
+    "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
+    "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
+    "now": "49.39",
+    "was": "69.99",
     "cat": "fashion"
    },
    {
@@ -242,6 +290,18 @@
     "cat": "fashion"
    },
    {
+    "asin": "B0FN7LP7W9",
+    "name": "Nike Women's Downshifter 14 Road Running Shoes",
+    "pct": 26,
+    "rating": 4.4,
+    "t": 1795148757,
+    "img": "https://m.media-amazon.com/images/I/61yKyK2Q1WL.jpg",
+    "link": "https://www.amazon.com/dp/B0FN7LP7W9?tag=zoepicks00-20",
+    "now": "59.18",
+    "was": "80.00",
+    "cat": "fashion"
+   },
+   {
     "asin": "B092TQG5ZD",
     "name": "DUSLANG 17 inch Travel Laptop Backpack",
     "pct": 24,
@@ -263,6 +323,18 @@
     "link": "https://www.amazon.com/dp/B0G5TBQYQL?tag=zoepicks00-20",
     "now": "41.21",
     "was": "54.95",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DSPR24RD",
+    "name": "FEIBOON Spacious Nylon Crossbody Bag Bum Bag Handbags Purses",
+    "pct": 22,
+    "rating": 4.5,
+    "t": 1795229413,
+    "img": "https://m.media-amazon.com/images/I/61cIl1jvODL.jpg",
+    "link": "https://www.amazon.com/dp/B0DSPR24RD?tag=zoepicks00-20",
+    "now": "17.14",
+    "was": "21.99",
     "cat": "fashion"
    },
    {
@@ -291,6 +363,18 @@
    }
   ],
   "beauty": [
+   {
+    "asin": "B08TPCHYLW",
+    "name": "Lancôme Lash Idôle Mascara",
+    "pct": 73,
+    "rating": 4.4,
+    "t": 1795198268,
+    "img": "https://m.media-amazon.com/images/I/51Nj0hcoopL.jpg",
+    "link": "https://www.amazon.com/dp/B08TPCHYLW?tag=zoepicks00-20",
+    "now": "14.00",
+    "was": "51.85",
+    "cat": "beauty"
+   },
    {
     "asin": "B09SZ5JX2Y",
     "name": "d'alba Piedmont White Truffle Double Serum All-in-one Multi…",
@@ -638,33 +722,9 @@
     "now": "24.00",
     "was": "32.00",
     "cat": "beauty"
-   },
-   {
-    "asin": "B0BDZG7YVD",
-    "name": "UCANBE Eyeshadow Palette",
-    "pct": 24,
-    "rating": 4.6,
-    "t": 1795225602,
-    "img": "https://m.media-amazon.com/images/I/710YFHUujBL.jpg",
-    "link": "https://www.amazon.com/dp/B0BDZG7YVD?tag=zoepicks00-20",
-    "now": "15.19",
-    "was": "19.99",
-    "cat": "beauty"
    }
   ],
   "home": [
-   {
-    "asin": "B07WFF17BQ",
-    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-    "pct": 55,
-    "rating": 4.5,
-    "t": 1795174287,
-    "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
-    "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
-    "now": "18.03",
-    "was": "39.97",
-    "cat": "home"
-   },
    {
     "asin": "B00MVWGQX0",
     "name": "Cuisinart Coffee Maker",
@@ -690,6 +750,18 @@
     "cat": "home"
    },
    {
+    "asin": "B0GVVJZDQV",
+    "name": "Cuisinart Air Fryer Toaster Oven Combo",
+    "pct": 48,
+    "rating": 4.6,
+    "t": 1795199075,
+    "img": "https://m.media-amazon.com/images/I/71K0ElolqVL.jpg",
+    "link": "https://www.amazon.com/dp/B0GVVJZDQV?tag=zoepicks00-20",
+    "now": "109.95",
+    "was": "209.95",
+    "cat": "home"
+   },
+   {
     "asin": "B08DL8WH9V",
     "name": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie",
     "pct": 50,
@@ -711,6 +783,18 @@
     "link": "https://www.amazon.com/dp/B0788F3R8X?tag=zoepicks00-20",
     "now": "119.99",
     "was": "209.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0D2P1HSCV",
+    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+    "pct": 43,
+    "rating": 4.5,
+    "t": 1795199075,
+    "img": "https://m.media-amazon.com/images/I/71z8Dl7JP5L.jpg",
+    "link": "https://www.amazon.com/dp/B0D2P1HSCV?tag=zoepicks00-20",
+    "now": "28.49",
+    "was": "49.99",
     "cat": "home"
    },
    {
@@ -918,6 +1002,18 @@
     "cat": "home"
    },
    {
+    "asin": "B081DNWG7N",
+    "name": "Mr. Coffee Programmable Coffee Maker",
+    "pct": 28,
+    "rating": 4.3,
+    "t": 1795199075,
+    "img": "https://m.media-amazon.com/images/I/81bs-ikI+IL.jpg",
+    "link": "https://www.amazon.com/dp/B081DNWG7N?tag=zoepicks00-20",
+    "now": "22.99",
+    "was": "31.99",
+    "cat": "home"
+   },
+   {
     "asin": "B07YKYLZ4Y",
     "name": "Hamilton Beach 6 Quart Slow Cooker With 3 Cooking Settings",
     "pct": 25,
@@ -978,6 +1074,31 @@
     "cat": "home"
    }
   ],
-  "kids": []
+  "kids": [
+   {
+    "asin": "B0CYCDTZ6G",
+    "name": "HelloBaby 6'' No WiFi Video Baby Monitor",
+    "pct": 51,
+    "rating": 4.4,
+    "t": 1795200248,
+    "img": "https://m.media-amazon.com/images/I/71+Z6E4Z6UL.jpg",
+    "link": "https://www.amazon.com/dp/B0CYCDTZ6G?tag=zoepicks00-20",
+    "now": "54.13",
+    "was": "109.99",
+    "cat": "kids"
+   },
+   {
+    "asin": "B09GM8JZM9",
+    "name": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550",
+    "pct": 40,
+    "rating": 4.5,
+    "t": 1795200248,
+    "img": "https://m.media-amazon.com/images/I/613RCWv-M1L.jpg",
+    "link": "https://www.amazon.com/dp/B09GM8JZM9?tag=zoepicks00-20",
+    "now": "59.99",
+    "was": "99.99",
+    "cat": "kids"
+   }
+  ]
  }
 }
