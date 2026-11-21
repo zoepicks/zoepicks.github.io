@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T11:09:52Z",
+ "updated": "2026-11-21T13:10:10Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -164,7 +164,7 @@
     "name": "Razor Scooter A3 Model Kick Scooter",
     "pct": 53,
     "rating": 4.8,
-    "t": 1795241687,
+    "t": 1795158891,
     "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
     "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
     "now": "28.28",
@@ -264,12 +264,13 @@
     "name": "HyperX Cloud III S Wireless Gaming Headset",
     "pct": 45,
     "rating": 4.3,
-    "t": 1795135668,
+    "t": 1795198843,
     "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
     "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
     "now": "99.69",
     "was": "179.99",
-    "reviews": 2875,
+    "deal": "Black Friday Deal",
+    "reviews": 2884,
     "tier": "premium"
    }
   ],
@@ -338,17 +339,14 @@
     "tier": "mid"
    },
    {
-    "asin": "B0GVVJZDQV",
-    "name": "Cuisinart Air Fryer Toaster Oven Combo",
-    "pct": 48,
-    "rating": 4.6,
-    "t": 1795199075,
-    "img": "https://m.media-amazon.com/images/I/71K0ElolqVL.jpg",
-    "link": "https://www.amazon.com/dp/B0GVVJZDQV?tag=zoepicks00-20",
-    "now": "109.95",
-    "was": "209.95",
-    "deal": "Black Friday Deal",
-    "reviews": 137,
+    "asin": "B08DL8WH9V",
+    "name": "CHEFMAN Multifunctional Digital Air Fryer+ Rotisserie",
+    "pct": 50,
+    "rating": 4.3,
+    "t": 1795241068,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71s8nikz44L.jpg",
+    "link": "https://www.amazon.com/dp/B08DL8WH9V?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -1352,53 +1350,6 @@
     ]
    },
    {
-    "key": "sunscreen",
-    "label": "Sunscreen",
-    "items": [
-     {
-      "asin": "B0DKJ347ZJ",
-      "name": "d'alba Piedmont White Truffle Waterfull Essence Sunscreen",
-      "pct": 54,
-      "rating": 4.4,
-      "t": 1795241688,
-      "img": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
-      "link": "https://www.amazon.com/dp/B0DKJ347ZJ?tag=zoepicks00-20",
-      "now": "12.99",
-      "was": "28.00",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FXH5LHN8",
-      "name": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV",
-      "pct": 27,
-      "rating": 4.5,
-      "t": 1795198268,
-      "img": "https://m.media-amazon.com/images/I/615uRMMos1L.jpg",
-      "link": "https://www.amazon.com/dp/B0FXH5LHN8?tag=zoepicks00-20",
-      "now": "12.99",
-      "was": "17.89",
-      "deal": "Black Friday Deal",
-      "reviews": 11036,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DKJ3BX2F",
-      "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
-      "pct": 43,
-      "rating": 4.4,
-      "t": 1795198268,
-      "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
-      "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
-      "now": "16.00",
-      "was": "28.00",
-      "deal": "Black Friday Deal",
-      "reviews": 6510,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "makeup-brush-set",
     "label": "Makeup Brush Set",
     "items": [
@@ -1514,6 +1465,53 @@
     ]
    },
    {
+    "key": "deodorants",
+    "label": "Deodorants",
+    "items": [
+     {
+      "asin": "B0G16FR6SC",
+      "name": "Native Aluminum-Free Deodorant",
+      "pct": 30,
+      "rating": 4.4,
+      "t": 1795223454,
+      "img": "https://m.media-amazon.com/images/I/615I93GP81L.jpg",
+      "link": "https://www.amazon.com/dp/B0G16FR6SC?tag=zoepicks00-20",
+      "now": "10.49",
+      "was": "14.99",
+      "deal": "Black Friday Deal",
+      "reviews": 138140,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CNJDSP9Y",
+      "name": "Saltair Skincare Deodorant",
+      "pct": 50,
+      "rating": 4.2,
+      "t": 1795260636,
+      "img": "https://m.media-amazon.com/images/I/31-fIEMtrJL.jpg",
+      "link": "https://www.amazon.com/dp/B0CNJDSP9Y?tag=zoepicks00-20",
+      "now": "13.00",
+      "was": "25.98",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B09NMGK6XV",
+      "name": "Lume Whole Body Deodorant",
+      "pct": 19,
+      "rating": 4.3,
+      "t": 1795223454,
+      "img": "https://m.media-amazon.com/images/I/71MpV4j7nrL.jpg",
+      "link": "https://www.amazon.com/dp/B09NMGK6XV?tag=zoepicks00-20",
+      "now": "21.99",
+      "was": "27.24",
+      "deal": "Black Friday Deal",
+      "reviews": 71865,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "moisturizer",
     "label": "Moisturizer",
     "items": [
@@ -1557,6 +1555,54 @@
       "was": "32.00",
       "deal": "Black Friday Deal",
       "reviews": 8988,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "sunscreen",
+    "label": "Sunscreen",
+    "items": [
+     {
+      "asin": "B0FXH5LHN8",
+      "name": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV",
+      "pct": 27,
+      "rating": 4.5,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/615uRMMos1L.jpg",
+      "link": "https://www.amazon.com/dp/B0FXH5LHN8?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "17.89",
+      "deal": "Black Friday Deal",
+      "reviews": 11036,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0DKJ3BX2F",
+      "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
+      "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
+      "now": "16.00",
+      "was": "28.00",
+      "deal": "Black Friday Deal",
+      "reviews": 6510,
+      "tier": "mid"
+     },
+     {
+      "asin": "B093W7CDWD",
+      "name": "Colorescience Sunforgettable Total Protection Face Shield…",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1795198268,
+      "img": "https://m.media-amazon.com/images/I/714w1k2Q1xL.jpg",
+      "link": "https://www.amazon.com/dp/B093W7CDWD?tag=zoepicks00-20",
+      "now": "43.50",
+      "was": "58.00",
+      "deal": "Black Friday Deal",
+      "reviews": 11248,
       "tier": "premium"
      }
     ]
@@ -1926,54 +1972,6 @@
     ]
    },
    {
-    "key": "deodorants",
-    "label": "Deodorants",
-    "items": [
-     {
-      "asin": "B0G16FR6SC",
-      "name": "Native Aluminum-Free Deodorant",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1795223454,
-      "img": "https://m.media-amazon.com/images/I/615I93GP81L.jpg",
-      "link": "https://www.amazon.com/dp/B0G16FR6SC?tag=zoepicks00-20",
-      "now": "10.49",
-      "was": "14.99",
-      "deal": "Black Friday Deal",
-      "reviews": 138140,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0GHM14SCX",
-      "name": "medicube Deodorant",
-      "pct": 30,
-      "rating": 4.0,
-      "t": 1795223454,
-      "img": "https://m.media-amazon.com/images/I/61tKSHC3M4L.jpg",
-      "link": "https://www.amazon.com/dp/B0GHM14SCX?tag=zoepicks00-20",
-      "now": "15.92",
-      "was": "22.90",
-      "deal": "Black Friday Deal",
-      "reviews": 1503,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09NMGK6XV",
-      "name": "Lume Whole Body Deodorant",
-      "pct": 19,
-      "rating": 4.3,
-      "t": 1795223454,
-      "img": "https://m.media-amazon.com/images/I/71MpV4j7nrL.jpg",
-      "link": "https://www.amazon.com/dp/B09NMGK6XV?tag=zoepicks00-20",
-      "now": "21.99",
-      "was": "27.24",
-      "deal": "Black Friday Deal",
-      "reviews": 71865,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "makeup-primers",
     "label": "Makeup Primers",
     "items": [
@@ -2209,17 +2207,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0DSQSX7FB",
-      "name": "PlayStation Pulse Explore Wireless Earbuds",
-      "pct": 40,
-      "rating": 3.9,
+      "asin": "B0F6NZWPTC",
+      "name": "HyperX Cloud III S Wireless Gaming Headset",
+      "pct": 45,
+      "rating": 4.3,
       "t": 1795198843,
-      "img": "https://m.media-amazon.com/images/I/51OkyIdum9L.jpg",
-      "link": "https://www.amazon.com/dp/B0DSQSX7FB?tag=zoepicks00-20",
-      "now": "119.00",
-      "was": "199.99",
+      "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
+      "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
+      "now": "99.69",
+      "was": "179.99",
       "deal": "Black Friday Deal",
-      "reviews": 1328,
+      "reviews": 2884,
       "tier": "premium"
      }
     ]
@@ -2616,13 +2614,15 @@
     "label": "Hoodies",
     "items": [
      {
-      "asin": "B0CGMCKTZD",
-      "name": "JMIERR Mens Fleece Lined Oversized Hoodie Pullover…",
-      "pct": 64,
-      "rating": 4.6,
-      "t": 1795241619,
-      "img": "https://m.media-amazon.com/images/I/61QVJLwkEcL.jpg",
-      "link": "https://www.amazon.com/dp/B0CGMCKTZD?tag=zoepicks00-20",
+      "asin": "B00JUM3SS0",
+      "name": "Hanes Men's Hoodie",
+      "pct": 63,
+      "rating": 4.5,
+      "t": 1795260634,
+      "img": "https://m.media-amazon.com/images/I/81Uv9dT98CL.jpg",
+      "link": "https://www.amazon.com/dp/B00JUM3SS0?tag=zoepicks00-20",
+      "now": "10.00",
+      "was": "27.00",
       "reviews": 0,
       "tier": "budget"
      },
@@ -2787,6 +2787,51 @@
     ]
    },
    {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0GRF39GVH",
+      "name": "K-Swiss Men's Mellow Running Shoe",
+      "pct": 57,
+      "rating": 4.3,
+      "t": 1795260642,
+      "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
+      "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
+      "now": "25.49",
+      "was": "59.59",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F4LZMVSV",
+      "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
+      "pct": 29,
+      "rating": 4.4,
+      "t": 1795148765,
+      "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
+      "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
+      "now": "49.39",
+      "was": "69.99",
+      "reviews": 3312,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0FN7LP7W9",
+      "name": "Nike Women's Downshifter 14 Road Running Shoes",
+      "pct": 26,
+      "rating": 4.4,
+      "t": 1795148757,
+      "img": "https://m.media-amazon.com/images/I/61yKyK2Q1WL.jpg",
+      "link": "https://www.amazon.com/dp/B0FN7LP7W9?tag=zoepicks00-20",
+      "now": "59.18",
+      "was": "80.00",
+      "reviews": 471,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "compression-socks",
     "label": "Compression Socks",
     "items": [
@@ -2857,7 +2902,7 @@
       "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
       "pct": 50,
       "rating": 4.3,
-      "t": 1795148738,
+      "t": 1795260634,
       "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
       "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
       "now": "20.10",
@@ -2970,51 +3015,6 @@
       "now": "59.84",
       "was": "100.00",
       "reviews": 3340,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0F4LZ74B3",
-      "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
-      "pct": 46,
-      "rating": 4.3,
-      "t": 1795247399,
-      "img": "https://m.media-amazon.com/images/I/51YDmta2EDL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZ74B3?tag=zoepicks00-20",
-      "now": "42.92",
-      "was": "79.99",
-      "reviews": 8256,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F4LZMVSV",
-      "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
-      "pct": 29,
-      "rating": 4.4,
-      "t": 1795148765,
-      "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
-      "now": "49.39",
-      "was": "69.99",
-      "reviews": 3312,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FN7LP7W9",
-      "name": "Nike Women's Downshifter 14 Road Running Shoes",
-      "pct": 26,
-      "rating": 4.4,
-      "t": 1795148757,
-      "img": "https://m.media-amazon.com/images/I/61yKyK2Q1WL.jpg",
-      "link": "https://www.amazon.com/dp/B0FN7LP7W9?tag=zoepicks00-20",
-      "now": "59.18",
-      "was": "80.00",
-      "reviews": 471,
       "tier": "premium"
      }
     ]
@@ -3452,7 +3452,7 @@
       "name": "Razor Scooter A3 Model Kick Scooter",
       "pct": 53,
       "rating": 4.8,
-      "t": 1795241687,
+      "t": 1795158891,
       "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
       "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
       "now": "28.28",
@@ -3898,12 +3898,13 @@
       "name": "HyperX Cloud III S Wireless Gaming Headset",
       "pct": 45,
       "rating": 4.3,
-      "t": 1795135668,
+      "t": 1795198843,
       "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
       "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
       "now": "99.69",
       "was": "179.99",
-      "reviews": 2875,
+      "deal": "Black Friday Deal",
+      "reviews": 2884,
       "tier": "premium"
      }
     ]
@@ -3977,6 +3978,34 @@
     "label": "PC Controllers",
     "items": [
      {
+      "asin": "B0FX3TJ5RX",
+      "name": "8Bitdo Ultimate 2C Wireless Controller",
+      "pct": 27,
+      "rating": 4.4,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/61t8-7jBzGL.jpg",
+      "link": "https://www.amazon.com/dp/B0FX3TJ5RX?tag=zoepicks00-20",
+      "now": "21.79",
+      "was": "29.99",
+      "deal": "Black Friday Deal",
+      "reviews": 8250,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F3D25PD3",
+      "name": "GameSir Nova Lite 2 Wireless PC Controller Hall Effect…",
+      "pct": 20,
+      "rating": 4.4,
+      "t": 1795198843,
+      "img": "https://m.media-amazon.com/images/I/61yHqDf0SqL.jpg",
+      "link": "https://www.amazon.com/dp/B0F3D25PD3?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "29.99",
+      "deal": "Black Friday Deal",
+      "reviews": 3193,
+      "tier": "mid"
+     },
+     {
       "asin": "B0FY6Y9WZT",
       "name": "PlayStation DualSense™ Wireless Controller",
       "pct": 28,
@@ -3987,19 +4016,8 @@
       "now": "54.00",
       "was": "74.99",
       "deal": "Black Friday Deal",
-      "reviews": 51725
-     },
-     {
-      "asin": "B0F3D25PD3",
-      "name": "GameSir Nova Lite 2 Wireless PC Controller Hall Effect…",
-      "pct": 20,
-      "rating": 4.3,
-      "t": 1795132871,
-      "img": "https://m.media-amazon.com/images/I/61yHqDf0SqL.jpg",
-      "link": "https://www.amazon.com/dp/B0F3D25PD3?tag=zoepicks00-20",
-      "now": "23.99",
-      "was": "29.99",
-      "reviews": 3183
+      "reviews": 51725,
+      "tier": "premium"
      }
     ]
    },
@@ -4183,12 +4201,13 @@
       "name": "Titanium Cutting Board",
       "pct": 32,
       "rating": 4.4,
-      "t": 1795130882,
+      "t": 1795199075,
       "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
       "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
       "now": "26.59",
       "was": "38.99",
-      "reviews": 8215,
+      "deal": "Black Friday Deal",
+      "reviews": 8222,
       "tier": "premium"
      }
     ]
@@ -4224,12 +4243,13 @@
       "name": "Keurig K-Elite Single Serve K-Cup Pod Coffee Maker",
       "pct": 43,
       "rating": 4.6,
-      "t": 1795132866,
+      "t": 1795199075,
       "img": "https://m.media-amazon.com/images/I/71zUY9qXunL.jpg",
       "link": "https://www.amazon.com/dp/B0788F3R8X?tag=zoepicks00-20",
       "now": "119.99",
       "was": "209.99",
-      "reviews": 73887,
+      "deal": "Black Friday Deal",
+      "reviews": 73906,
       "tier": "premium"
      }
     ]
@@ -4307,12 +4327,13 @@
       "name": "Ganiza Smoothie Blender",
       "pct": 37,
       "rating": 4.4,
-      "t": 1795130868,
+      "t": 1795199075,
       "img": "https://m.media-amazon.com/images/I/81RRa6fuKBL.jpg",
       "link": "https://www.amazon.com/dp/B0DJM4QW9B?tag=zoepicks00-20",
       "now": "28.48",
       "was": "44.99",
-      "reviews": 3900,
+      "deal": "Black Friday Deal",
+      "reviews": 3904,
       "tier": "budget"
      },
      {
@@ -4334,11 +4355,12 @@
       "name": "nutribullet® Turbo Personal Blender",
       "pct": 43,
       "rating": 4.3,
-      "t": 1795130863,
+      "t": 1795199075,
       "img": "https://m.media-amazon.com/images/I/41RpSy4VQ9L.jpg",
       "link": "https://www.amazon.com/dp/B0GZJ28GWJ?tag=zoepicks00-20",
       "now": "56.99",
       "was": "99.99",
+      "deal": "Black Friday Deal",
       "reviews": 89,
       "tier": "premium"
      }
@@ -4386,12 +4408,13 @@
       "name": "Electric Mason Jar Vacuum Sealer",
       "pct": 22,
       "rating": 4.3,
-      "t": 1795130858,
+      "t": 1795199075,
       "img": "https://m.media-amazon.com/images/I/71KujDtzBWL.jpg",
       "link": "https://www.amazon.com/dp/B0FYG24Z96?tag=zoepicks00-20",
       "now": "18.99",
       "was": "24.29",
-      "reviews": 1912,
+      "deal": "Black Friday Deal",
+      "reviews": 1917,
       "tier": "mid"
      },
      {
@@ -4464,6 +4487,34 @@
     "label": "Dishwasher",
     "items": [
      {
+      "asin": "B0DDGRWKCM",
+      "name": "MAD SHARK Heavy Duty Poultry Shears,Spring Loaded Kitchen…",
+      "pct": 15,
+      "rating": 4.7,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/71vBA8r-2rL.jpg",
+      "link": "https://www.amazon.com/dp/B0DDGRWKCM?tag=zoepicks00-20",
+      "now": "18.69",
+      "was": "21.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2380,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07YKYLZ4Y",
+      "name": "Hamilton Beach 6 Quart Slow Cooker With 3 Cooking Settings",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795199075,
+      "img": "https://m.media-amazon.com/images/I/710VPeEQWhL.jpg",
+      "link": "https://www.amazon.com/dp/B07YKYLZ4Y?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "39.95",
+      "deal": "Black Friday Deal",
+      "reviews": 21668,
+      "tier": "mid"
+     },
+     {
       "asin": "B0DC11YH4J",
       "name": "CHEFMAN 2 Qt Mini Air Fryer",
       "pct": 33,
@@ -4474,7 +4525,8 @@
       "now": "39.99",
       "was": "59.99",
       "deal": "Black Friday Deal",
-      "reviews": 30258
+      "reviews": 30258,
+      "tier": "premium"
      }
     ]
    },
@@ -4970,12 +5022,11 @@
       "name": "Samsung 32\" The Movingstyle Essential 4K UHD Smart Monitor",
       "pct": 31,
       "rating": 4.3,
-      "t": 1795199458,
+      "t": 1795261714,
       "img": "https://m.media-amazon.com/images/I/61fcs+h2ICL.jpg",
       "link": "https://www.amazon.com/dp/B0FX3FG3F3?tag=zoepicks00-20",
       "now": "484.99",
       "was": "699.99",
-      "deal": "Black Friday Deal",
       "reviews": 192,
       "tier": "premium"
      }
@@ -5038,12 +5089,11 @@
       "name": "VisionOwl Portable Monitor 15.6 Inch 1080P FHD 85% sRGB…",
       "pct": 25,
       "rating": 4.8,
-      "t": 1795199458,
+      "t": 1795260799,
       "img": "https://m.media-amazon.com/images/I/71Cw0rCZK3L.jpg",
       "link": "https://www.amazon.com/dp/B08KZVDMG9?tag=zoepicks00-20",
       "now": "89.99",
       "was": "119.99",
-      "deal": "Black Friday Deal",
       "reviews": 3252,
       "tier": "budget"
      },
@@ -5135,17 +5185,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B08L5SRCZJ",
-      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
-      "pct": 30,
-      "rating": 4.4,
+      "asin": "B0F99864F1",
+      "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
+      "pct": 28,
+      "rating": 4.8,
       "t": 1795199458,
-      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
-      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
-      "now": "118.72",
-      "was": "169.99",
+      "img": "https://m.media-amazon.com/images/I/819hErzOz0L.jpg",
+      "link": "https://www.amazon.com/dp/B0F99864F1?tag=zoepicks00-20",
+      "now": "207.99",
+      "was": "289.99",
       "deal": "Black Friday Deal",
-      "reviews": 2673,
+      "reviews": 1368,
       "tier": "mid"
      },
      {
