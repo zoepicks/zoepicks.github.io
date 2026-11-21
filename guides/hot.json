@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T19:08:41Z",
+ "updated": "2026-11-21T21:08:54Z",
  "hot": [
   {
    "asin": "B0HK854C7Q",
@@ -14,7 +14,7 @@
    "was": "169.99",
    "deal": "Black Friday Deal",
    "reviews": 557,
-   "tier": "budget"
+   "tier": "mid"
   },
   {
    "asin": "B0HNJF823S",
@@ -28,7 +28,7 @@
    "was": "159.99",
    "deal": "Black Friday Deal",
    "reviews": 31,
-   "tier": "mid"
+   "tier": "budget"
   },
   {
    "asin": "B0HRK1NKHW",
@@ -351,19 +351,6 @@
    "tier": "budget"
   },
   {
-   "asin": "B01EN6LTBA",
-   "name": "Razor Scooter A3 Model Kick Scooter",
-   "pct": 53,
-   "rating": 4.8,
-   "t": 1795158891,
-   "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
-   "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
-   "now": "28.28",
-   "was": "59.99",
-   "reviews": 4527,
-   "tier": "budget"
-  },
-  {
    "asin": "B0HCMZYZ2H",
    "name": "Smart Watch for Men/Women",
    "pct": 63,
@@ -416,6 +403,20 @@
    "was": "49.00",
    "deal": "Black Friday Deal",
    "reviews": 874,
+   "tier": "premium"
+  },
+  {
+   "asin": "B00MRR0YJQ",
+   "name": "Marc Jacobs Daisy Dream Eau de Toilette",
+   "pct": 52,
+   "rating": 4.7,
+   "t": 1795225672,
+   "img": "https://m.media-amazon.com/images/I/51Wsx-eDV-L.jpg",
+   "link": "https://www.amazon.com/dp/B00MRR0YJQ?tag=zoepicks00-20",
+   "now": "69.35",
+   "was": "146.00",
+   "deal": "Black Friday Deal",
+   "reviews": 3824,
    "tier": "premium"
   }
  ],
@@ -1406,6 +1407,20 @@
    "now": "110.15",
    "was": "200.00",
    "deal": "Black Friday Deal",
+   "cat": "shoes",
+   "label": "Shoes",
+   "icon": "👟"
+  },
+  {
+   "asin": "B0CLWGVL36",
+   "name": "Columbia Men's Crestwood Mid Waterproof Hiking Boots",
+   "pct": 34,
+   "rating": 4.6,
+   "t": 1795292400,
+   "img": "https://m.media-amazon.com/images/I/71MvufLBFSL.jpg",
+   "link": "https://www.amazon.com/dp/B0CLWGVL36?tag=zoepicks00-20",
+   "now": "66.23",
+   "was": "100.00",
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
