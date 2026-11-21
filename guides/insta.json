@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-21T08:36:48Z",
+ "updated": "2026-11-21T08:43:05Z",
  "cats": [
   {
    "key": "fashion",
@@ -119,6 +119,18 @@
     "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
     "now": "20.10",
     "was": "39.90",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B08L7M46VJ",
+    "name": "Fossil Women's Jolie Leather Hobo Purse Handbag",
+    "pct": 42,
+    "rating": 4.4,
+    "t": 1795176172,
+    "img": "https://m.media-amazon.com/images/I/818sgEJwZsL.jpg",
+    "link": "https://www.amazon.com/dp/B08L7M46VJ?tag=zoepicks00-20",
+    "now": "144.66",
+    "was": "250.00",
     "cat": "fashion"
    },
    {
@@ -460,18 +472,6 @@
     "cat": "beauty"
    },
    {
-    "asin": "B0FM28JLHG",
-    "name": "ordele Electric Shavers",
-    "pct": 36,
-    "rating": 4.5,
-    "t": 1795144991,
-    "img": "https://m.media-amazon.com/images/I/713KQDaFLRL.jpg",
-    "link": "https://www.amazon.com/dp/B0FM28JLHG?tag=zoepicks00-20",
-    "now": "15.38",
-    "was": "23.99",
-    "cat": "beauty"
-   },
-   {
     "asin": "B07T6FNLQV",
     "name": "LC-dolida Sleep Headphones",
     "pct": 38,
@@ -710,21 +710,21 @@
     "now": "15.19",
     "was": "19.99",
     "cat": "beauty"
+   },
+   {
+    "asin": "B0GNB4X5FV",
+    "name": "Philips Epilator Series 9000",
+    "pct": 26,
+    "rating": 4.2,
+    "t": 1795223537,
+    "img": "https://m.media-amazon.com/images/I/71COVaMUSGL.jpg",
+    "link": "https://www.amazon.com/dp/B0GNB4X5FV?tag=zoepicks00-20",
+    "now": "80.95",
+    "was": "109.99",
+    "cat": "beauty"
    }
   ],
   "home": [
-   {
-    "asin": "B00MVWGQX0",
-    "name": "Cuisinart Coffee Maker",
-    "pct": 53,
-    "rating": 4.4,
-    "t": 1795208853,
-    "img": "https://m.media-amazon.com/images/I/71VjOhqSY7L.jpg",
-    "link": "https://www.amazon.com/dp/B00MVWGQX0?tag=zoepicks00-20",
-    "now": "56.95",
-    "was": "119.95",
-    "cat": "home"
-   },
    {
     "asin": "B0CNY1F31S",
     "name": "Chefman Air Fryer – 4 QT Compact Airfryer",
@@ -795,18 +795,6 @@
     "link": "https://www.amazon.com/dp/B0GZJ28GWJ?tag=zoepicks00-20",
     "now": "56.99",
     "was": "99.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0DPNJKMPX",
-    "name": "bella Fits-Anywhere™ 6qt Slim Air Fryer",
-    "pct": 40,
-    "rating": 4.6,
-    "t": 1795132859,
-    "img": "https://m.media-amazon.com/images/I/61TgBmRpXnL.jpg",
-    "link": "https://www.amazon.com/dp/B0DPNJKMPX?tag=zoepicks00-20",
-    "now": "47.99",
-    "was": "79.99",
     "cat": "home"
    },
    {
@@ -954,18 +942,6 @@
     "cat": "home"
    },
    {
-    "asin": "B07YKYLZ4Y",
-    "name": "Hamilton Beach 6 Quart Slow Cooker With 3 Cooking Settings",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1795129944,
-    "img": "https://m.media-amazon.com/images/I/710VPeEQWhL.jpg",
-    "link": "https://www.amazon.com/dp/B07YKYLZ4Y?tag=zoepicks00-20",
-    "now": "29.95",
-    "was": "39.95",
-    "cat": "home"
-   },
-   {
     "asin": "B09RMD7R15",
     "name": "VIVO Electric Standing Desk",
     "pct": 25,
@@ -975,18 +951,6 @@
     "link": "https://www.amazon.com/dp/B09RMD7R15?tag=zoepicks00-20",
     "now": "224.99",
     "was": "299.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B00OQHDDD4",
-    "name": "Sunnydaze Quilted Double Hammock",
-    "pct": 25,
-    "rating": 4.2,
-    "t": 1795153351,
-    "img": "https://m.media-amazon.com/images/I/81T1kLNhnKL.jpg",
-    "link": "https://www.amazon.com/dp/B00OQHDDD4?tag=zoepicks00-20",
-    "now": "65.21",
-    "was": "86.95",
     "cat": "home"
    },
    {
