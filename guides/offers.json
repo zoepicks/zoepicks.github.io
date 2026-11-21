@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T19:10:57Z",
+ "updated": "2026-11-21T21:11:08Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -164,12 +164,13 @@
     "name": "Razor Scooter A3 Model Kick Scooter",
     "pct": 53,
     "rating": 4.8,
-    "t": 1795158891,
+    "t": 1795279112,
     "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
     "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
     "now": "28.28",
     "was": "59.99",
-    "reviews": 4527,
+    "deal": "Black Friday Deal",
+    "reviews": 4529,
     "tier": "budget"
    },
    {
@@ -2477,6 +2478,25 @@
     ]
    },
    {
+    "key": "e-readers",
+    "label": "E Readers",
+    "items": [
+     {
+      "asin": "B0H8SZ945Y",
+      "name": "XTEINK X4 Classic Pocket eReader",
+      "pct": 38,
+      "rating": 4.0,
+      "t": 1795225838,
+      "img": "https://m.media-amazon.com/images/I/61ciN94zR6L.jpg",
+      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
+      "now": "54.87",
+      "was": "89.00",
+      "deal": "Black Friday Deal",
+      "reviews": 381
+     }
+    ]
+   },
+   {
     "key": "printers",
     "label": "Printers",
     "items": [
@@ -2602,11 +2622,6 @@
    {
     "key": "camera-tripod",
     "label": "Camera Tripod",
-    "items": []
-   },
-   {
-    "key": "e-readers",
-    "label": "E Readers",
     "items": []
    },
    {
@@ -2741,12 +2756,11 @@
       "name": "Nike Men's Promina Walking Shoes",
       "pct": 25,
       "rating": 4.5,
-      "t": 1795231099,
+      "t": 1795290533,
       "img": "https://m.media-amazon.com/images/I/61QxYuq3qVL.jpg",
       "link": "https://www.amazon.com/dp/B0F16N4GDH?tag=zoepicks00-20",
       "now": "52.50",
       "was": "70.00",
-      "deal": "Black Friday Deal",
       "reviews": 1664,
       "tier": "premium"
      }
@@ -3278,20 +3292,6 @@
     "label": "Leggings",
     "items": [
      {
-      "asin": "B07HQPKDZB",
-      "name": "THE GYM PEOPLE Women's Thick High Waist Yoga Pants Workout…",
-      "pct": 20,
-      "rating": 4.4,
-      "t": 1795277160,
-      "img": "https://m.media-amazon.com/images/I/61IqZD8hYDL.jpg",
-      "link": "https://www.amazon.com/dp/B07HQPKDZB?tag=zoepicks00-20",
-      "now": "19.99",
-      "was": "24.99",
-      "deal": "Black Friday Deal",
-      "reviews": 70841,
-      "tier": "budget"
-     },
-     {
       "asin": "B0FG27QSLG",
       "name": "YEOREO Ease Workout Leggings Womens Straight Leggings Eddiy…",
       "pct": 37,
@@ -3303,6 +3303,20 @@
       "was": "35.99",
       "deal": "Black Friday Deal",
       "reviews": 4550,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07WYCL3D8",
+      "name": "baleaf Women's Fleece Lined Leggings Thermal Warm Tights…",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795277160,
+      "img": "https://m.media-amazon.com/images/I/51F8j5gqoAL.jpg",
+      "link": "https://www.amazon.com/dp/B07WYCL3D8?tag=zoepicks00-20",
+      "now": "23.79",
+      "was": "33.99",
+      "deal": "Black Friday Deal",
+      "reviews": 14611,
       "tier": "mid"
      },
      {
@@ -3552,12 +3566,13 @@
       "name": "Razor Scooter A3 Model Kick Scooter",
       "pct": 53,
       "rating": 4.8,
-      "t": 1795158891,
+      "t": 1795279112,
       "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
       "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
       "now": "28.28",
       "was": "59.99",
-      "reviews": 4527,
+      "deal": "Black Friday Deal",
+      "reviews": 4529,
       "tier": "mid"
      },
      {
@@ -3596,12 +3611,11 @@
       "name": "Gaiam Yoga Mat Classic Print",
       "pct": 29,
       "rating": 4.5,
-      "t": 1795279176,
+      "t": 1795289589,
       "img": "https://m.media-amazon.com/images/I/81T1NUS+UwL.jpg",
       "link": "https://www.amazon.com/dp/B01MY5MZSQ?tag=zoepicks00-20",
       "now": "17.11",
       "was": "24.23",
-      "deal": "Black Friday Deal",
       "reviews": 12695,
       "tier": "mid"
      },
@@ -3717,12 +3731,11 @@
       "name": "NORTIV 8 Men's Waterproof Lightweight Hiking Boots",
       "pct": 24,
       "rating": 4.4,
-      "t": 1795279046,
+      "t": 1795295397,
       "img": "https://m.media-amazon.com/images/I/813MprEGsgL.jpg",
       "link": "https://www.amazon.com/dp/B0CCD5JGVM?tag=zoepicks00-20",
       "now": "43.25",
       "was": "56.99",
-      "deal": "Black Friday Deal",
       "reviews": 14887,
       "tier": "budget"
      },
@@ -3731,12 +3744,11 @@
       "name": "Columbia Women's Newton Ridge Plus Waterproof Hiking Boots",
       "pct": 41,
       "rating": 4.6,
-      "t": 1795279046,
+      "t": 1795295390,
       "img": "https://m.media-amazon.com/images/I/71os16M0yYL.jpg",
       "link": "https://www.amazon.com/dp/B0CLW4NMBR?tag=zoepicks00-20",
       "now": "64.40",
       "was": "110.00",
-      "deal": "Black Friday Deal",
       "reviews": 2068,
       "tier": "mid"
      },
@@ -3745,12 +3757,11 @@
       "name": "Columbia Men's Crestwood Mid Waterproof Hiking Boots",
       "pct": 34,
       "rating": 4.6,
-      "t": 1795279046,
+      "t": 1795292400,
       "img": "https://m.media-amazon.com/images/I/71MvufLBFSL.jpg",
       "link": "https://www.amazon.com/dp/B0CLWGVL36?tag=zoepicks00-20",
       "now": "66.23",
       "was": "100.00",
-      "deal": "Black Friday Deal",
       "reviews": 1347,
       "tier": "premium"
      }
@@ -3874,12 +3885,11 @@
       "name": "Adjustable Dumbbell Set 25lb/50lb",
       "pct": 20,
       "rating": 4.5,
-      "t": 1795231259,
+      "t": 1795292395,
       "img": "https://m.media-amazon.com/images/I/711DAjCiA3L.jpg",
       "link": "https://www.amazon.com/dp/B0FYNZQVB9?tag=zoepicks00-20",
       "now": "124.79",
       "was": "155.99",
-      "deal": "Black Friday Deal",
       "reviews": 182,
       "tier": "mid"
      },
@@ -3990,12 +4000,11 @@
       "name": "Linen Total Blackout Curtains",
       "pct": 34,
       "rating": 4.5,
-      "t": 1795279199,
+      "t": 1795291484,
       "img": "https://m.media-amazon.com/images/I/7121kw+gfyL.jpg",
       "link": "https://www.amazon.com/dp/B0BR3STN87?tag=zoepicks00-20",
       "now": "26.37",
       "was": "39.99",
-      "deal": "Black Friday Deal",
       "reviews": 9378,
       "tier": "premium"
      }
@@ -4032,12 +4041,11 @@
       "name": "runjuly Floor Lamp",
       "pct": 15,
       "rating": 4.1,
-      "t": 1795277318,
+      "t": 1795291478,
       "img": "https://m.media-amazon.com/images/I/71xChkI0taL.jpg",
       "link": "https://www.amazon.com/dp/B0FZBTD72V?tag=zoepicks00-20",
       "now": "59.49",
       "was": "69.99",
-      "deal": "Black Friday Deal",
       "reviews": 124,
       "tier": "premium"
      }
@@ -4052,12 +4060,11 @@
       "name": "Camping Hammock Lightweight",
       "pct": 30,
       "rating": 4.5,
-      "t": 1795279220,
+      "t": 1795291472,
       "img": "https://m.media-amazon.com/images/I/71c5fEfxSrL.jpg",
       "link": "https://www.amazon.com/dp/B0DR8L2DWG?tag=zoepicks00-20",
       "now": "13.99",
       "was": "19.99",
-      "deal": "Black Friday Deal",
       "reviews": 590,
       "tier": "budget"
      },
@@ -4121,25 +4128,6 @@
     ]
    },
    {
-    "key": "desks-small-spaces",
-    "label": "Desks Small Spaces",
-    "items": [
-     {
-      "asin": "B08M3W6SML",
-      "name": "WOHOMO Folding Desk",
-      "pct": 16,
-      "rating": 4.6,
-      "t": 1795277318,
-      "img": "https://m.media-amazon.com/images/I/61qWROneCIL.jpg",
-      "link": "https://www.amazon.com/dp/B08M3W6SML?tag=zoepicks00-20",
-      "now": "45.12",
-      "was": "53.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4446
-     }
-    ]
-   },
-   {
     "key": "standing-desks",
     "label": "Standing Desks",
     "items": [
@@ -4157,6 +4145,11 @@
       "reviews": 855
      }
     ]
+   },
+   {
+    "key": "desks-small-spaces",
+    "label": "Desks Small Spaces",
+    "items": []
    },
    {
     "key": "shoe-racks",
@@ -4202,12 +4195,11 @@
       "name": "Razer Iskur V2 X Ergonomic Gaming Chair",
       "pct": 37,
       "rating": 4.3,
-      "t": 1795279385,
+      "t": 1795290550,
       "img": "https://m.media-amazon.com/images/I/71JMbeac-qL.jpg",
       "link": "https://www.amazon.com/dp/B0DP5SY554?tag=zoepicks00-20",
       "now": "188.48",
       "was": "299.99",
-      "deal": "Black Friday Deal",
       "reviews": 340,
       "tier": "premium"
      }
@@ -4366,84 +4358,7 @@
       "now": "14.99",
       "was": "27.99",
       "deal": "Black Friday Deal",
-      "reviews": 552,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F59V5Y6Q",
-      "name": "AceGamer 2 Pack Wireless Controller",
-      "pct": 15,
-      "rating": 4.3,
-      "t": 1795279537,
-      "img": "https://m.media-amazon.com/images/I/61-lDYEIAoL.jpg",
-      "link": "https://www.amazon.com/dp/B0F59V5Y6Q?tag=zoepicks00-20",
-      "now": "32.28",
-      "was": "37.98",
-      "deal": "Black Friday Deal",
-      "reviews": 3920,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GV58C3K3",
-      "name": "Switch Controllers 2 Pack",
-      "pct": 15,
-      "rating": 4.2,
-      "t": 1795279537,
-      "img": "https://m.media-amazon.com/images/I/71AcZvFcH5L.jpg",
-      "link": "https://www.amazon.com/dp/B0GV58C3K3?tag=zoepicks00-20",
-      "now": "42.49",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 318,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "nintendo-switch-controller",
-    "label": "Nintendo Switch Controller",
-    "items": [
-     {
-      "asin": "B0DQNNFKRG",
-      "name": "AceGamer Wireless Pro Controller",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1795279537,
-      "img": "https://m.media-amazon.com/images/I/71419lXmY2L.jpg",
-      "link": "https://www.amazon.com/dp/B0DQNNFKRG?tag=zoepicks00-20",
-      "now": "22.09",
-      "was": "25.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1405,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DSJ2FCXL",
-      "name": "PowerA Wireless Controller",
-      "pct": 42,
-      "rating": 4.0,
-      "t": 1795279537,
-      "img": "https://m.media-amazon.com/images/I/71RRiaq+f3L.jpg",
-      "link": "https://www.amazon.com/dp/B0DSJ2FCXL?tag=zoepicks00-20",
-      "now": "28.89",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 173,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GMRWVS7C",
-      "name": "Turtle Beach Rematch Wireless Controller Koopa Troop…",
-      "pct": 38,
-      "rating": 4.5,
-      "t": 1795279537,
-      "img": "https://m.media-amazon.com/images/I/818LTeqI4RL.jpg",
-      "link": "https://www.amazon.com/dp/B0GMRWVS7C?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "64.99",
-      "deal": "Black Friday Deal",
-      "reviews": 628,
-      "tier": "premium"
+      "reviews": 552
      }
     ]
    },
@@ -4600,6 +4515,11 @@
    {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
+    "items": []
+   },
+   {
+    "key": "nintendo-switch-controller",
+    "label": "Nintendo Switch Controller",
     "items": []
    },
    {
@@ -5489,6 +5409,19 @@
     "label": "Black Water Bottle",
     "items": [
      {
+      "asin": "B0DTN46Q7Z",
+      "name": "STANLEY Quick Flip GO Bottle",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795280193,
+      "img": "https://m.media-amazon.com/images/I/61UwPURB5aL.jpg",
+      "link": "https://www.amazon.com/dp/B0DTN46Q7Z?tag=zoepicks00-20",
+      "now": "21.00",
+      "was": "28.00",
+      "deal": "Black Friday Deal",
+      "reviews": 30135
+     },
+     {
       "asin": "B0FF6TNXNV",
       "name": "Simple Modern Water Bottle",
       "pct": 25,
@@ -5500,35 +5433,7 @@
       "was": "24.99",
       "deal": "Black Friday Deal",
       "reviews": 2305,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DTN46Q7Z",
-      "name": "STANLEY Quick Flip GO Bottle",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1795280193,
-      "img": "https://m.media-amazon.com/images/I/61UwPURB5aL.jpg",
-      "link": "https://www.amazon.com/dp/B0DTN46Q7Z?tag=zoepicks00-20",
-      "now": "21.00",
-      "was": "28.00",
-      "deal": "Black Friday Deal",
-      "reviews": 30135,
       "tier": "mid"
-     },
-     {
-      "asin": "B0G6GDD8X4",
-      "name": "Hydro Flask® Insulated Stainless Steel Water Bottle",
-      "pct": 25,
-      "rating": 4.7,
-      "t": 1795280193,
-      "img": "https://m.media-amazon.com/images/I/41ElktVz6vL.jpg",
-      "link": "https://www.amazon.com/dp/B0G6GDD8X4?tag=zoepicks00-20",
-      "now": "26.21",
-      "was": "34.95",
-      "deal": "Black Friday Deal",
-      "reviews": 409,
-      "tier": "premium"
      }
     ]
    },
@@ -5790,17 +5695,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HK3V2GCT",
-      "name": "Tensky Smart Watch",
+      "asin": "B0HBX562Z1",
+      "name": "LIGE Military Smart Watch",
       "pct": 57,
-      "rating": 4.8,
+      "rating": 4.3,
       "t": 1795277955,
-      "img": "https://m.media-amazon.com/images/I/617gZ5DhKeL.jpg",
-      "link": "https://www.amazon.com/dp/B0HK3V2GCT?tag=zoepicks00-20",
-      "now": "42.55",
-      "was": "99.99",
+      "img": "https://m.media-amazon.com/images/I/81mMG97zkcL.jpg",
+      "link": "https://www.amazon.com/dp/B0HBX562Z1?tag=zoepicks00-20",
+      "now": "46.99",
+      "was": "109.99",
       "deal": "Black Friday Deal",
-      "reviews": 26,
+      "reviews": 286,
       "tier": "premium"
      }
     ]
@@ -5879,17 +5784,6 @@
     "label": "Gaming Monitors",
     "items": [
      {
-      "asin": "B0FF7L83XD",
-      "name": "New! Sceptre Curved 27-inch Gaming Monitor 1500R 100Hz HDMI…",
-      "pct": 43,
-      "rating": 4.6,
-      "t": 1795241613,
-      "img": "https://m.media-amazon.com/images/I/71Uv43gpCYL.jpg",
-      "link": "https://www.amazon.com/dp/B0FF7L83XD?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
       "asin": "B0CQRYS74G",
       "name": "Samsung 27-Inch Odyssey G55C Series QHD 1000R Curved Gaming…",
       "pct": 50,
@@ -5901,6 +5795,20 @@
       "was": "299.99",
       "deal": "Black Friday Deal",
       "reviews": 2222,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FLLKBNY7",
+      "name": "LG 27G640A-B 27-inch Ultragear QHD",
+      "pct": 49,
+      "rating": 4.4,
+      "t": 1795278112,
+      "img": "https://m.media-amazon.com/images/I/81ryaV511VL.jpg",
+      "link": "https://www.amazon.com/dp/B0FLLKBNY7?tag=zoepicks00-20",
+      "now": "229.99",
+      "was": "449.99",
+      "deal": "Black Friday Deal",
+      "reviews": 305,
       "tier": "mid"
      },
      {
