@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-21T08:09:00Z",
+ "updated": "2026-11-21T10:09:16Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2324,12 +2324,11 @@
       "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
       "pct": 35,
       "rating": 4.5,
-      "t": 1795229278,
+      "t": 1795251056,
       "img": "https://m.media-amazon.com/images/I/61B26yufuML.jpg",
       "link": "https://www.amazon.com/dp/B06XHVDF6R?tag=zoepicks00-20",
       "now": "129.99",
       "was": "199.99",
-      "deal": "Black Friday Deal",
       "reviews": 27015,
       "tier": "mid"
      },
@@ -2406,12 +2405,11 @@
       "name": "Lenovo Tab One - Lightweight Tablet",
       "pct": 29,
       "rating": 4.2,
-      "t": 1795229377,
+      "t": 1795251049,
       "img": "https://m.media-amazon.com/images/I/713r2sAaC+L.jpg",
       "link": "https://www.amazon.com/dp/B0F1NHSFMF?tag=zoepicks00-20",
       "now": "99.99",
       "was": "139.99",
-      "deal": "Black Friday Deal",
       "reviews": 958,
       "tier": "budget"
      },
@@ -2550,12 +2548,11 @@
       "name": "Compact Stereo System",
       "pct": 16,
       "rating": 4.2,
-      "t": 1795229295,
+      "t": 1795250134,
       "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
       "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
       "now": "79.98",
       "was": "94.80",
-      "deal": "Black Friday Deal",
       "reviews": 2207,
       "tier": "budget"
      },
@@ -2902,17 +2899,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0DWWSBR26",
-      "name": "LIGHT FLIGHT Luggage Sets 3 Pcs Suitcase",
-      "pct": 25,
+      "asin": "B014TMV5YE",
+      "name": "SwissGear Sion Softside Expandable Spinner Luggage Durable…",
+      "pct": 38,
       "rating": 4.3,
       "t": 1795198510,
-      "img": "https://m.media-amazon.com/images/I/71HywLfRlWL.jpg",
-      "link": "https://www.amazon.com/dp/B0DWWSBR26?tag=zoepicks00-20",
-      "now": "104.48",
-      "was": "139.99",
+      "img": "https://m.media-amazon.com/images/I/71+fbnFgmPL.jpg",
+      "link": "https://www.amazon.com/dp/B014TMV5YE?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "160.00",
       "deal": "Black Friday Deal",
-      "reviews": 1214,
+      "reviews": 26810,
       "tier": "mid"
      },
      {
@@ -4991,12 +4988,13 @@
       "name": "AOC AGON Pro 27 Inch Gaming Monitor QD OLED 240Hz 0.03ms",
       "pct": 15,
       "rating": 4.4,
-      "t": 1795126139,
+      "t": 1795199458,
       "img": "https://m.media-amazon.com/images/I/71sLDCcIl5L.jpg",
       "link": "https://www.amazon.com/dp/B0D682HF6R?tag=zoepicks00-20",
       "now": "297.49",
       "was": "349.99",
-      "reviews": 432,
+      "deal": "Black Friday Deal",
+      "reviews": 434,
       "tier": "budget"
      },
      {
@@ -5004,11 +5002,12 @@
       "name": "GIGABYTE GO27Q24G 27\" W-OLED 240Hz QHD Gaming Monitor",
       "pct": 15,
       "rating": 4.4,
-      "t": 1795126132,
+      "t": 1795199458,
       "img": "https://m.media-amazon.com/images/I/71o0PSgCBYL.jpg",
       "link": "https://www.amazon.com/dp/B0GV155YQM?tag=zoepicks00-20",
       "now": "297.49",
       "was": "349.99",
+      "deal": "Black Friday Deal",
       "reviews": 98,
       "tier": "mid"
      },
@@ -5163,13 +5162,27 @@
     ]
    },
    {
-    "key": "monitors-home-office",
-    "label": "Monitors Home Office",
-    "items": []
-   },
-   {
     "key": "monitors-mac",
     "label": "Monitors Mac",
+    "items": [
+     {
+      "asin": "B0H5FWBBXG",
+      "name": "New! Sceptre Curved 24-inch Prime Gaming Monitor 1080p…",
+      "pct": 28,
+      "rating": 4.4,
+      "t": 1795199458,
+      "img": "https://m.media-amazon.com/images/I/71GjEAvY4nL.jpg",
+      "link": "https://www.amazon.com/dp/B0H5FWBBXG?tag=zoepicks00-20",
+      "now": "77.97",
+      "was": "107.97",
+      "deal": "Black Friday Deal",
+      "reviews": 295
+     }
+    ]
+   },
+   {
+    "key": "monitors-home-office",
+    "label": "Monitors Home Office",
     "items": []
    }
   ],
@@ -5244,12 +5257,13 @@
       "name": "UKEIN Luggage Sets 3Piece",
       "pct": 15,
       "rating": 4.6,
-      "t": 1795119482,
+      "t": 1795198510,
       "img": "https://m.media-amazon.com/images/I/816KmZeZ4QL.jpg",
       "link": "https://www.amazon.com/dp/B0CW9WBF76?tag=zoepicks00-20",
       "now": "67.99",
       "was": "79.99",
-      "reviews": 2938,
+      "deal": "Black Friday Deal",
+      "reviews": 2943,
       "tier": "budget"
      },
      {
@@ -5613,12 +5627,13 @@
       "name": "TiVo Stream 4K – Every Streaming App and Live TV on One…",
       "pct": 50,
       "rating": 4.2,
-      "t": 1795119470,
+      "t": 1795199949,
       "img": "https://m.media-amazon.com/images/I/61CI2BW3JLL.jpg",
       "link": "https://www.amazon.com/dp/B089655HQV?tag=zoepicks00-20",
       "now": "19.99",
       "was": "39.99",
-      "reviews": 10058
+      "deal": "Black Friday Deal",
+      "reviews": 10059
      },
      {
       "asin": "B0H3NHLCJ3",
@@ -5789,12 +5804,13 @@
       "name": "ROVE R2-4K Dual Dash Cam Front and Rear",
       "pct": 30,
       "rating": 4.4,
-      "t": 1795119462,
+      "t": 1795200105,
       "img": "https://m.media-amazon.com/images/I/81ockFWJLsL.jpg",
       "link": "https://www.amazon.com/dp/B0D6J5B98H?tag=zoepicks00-20",
       "now": "139.99",
       "was": "199.99",
-      "reviews": 15186,
+      "deal": "Black Friday Deal",
+      "reviews": 15200,
       "tier": "premium"
      }
     ]
@@ -5833,11 +5849,12 @@
       "name": "Fanttik X8 APEX Tire Inflator Portable Air Compressor",
       "pct": 33,
       "rating": 4.6,
-      "t": 1795119456,
+      "t": 1795200105,
       "img": "https://m.media-amazon.com/images/I/61iKKq+XPXL.jpg",
       "link": "https://www.amazon.com/dp/B09YD2D96V?tag=zoepicks00-20",
       "now": "59.99",
       "was": "89.99",
+      "deal": "Black Friday Deal",
       "reviews": 6721,
       "tier": "premium"
      }
@@ -5971,6 +5988,25 @@
     ]
    },
    {
+    "key": "board-games-families",
+    "label": "Board Games Families",
+    "items": [
+     {
+      "asin": "B0DVMFL53S",
+      "name": "Guess Who? NFL Edition Board Game",
+      "pct": 28,
+      "rating": 4.7,
+      "t": 1795200248,
+      "img": "https://m.media-amazon.com/images/I/812LcLKpDSL.jpg",
+      "link": "https://www.amazon.com/dp/B0DVMFL53S?tag=zoepicks00-20",
+      "now": "10.99",
+      "was": "15.26",
+      "deal": "Black Friday Deal",
+      "reviews": 856
+     }
+    ]
+   },
+   {
     "key": "baby-carrier",
     "label": "Baby Carrier",
     "items": [
@@ -5988,11 +6024,6 @@
       "reviews": 29401
      }
     ]
-   },
-   {
-    "key": "board-games-families",
-    "label": "Board Games Families",
-    "items": []
    },
    {
     "key": "chewable-fidget-toy",
