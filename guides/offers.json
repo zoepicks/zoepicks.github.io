@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-22T13:13:00Z",
+ "updated": "2026-11-22T15:13:13Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -53,6 +53,20 @@
     "tier": "budget"
    },
    {
+    "asin": "B08TPCHYLW",
+    "name": "Lancôme Lash Idôle Mascara",
+    "pct": 73,
+    "rating": 4.4,
+    "t": 1795276919,
+    "img": "https://m.media-amazon.com/images/I/51Nj0hcoopL.jpg",
+    "link": "https://www.amazon.com/dp/B08TPCHYLW?tag=zoepicks00-20",
+    "now": "14.00",
+    "was": "51.85",
+    "deal": "Black Friday Deal",
+    "reviews": 11285,
+    "tier": "mid"
+   },
+   {
     "asin": "B018ZXEO50",
     "name": "Lancôme Cils Booster XL Enhancing Lash & Mascara Primer",
     "pct": 83,
@@ -61,20 +75,6 @@
     "img": "https://m.media-amazon.com/images/I/51GrLVY7scL.jpg",
     "link": "https://www.amazon.com/dp/B018ZXEO50?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0009V1YR8",
-    "name": "CHI Original 1\" Ceramic Hair Straightener Flat Iron",
-    "pct": 63,
-    "rating": 4.4,
-    "t": 1795276919,
-    "img": "https://m.media-amazon.com/images/I/51GM9aEfo8L.jpg",
-    "link": "https://www.amazon.com/dp/B0009V1YR8?tag=zoepicks00-20",
-    "now": "36.56",
-    "was": "100.00",
-    "deal": "Black Friday Deal",
-    "reviews": 20646,
     "tier": "premium"
    }
   ],
@@ -102,17 +102,14 @@
     "tier": "mid"
    },
    {
-    "asin": "B0H1GNCT7Q",
-    "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
-    "pct": 55,
-    "rating": 4.5,
-    "t": 1795229358,
-    "img": "https://m.media-amazon.com/images/I/7189t8qrtiL.jpg",
-    "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
-    "now": "999.00",
-    "was": "2,199.00",
-    "deal": "Black Friday Deal",
-    "reviews": 29,
+    "asin": "B0HCNB82DM",
+    "name": "4K UHD GPS Drone with Camera",
+    "pct": 53,
+    "rating": 4.9,
+    "t": 1795327890,
+    "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
+    "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -482,6 +479,17 @@
   ],
   "other": [
    {
+    "asin": "B0C3QT5T53",
+    "name": "Microwavable Weighted Highland Cow Stuffed Animal",
+    "pct": 47,
+    "rating": 4.5,
+    "t": 1795327977,
+    "img": "https://m.media-amazon.com/images/I/71SIuNycn-L.jpg",
+    "link": "https://www.amazon.com/dp/B0C3QT5T53?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
     "asin": "B09BKMNYQG",
     "name": "BSIDE Digital Multimeter Color LCD 3 Results Display 9999…",
     "pct": 50,
@@ -490,20 +498,6 @@
     "img": "https://m.media-amazon.com/images/I/71rKAqvFNKL.jpg",
     "link": "https://www.amazon.com/dp/B09BKMNYQG?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B0CH1RQXQ1",
-    "name": "Jocko Fuel Whey Protein Powder",
-    "pct": 30,
-    "rating": 4.5,
-    "t": 1795225691,
-    "img": "https://m.media-amazon.com/images/I/71wqb-mdvdL.jpg",
-    "link": "https://www.amazon.com/dp/B0CH1RQXQ1?tag=zoepicks00-20",
-    "now": "34.99",
-    "was": "49.99",
-    "deal": "Black Friday Deal",
-    "reviews": 4768,
     "tier": "mid"
    },
    {
@@ -765,24 +759,6 @@
     ]
    },
    {
-    "key": "webcams",
-    "label": "Webcams",
-    "items": [
-     {
-      "asin": "B0DDTGY8FG",
-      "name": "Insta360 Link 2C - 4K Webcam",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1795229747,
-      "img": "https://m.media-amazon.com/images/I/51uYRPGe5VL.jpg",
-      "link": "https://www.amazon.com/dp/B0DDTGY8FG?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "149.99",
-      "reviews": 1359
-     }
-    ]
-   },
-   {
     "key": "keyboards-typing",
     "label": "Keyboards Typing",
     "items": [
@@ -892,6 +868,11 @@
     "key": "travel-adapters",
     "label": "Travel Adapters",
     "items": []
+   },
+   {
+    "key": "webcams",
+    "label": "Webcams",
+    "items": []
    }
   ],
   "beauty_health": [
@@ -949,136 +930,7 @@
       "now": "36.56",
       "was": "100.00",
       "deal": "Black Friday Deal",
-      "reviews": 20646,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "eye-makeup",
-    "label": "Eye Makeup",
-    "items": [
-     {
-      "asin": "B0F9QR4JPT",
-      "name": "Urban Decay Naked Shaped Multi-tasking Eyeshadow Palette",
-      "pct": 60,
-      "rating": 4.3,
-      "t": 1795225602,
-      "img": "https://m.media-amazon.com/images/I/71RzxILLJ9L.jpg",
-      "link": "https://www.amazon.com/dp/B0F9QR4JPT?tag=zoepicks00-20",
-      "now": "28.00",
-      "was": "70.00",
-      "deal": "Black Friday Deal",
-      "reviews": 351
-     },
-     {
-      "asin": "B0FX4ZB55H",
-      "name": "MAANGE Makeup Brush Set 51 PCS Professional Makeup Brushes…",
-      "pct": 15,
-      "rating": 4.7,
-      "t": 1795225586,
-      "img": "https://m.media-amazon.com/images/I/812v09ycyEL.jpg",
-      "link": "https://www.amazon.com/dp/B0FX4ZB55H?tag=zoepicks00-20",
-      "now": "20.39",
-      "was": "23.99",
-      "deal": "Black Friday Deal",
-      "reviews": 225
-     }
-    ]
-   },
-   {
-    "key": "makeup-brush-set",
-    "label": "Makeup Brush Set",
-    "items": [
-     {
-      "asin": "B0G4V9M3MZ",
-      "name": "Real Techniques 4-Piece Full Beat Makeup Brush Set",
-      "pct": 30,
-      "rating": 4.7,
-      "t": 1795225586,
-      "img": "https://m.media-amazon.com/images/I/71To1Q46KjL.jpg",
-      "link": "https://www.amazon.com/dp/B0G4V9M3MZ?tag=zoepicks00-20",
-      "now": "17.50",
-      "was": "25.00",
-      "deal": "Black Friday Deal",
-      "reviews": 285,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0G4Z3J2T7",
-      "name": "BS-MALL Makeup Brush Set 18 Pcs Premium Synthetic…",
-      "pct": 19,
-      "rating": 4.6,
-      "t": 1795225586,
-      "img": "https://m.media-amazon.com/images/I/71goaxz-y+L.jpg",
-      "link": "https://www.amazon.com/dp/B0G4Z3J2T7?tag=zoepicks00-20",
-      "now": "17.76",
-      "was": "21.99",
-      "deal": "Black Friday Deal",
-      "reviews": 60971,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FJPS25NB",
-      "name": "LAURA GELLER Makeup Brushes",
-      "pct": 52,
-      "rating": 4.7,
-      "t": 1795225586,
-      "img": "https://m.media-amazon.com/images/I/61M6vmOMOwL.jpg",
-      "link": "https://www.amazon.com/dp/B0FJPS25NB?tag=zoepicks00-20",
-      "now": "23.28",
-      "was": "49.00",
-      "deal": "Black Friday Deal",
-      "reviews": 874,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "perfumes",
-    "label": "Perfumes",
-    "items": [
-     {
-      "asin": "B0DXWP12C8",
-      "name": "Kitsch Hair Perfume",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795225672,
-      "img": "https://m.media-amazon.com/images/I/714UhZVsYBL.jpg",
-      "link": "https://www.amazon.com/dp/B0DXWP12C8?tag=zoepicks00-20",
-      "now": "13.99",
-      "was": "19.99",
-      "deal": "Black Friday Deal",
-      "reviews": 3202,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08DHSMWBX",
-      "name": "Lancôme La Vie Est Belle Eau de Parfum",
-      "pct": 50,
-      "rating": 4.6,
-      "t": 1795225672,
-      "img": "https://m.media-amazon.com/images/I/61ttuXflExL.jpg",
-      "link": "https://www.amazon.com/dp/B08DHSMWBX?tag=zoepicks00-20",
-      "now": "33.60",
-      "was": "67.20",
-      "deal": "Black Friday Deal",
-      "reviews": 30574,
-      "tier": "mid"
-     },
-     {
-      "asin": "B00MRR0YJQ",
-      "name": "Marc Jacobs Daisy Dream Eau de Toilette",
-      "pct": 52,
-      "rating": 4.7,
-      "t": 1795225672,
-      "img": "https://m.media-amazon.com/images/I/51Wsx-eDV-L.jpg",
-      "link": "https://www.amazon.com/dp/B00MRR0YJQ?tag=zoepicks00-20",
-      "now": "69.35",
-      "was": "146.00",
-      "deal": "Black Friday Deal",
-      "reviews": 3824,
-      "tier": "premium"
+      "reviews": 20646
      }
     ]
    },
@@ -1277,54 +1129,6 @@
     ]
    },
    {
-    "key": "hair-styling-brush",
-    "label": "Hair Styling Brush",
-    "items": [
-     {
-      "asin": "B09B2Q7KRB",
-      "name": "REVLON One-Step Root Booster Round Brush Hair Dryer and…",
-      "pct": 34,
-      "rating": 4.2,
-      "t": 1795223662,
-      "img": "https://m.media-amazon.com/images/I/61BBeoP1+wL.jpg",
-      "link": "https://www.amazon.com/dp/B09B2Q7KRB?tag=zoepicks00-20",
-      "now": "36.56",
-      "was": "54.99",
-      "deal": "Black Friday Deal",
-      "reviews": 12435,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0B4M4JWYY",
-      "name": "L'ANGE HAIR Le Volume 2-in-1 Titanium Blow Dryer Brush",
-      "pct": 33,
-      "rating": 4.3,
-      "t": 1795223662,
-      "img": "https://m.media-amazon.com/images/I/81c5IXFAP8L.jpg",
-      "link": "https://www.amazon.com/dp/B0B4M4JWYY?tag=zoepicks00-20",
-      "now": "46.50",
-      "was": "69.00",
-      "deal": "Black Friday Deal",
-      "reviews": 24116,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FZMK77QD",
-      "name": "Conair InfinitiPRO Infrared Thermal Brush",
-      "pct": 37,
-      "rating": 4.0,
-      "t": 1795223662,
-      "img": "https://m.media-amazon.com/images/I/71-WKiWLggL.jpg",
-      "link": "https://www.amazon.com/dp/B0FZMK77QD?tag=zoepicks00-20",
-      "now": "50.39",
-      "was": "79.99",
-      "deal": "Black Friday Deal",
-      "reviews": 196,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "hair-dryers",
     "label": "Hair Dryers",
     "items": [
@@ -1462,51 +1266,6 @@
     ]
    },
    {
-    "key": "protein-powder",
-    "label": "Protein Powder",
-    "items": [
-     {
-      "asin": "B0CH1RQXQ1",
-      "name": "Jocko Fuel Whey Protein Powder",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795225691,
-      "img": "https://m.media-amazon.com/images/I/71wqb-mdvdL.jpg",
-      "link": "https://www.amazon.com/dp/B0CH1RQXQ1?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4768,
-      "tier": "budget"
-     },
-     {
-      "asin": "B008JC26E4",
-      "name": "MuscleTech Whey Protein Powder",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1795327978,
-      "img": "https://m.media-amazon.com/images/I/81+nReraesL.jpg",
-      "link": "https://www.amazon.com/dp/B008JC26E4?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B072M8FKRW",
-      "name": "Levels Whey Protein Powder",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1795225691,
-      "img": "https://m.media-amazon.com/images/I/71f4qXQIcmL.jpg",
-      "link": "https://www.amazon.com/dp/B072M8FKRW?tag=zoepicks00-20",
-      "now": "97.49",
-      "was": "129.99",
-      "deal": "Black Friday Deal",
-      "reviews": 7487,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "sleep-mask",
     "label": "Sleep Mask",
     "items": [
@@ -1526,6 +1285,22 @@
     ]
    },
    {
+    "key": "protein-powder",
+    "label": "Protein Powder",
+    "items": [
+     {
+      "asin": "B008JC26E4",
+      "name": "MuscleTech Whey Protein Powder",
+      "pct": 26,
+      "rating": 4.5,
+      "t": 1795327978,
+      "img": "https://m.media-amazon.com/images/I/81+nReraesL.jpg",
+      "link": "https://www.amazon.com/dp/B008JC26E4?tag=zoepicks00-20",
+      "reviews": 0
+     }
+    ]
+   },
+   {
     "key": "makeup-primers",
     "label": "Makeup Primers",
     "items": [
@@ -1541,38 +1316,6 @@
       "was": "32.00",
       "deal": "Black Friday Deal",
       "reviews": 35551
-     }
-    ]
-   },
-   {
-    "key": "makeup-palette",
-    "label": "Makeup Palette",
-    "items": [
-     {
-      "asin": "B0BDZG7YVD",
-      "name": "UCANBE Eyeshadow Palette",
-      "pct": 24,
-      "rating": 4.6,
-      "t": 1795225602,
-      "img": "https://m.media-amazon.com/images/I/710YFHUujBL.jpg",
-      "link": "https://www.amazon.com/dp/B0BDZG7YVD?tag=zoepicks00-20",
-      "now": "15.19",
-      "was": "19.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1895
-     },
-     {
-      "asin": "B0G1H1QGFT",
-      "name": "UCANBE 86 Colors Makeup Palette",
-      "pct": 20,
-      "rating": 4.7,
-      "t": 1795225602,
-      "img": "https://m.media-amazon.com/images/I/81YGlEBleNL.jpg",
-      "link": "https://www.amazon.com/dp/B0G1H1QGFT?tag=zoepicks00-20",
-      "now": "15.19",
-      "was": "18.99",
-      "deal": "Black Friday Deal",
-      "reviews": 6515
      }
     ]
    },
@@ -1611,25 +1354,21 @@
    {
     "key": "real-time-translation-device",
     "label": "Real Time Translation Device",
-    "items": [
-     {
-      "asin": "B0GVHXF6KN",
-      "name": "iFLYTEK AI Language Translator Device",
-      "pct": 17,
-      "rating": 4.1,
-      "t": 1795225705,
-      "img": "https://m.media-amazon.com/images/I/71KIA0xrf6L.jpg",
-      "link": "https://www.amazon.com/dp/B0GVHXF6KN?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "239.99",
-      "deal": "Black Friday Deal",
-      "reviews": 21
-     }
-    ]
+    "items": []
    },
    {
     "key": "hair-raising-headband",
     "label": "Hair Raising Headband",
+    "items": []
+   },
+   {
+    "key": "hair-styling-brush",
+    "label": "Hair Styling Brush",
+    "items": []
+   },
+   {
+    "key": "makeup-brush-set",
+    "label": "Makeup Brush Set",
     "items": []
    },
    {
@@ -1648,6 +1387,11 @@
     "items": []
    },
    {
+    "key": "eye-makeup",
+    "label": "Eye Makeup",
+    "items": []
+   },
+   {
     "key": "facial-skincare",
     "label": "Facial Skincare",
     "items": []
@@ -1658,8 +1402,18 @@
     "items": []
    },
    {
+    "key": "makeup-palette",
+    "label": "Makeup Palette",
+    "items": []
+   },
+   {
     "key": "epilators",
     "label": "Epilators",
+    "items": []
+   },
+   {
+    "key": "perfumes",
+    "label": "Perfumes",
     "items": []
    }
   ],
@@ -1758,71 +1512,9 @@
     ]
    },
    {
-    "key": "surround-sound-system",
-    "label": "Surround Sound System",
-    "items": [
-     {
-      "asin": "B0FPF6CX34",
-      "name": "ULTIMEA 7.1ch Sound Bar",
-      "pct": 50,
-      "rating": 4.5,
-      "t": 1795229358,
-      "img": "https://m.media-amazon.com/images/I/617auFmHEfL.jpg",
-      "link": "https://www.amazon.com/dp/B0FPF6CX34?tag=zoepicks00-20",
-      "now": "129.99",
-      "was": "259.99",
-      "deal": "Black Friday Deal",
-      "reviews": 28,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FLK5VJD2",
-      "name": "ULTIMEA Skywave X40 5.1.2ch Sound Bar",
-      "pct": 35,
-      "rating": 4.6,
-      "t": 1795229358,
-      "img": "https://m.media-amazon.com/images/I/812GLPJn2aL.jpg",
-      "link": "https://www.amazon.com/dp/B0FLK5VJD2?tag=zoepicks00-20",
-      "now": "299.00",
-      "was": "459.00",
-      "deal": "Black Friday Deal",
-      "reviews": 266,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H1GNCT7Q",
-      "name": "ULTIMEA Skywave X100 Dual 9.2.6 THX-Tuned Wireless Surround…",
-      "pct": 55,
-      "rating": 4.5,
-      "t": 1795229358,
-      "img": "https://m.media-amazon.com/images/I/7189t8qrtiL.jpg",
-      "link": "https://www.amazon.com/dp/B0H1GNCT7Q?tag=zoepicks00-20",
-      "now": "999.00",
-      "was": "2,199.00",
-      "deal": "Black Friday Deal",
-      "reviews": 29,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "drone",
     "label": "Drone",
     "items": [
-     {
-      "asin": "B0HD77CMQP",
-      "name": "1080P Drone with Camera",
-      "pct": 37,
-      "rating": 4.8,
-      "t": 1795225822,
-      "img": "https://m.media-amazon.com/images/I/719Kn1RJiNL.jpg",
-      "link": "https://www.amazon.com/dp/B0HD77CMQP?tag=zoepicks00-20",
-      "now": "31.34",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 61,
-      "tier": "budget"
-     },
      {
       "asin": "B0HCNB82DM",
       "name": "4K UHD GPS Drone with Camera",
@@ -1832,40 +1524,7 @@
       "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
       "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0HCVHNM15",
-      "name": "Drones with Camera",
-      "pct": 43,
-      "rating": 4.9,
-      "t": 1795225822,
-      "img": "https://m.media-amazon.com/images/I/61te7glhaFL.jpg",
-      "link": "https://www.amazon.com/dp/B0HCVHNM15?tag=zoepicks00-20",
-      "now": "113.99",
-      "was": "199.99",
-      "deal": "Black Friday Deal",
-      "reviews": 64,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "mac-studio",
-    "label": "Mac Studio",
-    "items": [
-     {
-      "asin": "B00N1YPXW2",
-      "name": "Logitech Creators Blue Yeti USB Microphone",
-      "pct": 50,
-      "rating": 4.6,
-      "t": 1795229187,
-      "img": "https://m.media-amazon.com/images/I/61IPJI9ezKL.jpg",
-      "link": "https://www.amazon.com/dp/B00N1YPXW2?tag=zoepicks00-20",
-      "now": "69.99",
-      "was": "139.99",
-      "deal": "Black Friday Deal",
-      "reviews": 57245
      }
     ]
    },
@@ -1881,8 +1540,7 @@
       "t": 1795327891,
       "img": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
       "link": "https://www.amazon.com/dp/B07N3WYLKZ?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
+      "reviews": 0
      },
      {
       "asin": "B06XHVDF6R",
@@ -1894,22 +1552,7 @@
       "link": "https://www.amazon.com/dp/B06XHVDF6R?tag=zoepicks00-20",
       "now": "129.99",
       "was": "199.99",
-      "reviews": 27015,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0G96H73JD",
-      "name": "Sony PS-LX3BT Wireless Bluetooth Turntable",
-      "pct": 40,
-      "rating": 4.8,
-      "t": 1795229278,
-      "img": "https://m.media-amazon.com/images/I/61DLdH5-oDL.jpg",
-      "link": "https://www.amazon.com/dp/B0G96H73JD?tag=zoepicks00-20",
-      "now": "238.00",
-      "was": "398.00",
-      "deal": "Black Friday Deal",
-      "reviews": 100,
-      "tier": "premium"
+      "reviews": 27015
      }
     ]
    },
@@ -1918,17 +1561,17 @@
     "label": "Bluetooth Speakers",
     "items": [
      {
-      "asin": "B0DC616MCH",
-      "name": "Mersoco Vinyl Record Player",
-      "pct": 49,
+      "asin": "B01MTB55WH",
+      "name": "Anker soundcore 2 Portable Bluetooth Speaker",
+      "pct": 37,
       "rating": 4.5,
-      "t": 1795229278,
-      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
-      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "69.99",
+      "t": 1795277088,
+      "img": "https://m.media-amazon.com/images/I/61ad7wmJ5lL.jpg",
+      "link": "https://www.amazon.com/dp/B01MTB55WH?tag=zoepicks00-20",
+      "now": "28.48",
+      "was": "44.99",
       "deal": "Black Friday Deal",
-      "reviews": 3467,
+      "reviews": 159315,
       "tier": "budget"
      },
      {
@@ -1946,85 +1589,18 @@
       "tier": "mid"
      },
      {
-      "asin": "B0D6WD2QSQ",
-      "name": "Bose SoundLink Flex Bluetooth Speaker",
-      "pct": 34,
-      "rating": 4.7,
-      "t": 1795277088,
-      "img": "https://m.media-amazon.com/images/I/7192Qca-fUL.jpg",
-      "link": "https://www.amazon.com/dp/B0D6WD2QSQ?tag=zoepicks00-20",
-      "now": "99.00",
-      "was": "149.00",
-      "deal": "Black Friday Deal",
-      "reviews": 13992,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "tablets",
-    "label": "Tablets",
-    "items": [
-     {
-      "asin": "B0CN9SD8JF",
-      "name": "THE NORTH FACE Borealis Laptop Backpack",
-      "pct": 30,
-      "rating": 4.7,
-      "t": 1795277160,
-      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
-      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
-      "now": "80.50",
-      "was": "115.00",
-      "deal": "Black Friday Deal",
-      "reviews": 16543,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0HK3PKW2M",
-      "name": "Android 17 Tablet, 10.1 inch Tablets",
-      "pct": 48,
-      "rating": 4.5,
-      "t": 1795229377,
-      "img": "https://m.media-amazon.com/images/I/81RX09IAs+L.jpg",
-      "link": "https://www.amazon.com/dp/B0HK3PKW2M?tag=zoepicks00-20",
-      "now": "104.48",
-      "was": "199.99",
-      "deal": "Black Friday Deal",
-      "reviews": 118,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07RXZC12J",
-      "name": "HUION Kamvas Pro 16 Drawing Tablet",
-      "pct": 34,
-      "rating": 4.5,
-      "t": 1795280159,
-      "img": "https://m.media-amazon.com/images/I/61rVp0j88xL.jpg",
-      "link": "https://www.amazon.com/dp/B07RXZC12J?tag=zoepicks00-20",
-      "now": "259.00",
-      "was": "389.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4428,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "e-readers",
-    "label": "E Readers",
-    "items": [
-     {
-      "asin": "B0H8SZ945Y",
-      "name": "XTEINK X4 Classic Pocket eReader",
+      "asin": "B0C4BZ28PG",
+      "name": "Amazon Fire TV Soundbar",
       "pct": 38,
-      "rating": 4.0,
-      "t": 1795225838,
-      "img": "https://m.media-amazon.com/images/I/61ciN94zR6L.jpg",
-      "link": "https://www.amazon.com/dp/B0H8SZ945Y?tag=zoepicks00-20",
-      "now": "54.87",
-      "was": "89.00",
+      "rating": 4.2,
+      "t": 1795278548,
+      "img": "https://m.media-amazon.com/images/I/71izIXUYy0L.jpg",
+      "link": "https://www.amazon.com/dp/B0C4BZ28PG?tag=zoepicks00-20",
+      "now": "74.99",
+      "was": "119.99",
       "deal": "Black Friday Deal",
-      "reviews": 381
+      "reviews": 6897,
+      "tier": "premium"
      }
     ]
    },
@@ -2048,49 +1624,48 @@
     ]
    },
    {
-    "key": "cameras-beginners",
-    "label": "Cameras Beginners",
+    "key": "tablets",
+    "label": "Tablets",
     "items": [
      {
-      "asin": "B0HK824CRP",
-      "name": "Pallton Drone with Camera",
-      "pct": 37,
-      "rating": 4.8,
-      "t": 1795225822,
-      "img": "https://m.media-amazon.com/images/I/71HWpfvNSkL.jpg",
-      "link": "https://www.amazon.com/dp/B0HK824CRP?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "59.98",
+      "asin": "B0CN9SD8JF",
+      "name": "THE NORTH FACE Borealis Laptop Backpack",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795277160,
+      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
+      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
+      "now": "80.50",
+      "was": "115.00",
       "deal": "Black Friday Deal",
-      "reviews": 165,
+      "reviews": 16543,
       "tier": "budget"
      },
      {
-      "asin": "B0DH28GGNZ",
-      "name": "4K Digital Camera for Beginners & Teens",
-      "pct": 29,
-      "rating": 4.2,
-      "t": 1795225808,
-      "img": "https://m.media-amazon.com/images/I/81jEORHhi9L.jpg",
-      "link": "https://www.amazon.com/dp/B0DH28GGNZ?tag=zoepicks00-20",
-      "now": "56.98",
-      "was": "79.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1567,
+      "asin": "B0DZHGCT5S",
+      "name": "PicassoTab 10\" Standalone Drawing Tablet",
+      "pct": 30,
+      "rating": 4.3,
+      "t": 1795287762,
+      "img": "https://m.media-amazon.com/images/I/71B296y98VL.jpg",
+      "link": "https://www.amazon.com/dp/B0DZHGCT5S?tag=zoepicks00-20",
+      "now": "169.00",
+      "was": "239.95",
+      "reviews": 230,
       "tier": "mid"
      },
      {
-      "asin": "B0HFCQFS6Z",
-      "name": "8K Digital Camera, 88MP Autofocus Camera",
-      "pct": 27,
+      "asin": "B07RXZC12J",
+      "name": "HUION Kamvas Pro 16 Drawing Tablet",
+      "pct": 34,
       "rating": 4.5,
-      "t": 1795225808,
-      "img": "https://m.media-amazon.com/images/I/71jTwdgseEL.jpg",
-      "link": "https://www.amazon.com/dp/B0HFCQFS6Z?tag=zoepicks00-20",
-      "now": "94.98",
-      "was": "129.99",
+      "t": 1795280159,
+      "img": "https://m.media-amazon.com/images/I/61rVp0j88xL.jpg",
+      "link": "https://www.amazon.com/dp/B07RXZC12J?tag=zoepicks00-20",
+      "now": "259.00",
+      "was": "389.99",
       "deal": "Black Friday Deal",
-      "reviews": 40,
+      "reviews": 4428,
       "tier": "premium"
      }
     ]
@@ -2099,19 +1674,6 @@
     "key": "stereo-system",
     "label": "Stereo System",
     "items": [
-     {
-      "asin": "B0DKHVTSQM",
-      "name": "Compact Stereo System",
-      "pct": 16,
-      "rating": 4.2,
-      "t": 1795250134,
-      "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
-      "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
-      "now": "79.98",
-      "was": "94.80",
-      "reviews": 2207,
-      "tier": "budget"
-     },
      {
       "asin": "B0FRLCCTW1",
       "name": "WISCENT Bluetooth Stereo System 40W",
@@ -2122,22 +1684,19 @@
       "link": "https://www.amazon.com/dp/B0FRLCCTW1?tag=zoepicks00-20",
       "now": "87.20",
       "was": "109.00",
-      "reviews": 134,
-      "tier": "mid"
+      "reviews": 134
      },
      {
-      "asin": "B0H4MQSHDN",
-      "name": "Philips Bluetooth Stereo System",
-      "pct": 21,
+      "asin": "B0DKHVTSQM",
+      "name": "Compact Stereo System",
+      "pct": 16,
       "rating": 4.2,
-      "t": 1795229295,
-      "img": "https://m.media-amazon.com/images/I/61jxAZWkiUL.jpg",
-      "link": "https://www.amazon.com/dp/B0H4MQSHDN?tag=zoepicks00-20",
-      "now": "134.99",
-      "was": "169.99",
-      "deal": "Black Friday Deal",
-      "reviews": 5595,
-      "tier": "premium"
+      "t": 1795250134,
+      "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
+      "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
+      "now": "79.98",
+      "was": "94.80",
+      "reviews": 2207
      }
     ]
    },
@@ -2152,8 +1711,23 @@
     "items": []
    },
    {
+    "key": "surround-sound-system",
+    "label": "Surround Sound System",
+    "items": []
+   },
+   {
     "key": "camera-tripod",
     "label": "Camera Tripod",
+    "items": []
+   },
+   {
+    "key": "cameras-beginners",
+    "label": "Cameras Beginners",
+    "items": []
+   },
+   {
+    "key": "e-readers",
+    "label": "E Readers",
     "items": []
    },
    {
@@ -2164,6 +1738,11 @@
    {
     "key": "kobo-case",
     "label": "Kobo Case",
+    "items": []
+   },
+   {
+    "key": "mac-studio",
+    "label": "Mac Studio",
     "items": []
    }
   ],
@@ -2443,32 +2022,18 @@
     "label": "Suitcase",
     "items": [
      {
-      "asin": "B0DC616MCH",
-      "name": "Mersoco Vinyl Record Player",
-      "pct": 49,
-      "rating": 4.5,
-      "t": 1795229278,
-      "img": "https://m.media-amazon.com/images/I/71eW5bxtJoL.jpg",
-      "link": "https://www.amazon.com/dp/B0DC616MCH?tag=zoepicks00-20",
-      "now": "35.99",
-      "was": "69.99",
-      "deal": "Black Friday Deal",
-      "reviews": 3467,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D3LDFKRP",
-      "name": "Cosbarn Luggage Sets",
-      "pct": 39,
-      "rating": 4.5,
+      "asin": "B014TMV5YE",
+      "name": "SwissGear Sion Softside Expandable Spinner Luggage Durable…",
+      "pct": 38,
+      "rating": 4.3,
       "t": 1795277160,
-      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
-      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
-      "now": "104.49",
-      "was": "169.99",
+      "img": "https://m.media-amazon.com/images/I/71+fbnFgmPL.jpg",
+      "link": "https://www.amazon.com/dp/B014TMV5YE?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "160.00",
       "deal": "Black Friday Deal",
-      "reviews": 2044,
-      "tier": "mid"
+      "reviews": 26816,
+      "tier": "budget"
      },
      {
       "asin": "B01M0A3BKH",
@@ -2482,6 +2047,20 @@
       "was": "219.99",
       "deal": "Black Friday Deal",
       "reviews": 8896,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DLH4DY5L",
+      "name": "Away Bigger Carry-On Luggage",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1795277160,
+      "img": "https://m.media-amazon.com/images/I/71rKKIvGugL.jpg",
+      "link": "https://www.amazon.com/dp/B0DLH4DY5L?tag=zoepicks00-20",
+      "now": "221.00",
+      "was": "295.00",
+      "deal": "Black Friday Deal",
+      "reviews": 640,
       "tier": "premium"
      }
     ]
@@ -2630,54 +2209,6 @@
     ]
    },
    {
-    "key": "carry-on-bags",
-    "label": "Carry On Bags",
-    "items": [
-     {
-      "asin": "B0CGR1XGVX",
-      "name": "TOPBAG Travel Duffle Bag",
-      "pct": 15,
-      "rating": 4.6,
-      "t": 1795229393,
-      "img": "https://m.media-amazon.com/images/I/71UwwijAOAL.jpg",
-      "link": "https://www.amazon.com/dp/B0CGR1XGVX?tag=zoepicks00-20",
-      "now": "14.44",
-      "was": "16.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4612,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CSYNW3X3",
-      "name": "BAGSMART Gym Bag for Women",
-      "pct": 32,
-      "rating": 4.6,
-      "t": 1795229393,
-      "img": "https://m.media-amazon.com/images/I/61WKa4fHYkL.jpg",
-      "link": "https://www.amazon.com/dp/B0CSYNW3X3?tag=zoepicks00-20",
-      "now": "20.36",
-      "was": "29.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4078,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0CDB2RF4X",
-      "name": "Large Travel Duffle Bags",
-      "pct": 44,
-      "rating": 4.7,
-      "t": 1795229393,
-      "img": "https://m.media-amazon.com/images/I/71Qt5mSkCQL.jpg",
-      "link": "https://www.amazon.com/dp/B0CDB2RF4X?tag=zoepicks00-20",
-      "now": "22.44",
-      "was": "39.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4132,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "polo-shirt",
     "label": "Polo Shirt",
     "items": [
@@ -2774,20 +2305,6 @@
     "label": "Crossbody Bag",
     "items": [
      {
-      "asin": "B0DSPR24RD",
-      "name": "FEIBOON Spacious Nylon Crossbody Bag Bum Bag Handbags Purses",
-      "pct": 22,
-      "rating": 4.5,
-      "t": 1795229413,
-      "img": "https://m.media-amazon.com/images/I/61cIl1jvODL.jpg",
-      "link": "https://www.amazon.com/dp/B0DSPR24RD?tag=zoepicks00-20",
-      "now": "17.14",
-      "was": "21.99",
-      "deal": "Black Friday Deal",
-      "reviews": 1201,
-      "tier": "budget"
-     },
-     {
       "asin": "B0756VCN94",
       "name": "Realer Hobo Crossbody Bag",
       "pct": 39,
@@ -2797,22 +2314,20 @@
       "link": "https://www.amazon.com/dp/B0756VCN94?tag=zoepicks00-20",
       "now": "26.98",
       "was": "43.99",
-      "reviews": 27426,
-      "tier": "mid"
+      "reviews": 27426
      },
      {
-      "asin": "B07DKHC9DM",
-      "name": "Michael Kors Women's Jet Set Large Crossbody Bag",
-      "pct": 34,
-      "rating": 4.7,
-      "t": 1795229413,
-      "img": "https://m.media-amazon.com/images/I/71g57JeuNsL.jpg",
-      "link": "https://www.amazon.com/dp/B07DKHC9DM?tag=zoepicks00-20",
-      "now": "79.00",
-      "was": "119.50",
+      "asin": "B07T5D98RW",
+      "name": "WATERFLY Crossbody Sling Backpack Sling Bag Travel Hiking…",
+      "pct": 19,
+      "rating": 4.5,
+      "t": 1795279030,
+      "img": "https://m.media-amazon.com/images/I/610QzKj7tLL.jpg",
+      "link": "https://www.amazon.com/dp/B07T5D98RW?tag=zoepicks00-20",
+      "now": "20.18",
+      "was": "24.99",
       "deal": "Black Friday Deal",
-      "reviews": 5551,
-      "tier": "premium"
+      "reviews": 48461
      }
     ]
    },
@@ -2897,53 +2412,6 @@
     ]
    },
    {
-    "key": "gym-bags",
-    "label": "Gym Bags",
-    "items": [
-     {
-      "asin": "B0DYJRHJ79",
-      "name": "JELUTAR Drawstring Backpack Gym Bag",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795229426,
-      "img": "https://m.media-amazon.com/images/I/61qpm47oV1L.jpg",
-      "link": "https://www.amazon.com/dp/B0DYJRHJ79?tag=zoepicks00-20",
-      "now": "13.28",
-      "was": "18.98",
-      "deal": "Black Friday Deal",
-      "reviews": 1218,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DQD7TC9D",
-      "name": "MIYCOO Gym Bag with Shoes Compartment",
-      "pct": 26,
-      "rating": 4.5,
-      "t": 1795229426,
-      "img": "https://m.media-amazon.com/images/I/81w26mTP0yL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQD7TC9D?tag=zoepicks00-20",
-      "now": "18.56",
-      "was": "24.99",
-      "deal": "Black Friday Deal",
-      "reviews": 2193,
-      "tier": "mid"
-     },
-     {
-      "asin": "B09D2Z3YRZ",
-      "name": "Uarition Gym Bag for Men & Women",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1795240012,
-      "img": "https://m.media-amazon.com/images/I/71YpEU8+8HL.jpg",
-      "link": "https://www.amazon.com/dp/B09D2Z3YRZ?tag=zoepicks00-20",
-      "now": "18.99",
-      "was": "24.99",
-      "reviews": 747,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "wallets",
     "label": "Wallets",
     "items": [
@@ -2972,6 +2440,37 @@
       "was": "26.99",
       "deal": "Black Friday Deal",
       "reviews": 3814
+     }
+    ]
+   },
+   {
+    "key": "gym-bags",
+    "label": "Gym Bags",
+    "items": [
+     {
+      "asin": "B09D2Z3YRZ",
+      "name": "Uarition Gym Bag for Men & Women",
+      "pct": 24,
+      "rating": 4.4,
+      "t": 1795240012,
+      "img": "https://m.media-amazon.com/images/I/71YpEU8+8HL.jpg",
+      "link": "https://www.amazon.com/dp/B09D2Z3YRZ?tag=zoepicks00-20",
+      "now": "18.99",
+      "was": "24.99",
+      "reviews": 747
+     },
+     {
+      "asin": "B0FJ2YLPGR",
+      "name": "ENCOOL Leakproof Insulated Water Bottle",
+      "pct": 19,
+      "rating": 4.6,
+      "t": 1795279098,
+      "img": "https://m.media-amazon.com/images/I/51eMqotNXBL.jpg",
+      "link": "https://www.amazon.com/dp/B0FJ2YLPGR?tag=zoepicks00-20",
+      "now": "16.14",
+      "was": "19.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1831
      }
     ]
    },
@@ -3012,6 +2511,11 @@
       "reviews": 2531
      }
     ]
+   },
+   {
+    "key": "carry-on-bags",
+    "label": "Carry On Bags",
+    "items": []
    },
    {
     "key": "watch-band",
@@ -4109,17 +3613,14 @@
       "tier": "mid"
      },
      {
-      "asin": "B00N1YPXW2",
+      "asin": "B01LY6Z2M6",
       "name": "Logitech Creators Blue Yeti USB Microphone",
       "pct": 50,
       "rating": 4.6,
-      "t": 1795229187,
-      "img": "https://m.media-amazon.com/images/I/61IPJI9ezKL.jpg",
-      "link": "https://www.amazon.com/dp/B00N1YPXW2?tag=zoepicks00-20",
-      "now": "69.99",
-      "was": "139.99",
-      "deal": "Black Friday Deal",
-      "reviews": 57245,
+      "t": 1795327891,
+      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
+      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -5659,7 +5160,7 @@
       "img": "https://m.media-amazon.com/images/I/71rKAqvFNKL.jpg",
       "link": "https://www.amazon.com/dp/B09BKMNYQG?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
+      "tier": "mid"
      }
     ]
    },
@@ -5675,7 +5176,8 @@
       "t": 1795327977,
       "img": "https://m.media-amazon.com/images/I/71SIuNycn-L.jpg",
       "link": "https://www.amazon.com/dp/B0C3QT5T53?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
      }
     ]
    },
@@ -5728,28 +5230,13 @@
     ]
    },
    {
-    "key": "chocolate-protein-powder",
-    "label": "Chocolate Protein Powder",
-    "items": [
-     {
-      "asin": "B0CH1RQXQ1",
-      "name": "Jocko Fuel Whey Protein Powder",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795225691,
-      "img": "https://m.media-amazon.com/images/I/71wqb-mdvdL.jpg",
-      "link": "https://www.amazon.com/dp/B0CH1RQXQ1?tag=zoepicks00-20",
-      "now": "34.99",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 4768,
-      "tier": "budget"
-     }
-    ]
-   },
-   {
     "key": "carpet-stain-remover",
     "label": "Carpet Stain Remover",
+    "items": []
+   },
+   {
+    "key": "chocolate-protein-powder",
+    "label": "Chocolate Protein Powder",
     "items": []
    },
    {
@@ -6122,6 +5609,20 @@
     "label": "Soundbars",
     "items": [
      {
+      "asin": "B0C4BZ28PG",
+      "name": "Amazon Fire TV Soundbar",
+      "pct": 38,
+      "rating": 4.2,
+      "t": 1795278548,
+      "img": "https://m.media-amazon.com/images/I/71izIXUYy0L.jpg",
+      "link": "https://www.amazon.com/dp/B0C4BZ28PG?tag=zoepicks00-20",
+      "now": "74.99",
+      "was": "119.99",
+      "deal": "Black Friday Deal",
+      "reviews": 6897,
+      "tier": "budget"
+     },
+     {
       "asin": "B0CXZTT4MT",
       "name": "Amazon Fire TV Soundbar Plus",
       "pct": 44,
@@ -6133,34 +5634,20 @@
       "was": "249.99",
       "deal": "Black Friday Deal",
       "reviews": 2214,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FLK5VJD2",
-      "name": "ULTIMEA Skywave X40 5.1.2ch Sound Bar",
-      "pct": 35,
-      "rating": 4.6,
-      "t": 1795229358,
-      "img": "https://m.media-amazon.com/images/I/812GLPJn2aL.jpg",
-      "link": "https://www.amazon.com/dp/B0FLK5VJD2?tag=zoepicks00-20",
-      "now": "299.00",
-      "was": "459.00",
-      "deal": "Black Friday Deal",
-      "reviews": 266,
       "tier": "mid"
      },
      {
-      "asin": "B0FP5G4CYG",
-      "name": "ULTIMEA Skywave X50 5.1.4ch Wireless Surround Sound System",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1795229358,
-      "img": "https://m.media-amazon.com/images/I/61fPGvOOl1L.jpg",
-      "link": "https://www.amazon.com/dp/B0FP5G4CYG?tag=zoepicks00-20",
-      "now": "399.00",
-      "was": "599.00",
+      "asin": "B09GPYL7BJ",
+      "name": "Sonos Beam Gen 2 - Black",
+      "pct": 32,
+      "rating": 4.3,
+      "t": 1795278548,
+      "img": "https://m.media-amazon.com/images/I/51kIR1gKWYL.jpg",
+      "link": "https://www.amazon.com/dp/B09GPYL7BJ?tag=zoepicks00-20",
+      "now": "339.00",
+      "was": "499.00",
       "deal": "Black Friday Deal",
-      "reviews": 316,
+      "reviews": 2041,
       "tier": "premium"
      }
     ]
