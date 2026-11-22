@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-22T05:00:39Z",
+ "updated": "2026-11-22T08:44:52Z",
  "cats": [
   {
    "key": "fashion",
@@ -25,30 +25,6 @@
  ],
  "items": {
   "fashion": [
-   {
-    "asin": "B0HPP45LQQ",
-    "name": "Fitness Tracker, Smart Watches",
-    "pct": 62,
-    "rating": 4.8,
-    "t": 1795277955,
-    "img": "https://m.media-amazon.com/images/I/710096DvMsL.jpg",
-    "link": "https://www.amazon.com/dp/B0HPP45LQQ?tag=zoepicks00-20",
-    "now": "37.99",
-    "was": "99.99",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0BYNYWKC7",
-    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
-    "pct": 63,
-    "rating": 4.6,
-    "t": 1795277160,
-    "img": "https://m.media-amazon.com/images/I/71yhTG8TNrL.jpg",
-    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
-    "now": "13.27",
-    "was": "35.99",
-    "cat": "fashion"
-   },
    {
     "asin": "B0HDSMB23G",
     "name": "Smart Watches for Women",
@@ -114,7 +90,7 @@
     "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
     "pct": 50,
     "rating": 4.3,
-    "t": 1795260634,
+    "t": 1795328001,
     "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
     "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
     "now": "20.10",
@@ -352,18 +328,6 @@
   ],
   "beauty": [
    {
-    "asin": "B09SZ5JX2Y",
-    "name": "d'alba Piedmont White Truffle Double Serum All-in-one Multi…",
-    "pct": 65,
-    "rating": 4.5,
-    "t": 1795276919,
-    "img": "https://m.media-amazon.com/images/I/51PiPB7KKcL.jpg",
-    "link": "https://www.amazon.com/dp/B09SZ5JX2Y?tag=zoepicks00-20",
-    "now": "15.99",
-    "was": "45.69",
-    "cat": "beauty"
-   },
-   {
     "asin": "B0009V1YR8",
     "name": "CHI Original 1\" Ceramic Hair Straightener Flat Iron",
     "pct": 63,
@@ -409,6 +373,18 @@
     "link": "https://www.amazon.com/dp/B00MRR0YJQ?tag=zoepicks00-20",
     "now": "69.35",
     "was": "146.00",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B0DKJ347ZJ",
+    "name": "d'alba Piedmont White Truffle Waterfull Essence Sunscreen",
+    "pct": 54,
+    "rating": 4.4,
+    "t": 1795328000,
+    "img": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
+    "link": "https://www.amazon.com/dp/B0DKJ347ZJ?tag=zoepicks00-20",
+    "now": "12.99",
+    "was": "28.00",
     "cat": "beauty"
    },
    {
@@ -556,6 +532,18 @@
     "cat": "beauty"
    },
    {
+    "asin": "B0F83N244B",
+    "name": "medicube PDRN Hydrating Gel Cleanser",
+    "pct": 30,
+    "rating": 4.7,
+    "t": 1795276919,
+    "img": "https://m.media-amazon.com/images/I/51jXH+JEjgL.jpg",
+    "link": "https://www.amazon.com/dp/B0F83N244B?tag=zoepicks00-20",
+    "now": "11.83",
+    "was": "16.90",
+    "cat": "beauty"
+   },
+   {
     "asin": "B0BPXT3GBN",
     "name": "medicube Triple Collagen Cream",
     "pct": 30,
@@ -580,18 +568,6 @@
     "cat": "beauty"
    },
    {
-    "asin": "B0F83N244B",
-    "name": "medicube PDRN Hydrating Gel Cleanser",
-    "pct": 30,
-    "rating": 4.7,
-    "t": 1795276919,
-    "img": "https://m.media-amazon.com/images/I/51jXH+JEjgL.jpg",
-    "link": "https://www.amazon.com/dp/B0F83N244B?tag=zoepicks00-20",
-    "now": "11.83",
-    "was": "16.90",
-    "cat": "beauty"
-   },
-   {
     "asin": "B01LSUQSB0",
     "name": "REVLON One-Step Volumizer Hair Dryer and Styler",
     "pct": 30,
@@ -601,18 +577,6 @@
     "link": "https://www.amazon.com/dp/B01LSUQSB0?tag=zoepicks00-20",
     "now": "34.99",
     "was": "49.99",
-    "cat": "beauty"
-   },
-   {
-    "asin": "B018A0BO92",
-    "name": "Youth To The People Superfood Cleanser",
-    "pct": 30,
-    "rating": 4.6,
-    "t": 1795276919,
-    "img": "https://m.media-amazon.com/images/I/61XDEMjJlML.jpg",
-    "link": "https://www.amazon.com/dp/B018A0BO92?tag=zoepicks00-20",
-    "now": "27.30",
-    "was": "39.00",
     "cat": "beauty"
    },
    {
@@ -676,18 +640,6 @@
     "cat": "beauty"
    },
    {
-    "asin": "B0DWSL3ZBQ",
-    "name": "Anua Zero-Cast Moisturizing Sunscreen SPF 50",
-    "pct": 25,
-    "rating": 4.6,
-    "t": 1795276919,
-    "img": "https://m.media-amazon.com/images/I/51fDiFJRw-L.jpg",
-    "link": "https://www.amazon.com/dp/B0DWSL3ZBQ?tag=zoepicks00-20",
-    "now": "13.50",
-    "was": "18.00",
-    "cat": "beauty"
-   },
-   {
     "asin": "B007PM1A82",
     "name": "Embryolisse Lait-Crème Concentré Face Moisturizer and…",
     "pct": 25,
@@ -710,6 +662,30 @@
     "now": "15.19",
     "was": "19.99",
     "cat": "beauty"
+   },
+   {
+    "asin": "B0GNB4X5FV",
+    "name": "Philips Epilator Series 9000",
+    "pct": 26,
+    "rating": 4.2,
+    "t": 1795223537,
+    "img": "https://m.media-amazon.com/images/I/71COVaMUSGL.jpg",
+    "link": "https://www.amazon.com/dp/B0GNB4X5FV?tag=zoepicks00-20",
+    "now": "80.95",
+    "was": "109.99",
+    "cat": "beauty"
+   },
+   {
+    "asin": "B0G1H1QGFT",
+    "name": "UCANBE 86 Colors Makeup Palette",
+    "pct": 20,
+    "rating": 4.7,
+    "t": 1795225602,
+    "img": "https://m.media-amazon.com/images/I/81YGlEBleNL.jpg",
+    "link": "https://www.amazon.com/dp/B0G1H1QGFT?tag=zoepicks00-20",
+    "now": "15.19",
+    "was": "18.99",
+    "cat": "beauty"
    }
   ],
   "home": [
@@ -723,42 +699,6 @@
     "link": "https://www.amazon.com/dp/B00J9FFP98?tag=zoepicks00-20",
     "now": "79.99",
     "was": "199.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B077Z2QCS5",
-    "name": "Everlasting Comfort 6L Large Humidifier",
-    "pct": 60,
-    "rating": 4.3,
-    "t": 1795280363,
-    "img": "https://m.media-amazon.com/images/I/61z8PXLhPFL.jpg",
-    "link": "https://www.amazon.com/dp/B077Z2QCS5?tag=zoepicks00-20",
-    "now": "40.37",
-    "was": "99.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B00JYHNNYK",
-    "name": "Rachael Ray Cucina Nonstick Cookware Agave Blue Pots and…",
-    "pct": 56,
-    "rating": 4.6,
-    "t": 1795280224,
-    "img": "https://m.media-amazon.com/images/I/715QRAk+pvL.jpg",
-    "link": "https://www.amazon.com/dp/B00JYHNNYK?tag=zoepicks00-20",
-    "now": "79.99",
-    "was": "179.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B01CS31NV6",
-    "name": "NICETOWN Thermal Insulated Grommet Blackout Curtains",
-    "pct": 56,
-    "rating": 4.6,
-    "t": 1795279199,
-    "img": "https://m.media-amazon.com/images/I/61XwmZLvaNL.jpg",
-    "link": "https://www.amazon.com/dp/B01CS31NV6?tag=zoepicks00-20",
-    "now": "10.40",
-    "was": "23.45",
     "cat": "home"
    },
    {
@@ -810,18 +750,6 @@
     "cat": "home"
    },
    {
-    "asin": "B0DZCS3RZF",
-    "name": "Everyfun 2 Person Double Hammock",
-    "pct": 49,
-    "rating": 4.4,
-    "t": 1795302458,
-    "img": "https://m.media-amazon.com/images/I/712BCLJd5IL.jpg",
-    "link": "https://www.amazon.com/dp/B0DZCS3RZF?tag=zoepicks00-20",
-    "now": "67.99",
-    "was": "134.00",
-    "cat": "home"
-   },
-   {
     "asin": "B01FYIAQA6",
     "name": "KRUPS 4-Slice Belgian Waffle Maker Nonstick Removable Plates",
     "pct": 48,
@@ -843,6 +771,18 @@
     "link": "https://www.amazon.com/dp/B0FJM537XW?tag=zoepicks00-20",
     "now": "56.98",
     "was": "99.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0D2P1HSCV",
+    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+    "pct": 43,
+    "rating": 4.5,
+    "t": 1795277708,
+    "img": "https://m.media-amazon.com/images/I/71z8Dl7JP5L.jpg",
+    "link": "https://www.amazon.com/dp/B0D2P1HSCV?tag=zoepicks00-20",
+    "now": "28.49",
+    "was": "49.99",
     "cat": "home"
    },
    {
@@ -978,6 +918,18 @@
     "cat": "home"
    },
    {
+    "asin": "B08Z36X6B4",
+    "name": "SUNMORY Floor Lamp",
+    "pct": 34,
+    "rating": 4.7,
+    "t": 1795277318,
+    "img": "https://m.media-amazon.com/images/I/71YNhyHG-IL.jpg",
+    "link": "https://www.amazon.com/dp/B08Z36X6B4?tag=zoepicks00-20",
+    "now": "30.39",
+    "was": "45.99",
+    "cat": "home"
+   },
+   {
     "asin": "B0B7DX7C51",
     "name": "NICETOWN Natural 100% Blackout Linen Curtains 84 inch Long…",
     "pct": 35,
@@ -1072,45 +1024,32 @@
     "now": "26.59",
     "was": "38.99",
     "cat": "home"
+   },
+   {
+    "asin": "B0DR8L2DWG",
+    "name": "Camping Hammock Lightweight",
+    "pct": 30,
+    "rating": 4.5,
+    "t": 1795291472,
+    "img": "https://m.media-amazon.com/images/I/71c5fEfxSrL.jpg",
+    "link": "https://www.amazon.com/dp/B0DR8L2DWG?tag=zoepicks00-20",
+    "now": "13.99",
+    "was": "19.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B01G2CCWGY",
+    "name": "Utopia Kitchen 304 Grade Stainless Steel French Press 34 Oz",
+    "pct": 29,
+    "rating": 4.6,
+    "t": 1795280347,
+    "img": "https://m.media-amazon.com/images/I/81gyuA6QC7L.jpg",
+    "link": "https://www.amazon.com/dp/B01G2CCWGY?tag=zoepicks00-20",
+    "now": "22.78",
+    "was": "31.99",
+    "cat": "home"
    }
   ],
-  "kids": [
-   {
-    "asin": "B0CYCDTZ6G",
-    "name": "HelloBaby 6'' No WiFi Video Baby Monitor",
-    "pct": 51,
-    "rating": 4.4,
-    "t": 1795278840,
-    "img": "https://m.media-amazon.com/images/I/71+Z6E4Z6UL.jpg",
-    "link": "https://www.amazon.com/dp/B0CYCDTZ6G?tag=zoepicks00-20",
-    "now": "54.13",
-    "was": "109.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B09GM8JZM9",
-    "name": "HelloBaby No WiFi Baby Monitor Camera and Audio HB6550",
-    "pct": 40,
-    "rating": 4.5,
-    "t": 1795278840,
-    "img": "https://m.media-amazon.com/images/I/613RCWv-M1L.jpg",
-    "link": "https://www.amazon.com/dp/B09GM8JZM9?tag=zoepicks00-20",
-    "now": "59.99",
-    "was": "99.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B0DVMFL53S",
-    "name": "Guess Who? NFL Edition Board Game",
-    "pct": 28,
-    "rating": 4.7,
-    "t": 1795278840,
-    "img": "https://m.media-amazon.com/images/I/812LcLKpDSL.jpg",
-    "link": "https://www.amazon.com/dp/B0DVMFL53S?tag=zoepicks00-20",
-    "now": "10.99",
-    "was": "15.26",
-    "cat": "kids"
-   }
-  ]
+  "kids": []
  }
 }
