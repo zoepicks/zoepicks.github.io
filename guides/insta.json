@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-22T08:44:52Z",
+ "updated": "2026-11-22T10:45:12Z",
  "cats": [
   {
    "key": "fashion",
@@ -170,6 +170,18 @@
     "cat": "fashion"
    },
    {
+    "asin": "B0CN9SD8JF",
+    "name": "THE NORTH FACE Borealis Laptop Backpack",
+    "pct": 30,
+    "rating": 4.7,
+    "t": 1795277160,
+    "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
+    "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
+    "now": "80.50",
+    "was": "115.00",
+    "cat": "fashion"
+   },
+   {
     "asin": "B0DBHGRDCH",
     "name": "IUGA Compression Leggings",
     "pct": 31,
@@ -179,18 +191,6 @@
     "link": "https://www.amazon.com/dp/B0DBHGRDCH?tag=zoepicks00-20",
     "now": "25.49",
     "was": "36.99",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0G6G8R3VK",
-    "name": "Osprey Sportlite 15L Lightweight Hiking Backpack",
-    "pct": 30,
-    "rating": 4.5,
-    "t": 1795279030,
-    "img": "https://m.media-amazon.com/images/I/613fDPoEQUL.jpg",
-    "link": "https://www.amazon.com/dp/B0G6G8R3VK?tag=zoepicks00-20",
-    "now": "55.95",
-    "was": "80.00",
     "cat": "fashion"
    },
    {
@@ -702,18 +702,6 @@
     "cat": "home"
    },
    {
-    "asin": "B00MVWGQX0",
-    "name": "Cuisinart Coffee Maker",
-    "pct": 53,
-    "rating": 4.4,
-    "t": 1795208853,
-    "img": "https://m.media-amazon.com/images/I/71VjOhqSY7L.jpg",
-    "link": "https://www.amazon.com/dp/B00MVWGQX0?tag=zoepicks00-20",
-    "now": "56.95",
-    "was": "119.95",
-    "cat": "home"
-   },
-   {
     "asin": "B0CNY1F31S",
     "name": "Chefman Air Fryer – 4 QT Compact Airfryer",
     "pct": 50,
@@ -966,18 +954,6 @@
     "cat": "home"
    },
    {
-    "asin": "B01AXM4WV2",
-    "name": "Cuisinart Food Processor",
-    "pct": 33,
-    "rating": 4.5,
-    "t": 1795207929,
-    "img": "https://m.media-amazon.com/images/I/61gr+QeFrvL.jpg",
-    "link": "https://www.amazon.com/dp/B01AXM4WV2?tag=zoepicks00-20",
-    "now": "199.95",
-    "was": "299.95",
-    "cat": "home"
-   },
-   {
     "asin": "B0DC11YH4J",
     "name": "CHEFMAN 2 Qt Mini Air Fryer",
     "pct": 33,
@@ -987,6 +963,18 @@
     "link": "https://www.amazon.com/dp/B0DC11YH4J?tag=zoepicks00-20",
     "now": "39.99",
     "was": "59.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B01AXM4WV2",
+    "name": "Cuisinart Food Processor",
+    "pct": 33,
+    "rating": 4.5,
+    "t": 1795277708,
+    "img": "https://m.media-amazon.com/images/I/61gr+QeFrvL.jpg",
+    "link": "https://www.amazon.com/dp/B01AXM4WV2?tag=zoepicks00-20",
+    "now": "199.95",
+    "was": "299.95",
     "cat": "home"
    },
    {
@@ -1047,6 +1035,18 @@
     "link": "https://www.amazon.com/dp/B01G2CCWGY?tag=zoepicks00-20",
     "now": "22.78",
     "was": "31.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B0HK7WGHBT",
+    "name": "Extra Firm King Mattress 12 inch Pain Relieving Hybrid…",
+    "pct": 30,
+    "rating": 4.4,
+    "t": 1795277318,
+    "img": "https://m.media-amazon.com/images/I/916DZy5DxrL.jpg",
+    "link": "https://www.amazon.com/dp/B0HK7WGHBT?tag=zoepicks00-20",
+    "now": "265.98",
+    "was": "379.99",
     "cat": "home"
    }
   ],
