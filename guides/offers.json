@@ -1,9 +1,20 @@
 {
  "v": 3,
- "updated": "2026-11-22T07:12:22Z",
+ "updated": "2026-11-22T09:12:33Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
+   {
+    "asin": "B0DQTW5TKF",
+    "name": "RK ROYAL KLUDGE M3 Wireless Gaming Mouse",
+    "pct": 50,
+    "rating": 4.2,
+    "t": 1795327966,
+    "img": "https://m.media-amazon.com/images/I/510Ol3zhxBL.jpg",
+    "link": "https://www.amazon.com/dp/B0DQTW5TKF?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
    {
     "asin": "B0FNRJNHW8",
     "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
@@ -13,19 +24,6 @@
     "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
     "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "budget"
-   },
-   {
-    "asin": "B08Z6X4NK3",
-    "name": "Logitech G413 SE Full-Size Mechanical Gaming Keyboard",
-    "pct": 44,
-    "rating": 4.5,
-    "t": 1795244281,
-    "img": "https://m.media-amazon.com/images/I/61thTSgqWOL.jpg",
-    "link": "https://www.amazon.com/dp/B08Z6X4NK3?tag=zoepicks00-20",
-    "now": "49.98",
-    "was": "89.99",
-    "reviews": 1702,
     "tier": "mid"
    },
    {
@@ -237,13 +235,13 @@
   ],
   "gaming": [
    {
-    "asin": "B0GV7DTQ6G",
-    "name": "Ordtop 2.4GHz Wireless Gaming Headset",
-    "pct": 60,
-    "rating": 4.8,
+    "asin": "B0DKW2H52M",
+    "name": "Resident Evil 2 - PlayStation 5",
+    "pct": 57,
+    "rating": 4.9,
     "t": 1795327928,
-    "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
-    "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
+    "img": "https://m.media-amazon.com/images/I/81w7DlVxvDL.jpg",
+    "link": "https://www.amazon.com/dp/B0DKW2H52M?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
    },
@@ -696,7 +694,7 @@
       "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "budget"
+      "tier": "mid"
      },
      {
       "asin": "B08Z6X4NK3",
@@ -708,8 +706,7 @@
       "link": "https://www.amazon.com/dp/B08Z6X4NK3?tag=zoepicks00-20",
       "now": "49.98",
       "was": "89.99",
-      "reviews": 1702,
-      "tier": "mid"
+      "reviews": 1702
      }
     ]
    },
@@ -923,24 +920,6 @@
     ]
    },
    {
-    "key": "flash-drive",
-    "label": "Flash Drive",
-    "items": [
-     {
-      "asin": "B0GF84H8VM",
-      "name": "SANDISK 256GB Extreme PRO USB-C Flash Drive",
-      "pct": 16,
-      "rating": 4.6,
-      "t": 1795208871,
-      "img": "https://m.media-amazon.com/images/I/51GwgWygc9L.jpg",
-      "link": "https://www.amazon.com/dp/B0GF84H8VM?tag=zoepicks00-20",
-      "now": "63.99",
-      "was": "75.99",
-      "reviews": 163
-     }
-    ]
-   },
-   {
     "key": "graphics-card",
     "label": "Graphics Card",
     "items": [
@@ -977,6 +956,11 @@
    {
     "key": "drawing-stylus",
     "label": "Drawing Stylus",
+    "items": []
+   },
+   {
+    "key": "flash-drive",
+    "label": "Flash Drive",
     "items": []
    },
    {
@@ -3011,17 +2995,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0G6G8R3VK",
-      "name": "Osprey Sportlite 15L Lightweight Hiking Backpack",
+      "asin": "B0CN9SD8JF",
+      "name": "THE NORTH FACE Borealis Laptop Backpack",
       "pct": 30,
-      "rating": 4.5,
-      "t": 1795279030,
-      "img": "https://m.media-amazon.com/images/I/613fDPoEQUL.jpg",
-      "link": "https://www.amazon.com/dp/B0G6G8R3VK?tag=zoepicks00-20",
-      "now": "55.95",
-      "was": "80.00",
+      "rating": 4.7,
+      "t": 1795277160,
+      "img": "https://m.media-amazon.com/images/I/71isbGx5gXL.jpg",
+      "link": "https://www.amazon.com/dp/B0CN9SD8JF?tag=zoepicks00-20",
+      "now": "80.50",
+      "was": "115.00",
       "deal": "Black Friday Deal",
-      "reviews": 56,
+      "reviews": 16543,
       "tier": "premium"
      }
     ]
@@ -4098,17 +4082,16 @@
       "tier": "budget"
      },
      {
-      "asin": "B09SW6GCGL",
-      "name": "Gran Turismo 7 Standard Edition",
+      "asin": "B0CTVK7GBM",
+      "name": "Stellar Blade - PlayStation 5",
       "pct": 57,
-      "rating": 4.7,
-      "t": 1795277481,
-      "img": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg",
-      "link": "https://www.amazon.com/dp/B09SW6GCGL?tag=zoepicks00-20",
-      "now": "29.99",
+      "rating": 4.8,
+      "t": 1795216242,
+      "img": "https://m.media-amazon.com/images/I/81nygCl+G3L.jpg",
+      "link": "https://www.amazon.com/dp/B0CTVK7GBM?tag=zoepicks00-20",
+      "now": "29.97",
       "was": "69.99",
-      "deal": "Black Friday Deal",
-      "reviews": 2298,
+      "reviews": 1596,
       "tier": "mid"
      },
      {
@@ -4952,12 +4935,13 @@
       "name": "Nespresso Vertuo Pop+ Coffee and Espresso Machine by…",
       "pct": 31,
       "rating": 4.2,
-      "t": 1795207936,
+      "t": 1795277708,
       "img": "https://m.media-amazon.com/images/I/51VFGnvK+dL.jpg",
       "link": "https://www.amazon.com/dp/B0DVD67F76?tag=zoepicks00-20",
       "now": "89.00",
       "was": "129.00",
-      "reviews": 1603,
+      "deal": "Black Friday Deal",
+      "reviews": 1605,
       "tier": "budget"
      },
      {
@@ -4998,11 +4982,12 @@
       "name": "Cuisinart Food Processor",
       "pct": 33,
       "rating": 4.5,
-      "t": 1795207929,
+      "t": 1795277708,
       "img": "https://m.media-amazon.com/images/I/61gr+QeFrvL.jpg",
       "link": "https://www.amazon.com/dp/B01AXM4WV2?tag=zoepicks00-20",
       "now": "199.95",
       "was": "299.95",
+      "deal": "Black Friday Deal",
       "reviews": 15343
      },
      {
@@ -5331,17 +5316,17 @@
     "label": "iPhones",
     "items": [
      {
-      "asin": "B0HPF6776W",
-      "name": "Smart Watch for Women",
-      "pct": 70,
-      "rating": 4.5,
+      "asin": "B0HCMZYZ2H",
+      "name": "Smart Watch for Men/Women",
+      "pct": 63,
+      "rating": 4.0,
       "t": 1795277955,
-      "img": "https://m.media-amazon.com/images/I/81XuRpZmi5L.jpg",
-      "link": "https://www.amazon.com/dp/B0HPF6776W?tag=zoepicks00-20",
-      "now": "29.99",
-      "was": "99.99",
+      "img": "https://m.media-amazon.com/images/I/719a2hEpiTL.jpg",
+      "link": "https://www.amazon.com/dp/B0HCMZYZ2H?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "64.99",
       "deal": "Black Friday Deal",
-      "reviews": 116,
+      "reviews": 36,
       "tier": "budget"
      },
      {
@@ -5379,17 +5364,17 @@
     "label": "Fitness Trackers",
     "items": [
      {
-      "asin": "B0C8CHJLH1",
-      "name": "RUIMEN Smart Watches",
-      "pct": 32,
-      "rating": 4.1,
+      "asin": "B09J8SKX9G",
+      "name": "GRV Smart Watch for Men Women",
+      "pct": 29,
+      "rating": 4.0,
       "t": 1795277955,
-      "img": "https://m.media-amazon.com/images/I/61PajHLMflL.jpg",
-      "link": "https://www.amazon.com/dp/B0C8CHJLH1?tag=zoepicks00-20",
-      "now": "24.63",
-      "was": "35.99",
+      "img": "https://m.media-amazon.com/images/I/61uC5wH8-QL.jpg",
+      "link": "https://www.amazon.com/dp/B09J8SKX9G?tag=zoepicks00-20",
+      "now": "24.22",
+      "was": "33.99",
       "deal": "Black Friday Deal",
-      "reviews": 18384,
+      "reviews": 14518,
       "tier": "budget"
      },
      {
@@ -5407,14 +5392,17 @@
       "tier": "mid"
      },
      {
-      "asin": "B0HPP45LQQ",
-      "name": "Fitness Tracker, Smart Watches",
-      "pct": 62,
-      "rating": 4.8,
-      "t": 1795327942,
-      "img": "https://m.media-amazon.com/images/I/710096DvMsL.jpg",
-      "link": "https://www.amazon.com/dp/B0HPP45LQQ?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B0HPF6776W",
+      "name": "Smart Watch for Women",
+      "pct": 70,
+      "rating": 4.5,
+      "t": 1795277955,
+      "img": "https://m.media-amazon.com/images/I/81XuRpZmi5L.jpg",
+      "link": "https://www.amazon.com/dp/B0HPF6776W?tag=zoepicks00-20",
+      "now": "29.99",
+      "was": "99.99",
+      "deal": "Black Friday Deal",
+      "reviews": 116,
       "tier": "premium"
      }
     ]
@@ -5518,7 +5506,21 @@
    {
     "key": "smartwatches",
     "label": "Smartwatches",
-    "items": []
+    "items": [
+     {
+      "asin": "B09VBVG4JX",
+      "name": "Choiknbo Smart Watch",
+      "pct": 15,
+      "rating": 4.1,
+      "t": 1795277955,
+      "img": "https://m.media-amazon.com/images/I/61NFp3Y3C+L.jpg",
+      "link": "https://www.amazon.com/dp/B09VBVG4JX?tag=zoepicks00-20",
+      "now": "17.84",
+      "was": "20.99",
+      "deal": "Black Friday Deal",
+      "reviews": 4080
+     }
+    ]
    }
   ],
   "monitors": [
@@ -5576,12 +5578,13 @@
       "name": "ASUS VP327Q 32 Inch 4K UHD Computer Monitor",
       "pct": 32,
       "rating": 4.1,
-      "t": 1795207902,
+      "t": 1795278112,
       "img": "https://m.media-amazon.com/images/I/81b7x9uLpAL.jpg",
       "link": "https://www.amazon.com/dp/B0C7G6F8BY?tag=zoepicks00-20",
       "now": "168.99",
       "was": "249.00",
-      "reviews": 195,
+      "deal": "Black Friday Deal",
+      "reviews": 196,
       "tier": "budget"
      },
      {
@@ -5609,6 +5612,54 @@
       "now": "484.99",
       "was": "699.99",
       "reviews": 192,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "usb-c-monitors",
+    "label": "USB C Monitors",
+    "items": [
+     {
+      "asin": "B0874M3KW4",
+      "name": "Anker Laptop Docking Station Dual Monitor",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795277875,
+      "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
+      "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
+      "now": "37.98",
+      "was": "53.99",
+      "deal": "Black Friday Deal",
+      "reviews": 35349,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0F1GFD44G",
+      "name": "Dell 27 Monitor S2725QC",
+      "pct": 29,
+      "rating": 4.4,
+      "t": 1795278112,
+      "img": "https://m.media-amazon.com/images/I/71lQNQPr+OL.jpg",
+      "link": "https://www.amazon.com/dp/B0F1GFD44G?tag=zoepicks00-20",
+      "now": "249.99",
+      "was": "349.99",
+      "deal": "Black Friday Deal",
+      "reviews": 965,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0BLT79X2G",
+      "name": "SAMSUNG Viewfinity S65UA Series 34-Inch Ultrawide QHD…",
+      "pct": 39,
+      "rating": 4.3,
+      "t": 1795278112,
+      "img": "https://m.media-amazon.com/images/I/91h5HRAzGKL.jpg",
+      "link": "https://www.amazon.com/dp/B0BLT79X2G?tag=zoepicks00-20",
+      "now": "329.99",
+      "was": "539.99",
+      "deal": "Black Friday Deal",
+      "reviews": 374,
       "tier": "premium"
      }
     ]
@@ -5680,20 +5731,6 @@
       "tier": "budget"
      },
      {
-      "asin": "B0GXCG7ZTF",
-      "name": "LG 34U60ZB-B 34-inch UltraWide WQHD 120Hz HDR10 1800R…",
-      "pct": 33,
-      "rating": 4.1,
-      "t": 1795278112,
-      "img": "https://m.media-amazon.com/images/I/71ahgopXGzL.jpg",
-      "link": "https://www.amazon.com/dp/B0GXCG7ZTF?tag=zoepicks00-20",
-      "now": "199.99",
-      "was": "299.99",
-      "deal": "Black Friday Deal",
-      "reviews": 46,
-      "tier": "mid"
-     },
-     {
       "asin": "B0H85H25TW",
       "name": "Samsung 34\" ViewFinity S5",
       "pct": 29,
@@ -5705,40 +5742,6 @@
       "was": "349.99",
       "deal": "Black Friday Deal",
       "reviews": 63,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "usb-c-monitors",
-    "label": "USB C Monitors",
-    "items": [
-     {
-      "asin": "B0874M3KW4",
-      "name": "Anker Laptop Docking Station Dual Monitor",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795277875,
-      "img": "https://m.media-amazon.com/images/I/71S-NPBF-qL.jpg",
-      "link": "https://www.amazon.com/dp/B0874M3KW4?tag=zoepicks00-20",
-      "now": "37.98",
-      "was": "53.99",
-      "deal": "Black Friday Deal",
-      "reviews": 35349,
-      "tier": "budget"
-     },
-     {
-      "asin": "B08L5SRCZJ",
-      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
-      "pct": 30,
-      "rating": 4.4,
-      "t": 1795278112,
-      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
-      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
-      "now": "118.72",
-      "was": "169.99",
-      "deal": "Black Friday Deal",
-      "reviews": 2686,
       "tier": "mid"
      },
      {
@@ -5754,25 +5757,6 @@
       "deal": "Black Friday Deal",
       "reviews": 278,
       "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "monitors-mac",
-    "label": "Monitors Mac",
-    "items": [
-     {
-      "asin": "B0H5FWBBXG",
-      "name": "New! Sceptre Curved 24-inch Prime Gaming Monitor 1080p…",
-      "pct": 28,
-      "rating": 4.4,
-      "t": 1795278112,
-      "img": "https://m.media-amazon.com/images/I/71GjEAvY4nL.jpg",
-      "link": "https://www.amazon.com/dp/B0H5FWBBXG?tag=zoepicks00-20",
-      "now": "77.97",
-      "was": "107.97",
-      "deal": "Black Friday Deal",
-      "reviews": 298
      }
     ]
    },
@@ -5798,35 +5782,67 @@
       "name": "VisionOwl Portable Monitor 15.6 Inch 1080P FHD 85% sRGB…",
       "pct": 27,
       "rating": 4.8,
-      "t": 1795278112,
+      "t": 1795334892,
       "img": "https://m.media-amazon.com/images/I/71Jol9hIXpL.jpg",
       "link": "https://www.amazon.com/dp/B08QTLYPVT?tag=zoepicks00-20",
       "now": "94.99",
       "was": "129.99",
-      "deal": "Black Friday Deal",
       "reviews": 3253,
       "tier": "mid"
      },
      {
-      "asin": "B0F99864F1",
-      "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
-      "pct": 28,
-      "rating": 4.8,
+      "asin": "B08L5SRCZJ",
+      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
+      "pct": 30,
+      "rating": 4.4,
       "t": 1795278112,
-      "img": "https://m.media-amazon.com/images/I/819hErzOz0L.jpg",
-      "link": "https://www.amazon.com/dp/B0F99864F1?tag=zoepicks00-20",
-      "now": "207.99",
-      "was": "289.99",
+      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
+      "now": "118.72",
+      "was": "169.99",
       "deal": "Black Friday Deal",
-      "reviews": 1369,
+      "reviews": 2686,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "monitors-mac",
+    "label": "Monitors Mac",
+    "items": [
+     {
+      "asin": "B0H5FWBBXG",
+      "name": "New! Sceptre Curved 24-inch Prime Gaming Monitor 1080p…",
+      "pct": 28,
+      "rating": 4.4,
+      "t": 1795278112,
+      "img": "https://m.media-amazon.com/images/I/71GjEAvY4nL.jpg",
+      "link": "https://www.amazon.com/dp/B0H5FWBBXG?tag=zoepicks00-20",
+      "now": "77.97",
+      "was": "107.97",
+      "deal": "Black Friday Deal",
+      "reviews": 298
      }
     ]
    },
    {
     "key": "monitors-home-office",
     "label": "Monitors Home Office",
-    "items": []
+    "items": [
+     {
+      "asin": "B0FFM6Z28R",
+      "name": "Gawfolk 27 Inch 4K Monitor IPS 60Hz",
+      "pct": 15,
+      "rating": 4.3,
+      "t": 1795278112,
+      "img": "https://m.media-amazon.com/images/I/81i53jkIF8L.jpg",
+      "link": "https://www.amazon.com/dp/B0FFM6Z28R?tag=zoepicks00-20",
+      "now": "135.99",
+      "was": "159.99",
+      "deal": "Black Friday Deal",
+      "reviews": 750
+     }
+    ]
    }
   ],
   "office_books": [
