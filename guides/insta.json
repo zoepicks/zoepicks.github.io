@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-21T22:44:05Z",
+ "updated": "2026-11-22T00:44:15Z",
  "cats": [
   {
    "key": "fashion",
@@ -287,6 +287,18 @@
     "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
     "now": "42.74",
     "was": "59.99",
+    "cat": "fashion"
+   },
+   {
+    "asin": "B0DQD7TC9D",
+    "name": "MIYCOO Gym Bag with Shoes Compartment",
+    "pct": 26,
+    "rating": 4.5,
+    "t": 1795229426,
+    "img": "https://m.media-amazon.com/images/I/81w26mTP0yL.jpg",
+    "link": "https://www.amazon.com/dp/B0DQD7TC9D?tag=zoepicks00-20",
+    "now": "18.56",
+    "was": "24.99",
     "cat": "fashion"
    },
    {
@@ -706,7 +718,7 @@
     "name": "Rachael Ray Cucina Dishwasher-Safe Hard-Anodized Pots and…",
     "pct": 60,
     "rating": 4.6,
-    "t": 1795280224,
+    "t": 1795301511,
     "img": "https://m.media-amazon.com/images/I/71yDjqc9QRL.jpg",
     "link": "https://www.amazon.com/dp/B00J9FFP98?tag=zoepicks00-20",
     "now": "79.99",
@@ -723,6 +735,18 @@
     "link": "https://www.amazon.com/dp/B077Z2QCS5?tag=zoepicks00-20",
     "now": "40.37",
     "was": "99.99",
+    "cat": "home"
+   },
+   {
+    "asin": "B00JYHNNYK",
+    "name": "Rachael Ray Cucina Nonstick Cookware Agave Blue Pots and…",
+    "pct": 56,
+    "rating": 4.6,
+    "t": 1795280224,
+    "img": "https://m.media-amazon.com/images/I/715QRAk+pvL.jpg",
+    "link": "https://www.amazon.com/dp/B00JYHNNYK?tag=zoepicks00-20",
+    "now": "79.99",
+    "was": "179.99",
     "cat": "home"
    },
    {
@@ -790,7 +814,7 @@
     "name": "Everyfun 2 Person Double Hammock",
     "pct": 49,
     "rating": 4.4,
-    "t": 1795279220,
+    "t": 1795302458,
     "img": "https://m.media-amazon.com/images/I/712BCLJd5IL.jpg",
     "link": "https://www.amazon.com/dp/B0DZCS3RZF?tag=zoepicks00-20",
     "now": "67.99",
@@ -1048,18 +1072,6 @@
     "now": "26.59",
     "was": "38.99",
     "cat": "home"
-   },
-   {
-    "asin": "B0DR8L2DWG",
-    "name": "Camping Hammock Lightweight",
-    "pct": 30,
-    "rating": 4.5,
-    "t": 1795291472,
-    "img": "https://m.media-amazon.com/images/I/71c5fEfxSrL.jpg",
-    "link": "https://www.amazon.com/dp/B0DR8L2DWG?tag=zoepicks00-20",
-    "now": "13.99",
-    "was": "19.99",
-    "cat": "home"
    }
   ],
   "kids": [
@@ -1085,18 +1097,6 @@
     "link": "https://www.amazon.com/dp/B09GM8JZM9?tag=zoepicks00-20",
     "now": "59.99",
     "was": "99.99",
-    "cat": "kids"
-   },
-   {
-    "asin": "B01H0CZ7BW",
-    "name": "Hasbro Gaming Guess Who? Disney Princess Edition Kids Board…",
-    "pct": 38,
-    "rating": 4.5,
-    "t": 1795278840,
-    "img": "https://m.media-amazon.com/images/I/81Vq4TkJ8pL.jpg",
-    "link": "https://www.amazon.com/dp/B01H0CZ7BW?tag=zoepicks00-20",
-    "now": "15.49",
-    "was": "24.99",
     "cat": "kids"
    },
    {
