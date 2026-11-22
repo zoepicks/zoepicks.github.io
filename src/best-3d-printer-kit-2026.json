@@ -32,8 +32,8 @@
    "best_for": "Beginners who value quality and ease of use",
    "skip_if": "You need the lowest possible price",
    "link": "https://www.amazon.com/s?k=Prusa+Mini%2B+3D+printer&tag=zoepicks00-20",
-   "fill_tries": 5,
-   "fill_last": "Nov 15, 2026",
+   "fill_tries": 6,
+   "fill_last": "Nov 22, 2026",
    "fill_failed": true
   },
   {
@@ -64,9 +64,18 @@
    "best_for": "Budget‑conscious beginners",
    "skip_if": "You need high‑end precision or large build volume",
    "link": "https://www.amazon.com/s?k=Creality+Sparkx+i7&tag=zoepicks00-20",
-   "fill_tries": 5,
+   "fill_tries": 0,
    "fill_last": "Nov 15, 2026",
-   "fill_failed": true
+   "fill_failed": false,
+   "asin": "B0HB4357K1",
+   "image": "https://m.media-amazon.com/images/I/71fE3CXwr0L.jpg",
+   "image_asin": "B0HB4357K1",
+   "amazon_price": "$269.00",
+   "amazon_price_asof": "Nov 22, 2026",
+   "amazon_listing": "Creality SPARKX i7 Nano Combo 3D Printer, Multi Color with CFS Nano High Speed & Precision",
+   "amazon_rating": "4",
+   "amazon_reviews": 351,
+   "amazon_rating_asof": "Nov 22, 2026"
   },
   {
    "name": "Creality Ender-3 Series",
@@ -92,8 +101,8 @@
    "best_for": "Value‑seeking hobbyists",
    "skip_if": "You prefer plug‑and‑play convenience",
    "link": "https://www.amazon.com/s?k=Creality+Ender-3+Series&tag=zoepicks00-20",
-   "fill_tries": 5,
-   "fill_last": "Nov 15, 2026",
+   "fill_tries": 6,
+   "fill_last": "Nov 22, 2026",
    "fill_failed": true
   }
  ],
