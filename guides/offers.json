@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-22T19:13:44Z",
+ "updated": "2026-11-22T21:13:51Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -97,14 +97,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HCNB82DM",
-    "name": "4K UHD GPS Drone with Camera",
+    "asin": "B0H7Z164PJ",
+    "name": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up…",
     "pct": 53,
-    "rating": 4.9,
-    "t": 1795327890,
-    "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
-    "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
-    "reviews": 0,
+    "rating": 4.5,
+    "t": 1795376353,
+    "img": "https://m.media-amazon.com/images/I/51pggsQdaHL.jpg",
+    "link": "https://www.amazon.com/dp/B0H7Z164PJ?tag=zoepicks00-20",
+    "now": "139.95",
+    "was": "299.99",
+    "reviews": 29414,
     "tier": "premium"
    }
   ],
@@ -123,13 +125,13 @@
     "tier": "budget"
    },
    {
-    "asin": "B091JYX54W",
-    "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
-    "pct": 60,
+    "asin": "B0CCDDZYBH",
+    "name": "AUTOMET Womens Hoodies Half Zip Up Casual Comfort Fall…",
+    "pct": 57,
     "rating": 4.4,
-    "t": 1795327959,
-    "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
-    "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
+    "t": 1795327954,
+    "img": "https://m.media-amazon.com/images/I/610fUKdkxnL.jpg",
+    "link": "https://www.amazon.com/dp/B0CCDDZYBH?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -971,6 +973,25 @@
     ]
    },
    {
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
+    "items": [
+     {
+      "asin": "B0H7Z164PJ",
+      "name": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up…",
+      "pct": 53,
+      "rating": 4.5,
+      "t": 1795376353,
+      "img": "https://m.media-amazon.com/images/I/51pggsQdaHL.jpg",
+      "link": "https://www.amazon.com/dp/B0H7Z164PJ?tag=zoepicks00-20",
+      "now": "139.95",
+      "was": "299.99",
+      "reviews": 29414,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "drone",
     "label": "Drone",
     "items": [
@@ -982,8 +1003,7 @@
       "t": 1795327890,
       "img": "https://m.media-amazon.com/images/I/71cQTI+5iVL.jpg",
       "link": "https://www.amazon.com/dp/B0HCNB82DM?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -1018,18 +1038,6 @@
       "img": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
       "link": "https://www.amazon.com/dp/B07N3WYLKZ?tag=zoepicks00-20",
       "reviews": 0
-     },
-     {
-      "asin": "B06XHVDF6R",
-      "name": "Victrola Quincy - 6-in-1 Bluetooth Record Player",
-      "pct": 35,
-      "rating": 4.5,
-      "t": 1795251056,
-      "img": "https://m.media-amazon.com/images/I/61B26yufuML.jpg",
-      "link": "https://www.amazon.com/dp/B06XHVDF6R?tag=zoepicks00-20",
-      "now": "129.99",
-      "was": "199.99",
-      "reviews": 27015
      }
     ]
    },
@@ -1038,17 +1046,16 @@
     "label": "Tablets",
     "items": [
      {
-      "asin": "B0F1NHSFMF",
-      "name": "Lenovo Tab One - Lightweight Tablet",
-      "pct": 29,
-      "rating": 4.2,
-      "t": 1795251049,
-      "img": "https://m.media-amazon.com/images/I/713r2sAaC+L.jpg",
-      "link": "https://www.amazon.com/dp/B0F1NHSFMF?tag=zoepicks00-20",
-      "now": "99.99",
-      "was": "139.99",
-      "reviews": 958,
-      "tier": "budget"
+      "asin": "B07VPHR6GD",
+      "name": "XPPen Artist 13.3 Pro V2 Drawing Tablet",
+      "pct": 30,
+      "rating": 4.5,
+      "t": 1795296028,
+      "img": "https://m.media-amazon.com/images/I/71ycbk0SVlL.jpg",
+      "link": "https://www.amazon.com/dp/B07VPHR6GD?tag=zoepicks00-20",
+      "now": "181.09",
+      "was": "259.99",
+      "reviews": 3462
      },
      {
       "asin": "B0DZHGCT5S",
@@ -1060,51 +1067,7 @@
       "link": "https://www.amazon.com/dp/B0DZHGCT5S?tag=zoepicks00-20",
       "now": "169.00",
       "was": "239.95",
-      "reviews": 230,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07VPHR6GD",
-      "name": "XPPen Artist 13.3 Pro V2 Drawing Tablet",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795296028,
-      "img": "https://m.media-amazon.com/images/I/71ycbk0SVlL.jpg",
-      "link": "https://www.amazon.com/dp/B07VPHR6GD?tag=zoepicks00-20",
-      "now": "181.09",
-      "was": "259.99",
-      "reviews": 3462,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "stereo-system",
-    "label": "Stereo System",
-    "items": [
-     {
-      "asin": "B0FRLCCTW1",
-      "name": "WISCENT Bluetooth Stereo System 40W",
-      "pct": 20,
-      "rating": 4.0,
-      "t": 1795247406,
-      "img": "https://m.media-amazon.com/images/I/61DDVwA5moL.jpg",
-      "link": "https://www.amazon.com/dp/B0FRLCCTW1?tag=zoepicks00-20",
-      "now": "87.20",
-      "was": "109.00",
-      "reviews": 134
-     },
-     {
-      "asin": "B0DKHVTSQM",
-      "name": "Compact Stereo System",
-      "pct": 16,
-      "rating": 4.2,
-      "t": 1795250134,
-      "img": "https://m.media-amazon.com/images/I/71JAtVewN2L.jpg",
-      "link": "https://www.amazon.com/dp/B0DKHVTSQM?tag=zoepicks00-20",
-      "now": "79.98",
-      "was": "94.80",
-      "reviews": 2207
+      "reviews": 230
      }
     ]
    },
@@ -1159,8 +1122,8 @@
     "items": []
    },
    {
-    "key": "wireless-earbuds",
-    "label": "Wireless Earbuds",
+    "key": "stereo-system",
+    "label": "Stereo System",
     "items": []
    }
   ],
@@ -1281,34 +1244,7 @@
       "t": 1795327942,
       "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
       "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F4LZ74B3",
-      "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
-      "pct": 46,
-      "rating": 4.3,
-      "t": 1795247399,
-      "img": "https://m.media-amazon.com/images/I/51YDmta2EDL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZ74B3?tag=zoepicks00-20",
-      "now": "42.92",
-      "was": "79.99",
-      "reviews": 8256,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0FG2MJFH4",
-      "name": "NORTIV 8 Men's Trail Running Shoes Wide Toe Box",
-      "pct": 27,
-      "rating": 4.4,
-      "t": 1795247393,
-      "img": "https://m.media-amazon.com/images/I/71ETn1+NPtL.jpg",
-      "link": "https://www.amazon.com/dp/B0FG2MJFH4?tag=zoepicks00-20",
-      "now": "51.29",
-      "was": "69.99",
-      "reviews": 1643,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
@@ -2034,8 +1970,7 @@
       "link": "https://www.amazon.com/dp/B07VPHR6GD?tag=zoepicks00-20",
       "now": "181.09",
       "was": "259.99",
-      "reviews": 3462,
-      "tier": "premium"
+      "reviews": 3462
      },
      {
       "asin": "B0DZHGCT5S",
@@ -2047,8 +1982,7 @@
       "link": "https://www.amazon.com/dp/B0DZHGCT5S?tag=zoepicks00-20",
       "now": "169.00",
       "was": "239.95",
-      "reviews": 230,
-      "tier": "mid"
+      "reviews": 230
      }
     ]
    }
