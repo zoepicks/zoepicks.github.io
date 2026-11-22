@@ -1,6 +1,6 @@
 {
  "purpose": "Proof that the Zoe SEO bot loop is running. Written after every check.",
- "updated": "2026-11-21T20:44:43.141157+00:00",
+ "updated": "2026-11-22T00:04:07.981822+00:00",
  "boots_total": 64,
  "recent_boots_utc": [
   "2026-11-07T07:55:02",
@@ -14,23 +14,17 @@
   "2026-11-20T11:59:46",
   "2026-11-21T11:08:16"
  ],
- "last_run_ts": 1795293881.4923244,
- "last_report_ts": 1795261212.7052739,
+ "last_run_ts": 1795305819.3601038,
+ "last_report_ts": 1795305847.2348278,
  "check_every_h": 3.0,
  "report_every_h": 12.0,
  "score": 94,
  "issues": {
   "high": 1,
   "med": 0,
-  "low": 38
+  "low": 40
  },
  "recent_runs": [
-  {
-   "t": "2026-11-20T17:07:47",
-   "score": 94,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-20T20:09:20",
    "score": 94,
@@ -84,47 +78,53 @@
    "score": 94,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-21T23:46:10",
+   "score": 94,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "recent_tasks": [
   {
-   "t": "2026-11-21T11:39:43",
-   "what": "SEO check: score 88 (-6), 294 pages, 3 high issue",
+   "t": "2026-11-21T17:43:12",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-21T17:43:12",
+   "what": "SEO check: score 94 (+0), 294 pages, 1 high issue",
    "ok": true
   },
   {
-   "t": "2026-11-21T11:40:12",
+   "t": "2026-11-21T20:44:41",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-21T20:44:41",
+   "what": "SEO check: score 94 (+0), 294 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-21T23:46:15",
+   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
+   "ok": false
+  },
+  {
+   "t": "2026-11-22T00:03:39",
+   "what": "Search Console: 1/150 pages Google me indexed, 28d clicks 0, sitemap pending",
+   "ok": true
+  },
+  {
+   "t": "2026-11-22T00:03:39",
+   "what": "SEO check: score 94 (+0), 294 pages, 1 high issue",
+   "ok": true
+  },
+  {
+   "t": "2026-11-22T00:04:07",
    "what": "Report + Claude brief repo me likhe",
-   "ok": true
-  },
-  {
-   "t": "2026-11-21T14:41:42",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-21T14:41:42",
-   "what": "SEO check: score 94 (+6), 294 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-21T17:43:12",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-21T17:43:12",
-   "what": "SEO check: score 94 (+0), 294 pages, 1 high issue",
-   "ok": true
-  },
-  {
-   "t": "2026-11-21T20:44:41",
-   "what": "Sitemap Google me: pending - Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 gha",
-   "ok": false
-  },
-  {
-   "t": "2026-11-21T20:44:41",
-   "what": "SEO check: score 94 (+0), 294 pages, 1 high issue",
    "ok": true
   }
  ]
