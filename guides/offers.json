@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-22T01:11:36Z",
+ "updated": "2026-11-22T03:11:45Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -377,6 +377,20 @@
     "tier": "budget"
    },
    {
+    "asin": "B07XZLN9KM",
+    "name": "PNY CS900 500GB 2.5\" SATA III Internal SSD",
+    "pct": 38,
+    "rating": 4.6,
+    "t": 1795200572,
+    "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+    "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
+    "now": "67.99",
+    "was": "109.99",
+    "deal": "Black Friday Deal",
+    "reviews": 19459,
+    "tier": "mid"
+   },
+   {
     "asin": "B0HH9CBL44",
     "name": "Laptop Screen Extender 14.1\" 1080P",
     "pct": 40,
@@ -385,20 +399,6 @@
     "img": "https://m.media-amazon.com/images/I/71idJLU6G2L.jpg",
     "link": "https://www.amazon.com/dp/B0HH9CBL44?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0F99864F1",
-    "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
-    "pct": 28,
-    "rating": 4.8,
-    "t": 1795278112,
-    "img": "https://m.media-amazon.com/images/I/819hErzOz0L.jpg",
-    "link": "https://www.amazon.com/dp/B0F99864F1?tag=zoepicks00-20",
-    "now": "207.99",
-    "was": "289.99",
-    "deal": "Black Friday Deal",
-    "reviews": 1369,
     "tier": "premium"
    }
   ],
@@ -1009,6 +1009,25 @@
     ]
    },
    {
+    "key": "computer-mouse",
+    "label": "Computer Mouse",
+    "items": [
+     {
+      "asin": "B0GS5ZHY87",
+      "name": "Acer Wireless Mouse",
+      "pct": 20,
+      "rating": 4.3,
+      "t": 1795200431,
+      "img": "https://m.media-amazon.com/images/I/71qS+BipJgL.jpg",
+      "link": "https://www.amazon.com/dp/B0GS5ZHY87?tag=zoepicks00-20",
+      "now": "11.99",
+      "was": "14.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1041
+     }
+    ]
+   },
+   {
     "key": "graphics-card",
     "label": "Graphics Card",
     "items": [
@@ -1017,12 +1036,28 @@
       "name": "SOYO GeForce GT 740 4GB DDR3 Low Profile Graphics Card",
       "pct": 20,
       "rating": 4.4,
-      "t": 1795180318,
+      "t": 1795200542,
       "img": "https://m.media-amazon.com/images/I/71heUFOXwTL.jpg",
       "link": "https://www.amazon.com/dp/B0FCFB6Q6P?tag=zoepicks00-20",
       "now": "55.99",
       "was": "69.99",
-      "reviews": 147
+      "deal": "Black Friday Deal",
+      "reviews": 148,
+      "tier": "budget"
+     },
+     {
+      "asin": "B08VHWFWSD",
+      "name": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming…",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1795200542,
+      "img": "https://m.media-amazon.com/images/I/61XVfz1tHpL.jpg",
+      "link": "https://www.amazon.com/dp/B08VHWFWSD?tag=zoepicks00-20",
+      "now": "96.04",
+      "was": "112.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1771,
+      "tier": "mid"
      },
      {
       "asin": "B0F4RZDFD5",
@@ -1034,25 +1069,8 @@
       "link": "https://www.amazon.com/dp/B0F4RZDFD5?tag=zoepicks00-20",
       "now": "829.99",
       "was": "869.99",
-      "reviews": 195
-     }
-    ]
-   },
-   {
-    "key": "computer-mouse",
-    "label": "Computer Mouse",
-    "items": [
-     {
-      "asin": "B005EJH6Z4",
-      "name": "Amazon Basics 2.4 GHz Wireless Optical Computer Mouse",
-      "pct": 19,
-      "rating": 4.5,
-      "t": 1795180327,
-      "img": "https://m.media-amazon.com/images/I/61YQeAUIboL.jpg",
-      "link": "https://www.amazon.com/dp/B005EJH6Z4?tag=zoepicks00-20",
-      "now": "10.99",
-      "was": "13.50",
-      "reviews": 70312
+      "reviews": 195,
+      "tier": "premium"
      }
     ]
    },
@@ -4497,6 +4515,26 @@
     ]
    },
    {
+    "key": "gaming-gpu",
+    "label": "Gaming Gpu",
+    "items": [
+     {
+      "asin": "B08VHWFWSD",
+      "name": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming…",
+      "pct": 15,
+      "rating": 4.4,
+      "t": 1795200542,
+      "img": "https://m.media-amazon.com/images/I/61XVfz1tHpL.jpg",
+      "link": "https://www.amazon.com/dp/B08VHWFWSD?tag=zoepicks00-20",
+      "now": "96.04",
+      "was": "112.99",
+      "deal": "Black Friday Deal",
+      "reviews": 1771,
+      "tier": "mid"
+     }
+    ]
+   },
+   {
     "key": "ps5-or-gaming-pc",
     "label": "Ps5 Or Gaming PC",
     "items": []
@@ -4529,11 +4567,6 @@
    {
     "key": "gaming-controllers",
     "label": "Gaming Controllers",
-    "items": []
-   },
-   {
-    "key": "gaming-gpu",
-    "label": "Gaming Gpu",
     "items": []
    }
   ],
@@ -5515,6 +5548,20 @@
       "tier": "budget"
      },
      {
+      "asin": "B07XZLN9KM",
+      "name": "PNY CS900 500GB 2.5\" SATA III Internal SSD",
+      "pct": 38,
+      "rating": 4.6,
+      "t": 1795200572,
+      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+      "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
+      "now": "67.99",
+      "was": "109.99",
+      "deal": "Black Friday Deal",
+      "reviews": 19459,
+      "tier": "mid"
+     },
+     {
       "asin": "B0HH9CBL44",
       "name": "Laptop Screen Extender 14.1\" 1080P",
       "pct": 40,
@@ -5523,8 +5570,14 @@
       "img": "https://m.media-amazon.com/images/I/71idJLU6G2L.jpg",
       "link": "https://www.amazon.com/dp/B0HH9CBL44?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
-     },
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "macbooks",
+    "label": "MacBooks",
+    "items": [
      {
       "asin": "B0F99864F1",
       "name": "Upperizon Portable Monitor 21.5 inch FHD 110% sRGB 120Hz…",
@@ -5536,15 +5589,9 @@
       "now": "207.99",
       "was": "289.99",
       "deal": "Black Friday Deal",
-      "reviews": 1369,
-      "tier": "premium"
+      "reviews": 1369
      }
     ]
-   },
-   {
-    "key": "macbooks",
-    "label": "MacBooks",
-    "items": []
    }
   ],
   "mobiles": [
