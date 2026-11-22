@@ -1,85 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-11-21T11:39:40.744024+00:00",
- "score": 88,
+ "generated_at": "2026-11-21T23:46:10.342095+00:00",
+ "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-11-20T14:06:15.868161+00:00",
-   "score": 94,
-   "pages": 294,
-   "issues": {
-    "high": 3,
-    "med": 0,
-    "low": 37
-   },
-   "top": [
-    "http_errorx2",
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex2"
-   ],
-   "avg_words": 934,
-   "why": "schedule",
-   "indexnow": 2
-  },
-  {
-   "t": "2026-11-20T17:07:47.459594+00:00",
-   "score": 94,
-   "pages": 294,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 40
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex5"
-   ],
-   "avg_words": 940,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-20T20:09:20.540531+00:00",
-   "score": 94,
-   "pages": 294,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 41
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex6"
-   ],
-   "avg_words": 940,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-20T23:10:56.747478+00:00",
-   "score": 94,
-   "pages": 294,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 41
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex6"
-   ],
-   "avg_words": 940,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-21T02:30:33.674495+00:00",
    "score": 94,
@@ -156,29 +79,84 @@
    "avg_words": 939,
    "why": "schedule",
    "indexnow": 0
+  },
+  {
+   "t": "2026-11-21T14:41:40.857351+00:00",
+   "score": 94,
+   "pages": 294,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 35
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16"
+   ],
+   "avg_words": 939,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-21T17:43:10.347805+00:00",
+   "score": 94,
+   "pages": 294,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 38
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex3"
+   ],
+   "avg_words": 939,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-21T20:44:39.449269+00:00",
+   "score": 94,
+   "pages": 294,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 38
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex3"
+   ],
+   "avg_words": 939,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-21T23:46:10.342095+00:00",
+   "score": 94,
+   "pages": 294,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 40
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex5"
+   ],
+   "avg_words": 939,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
-  {
-   "sev": "high",
-   "code": "http_error",
-   "count": 1,
-   "fix": "Jin pages pe HTTP error hai unhe fix ya sitemap se hatao.",
-   "example": [
-    "/about.html"
-   ],
-   "detail": "HTTP 503"
-  },
-  {
-   "sev": "high",
-   "code": "policy_missing",
-   "count": 1,
-   "fix": "Missing policy page wapas live karo.",
-   "example": [
-    "(site)"
-   ],
-   "detail": "about.html live nahi hai"
-  },
   {
    "sev": "high",
    "code": "contact_email_placeholder",
@@ -216,18 +194,18 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 8,
+   "count": 5,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-mens-colognes-2026/",
-    "/g/best-food-blender-2026/",
+    "/g/best-standing-desks-2026/",
+    "/g/best-webcams-2026/",
     "/g/best-cookware-set-2026/"
    ],
-   "detail": "load 3.8s"
+   "detail": "load 3.1s"
   }
  ],
  "adsense_checklist": {
-  "policy_pages_live": false,
+  "policy_pages_live": true,
   "contact_email_set": false,
   "guides_live": 288,
   "guides_enough_20plus": true,
@@ -236,23 +214,23 @@
   "no_broken_links": true
  },
  "issue_counts": {
-  "high": 3,
+  "high": 1,
   "med": 0,
-  "low": 43
+  "low": 40
  },
  "avg_guide_words": 939,
  "slowest": [
   {
-   "url": "/g/best-food-blender-2026/",
-   "secs": 4.09
+   "url": "/g/best-comforter-sets-2026/",
+   "secs": 3.5
   },
   {
-   "url": "/g/best-mens-colognes-2026/",
-   "secs": 3.8
+   "url": "/g/best-laptop-charger-2026/",
+   "secs": 3.38
   },
   {
-   "url": "/g/best-video-doorbells-2026/",
-   "secs": 3.8
+   "url": "/g/best-webcams-2026/",
+   "secs": 3.3
   }
  ],
  "broken_links": [],
@@ -268,12 +246,12 @@
   },
   {
    "u": "/about.html",
-   "s": 503,
-   "t": 0,
-   "d": 0,
-   "w": 0,
-   "i": 1,
-   "h": "86bab4e514"
+   "s": 200,
+   "t": 43,
+   "d": 116,
+   "w": 363,
+   "i": 0,
+   "h": "f913a3ec87"
   },
   {
    "u": "/contact.html",
@@ -1613,7 +1591,7 @@
    "t": 55,
    "d": 153,
    "w": 1705,
-   "i": 0,
+   "i": 1,
    "h": "726c960f73"
   },
   {
@@ -1658,7 +1636,7 @@
    "t": 52,
    "d": 156,
    "w": 573,
-   "i": 0,
+   "i": 1,
    "h": "5df2e23884"
   },
   {
@@ -1666,7 +1644,7 @@
    "s": 200,
    "t": 52,
    "d": 154,
-   "w": 571,
+   "w": 573,
    "i": 0,
    "h": "f057ea8196"
   },
@@ -1838,7 +1816,7 @@
    "t": 62,
    "d": 140,
    "w": 515,
-   "i": 1,
+   "i": 0,
    "h": "69a552df51"
   },
   {
@@ -1847,7 +1825,7 @@
    "t": 63,
    "d": 152,
    "w": 1178,
-   "i": 1,
+   "i": 0,
    "h": "64ed8c3060"
   },
   {
@@ -1874,7 +1852,7 @@
    "t": 52,
    "d": 156,
    "w": 612,
-   "i": 1,
+   "i": 0,
    "h": "aa5e5b4903"
   },
   {
@@ -1883,7 +1861,7 @@
    "t": 59,
    "d": 148,
    "w": 765,
-   "i": 1,
+   "i": 0,
    "h": "6f32063fd3"
   },
   {
@@ -2215,7 +2193,7 @@
    "s": 200,
    "t": 68,
    "d": 153,
-   "w": 1430,
+   "w": 1431,
    "i": 1,
    "h": "a7bfcb1157"
   },
@@ -2225,7 +2203,7 @@
    "t": 45,
    "d": 153,
    "w": 1490,
-   "i": 0,
+   "i": 1,
    "h": "a44dee3ddb"
   },
   {
@@ -2297,7 +2275,7 @@
    "t": 58,
    "d": 155,
    "w": 863,
-   "i": 1,
+   "i": 0,
    "h": "38a09bbc45"
   },
   {
@@ -2333,7 +2311,7 @@
    "t": 59,
    "d": 152,
    "w": 1470,
-   "i": 1,
+   "i": 0,
    "h": "067dd1bd61"
   },
   {
@@ -2782,7 +2760,7 @@
    "s": 200,
    "t": 76,
    "d": 147,
-   "w": 727,
+   "w": 728,
    "i": 1,
    "h": "20ae7e72ac"
   },
@@ -2906,34 +2884,6 @@
  ],
  "actions": [
   {
-   "t": "2026-11-20T08:00:48.813731+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-20T11:04:14.206998+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-20T14:06:15.868161+00:00",
-   "indexnow": {
-    "submitted": 2,
-    "http": 200
-   }
-  },
-  {
-   "t": "2026-11-20T17:07:47.459594+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
    "t": "2026-11-20T20:09:20.540531+00:00",
    "indexnow": {
     "submitted": 0,
@@ -2970,6 +2920,34 @@
   },
   {
    "t": "2026-11-21T11:39:40.744024+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-21T14:41:40.857351+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-21T17:43:10.347805+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-21T20:44:39.449269+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-21T23:46:10.342095+00:00",
    "indexnow": {
     "submitted": 0,
     "note": "koi page change nahi"
