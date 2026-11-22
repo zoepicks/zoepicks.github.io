@@ -2106,20 +2106,20 @@
   },
   "hobby_music:usb-microphones": {
    "label": "USB Microphones",
-   "tries": 2,
+   "tries": 3,
    "items": [
     {
      "asin": "B01LY6Z2M6",
      "name": "Logitech Creators Blue Yeti USB Microphone",
      "pct": 50,
      "rating": 4.6,
-     "t": 1795277559,
+     "t": 1795367200,
      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
      "now": "69.99",
      "was": "139.99",
      "deal": "Black Friday Deal",
-     "reviews": 57249,
+     "reviews": 57259,
      "_title": "Logitech Creators Blue Yeti USB Microphone for PC, Mac, Gaming, Streaming, Podcasting, Studio and Computer Condenser Mic w...",
      "_price": 69.99
     },
@@ -2128,7 +2128,7 @@
      "name": "FIFINE K669B USB Microphone",
      "pct": 38,
      "rating": 4.5,
-     "t": 1795277559,
+     "t": 1795367200,
      "img": "https://m.media-amazon.com/images/I/51fN+QBSWML.jpg",
      "link": "https://www.amazon.com/dp/B06XCKGLTP?tag=zoepicks00-20",
      "now": "22.79",
@@ -2143,7 +2143,7 @@
      "name": "FIFINE K688 USB/XLR Dynamic Microphone",
      "pct": 30,
      "rating": 4.6,
-     "t": 1795277559,
+     "t": 1795367200,
      "img": "https://m.media-amazon.com/images/I/81nLaAZKKrL.jpg",
      "link": "https://www.amazon.com/dp/B0B8SNVK5K?tag=zoepicks00-20",
      "now": "51.08",
@@ -2154,17 +2154,32 @@
      "_price": 51.08
     },
     {
+     "asin": "B0H62ZL29L",
+     "name": "Wireless Lavalier Microphone",
+     "pct": 24,
+     "rating": 4.6,
+     "t": 1795367200,
+     "img": "https://m.media-amazon.com/images/I/71Z8WnUTO5L.jpg",
+     "link": "https://www.amazon.com/dp/B0H62ZL29L?tag=zoepicks00-20",
+     "now": "18.99",
+     "was": "24.99",
+     "deal": "Black Friday Deal",
+     "reviews": 54,
+     "_title": "Wireless Lavalier Microphone for iPhone & Android, USB-C Clip-On Microphone | Noise Cancelling Recording Mic, LED Power Di...",
+     "_price": 18.99
+    },
+    {
      "asin": "B0CP7P4RRQ",
      "name": "Hollyland Lark M2 Wireless Microphone",
      "pct": 20,
      "rating": 4.7,
-     "t": 1795277559,
+     "t": 1795367200,
      "img": "https://m.media-amazon.com/images/I/71enGNvpFyL.jpg",
      "link": "https://www.amazon.com/dp/B0CP7P4RRQ?tag=zoepicks00-20",
      "now": "60.80",
      "was": "76.00",
      "deal": "Black Friday Deal",
-     "reviews": 14883,
+     "reviews": 14901,
      "_title": "Hollyland Lark M2 Wireless Microphone for iPhone15/16/17&Android, USB C Mini Lapel Microphone Wireless, 1000ft Range, Hi-F...",
      "_price": 60.8
     },
@@ -2173,7 +2188,7 @@
      "name": "Hollyland LARK M3(2TX+Camera RX+USB-C RX)Wireless…",
      "pct": 20,
      "rating": 4.5,
-     "t": 1795277559,
+     "t": 1795367200,
      "img": "https://m.media-amazon.com/images/I/71UHv7k-+gL.jpg",
      "link": "https://www.amazon.com/dp/B0HCN6Y57H?tag=zoepicks00-20",
      "now": "95.20",
@@ -2182,24 +2197,9 @@
      "reviews": 145,
      "_title": "Hollyland LARK M3(2TX+Camera RX+USB-C RX)Wireless Microphone,Detailed Audio | 48H Use, AI Noise Cancellation, Voice Tunin...",
      "_price": 95.2
-    },
-    {
-     "asin": "B0H62ZL29L",
-     "name": "Wireless Lavalier Microphone",
-     "pct": 16,
-     "rating": 4.6,
-     "t": 1795277559,
-     "img": "https://m.media-amazon.com/images/I/71Z8WnUTO5L.jpg",
-     "link": "https://www.amazon.com/dp/B0H62ZL29L?tag=zoepicks00-20",
-     "now": "18.99",
-     "was": "22.49",
-     "deal": "Black Friday Deal",
-     "reviews": 54,
-     "_title": "Wireless Lavalier Microphone for iPhone & Android, USB-C Clip-On Microphone | Noise Cancelling Recording Mic, LED Power Di...",
-     "_price": 18.99
     }
    ],
-   "scanned": "2026-11-21T16:12:39.242114+00:00",
+   "scanned": "2026-11-22T17:06:40.236163+00:00",
    "via": "sweep"
   },
   "home_kitchen:air-fryers": {
@@ -27773,10 +27773,10 @@
    "types": 18
   },
   "hobby_music": {
-   "at": "2026-11-21T16:12:39.242114+00:00",
+   "at": "2026-11-22T17:06:40.236163+00:00",
    "pages": 10,
    "cards": 240,
-   "offer_cards": 239,
+   "offer_cards": 240,
    "types_hit": 1,
    "types": 3
   },
