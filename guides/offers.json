@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-23T11:15:25Z",
+ "updated": "2026-11-23T13:15:44Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -16,17 +16,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B07CMS5Q6P",
-    "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
-    "pct": 46,
-    "rating": 4.6,
-    "t": 1795414740,
-    "img": "https://m.media-amazon.com/images/I/51sg9BLSMTL.jpg",
-    "link": "https://www.amazon.com/dp/B07CMS5Q6P?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
     "asin": "B0FNRJNHW8",
     "name": "YUNZII B87 TKL Wireless Mechanical Keyboard",
     "pct": 50,
@@ -35,6 +24,19 @@
     "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
     "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B01LXCDPPK",
+    "name": "Logitech C922x HD Pro PC Webcam",
+    "pct": 38,
+    "rating": 4.6,
+    "t": 1795438815,
+    "img": "https://m.media-amazon.com/images/I/61lsdoyu1yL.jpg",
+    "link": "https://www.amazon.com/dp/B01LXCDPPK?tag=zoepicks00-20",
+    "now": "74.99",
+    "was": "119.99",
+    "reviews": 17153,
     "tier": "premium"
    }
   ],
@@ -121,15 +123,13 @@
     "tier": "budget"
    },
    {
-    "asin": "B0GRF39GVH",
-    "name": "K-Swiss Men's Mellow Running Shoe",
-    "pct": 57,
-    "rating": 4.3,
-    "t": 1795414757,
-    "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
-    "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
-    "now": "25.49",
-    "was": "59.59",
+    "asin": "B091JYX54W",
+    "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
+    "pct": 60,
+    "rating": 4.4,
+    "t": 1795414721,
+    "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
+    "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -158,16 +158,14 @@
     "tier": "budget"
    },
    {
-    "asin": "B01EN6LTBA",
-    "name": "Razor Scooter A3 Model Kick Scooter",
-    "pct": 53,
-    "rating": 4.8,
-    "t": 1795414756,
-    "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
-    "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
-    "now": "28.28",
-    "was": "59.99",
-    "reviews": 4527,
+    "asin": "B08ZCM11J6",
+    "name": "Jetson Jupiter Kids 2-Wheel Light-Up Kick Scooter",
+    "pct": 42,
+    "rating": 4.5,
+    "t": 1795414639,
+    "img": "https://m.media-amazon.com/images/I/61HAjqBx0yL.jpg",
+    "link": "https://www.amazon.com/dp/B08ZCM11J6?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "mid"
    },
    {
@@ -507,7 +505,7 @@
       "img": "https://m.media-amazon.com/images/I/61c+if67yLL.jpg",
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
+      "tier": "mid"
      }
     ]
    },
@@ -551,13 +549,135 @@
     ]
    },
    {
-    "key": "keyboard-function-keys",
-    "label": "Keyboard Function Keys",
-    "items": []
+    "key": "webcams",
+    "label": "Webcams",
+    "items": [
+     {
+      "asin": "B01LXCDPPK",
+      "name": "Logitech C922x HD Pro PC Webcam",
+      "pct": 38,
+      "rating": 4.6,
+      "t": 1795438815,
+      "img": "https://m.media-amazon.com/images/I/61lsdoyu1yL.jpg",
+      "link": "https://www.amazon.com/dp/B01LXCDPPK?tag=zoepicks00-20",
+      "now": "74.99",
+      "was": "119.99",
+      "reviews": 17153,
+      "tier": "premium"
+     },
+     {
+      "asin": "B085TFF7M1",
+      "name": "Logitech C920x HD Pro PC Webcam",
+      "pct": 21,
+      "rating": 4.6,
+      "t": 1795438822,
+      "img": "https://m.media-amazon.com/images/I/71YN85pLGcL.jpg",
+      "link": "https://www.amazon.com/dp/B085TFF7M1?tag=zoepicks00-20",
+      "now": "54.99",
+      "was": "69.99",
+      "reviews": 22117
+     }
+    ]
+   },
+   {
+    "key": "internal-ssd",
+    "label": "Internal Ssd",
+    "items": [
+     {
+      "asin": "B07XZLW68F",
+      "name": "PNY CS900 250GB 2.5\" SATA III Internal SSD",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1795438788,
+      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+      "link": "https://www.amazon.com/dp/B07XZLW68F?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "59.99",
+      "reviews": 19448
+     }
+    ]
+   },
+   {
+    "key": "mouse-skates",
+    "label": "Mouse Skates",
+    "items": [
+     {
+      "asin": "B0FMY384QQ",
+      "name": "Wallhack UHMW-PE Dot Silent Mouse Skates",
+      "pct": 25,
+      "rating": 4.5,
+      "t": 1795436017,
+      "img": "https://m.media-amazon.com/images/I/71UFaIRB1iL.jpg",
+      "link": "https://www.amazon.com/dp/B0FMY384QQ?tag=zoepicks00-20",
+      "now": "16.50",
+      "was": "22.00",
+      "reviews": 246
+     },
+     {
+      "asin": "B0BG1SH5VY",
+      "name": "Superglide Glass Mouse Skates",
+      "pct": 20,
+      "rating": 4.5,
+      "t": 1795435078,
+      "img": "https://m.media-amazon.com/images/I/61K5NCTi7yL.jpg",
+      "link": "https://www.amazon.com/dp/B0BG1SH5VY?tag=zoepicks00-20",
+      "now": "19.96",
+      "was": "24.95",
+      "reviews": 411
+     }
+    ]
+   },
+   {
+    "key": "sd-card",
+    "label": "Sd Card",
+    "items": [
+     {
+      "asin": "B09X7G85JC",
+      "name": "SANDISK 32GB Extreme PRO SD Memory Card",
+      "pct": 17,
+      "rating": 4.8,
+      "t": 1795438803,
+      "img": "https://m.media-amazon.com/images/I/71wUsZrs-cL.jpg",
+      "link": "https://www.amazon.com/dp/B09X7G85JC?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "28.99",
+      "reviews": 71431
+     },
+     {
+      "asin": "B0G8LNFNJB",
+      "name": "SANDISK 256GB Extreme SD Memory Card",
+      "pct": 15,
+      "rating": 4.8,
+      "t": 1795438795,
+      "img": "https://m.media-amazon.com/images/I/71E74s+tVjL.jpg",
+      "link": "https://www.amazon.com/dp/B0G8LNFNJB?tag=zoepicks00-20",
+      "now": "67.99",
+      "was": "79.99",
+      "reviews": 339
+     }
+    ]
    },
    {
     "key": "5g-router",
     "label": "5g Router",
+    "items": [
+     {
+      "asin": "B0C6XVCM6L",
+      "name": "GL.iNet GL-XE3000 Puli AX 5G Router",
+      "pct": 15,
+      "rating": 4.2,
+      "t": 1795435072,
+      "img": "https://m.media-amazon.com/images/I/51obAKkKprL.jpg",
+      "link": "https://www.amazon.com/dp/B0C6XVCM6L?tag=zoepicks00-20",
+      "now": "348.48",
+      "was": "409.99",
+      "reviews": 222
+     }
+    ]
+   },
+   {
+    "key": "keyboard-function-keys",
+    "label": "Keyboard Function Keys",
     "items": []
    },
    {
@@ -581,11 +701,6 @@
     "items": []
    },
    {
-    "key": "internal-ssd",
-    "label": "Internal Ssd",
-    "items": []
-   },
-   {
     "key": "keyboards-typing",
     "label": "Keyboards Typing",
     "items": []
@@ -601,11 +716,6 @@
     "items": []
    },
    {
-    "key": "mouse-skates",
-    "label": "Mouse Skates",
-    "items": []
-   },
-   {
     "key": "phone-case",
     "label": "Phone Case",
     "items": []
@@ -616,18 +726,8 @@
     "items": []
    },
    {
-    "key": "sd-card",
-    "label": "Sd Card",
-    "items": []
-   },
-   {
     "key": "travel-adapters",
     "label": "Travel Adapters",
-    "items": []
-   },
-   {
-    "key": "webcams",
-    "label": "Webcams",
     "items": []
    }
   ],
@@ -1042,25 +1142,6 @@
     ]
    },
    {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0GRF39GVH",
-      "name": "K-Swiss Men's Mellow Running Shoe",
-      "pct": 57,
-      "rating": 4.3,
-      "t": 1795414757,
-      "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
-      "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
-      "now": "25.49",
-      "was": "59.59",
-      "reviews": 0,
-      "tier": "mid"
-     }
-    ]
-   },
-   {
     "key": "sandals",
     "label": "Sandals",
     "items": [
@@ -1109,6 +1190,11 @@
    {
     "key": "rain-jackets",
     "label": "Rain Jackets",
+    "items": []
+   },
+   {
+    "key": "running-shoes",
+    "label": "Running Shoes",
     "items": []
    },
    {
@@ -1164,47 +1250,6 @@
   ],
   "fitness_outdoor": [
    {
-    "key": "scooter",
-    "label": "Scooter",
-    "items": [
-     {
-      "asin": "B08ZCM11J6",
-      "name": "Jetson Jupiter Kids 2-Wheel Light-Up Kick Scooter",
-      "pct": 42,
-      "rating": 4.5,
-      "t": 1795414639,
-      "img": "https://m.media-amazon.com/images/I/61HAjqBx0yL.jpg",
-      "link": "https://www.amazon.com/dp/B08ZCM11J6?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B01EN6LTBA",
-      "name": "Razor Scooter A3 Model Kick Scooter",
-      "pct": 53,
-      "rating": 4.8,
-      "t": 1795414756,
-      "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
-      "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
-      "now": "28.28",
-      "was": "59.99",
-      "reviews": 4527,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0GLPFSK4D",
-      "name": "VOLPAM Electric Scooter",
-      "pct": 39,
-      "rating": 4.2,
-      "t": 1795414640,
-      "img": "https://m.media-amazon.com/images/I/71VbAmlg5LL.jpg",
-      "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "insulated-water-bottles",
     "label": "Insulated Water Bottles",
     "items": [
@@ -1234,6 +1279,33 @@
     ]
    },
    {
+    "key": "scooter",
+    "label": "Scooter",
+    "items": [
+     {
+      "asin": "B08ZCM11J6",
+      "name": "Jetson Jupiter Kids 2-Wheel Light-Up Kick Scooter",
+      "pct": 42,
+      "rating": 4.5,
+      "t": 1795414639,
+      "img": "https://m.media-amazon.com/images/I/61HAjqBx0yL.jpg",
+      "link": "https://www.amazon.com/dp/B08ZCM11J6?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0GLPFSK4D",
+      "name": "VOLPAM Electric Scooter",
+      "pct": 39,
+      "rating": 4.2,
+      "t": 1795414640,
+      "img": "https://m.media-amazon.com/images/I/71VbAmlg5LL.jpg",
+      "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
+      "reviews": 0
+     }
+    ]
+   },
+   {
     "key": "hiking-boots",
     "label": "Hiking Boots",
     "items": [
@@ -1251,26 +1323,13 @@
     ]
    },
    {
-    "key": "adjustable-dumbbells",
-    "label": "Adjustable Dumbbells",
-    "items": [
-     {
-      "asin": "B0FYNZQVB9",
-      "name": "Adjustable Dumbbell Set 25lb/50lb",
-      "pct": 20,
-      "rating": 4.5,
-      "t": 1795414756,
-      "img": "https://m.media-amazon.com/images/I/711DAjCiA3L.jpg",
-      "link": "https://www.amazon.com/dp/B0FYNZQVB9?tag=zoepicks00-20",
-      "now": "124.79",
-      "was": "155.99",
-      "reviews": 182
-     }
-    ]
-   },
-   {
     "key": "home-gym-equipment",
     "label": "Home Gym Equipment",
+    "items": []
+   },
+   {
+    "key": "adjustable-dumbbells",
+    "label": "Adjustable Dumbbells",
     "items": []
    },
    {
@@ -1683,24 +1742,6 @@
     ]
    },
    {
-    "key": "comforter-sets",
-    "label": "Comforter Sets",
-    "items": [
-     {
-      "asin": "B0CJJT1PT6",
-      "name": "Queen Comforter Set-7 Pieces Soft Prewashed Bed in a Bag…",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1795414756,
-      "img": "https://m.media-amazon.com/images/I/81sr25G6sXL.jpg",
-      "link": "https://www.amazon.com/dp/B0CJJT1PT6?tag=zoepicks00-20",
-      "now": "37.77",
-      "was": "49.99",
-      "reviews": 3758
-     }
-    ]
-   },
-   {
     "key": "black-water-bottle",
     "label": "Black Water Bottle",
     "items": []
@@ -1718,6 +1759,11 @@
    {
     "key": "air-fryers",
     "label": "Air Fryers",
+    "items": []
+   },
+   {
+    "key": "comforter-sets",
+    "label": "Comforter Sets",
     "items": []
    },
    {
