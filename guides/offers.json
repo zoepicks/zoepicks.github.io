@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-23T13:15:44Z",
+ "updated": "2026-11-23T15:15:55Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -378,16 +378,6 @@
   ],
   "other": [
    {
-    "asin": "B09BKMNYQG",
-    "name": "BSIDE Digital Multimeter Color LCD 3 Results Display 9999…",
-    "pct": 50,
-    "rating": 4.3,
-    "t": 1795414745,
-    "img": "https://m.media-amazon.com/images/I/71rKAqvFNKL.jpg",
-    "link": "https://www.amazon.com/dp/B09BKMNYQG?tag=zoepicks00-20",
-    "reviews": 0
-   },
-   {
     "asin": "B0C3QT5T53",
     "name": "Microwavable Weighted Highland Cow Stuffed Animal",
     "pct": 47,
@@ -395,7 +385,32 @@
     "t": 1795414746,
     "img": "https://m.media-amazon.com/images/I/71SIuNycn-L.jpg",
     "link": "https://www.amazon.com/dp/B0C3QT5T53?tag=zoepicks00-20",
-    "reviews": 0
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B09BKMNYQG",
+    "name": "BSIDE Digital Multimeter Color LCD 3 Results Display 9999…",
+    "pct": 50,
+    "rating": 4.3,
+    "t": 1795414745,
+    "img": "https://m.media-amazon.com/images/I/71rKAqvFNKL.jpg",
+    "link": "https://www.amazon.com/dp/B09BKMNYQG?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0D3LDFKRP",
+    "name": "Cosbarn Luggage Sets",
+    "pct": 39,
+    "rating": 4.5,
+    "t": 1795439781,
+    "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+    "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+    "now": "104.49",
+    "was": "169.99",
+    "reviews": 2036,
+    "tier": "premium"
    }
   ],
   "pets": [
@@ -506,6 +521,18 @@
       "link": "https://www.amazon.com/dp/B0FNRJNHW8?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
+     },
+     {
+      "asin": "B0C8QYB8W6",
+      "name": "Razer BlackWidow V4 X Mechanical Gaming Keyboard",
+      "pct": 38,
+      "rating": 4.4,
+      "t": 1795439769,
+      "img": "https://m.media-amazon.com/images/I/71m+Xv1JKML.jpg",
+      "link": "https://www.amazon.com/dp/B0C8QYB8W6?tag=zoepicks00-20",
+      "now": "79.99",
+      "was": "129.99",
+      "reviews": 474
      }
     ]
    },
@@ -2027,7 +2054,8 @@
       "t": 1795414745,
       "img": "https://m.media-amazon.com/images/I/71rKAqvFNKL.jpg",
       "link": "https://www.amazon.com/dp/B09BKMNYQG?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
      }
     ]
    },
@@ -2043,7 +2071,27 @@
       "t": 1795414746,
       "img": "https://m.media-amazon.com/images/I/71SIuNycn-L.jpg",
       "link": "https://www.amazon.com/dp/B0C3QT5T53?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "budget"
+     }
+    ]
+   },
+   {
+    "key": "luggage-sets",
+    "label": "Luggage Sets",
+    "items": [
+     {
+      "asin": "B0D3LDFKRP",
+      "name": "Cosbarn Luggage Sets",
+      "pct": 39,
+      "rating": 4.5,
+      "t": 1795439781,
+      "img": "https://m.media-amazon.com/images/I/71-Iivq-NoL.jpg",
+      "link": "https://www.amazon.com/dp/B0D3LDFKRP?tag=zoepicks00-20",
+      "now": "104.49",
+      "was": "169.99",
+      "reviews": 2036,
+      "tier": "premium"
      }
     ]
    },
@@ -2090,11 +2138,6 @@
    {
     "key": "ice-maker",
     "label": "Ice Maker",
-    "items": []
-   },
-   {
-    "key": "luggage-sets",
-    "label": "Luggage Sets",
     "items": []
    },
    {
