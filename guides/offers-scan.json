@@ -1,6 +1,75 @@
 {
  "v": 1,
- "types": {},
+ "types": {
+  "accessories:wireless-mouse": {
+   "label": "Wireless Mouse",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B07VD4Q84X",
+     "name": "Logitech MK470 Slim Wireless Combo Compact Keyboard and…",
+     "pct": 37,
+     "rating": 4.4,
+     "t": 1795467250,
+     "img": "https://m.media-amazon.com/images/I/617Z1AjGmgL.jpg",
+     "link": "https://www.amazon.com/dp/B07VD4Q84X?tag=zoepicks00-20",
+     "now": "31.34",
+     "was": "49.99",
+     "deal": "Black Friday Deal",
+     "reviews": 8383,
+     "_title": "Logitech MK470 Slim Wireless Combo Compact Keyboard and Mouse - Graphite | Compact low-profile quiet keyboard, slim ambide...",
+     "_price": 31.34
+    },
+    {
+     "asin": "B0C7QMD44R",
+     "name": "MEETION Wireless Keyboard and Mouse Combo",
+     "pct": 27,
+     "rating": 4.3,
+     "t": 1795467250,
+     "img": "https://m.media-amazon.com/images/I/71C6XL1AXoL.jpg",
+     "link": "https://www.amazon.com/dp/B0C7QMD44R?tag=zoepicks00-20",
+     "now": "16.68",
+     "was": "22.99",
+     "deal": "Black Friday Deal",
+     "reviews": 3187,
+     "_title": "MEETION Wireless Keyboard and Mouse Combo, Full-Size with Wrist Rest, Pink | 2.4GHz USB receiver, 3 adjustable DPI mouse, ...",
+     "_price": 16.68
+    },
+    {
+     "asin": "B08N4B8Z1J",
+     "name": "MOFII Wireless Keyboard and Mouse Combo",
+     "pct": 22,
+     "rating": 4.3,
+     "t": 1795467250,
+     "img": "https://m.media-amazon.com/images/I/61O-i87pHGL.jpg",
+     "link": "https://www.amazon.com/dp/B08N4B8Z1J?tag=zoepicks00-20",
+     "now": "28.85",
+     "was": "36.99",
+     "deal": "Black Friday Deal",
+     "reviews": 9242,
+     "_title": "MOFII Wireless Keyboard and Mouse Combo, Retro Keyboard with Round Keycaps, 2.4GHz Dropout-Free Connection, Cute Wireless ...",
+     "_price": 28.85
+    },
+    {
+     "asin": "B0DDT75R2R",
+     "name": "Wireless Keyboard and Mouse Combo Silent",
+     "pct": 15,
+     "rating": 4.2,
+     "t": 1795467250,
+     "img": "https://m.media-amazon.com/images/I/71vulVx1+8L.jpg",
+     "link": "https://www.amazon.com/dp/B0DDT75R2R?tag=zoepicks00-20",
+     "now": "16.99",
+     "was": "19.99",
+     "deal": "Black Friday Deal",
+     "reviews": 3272,
+     "_title": "Wireless Keyboard and Mouse Combo Silent for Office and Home(Avocado Green) | 2.4G Full Size Silent Cordless Keyboard with...",
+     "_price": 16.99
+    }
+   ],
+   "scanned": "2026-11-23T20:54:10.297404+00:00",
+   "via": "sweep"
+  }
+ },
  "essentials": {
   "q": {
    "toilet paper": "2026-11-23T20:41:19.940421+00:00",
@@ -13405,6 +13474,16 @@
     "deal_text": "Black Friday Deal",
     "deal_checked_at": "2026-11-23T20:41:19.940421+00:00"
    }
+  }
+ },
+ "sweeps": {
+  "accessories": {
+   "at": "2026-11-23T20:54:10.297404+00:00",
+   "pages": 5,
+   "cards": 118,
+   "offer_cards": 118,
+   "types_hit": 1,
+   "types": 18
   }
  }
 }
