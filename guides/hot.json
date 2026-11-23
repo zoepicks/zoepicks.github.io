@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-23T11:13:40Z",
+ "updated": "2026-11-23T13:13:50Z",
  "hot": [
   {
    "asin": "B01EN6LTBA",
@@ -25,7 +25,8 @@
    "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
    "now": "25.49",
    "was": "59.59",
-   "reviews": 0
+   "reviews": 0,
+   "tier": "mid"
   },
   {
    "asin": "B0CJJT1PT6",
@@ -73,28 +74,6 @@
    "link": "https://www.amazon.com/dp/B0BPDXFBF7?tag=zoepicks00-20"
   },
   {
-   "asin": "B0GZPCVKCX",
-   "name": "OrthoComfoot Men's Orthopedic Plantar Fasciitis Sneakers…",
-   "pct": 64,
-   "rating": 4.4,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/81Ipx1Cyw+L.jpg",
-   "link": "https://www.amazon.com/dp/B0GZPCVKCX?tag=zoepicks00-20",
-   "now": "21.37",
-   "was": "59.99"
-  },
-  {
-   "asin": "B0BNJX9CLK",
-   "name": "Levi's Women's 94 Baggy Wide Leg Jeans",
-   "pct": 67,
-   "rating": 4.2,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/51AwCl+gNaL.jpg",
-   "link": "https://www.amazon.com/dp/B0BNJX9CLK?tag=zoepicks00-20",
-   "now": "28.16",
-   "was": "84.95"
-  },
-  {
    "asin": "B00JYHMROW",
    "name": "Rachael Ray Cucina Hard-Anodized Nonstick Frying Pan",
    "pct": 60,
@@ -113,17 +92,6 @@
    "link": "https://www.amazon.com/dp/B0DQKDZJKG?tag=zoepicks00-20"
   },
   {
-   "asin": "B087CHW9B7",
-   "name": "Calvin Klein Men's Cotton Stretch 3-Pack Boxer Brief",
-   "pct": 60,
-   "rating": 4.5,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/81vDM6Y+NFL.jpg",
-   "link": "https://www.amazon.com/dp/B087CHW9B7?tag=zoepicks00-20",
-   "now": "19.03",
-   "was": "47.50"
-  },
-  {
    "asin": "B000W922GO",
    "name": "Rockport Men's Eureka Walking Shoe",
    "pct": 62,
@@ -131,17 +99,6 @@
    "t": 1795414581,
    "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
    "link": "https://www.amazon.com/dp/B000W922GO?tag=zoepicks00-20"
-  },
-  {
-   "asin": "B01M16WBW1",
-   "name": "Queen Size 4 Piece Sheet Set",
-   "pct": 56,
-   "rating": 4.5,
-   "t": 1795414756,
-   "img": "https://images-na.ssl-images-amazon.com/images/I/71zGC0oAIXL.jpg",
-   "link": "https://www.amazon.com/dp/B01M16WBW1?tag=zoepicks00-20",
-   "now": "17.49",
-   "was": "39.99"
   },
   {
    "asin": "B0CCDDZYBH",
@@ -153,30 +110,60 @@
    "link": "https://www.amazon.com/dp/B0CCDDZYBH?tag=zoepicks00-20"
   },
   {
-   "asin": "B0DKW2H52M",
-   "name": "Resident Evil 2 - PlayStation 5",
-   "pct": 57,
-   "rating": 4.9,
-   "t": 1795414643,
-   "img": "https://m.media-amazon.com/images/I/81w7DlVxvDL.jpg",
-   "link": "https://www.amazon.com/dp/B0DKW2H52M?tag=zoepicks00-20"
+   "asin": "B092MXJFNS",
+   "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
+   "pct": 54,
+   "rating": 4.6,
+   "t": 1795438759,
+   "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
+   "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
+   "now": "12.99",
+   "was": "28.49"
+  },
+  {
+   "asin": "B07WFF17BQ",
+   "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+   "pct": 55,
+   "rating": 4.5,
+   "t": 1795413753,
+   "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
+   "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20"
+  },
+  {
+   "asin": "B083TY64MY",
+   "name": "SONGMICS Trash Bags",
+   "pct": 53,
+   "rating": 4.5,
+   "t": 1795438760,
+   "img": "https://m.media-amazon.com/images/I/61UueMpb3AL.jpg",
+   "link": "https://www.amazon.com/dp/B083TY64MY?tag=zoepicks00-20",
+   "now": "14.23",
+   "was": "29.99"
+  },
+  {
+   "asin": "B0DRGGX9ZJ",
+   "name": "HMLHML Mens Recovery Slides",
+   "pct": 53,
+   "rating": 4.4,
+   "t": 1795438760,
+   "img": "https://m.media-amazon.com/images/I/51ZQcBCdlUL.jpg",
+   "link": "https://www.amazon.com/dp/B0DRGGX9ZJ?tag=zoepicks00-20",
+   "now": "14.24",
+   "was": "29.99"
+  },
+  {
+   "asin": "B0DC97KH2V",
+   "name": "adidas Men's Athletic Cushioned Crew Socks 6 Pairs",
+   "pct": 50,
+   "rating": 4.6,
+   "t": 1795438760,
+   "img": "https://m.media-amazon.com/images/I/71uOh0i5s6L.jpg",
+   "link": "https://www.amazon.com/dp/B0DC97KH2V?tag=zoepicks00-20",
+   "now": "12.99",
+   "was": "26.00"
   }
  ],
  "ess": [
-  {
-   "asin": "B0BNJX9CLK",
-   "name": "Levi's Women's 94 Baggy Wide Leg Jeans",
-   "pct": 67,
-   "rating": 4.2,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/51AwCl+gNaL.jpg",
-   "link": "https://www.amazon.com/dp/B0BNJX9CLK?tag=zoepicks00-20",
-   "now": "28.16",
-   "was": "84.95",
-   "cat": "jeans",
-   "label": "Jeans & pants",
-   "icon": "👖"
-  },
   {
    "asin": "B0BPDXFBF7",
    "name": "Champion Men's Powerblend Pullover Hoodie",
@@ -190,15 +177,13 @@
    "icon": "🧥"
   },
   {
-   "asin": "B0GZPCVKCX",
-   "name": "OrthoComfoot Men's Orthopedic Plantar Fasciitis Sneakers…",
-   "pct": 64,
-   "rating": 4.4,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/81Ipx1Cyw+L.jpg",
-   "link": "https://www.amazon.com/dp/B0GZPCVKCX?tag=zoepicks00-20",
-   "now": "21.37",
-   "was": "59.99",
+   "asin": "B000W922GO",
+   "name": "Rockport Men's Eureka Walking Shoe",
+   "pct": 62,
+   "rating": 4.3,
+   "t": 1795414581,
+   "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
+   "link": "https://www.amazon.com/dp/B000W922GO?tag=zoepicks00-20",
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
@@ -228,25 +213,11 @@
    "icon": "🩲"
   },
   {
-   "asin": "B01M16WBW1",
-   "name": "Queen Size 4 Piece Sheet Set",
-   "pct": 56,
-   "rating": 4.5,
-   "t": 1795414756,
-   "img": "https://images-na.ssl-images-amazon.com/images/I/71zGC0oAIXL.jpg",
-   "link": "https://www.amazon.com/dp/B01M16WBW1?tag=zoepicks00-20",
-   "now": "17.49",
-   "was": "39.99",
-   "cat": "bedding",
-   "label": "Bedding & towels",
-   "icon": "🛏️"
-  },
-  {
    "asin": "B092MXJFNS",
    "name": "Contigo Cortland Chill 2.0 Stainless Steel Water Bottle",
    "pct": 54,
    "rating": 4.6,
-   "t": 1795414756,
+   "t": 1795438759,
    "img": "https://m.media-amazon.com/images/I/41l8nPMuY+L.jpg",
    "link": "https://www.amazon.com/dp/B092MXJFNS?tag=zoepicks00-20",
    "now": "12.99",
@@ -256,25 +227,11 @@
    "icon": "🥤"
   },
   {
-   "asin": "B01EN6LTBA",
-   "name": "Razor Scooter A3 Model Kick Scooter",
-   "pct": 53,
-   "rating": 4.8,
-   "t": 1795414756,
-   "img": "https://m.media-amazon.com/images/I/713paQO3uEL.jpg",
-   "link": "https://www.amazon.com/dp/B01EN6LTBA?tag=zoepicks00-20",
-   "now": "28.28",
-   "was": "59.99",
-   "cat": "care",
-   "label": "Personal care",
-   "icon": "🪒"
-  },
-  {
    "asin": "B083TY64MY",
    "name": "SONGMICS Trash Bags",
    "pct": 53,
    "rating": 4.5,
-   "t": 1795414756,
+   "t": 1795438760,
    "img": "https://m.media-amazon.com/images/I/61UueMpb3AL.jpg",
    "link": "https://www.amazon.com/dp/B083TY64MY?tag=zoepicks00-20",
    "now": "14.23",
@@ -300,7 +257,7 @@
    "name": "adidas Men's Athletic Cushioned Crew Socks 6 Pairs",
    "pct": 50,
    "rating": 4.6,
-   "t": 1795414756,
+   "t": 1795438760,
    "img": "https://m.media-amazon.com/images/I/71uOh0i5s6L.jpg",
    "link": "https://www.amazon.com/dp/B0DC97KH2V?tag=zoepicks00-20",
    "now": "12.99",
@@ -310,25 +267,11 @@
    "icon": "🧦"
   },
   {
-   "asin": "B0FYNZQVB9",
-   "name": "Adjustable Dumbbell Set 25lb/50lb",
-   "pct": 20,
-   "rating": 4.5,
-   "t": 1795414756,
-   "img": "https://m.media-amazon.com/images/I/711DAjCiA3L.jpg",
-   "link": "https://www.amazon.com/dp/B0FYNZQVB9?tag=zoepicks00-20",
-   "now": "124.79",
-   "was": "155.99",
-   "cat": "fitness",
-   "label": "Fitness basics",
-   "icon": "🏃"
-  },
-  {
    "asin": "B07HQPKDZB",
    "name": "THE GYM PEOPLE Women's Thick High Waist Yoga Pants Workout…",
    "pct": 20,
    "rating": 4.4,
-   "t": 1795414755,
+   "t": 1795438760,
    "img": "https://m.media-amazon.com/images/I/61IqZD8hYDL.jpg",
    "link": "https://www.amazon.com/dp/B07HQPKDZB?tag=zoepicks00-20",
    "now": "19.99",
@@ -350,13 +293,15 @@
    "icon": "🧥"
   },
   {
-   "asin": "B000W922GO",
-   "name": "Rockport Men's Eureka Walking Shoe",
-   "pct": 62,
-   "rating": 4.3,
-   "t": 1795414581,
-   "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
-   "link": "https://www.amazon.com/dp/B000W922GO?tag=zoepicks00-20",
+   "asin": "B0DRGGX9ZJ",
+   "name": "HMLHML Mens Recovery Slides",
+   "pct": 53,
+   "rating": 4.4,
+   "t": 1795438760,
+   "img": "https://m.media-amazon.com/images/I/51ZQcBCdlUL.jpg",
+   "link": "https://www.amazon.com/dp/B0DRGGX9ZJ?tag=zoepicks00-20",
+   "now": "14.24",
+   "was": "29.99",
    "cat": "shoes",
    "label": "Shoes",
    "icon": "👟"
@@ -372,62 +317,6 @@
    "cat": "cookware",
    "label": "Kitchen basics",
    "icon": "🍳"
-  },
-  {
-   "asin": "B087CHW9B7",
-   "name": "Calvin Klein Men's Cotton Stretch 3-Pack Boxer Brief",
-   "pct": 60,
-   "rating": 4.5,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/81vDM6Y+NFL.jpg",
-   "link": "https://www.amazon.com/dp/B087CHW9B7?tag=zoepicks00-20",
-   "now": "19.03",
-   "was": "47.50",
-   "cat": "underwear",
-   "label": "Underwear",
-   "icon": "🩲"
-  },
-  {
-   "asin": "B0CJJT1PT6",
-   "name": "Queen Comforter Set-7 Pieces Soft Prewashed Bed in a Bag…",
-   "pct": 24,
-   "rating": 4.4,
-   "t": 1795414756,
-   "img": "https://m.media-amazon.com/images/I/81sr25G6sXL.jpg",
-   "link": "https://www.amazon.com/dp/B0CJJT1PT6?tag=zoepicks00-20",
-   "now": "37.77",
-   "was": "49.99",
-   "cat": "bedding",
-   "label": "Bedding & towels",
-   "icon": "🛏️"
-  },
-  {
-   "asin": "B0GRF39GVH",
-   "name": "K-Swiss Men's Mellow Running Shoe",
-   "pct": 57,
-   "rating": 4.3,
-   "t": 1795414757,
-   "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
-   "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
-   "now": "25.49",
-   "was": "59.59",
-   "cat": "shoes",
-   "label": "Shoes",
-   "icon": "👟"
-  },
-  {
-   "asin": "B0DRGGX9ZJ",
-   "name": "HMLHML Mens Recovery Slides",
-   "pct": 53,
-   "rating": 4.4,
-   "t": 1795414755,
-   "img": "https://m.media-amazon.com/images/I/51ZQcBCdlUL.jpg",
-   "link": "https://www.amazon.com/dp/B0DRGGX9ZJ?tag=zoepicks00-20",
-   "now": "14.24",
-   "was": "29.99",
-   "cat": "shoes",
-   "label": "Shoes",
-   "icon": "👟"
   },
   {
    "asin": "B0CNYDR78V",
