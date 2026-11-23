@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-23T15:15:55Z",
+ "updated": "2026-11-23T19:16:21Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -27,16 +27,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B01LXCDPPK",
-    "name": "Logitech C922x HD Pro PC Webcam",
-    "pct": 38,
+    "asin": "B07XZLN9KM",
+    "name": "PNY CS900 500GB 2.5\" SATA III Internal SSD",
+    "pct": 40,
     "rating": 4.6,
-    "t": 1795438815,
-    "img": "https://m.media-amazon.com/images/I/61lsdoyu1yL.jpg",
-    "link": "https://www.amazon.com/dp/B01LXCDPPK?tag=zoepicks00-20",
-    "now": "74.99",
-    "was": "119.99",
-    "reviews": 17153,
+    "t": 1795457332,
+    "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+    "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
+    "now": "67.99",
+    "was": "109.99",
+    "reviews": 19448,
     "tier": "premium"
    }
   ],
@@ -263,14 +263,16 @@
     "tier": "budget"
    },
    {
-    "asin": "B01LY6Z2M6",
+    "asin": "B00N1YPXW2",
     "name": "Logitech Creators Blue Yeti USB Microphone",
     "pct": 50,
     "rating": 4.6,
-    "t": 1795414742,
-    "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
-    "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
-    "reviews": 0,
+    "t": 1795457346,
+    "img": "https://m.media-amazon.com/images/I/61IPJI9ezKL.jpg",
+    "link": "https://www.amazon.com/dp/B00N1YPXW2?tag=zoepicks00-20",
+    "now": "69.99",
+    "was": "139.99",
+    "reviews": 57241,
     "tier": "mid"
    },
    {
@@ -576,6 +578,37 @@
     ]
    },
    {
+    "key": "internal-ssd",
+    "label": "Internal Ssd",
+    "items": [
+     {
+      "asin": "B07XZLN9KM",
+      "name": "PNY CS900 500GB 2.5\" SATA III Internal SSD",
+      "pct": 40,
+      "rating": 4.6,
+      "t": 1795457332,
+      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+      "link": "https://www.amazon.com/dp/B07XZLN9KM?tag=zoepicks00-20",
+      "now": "67.99",
+      "was": "109.99",
+      "reviews": 19448,
+      "tier": "premium"
+     },
+     {
+      "asin": "B07XZLW68F",
+      "name": "PNY CS900 250GB 2.5\" SATA III Internal SSD",
+      "pct": 33,
+      "rating": 4.6,
+      "t": 1795438788,
+      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
+      "link": "https://www.amazon.com/dp/B07XZLW68F?tag=zoepicks00-20",
+      "now": "39.99",
+      "was": "59.99",
+      "reviews": 19448
+     }
+    ]
+   },
+   {
     "key": "webcams",
     "label": "Webcams",
     "items": [
@@ -589,8 +622,7 @@
       "link": "https://www.amazon.com/dp/B01LXCDPPK?tag=zoepicks00-20",
       "now": "74.99",
       "was": "119.99",
-      "reviews": 17153,
-      "tier": "premium"
+      "reviews": 17153
      },
      {
       "asin": "B085TFF7M1",
@@ -603,24 +635,6 @@
       "now": "54.99",
       "was": "69.99",
       "reviews": 22117
-     }
-    ]
-   },
-   {
-    "key": "internal-ssd",
-    "label": "Internal Ssd",
-    "items": [
-     {
-      "asin": "B07XZLW68F",
-      "name": "PNY CS900 250GB 2.5\" SATA III Internal SSD",
-      "pct": 33,
-      "rating": 4.6,
-      "t": 1795438788,
-      "img": "https://m.media-amazon.com/images/I/61cyHqB+KmL.jpg",
-      "link": "https://www.amazon.com/dp/B07XZLW68F?tag=zoepicks00-20",
-      "now": "39.99",
-      "was": "59.99",
-      "reviews": 19448
      }
     ]
    },
@@ -1628,15 +1642,30 @@
       "tier": "budget"
      },
      {
-      "asin": "B01LY6Z2M6",
+      "asin": "B06XCKGLTP",
+      "name": "FIFINE K669B USB Microphone",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1795457339,
+      "img": "https://m.media-amazon.com/images/I/51fN+QBSWML.jpg",
+      "link": "https://www.amazon.com/dp/B06XCKGLTP?tag=zoepicks00-20",
+      "now": "22.79",
+      "was": "36.99",
+      "reviews": 34639,
+      "tier": "mid"
+     },
+     {
+      "asin": "B00N1YPXW2",
       "name": "Logitech Creators Blue Yeti USB Microphone",
       "pct": 50,
       "rating": 4.6,
-      "t": 1795414742,
-      "img": "https://m.media-amazon.com/images/I/61rGxyu5lUL.jpg",
-      "link": "https://www.amazon.com/dp/B01LY6Z2M6?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
+      "t": 1795457346,
+      "img": "https://m.media-amazon.com/images/I/61IPJI9ezKL.jpg",
+      "link": "https://www.amazon.com/dp/B00N1YPXW2?tag=zoepicks00-20",
+      "now": "69.99",
+      "was": "139.99",
+      "reviews": 57241,
+      "tier": "premium"
      }
     ]
    },
