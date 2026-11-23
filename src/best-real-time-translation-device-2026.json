@@ -33,7 +33,16 @@
    ],
    "best_for": "Solo travelers",
    "skip_if": "You need group translation",
-   "link": "https://www.amazon.com/s?k=Timekettle+Earbuds&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Timekettle+Earbuds&tag=zoepicks00-20",
+   "asin": "B0HLG3MKQJ",
+   "image": "https://m.media-amazon.com/images/I/51TRfeuBEeL.jpg",
+   "image_asin": "B0HLG3MKQJ",
+   "amazon_price": "$359.00",
+   "amazon_price_asof": "Nov 22, 2026",
+   "amazon_listing": "Timekettle W4 Pro AI Interpreter Earbuds with Real-Time Translation | 50+Languages, Two-Wa",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 28,
+   "amazon_rating_asof": "Nov 22, 2026"
   },
   {
    "name": "Apple Live Translation via AirPods Pro 3",
@@ -61,7 +70,10 @@
    ],
    "best_for": "Small family groups",
    "skip_if": "You need many listeners or non‑iOS devices",
-   "link": "https://www.amazon.com/s?k=Apple+Live+Translation+via+AirPods+Pro+3&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Apple+Live+Translation+via+AirPods+Pro+3&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Google Translate Conversation Mode",
@@ -89,7 +101,10 @@
    ],
    "best_for": "Android users traveling abroad",
    "skip_if": "You use iOS or need offline use",
-   "link": "https://www.amazon.com/s?k=Google+Translate+Conversation+Mode&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Google+Translate+Conversation+Mode&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   }
  ]
 }
