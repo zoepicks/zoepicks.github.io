@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-22T12:10:19.957325+00:00",
+ "generated_at": "2026-11-23T00:34:41.121621+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,7 +10,7 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 53
+   "low": 39
   },
   "avg_guide_words": 940,
   "todo": [
@@ -38,18 +38,6 @@
    },
    {
     "sev": "low",
-    "code": "slow_page",
-    "count": 18,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-webcams-2026/",
-     "/g/best-tote-bags-2026/",
-     "/g/best-4k-monitors-2026/"
-    ],
-    "detail": "load 3.2s"
-   },
-   {
-    "sev": "low",
     "code": "title_length",
     "count": 16,
     "fix": "Titles 25-65 chars ke andar rakho (Google truncate karta hai).",
@@ -59,6 +47,18 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 4,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-wallets-2026/",
+     "/g/best-pc-controllers-2026/",
+     "/g/best-nintendo-switch-skin-2026/"
+    ],
+    "detail": "load 3.29s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,33 +74,33 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-22T06:07:05.453448+00:00",
+    "t": "2026-11-22T18:13:56.142415+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-22T09:08:33.459570+00:00",
+    "t": "2026-11-22T21:15:32.646280+00:00",
     "indexnow": {
      "submitted": 0,
      "note": "koi page change nahi"
     }
    },
    {
-    "t": "2026-11-22T12:10:13.142446+00:00",
+    "t": "2026-11-23T00:17:07.238265+00:00",
     "indexnow": {
-     "submitted": 6,
-     "http": 200
+     "submitted": 0,
+     "note": "koi page change nahi"
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 0,
-  "today_views": 0,
-  "total_visitors": 127,
-  "total_views": 864,
+  "today_visitors": 2,
+  "today_views": 2,
+  "total_visitors": 129,
+  "total_views": 866,
   "since": "2026-10-16",
   "last7": [
    {
@@ -141,38 +141,44 @@
    },
    {
     "day": "2026-11-22",
-    "visitors": 0,
-    "views": 0,
+    "visitors": 2,
+    "views": 2,
     "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 117,
-   "warn": 3,
+   "info": 166,
+   "warn": 13,
    "error": 0
   },
   "last7d": {
-   "info": 770,
-   "warn": 43,
+   "info": 819,
+   "warn": 53,
    "error": 0
   },
   "modules_with_errors_7d": [
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 41
+    "warnings": 45
    }
   ],
   "collector": {
    "today": {
-    "total": 3,
-    "ok": 0,
-    "failed": 3,
+    "total": 6,
+    "ok": 2,
+    "failed": 4,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 491,
+      "at": "2026-11-22T20:16:17Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45065480394"
+     },
      {
       "run": 488,
       "at": "2026-11-22T11:14:57Z",
@@ -194,9 +200,9 @@
     ]
    },
    "last7d": {
-    "total": 80,
-    "ok": 15,
-    "failed": 65,
+    "total": 83,
+    "ok": 17,
+    "failed": 66,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -265,8 +271,8 @@
   },
   "site_deploys": {
    "today": {
-    "total": 110,
-    "ok": 107,
+    "total": 122,
+    "ok": 119,
     "failed": 3,
     "cancelled": 0,
     "running": 0,
@@ -293,8 +299,8 @@
    },
    "last7d": {
     "total": 300,
-    "ok": 294,
-    "failed": 6,
+    "ok": 295,
+    "failed": 5,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
@@ -327,12 +333,6 @@
       "at": "2026-11-21T06:36:24Z",
       "event": "push",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44876338303"
-     },
-     {
-      "run": 3985,
-      "at": "2026-11-20T08:00:35Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44699154395"
      }
     ]
    }
@@ -344,9 +344,14 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEDEALSCAN",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe deal scan: could not read guides/offers-scan.json: Expecting value: line 1 column 1 (char 0)"
+   },
+   {
+    "module": "ZOEHOT",
+    "level": "w",
+    "msg": "zoe hot: CI essentials rows unavailable: Expecting value: line 1 column 1 (char 0)"
    },
    {
     "module": "ZOESEO",
@@ -354,63 +359,40 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEDEALSCAN",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe deal scan: could not read guides/offers-scan.json: Expecting value: line 1 column 1 (char 0)"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot: CI essentials rows unavailable: Expecting value: line 1 column 1 (char 0)"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEDEALSCAN",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe deal scan: could not read guides/offers-scan.json: Expecting value: line 1 column 1 (char 0)"
    },
    {
-    "module": "ZOESEO",
+    "module": "ZOEHOT",
     "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
-   },
-   {
-    "module": "ZOESEO",
-    "level": "w",
-    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
+    "msg": "zoe hot: CI essentials rows unavailable: Expecting value: line 1 column 1 (char 0)"
    }
   ]
  },
  "content": {
   "live_guides": 288,
   "missing_topics_by_status": {
-   "queued": 141,
-   "open": 2,
+   "queued": 143,
    "covered": 36,
    "built": 21
   },
   "missing_new": {
    "today": 0,
-   "d7": 90,
-   "d30": 170
+   "d7": 83,
+   "d30": 169
   },
-  "open_topics": [
-   {
-    "topic": "water cooling system",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1795280464",
-    "last_at": "1795280464"
-   },
-   {
-    "topic": "moisturizer cleanser",
-    "leads": "1",
-    "budget": null,
-    "status": "open",
-    "first_at": "1795279460",
-    "last_at": "1795279460"
-   }
-  ]
+  "open_topics": []
  },
  "search_console": {
   "ok": true,
@@ -568,7 +550,7 @@
    "https://zoepicks.github.io/g/best-plush-toy-2026/"
   ],
   "sitemap": {
-   "last_submitted": "2026-11-21T23:46",
+   "last_submitted": "2026-11-23T00:17",
    "last_downloaded": "",
    "pending": true,
    "errors": 0,
@@ -579,13 +561,8 @@
   "sitemap_submit": "pending: Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check ",
   "perf": {
    "clicks_28d": 0,
-   "impressions_28d": 3,
+   "impressions_28d": 4,
    "last_days": [
-    {
-     "d": "2026-11-13",
-     "clicks": 0,
-     "impr": 0
-    },
     {
      "d": "2026-11-14",
      "clicks": 0,
@@ -615,14 +592,19 @@
      "d": "2026-11-19",
      "clicks": 0,
      "impr": 0
+    },
+    {
+     "d": "2026-11-20",
+     "clicks": 0,
+     "impr": 1
     }
    ],
    "top_pages": [
     {
      "u": "/",
      "clicks": 0,
-     "impr": 3,
-     "pos": 5
+     "impr": 4,
+     "pos": 5.8
     }
    ],
    "top_queries": []
@@ -632,13 +614,6 @@
    "near_page1_queries": []
   },
   "history": [
-   {
-    "d": "2026-11-08",
-    "indexed": 1,
-    "of": 150,
-    "clicks": 0,
-    "impr": 3
-   },
    {
     "d": "2026-11-09",
     "indexed": 1,
@@ -729,6 +704,13 @@
     "of": 150,
     "clicks": 0,
     "impr": 3
+   },
+   {
+    "d": "2026-11-23",
+    "indexed": 1,
+    "of": 150,
+    "clicks": 0,
+    "impr": 4
    }
   ],
   "sitemap_check": {
@@ -736,7 +718,7 @@
    "ok": false,
    "summary": "Sitemap Google me listed hai par Google ne abhi download nahi ki - bot har 3 ghante check karta hai aur 24 ghante baad bhi pending rahe to dobara submit karta hai",
    "status": {
-    "last_submitted": "2026-11-21T23:46",
+    "last_submitted": "2026-11-23T00:17",
     "last_downloaded": "",
     "pending": true,
     "errors": 0,
@@ -752,8 +734,8 @@
     "live_pages_crawled": 294
    },
    "permission": "siteOwner",
-   "resubmitted": null,
-   "put": null,
+   "resubmitted": true,
+   "put": "ok",
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
