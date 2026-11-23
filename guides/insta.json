@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-23T06:47:15Z",
+ "updated": "2026-11-23T08:47:32Z",
  "cats": [
   {
    "key": "fashion",
@@ -24,20 +24,7 @@
   }
  ],
  "items": {
-  "fashion": [
-   {
-    "asin": "B0CNYDR78V",
-    "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
-    "pct": 50,
-    "rating": 4.3,
-    "t": 1795347022,
-    "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
-    "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
-    "now": "20.10",
-    "was": "39.90",
-    "cat": "fashion"
-   }
-  ],
+  "fashion": [],
   "beauty": [],
   "home": [
    {
@@ -53,99 +40,15 @@
     "cat": "home"
    },
    {
-    "asin": "B07WFF17BQ",
-    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-    "pct": 55,
-    "rating": 4.5,
-    "t": 1795347023,
-    "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
-    "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
-    "now": "18.03",
-    "was": "39.97",
-    "cat": "home"
-   },
-   {
-    "asin": "B01FYIAQA6",
-    "name": "KRUPS 4-Slice Belgian Waffle Maker Nonstick Removable Plates",
-    "pct": 48,
-    "rating": 4.4,
-    "t": 1795287728,
-    "img": "https://m.media-amazon.com/images/I/71fvfoLhljL.jpg",
-    "link": "https://www.amazon.com/dp/B01FYIAQA6?tag=zoepicks00-20",
-    "now": "46.54",
-    "was": "89.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0BT93MJ4G",
-    "name": "GoveeLife Smart Humidifiers",
-    "pct": 41,
-    "rating": 4.2,
-    "t": 1795287755,
-    "img": "https://m.media-amazon.com/images/I/610fMtFmX3L.jpg",
-    "link": "https://www.amazon.com/dp/B0BT93MJ4G?tag=zoepicks00-20",
-    "now": "23.74",
-    "was": "39.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0BR3STN87",
-    "name": "Linen Total Blackout Curtains",
-    "pct": 34,
-    "rating": 4.5,
-    "t": 1795291484,
-    "img": "https://m.media-amazon.com/images/I/7121kw+gfyL.jpg",
-    "link": "https://www.amazon.com/dp/B0BR3STN87?tag=zoepicks00-20",
-    "now": "26.37",
-    "was": "39.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0HP8M7HFY",
-    "name": "5L Humidifier for Bedroom",
-    "pct": 32,
-    "rating": 4.4,
-    "t": 1795287749,
-    "img": "https://m.media-amazon.com/images/I/71CbVTFMBPL.jpg",
-    "link": "https://www.amazon.com/dp/B0HP8M7HFY?tag=zoepicks00-20",
-    "now": "34.18",
-    "was": "49.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0DR8L2DWG",
-    "name": "Camping Hammock Lightweight",
-    "pct": 30,
-    "rating": 4.5,
-    "t": 1795291472,
-    "img": "https://m.media-amazon.com/images/I/71c5fEfxSrL.jpg",
-    "link": "https://www.amazon.com/dp/B0DR8L2DWG?tag=zoepicks00-20",
-    "now": "13.99",
-    "was": "19.99",
-    "cat": "home"
-   },
-   {
     "asin": "B0CJJT1PT6",
     "name": "Queen Comforter Set-7 Pieces Soft Prewashed Bed in a Bag…",
     "pct": 24,
     "rating": 4.4,
-    "t": 1795287743,
+    "t": 1795414756,
     "img": "https://m.media-amazon.com/images/I/81sr25G6sXL.jpg",
     "link": "https://www.amazon.com/dp/B0CJJT1PT6?tag=zoepicks00-20",
     "now": "37.77",
     "was": "49.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B07D2LZBXF",
-    "name": "Sunnydaze Quilted Double Hammock",
-    "pct": 25,
-    "rating": 4.2,
-    "t": 1795287735,
-    "img": "https://m.media-amazon.com/images/I/91dP6QU71uL.jpg",
-    "link": "https://www.amazon.com/dp/B07D2LZBXF?tag=zoepicks00-20",
-    "now": "65.21",
-    "was": "86.95",
     "cat": "home"
    }
   ],
