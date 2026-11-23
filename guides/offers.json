@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-23T09:15:04Z",
+ "updated": "2026-11-23T11:15:25Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -121,13 +121,15 @@
     "tier": "budget"
    },
    {
-    "asin": "B0CCDDZYBH",
-    "name": "AUTOMET Womens Hoodies Half Zip Up Casual Comfort Fall…",
+    "asin": "B0GRF39GVH",
+    "name": "K-Swiss Men's Mellow Running Shoe",
     "pct": 57,
-    "rating": 4.4,
-    "t": 1795414719,
-    "img": "https://m.media-amazon.com/images/I/610fUKdkxnL.jpg",
-    "link": "https://www.amazon.com/dp/B0CCDDZYBH?tag=zoepicks00-20",
+    "rating": 4.3,
+    "t": 1795414757,
+    "img": "https://m.media-amazon.com/images/I/719p38TxoRL.jpg",
+    "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
+    "now": "25.49",
+    "was": "59.59",
     "reviews": 0,
     "tier": "mid"
    },
@@ -1053,7 +1055,8 @@
       "link": "https://www.amazon.com/dp/B0GRF39GVH?tag=zoepicks00-20",
       "now": "25.49",
       "was": "59.59",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "mid"
      }
     ]
    },
@@ -1074,26 +1077,13 @@
     ]
    },
    {
-    "key": "compression-socks",
-    "label": "Compression Socks",
-    "items": [
-     {
-      "asin": "B071ZZBZRD",
-      "name": "Copper Compression Socks 15-20 mmHg",
-      "pct": 15,
-      "rating": 4.5,
-      "t": 1795296021,
-      "img": "https://m.media-amazon.com/images/I/81YjtgcUZ9L.jpg",
-      "link": "https://www.amazon.com/dp/B071ZZBZRD?tag=zoepicks00-20",
-      "now": "16.98",
-      "was": "19.98",
-      "reviews": 42151
-     }
-    ]
-   },
-   {
     "key": "carry-on-bags",
     "label": "Carry On Bags",
+    "items": []
+   },
+   {
+    "key": "compression-socks",
+    "label": "Compression Socks",
     "items": []
    },
    {
