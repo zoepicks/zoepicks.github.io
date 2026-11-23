@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-22T21:13:51Z",
+ "updated": "2026-11-23T01:14:20Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -400,16 +400,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0FX3FG3F3",
-    "name": "Samsung 32\" The Movingstyle Essential 4K UHD Smart Monitor",
-    "pct": 31,
-    "rating": 4.3,
-    "t": 1795261714,
-    "img": "https://m.media-amazon.com/images/I/61fcs+h2ICL.jpg",
-    "link": "https://www.amazon.com/dp/B0FX3FG3F3?tag=zoepicks00-20",
-    "now": "484.99",
-    "was": "699.99",
-    "reviews": 192,
+    "asin": "B08QTLYPVT",
+    "name": "VisionOwl Portable Monitor 15.6 Inch 1080P FHD 85% sRGB…",
+    "pct": 27,
+    "rating": 4.8,
+    "t": 1795334892,
+    "img": "https://m.media-amazon.com/images/I/71Jol9hIXpL.jpg",
+    "link": "https://www.amazon.com/dp/B08QTLYPVT?tag=zoepicks00-20",
+    "now": "94.99",
+    "was": "129.99",
+    "reviews": 3253,
     "tier": "premium"
    }
   ],
@@ -2438,25 +2438,6 @@
     ]
    },
    {
-    "key": "4k-monitors",
-    "label": "4K Monitors",
-    "items": [
-     {
-      "asin": "B0FX3FG3F3",
-      "name": "Samsung 32\" The Movingstyle Essential 4K UHD Smart Monitor",
-      "pct": 31,
-      "rating": 4.3,
-      "t": 1795261714,
-      "img": "https://m.media-amazon.com/images/I/61fcs+h2ICL.jpg",
-      "link": "https://www.amazon.com/dp/B0FX3FG3F3?tag=zoepicks00-20",
-      "now": "484.99",
-      "was": "699.99",
-      "reviews": 192,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "portable-monitors",
     "label": "Portable Monitors",
     "items": [
@@ -2470,7 +2451,8 @@
       "link": "https://www.amazon.com/dp/B08QTLYPVT?tag=zoepicks00-20",
       "now": "94.99",
       "was": "129.99",
-      "reviews": 3253
+      "reviews": 3253,
+      "tier": "premium"
      },
      {
       "asin": "B095GG31KX",
@@ -2495,6 +2477,11 @@
    {
     "key": "usb-c-monitors",
     "label": "USB C Monitors",
+    "items": []
+   },
+   {
+    "key": "4k-monitors",
+    "label": "4K Monitors",
     "items": []
    },
    {
