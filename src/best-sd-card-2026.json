@@ -33,7 +33,10 @@
    ],
    "best_for": "High‑end camera users and mobile power users",
    "skip_if": "You need a budget card",
-   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+Pro+UHS-I+MicroSDXC&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+Pro+UHS-I+MicroSDXC&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "SanDisk Ultra UHS-I MicroSDXC",
@@ -61,7 +64,10 @@
    ],
    "best_for": "Budget users and everyday smartphone storage",
    "skip_if": "You need high‑end camera performance",
-   "link": "https://www.amazon.com/s?k=SanDisk+Ultra+UHS-I+MicroSDXC&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SanDisk+Ultra+UHS-I+MicroSDXC&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "SanDisk Extreme UHS-I MicroSDXC",
@@ -89,7 +95,10 @@
    ],
    "best_for": "Photographers needing large storage",
    "skip_if": "You need the fastest small file write speed",
-   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+UHS-I+MicroSDXC&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=SanDisk+Extreme+UHS-I+MicroSDXC&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
