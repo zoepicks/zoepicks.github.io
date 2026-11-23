@@ -32,7 +32,16 @@
    ],
    "best_for": "Travelers and people who need a pressure‑free mask",
    "skip_if": "If you need a very dark mask for extreme light sensitivity",
-   "link": "https://www.amazon.com/s?k=Mzoo+Sleep+Mask&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Mzoo+Sleep+Mask&tag=zoepicks00-20",
+   "asin": "B07KC5DWCC",
+   "image": "https://m.media-amazon.com/images/I/71SMSJDNOBL.jpg",
+   "image_asin": "B07KC5DWCC",
+   "amazon_price": "$12.99",
+   "amazon_price_asof": "Nov 22, 2026",
+   "amazon_listing": "MZOO Luxury Sleep Mask for Women Men Patented Light Blocking Design | Zero Eye Pressure, 3",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 12,
+   "amazon_rating_asof": "Nov 22, 2026"
   },
   {
    "name": "Alaska Bear Natural Silk Sleep Mask",
@@ -57,7 +66,10 @@
    ],
    "best_for": "Students and people who need a smooth, light‑blocking mask",
    "skip_if": "If you prefer a pressure‑free mask",
-   "link": "https://www.amazon.com/s?k=Alaska+Bear+Natural+Silk+Sleep+Mask&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Alaska+Bear+Natural+Silk+Sleep+Mask&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   },
   {
    "name": "Manta Sound Sleep Mask",
@@ -84,7 +96,10 @@
    ],
    "best_for": "Travelers who want audio",
    "skip_if": "If you need a very dark mask",
-   "link": "https://www.amazon.com/s?k=Manta+Sound+Sleep+Mask&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Manta+Sound+Sleep+Mask&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 22, 2026",
+   "fill_failed": false
   }
  ],
  "verdict": {
