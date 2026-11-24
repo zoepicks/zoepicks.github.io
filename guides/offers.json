@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-24T07:17:44Z",
+ "updated": "2026-11-24T09:17:57Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -1102,12 +1102,11 @@
       "name": "SANDISK 64GB Ultra SD Memory Card",
       "pct": 15,
       "rating": 4.6,
-      "t": 1795498690,
+      "t": 1795509447,
       "img": "https://m.media-amazon.com/images/I/71I3OD7J3EL.jpg",
       "link": "https://www.amazon.com/dp/B0G8LGGX9B?tag=zoepicks00-20",
       "now": "20.39",
       "was": "23.99",
-      "deal": "Black Friday Deal",
       "reviews": 396,
       "tier": "budget"
      },
@@ -1998,53 +1997,6 @@
     ]
    },
    {
-    "key": "wireless-earbuds",
-    "label": "Wireless Earbuds",
-    "items": [
-     {
-      "asin": "B0GHY4PR3N",
-      "name": "JBL Tune 530BT (2026)",
-      "pct": 50,
-      "rating": 4.3,
-      "t": 1795467480,
-      "img": "https://m.media-amazon.com/images/I/71bxgOa0vCL.jpg",
-      "link": "https://www.amazon.com/dp/B0GHY4PR3N?tag=zoepicks00-20",
-      "now": "29.95",
-      "was": "59.95",
-      "deal": "Black Friday Deal",
-      "reviews": 324,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0F6NZWPTC",
-      "name": "HyperX Cloud III S Wireless Gaming Headset",
-      "pct": 45,
-      "rating": 4.3,
-      "t": 1795467899,
-      "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
-      "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
-      "now": "99.69",
-      "was": "179.99",
-      "deal": "Black Friday Deal",
-      "reviews": 2914,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0H7Z164PJ",
-      "name": "Beats Studio Pro Premium Wireless Over-Ear Headphones- Up…",
-      "pct": 53,
-      "rating": 4.5,
-      "t": 1795376353,
-      "img": "https://m.media-amazon.com/images/I/51pggsQdaHL.jpg",
-      "link": "https://www.amazon.com/dp/B0H7Z164PJ?tag=zoepicks00-20",
-      "now": "139.95",
-      "was": "299.99",
-      "reviews": 29414,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "printers",
     "label": "Printers",
     "items": [
@@ -2143,6 +2095,53 @@
     ]
    },
    {
+    "key": "wireless-earbuds",
+    "label": "Wireless Earbuds",
+    "items": [
+     {
+      "asin": "B0GHY4PR3N",
+      "name": "JBL Tune 530BT (2026)",
+      "pct": 50,
+      "rating": 4.3,
+      "t": 1795467480,
+      "img": "https://m.media-amazon.com/images/I/71bxgOa0vCL.jpg",
+      "link": "https://www.amazon.com/dp/B0GHY4PR3N?tag=zoepicks00-20",
+      "now": "29.95",
+      "was": "59.95",
+      "deal": "Black Friday Deal",
+      "reviews": 324,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0GMTNSFR3",
+      "name": "JBL Tune 730BT (2026): Wireless Over-Ear Headphones…",
+      "pct": 44,
+      "rating": 4.4,
+      "t": 1795467480,
+      "img": "https://m.media-amazon.com/images/I/719cE5C0vML.jpg",
+      "link": "https://www.amazon.com/dp/B0GMTNSFR3?tag=zoepicks00-20",
+      "now": "49.95",
+      "was": "89.95",
+      "reviews": 300,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0F6NZWPTC",
+      "name": "HyperX Cloud III S Wireless Gaming Headset",
+      "pct": 45,
+      "rating": 4.3,
+      "t": 1795467899,
+      "img": "https://m.media-amazon.com/images/I/71mqaEv2KRL.jpg",
+      "link": "https://www.amazon.com/dp/B0F6NZWPTC?tag=zoepicks00-20",
+      "now": "99.69",
+      "was": "179.99",
+      "deal": "Black Friday Deal",
+      "reviews": 2914,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "tablets",
     "label": "Tablets",
     "items": [
@@ -2165,12 +2164,11 @@
       "name": "Lenovo Idea Tab - College Tablet",
       "pct": 20,
       "rating": 4.3,
-      "t": 1795467480,
+      "t": 1795505808,
       "img": "https://m.media-amazon.com/images/I/61-7FkUAw-L.jpg",
       "link": "https://www.amazon.com/dp/B0FGYCJ7NJ?tag=zoepicks00-20",
       "now": "159.99",
       "was": "199.99",
-      "deal": "Black Friday Deal",
       "reviews": 828
      }
     ]
