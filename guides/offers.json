@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-24T21:19:05Z",
+ "updated": "2026-11-24T23:19:23Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -123,38 +123,43 @@
   ],
   "fashion": [
    {
-    "asin": "B0BYNYWKC7",
-    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
-    "pct": 63,
-    "rating": 4.6,
-    "t": 1795501278,
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
-    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
+    "asin": "B01HIUTCUS",
+    "name": "Champion Men's Powerblend Pullover Hoodie",
+    "pct": 64,
+    "rating": 4.7,
+    "t": 1795555464,
+    "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
+    "link": "https://www.amazon.com/dp/B01HIUTCUS?tag=zoepicks00-20",
+    "now": "18.04",
+    "was": "50.00",
     "reviews": 0,
     "tier": "budget"
    },
    {
-    "asin": "B0HPP45LQQ",
-    "name": "Fitness Tracker, Smart Watches",
-    "pct": 62,
-    "rating": 4.8,
-    "t": 1795501312,
-    "img": "https://m.media-amazon.com/images/I/710096DvMsL.jpg",
-    "link": "https://www.amazon.com/dp/B0HPP45LQQ?tag=zoepicks00-20",
+    "asin": "B0GS9PNXB5",
+    "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
+    "pct": 64,
+    "rating": 4.5,
+    "t": 1795555464,
+    "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
+    "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
+    "now": "23.99",
+    "was": "65.95",
     "reviews": 0,
     "tier": "mid"
    },
    {
-    "asin": "B000W93PX8",
+    "asin": "B000W922KA",
     "name": "Rockport Men's Eureka Walking Shoe",
-    "pct": 62,
+    "pct": 60,
     "rating": 4.3,
-    "t": 1795519869,
-    "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
-    "link": "https://www.amazon.com/dp/B000W93PX8?tag=zoepicks00-20",
-    "now": "48.98",
+    "t": 1795552879,
+    "img": "https://m.media-amazon.com/images/I/71GxSR0LBlL.jpg",
+    "link": "https://www.amazon.com/dp/B000W922KA?tag=zoepicks00-20",
+    "now": "52.47",
     "was": "129.95",
-    "reviews": 0,
+    "deal": "Black Friday Deal",
+    "reviews": 30113,
     "tier": "premium"
    }
   ],
@@ -318,15 +323,15 @@
   ],
   "home_kitchen": [
    {
-    "asin": "B07WFF17BQ",
-    "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-    "pct": 55,
-    "rating": 4.5,
-    "t": 1795519863,
-    "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
-    "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
-    "now": "18.03",
-    "was": "39.97",
+    "asin": "B0DXN467TJ",
+    "name": "Stainless Steel Cutting Board",
+    "pct": 60,
+    "rating": 4.4,
+    "t": 1795555465,
+    "img": "https://m.media-amazon.com/images/I/81p9DRRIfzL.jpg",
+    "link": "https://www.amazon.com/dp/B0DXN467TJ?tag=zoepicks00-20",
+    "now": "11.99",
+    "was": "29.99",
     "reviews": 0,
     "tier": "budget"
    },
@@ -2623,6 +2628,96 @@
   ],
   "fashion": [
    {
+    "key": "running-shoes",
+    "label": "Running Shoes",
+    "items": [
+     {
+      "asin": "B0GS9PNXB5",
+      "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
+      "pct": 64,
+      "rating": 4.5,
+      "t": 1795555464,
+      "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
+      "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
+      "now": "23.99",
+      "was": "65.95",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FN7LP7W9",
+      "name": "Nike Women's Downshifter 14 Road Running Shoes",
+      "pct": 26,
+      "rating": 4.4,
+      "t": 1795552025,
+      "img": "https://m.media-amazon.com/images/I/61yKyK2Q1WL.jpg",
+      "link": "https://www.amazon.com/dp/B0FN7LP7W9?tag=zoepicks00-20",
+      "now": "59.18",
+      "was": "80.00",
+      "deal": "Black Friday Deal",
+      "reviews": 476,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DLYL3KTM",
+      "name": "Mizuno Men's Wave Sky 9 Running Shoe",
+      "pct": 38,
+      "rating": 4.5,
+      "t": 1795552025,
+      "img": "https://m.media-amazon.com/images/I/71IM2diRV+L.jpg",
+      "link": "https://www.amazon.com/dp/B0DLYL3KTM?tag=zoepicks00-20",
+      "now": "111.02",
+      "was": "180.00",
+      "deal": "Black Friday Deal",
+      "reviews": 109,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "hoodies",
+    "label": "Hoodies",
+    "items": [
+     {
+      "asin": "B00JUM3BTQ",
+      "name": "Hanes Men's Hoodie",
+      "pct": 62,
+      "rating": 4.5,
+      "t": 1795555465,
+      "img": "https://m.media-amazon.com/images/I/91V+Dy5+d1L.jpg",
+      "link": "https://www.amazon.com/dp/B00JUM3BTQ?tag=zoepicks00-20",
+      "now": "10.14",
+      "was": "27.00",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B01HIUTCUS",
+      "name": "Champion Men's Powerblend Pullover Hoodie",
+      "pct": 64,
+      "rating": 4.7,
+      "t": 1795555464,
+      "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
+      "link": "https://www.amazon.com/dp/B01HIUTCUS?tag=zoepicks00-20",
+      "now": "18.04",
+      "was": "50.00",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B091JYX54W",
+      "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
+      "pct": 60,
+      "rating": 4.4,
+      "t": 1795501867,
+      "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
+      "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -2663,53 +2758,6 @@
       "was": "34.99",
       "deal": "Black Friday Deal",
       "reviews": 16800,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
-    "items": [
-     {
-      "asin": "B0CTQHH5JR",
-      "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
-      "pct": 29,
-      "rating": 4.3,
-      "t": 1795552879,
-      "img": "https://m.media-amazon.com/images/I/71OiPI55UWL.jpg",
-      "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
-      "now": "42.74",
-      "was": "59.99",
-      "deal": "Black Friday Deal",
-      "reviews": 6237,
-      "tier": "budget"
-     },
-     {
-      "asin": "B000W93PX8",
-      "name": "Rockport Men's Eureka Walking Shoe",
-      "pct": 62,
-      "rating": 4.3,
-      "t": 1795519869,
-      "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
-      "link": "https://www.amazon.com/dp/B000W93PX8?tag=zoepicks00-20",
-      "now": "48.98",
-      "was": "129.95",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F16N4GDH",
-      "name": "Nike Men's Promina Walking Shoes",
-      "pct": 25,
-      "rating": 4.4,
-      "t": 1795552879,
-      "img": "https://m.media-amazon.com/images/I/61QxYuq3qVL.jpg",
-      "link": "https://www.amazon.com/dp/B0F16N4GDH?tag=zoepicks00-20",
-      "now": "52.50",
-      "was": "70.00",
-      "deal": "Black Friday Deal",
-      "reviews": 1682,
       "tier": "premium"
      }
     ]
@@ -2760,39 +2808,47 @@
     ]
    },
    {
-    "key": "hoodies",
-    "label": "Hoodies",
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
     "items": [
      {
-      "asin": "B00JUM4DKC",
-      "name": "Hanes Men's Zip-up Hoodie",
-      "pct": 61,
-      "rating": 4.5,
-      "t": 1795501338,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71fm7+WAt4L.jpg",
-      "link": "https://www.amazon.com/dp/B00JUM4DKC?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B0CTQHH5JR",
+      "name": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
+      "pct": 29,
+      "rating": 4.3,
+      "t": 1795552879,
+      "img": "https://m.media-amazon.com/images/I/71OiPI55UWL.jpg",
+      "link": "https://www.amazon.com/dp/B0CTQHH5JR?tag=zoepicks00-20",
+      "now": "42.74",
+      "was": "59.99",
+      "deal": "Black Friday Deal",
+      "reviews": 6237,
       "tier": "budget"
      },
      {
-      "asin": "B0CCDDZYBH",
-      "name": "AUTOMET Womens Hoodies Half Zip Up Casual Comfort Fall…",
-      "pct": 57,
-      "rating": 4.4,
-      "t": 1795501858,
-      "img": "https://m.media-amazon.com/images/I/610fUKdkxnL.jpg",
-      "link": "https://www.amazon.com/dp/B0CCDDZYBH?tag=zoepicks00-20",
-      "reviews": 0,
+      "asin": "B000W922KA",
+      "name": "Rockport Men's Eureka Walking Shoe",
+      "pct": 60,
+      "rating": 4.3,
+      "t": 1795552879,
+      "img": "https://m.media-amazon.com/images/I/71GxSR0LBlL.jpg",
+      "link": "https://www.amazon.com/dp/B000W922KA?tag=zoepicks00-20",
+      "now": "52.47",
+      "was": "129.95",
+      "deal": "Black Friday Deal",
+      "reviews": 30113,
       "tier": "mid"
      },
      {
-      "asin": "B091JYX54W",
-      "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
-      "pct": 60,
-      "rating": 4.4,
-      "t": 1795501867,
-      "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
-      "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
+      "asin": "B005UF9VB4",
+      "name": "Rockport Men's Chranson Walking Shoes",
+      "pct": 44,
+      "rating": 4.1,
+      "t": 1795555464,
+      "img": "https://m.media-amazon.com/images/I/71uEkSxm-ML.jpg",
+      "link": "https://www.amazon.com/dp/B005UF9VB4?tag=zoepicks00-20",
+      "now": "69.97",
+      "was": "124.95",
       "reviews": 0,
       "tier": "premium"
      }
@@ -2964,7 +3020,7 @@
       "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
       "pct": 50,
       "rating": 4.3,
-      "t": 1795519870,
+      "t": 1795555472,
       "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
       "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
       "now": "20.10",
@@ -3175,54 +3231,6 @@
       "was": "44.99",
       "deal": "Black Friday Deal",
       "reviews": 16001,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0F4LZMVSV",
-      "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
-      "pct": 29,
-      "rating": 4.4,
-      "t": 1795552025,
-      "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
-      "now": "49.39",
-      "was": "69.99",
-      "deal": "Black Friday Deal",
-      "reviews": 3341,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0FN7LP7W9",
-      "name": "Nike Women's Downshifter 14 Road Running Shoes",
-      "pct": 26,
-      "rating": 4.4,
-      "t": 1795552025,
-      "img": "https://m.media-amazon.com/images/I/61yKyK2Q1WL.jpg",
-      "link": "https://www.amazon.com/dp/B0FN7LP7W9?tag=zoepicks00-20",
-      "now": "59.18",
-      "was": "80.00",
-      "deal": "Black Friday Deal",
-      "reviews": 476,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DLYL3KTM",
-      "name": "Mizuno Men's Wave Sky 9 Running Shoe",
-      "pct": 38,
-      "rating": 4.5,
-      "t": 1795552025,
-      "img": "https://m.media-amazon.com/images/I/71IM2diRV+L.jpg",
-      "link": "https://www.amazon.com/dp/B0DLYL3KTM?tag=zoepicks00-20",
-      "now": "111.02",
-      "was": "180.00",
-      "deal": "Black Friday Deal",
-      "reviews": 109,
       "tier": "premium"
      }
     ]
@@ -3522,12 +3530,11 @@
       "name": "YOSUDA Exercise Bike",
       "pct": 24,
       "rating": 4.4,
-      "t": 1795553103,
+      "t": 1795561891,
       "img": "https://m.media-amazon.com/images/I/71VufNdqM7L.jpg",
       "link": "https://www.amazon.com/dp/B0BVHN3D72?tag=zoepicks00-20",
       "now": "189.98",
       "was": "249.99",
-      "deal": "Black Friday Deal",
       "reviews": 25898,
       "tier": "premium"
      }
@@ -3570,12 +3577,11 @@
       "name": "XPETI Men's TERRA Mid Hiking Boot",
       "pct": 34,
       "rating": 4.4,
-      "t": 1795553137,
+      "t": 1795556463,
       "img": "https://m.media-amazon.com/images/I/81YslwkdKBL.jpg",
       "link": "https://www.amazon.com/dp/B09R8SFR42?tag=zoepicks00-20",
       "now": "52.43",
       "was": "79.99",
-      "deal": "Black Friday Deal",
       "reviews": 1192,
       "tier": "premium"
      }
@@ -3585,6 +3591,18 @@
     "key": "yoga-mats",
     "label": "Yoga Mats",
     "items": [
+     {
+      "asin": "B09WF2LLWP",
+      "name": "Gaiam Premium Yoga Mat",
+      "pct": 47,
+      "rating": 4.7,
+      "t": 1795555466,
+      "img": "https://m.media-amazon.com/images/I/81jK71wc7mL.jpg",
+      "link": "https://www.amazon.com/dp/B09WF2LLWP?tag=zoepicks00-20",
+      "now": "21.19",
+      "was": "39.99",
+      "reviews": 0
+     },
      {
       "asin": "B0D2292JM9",
       "name": "ONCAI Women's Flip Flops Comfortable Arch Support Yoga Mat…",
@@ -3749,12 +3767,11 @@
       "name": "EnterSports 22/44/60/88 LBS Adjustable Dumbbell Quick…",
       "pct": 30,
       "rating": 4.5,
-      "t": 1795553039,
+      "t": 1795561454,
       "img": "https://m.media-amazon.com/images/I/71qIlQjfhvL.jpg",
       "link": "https://www.amazon.com/dp/B0GGCDJ6YT?tag=zoepicks00-20",
       "now": "104.48",
       "was": "149.49",
-      "deal": "Black Friday Deal",
       "reviews": 886,
       "tier": "budget"
      },
@@ -3841,34 +3858,6 @@
     "label": "Home Gym Equipment",
     "items": [
      {
-      "asin": "B0F93YV14C",
-      "name": "SPORTSROYALS Home Gym",
-      "pct": 12,
-      "rating": 4.5,
-      "t": 1795553159,
-      "img": "https://m.media-amazon.com/images/I/71eyGCbUT9L.jpg",
-      "link": "https://www.amazon.com/dp/B0F93YV14C?tag=zoepicks00-20",
-      "now": "468.32",
-      "was": "529.99",
-      "deal": "Black Friday Deal",
-      "reviews": 184,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0CX5N3VFQ",
-      "name": "SincMill Home Gym Multifunctional Full Body Workout…",
-      "pct": 16,
-      "rating": 4.5,
-      "t": 1795553159,
-      "img": "https://m.media-amazon.com/images/I/716BVLnUaLL.jpg",
-      "link": "https://www.amazon.com/dp/B0CX5N3VFQ?tag=zoepicks00-20",
-      "now": "489.00",
-      "was": "579.00",
-      "deal": "Black Friday Deal",
-      "reviews": 2144,
-      "tier": "mid"
-     },
-     {
       "asin": "B0DJVJYZF4",
       "name": "Mikolo Home Gym, Workout Station",
       "pct": 15,
@@ -3879,8 +3868,20 @@
       "now": "509.99",
       "was": "599.99",
       "deal": "Black Friday Deal",
-      "reviews": 301,
-      "tier": "premium"
+      "reviews": 301
+     },
+     {
+      "asin": "B0F93YV14C",
+      "name": "SPORTSROYALS Home Gym",
+      "pct": 12,
+      "rating": 4.5,
+      "t": 1795553159,
+      "img": "https://m.media-amazon.com/images/I/71eyGCbUT9L.jpg",
+      "link": "https://www.amazon.com/dp/B0F93YV14C?tag=zoepicks00-20",
+      "now": "468.32",
+      "was": "529.99",
+      "deal": "Black Friday Deal",
+      "reviews": 184
      }
     ]
    },
@@ -4367,6 +4368,52 @@
   ],
   "home_kitchen": [
    {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B0DXN467TJ",
+      "name": "Stainless Steel Cutting Board",
+      "pct": 60,
+      "rating": 4.4,
+      "t": 1795555465,
+      "img": "https://m.media-amazon.com/images/I/81p9DRRIfzL.jpg",
+      "link": "https://www.amazon.com/dp/B0DXN467TJ?tag=zoepicks00-20",
+      "now": "11.99",
+      "was": "29.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07WFF17BQ",
+      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+      "pct": 55,
+      "rating": 4.5,
+      "t": 1795519863,
+      "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
+      "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
+      "now": "18.03",
+      "was": "39.97",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DQG2VHKJ",
+      "name": "Titanium Cutting Board",
+      "pct": 32,
+      "rating": 4.4,
+      "t": 1795550008,
+      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
+      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
+      "now": "26.59",
+      "was": "38.99",
+      "deal": "Black Friday Deal",
+      "reviews": 8253,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "dishwasher",
     "label": "Dishwasher",
     "items": [
@@ -4425,38 +4472,6 @@
       "link": "https://www.amazon.com/dp/B077Z2QCS5?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "mid"
-     }
-    ]
-   },
-   {
-    "key": "cutting-board",
-    "label": "Cutting Board",
-    "items": [
-     {
-      "asin": "B07WFF17BQ",
-      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-      "pct": 55,
-      "rating": 4.5,
-      "t": 1795519863,
-      "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
-      "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
-      "now": "18.03",
-      "was": "39.97",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DQG2VHKJ",
-      "name": "Titanium Cutting Board",
-      "pct": 32,
-      "rating": 4.4,
-      "t": 1795550008,
-      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
-      "now": "26.59",
-      "was": "38.99",
-      "deal": "Black Friday Deal",
-      "reviews": 8253
      }
     ]
    },
@@ -4556,12 +4571,11 @@
       "name": "Gourmia Belgian Waffle Maker",
       "pct": 43,
       "rating": 4.4,
-      "t": 1795550008,
+      "t": 1795561433,
       "img": "https://m.media-amazon.com/images/I/81eVG+HTYnL.jpg",
       "link": "https://www.amazon.com/dp/B0DYQ1QYR9?tag=zoepicks00-20",
       "now": "19.99",
       "was": "34.99",
-      "deal": "Black Friday Deal",
       "reviews": 1061,
       "tier": "budget"
      },
@@ -4666,12 +4680,11 @@
       "name": "Hamilton Beach Food Processor & Vegetable Chopper",
       "pct": 29,
       "rating": 4.5,
-      "t": 1795550008,
+      "t": 1795560944,
       "img": "https://m.media-amazon.com/images/I/71UDoGX9EDL.jpg",
       "link": "https://www.amazon.com/dp/B008J8MJIQ?tag=zoepicks00-20",
       "now": "49.95",
       "was": "69.95",
-      "deal": "Black Friday Deal",
       "reviews": 41508,
       "tier": "mid"
      },
@@ -5286,17 +5299,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B0F1GFD44G",
-      "name": "Dell 27 Monitor S2725QC",
-      "pct": 29,
+      "asin": "B08L5SRCZJ",
+      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
+      "pct": 30,
       "rating": 4.4,
       "t": 1795550421,
-      "img": "https://m.media-amazon.com/images/I/71lQNQPr+OL.jpg",
-      "link": "https://www.amazon.com/dp/B0F1GFD44G?tag=zoepicks00-20",
-      "now": "249.99",
-      "was": "349.99",
+      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
+      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
+      "now": "118.72",
+      "was": "169.99",
       "deal": "Black Friday Deal",
-      "reviews": 968,
+      "reviews": 2678,
       "tier": "mid"
      },
      {
@@ -5379,17 +5392,17 @@
       "tier": "budget"
      },
      {
-      "asin": "B08L5SRCZJ",
-      "name": "UPERFECT 18.5\" 120Hz Portable Monitor",
-      "pct": 30,
-      "rating": 4.4,
+      "asin": "B0FJS4YHPL",
+      "name": "Acer 18.5in FHD 1920x1080 IPS 100Hz Slim Portable Monitor…",
+      "pct": 17,
+      "rating": 4.7,
       "t": 1795550421,
-      "img": "https://m.media-amazon.com/images/I/71ieejMcGxL.jpg",
-      "link": "https://www.amazon.com/dp/B08L5SRCZJ?tag=zoepicks00-20",
-      "now": "118.72",
-      "was": "169.99",
+      "img": "https://m.media-amazon.com/images/I/619LNzolY9L.jpg",
+      "link": "https://www.amazon.com/dp/B0FJS4YHPL?tag=zoepicks00-20",
+      "now": "99.99",
+      "was": "119.99",
       "deal": "Black Friday Deal",
-      "reviews": 2678,
+      "reviews": 75,
       "tier": "mid"
      },
      {
@@ -5859,17 +5872,17 @@
     "label": "Security Cameras",
     "items": [
      {
-      "asin": "B0FQ637L54",
-      "name": "WYZE Window Camera",
-      "pct": 37,
-      "rating": 4.2,
+      "asin": "B0BXMSS8Z7",
+      "name": "Kasa 1080p Indoor Pan/Tilt Wired Security Camera",
+      "pct": 34,
+      "rating": 4.4,
       "t": 1795550760,
-      "img": "https://m.media-amazon.com/images/I/81thZSimCeL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQ637L54?tag=zoepicks00-20",
-      "now": "21.98",
-      "was": "34.98",
+      "img": "https://m.media-amazon.com/images/I/61GrnhJtS7L.jpg",
+      "link": "https://www.amazon.com/dp/B0BXMSS8Z7?tag=zoepicks00-20",
+      "now": "19.94",
+      "was": "29.99",
       "deal": "Black Friday Deal",
-      "reviews": 1268,
+      "reviews": 34507,
       "tier": "budget"
      },
      {
@@ -5884,17 +5897,14 @@
       "tier": "mid"
      },
      {
-      "asin": "B0CCYP6KFM",
-      "name": "eufy Security SoloCam S340",
-      "pct": 45,
-      "rating": 4.1,
-      "t": 1795550760,
-      "img": "https://m.media-amazon.com/images/I/71Y48+M0NOL.jpg",
-      "link": "https://www.amazon.com/dp/B0CCYP6KFM?tag=zoepicks00-20",
-      "now": "119.99",
-      "was": "219.99",
-      "deal": "Black Friday Deal",
-      "reviews": 7269,
+      "asin": "B08JCS7QKL",
+      "name": "LaView Security Cameras 4pcs",
+      "pct": 53,
+      "rating": 4.2,
+      "t": 1795501039,
+      "img": "https://m.media-amazon.com/images/I/61x2SlR1E8L.jpg",
+      "link": "https://www.amazon.com/dp/B08JCS7QKL?tag=zoepicks00-20",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -6050,27 +6060,13 @@
     ]
    },
    {
-    "key": "4k-tvs",
-    "label": "4K TVs",
-    "items": [
-     {
-      "asin": "B0F5WLDGLN",
-      "name": "Samsung 32”M7 (M70F) Series 4K UHD Smart Monitor",
-      "pct": 25,
-      "rating": 4.2,
-      "t": 1795550421,
-      "img": "https://m.media-amazon.com/images/I/71jeLFLYgwL.jpg",
-      "link": "https://www.amazon.com/dp/B0F5WLDGLN?tag=zoepicks00-20",
-      "now": "299.99",
-      "was": "399.99",
-      "deal": "Black Friday Deal",
-      "reviews": 415
-     }
-    ]
-   },
-   {
     "key": "mesh-wi-fi-systems",
     "label": "Mesh Wi Fi Systems",
+    "items": []
+   },
+   {
+    "key": "4k-tvs",
+    "label": "4K TVs",
     "items": []
    },
    {
