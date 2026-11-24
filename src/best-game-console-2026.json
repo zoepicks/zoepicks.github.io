@@ -40,12 +40,12 @@
    "asin": "B0F3GWXLTS",
    "image": "https://m.media-amazon.com/images/I/714-Fh3ngmL.jpg",
    "image_asin": "B0F3GWXLTS",
-   "amazon_price": "$499.00",
-   "amazon_price_asof": "Nov 22, 2026",
-   "amazon_listing": "Nintendo Switch 2 System",
-   "amazon_rating": "4.8",
-   "amazon_reviews": 6373,
-   "amazon_rating_asof": "Nov 22, 2026"
+   "amazon_price": "$529.00",
+   "amazon_price_asof": "Nov 24, 2026",
+   "amazon_listing": "Nintendo Switch 2 + Mario Kart World Bundle (includes 3-month NSO Individual Membership)",
+   "amazon_rating": "4.9",
+   "amazon_reviews": 186,
+   "amazon_rating_asof": "Nov 24, 2026"
   },
   {
    "name": "Asus ROG Xbox Ally X",
@@ -79,7 +79,7 @@
    "image_asin": "B0G2HTSJXT",
    "amazon_rating": "5",
    "amazon_reviews": 14,
-   "amazon_rating_asof": "Nov 22, 2026"
+   "amazon_rating_asof": "Nov 24, 2026"
   },
   {
    "name": "MSI Claw 8 EX AI+",
@@ -108,9 +108,18 @@
    "best_for": "Hardcore PC gamers",
    "skip_if": "You need a dock for TV play",
    "link": "https://www.amazon.com/s?k=MSI+Claw%C2%A08+EX+AI%2B&tag=zoepicks00-20",
-   "fill_tries": 6,
+   "fill_tries": 0,
    "fill_last": "Nov 17, 2026",
-   "fill_failed": true
+   "fill_failed": false,
+   "asin": "B0HGNL4FLG",
+   "image": "https://m.media-amazon.com/images/I/61aY7sh9nML.jpg",
+   "image_asin": "B0HGNL4FLG",
+   "amazon_price": "$2,499.00",
+   "amazon_price_asof": "Nov 24, 2026",
+   "amazon_listing": "EXCaliberPC [2026] MSI Claw 8 EX AI+ CG3EM-024US (Intel Arc G3 Extreme, 32GB RAM, 4TB NVMe",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 3,
+   "amazon_rating_asof": "Nov 24, 2026"
   },
   {
    "name": "Xbox Series X",
@@ -145,12 +154,12 @@
    "asin": "B0GN4NBD2V",
    "image": "https://m.media-amazon.com/images/I/61IoAtab5XL.jpg",
    "image_asin": "B0GN4NBD2V",
-   "amazon_price": "$249.99",
-   "amazon_price_asof": "Nov 22, 2026",
+   "amazon_price": "$248.49",
+   "amazon_price_asof": "Nov 24, 2026",
    "amazon_listing": "Turtle Beach Stealth Pro II Premium Wireless Gaming Headset for Xbox Series X|S, PS5, PS4,",
    "amazon_rating": "4.3",
-   "amazon_reviews": 263,
-   "amazon_rating_asof": "Nov 22, 2026"
+   "amazon_reviews": 266,
+   "amazon_rating_asof": "Nov 24, 2026"
   },
   {
    "name": "Xbox One X",
@@ -189,7 +198,10 @@
    "image_asin": "B074WPGYRF",
    "amazon_rating": "4.4",
    "amazon_reviews": 5979,
-   "amazon_rating_asof": "Nov 22, 2026"
+   "amazon_rating_asof": "Nov 22, 2026",
+   "amazon_price": "$159.99",
+   "amazon_price_asof": "Nov 24, 2026",
+   "amazon_listing": "G. T. A. 6 Video Game Custom X-box Controller Wireless for X-box Series X/S | Non-Modded, "
   },
   {
    "name": "Xbox 360 Slim",
