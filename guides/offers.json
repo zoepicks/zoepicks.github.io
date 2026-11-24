@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-24T11:18:16Z",
+ "updated": "2026-11-24T13:18:26Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -121,15 +121,13 @@
   ],
   "fashion": [
    {
-    "asin": "B01HIUTCUS",
-    "name": "Champion Men's Powerblend Pullover Hoodie",
-    "pct": 64,
-    "rating": 4.7,
-    "t": 1795502034,
-    "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
-    "link": "https://www.amazon.com/dp/B01HIUTCUS?tag=zoepicks00-20",
-    "now": "18.04",
-    "was": "50.00",
+    "asin": "B0BYNYWKC7",
+    "name": "EverFoams Women's Fuzzy Slippers Warm Cozy Memory Foam…",
+    "pct": 63,
+    "rating": 4.6,
+    "t": 1795501278,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71yhTG8TNrL.jpg",
+    "link": "https://www.amazon.com/dp/B0BYNYWKC7?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "budget"
    },
@@ -145,17 +143,16 @@
     "tier": "mid"
    },
    {
-    "asin": "B0HDSMB23G",
-    "name": "Smart Watches for Women",
-    "pct": 53,
-    "rating": 5.0,
-    "t": 1795468387,
-    "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
-    "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
-    "now": "46.54",
-    "was": "99.99",
-    "deal": "Black Friday Deal",
-    "reviews": 72,
+    "asin": "B000W93PX8",
+    "name": "Rockport Men's Eureka Walking Shoe",
+    "pct": 62,
+    "rating": 4.3,
+    "t": 1795519869,
+    "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
+    "link": "https://www.amazon.com/dp/B000W93PX8?tag=zoepicks00-20",
+    "now": "48.98",
+    "was": "129.95",
+    "reviews": 0,
     "tier": "premium"
    }
   ],
@@ -172,19 +169,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B09WF2LLWP",
-    "name": "Gaiam Premium Yoga Mat",
-    "pct": 47,
-    "rating": 4.7,
-    "t": 1795502036,
-    "img": "https://m.media-amazon.com/images/I/81jK71wc7mL.jpg",
-    "link": "https://www.amazon.com/dp/B09WF2LLWP?tag=zoepicks00-20",
-    "now": "21.19",
-    "was": "39.99",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
     "asin": "B08ZCM11J6",
     "name": "Jetson Jupiter Kids 2-Wheel Light-Up Kick Scooter",
     "pct": 42,
@@ -192,6 +176,17 @@
     "t": 1795501993,
     "img": "https://m.media-amazon.com/images/I/61HAjqBx0yL.jpg",
     "link": "https://www.amazon.com/dp/B08ZCM11J6?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0GLPFSK4D",
+    "name": "VOLPAM Electric Scooter",
+    "pct": 39,
+    "rating": 4.2,
+    "t": 1795501994,
+    "img": "https://m.media-amazon.com/images/I/71VbAmlg5LL.jpg",
+    "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "premium"
    }
@@ -1341,6 +1336,53 @@
     ]
    },
    {
+    "key": "sunscreen",
+    "label": "Sunscreen",
+    "items": [
+     {
+      "asin": "B0DKJ347ZJ",
+      "name": "d'alba Piedmont White Truffle Waterfull Essence Sunscreen",
+      "pct": 54,
+      "rating": 4.4,
+      "t": 1795519864,
+      "img": "https://m.media-amazon.com/images/I/41zYE0+Tq3L.jpg",
+      "link": "https://www.amazon.com/dp/B0DKJ347ZJ?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "28.00",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0FXH5LHN8",
+      "name": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV",
+      "pct": 27,
+      "rating": 4.5,
+      "t": 1795467326,
+      "img": "https://m.media-amazon.com/images/I/615uRMMos1L.jpg",
+      "link": "https://www.amazon.com/dp/B0FXH5LHN8?tag=zoepicks00-20",
+      "now": "12.99",
+      "was": "17.89",
+      "deal": "Black Friday Deal",
+      "reviews": 11088,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0DKJ3BX2F",
+      "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
+      "pct": 43,
+      "rating": 4.4,
+      "t": 1795467326,
+      "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
+      "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
+      "now": "16.00",
+      "was": "28.00",
+      "deal": "Black Friday Deal",
+      "reviews": 6533,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "water-flossers",
     "label": "Water Flossers",
     "items": [
@@ -1480,54 +1522,6 @@
       "was": "61.99",
       "deal": "Black Friday Deal",
       "reviews": 278,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "sunscreen",
-    "label": "Sunscreen",
-    "items": [
-     {
-      "asin": "B0FXH5LHN8",
-      "name": "SKIN1004 Hyalu-Cica Water-Fit Sun Serum UV",
-      "pct": 27,
-      "rating": 4.5,
-      "t": 1795467326,
-      "img": "https://m.media-amazon.com/images/I/615uRMMos1L.jpg",
-      "link": "https://www.amazon.com/dp/B0FXH5LHN8?tag=zoepicks00-20",
-      "now": "12.99",
-      "was": "17.89",
-      "deal": "Black Friday Deal",
-      "reviews": 11088,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0DWSL3ZBQ",
-      "name": "Anua Zero-Cast Moisturizing Sunscreen SPF 50",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1795467326,
-      "img": "https://m.media-amazon.com/images/I/51fDiFJRw-L.jpg",
-      "link": "https://www.amazon.com/dp/B0DWSL3ZBQ?tag=zoepicks00-20",
-      "now": "13.50",
-      "was": "18.00",
-      "deal": "Black Friday Deal",
-      "reviews": 4108,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0DKJ3BX2F",
-      "name": "d'alba Piedmont Waterfull Tone-Up Sunscreen Serum",
-      "pct": 43,
-      "rating": 4.4,
-      "t": 1795467326,
-      "img": "https://m.media-amazon.com/images/I/51q3gtE2ADL.jpg",
-      "link": "https://www.amazon.com/dp/B0DKJ3BX2F?tag=zoepicks00-20",
-      "now": "16.00",
-      "was": "28.00",
-      "deal": "Black Friday Deal",
-      "reviews": 6533,
       "tier": "premium"
      }
     ]
@@ -2229,47 +2223,6 @@
   ],
   "fashion": [
    {
-    "key": "hoodies",
-    "label": "Hoodies",
-    "items": [
-     {
-      "asin": "B00JUM4DKC",
-      "name": "Hanes Men's Zip-up Hoodie",
-      "pct": 61,
-      "rating": 4.5,
-      "t": 1795501338,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/71fm7+WAt4L.jpg",
-      "link": "https://www.amazon.com/dp/B00JUM4DKC?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "budget"
-     },
-     {
-      "asin": "B01HIUTCUS",
-      "name": "Champion Men's Powerblend Pullover Hoodie",
-      "pct": 64,
-      "rating": 4.7,
-      "t": 1795502034,
-      "img": "https://m.media-amazon.com/images/I/81aGn3hP4oL.jpg",
-      "link": "https://www.amazon.com/dp/B01HIUTCUS?tag=zoepicks00-20",
-      "now": "18.04",
-      "was": "50.00",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B091JYX54W",
-      "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
-      "pct": 60,
-      "rating": 4.4,
-      "t": 1795501867,
-      "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
-      "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
     "key": "slippers",
     "label": "Slippers",
     "items": [
@@ -2307,6 +2260,25 @@
       "was": "31.99",
       "deal": "Black Friday Deal",
       "reviews": 27368,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "walking-shoes",
+    "label": "Walking Shoes",
+    "items": [
+     {
+      "asin": "B000W93PX8",
+      "name": "Rockport Men's Eureka Walking Shoe",
+      "pct": 62,
+      "rating": 4.3,
+      "t": 1795519869,
+      "img": "https://m.media-amazon.com/images/I/71bQcukg2TL.jpg",
+      "link": "https://www.amazon.com/dp/B000W93PX8?tag=zoepicks00-20",
+      "now": "48.98",
+      "was": "129.95",
+      "reviews": 0,
       "tier": "premium"
      }
     ]
@@ -2357,6 +2329,45 @@
     ]
    },
    {
+    "key": "hoodies",
+    "label": "Hoodies",
+    "items": [
+     {
+      "asin": "B00JUM4DKC",
+      "name": "Hanes Men's Zip-up Hoodie",
+      "pct": 61,
+      "rating": 4.5,
+      "t": 1795501338,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71fm7+WAt4L.jpg",
+      "link": "https://www.amazon.com/dp/B00JUM4DKC?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0CCDDZYBH",
+      "name": "AUTOMET Womens Hoodies Half Zip Up Casual Comfort Fall…",
+      "pct": 57,
+      "rating": 4.4,
+      "t": 1795501858,
+      "img": "https://m.media-amazon.com/images/I/610fUKdkxnL.jpg",
+      "link": "https://www.amazon.com/dp/B0CCDDZYBH?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "mid"
+     },
+     {
+      "asin": "B091JYX54W",
+      "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
+      "pct": 60,
+      "rating": 4.4,
+      "t": 1795501867,
+      "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
+      "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "compression-socks",
     "label": "Compression Socks",
     "items": [
@@ -2400,6 +2411,53 @@
       "was": "19.98",
       "deal": "Black Friday Deal",
       "reviews": 42163,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "travel-backpacks",
+    "label": "Travel Backpacks",
+    "items": [
+     {
+      "asin": "B07CPW148Z",
+      "name": "abshoo Classical Basic Womens Travel Backpack For College…",
+      "pct": 52,
+      "rating": 4.6,
+      "t": 1795519864,
+      "img": "https://m.media-amazon.com/images/I/812vsAFmvYL.jpg",
+      "link": "https://www.amazon.com/dp/B07CPW148Z?tag=zoepicks00-20",
+      "now": "14.25",
+      "was": "29.99",
+      "reviews": 18909,
+      "tier": "budget"
+     },
+     {
+      "asin": "B07V4R4Z77",
+      "name": "SHRRADOO Extra Large Travel Laptop Backpack",
+      "pct": 19,
+      "rating": 4.7,
+      "t": 1795467559,
+      "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
+      "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
+      "now": "24.22",
+      "was": "29.99",
+      "deal": "Black Friday Deal",
+      "reviews": 44180,
+      "tier": "mid"
+     },
+     {
+      "asin": "B0CNBCZGRZ",
+      "name": "THE NORTH FACE Recon Everyday Laptop Backpack",
+      "pct": 30,
+      "rating": 4.7,
+      "t": 1795467559,
+      "img": "https://m.media-amazon.com/images/I/81-9WJkkB3L.jpg",
+      "link": "https://www.amazon.com/dp/B0CNBCZGRZ?tag=zoepicks00-20",
+      "now": "87.50",
+      "was": "125.00",
+      "deal": "Black Friday Deal",
+      "reviews": 6606,
       "tier": "premium"
      }
     ]
@@ -2461,30 +2519,12 @@
       "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
       "pct": 50,
       "rating": 4.3,
-      "t": 1795502041,
+      "t": 1795519870,
       "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
       "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
       "now": "20.10",
       "was": "39.90",
       "reviews": 10462
-     }
-    ]
-   },
-   {
-    "key": "running-shoes",
-    "label": "Running Shoes",
-    "items": [
-     {
-      "asin": "B0F4LZ74B3",
-      "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
-      "pct": 46,
-      "rating": 4.3,
-      "t": 1795502041,
-      "img": "https://m.media-amazon.com/images/I/51YDmta2EDL.jpg",
-      "link": "https://www.amazon.com/dp/B0F4LZ74B3?tag=zoepicks00-20",
-      "now": "42.92",
-      "was": "79.99",
-      "reviews": 8256
      }
     ]
    },
@@ -2552,39 +2592,6 @@
       "was": "195.00",
       "deal": "Black Friday Deal",
       "reviews": 275
-     }
-    ]
-   },
-   {
-    "key": "travel-backpacks",
-    "label": "Travel Backpacks",
-    "items": [
-     {
-      "asin": "B0CNBCZGRZ",
-      "name": "THE NORTH FACE Recon Everyday Laptop Backpack",
-      "pct": 30,
-      "rating": 4.7,
-      "t": 1795467559,
-      "img": "https://m.media-amazon.com/images/I/81-9WJkkB3L.jpg",
-      "link": "https://www.amazon.com/dp/B0CNBCZGRZ?tag=zoepicks00-20",
-      "now": "87.50",
-      "was": "125.00",
-      "deal": "Black Friday Deal",
-      "reviews": 6606,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07V4R4Z77",
-      "name": "SHRRADOO Extra Large Travel Laptop Backpack",
-      "pct": 19,
-      "rating": 4.7,
-      "t": 1795467559,
-      "img": "https://m.media-amazon.com/images/I/616XeNB7AUL.jpg",
-      "link": "https://www.amazon.com/dp/B07V4R4Z77?tag=zoepicks00-20",
-      "now": "24.22",
-      "was": "29.99",
-      "deal": "Black Friday Deal",
-      "reviews": 44180
      }
     ]
    },
@@ -2684,13 +2691,13 @@
     "items": []
    },
    {
-    "key": "tote-bags",
-    "label": "Tote Bags",
+    "key": "running-shoes",
+    "label": "Running Shoes",
     "items": []
    },
    {
-    "key": "walking-shoes",
-    "label": "Walking Shoes",
+    "key": "tote-bags",
+    "label": "Tote Bags",
     "items": []
    },
    {
@@ -2705,25 +2712,6 @@
    }
   ],
   "fitness_outdoor": [
-   {
-    "key": "yoga-mats",
-    "label": "Yoga Mats",
-    "items": [
-     {
-      "asin": "B09WF2LLWP",
-      "name": "Gaiam Premium Yoga Mat",
-      "pct": 47,
-      "rating": 4.7,
-      "t": 1795502036,
-      "img": "https://m.media-amazon.com/images/I/81jK71wc7mL.jpg",
-      "link": "https://www.amazon.com/dp/B09WF2LLWP?tag=zoepicks00-20",
-      "now": "21.19",
-      "was": "39.99",
-      "reviews": 0,
-      "tier": "mid"
-     }
-    ]
-   },
    {
     "key": "insulated-water-bottles",
     "label": "Insulated Water Bottles",
@@ -2754,7 +2742,7 @@
       "img": "https://m.media-amazon.com/images/I/61HAjqBx0yL.jpg",
       "link": "https://www.amazon.com/dp/B08ZCM11J6?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
+      "tier": "mid"
      },
      {
       "asin": "B0GLPFSK4D",
@@ -2764,7 +2752,8 @@
       "t": 1795501994,
       "img": "https://m.media-amazon.com/images/I/71VbAmlg5LL.jpg",
       "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
-      "reviews": 0
+      "reviews": 0,
+      "tier": "premium"
      }
     ]
    },
@@ -2801,6 +2790,11 @@
    {
     "key": "walking-pads",
     "label": "Walking Pads",
+    "items": []
+   },
+   {
+    "key": "yoga-mats",
+    "label": "Yoga Mats",
     "items": []
    },
    {
@@ -3318,6 +3312,37 @@
     ]
    },
    {
+    "key": "cutting-board",
+    "label": "Cutting Board",
+    "items": [
+     {
+      "asin": "B07WFF17BQ",
+      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
+      "pct": 55,
+      "rating": 4.5,
+      "t": 1795519863,
+      "img": "https://m.media-amazon.com/images/I/814GkqL1p8L.jpg",
+      "link": "https://www.amazon.com/dp/B07WFF17BQ?tag=zoepicks00-20",
+      "now": "18.03",
+      "was": "39.97",
+      "reviews": 0
+     },
+     {
+      "asin": "B0DQG2VHKJ",
+      "name": "Titanium Cutting Board",
+      "pct": 32,
+      "rating": 4.4,
+      "t": 1795468149,
+      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
+      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
+      "now": "26.59",
+      "was": "38.99",
+      "deal": "Black Friday Deal",
+      "reviews": 8243
+     }
+    ]
+   },
+   {
     "key": "coffee-makers",
     "label": "Coffee Makers",
     "items": [
@@ -3451,38 +3476,6 @@
       "was": "27.99",
       "deal": "Black Friday Deal",
       "reviews": 48199
-     }
-    ]
-   },
-   {
-    "key": "cutting-board",
-    "label": "Cutting Board",
-    "items": [
-     {
-      "asin": "B0D2P1HSCV",
-      "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
-      "pct": 43,
-      "rating": 4.5,
-      "t": 1795468149,
-      "img": "https://m.media-amazon.com/images/I/71z8Dl7JP5L.jpg",
-      "link": "https://www.amazon.com/dp/B0D2P1HSCV?tag=zoepicks00-20",
-      "now": "28.49",
-      "was": "49.99",
-      "deal": "Black Friday Deal",
-      "reviews": 54111
-     },
-     {
-      "asin": "B0DQG2VHKJ",
-      "name": "Titanium Cutting Board",
-      "pct": 32,
-      "rating": 4.4,
-      "t": 1795468149,
-      "img": "https://m.media-amazon.com/images/I/71C1ePIroyL.jpg",
-      "link": "https://www.amazon.com/dp/B0DQG2VHKJ?tag=zoepicks00-20",
-      "now": "26.59",
-      "was": "38.99",
-      "deal": "Black Friday Deal",
-      "reviews": 8243
      }
     ]
    },
