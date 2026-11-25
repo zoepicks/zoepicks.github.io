@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-24T22:52:22Z",
+ "updated": "2026-11-25T00:52:31Z",
  "cats": [
   {
    "key": "fashion",
@@ -25,6 +25,18 @@
  ],
  "items": {
   "fashion": [
+   {
+    "asin": "B0GS9PNXB5",
+    "name": "K-Swiss Women's Mellow Lightweight Running Walking Shoe",
+    "pct": 64,
+    "rating": 4.5,
+    "t": 1795555464,
+    "img": "https://m.media-amazon.com/images/I/61WwH2xm+1L.jpg",
+    "link": "https://www.amazon.com/dp/B0GS9PNXB5?tag=zoepicks00-20",
+    "now": "23.99",
+    "was": "65.95",
+    "cat": "fashion"
+   },
    {
     "asin": "B0HDSMB23G",
     "name": "Smart Watches for Women",
@@ -90,7 +102,7 @@
     "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
     "pct": 50,
     "rating": 4.3,
-    "t": 1795519870,
+    "t": 1795555472,
     "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
     "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
     "now": "20.10",
@@ -239,18 +251,6 @@
     "link": "https://www.amazon.com/dp/B0CWLGLWVL?tag=zoepicks00-20",
     "now": "25.69",
     "was": "37.99",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0F4LZMVSV",
-    "name": "New Balance Women's Fresh Foam 520 V9 Running Shoes",
-    "pct": 29,
-    "rating": 4.4,
-    "t": 1795552025,
-    "img": "https://m.media-amazon.com/images/I/712-gast0cL.jpg",
-    "link": "https://www.amazon.com/dp/B0F4LZMVSV?tag=zoepicks00-20",
-    "now": "49.39",
-    "was": "69.99",
     "cat": "fashion"
    },
    {
@@ -714,6 +714,18 @@
   ],
   "home": [
    {
+    "asin": "B0DXN467TJ",
+    "name": "Stainless Steel Cutting Board",
+    "pct": 60,
+    "rating": 4.4,
+    "t": 1795555465,
+    "img": "https://m.media-amazon.com/images/I/81p9DRRIfzL.jpg",
+    "link": "https://www.amazon.com/dp/B0DXN467TJ?tag=zoepicks00-20",
+    "now": "11.99",
+    "was": "29.99",
+    "cat": "home"
+   },
+   {
     "asin": "B07WFF17BQ",
     "name": "ROYAL CRAFT WOOD Wooden Cutting Boards",
     "pct": 55,
@@ -778,7 +790,7 @@
     "name": "Gourmia Belgian Waffle Maker",
     "pct": 43,
     "rating": 4.4,
-    "t": 1795550008,
+    "t": 1795561433,
     "img": "https://m.media-amazon.com/images/I/81eVG+HTYnL.jpg",
     "link": "https://www.amazon.com/dp/B0DYQ1QYR9?tag=zoepicks00-20",
     "now": "19.99",
@@ -930,6 +942,18 @@
     "cat": "home"
    },
    {
+    "asin": "B008J8MJIQ",
+    "name": "Hamilton Beach Food Processor & Vegetable Chopper",
+    "pct": 29,
+    "rating": 4.5,
+    "t": 1795560944,
+    "img": "https://m.media-amazon.com/images/I/71UDoGX9EDL.jpg",
+    "link": "https://www.amazon.com/dp/B008J8MJIQ?tag=zoepicks00-20",
+    "now": "49.95",
+    "was": "69.95",
+    "cat": "home"
+   },
+   {
     "asin": "B0FRHCMBG3",
     "name": "Oster Belgian Waffle Maker",
     "pct": 29,
@@ -939,18 +963,6 @@
     "link": "https://www.amazon.com/dp/B0FRHCMBG3?tag=zoepicks00-20",
     "now": "19.99",
     "was": "27.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B008J8MJIQ",
-    "name": "Hamilton Beach Food Processor & Vegetable Chopper",
-    "pct": 29,
-    "rating": 4.5,
-    "t": 1795550008,
-    "img": "https://m.media-amazon.com/images/I/71UDoGX9EDL.jpg",
-    "link": "https://www.amazon.com/dp/B008J8MJIQ?tag=zoepicks00-20",
-    "now": "49.95",
-    "was": "69.95",
     "cat": "home"
    },
    {
