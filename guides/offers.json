@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-25T13:21:46Z",
+ "updated": "2026-11-25T15:22:04Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -846,24 +846,6 @@
     ]
    },
    {
-    "key": "graphics-card",
-    "label": "Graphics Card",
-    "items": [
-     {
-      "asin": "B0HCBYMDX5",
-      "name": "ARDIYES GT 740 4GB Low Profile GPU Graphics Card",
-      "pct": 20,
-      "rating": 4.0,
-      "t": 1795484254,
-      "img": "https://m.media-amazon.com/images/I/71WzeiAmnfL.jpg",
-      "link": "https://www.amazon.com/dp/B0HCBYMDX5?tag=zoepicks00-20",
-      "now": "55.19",
-      "was": "68.99",
-      "reviews": 69
-     }
-    ]
-   },
-   {
     "key": "keyboards-typing",
     "label": "Keyboards Typing",
     "items": [
@@ -952,6 +934,11 @@
    {
     "key": "flash-drive",
     "label": "Flash Drive",
+    "items": []
+   },
+   {
+    "key": "graphics-card",
+    "label": "Graphics Card",
     "items": []
    },
    {
