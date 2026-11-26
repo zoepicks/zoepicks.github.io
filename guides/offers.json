@@ -1,22 +1,9 @@
 {
  "v": 3,
- "updated": "2026-11-26T19:25:51Z",
+ "updated": "2026-11-26T21:26:00Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
-   {
-    "asin": "B0C7QMD44R",
-    "name": "MEETION Wireless Keyboard and Mouse Combo",
-    "pct": 27,
-    "rating": 4.3,
-    "t": 1795593946,
-    "img": "https://m.media-amazon.com/images/I/71C6XL1AXoL.jpg",
-    "link": "https://www.amazon.com/dp/B0C7QMD44R?tag=zoepicks00-20",
-    "now": "16.68",
-    "was": "22.99",
-    "reviews": 3187,
-    "tier": "budget"
-   },
    {
     "asin": "B08SYJ32T3",
     "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
@@ -25,6 +12,17 @@
     "t": 1795674035,
     "img": "https://m.media-amazon.com/images/I/51nZTcH5HVL.jpg",
     "link": "https://www.amazon.com/dp/B08SYJ32T3?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "budget"
+   },
+   {
+    "asin": "B0DQTW5TKF",
+    "name": "RK ROYAL KLUDGE M3 Wireless Gaming Mouse",
+    "pct": 50,
+    "rating": 4.2,
+    "t": 1795674036,
+    "img": "https://m.media-amazon.com/images/I/510Ol3zhxBL.jpg",
+    "link": "https://www.amazon.com/dp/B0DQTW5TKF?tag=zoepicks00-20",
     "reviews": 0,
     "tier": "mid"
    },
@@ -551,19 +549,6 @@
     "label": "Wireless Mouse",
     "items": [
      {
-      "asin": "B0C7QMD44R",
-      "name": "MEETION Wireless Keyboard and Mouse Combo",
-      "pct": 27,
-      "rating": 4.3,
-      "t": 1795593946,
-      "img": "https://m.media-amazon.com/images/I/71C6XL1AXoL.jpg",
-      "link": "https://www.amazon.com/dp/B0C7QMD44R?tag=zoepicks00-20",
-      "now": "16.68",
-      "was": "22.99",
-      "reviews": 3187,
-      "tier": "budget"
-     },
-     {
       "asin": "B08SYJ32T3",
       "name": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
       "pct": 53,
@@ -572,7 +557,7 @@
       "img": "https://m.media-amazon.com/images/I/51nZTcH5HVL.jpg",
       "link": "https://www.amazon.com/dp/B08SYJ32T3?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B0DQTW5TKF",
@@ -583,7 +568,7 @@
       "img": "https://m.media-amazon.com/images/I/510Ol3zhxBL.jpg",
       "link": "https://www.amazon.com/dp/B0DQTW5TKF?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
+      "tier": "mid"
      }
     ]
    },
