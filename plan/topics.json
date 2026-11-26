@@ -9147,5 +9147,26 @@
   "parent": "best-tablets-2026",
   "tab": "used-samsung",
   "tab_label": "Used Samsung"
+ },
+ {
+  "title": "Best Stan Smith Sneakers (2026)",
+  "slug": "best-stan-smith-sneakers-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-sneakers-2026",
+  "tab": "stan-smith",
+  "tab_label": "Stan Smith"
+ },
+ {
+  "title": "Best Bucket Hat (2026)",
+  "slug": "best-bucket-hat-2026",
+  "category": "fashion",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
  }
 ]
