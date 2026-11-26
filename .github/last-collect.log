@@ -7,26 +7,8 @@
 [collect] tavily multi fail all Tavily keys exhausted
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
-[collect] browser search www.bing.com -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/baby-kid/baby/
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/baby-kid/baby/
-[collect] 1/2 source pages fetched
-[collect] open web (ddg) -> 0 results
-[collect] open web (browser) -> 10 results
-[collect] http 403 https://www.merriam-webster.com/dictionary/double
-[collect] browser fetch 269 chars: https://www.merriam-webster.com/dictionary/double
-[collect] http 403 https://dictionary.cambridge.org/dictionary/english/double
-[collect] browser fetch 6689 chars: https://dictionary.cambridge.org/dictionary/english/double
-[collect] extra sources: +3 readable page(s) -> 4 total (merriam-webster.com, play.google.com, dictionary.cambridge.org)
-[collect] llm request: 4 sources x 1622 chars, ~1956 in + 4000 out tokens (budget 7000)
-[collect] llm key ...5tBZ openai/gpt-oss-120b DAILY limit limit 200,000 used 197,550 requested 4,531 -> skipped for this run
-[collect] open web (ddg) -> 0 results
-[collect] open web (browser) -> 10 results
-[collect] tavily multi fail all Tavily keys exhausted
-[collect] no pages from Tavily/DDG -> browser search fallback
-[collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
 [collect] STOP: all Tavily keys out of quota and DDG/browser search found nothing - stopping the run
-[collect] llm summary: 5 key(s) | daily-limit: ['5tBZ'] | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {"5tBZ|openai/gpt-oss-120b": "limit 200,000 used 197,550 requested 4,531"}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-20b"]}
+[collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": []}
 [collect] run finished: 0 guide(s) built, 1 topic(s) tried
