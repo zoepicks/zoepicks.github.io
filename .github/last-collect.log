@@ -5,7 +5,17 @@
 [collect] tavily key ...UJ3k 432 (limit/invalid) -> skipped for this run, 1 key(s) left
 [collect] tavily key ...sv86 432 (limit/invalid) -> skipped for this run, 0 key(s) left
 [collect] tavily multi fail all Tavily keys exhausted
+[collect] ddg fail nytimes.com/wirecutter ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[collect] ddg fail rtings.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=double+umbrella+stroller+review+tested+site%3Artings.com (Caused by ConnectTimeoutError(<HTTPSConnection(host='html.duckduckgo.com', port=443) at 0x769c5b2a8320>, 'Connection to html.duckduckgo.com timed out. (connect timeout=30)'))
+[collect] ddg fail cnet.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=double+umbrella+stroller+review+tested+site%3Acnet.com (Caused by ConnectTimeoutError(<HTTPSConnection(host='html.duckduckgo.com', port=443) at 0x769c5b2a9d90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=30)'))
+[collect] ddg fail pcmag.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=double+umbrella+stroller+review+tested+site%3Apcmag.com (Caused by ConnectTimeoutError(<HTTPSConnection(host='html.duckduckgo.com', port=443) at 0x769c5b2aa630>, 'Connection to html.duckduckgo.com timed out. (connect timeout=30)'))
+[collect] ddg fail tomsguide.com HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=double+umbrella+stroller+review+tested+site%3Atomsguide.com (Caused by ConnectTimeoutError(<HTTPSConnection(host='html.duckduckgo.com', port=443) at 0x769c5b2aaf00>, 'Connection to html.duckduckgo.com timed out. (connect timeout=30)'))
+[collect] ddg fail consumerreports.org HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=double+umbrella+stroller+review+tested+site%3Aconsumerreports.org (Caused by ConnectTimeoutError(<HTTPSConnection(host='html.duckduckgo.com', port=443) at 0x769c5b2aa480>, 'Connection to html.duckduckgo.com timed out. (connect timeout=30)'))
 [collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser fail https://html.duckduckgo.com/html/?q=double+umbrella+stroller+review+tested+%28site%3Anytimes.com%2Fwirecutter+OR+site%3Artings.com+OR+site%3Acnet.com+OR+site%3Apcmag.com+OR+site%3Atomsguide.com+OR+site%3Aconsumerreports.org%29 Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://html.duckduckgo.com/html/?q=double+umbrella+stroller+review+tested+%28site%3Anytimes.com%2Fwirecutter+OR+site%3Artings.com+OR+site%3Acnet.com+OR+site%3Apcmag.com+OR+site%3Atomsguide.com+OR+site%3Aconsumerreports.org%29", waiting until "domcontentloaded"
+
 [collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
 [collect] STOP: all Tavily keys out of quota and DDG/browser search found nothing - stopping the run
