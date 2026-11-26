@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-26T13:25:07Z",
+ "updated": "2026-11-26T15:25:16Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2083,24 +2083,6 @@
     ]
    },
    {
-    "key": "medium-luggage",
-    "label": "Medium Luggage",
-    "items": [
-     {
-      "asin": "B0DLH6YLTT",
-      "name": "Away Medium Checked Luggage",
-      "pct": 25,
-      "rating": 4.5,
-      "t": 1795570587,
-      "img": "https://m.media-amazon.com/images/I/61WazfsK-gL.jpg",
-      "link": "https://www.amazon.com/dp/B0DLH6YLTT?tag=zoepicks00-20",
-      "now": "258.00",
-      "was": "345.00",
-      "reviews": 277
-     }
-    ]
-   },
-   {
     "key": "wallets",
     "label": "Wallets",
     "items": [
@@ -2116,24 +2098,6 @@
       "was": "42.99",
       "deal": "Black Friday Deal",
       "reviews": 309
-     }
-    ]
-   },
-   {
-    "key": "gym-bags",
-    "label": "Gym Bags",
-    "items": [
-     {
-      "asin": "B0FQV5FBH3",
-      "name": "Vorspack 18 Inches Small Gym Bag",
-      "pct": 21,
-      "rating": 4.5,
-      "t": 1795570582,
-      "img": "https://m.media-amazon.com/images/I/71df0Qr9yyL.jpg",
-      "link": "https://www.amazon.com/dp/B0FQV5FBH3?tag=zoepicks00-20",
-      "now": "14.99",
-      "was": "18.99",
-      "reviews": 357
      }
     ]
    },
@@ -2183,6 +2147,16 @@
    {
     "key": "crossbody-bag",
     "label": "Crossbody Bag",
+    "items": []
+   },
+   {
+    "key": "gym-bags",
+    "label": "Gym Bags",
+    "items": []
+   },
+   {
+    "key": "medium-luggage",
+    "label": "Medium Luggage",
     "items": []
    },
    {
