@@ -7,8 +7,30 @@
 [collect] tavily multi fail all Tavily keys exhausted
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
+[collect] browser search www.bing.com -> 2 pages
+[collect] http 403 https://www.nytimes.com/wirecutter/baby-kid/baby/
+[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/baby-kid/baby/
+[collect] 1/2 source pages fetched
+[collect] open web (ddg) -> 0 results
+[collect] open web (browser) -> 10 results
+[collect] http 403 https://www.merriam-webster.com/dictionary/double
+[collect] browser fetch 269 chars: https://www.merriam-webster.com/dictionary/double
+[collect] http 403 https://dictionary.cambridge.org/dictionary/english/double
+[collect] browser fetch 6689 chars: https://dictionary.cambridge.org/dictionary/english/double
+[collect] extra sources: +3 readable page(s) -> 4 total (merriam-webster.com, en.wiktionary.org, dictionary.cambridge.org)
+[collect] llm request: 4 sources x 1622 chars, ~2361 in + 4000 out tokens (budget 7000)
+[collect] open web (ddg) -> 0 results
+[collect] open web (browser) -> 10 results
+[collect] tavily multi fail all Tavily keys exhausted
+[collect] ddg fail allure.com ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[collect] no pages from Tavily/DDG -> browser search fallback
+[collect] browser fail https://html.duckduckgo.com/html/?q=double+umbrella+stroller+review+tested+%28site%3Atechradar.com+OR+site%3Atheverge.com+OR+site%3Awired.com+OR+site%3Aengadget.com+OR+site%3Agoodhousekeeping.com+OR+site%3Abestproducts.com+OR+site%3Athespruceeats.com+OR+site%3Agq.com+OR+site%3Aesquire.com+OR+site%3Aallure.com%29 Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://html.duckduckgo.com/html/?q=double+umbrella+stroller+review+tested+%28site%3Atechradar.com+OR+site%3Atheverge.com+OR+site%3Awired.com+OR+site%3Aengadget.com+OR+site%3Agoodhousekeeping.com+OR+site%3Abestproducts.com+OR+site%3Athespruceeats.com+OR+site%3Agq.com+OR+site%3Aesquire.com+OR+site%3Aallure.com%29", waiting until "domcontentloaded"
+
+[collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
 [collect] STOP: all Tavily keys out of quota and DDG/browser search found nothing - stopping the run
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
-[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": []}
+[collect] llm report: {"keys": 5, "models": 4, "daily": {}, "toolarge": {}, "minute": {}, "noaccess": {}, "ok": ["5tBZ|openai/gpt-oss-120b"]}
 [collect] run finished: 0 guide(s) built, 1 topic(s) tried
