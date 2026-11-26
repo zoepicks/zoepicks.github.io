@@ -9126,5 +9126,26 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Refurbished Xbox Series S (2026)",
+  "slug": "best-refurbished-xbox-series-s-2026",
+  "category": "gaming",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads"
+ },
+ {
+  "title": "Best Used Samsung Tablet (2026)",
+  "slug": "best-used-samsung-tablet-2026",
+  "category": "electronics",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-tablets-2026",
+  "tab": "used-samsung",
+  "tab_label": "Used Samsung"
  }
 ]
