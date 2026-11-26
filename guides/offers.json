@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-26T09:24:34Z",
+ "updated": "2026-11-26T11:24:54Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2448,18 +2448,6 @@
       "now": "94.98",
       "was": "149.99",
       "reviews": 1222
-     },
-     {
-      "asin": "B0BVHN3D72",
-      "name": "YOSUDA Exercise Bike",
-      "pct": 24,
-      "rating": 4.4,
-      "t": 1795561891,
-      "img": "https://m.media-amazon.com/images/I/71VufNdqM7L.jpg",
-      "link": "https://www.amazon.com/dp/B0BVHN3D72?tag=zoepicks00-20",
-      "now": "189.98",
-      "was": "249.99",
-      "reviews": 25898
      }
     ]
    },
@@ -2511,24 +2499,6 @@
     ]
    },
    {
-    "key": "adjustable-dumbbells",
-    "label": "Adjustable Dumbbells",
-    "items": [
-     {
-      "asin": "B0GGCDJ6YT",
-      "name": "EnterSports 22/44/60/88 LBS Adjustable Dumbbell Quick…",
-      "pct": 30,
-      "rating": 4.5,
-      "t": 1795561454,
-      "img": "https://m.media-amazon.com/images/I/71qIlQjfhvL.jpg",
-      "link": "https://www.amazon.com/dp/B0GGCDJ6YT?tag=zoepicks00-20",
-      "now": "104.48",
-      "was": "149.49",
-      "reviews": 886
-     }
-    ]
-   },
-   {
     "key": "coolers",
     "label": "Coolers",
     "items": [
@@ -2563,6 +2533,11 @@
    {
     "key": "home-gym-equipment",
     "label": "Home Gym Equipment",
+    "items": []
+   },
+   {
+    "key": "adjustable-dumbbells",
+    "label": "Adjustable Dumbbells",
     "items": []
    },
    {
@@ -3745,11 +3720,12 @@
       "name": "Gourmia Belgian Waffle Maker",
       "pct": 43,
       "rating": 4.4,
-      "t": 1795561433,
+      "t": 1795633249,
       "img": "https://m.media-amazon.com/images/I/81eVG+HTYnL.jpg",
       "link": "https://www.amazon.com/dp/B0DYQ1QYR9?tag=zoepicks00-20",
       "now": "19.99",
       "was": "34.99",
+      "deal": "Black Friday Deal",
       "reviews": 1061,
       "tier": "budget"
      },
@@ -3902,12 +3878,13 @@
       "name": "Hamilton Beach Food Processor & Vegetable Chopper",
       "pct": 29,
       "rating": 4.5,
-      "t": 1795560944,
+      "t": 1795633249,
       "img": "https://m.media-amazon.com/images/I/71UDoGX9EDL.jpg",
       "link": "https://www.amazon.com/dp/B008J8MJIQ?tag=zoepicks00-20",
       "now": "49.95",
       "was": "69.95",
-      "reviews": 41508,
+      "deal": "Black Friday Deal",
+      "reviews": 41506,
       "tier": "mid"
      },
      {
