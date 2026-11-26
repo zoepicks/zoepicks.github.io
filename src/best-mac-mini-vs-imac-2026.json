@@ -71,11 +71,11 @@
    "image": "https://m.media-amazon.com/images/I/71RDE35cFIL.jpg",
    "image_asin": "B0DL75531G",
    "amazon_price": "$1,334.00",
-   "amazon_price_asof": "Nov 24, 2026",
+   "amazon_price_asof": "Nov 25, 2026",
    "amazon_listing": "Apple 2024 iMac All-in-One Desktop Computer with M4 chip with 8-core CPU and 8-core GPU: B",
    "amazon_rating": "4.7",
-   "amazon_reviews": 725,
-   "amazon_rating_asof": "Nov 24, 2026"
+   "amazon_reviews": 726,
+   "amazon_rating_asof": "Nov 25, 2026"
   },
   {
    "name": "Apple Mac Studio (M6) (2024)",
@@ -103,8 +103,8 @@
    "best_for": "Power users and creators needing maximum performance.",
    "skip_if": "Budget or space constraints are a priority.",
    "link": "https://www.amazon.com/s?k=Apple+Mac+Studio+%28M6%29+%282024%29&tag=zoepicks00-20",
-   "fill_tries": 5,
-   "fill_last": "Nov 19, 2026",
+   "fill_tries": 6,
+   "fill_last": "Nov 25, 2026",
    "fill_failed": true
   },
   {
@@ -132,8 +132,8 @@
    "best_for": "Users who need a compact desktop with the newest chip performance.",
    "skip_if": "You are looking for the lowest‑cost entry model.",
    "link": "https://www.amazon.com/s?k=Apple+Mac+mini+M6+%282024%29&tag=zoepicks00-20",
-   "fill_tries": 5,
-   "fill_last": "Nov 19, 2026",
+   "fill_tries": 6,
+   "fill_last": "Nov 25, 2026",
    "fill_failed": true
   }
  ],
