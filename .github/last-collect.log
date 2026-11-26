@@ -7,15 +7,6 @@
 [collect] tavily multi fail all Tavily keys exhausted
 [collect] no pages from Tavily/DDG -> browser search fallback
 [collect] browser search html.duckduckgo.com -> 0 pages
-[collect] browser search www.bing.com -> 2 pages
-[collect] http 403 https://www.nytimes.com/wirecutter/reviews/best-umbrella-strollers/
-[collect] browser fetch 0 chars: https://www.nytimes.com/wirecutter/reviews/best-umbrella-strollers/
-[collect] 1/2 source pages fetched
-[collect] open web (ddg) -> 0 results
-[collect] open web (browser) -> 10 results
-[collect] tavily multi fail all Tavily keys exhausted
-[collect] no pages from Tavily/DDG -> browser search fallback
-[collect] browser search html.duckduckgo.com -> 0 pages
 [collect] browser search www.bing.com -> 0 pages
 [collect] STOP: all Tavily keys out of quota and DDG/browser search found nothing - stopping the run
 [collect] llm summary: 5 key(s) | daily-limit: none | too-large: none | per-minute: none
