@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-27T07:27:13Z",
+ "updated": "2026-11-27T09:27:20Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -149,7 +149,7 @@
     "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
     "pct": 57,
     "rating": 4.1,
-    "t": 1795764105,
+    "t": 1795771495,
     "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
     "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
     "now": "12.12",
@@ -1013,24 +1013,6 @@
     ]
    },
    {
-    "key": "tote-bags",
-    "label": "Tote Bags",
-    "items": [
-     {
-      "asin": "B0DWSBL3KJ",
-      "name": "BOGG BAG Original Large Tote",
-      "pct": 30,
-      "rating": 4.8,
-      "t": 1795635603,
-      "img": "https://m.media-amazon.com/images/I/51Wfw+yzaeL.jpg",
-      "link": "https://www.amazon.com/dp/B0DWSBL3KJ?tag=zoepicks00-20",
-      "now": "63.00",
-      "was": "90.00",
-      "reviews": 2647
-     }
-    ]
-   },
-   {
     "key": "carry-on-bags",
     "label": "Carry On Bags",
     "items": []
@@ -1063,6 +1045,11 @@
    {
     "key": "rain-jackets",
     "label": "Rain Jackets",
+    "items": []
+   },
+   {
+    "key": "tote-bags",
+    "label": "Tote Bags",
     "items": []
    },
    {
@@ -1122,30 +1109,17 @@
     "label": "Insulated Water Bottles",
     "items": [
      {
-      "asin": "B0D2W1MKZX",
-      "name": "Fijinhom Insulated Water Bottle",
-      "pct": 19,
-      "rating": 4.4,
-      "t": 1795635590,
-      "img": "https://m.media-amazon.com/images/I/61m9TPSjEqL.jpg",
-      "link": "https://www.amazon.com/dp/B0D2W1MKZX?tag=zoepicks00-20",
-      "now": "12.10",
-      "was": "14.99",
-      "reviews": 2176,
-      "tier": "budget"
-     },
-     {
       "asin": "B0CPL1ZK6Q",
       "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
       "pct": 57,
       "rating": 4.1,
-      "t": 1795764105,
+      "t": 1795771495,
       "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
       "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
       "now": "12.12",
       "was": "27.99",
       "reviews": 8353,
-      "tier": "mid"
+      "tier": "budget"
      },
      {
       "asin": "B09LLZNJYV",
@@ -1155,8 +1129,7 @@
       "t": 1795759757,
       "img": "https://m.media-amazon.com/images/I/61XntLH2loL.jpg",
       "link": "https://www.amazon.com/dp/B09LLZNJYV?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "premium"
+      "reviews": 0
      }
     ]
    },
