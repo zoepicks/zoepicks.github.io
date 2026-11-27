@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-27T08:58:07Z",
+ "updated": "2026-11-27T10:58:15Z",
  "cats": [
   {
    "key": "fashion",
@@ -26,56 +26,7 @@
  "items": {
   "fashion": [],
   "beauty": [],
-  "home": [
-   {
-    "asin": "B0C1GQ54QD",
-    "name": "Ultra Pain Relief Cooling Pillow",
-    "pct": 40,
-    "rating": 4.3,
-    "t": 1795642953,
-    "img": "https://m.media-amazon.com/images/I/71lsENjJ8eL.jpg",
-    "link": "https://www.amazon.com/dp/B0C1GQ54QD?tag=zoepicks00-20",
-    "now": "35.98",
-    "was": "59.99",
-    "cat": "home"
-   },
-   {
-    "asin": "B0G6GRZZ7K",
-    "name": "Hydro Flask Water Bottle",
-    "pct": 33,
-    "rating": 4.6,
-    "t": 1795642946,
-    "img": "https://m.media-amazon.com/images/I/61PoHuDrTvL.jpg",
-    "link": "https://www.amazon.com/dp/B0G6GRZZ7K?tag=zoepicks00-20",
-    "now": "26.62",
-    "was": "39.95",
-    "cat": "home"
-   },
-   {
-    "asin": "B0GC9JYXQ6",
-    "name": "STANLEY Stay-Hot French Press",
-    "pct": 25,
-    "rating": 4.4,
-    "t": 1795642934,
-    "img": "https://m.media-amazon.com/images/I/51TNIxX8xbL.jpg",
-    "link": "https://www.amazon.com/dp/B0GC9JYXQ6?tag=zoepicks00-20",
-    "now": "52.50",
-    "was": "70.00",
-    "cat": "home"
-   },
-   {
-    "asin": "B0HNJPPFQM",
-    "name": "3.3 Cuft Beverage Fridge",
-    "pct": 21,
-    "rating": 4.3,
-    "t": 1795642940,
-    "img": "https://m.media-amazon.com/images/I/81jImkZJeLL.jpg",
-    "link": "https://www.amazon.com/dp/B0HNJPPFQM?tag=zoepicks00-20",
-    "now": "189.99",
-    "was": "239.99",
-    "cat": "home"
-   }
-  ],
+  "home": [],
   "kids": []
  }
 }
