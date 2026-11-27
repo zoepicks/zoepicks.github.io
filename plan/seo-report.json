@@ -1,84 +1,8 @@
 {
  "purpose": "Auto SEO report from Naami zoe_seo bot - read this to plan site changes.",
- "generated_at": "2026-11-26T14:16:24.514232+00:00",
+ "generated_at": "2026-11-27T02:23:12.055419+00:00",
  "score": 94,
  "trend_last_runs": [
-  {
-   "t": "2026-11-25T16:47:13.556092+00:00",
-   "score": 94,
-   "pages": 293,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 48
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex13"
-   ],
-   "avg_words": 938,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-25T19:48:45.332992+00:00",
-   "score": 94,
-   "pages": 293,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 39
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex4"
-   ],
-   "avg_words": 938,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-25T22:50:18.861772+00:00",
-   "score": 94,
-   "pages": 293,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 44
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex9"
-   ],
-   "avg_words": 938,
-   "why": "schedule",
-   "indexnow": 0
-  },
-  {
-   "t": "2026-11-26T01:51:47.383366+00:00",
-   "score": 94,
-   "pages": 293,
-   "issues": {
-    "high": 1,
-    "med": 0,
-    "low": 38
-   },
-   "top": [
-    "contact_email_placeholderx1",
-    "desc_lengthx19",
-    "title_lengthx16",
-    "slow_pagex3"
-   ],
-   "avg_words": 938,
-   "why": "schedule",
-   "indexnow": 0
-  },
   {
    "t": "2026-11-26T05:11:23.265427+00:00",
    "score": 94,
@@ -154,6 +78,82 @@
    "avg_words": 940,
    "why": "schedule",
    "indexnow": 3
+  },
+  {
+   "t": "2026-11-26T17:18:33.443475+00:00",
+   "score": 94,
+   "pages": 293,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 39
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex4"
+   ],
+   "avg_words": 940,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-26T20:20:06.275029+00:00",
+   "score": 94,
+   "pages": 293,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 39
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex4"
+   ],
+   "avg_words": 940,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-26T23:21:35.984066+00:00",
+   "score": 94,
+   "pages": 293,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 37
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex2"
+   ],
+   "avg_words": 940,
+   "why": "schedule",
+   "indexnow": 0
+  },
+  {
+   "t": "2026-11-27T02:23:12.055419+00:00",
+   "score": 94,
+   "pages": 293,
+   "issues": {
+    "high": 1,
+    "med": 0,
+    "low": 44
+   },
+   "top": [
+    "contact_email_placeholderx1",
+    "desc_lengthx19",
+    "title_lengthx16",
+    "slow_pagex9"
+   ],
+   "avg_words": 940,
+   "why": "schedule",
+   "indexnow": 0
   }
  ],
  "todo_by_priority": [
@@ -194,14 +194,14 @@
   {
    "sev": "low",
    "code": "slow_page",
-   "count": 14,
+   "count": 9,
    "fix": "Slow pages ki images/HTML size kam karo.",
    "example": [
-    "/g/best-eye-makeup-2026/",
-    "/g/best-noise-reducing-headphones-2026/",
-    "/g/best-makeup-brush-set-2026/"
+    "/g/best-laptop-stands-2026/",
+    "/g/best-toys-for-3-year-olds-2026/",
+    "/g/best-stem-toys-2026/"
    ],
-   "detail": "load 3.8s"
+   "detail": "load 3.31s"
   }
  ],
  "adsense_checklist": {
@@ -216,21 +216,21 @@
  "issue_counts": {
   "high": 1,
   "med": 0,
-  "low": 49
+  "low": 44
  },
  "avg_guide_words": 940,
  "slowest": [
   {
-   "url": "/g/best-moisturizer-2026/",
+   "url": "/g/best-toys-for-3-year-olds-2026/",
    "secs": 4.31
   },
   {
-   "url": "/g/best-noise-reducing-headphones-2026/",
-   "secs": 4.3
+   "url": "/g/best-vacuum-cleaner-2026/shark/",
+   "secs": 4.2
   },
   {
-   "url": "/g/best-video-doorbells-2026/",
-   "secs": 3.9
+   "url": "/g/best-hiking-boots-2026/",
+   "secs": 4.1
   }
  ],
  "broken_links": [],
@@ -772,7 +772,7 @@
    "t": 34,
    "d": 135,
    "w": 775,
-   "i": 1,
+   "i": 0,
    "h": "48c6ff5317"
   },
   {
@@ -799,7 +799,7 @@
    "t": 49,
    "d": 88,
    "w": 1098,
-   "i": 1,
+   "i": 0,
    "h": "9ba5c79193"
   },
   {
@@ -808,7 +808,7 @@
    "t": 40,
    "d": 61,
    "w": 732,
-   "i": 2,
+   "i": 1,
    "h": "5a0a6d9ed3"
   },
   {
@@ -817,7 +817,7 @@
    "t": 35,
    "d": 73,
    "w": 748,
-   "i": 1,
+   "i": 0,
    "h": "e0d339f768"
   },
   {
@@ -1123,7 +1123,7 @@
    "t": 55,
    "d": 132,
    "w": 1978,
-   "i": 0,
+   "i": 1,
    "h": "385ac13f84"
   },
   {
@@ -1393,7 +1393,7 @@
    "t": 43,
    "d": 86,
    "w": 1121,
-   "i": 0,
+   "i": 1,
    "h": "d6e503fa35"
   },
   {
@@ -1402,7 +1402,7 @@
    "t": 55,
    "d": 63,
    "w": 965,
-   "i": 1,
+   "i": 2,
    "h": "38aecf7aa9"
   },
   {
@@ -1411,7 +1411,7 @@
    "t": 49,
    "d": 152,
    "w": 878,
-   "i": 0,
+   "i": 1,
    "h": "7329bf6b65"
   },
   {
@@ -1420,7 +1420,7 @@
    "t": 53,
    "d": 154,
    "w": 937,
-   "i": 0,
+   "i": 1,
    "h": "7b21ce4281"
   },
   {
@@ -1429,7 +1429,7 @@
    "t": 51,
    "d": 147,
    "w": 857,
-   "i": 0,
+   "i": 1,
    "h": "08e0585f36"
   },
   {
@@ -1438,7 +1438,7 @@
    "t": 53,
    "d": 69,
    "w": 888,
-   "i": 1,
+   "i": 2,
    "h": "6c4bd1153f"
   },
   {
@@ -1555,7 +1555,7 @@
    "t": 33,
    "d": 143,
    "w": 564,
-   "i": 1,
+   "i": 0,
    "h": "cc742d9960"
   },
   {
@@ -1636,7 +1636,7 @@
    "t": 52,
    "d": 156,
    "w": 573,
-   "i": 1,
+   "i": 0,
    "h": "5df2e23884"
   },
   {
@@ -1663,7 +1663,7 @@
    "t": 44,
    "d": 157,
    "w": 778,
-   "i": 1,
+   "i": 0,
    "h": "2f1dd91b8d"
   },
   {
@@ -2275,7 +2275,7 @@
    "t": 58,
    "d": 155,
    "w": 863,
-   "i": 1,
+   "i": 0,
    "h": "38a09bbc45"
   },
   {
@@ -2617,7 +2617,7 @@
    "t": 45,
    "d": 151,
    "w": 837,
-   "i": 0,
+   "i": 1,
    "h": "cd1395ea3f"
   },
   {
@@ -2635,7 +2635,7 @@
    "t": 59,
    "d": 155,
    "w": 861,
-   "i": 0,
+   "i": 1,
    "h": "ce8374769c"
   },
   {
@@ -2680,7 +2680,7 @@
    "t": 39,
    "d": 153,
    "w": 750,
-   "i": 1,
+   "i": 0,
    "h": "4ff45f3cfa"
   },
   {
@@ -2761,7 +2761,7 @@
    "t": 65,
    "d": 148,
    "w": 1200,
-   "i": 1,
+   "i": 0,
    "h": "3d1a46b29e"
   },
   {
@@ -2779,7 +2779,7 @@
    "t": 32,
    "d": 156,
    "w": 1102,
-   "i": 1,
+   "i": 0,
    "h": "747160199d"
   },
   {
@@ -2815,7 +2815,7 @@
    "t": 40,
    "d": 153,
    "w": 627,
-   "i": 1,
+   "i": 0,
    "h": "f3f9bcba71"
   },
   {
@@ -2833,7 +2833,7 @@
    "t": 45,
    "d": 146,
    "w": 1458,
-   "i": 1,
+   "i": 0,
    "h": "fe577dcea4"
   },
   {
@@ -2842,7 +2842,7 @@
    "t": 69,
    "d": 129,
    "w": 904,
-   "i": 2,
+   "i": 1,
    "h": "77eb59e898"
   },
   {
@@ -2874,34 +2874,6 @@
   }
  ],
  "actions": [
-  {
-   "t": "2026-11-25T10:43:08.353563+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-25T13:44:59.863041+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-25T16:47:13.556092+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
-  {
-   "t": "2026-11-25T19:48:45.332992+00:00",
-   "indexnow": {
-    "submitted": 0,
-    "note": "koi page change nahi"
-   }
-  },
   {
    "t": "2026-11-25T22:50:18.861772+00:00",
    "indexnow": {
@@ -2942,6 +2914,34 @@
    "indexnow": {
     "submitted": 3,
     "http": 200
+   }
+  },
+  {
+   "t": "2026-11-26T17:18:33.443475+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-26T20:20:06.275029+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-26T23:21:35.984066+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
+   }
+  },
+  {
+   "t": "2026-11-27T02:23:12.055419+00:00",
+   "indexnow": {
+    "submitted": 0,
+    "note": "koi page change nahi"
    }
   }
  ]
