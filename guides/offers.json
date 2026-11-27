@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-27T09:27:20Z",
+ "updated": "2026-11-27T11:27:44Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -145,16 +145,14 @@
   ],
   "fitness_outdoor": [
    {
-    "asin": "B0CPL1ZK6Q",
-    "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
-    "pct": 57,
-    "rating": 4.1,
-    "t": 1795771495,
-    "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
-    "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
-    "now": "12.12",
-    "was": "27.99",
-    "reviews": 8353,
+    "asin": "B09LLZNJYV",
+    "name": "CIVAGO 32 oz Insulated Stainless Steel Water Bottle With…",
+    "pct": 25,
+    "rating": 4.6,
+    "t": 1795759757,
+    "img": "https://m.media-amazon.com/images/I/61XntLH2loL.jpg",
+    "link": "https://www.amazon.com/dp/B09LLZNJYV?tag=zoepicks00-20",
+    "reviews": 0,
     "tier": "budget"
    },
    {
@@ -228,6 +226,17 @@
     "tier": "budget"
    },
    {
+    "asin": "B0CTVK7GBM",
+    "name": "Stellar Blade - PlayStation 5",
+    "pct": 57,
+    "rating": 4.8,
+    "t": 1795759687,
+    "img": "https://m.media-amazon.com/images/I/81nygCl+G3L.jpg",
+    "link": "https://www.amazon.com/dp/B0CTVK7GBM?tag=zoepicks00-20",
+    "reviews": 0,
+    "tier": "mid"
+   },
+   {
     "asin": "B0GV7DTQ6G",
     "name": "Ordtop 2.4GHz Wireless Gaming Headset",
     "pct": 60,
@@ -236,19 +245,6 @@
     "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
     "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
     "reviews": 0,
-    "tier": "mid"
-   },
-   {
-    "asin": "B0D2HW7RBF",
-    "name": "Huuger Gaming Desk",
-    "pct": 38,
-    "rating": 4.6,
-    "t": 1795644950,
-    "img": "https://m.media-amazon.com/images/I/81-uv5w6KrL.jpg",
-    "link": "https://www.amazon.com/dp/B0D2HW7RBF?tag=zoepicks00-20",
-    "now": "79.99",
-    "was": "129.99",
-    "reviews": 1431,
     "tier": "premium"
    }
   ],
@@ -1105,35 +1101,6 @@
   ],
   "fitness_outdoor": [
    {
-    "key": "insulated-water-bottles",
-    "label": "Insulated Water Bottles",
-    "items": [
-     {
-      "asin": "B0CPL1ZK6Q",
-      "name": "Ello Pop & Fill Insulated Stainless Steel Water Bottle",
-      "pct": 57,
-      "rating": 4.1,
-      "t": 1795771495,
-      "img": "https://m.media-amazon.com/images/I/51iWg2pSQiL.jpg",
-      "link": "https://www.amazon.com/dp/B0CPL1ZK6Q?tag=zoepicks00-20",
-      "now": "12.12",
-      "was": "27.99",
-      "reviews": 8353,
-      "tier": "budget"
-     },
-     {
-      "asin": "B09LLZNJYV",
-      "name": "CIVAGO 32 oz Insulated Stainless Steel Water Bottle With…",
-      "pct": 25,
-      "rating": 4.6,
-      "t": 1795759757,
-      "img": "https://m.media-amazon.com/images/I/61XntLH2loL.jpg",
-      "link": "https://www.amazon.com/dp/B09LLZNJYV?tag=zoepicks00-20",
-      "reviews": 0
-     }
-    ]
-   },
-   {
     "key": "scooter",
     "label": "Scooter",
     "items": [
@@ -1158,6 +1125,23 @@
       "link": "https://www.amazon.com/dp/B0GLPFSK4D?tag=zoepicks00-20",
       "reviews": 0,
       "tier": "premium"
+     }
+    ]
+   },
+   {
+    "key": "insulated-water-bottles",
+    "label": "Insulated Water Bottles",
+    "items": [
+     {
+      "asin": "B09LLZNJYV",
+      "name": "CIVAGO 32 oz Insulated Stainless Steel Water Bottle With…",
+      "pct": 25,
+      "rating": 4.6,
+      "t": 1795759757,
+      "img": "https://m.media-amazon.com/images/I/61XntLH2loL.jpg",
+      "link": "https://www.amazon.com/dp/B09LLZNJYV?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "budget"
      }
     ]
    },
@@ -1315,7 +1299,7 @@
       "img": "https://m.media-amazon.com/images/I/71hJMJ3e5ZL.jpg",
       "link": "https://www.amazon.com/dp/B0GV7DTQ6G?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "mid"
+      "tier": "premium"
      }
     ]
    },
@@ -1354,69 +1338,6 @@
       "img": "https://m.media-amazon.com/images/I/81uApUmA8RL.jpg",
       "link": "https://www.amazon.com/dp/B0H9Z71PJK?tag=zoepicks00-20",
       "reviews": 0,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "game-console",
-    "label": "Game Console",
-    "items": [
-     {
-      "asin": "B0HR9QBSYM",
-      "name": "Retro Game Console",
-      "pct": 46,
-      "rating": 4.5,
-      "t": 1795645698,
-      "img": "https://m.media-amazon.com/images/I/71-CyDAgg0L.jpg",
-      "link": "https://www.amazon.com/dp/B0HR9QBSYM?tag=zoepicks00-20",
-      "now": "37.99",
-      "was": "69.99",
-      "reviews": 80
-     }
-    ]
-   },
-   {
-    "key": "gaming-desks",
-    "label": "Gaming Desks",
-    "items": [
-     {
-      "asin": "B0HKNH9P53",
-      "name": "OLIXIS 53.1 Inch L Shaped Gaming Desk",
-      "pct": 31,
-      "rating": 4.4,
-      "t": 1795644955,
-      "img": "https://m.media-amazon.com/images/I/81EJ+wuhYnL.jpg",
-      "link": "https://www.amazon.com/dp/B0HKNH9P53?tag=zoepicks00-20",
-      "now": "69.12",
-      "was": "99.99",
-      "reviews": 285,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0D2HW7RBF",
-      "name": "Huuger Gaming Desk",
-      "pct": 38,
-      "rating": 4.6,
-      "t": 1795644950,
-      "img": "https://m.media-amazon.com/images/I/81-uv5w6KrL.jpg",
-      "link": "https://www.amazon.com/dp/B0D2HW7RBF?tag=zoepicks00-20",
-      "now": "79.99",
-      "was": "129.99",
-      "reviews": 1431,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0F6BP7H6Q",
-      "name": "Aheaplus 59\" L Shaped Desk Gaming Desk",
-      "pct": 24,
-      "rating": 4.3,
-      "t": 1795644943,
-      "img": "https://m.media-amazon.com/images/I/81fM283qKKL.jpg",
-      "link": "https://www.amazon.com/dp/B0F6BP7H6Q?tag=zoepicks00-20",
-      "now": "113.98",
-      "was": "149.99",
-      "reviews": 419,
       "tier": "premium"
      }
     ]
@@ -1467,6 +1388,11 @@
     "items": []
    },
    {
+    "key": "game-console",
+    "label": "Game Console",
+    "items": []
+   },
+   {
     "key": "game-controller",
     "label": "Game Controller",
     "items": []
@@ -1479,6 +1405,11 @@
    {
     "key": "gaming-controllers",
     "label": "Gaming Controllers",
+    "items": []
+   },
+   {
+    "key": "gaming-desks",
+    "label": "Gaming Desks",
     "items": []
    },
    {
