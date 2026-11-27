@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-27T05:00:22Z",
+ "updated": "2026-11-27T08:58:07Z",
  "cats": [
   {
    "key": "fashion",
@@ -24,60 +24,9 @@
   }
  ],
  "items": {
-  "fashion": [
-   {
-    "asin": "B0CNYDR78V",
-    "name": "PROJECT CLOUD 100% Genuine Leather Womens Sandals Slides",
-    "pct": 50,
-    "rating": 4.3,
-    "t": 1795692655,
-    "img": "https://m.media-amazon.com/images/I/71Zk8CZeYSL.jpg",
-    "link": "https://www.amazon.com/dp/B0CNYDR78V?tag=zoepicks00-20",
-    "now": "20.10",
-    "was": "39.90",
-    "cat": "fashion"
-   },
-   {
-    "asin": "B0DWSBL3KJ",
-    "name": "BOGG BAG Original Large Tote",
-    "pct": 30,
-    "rating": 4.8,
-    "t": 1795635603,
-    "img": "https://m.media-amazon.com/images/I/51Wfw+yzaeL.jpg",
-    "link": "https://www.amazon.com/dp/B0DWSBL3KJ?tag=zoepicks00-20",
-    "now": "63.00",
-    "was": "90.00",
-    "cat": "fashion"
-   }
-  ],
-  "beauty": [
-   {
-    "asin": "B0G27P2LGS",
-    "name": "Native Scalp Detox Shampoo and Conditioner",
-    "pct": 47,
-    "rating": 4.4,
-    "t": 1795692649,
-    "img": "https://m.media-amazon.com/images/I/71Egt7GGP+L.jpg",
-    "link": "https://www.amazon.com/dp/B0G27P2LGS?tag=zoepicks00-20",
-    "now": "13.84",
-    "was": "25.99",
-    "cat": "beauty"
-   }
-  ],
+  "fashion": [],
+  "beauty": [],
   "home": [
-   {
-    "asin": "B0FF42WG3M",
-    "name": "Tineco Floor One S7 Stretch Steam Cordless Wet Dry Vacuum…",
-    "pct": 43,
-    "rating": 4.4,
-    "t": 1795636932,
-    "img": "https://m.media-amazon.com/images/I/71RhC9mCSdL.jpg",
-    "link": "https://www.amazon.com/dp/B0FF42WG3M?tag=zoepicks00-20",
-    "now": "399.00",
-    "was": "699.00",
-    "deal": "Black Friday Deal",
-    "cat": "home"
-   },
    {
     "asin": "B0C1GQ54QD",
     "name": "Ultra Pain Relief Cooling Pillow",
@@ -100,18 +49,6 @@
     "link": "https://www.amazon.com/dp/B0G6GRZZ7K?tag=zoepicks00-20",
     "now": "26.62",
     "was": "39.95",
-    "cat": "home"
-   },
-   {
-    "asin": "B0BN654VLZ",
-    "name": "MIULEE Natural White Linen Curtains 52x84 Inch Long",
-    "pct": 27,
-    "rating": 4.5,
-    "t": 1795645711,
-    "img": "https://m.media-amazon.com/images/I/81s2sbobabL.jpg",
-    "link": "https://www.amazon.com/dp/B0BN654VLZ?tag=zoepicks00-20",
-    "now": "13.77",
-    "was": "18.95",
     "cat": "home"
    },
    {
