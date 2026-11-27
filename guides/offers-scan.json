@@ -1,6 +1,30 @@
 {
  "v": 1,
- "types": {},
+ "types": {
+  "accessories:wireless-mouse": {
+   "label": "Wireless Mouse",
+   "tries": 1,
+   "items": [
+    {
+     "asin": "B0CZDV63SW",
+     "name": "Wireless Keyboard and Mouse Combo",
+     "pct": 15,
+     "rating": 4.3,
+     "t": 1795808553,
+     "img": "https://m.media-amazon.com/images/I/71wFhku3IZL.jpg",
+     "link": "https://www.amazon.com/dp/B0CZDV63SW?tag=zoepicks00-20",
+     "now": "16.99",
+     "was": "19.99",
+     "deal": "Black Friday Deal",
+     "reviews": 862,
+     "_title": "Wireless Keyboard and Mouse Combo, Reccazr 2.4G Full-Sized Keyboard and Mouse Cordless, 3 DPI Adjustable Mouse, Dual-Syste...",
+     "_price": 16.99
+    }
+   ],
+   "scanned": "2026-11-27T19:42:33.328562+00:00",
+   "via": "sweep"
+  }
+ },
  "essentials": {
   "q": {
    "toilet paper": "2026-11-27T19:29:43.829125+00:00",
@@ -13825,6 +13849,16 @@
     "deal_text": "Black Friday Deal",
     "deal_checked_at": "2026-11-27T19:29:43.829125+00:00"
    }
+  }
+ },
+ "sweeps": {
+  "accessories": {
+   "at": "2026-11-27T19:42:33.328562+00:00",
+   "pages": 5,
+   "cards": 120,
+   "offer_cards": 120,
+   "types_hit": 1,
+   "types": 18
   }
  }
 }
