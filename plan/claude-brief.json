@@ -1,6 +1,6 @@
 {
  "read_first": "Naami Zoe bot ka auto daily brief. Isse padho, phir 'suggested_focus' aur 'seo.todo' ke hisab se site/bot ke agle changes plan karo. Data bot ne khud likha hai - owner ne kuch paste nahi kiya.",
- "generated_at": "2026-11-27T02:40:54.409200+00:00",
+ "generated_at": "2026-11-27T14:48:06.892924+00:00",
  "site": "https://zoepicks.github.io",
  "seo": {
   "score": 94,
@@ -10,9 +10,9 @@
   "issue_counts": {
    "high": 1,
    "med": 0,
-   "low": 44
+   "low": 60
   },
-  "avg_guide_words": 940,
+  "avg_guide_words": 938,
   "todo": [
    {
     "sev": "high",
@@ -23,6 +23,18 @@
      "(site)"
     ],
     "detail": "contact/privacy page pe asli email nahi laga (placeholder dikh raha hai) - AdSense se pehle lagao"
+   },
+   {
+    "sev": "low",
+    "code": "slow_page",
+    "count": 25,
+    "fix": "Slow pages ki images/HTML size kam karo.",
+    "example": [
+     "/g/best-dash-cams-2026/",
+     "/g/best-cordless-drills-2026/",
+     "/g/best-document-scanners-2026/"
+    ],
+    "detail": "load 4.3s"
    },
    {
     "sev": "low",
@@ -47,18 +59,6 @@
      "/g/best-self-cleaning-litter-boxes-2026/"
     ],
     "detail": "title 66 chars (best 25-65)"
-   },
-   {
-    "sev": "low",
-    "code": "slow_page",
-    "count": 9,
-    "fix": "Slow pages ki images/HTML size kam karo.",
-    "example": [
-     "/g/best-laptop-stands-2026/",
-     "/g/best-toys-for-3-year-olds-2026/",
-     "/g/best-stem-toys-2026/"
-    ],
-    "detail": "load 3.31s"
    }
   ],
   "new_issue_types_since_last_brief": [],
@@ -74,41 +74,35 @@
   },
   "indexnow_recent": [
    {
-    "t": "2026-11-26T20:20:06.275029+00:00",
+    "t": "2026-11-27T08:44:37.738831+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 13,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-26T23:21:35.984066+00:00",
+    "t": "2026-11-27T11:46:10.348952+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 8,
+     "http": 200
     }
    },
    {
-    "t": "2026-11-27T02:23:12.055419+00:00",
+    "t": "2026-11-27T14:47:59.349416+00:00",
     "indexnow": {
-     "submitted": 0,
-     "note": "koi page change nahi"
+     "submitted": 2,
+     "http": 200
     }
    }
   ]
  },
  "traffic": {
-  "today_visitors": 1,
-  "today_views": 1,
+  "today_visitors": 0,
+  "today_views": 0,
   "total_visitors": 130,
   "total_views": 867,
   "since": "2026-10-16",
   "last7": [
-   {
-    "day": "2026-11-20",
-    "visitors": 1,
-    "views": 3,
-    "clicks": 0
-   },
    {
     "day": "2026-11-21",
     "visitors": 0,
@@ -144,18 +138,24 @@
     "visitors": 1,
     "views": 1,
     "clicks": 0
+   },
+   {
+    "day": "2026-11-27",
+    "visitors": 0,
+    "views": 0,
+    "clicks": 0
    }
   ]
  },
  "bots": {
   "today": {
-   "info": 130,
-   "warn": 8,
-   "error": 1
+   "info": 88,
+   "warn": 4,
+   "error": 0
   },
   "last7d": {
-   "info": 982,
-   "warn": 58,
+   "info": 995,
+   "warn": 55,
    "error": 2
   },
   "modules_with_errors_7d": [
@@ -172,62 +172,62 @@
    {
     "module": "SEO bot (3h check + 12h report)",
     "errors": 0,
-    "warnings": 50
+    "warnings": 49
    }
   ],
   "collector": {
    "today": {
-    "total": 14,
-    "ok": 8,
-    "failed": 6,
+    "total": 4,
+    "ok": 2,
+    "failed": 2,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
      {
-      "run": 534,
-      "at": "2026-11-27T01:58:10Z",
+      "run": 536,
+      "at": "2026-11-27T07:58:54Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45925563024"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45962201817"
      },
      {
-      "run": 527,
-      "at": "2026-11-26T16:51:42Z",
+      "run": 535,
+      "at": "2026-11-27T05:45:03Z",
       "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45862619106"
-     },
-     {
-      "run": 526,
-      "at": "2026-11-26T16:21:23Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45857987713"
-     },
-     {
-      "run": 525,
-      "at": "2026-11-26T15:51:09Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45853154296"
-     },
-     {
-      "run": 522,
-      "at": "2026-11-26T12:50:10Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45823368105"
-     },
-     {
-      "run": 521,
-      "at": "2026-11-26T06:49:24Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45770863768"
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45947644226"
      }
     ]
    },
    "last7d": {
-    "total": 65,
-    "ok": 28,
-    "failed": 37,
+    "total": 62,
+    "ok": 27,
+    "failed": 35,
     "cancelled": 0,
     "running": 0,
     "failed_runs": [
+     {
+      "run": 492,
+      "at": "2026-11-23T02:17:06Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45099312539"
+     },
+     {
+      "run": 491,
+      "at": "2026-11-22T20:16:17Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45065480394"
+     },
+     {
+      "run": 488,
+      "at": "2026-11-22T11:14:57Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45016371537"
+     },
+     {
+      "run": 487,
+      "at": "2026-11-22T05:16:24Z",
+      "event": "repository_dispatch",
+      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44988681991"
+     },
      {
       "run": 486,
       "at": "2026-11-22T05:14:11Z",
@@ -263,38 +263,22 @@
       "at": "2026-11-21T05:56:38Z",
       "event": "repository_dispatch",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44873192656"
-     },
-     {
-      "run": 476,
-      "at": "2026-11-21T04:34:31Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44866774169"
-     },
-     {
-      "run": 475,
-      "at": "2026-11-20T22:33:55Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44829985479"
-     },
-     {
-      "run": 471,
-      "at": "2026-11-20T10:33:23Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44720227739"
-     },
-     {
-      "run": 470,
-      "at": "2026-11-20T05:56:23Z",
-      "event": "repository_dispatch",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/44684329138"
      }
     ]
    }
   },
   "site_deploys": {
    "today": {
-    "total": 146,
-    "ok": 145,
+    "total": 137,
+    "ok": 137,
+    "failed": 0,
+    "cancelled": 0,
+    "running": 0,
+    "failed_runs": []
+   },
+   "last7d": {
+    "total": 300,
+    "ok": 299,
     "failed": 1,
     "cancelled": 0,
     "running": 0,
@@ -304,33 +288,6 @@
       "at": "2026-11-26T08:12:56Z",
       "event": "push",
       "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45781277773"
-     }
-    ]
-   },
-   "last7d": {
-    "total": 300,
-    "ok": 296,
-    "failed": 3,
-    "cancelled": 1,
-    "running": 0,
-    "failed_runs": [
-     {
-      "run": 4678,
-      "at": "2026-11-26T08:12:56Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45781277773"
-     },
-     {
-      "run": 4588,
-      "at": "2026-11-25T12:39:29Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45615863195"
-     },
-     {
-      "run": 4545,
-      "at": "2026-11-24T12:33:52Z",
-      "event": "push",
-      "url": "https://github.com/zoepicks/zoepicks.github.io/actions/runs/45394719977"
      }
     ]
    }
@@ -357,9 +314,9 @@
     "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
-    "module": "ZOEMISSING",
-    "level": "e",
-    "msg": "zoe missing tick error: GitHub PUT contents/plan/topics.json -> 409: {\"message\":\"is at 29663ca0befcadf42875bbc9c738743e9bca3780 but expected 8d24bf7d950c5dbc3d1"
+    "module": "ZOESEO",
+    "level": "w",
+    "msg": "SEO: 1 HIGH issue(s): contact_email_placeholder"
    },
    {
     "module": "ZOESEO",
@@ -381,13 +338,13 @@
  "content": {
   "live_guides": 287,
   "missing_topics_by_status": {
-   "covered": 32,
-   "queued": 148,
+   "queued": 147,
+   "covered": 33,
    "built": 20
   },
   "missing_new": {
-   "today": 9,
-   "d7": 55,
+   "today": 3,
+   "d7": 58,
    "d30": 162
   },
   "open_topics": []
@@ -732,8 +689,8 @@
     "live_pages_crawled": 293
    },
    "permission": "siteOwner",
-   "resubmitted": true,
-   "put": "ok",
+   "resubmitted": null,
+   "put": null,
    "listed_paths": [
     "https://zoepicks.github.io/sitemap.xml"
    ]
