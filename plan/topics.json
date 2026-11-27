@@ -9258,5 +9258,17 @@
   "status": "todo",
   "priority": 0,
   "source": "buyer-leads"
+ },
+ {
+  "title": "Best Commercial Vacuum Cleaner (2026)",
+  "slug": "best-commercial-vacuum-cleaner-2026",
+  "category": "home_kitchen",
+  "high_ticket": false,
+  "status": "todo",
+  "priority": 0,
+  "source": "buyer-leads",
+  "parent": "best-vacuum-cleaner-2026",
+  "tab": "commercial",
+  "tab_label": "Commercial"
  }
 ]
