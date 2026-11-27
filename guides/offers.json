@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-27T11:27:44Z",
+ "updated": "2026-11-27T15:28:05Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -328,6 +328,18 @@
     "img": "https://m.media-amazon.com/images/I/710096DvMsL.jpg",
     "link": "https://www.amazon.com/dp/B0HPP45LQQ?tag=zoepicks00-20",
     "reviews": 0
+   },
+   {
+    "asin": "B0DSC47H9Z",
+    "name": "Garmin Instinct® 3 Solar",
+    "pct": 36,
+    "rating": 4.6,
+    "t": 1795788878,
+    "img": "https://m.media-amazon.com/images/I/61U+wf0KlJL.jpg",
+    "link": "https://www.amazon.com/dp/B0DSC47H9Z?tag=zoepicks00-20",
+    "now": "289.99",
+    "was": "449.99",
+    "reviews": 516
    }
   ],
   "office_books": [
@@ -1732,6 +1744,24 @@
     ]
    },
    {
+    "key": "smartwatch",
+    "label": "Smartwatch",
+    "items": [
+     {
+      "asin": "B0DSC47H9Z",
+      "name": "Garmin Instinct® 3 Solar",
+      "pct": 36,
+      "rating": 4.6,
+      "t": 1795788878,
+      "img": "https://m.media-amazon.com/images/I/61U+wf0KlJL.jpg",
+      "link": "https://www.amazon.com/dp/B0DSC47H9Z?tag=zoepicks00-20",
+      "now": "289.99",
+      "was": "449.99",
+      "reviews": 516
+     }
+    ]
+   },
+   {
     "key": "iphones",
     "label": "iPhones",
     "items": []
@@ -1739,11 +1769,6 @@
    {
     "key": "smartphones",
     "label": "Smartphones",
-    "items": []
-   },
-   {
-    "key": "smartwatch",
-    "label": "Smartwatch",
     "items": []
    },
    {
