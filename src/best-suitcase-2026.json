@@ -31,9 +31,12 @@
    "asin": "B08BX98J9S",
    "image": "https://m.media-amazon.com/images/I/91v-SHKhO3L.jpg",
    "image_asin": "B08BX98J9S",
-   "amazon_price": "$294.39",
-   "amazon_price_asof": "Nov 2, 2026",
-   "amazon_listing": "Samsonite Omni 2 Hardside 3 Piece Set - Includes Global Carry-On, Medium, & Large Checked "
+   "amazon_price": "$245.00",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Samsonite Omni 2 Hardside 3 Piece Set - Includes Global Carry-On, Medium, & Large Checked ",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 2430,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Away",
@@ -59,12 +62,12 @@
    "asin": "B0DLK7RCLR",
    "image": "https://m.media-amazon.com/images/I/61tOAFRZ0SL.jpg",
    "image_asin": "B0DLK7RCLR",
-   "amazon_price": "$375.00",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$281.00",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Away Large Checked Luggage, 29-inch Lightweight Hardside Spinner Suitcase | Lightweight & ",
    "amazon_rating": "4.5",
-   "amazon_reviews": 283,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 286,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Briggs & Riley",
@@ -87,9 +90,15 @@
    "best_for": "Long‑haul international travelers",
    "skip_if": "You need a lightweight carry‑on",
    "link": "https://www.amazon.com/s?k=Briggs+%26+Riley&tag=zoepicks00-20",
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B09Y2DBZGS",
+   "image": "https://m.media-amazon.com/images/I/71TNqeV7I6L.jpg",
+   "image_asin": "B09Y2DBZGS",
+   "amazon_price": "$729.00",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Briggs & Riley Baseline Essential 22 Inch Softside Carry-On, Black | Softshell Luggage wit"
   }
  ],
  "verdict": {
