@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-28T09:30:15Z",
+ "updated": "2026-11-28T13:30:45Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -135,17 +135,6 @@
     "tier": "budget"
    },
    {
-    "asin": "B091JYX54W",
-    "name": "SWISSWELL Hoodies for Women Winter Fleece Sweatshirt Sherpa…",
-    "pct": 60,
-    "rating": 4.4,
-    "t": 1795846672,
-    "img": "https://m.media-amazon.com/images/I/6158NLrE41L.jpg",
-    "link": "https://www.amazon.com/dp/B091JYX54W?tag=zoepicks00-20",
-    "reviews": 0,
-    "tier": "mid"
-   },
-   {
     "asin": "B0HPP45LQQ",
     "name": "Fitness Tracker, Smart Watches",
     "pct": 62,
@@ -154,6 +143,20 @@
     "img": "https://m.media-amazon.com/images/I/710096DvMsL.jpg",
     "link": "https://www.amazon.com/dp/B0HPP45LQQ?tag=zoepicks00-20",
     "reviews": 0,
+    "tier": "mid"
+   },
+   {
+    "asin": "B0HDSMB23G",
+    "name": "Smart Watches for Women",
+    "pct": 53,
+    "rating": 5.0,
+    "t": 1795809647,
+    "img": "https://m.media-amazon.com/images/I/71a66Z5OYfL.jpg",
+    "link": "https://www.amazon.com/dp/B0HDSMB23G?tag=zoepicks00-20",
+    "now": "46.54",
+    "was": "99.99",
+    "deal": "Black Friday Deal",
+    "reviews": 77,
     "tier": "premium"
    }
   ],
@@ -1556,6 +1559,53 @@
     ]
    },
    {
+    "key": "shampoo",
+    "label": "Shampoo",
+    "items": [
+     {
+      "asin": "B0G27P2LGS",
+      "name": "Native Scalp Detox Shampoo and Conditioner",
+      "pct": 47,
+      "rating": 4.4,
+      "t": 1795865489,
+      "img": "https://m.media-amazon.com/images/I/71Egt7GGP+L.jpg",
+      "link": "https://www.amazon.com/dp/B0G27P2LGS?tag=zoepicks00-20",
+      "now": "13.84",
+      "was": "25.99",
+      "reviews": 0,
+      "tier": "budget"
+     },
+     {
+      "asin": "B0BBBSMV94",
+      "name": "Native Coconut & Vanilla Shampoo and Conditioner Contain…",
+      "pct": 31,
+      "rating": 4.4,
+      "t": 1795808633,
+      "img": "https://m.media-amazon.com/images/I/71r9Zwpw9lL.jpg",
+      "link": "https://www.amazon.com/dp/B0BBBSMV94?tag=zoepicks00-20",
+      "now": "13.85",
+      "was": "20.18",
+      "deal": "Black Friday Deal",
+      "reviews": 16261,
+      "tier": "mid"
+     },
+     {
+      "asin": "B07BHCB9Y2",
+      "name": "PURA D'OR Gold Label Anti-Thinning Biotin Shampoo Regrowth…",
+      "pct": 40,
+      "rating": 4.3,
+      "t": 1795808633,
+      "img": "https://m.media-amazon.com/images/I/81pG3JnW-0L.jpg",
+      "link": "https://www.amazon.com/dp/B07BHCB9Y2?tag=zoepicks00-20",
+      "now": "23.98",
+      "was": "39.99",
+      "deal": "Black Friday Deal",
+      "reviews": 54153,
+      "tier": "premium"
+     }
+    ]
+   },
+   {
     "key": "massage-guns",
     "label": "Massage Guns",
     "items": [
@@ -1647,53 +1697,6 @@
       "was": "59.99",
       "deal": "Black Friday Deal",
       "reviews": 1792,
-      "tier": "premium"
-     }
-    ]
-   },
-   {
-    "key": "shampoo",
-    "label": "Shampoo",
-    "items": [
-     {
-      "asin": "B0BBBSMV94",
-      "name": "Native Coconut & Vanilla Shampoo and Conditioner Contain…",
-      "pct": 31,
-      "rating": 4.4,
-      "t": 1795808633,
-      "img": "https://m.media-amazon.com/images/I/71r9Zwpw9lL.jpg",
-      "link": "https://www.amazon.com/dp/B0BBBSMV94?tag=zoepicks00-20",
-      "now": "13.85",
-      "was": "20.18",
-      "deal": "Black Friday Deal",
-      "reviews": 16261,
-      "tier": "budget"
-     },
-     {
-      "asin": "B0BJNX6R5X",
-      "name": "L'Oreal Paris Elvive Hyaluron Plump Shampoo and Conditioner…",
-      "pct": 26,
-      "rating": 4.7,
-      "t": 1795808633,
-      "img": "https://m.media-amazon.com/images/I/718s-mOM6YL.jpg",
-      "link": "https://www.amazon.com/dp/B0BJNX6R5X?tag=zoepicks00-20",
-      "now": "15.57",
-      "was": "20.98",
-      "reviews": 7507,
-      "tier": "mid"
-     },
-     {
-      "asin": "B07BHCB9Y2",
-      "name": "PURA D'OR Gold Label Anti-Thinning Biotin Shampoo Regrowth…",
-      "pct": 40,
-      "rating": 4.3,
-      "t": 1795808633,
-      "img": "https://m.media-amazon.com/images/I/81pG3JnW-0L.jpg",
-      "link": "https://www.amazon.com/dp/B07BHCB9Y2?tag=zoepicks00-20",
-      "now": "23.98",
-      "was": "39.99",
-      "deal": "Black Friday Deal",
-      "reviews": 54153,
       "tier": "premium"
      }
     ]
@@ -2786,24 +2789,12 @@
       "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
       "pct": 46,
       "rating": 4.3,
-      "t": 1795846969,
+      "t": 1795865495,
       "img": "https://m.media-amazon.com/images/I/51YDmta2EDL.jpg",
       "link": "https://www.amazon.com/dp/B0F4LZ74B3?tag=zoepicks00-20",
       "now": "42.92",
       "was": "79.99",
       "reviews": 8256
-     },
-     {
-      "asin": "B0FXN2PL7C",
-      "name": "Under Armour Women's Charged+ Surge 5 Running Shoes",
-      "pct": 44,
-      "rating": 4.4,
-      "t": 1795846964,
-      "img": "https://m.media-amazon.com/images/I/51YSzXkL4-L.jpg",
-      "link": "https://www.amazon.com/dp/B0FXN2PL7C?tag=zoepicks00-20",
-      "now": "36.55",
-      "was": "65.00",
-      "reviews": 0
      }
     ]
    },
@@ -3841,7 +3832,7 @@
       "name": "CAROTE 26pcs Pots and Pans Set Non Stick Cookware Sets",
       "pct": 41,
       "rating": 4.6,
-      "t": 1795846963,
+      "t": 1795865494,
       "img": "https://m.media-amazon.com/images/I/818LlGeUuzL.jpg",
       "link": "https://www.amazon.com/dp/B0F9WBM8H3?tag=zoepicks00-20",
       "now": "129.96",
@@ -3919,7 +3910,7 @@
       "name": "Ultra Pain Relief Cooling Pillow",
       "pct": 40,
       "rating": 4.3,
-      "t": 1795846963,
+      "t": 1795865494,
       "img": "https://m.media-amazon.com/images/I/71lsENjJ8eL.jpg",
       "link": "https://www.amazon.com/dp/B0C1GQ54QD?tag=zoepicks00-20",
       "now": "35.98",
@@ -4986,7 +4977,7 @@
       "name": "JustFoodForDogs JustFresh Fresh Wet Dog Food or Topper",
       "pct": 40,
       "rating": 4.7,
-      "t": 1795846965,
+      "t": 1795865490,
       "img": "https://m.media-amazon.com/images/I/81LxNqMEomL.jpg",
       "link": "https://www.amazon.com/dp/B0DJ9JVGBT?tag=zoepicks00-20",
       "now": "29.39",
