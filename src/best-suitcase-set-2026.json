@@ -31,7 +31,10 @@
    ],
    "best_for": "Frequent flyers who need a lightweight, expandable carry‑on",
    "skip_if": "You need a built‑in TSA lock",
-   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Hardside+Expandable+Spinner&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Samsonite+Freeform+Hardside+Expandable+Spinner&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 27, 2026",
+   "fill_failed": false
   },
   {
    "name": "Travelpro Platinum Elite Large Check‑In",
@@ -58,7 +61,10 @@
    ],
    "best_for": "Frequent flyers needing a durable checked bag",
    "skip_if": "You prefer a lighter, softside case",
-   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Large+Check%E2%80%91In&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Travelpro+Platinum+Elite+Large+Check%E2%80%91In&tag=zoepicks00-20",
+   "fill_tries": 1,
+   "fill_last": "Nov 27, 2026",
+   "fill_failed": false
   },
   {
    "name": "Away The Large",
@@ -85,7 +91,16 @@
    ],
    "best_for": "Budget travelers wanting a hard‑shell case",
    "skip_if": "You need extensive organization features",
-   "link": "https://www.amazon.com/s?k=Away+The+Large&tag=zoepicks00-20"
+   "link": "https://www.amazon.com/s?k=Away+The+Large&tag=zoepicks00-20",
+   "asin": "B0DLK7RCLR",
+   "image": "https://m.media-amazon.com/images/I/61tOAFRZ0SL.jpg",
+   "image_asin": "B0DLK7RCLR",
+   "amazon_price": "$281.00",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Away Large Checked Luggage, 29-inch Lightweight Hardside Spinner Suitcase | Lightweight & ",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 286,
+   "amazon_rating_asof": "Nov 27, 2026"
   }
  ],
  "verdict": {
