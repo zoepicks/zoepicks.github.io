@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-27T23:25:29Z",
+ "updated": "2026-11-28T01:25:43Z",
  "hot": [
   {
    "asin": "B0HMCY8SLW",
@@ -71,20 +71,6 @@
    "deal": "Black Friday Deal",
    "reviews": 1490,
    "tier": "budget"
-  },
-  {
-   "asin": "B08TPCHYLW",
-   "name": "Lancôme Lash Idôle Mascara",
-   "pct": 73,
-   "rating": 4.4,
-   "t": 1795808633,
-   "img": "https://m.media-amazon.com/images/I/51Nj0hcoopL.jpg",
-   "link": "https://www.amazon.com/dp/B08TPCHYLW?tag=zoepicks00-20",
-   "now": "14.00",
-   "was": "51.85",
-   "deal": "Black Friday Deal",
-   "reviews": 11318,
-   "tier": "mid"
   },
   {
    "asin": "B0HPSZ8T7H",
@@ -166,7 +152,8 @@
    "now": "36.56",
    "was": "100.00",
    "deal": "Black Friday Deal",
-   "reviews": 20661
+   "reviews": 20661,
+   "tier": "premium"
   },
   {
    "asin": "B00JUM4DKC",
@@ -195,20 +182,6 @@
    "deal": "Black Friday Deal",
    "reviews": 1446,
    "tier": "budget"
-  },
-  {
-   "asin": "B09H7LPV13",
-   "name": "Samsonite Omni 2 Hardside 2 Piece Set",
-   "pct": 59,
-   "rating": 4.3,
-   "t": 1795808870,
-   "img": "https://m.media-amazon.com/images/I/91Pm3n0vV9L.jpg",
-   "link": "https://www.amazon.com/dp/B09H7LPV13?tag=zoepicks00-20",
-   "now": "149.00",
-   "was": "360.00",
-   "deal": "Black Friday Deal",
-   "reviews": 1395,
-   "tier": "premium"
   },
   {
    "asin": "B0HBX562Z1",
@@ -349,6 +322,18 @@
    "tier": "budget"
   },
   {
+   "asin": "B007SYT7LO",
+   "name": "Garden of Life Raw Organic Plant Protein Powder",
+   "pct": 54,
+   "rating": 4.2,
+   "t": 1795815452,
+   "img": "https://m.media-amazon.com/images/I/71AKJtUKmaL.jpg",
+   "link": "https://www.amazon.com/dp/B007SYT7LO?tag=zoepicks00-20",
+   "now": "23.54",
+   "was": "50.99",
+   "reviews": 0
+  },
+  {
    "asin": "B0BRDJ28B7",
    "name": "nutribullet® Full-Size Blender Combo",
    "pct": 50,
@@ -387,7 +372,7 @@
    "was": "219.99",
    "deal": "Black Friday Deal",
    "reviews": 19694,
-   "tier": "mid"
+   "tier": "premium"
   },
   {
    "asin": "B0DFY92NDB",
@@ -416,6 +401,20 @@
    "deal": "Black Friday Deal",
    "reviews": 309,
    "tier": "mid"
+  },
+  {
+   "asin": "B07N3WYLKZ",
+   "name": "Vinyl Record Player Turntable",
+   "pct": 50,
+   "rating": 4.3,
+   "t": 1795808792,
+   "img": "https://m.media-amazon.com/images/I/71ntqXVSmKL.jpg",
+   "link": "https://www.amazon.com/dp/B07N3WYLKZ?tag=zoepicks00-20",
+   "now": "29.98",
+   "was": "59.99",
+   "deal": "Black Friday Deal",
+   "reviews": 12718,
+   "tier": "budget"
   }
  ],
  "ess": [
