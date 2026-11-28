@@ -48,7 +48,10 @@
    "amazon_listing": "SMALLRIG UV Filter with Lens Hood Kit for FUJIFILM X100VI / X100V | UV Filter with 99% Lig",
    "tabs": [
     "fujifilm"
-   ]
+   ],
+   "amazon_rating": "4.3",
+   "amazon_reviews": 65,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Sony RX10 V",
@@ -84,11 +87,11 @@
    "image": "https://m.media-amazon.com/images/I/71uQ9dOMNOL.jpg",
    "image_asin": "B0H88HRMJT",
    "amazon_price": "$2,298.00",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Sony RX10 V – Premium 25x high-Zoom Camera with 24–600mm F2.4-4 Super-telephoto Lens, 20.1",
-   "amazon_rating": "4.1",
-   "amazon_reviews": 28,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating": "4",
+   "amazon_reviews": 32,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Sony a7 V",
@@ -120,12 +123,12 @@
    "asin": "B0G4SC4R2P",
    "image": "https://m.media-amazon.com/images/I/81LB0oZdaML.jpg",
    "image_asin": "B0G4SC4R2P",
-   "amazon_price": "$2,898.00",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$2,698.00",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Sony Alpha a7 V Full-Frame Mirrorless Camera Body AI AF 30fps | 5-Axis in-Body Stabilizati",
-   "amazon_rating": "4.7",
-   "amazon_reviews": 117,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating": "4.6",
+   "amazon_reviews": 124,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Sony ZV‑E1",
@@ -162,9 +165,12 @@
    "asin": "B0GKFQSJVV",
    "image": "https://m.media-amazon.com/images/I/81lJmtE8EFL.jpg",
    "image_asin": "B0GKFQSJVV",
-   "amazon_price": "$199.00",
-   "amazon_price_asof": "Nov 2, 2026",
-   "amazon_listing": "VILTROX AF 14mm F4.0 Full Frame Ultra Wide Angle Lens for Sony E-Mount | F4.0 Ultra Wide A"
+   "amazon_price": "$159.20",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "VILTROX AF 14mm F4.0 Full Frame Ultra Wide Angle Lens for Sony E-Mount | F4.0 Ultra Wide A",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 160,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "DJI Osmo Action 6",
@@ -200,11 +206,11 @@
    "image": "https://m.media-amazon.com/images/I/71DbE2888ZL.jpg",
    "image_asin": "B0FNMP8LZX",
    "amazon_price": "$426.00",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "DJI Osmo Action 6 Essential Combo, 8K Waterproof Action Camera | 1/1.1\" Square Sensor, Var",
    "amazon_rating": "4.5",
-   "amazon_reviews": 2461,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 2575,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Canon PowerShot V10",
@@ -235,9 +241,18 @@
    "tabs": [
     "vlogging"
    ],
-   "fill_tries": 1,
+   "fill_tries": 0,
    "fill_last": "Nov 2, 2026",
-   "fill_failed": false
+   "fill_failed": false,
+   "asin": "B0C549K894",
+   "image": "https://m.media-amazon.com/images/I/61x5Fp4-1TL.jpg",
+   "image_asin": "B0C549K894",
+   "amazon_price": "$299.00",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Canon PowerShot V10 Compact Vlogging Camera | 1\" CMOS Sensor, 4K Video Streaming, Built‑in",
+   "amazon_rating": "4.2",
+   "amazon_reviews": 334,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Insta360 Luna Ultra",
@@ -270,8 +285,11 @@
    "image": "https://m.media-amazon.com/images/I/517ODiEWpfL.jpg",
    "image_asin": "B0GY8BS2FS",
    "amazon_price": "$969.99",
-   "amazon_price_asof": "Nov 2, 2026",
-   "amazon_listing": "Insta360 Luna Ultra Creator Bundle - 8K Vlogging Camera with 15× Zoom | Dual Leica Lenses,"
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Insta360 Luna Ultra Creator Bundle - 8K Vlogging Camera with 15× Zoom | Dual Leica Lenses,",
+   "amazon_rating": "4.5",
+   "amazon_reviews": 849,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Pentax K-3 Mark III",
@@ -306,8 +324,8 @@
    "tabs": [
     "pentax"
    ],
-   "fill_tries": 1,
-   "fill_last": "Nov 2, 2026",
+   "fill_tries": 2,
+   "fill_last": "Nov 27, 2026",
    "fill_failed": false
   },
   {
@@ -338,12 +356,12 @@
    "asin": "B01FRS8S4E",
    "image": "https://m.media-amazon.com/images/I/41hzcDUACeL.jpg",
    "image_asin": "B01FRS8S4E",
-   "amazon_price": "$318.81",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$334.54",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Bower 500mm Telephoto Lens for Pentax K2000, K1000, K200D, K-500, K100D, K-50, K-30, K-20D",
    "amazon_rating": "5",
    "amazon_reviews": 2,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Pentax 17 Film Camera",
@@ -379,11 +397,11 @@
    "image": "https://m.media-amazon.com/images/I/816xj5iZj3L.jpg",
    "image_asin": "B0D7C449ZB",
    "amazon_price": "$496.95",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "PENTAX 17 35mm Film Camera, Half-Frame Format | Captures up to 72 Images per roll , Vertic",
    "amazon_rating": "4.4",
-   "amazon_reviews": 68,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 72,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Garmin Dash Cam Live",
@@ -420,11 +438,11 @@
    "image": "https://m.media-amazon.com/images/I/710zWUwHXML.jpg",
    "image_asin": "B0BPJL4KPY",
    "amazon_price": "$389.95",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Garmin Dash Cam™ Live, 24/7 Live View, Always-Connected Dash Cam",
-   "amazon_rating": "3.6",
-   "amazon_reviews": 121,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating": "3.7",
+   "amazon_reviews": 218,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Viofo A329S Dash Cam",
@@ -459,12 +477,12 @@
    "asin": "B0FFT3YBH7",
    "image": "https://m.media-amazon.com/images/I/61mE3dGBFWL.jpg",
    "image_asin": "B0FFT3YBH7",
-   "amazon_price": "$399.99",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$373.99",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "VIOFO A329S 4K 60FPS Dash Cam Front and Rear, STARVIS 2 HDR, Wi-Fi 6 | 4K Front + 2K Rear,",
-   "amazon_rating": "4.4",
-   "amazon_reviews": 324,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating": "4.3",
+   "amazon_reviews": 340,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Vueroid S1 4K Infinite Dash Cam",
@@ -500,12 +518,12 @@
    "asin": "B0DXF8CYNY",
    "image": "https://m.media-amazon.com/images/I/81mKYq6gmzL.jpg",
    "image_asin": "B0DXF8CYNY",
-   "amazon_price": "$429.99",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$239.99",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Vueroid S1 4K Infinite 4K 60FPS Dash Cam, Front and Rear, STARVIS 2, HDR | 4K+1440P Car Da",
-   "amazon_rating": "4.4",
-   "amazon_reviews": 30,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating": "4.2",
+   "amazon_reviews": 32,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Fujifilm X‑T5",
@@ -530,7 +548,13 @@
    "link": "https://www.amazon.com/s?k=Fujifilm+X%E2%80%91T5&tag=zoepicks00-20",
    "tabs": [
     "fujifilm"
-   ]
+   ],
+   "asin": "B0G1LMLTB7",
+   "image": "https://m.media-amazon.com/images/I/71Do4Jo+M2L.jpg",
+   "image_asin": "B0G1LMLTB7",
+   "amazon_price": "$98.90",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Godox IT32 TTL Camera Flash+X5F Trigger for Fujifilm X-T5, X-S20, X-T3,X-T4 | X-T2, X-Pro2"
   },
   {
    "name": "Fujifilm Instax Mini 99",
@@ -561,7 +585,10 @@
    "link": "https://www.amazon.com/s?k=Fujifilm+Instax+Mini+99&tag=zoepicks00-20",
    "tabs": [
     "instant"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 27, 2026",
+   "fill_failed": false
   },
   {
    "name": "Fujifilm Instax Mini 13",
@@ -591,7 +618,16 @@
    "link": "https://www.amazon.com/s?k=Fujifilm+Instax+Mini+13&tag=zoepicks00-20",
    "tabs": [
     "instant"
-   ]
+   ],
+   "asin": "B0H3QLHGZS",
+   "image": "https://m.media-amazon.com/images/I/71322nadnlL.jpg",
+   "image_asin": "B0H3QLHGZS",
+   "amazon_price": "$159.95",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Fujifilm Instax Mini 13 Instant Camera Dreamy Purple + Fuji Film Value Pack (40 Sheets) + ",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 97,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Fujifilm Instax Mini Evo",
@@ -621,7 +657,16 @@
    "link": "https://www.amazon.com/s?k=Fujifilm+Instax+Mini+Evo&tag=zoepicks00-20",
    "tabs": [
     "instant"
-   ]
+   ],
+   "asin": "B09M4DKBQ9",
+   "image": "https://m.media-amazon.com/images/I/71lnCG5o9vL.jpg",
+   "image_asin": "B09M4DKBQ9",
+   "amazon_price": "$199.95",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Fujifilm Instax Mini EVO Instant Camera",
+   "amazon_rating": "4.6",
+   "amazon_reviews": 2077,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Polaroid Flip",
@@ -650,7 +695,16 @@
    "link": "https://www.amazon.com/s?k=Polaroid+Flip&tag=zoepicks00-20",
    "tabs": [
     "instant"
-   ]
+   ],
+   "asin": "B0GNBG82VJ",
+   "image": "https://m.media-amazon.com/images/I/71oKG3U7jIL.jpg",
+   "image_asin": "B0GNBG82VJ",
+   "amazon_price": "$212.49",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Polaroid Flip Instant Camera + Color Film Bundle (16 Photos Included) - White (6652) - Hyp",
+   "amazon_rating": "4.1",
+   "amazon_reviews": 249,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Fujifilm Instax Mini 12",
@@ -682,7 +736,16 @@
    "link": "https://www.amazon.com/s?k=Fujifilm+Instax+Mini+12&tag=zoepicks00-20",
    "tabs": [
     "instant"
-   ]
+   ],
+   "asin": "B0HB74BLLB",
+   "image": "https://m.media-amazon.com/images/I/81EHdyPK+BL.jpg",
+   "image_asin": "B0HB74BLLB",
+   "amazon_price": "$79.00",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "FUJIFILM Instax Mini 12 Instant Camera Holiday Bundle 2026, Mint Green | Instant film came",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 32,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Intrepid Large Format Camera",
@@ -713,7 +776,10 @@
    "link": "https://www.amazon.com/s?k=Intrepid+Large+Format+Camera&tag=zoepicks00-20",
    "tabs": [
     "large-format"
-   ]
+   ],
+   "fill_tries": 1,
+   "fill_last": "Nov 27, 2026",
+   "fill_failed": false
   },
   {
    "name": "Olympus PEN-F",
@@ -742,7 +808,13 @@
    "link": "https://www.amazon.com/s?k=Olympus+PEN-F&tag=zoepicks00-20",
    "tabs": [
     "large-format"
-   ]
+   ],
+   "asin": "B01AW10GM8",
+   "image": "https://m.media-amazon.com/images/I/71VpbW3nAfL.jpg",
+   "image_asin": "B01AW10GM8",
+   "amazon_rating": "4.4",
+   "amazon_reviews": 117,
+   "amazon_rating_asof": "Nov 27, 2026"
   }
  ],
  "verdict": {
