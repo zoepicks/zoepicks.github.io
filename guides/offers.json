@@ -1,6 +1,6 @@
 {
  "v": 3,
- "updated": "2026-11-27T23:28:59Z",
+ "updated": "2026-11-28T01:29:15Z",
  "fresh_h": 36,
  "cats": {
   "accessories": [
@@ -2632,6 +2632,17 @@
     "label": "Dishwasher",
     "items": [
      {
+      "asin": "B00J9FFP98",
+      "name": "Rachael Ray Cucina Dishwasher-Safe Hard-Anodized Pots and…",
+      "pct": 60,
+      "rating": 4.6,
+      "t": 1795759351,
+      "img": "https://m.media-amazon.com/images/I/71yDjqc9QRL.jpg",
+      "link": "https://www.amazon.com/dp/B00J9FFP98?tag=zoepicks00-20",
+      "reviews": 0,
+      "tier": "premium"
+     },
+     {
       "asin": "B0DC11YH4J",
       "name": "CHEFMAN 2 Qt Mini Air Fryer",
       "pct": 33,
@@ -2642,33 +2653,7 @@
       "now": "39.99",
       "was": "59.99",
       "deal": "Black Friday Deal",
-      "reviews": 30288,
-      "tier": "budget"
-     },
-     {
-      "asin": "B00J9FFP98",
-      "name": "Rachael Ray Cucina Dishwasher-Safe Hard-Anodized Pots and…",
-      "pct": 60,
-      "rating": 4.6,
-      "t": 1795759351,
-      "img": "https://m.media-amazon.com/images/I/71yDjqc9QRL.jpg",
-      "link": "https://www.amazon.com/dp/B00J9FFP98?tag=zoepicks00-20",
-      "reviews": 0,
-      "tier": "mid"
-     },
-     {
-      "asin": "B0CLHLDB84",
-      "name": "HexClad 5.5 Qt Hybrid Nonstick Deep Sauté Frying Pan & Lid",
-      "pct": 35,
-      "rating": 4.4,
-      "t": 1795809408,
-      "img": "https://m.media-amazon.com/images/I/813BqB8iEzL.jpg",
-      "link": "https://www.amazon.com/dp/B0CLHLDB84?tag=zoepicks00-20",
-      "now": "135.84",
-      "was": "209.00",
-      "deal": "Black Friday Deal",
-      "reviews": 6348,
-      "tier": "premium"
+      "reviews": 30288
      }
     ]
    },
