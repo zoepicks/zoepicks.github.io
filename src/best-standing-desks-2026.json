@@ -40,11 +40,11 @@
    "image": "https://m.media-amazon.com/images/I/61OzW5CYDDL.jpg",
    "image_asin": "B07RS4TPVW",
    "amazon_price": "$808.00",
-   "amazon_price_asof": "Nov 2, 2026",
-   "amazon_listing": "UPLIFT DESK V3 2-Leg Walnut Laminate Wood Standing Desk – Adjustable Height, Advanced 1-To",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "UPLIFT V3 Laminate Electric Standing Desks, Adjustable Desk with Keypad | Adjustable Heigh",
    "amazon_rating": "4.5",
-   "amazon_reviews": 68,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_reviews": 70,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Branch Duo Standing Desk",
@@ -70,12 +70,12 @@
    "asin": "B0C3WND2QB",
    "image": "https://m.media-amazon.com/images/I/21a2mO7Y+HL.jpg",
    "image_asin": "B0C3WND2QB",
-   "amazon_price": "$549.00",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$466.65",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "Branch Duo Standing Desk, Adjustable Standing Desk with 20\" Range | OLED Control Panel, Fr",
    "amazon_rating": "4.5",
    "amazon_reviews": 34,
-   "amazon_rating_asof": "Nov 2, 2026"
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "FlexiSpot E6 MAX Bamboo Standing Desk",
@@ -107,12 +107,12 @@
    "link": "https://www.amazon.com/s?k=FlexiSpot+E6+MAX+Bamboo+Standing+Desk&tag=zoepicks00-20",
    "benefit": "Picture a desk you keep for a decade: the long guarantee reflects that. The four memory buttons recall your heights, and the dual motors run quietly. The 10-year guarantee on the frame and motor is the main reason to choose it. The catch: the bamboo top is a fixed 55 x 28 inches.",
    "asin": "B0CWGJCDXX",
-   "amazon_price": "$398.99",
-   "amazon_price_asof": "Nov 2, 2026",
+   "amazon_price": "$341.99",
+   "amazon_price_asof": "Nov 27, 2026",
    "amazon_listing": "FLEXISPOT E6 MAX 55\" x 28\" Bamboo Standing Desk, Dual Motor 3-Stage | Heavy-Duty 352lbs, S",
    "amazon_rating": "4.6",
-   "amazon_reviews": 320,
-   "amazon_rating_asof": "Nov 2, 2026",
+   "amazon_reviews": 664,
+   "amazon_rating_asof": "Nov 27, 2026",
    "image": "https://m.media-amazon.com/images/I/91jC02GjAIL.jpg",
    "image_asin": "B0CWGJCDXX",
    "desc": "A dual-motor bamboo standing desk with four memory buttons. It does not have a built-in power column."
@@ -147,9 +147,9 @@
    "tabs": [
     "loft-bed-with"
    ],
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Nov 27, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Eva Chen West Elm Collaboration Loft Bed",
@@ -182,9 +182,9 @@
    "tabs": [
     "loft-bed-with"
    ],
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Nov 27, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Secretlab Magnus Pro Standing Desk",
@@ -216,9 +216,9 @@
    "tabs": [
     "computer"
    ],
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Nov 27, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Vari Standing Desk",
@@ -252,7 +252,13 @@
    ],
    "asin": "B0CT94PMSR",
    "image": "https://m.media-amazon.com/images/I/71ce1lXe2wL.jpg",
-   "image_asin": "B0CT94PMSR"
+   "image_asin": "B0CT94PMSR",
+   "amazon_price": "$629.30",
+   "amazon_price_asof": "Nov 27, 2026",
+   "amazon_listing": "Vari ComfortEdge Electric Standing Desk, 60x30, Reclaimed Wood/Slate | Sloped Front Edge, ",
+   "amazon_rating": "4.8",
+   "amazon_reviews": 243,
+   "amazon_rating_asof": "Nov 27, 2026"
   },
   {
    "name": "Branch Standing Desk",
@@ -284,9 +290,9 @@
    "tabs": [
     "computer"
    ],
-   "fill_tries": 3,
+   "fill_tries": 4,
    "fill_last": "Nov 27, 2026",
-   "fill_failed": false
+   "fill_failed": true
   },
   {
    "name": "Songmics Adjustable Bamboo Lap Desk",
@@ -315,8 +321,8 @@
    "tabs": [
     "over-bed"
    ],
-   "fill_tries": 2,
-   "fill_last": "Nov 26, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 27, 2026",
    "fill_failed": false
   },
   {
@@ -348,8 +354,8 @@
    "tabs": [
     "over-bed"
    ],
-   "fill_tries": 2,
-   "fill_last": "Nov 26, 2026",
+   "fill_tries": 3,
+   "fill_last": "Nov 27, 2026",
    "fill_failed": false
   }
  ],
